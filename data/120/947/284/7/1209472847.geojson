@@ -1,0 +1,61 @@
+{
+  "id": 1209472847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.86667,26.21667,31.86667,26.21667",
+    "geom:latitude":26.21667,
+    "geom:longitude":31.86667,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Nag' el-'Alawna",
+    "gn:country_code":"EG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351659,
+    "gn:latitude":26.21667,
+    "gn:longitude":31.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2019 el-\u2019Al\u00e2wna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351659
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6721d3434040099f98647b3739285692",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209472847
+        }
+    ],
+    "wof:id":1209472847,
+    "wof:lastmodified":1536286027,
+    "wof:name":"Nag' el-'Alawna",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.866670000000006,
+    26.21667,
+    31.866670000000006,
+    26.21667
+],
+  "geometry": {"coordinates":[31.86667000000001,26.21667],"type":"Point"}
+}

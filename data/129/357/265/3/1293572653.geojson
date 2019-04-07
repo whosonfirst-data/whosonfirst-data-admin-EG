@@ -1,0 +1,75 @@
+{
+  "id": 1293572653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68301,30.66965,31.68301,30.66965",
+    "geom:latitude":30.66965,
+    "geom:longitude":31.68301,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Qaramus",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360601,
+    "gn:latitude":30.66965,
+    "gn:longitude":31.68301,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al Qar\u0101m\u016b\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0642\u0631\u0627\u0645\u0648\u0635"
+    ],
+    "name:und_x_variant":[
+        "El-Qar\u00e2mus",
+        "Al Qar\u0101m\u016b\u015f",
+        "\u2018Izbat al Qar\u0101m\u016b\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360601
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f0196870f68573a96fec050622c35a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1293572653,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293572653,
+    "wof:lastmodified":1537620886,
+    "wof:name":"`Izbat al Qaramus",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68301,
+    30.66965,
+    31.68301,
+    30.66965
+],
+  "geometry": {"coordinates":[31.68301,30.66965],"type":"Point"}
+}

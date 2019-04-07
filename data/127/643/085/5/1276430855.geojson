@@ -1,0 +1,76 @@
+{
+  "id": 1276430855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09656,30.53036,31.09656,30.53036",
+    "geom:latitude":30.53036,
+    "geom:longitude":31.09656,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tah Shubra",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347645,
+    "gn:latitude":30.53036,
+    "gn:longitude":31.09656,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"\u0162ah Shubr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0647 \u0634\u0628\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e6c\u00e2ha Shubra",
+        "\u1e6c\u0101h Shubra",
+        "\u0162a\u1e29\u0101\u2019 Shubr\u0101",
+        "\u0162ah Shubr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092023671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347645
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"af7392b4be2093ce98539f8d137d1c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023671,
+            "locality_id":1276430855,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1276430855,
+    "wof:lastmodified":1537620563,
+    "wof:name":"Tah Shubra",
+    "wof:parent_id":1092023671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09656,
+    30.53036,
+    31.09656,
+    30.53036
+],
+  "geometry": {"coordinates":[31.09656,30.53036],"type":"Point"}
+}

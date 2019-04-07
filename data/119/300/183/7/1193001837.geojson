@@ -1,0 +1,73 @@
+{
+  "id": 1193001837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6345,30.61486,31.6345,30.61486",
+    "geom:latitude":30.61486,
+    "geom:longitude":31.6345,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Wahbah Khalil",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068918,
+    "gn:latitude":30.61486,
+    "gn:longitude":31.6345,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Wahbah Khal\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0648\u0647\u0628\u0629 \u062d\u0644\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Wahbah Khal\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068918
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"439ea52b1fd722eafe692c27c5a3584a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021319,
+            "locality_id":1193001837,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1193001837,
+    "wof:lastmodified":1537621167,
+    "wof:name":"`Izbat Wahbah Khalil",
+    "wof:parent_id":1092021319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6345,
+    30.61486,
+    31.6345,
+    30.61486
+],
+  "geometry": {"coordinates":[31.6345,30.61486],"type":"Point"}
+}

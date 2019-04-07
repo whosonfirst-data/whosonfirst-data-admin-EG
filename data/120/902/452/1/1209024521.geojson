@@ -1,0 +1,65 @@
+{
+  "id": 1209024521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84711,28.67754,30.84711,28.67754",
+    "geom:latitude":28.67754,
+    "geom:longitude":30.84711,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mayyanah al Waqf",
+    "gn:country_code":"EG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352580,
+    "gn:latitude":28.67754,
+    "gn:longitude":30.84711,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mayy\u0101nah al Waqf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u00eey\u00e2na el Waqf",
+        "Mayy\u0101nah al Waqf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352580
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dc04637360006005a484f3c6e12cfa15",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209024521
+        }
+    ],
+    "wof:id":1209024521,
+    "wof:lastmodified":1537620656,
+    "wof:name":"Mayyanah al Waqf",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84711,
+    28.67754,
+    30.84711,
+    28.67754
+],
+  "geometry": {"coordinates":[30.84711,28.67754],"type":"Point"}
+}

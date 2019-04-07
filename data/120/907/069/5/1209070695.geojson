@@ -1,0 +1,68 @@
+{
+  "id": 1209070695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20558,31.29126,31.20558,31.29126",
+    "geom:latitude":31.29126,
+    "geom:longitude":31.20558,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Muhammad Abu `Ujayzi",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419830,
+    "gn:latitude":31.29126,
+    "gn:longitude":31.20558,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat Mu\u1e29ammad Ab\u016b \u2018Ujayz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u062d\u0645\u062f \u0623\u0628\u0648 \u0639\u062c\u064a\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mu\u1e29ammad Ab\u016b \u2018Ijayz\u012b",
+        "\u2018Izbat Mu\u1e29ammad Ab\u016b \u2018Ujayz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419830
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a4db278291aa2b2ba94ba5d7ecab7478",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209070695
+        }
+    ],
+    "wof:id":1209070695,
+    "wof:lastmodified":1537621062,
+    "wof:name":"`Izbat Muhammad Abu `Ujayzi",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20558,
+    31.29126,
+    31.20558,
+    31.29126
+],
+  "geometry": {"coordinates":[31.20558,31.29126],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293476127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6,24.5,30.6,24.5",
+    "geom:latitude":24.5,
+    "geom:longitude":30.6,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"`Ezbet `Ain",
+    "gn:country_code":"EG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357638,
+    "gn:latitude":24.5,
+    "gn:longitude":30.6,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet \u2018Ain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357638
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"37beff060e3ff8e8ed6db6c0e5cd1f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020223,
+            "locality_id":1293476127,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1293476127,
+    "wof:lastmodified":1536803426,
+    "wof:name":"`Ezbet `Ain",
+    "wof:parent_id":1092020223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6,
+    24.5,
+    30.6,
+    24.5
+],
+  "geometry": {"coordinates":[30.6,24.5],"type":"Point"}
+}

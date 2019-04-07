@@ -1,0 +1,75 @@
+{
+  "id": 1260054193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70603,31.2002,30.70603,31.2002",
+    "geom:latitude":31.2002,
+    "geom:longitude":30.70603,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kawm Abu Tahun",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357497,
+    "gn:latitude":31.2002,
+    "gn:longitude":30.70603,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kawm Ab\u016b \u0162\u0101\u1e29\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645 \u0623\u0628\u0648 \u0637\u0627\u062d\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet el Gaw\u00e2ysha",
+        "Kawm Ab\u016b \u0162\u0101\u1e29\u016bn",
+        "Kawm Ab\u016b \u1e6c\u0101\u1e25\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357497
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8e752db0f54527e9893250320d8f8643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1260054193,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1260054193,
+    "wof:lastmodified":1537620796,
+    "wof:name":"Kawm Abu Tahun",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70603,
+    31.2002,
+    30.70603,
+    31.2002
+],
+  "geometry": {"coordinates":[30.70603,31.2002],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310316537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35032,30.37746,30.35032,30.37746",
+    "geom:latitude":30.37746,
+    "geom:longitude":30.35032,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Madinat Wadi an Natrun",
+    "gn:country_code":"EG",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434170,
+    "gn:latitude":30.37746,
+    "gn:longitude":30.35032,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Mad\u012bnat W\u0101d\u012b an Na\u0163r\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0648\u0627\u062f\u064a \u0627\u0644\u0646\u0637\u0631\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mad\u012bnat W\u0101d\u012b an Na\u0163r\u016bn",
+        "W\u0101d\u012b an Na\u1e6dr\u016bn City"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092022959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434170
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a1b90d25a01b215dc853938154826da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022959,
+            "locality_id":1310316537,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310316537,
+    "wof:lastmodified":1537621130,
+    "wof:name":"Madinat Wadi an Natrun",
+    "wof:parent_id":1092022959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35032,
+    30.37746,
+    30.35032,
+    30.37746
+],
+  "geometry": {"coordinates":[30.35032,30.37746],"type":"Point"}
+}

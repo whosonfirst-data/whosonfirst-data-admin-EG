@@ -1,0 +1,61 @@
+{
+  "id": 1209517329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46401,30.85824,30.46401,30.85824",
+    "geom:latitude":30.85824,
+    "geom:longitude":30.46401,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Naj` Sa`d",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433988,
+    "gn:latitude":30.85824,
+    "gn:longitude":30.46401,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Naj\u2018 Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433988
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c30a8ee154787686a08e509ae22258ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209517329
+        }
+    ],
+    "wof:id":1209517329,
+    "wof:lastmodified":1536284691,
+    "wof:name":"Naj` Sa`d",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46401,
+    30.85824,
+    30.46401,
+    30.85824
+],
+  "geometry": {"coordinates":[30.46401,30.85824],"type":"Point"}
+}

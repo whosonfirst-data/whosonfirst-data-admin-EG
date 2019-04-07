@@ -1,0 +1,73 @@
+{
+  "id": 1293296865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.54089,30.82022,31.54089,30.82022",
+    "geom:latitude":30.82022,
+    "geom:longitude":31.54089,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Ibrahim",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779578,
+    "gn:latitude":30.82022,
+    "gn:longitude":31.54089,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Izbat Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0625\u0628\u0631\u0627\u0647\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ibr\u0101h\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779578
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e222ecc623ff50965480a3063751e0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1293296865,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293296865,
+    "wof:lastmodified":1537621153,
+    "wof:name":"`Izbat Ibrahim",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.54089,
+    30.82022000000001,
+    31.54089,
+    30.82022000000001
+],
+  "geometry": {"coordinates":[31.54089,30.82022000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327210197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17453,27.24491,31.17453,27.24491",
+    "geom:latitude":27.24491,
+    "geom:longitude":31.17453,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kawm Abu Shil",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353479,
+    "gn:latitude":27.24491,
+    "gn:longitude":31.17453,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm Ab\u016b Sh\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kawm Ab\u016b Sh\u012bl",
+        "K\u00f4m Abu Shil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353479
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dd69c8213af56e6c81341af9b9cede96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014043,
+            "locality_id":1327210197,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1327210197,
+    "wof:lastmodified":1537620672,
+    "wof:name":"Kawm Abu Shil",
+    "wof:parent_id":1092014043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17453,
+    27.24491,
+    31.17453,
+    27.24491
+],
+  "geometry": {"coordinates":[31.17453,27.24491],"type":"Point"}
+}

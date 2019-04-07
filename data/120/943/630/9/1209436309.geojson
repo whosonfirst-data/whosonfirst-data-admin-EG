@@ -1,0 +1,68 @@
+{
+  "id": 1209436309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82061,30.46316,31.82061,30.46316",
+    "geom:latitude":30.46316,
+    "geom:longitude":31.82061,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Qaryah Raqm Sittah",
+    "gn:country_code":"EG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415747,
+    "gn:latitude":30.46316,
+    "gn:longitude":31.82061,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Qaryah Raqm Sittah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 \u0666"
+    ],
+    "name:und_x_variant":[
+        "Qaryah No. 6",
+        "Qaryah Number Six"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415747
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ffef06302437eef92479d50b1c0cbf5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209436309
+        }
+    ],
+    "wof:id":1209436309,
+    "wof:lastmodified":1537620995,
+    "wof:name":"Qaryah Raqm Sittah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82061,
+    30.46316,
+    31.82061,
+    30.46316
+],
+  "geometry": {"coordinates":[31.82061,30.46316],"type":"Point"}
+}

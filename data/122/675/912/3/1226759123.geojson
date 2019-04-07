@@ -1,0 +1,71 @@
+{
+  "id": 1226759123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37811,30.69247,30.37811,30.69247",
+    "geom:latitude":30.69247,
+    "geom:longitude":30.37811,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Imam al Ghazali",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408931,
+    "gn:latitude":30.69247,
+    "gn:longitude":30.37811,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Im\u0101m al Ghaz\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Im\u00e2m el-Ghaz\u00e2li",
+        "Al Im\u0101m al Ghaz\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408931
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"aabb5ff75405f973de461a6ba7d1b335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1226759123,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226759123,
+    "wof:lastmodified":1537620967,
+    "wof:name":"Al Imam al Ghazali",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37811,
+    30.69247,
+    30.37811,
+    30.69247
+],
+  "geometry": {"coordinates":[30.37811,30.69247],"type":"Point"}
+}

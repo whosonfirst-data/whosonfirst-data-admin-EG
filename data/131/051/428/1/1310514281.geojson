@@ -1,0 +1,67 @@
+{
+  "id": 1310514281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05204,27.31464,31.05204,27.31464",
+    "geom:latitude":27.31464,
+    "geom:longitude":31.05204,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nazlat al Harajat",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444206,
+    "gn:latitude":27.31464,
+    "gn:longitude":31.05204,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Nazlat al \u1e28araj\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444206
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"11ba21669bd11c5b6c368c0e224bce01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1310514281,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1310514281,
+    "wof:lastmodified":1536904332,
+    "wof:name":"Nazlat al Harajat",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05204,
+    27.31464,
+    31.05204,
+    27.31464
+],
+  "geometry": {"coordinates":[31.05204,27.31464],"type":"Point"}
+}

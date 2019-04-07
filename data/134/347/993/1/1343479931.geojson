@@ -1,0 +1,70 @@
+{
+  "id": 1343479931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00142,30.63835,31.00142,30.63835",
+    "geom:latitude":30.63835,
+    "geom:longitude":31.00142,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bitibs",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358734,
+    "gn:latitude":30.63835,
+    "gn:longitude":31.00142,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Bitibs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062a\u0628\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092024543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358734
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bf1435c0ecf80ceb4a3241c1bd90661b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024543,
+            "locality_id":1343479931,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1343479931,
+    "wof:lastmodified":1537620819,
+    "wof:name":"Bitibs",
+    "wof:parent_id":1092024543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00142,
+    30.63835,
+    31.00142,
+    30.63835
+],
+  "geometry": {"coordinates":[31.00142,30.63835],"type":"Point"}
+}

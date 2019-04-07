@@ -1,0 +1,65 @@
+{
+  "id": 1209088469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9,24.11667,32.9,24.11667",
+    "geom:latitude":24.11667,
+    "geom:longitude":32.9,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Naj` Jami` al Jazirah",
+    "gn:country_code":"EG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351421,
+    "gn:latitude":24.11667,
+    "gn:longitude":32.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 J\u0101mi\u2018 al Jaz\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 G\u00e2mi\u2018 el Gez\u00eera",
+        "Naj\u2018 J\u0101mi\u2018 al Jaz\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351421
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c04401809bac49265643a871237487c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209088469
+        }
+    ],
+    "wof:id":1209088469,
+    "wof:lastmodified":1537620620,
+    "wof:name":"Naj` Jami` al Jazirah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9,
+    24.11667000000001,
+    32.9,
+    24.11667000000001
+],
+  "geometry": {"coordinates":[32.9,24.11667000000001],"type":"Point"}
+}

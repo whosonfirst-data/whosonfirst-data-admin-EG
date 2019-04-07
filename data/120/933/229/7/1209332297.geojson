@@ -1,0 +1,68 @@
+{
+  "id": 1209332297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23864,31.08994,31.23864,31.08994",
+    "geom:latitude":31.08994,
+    "geom:longitude":31.23864,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tirah",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347270,
+    "gn:latitude":31.08994,
+    "gn:longitude":31.23864,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"T\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "T\u00eera",
+        "T\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347270
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ee9aac6752f6dacc9e58db937a4fb38f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209332297
+        }
+    ],
+    "wof:id":1209332297,
+    "wof:lastmodified":1537620556,
+    "wof:name":"Tirah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23864,
+    31.08994,
+    31.23864,
+    31.08994
+],
+  "geometry": {"coordinates":[31.23864,31.08994],"type":"Point"}
+}

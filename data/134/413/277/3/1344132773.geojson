@@ -1,0 +1,73 @@
+{
+  "id": 1344132773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,29.06667,31.13333,29.06667",
+    "geom:latitude":29.06667,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bayad an Nasara",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358936,
+    "gn:latitude":29.06667,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bay\u0101\u1e11 an Na\u015f\u0101r\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bay\u00e2d el Nas\u00e2ra",
+        "Bay\u0101d en N\u0101sara",
+        "Bay\u0101\u1e11 an Na\u015f\u0101r\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358936
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"66b3f8a708e7a9a788e13c2123e92c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015341,
+            "locality_id":1344132773,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1344132773,
+    "wof:lastmodified":1537620824,
+    "wof:name":"Bayad an Nasara",
+    "wof:parent_id":1092015341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    29.06667,
+    31.13333,
+    29.06667
+],
+  "geometry": {"coordinates":[31.13333,29.06667],"type":"Point"}
+}

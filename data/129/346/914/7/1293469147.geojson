@@ -1,0 +1,73 @@
+{
+  "id": 1293469147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63684,25.73847,32.63684,25.73847",
+    "geom:latitude":25.73847,
+    "geom:longitude":32.63684,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"At Tarif",
+    "gn:country_code":"EG",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9073431,
+    "gn:latitude":25.73847,
+    "gn:longitude":32.63684,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"A\u0163 \u0162\u0101rif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u0163 \u0162\u0101rif"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0627\u0631\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671097,
+        1092018839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9073431
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"70a8a4f4e2aac9ca7d24677cc28c8ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018839,
+            "locality_id":1293469147,
+            "region_id":85671097
+        }
+    ],
+    "wof:id":1293469147,
+    "wof:lastmodified":1537621227,
+    "wof:name":"At Tarif",
+    "wof:parent_id":1092018839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63684,
+    25.73847,
+    32.63684,
+    25.73847
+],
+  "geometry": {"coordinates":[32.63684,25.73847],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259497591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42936,31.12524,31.42936,31.12524",
+    "geom:latitude":31.12524,
+    "geom:longitude":31.42936,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr at Tawilah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354398,
+    "gn:latitude":31.12524,
+    "gn:longitude":31.42936,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kafr a\u0163 \u0162aw\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0637\u0648\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-\u1e6caw\u00eela",
+        "Kafr a\u0163 \u0162aw\u012blah",
+        "Kafr a\u1e6d-\u1e6caw\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354398
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5bbfeec1fb170c29b01d5ecee6562220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1259497591,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259497591,
+    "wof:lastmodified":1537620710,
+    "wof:name":"Kafr at Tawilah",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42936,
+    31.12524,
+    31.42936,
+    31.12524
+],
+  "geometry": {"coordinates":[31.42936,31.12524],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226416351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98333,30.78333,31.98333,30.78333",
+    "geom:latitude":30.78333,
+    "geom:longitude":31.98333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr al Hamamidah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354668,
+    "gn:latitude":30.78333,
+    "gn:longitude":31.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al \u1e28am\u0101midah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Ham\u00e2mda",
+        "Kafr al \u1e28am\u0101midah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354668
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"193eba028c730ff02042b04d1f6390fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1226416351,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226416351,
+    "wof:lastmodified":1537620734,
+    "wof:name":"Kafr al Hamamidah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98333,
+    30.78333,
+    31.98333,
+    30.78333
+],
+  "geometry": {"coordinates":[31.98333,30.78333],"type":"Point"}
+}

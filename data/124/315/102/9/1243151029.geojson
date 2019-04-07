@@ -1,0 +1,73 @@
+{
+  "id": 1243151029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85,30.73333,31.85,30.73333",
+    "geom:latitude":30.73333,
+    "geom:longitude":31.85,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr al Mahasinah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354599,
+    "gn:latitude":30.73333,
+    "gn:longitude":31.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Ma\u1e29\u0101sinah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Ma\u1e25\u00e2sna",
+        "Kafr al Mahasna",
+        "Kafr al Ma\u1e29\u0101sinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354599
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1d51cbb4cf307ab9bdb3012e3b659911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1243151029,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1243151029,
+    "wof:lastmodified":1537620727,
+    "wof:name":"Kafr al Mahasinah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85,
+    30.73333,
+    31.85,
+    30.73333
+],
+  "geometry": {"coordinates":[31.85,30.73333],"type":"Point"}
+}

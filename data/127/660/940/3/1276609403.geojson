@@ -1,0 +1,71 @@
+{
+  "id": 1276609403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61676,26.59632,31.61676,26.59632",
+    "geom:latitude":26.59632,
+    "geom:longitude":31.61676,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Bakha'itah",
+    "gn:country_code":"EG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361453,
+    "gn:latitude":26.59632,
+    "gn:longitude":31.61676,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bakh\u0101\u2019itah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bakh\u00e2yta",
+        "Al Bakh\u0101\u2019itah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092025063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361453
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4a55bb64c71373501915da41c9049564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025063,
+            "locality_id":1276609403,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1276609403,
+    "wof:lastmodified":1537620937,
+    "wof:name":"Al Bakha'itah",
+    "wof:parent_id":1092025063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61676,
+    26.59632,
+    31.61676,
+    26.59632
+],
+  "geometry": {"coordinates":[31.61676,26.59632],"type":"Point"}
+}

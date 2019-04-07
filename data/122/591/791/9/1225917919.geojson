@@ -1,0 +1,73 @@
+{
+  "id": 1225917919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65565,30.77493,31.65565,30.77493",
+    "geom:latitude":30.77493,
+    "geom:longitude":31.65565,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ash Shawwafin",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779476,
+    "gn:latitude":30.77493,
+    "gn:longitude":31.65565,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ash Shaww\u0101f\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0627\u0641\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ash Shaww\u0101f\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779476
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"079804f2fc7fc68f7b39ef7be5e07393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1225917919,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1225917919,
+    "wof:lastmodified":1537621147,
+    "wof:name":"Ash Shawwafin",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65565,
+    30.77493,
+    31.65565,
+    30.77493
+],
+  "geometry": {"coordinates":[31.65565,30.77493],"type":"Point"}
+}

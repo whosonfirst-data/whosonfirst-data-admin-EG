@@ -1,0 +1,66 @@
+{
+  "id": 1209421265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70707,29.46275,30.70707,29.46275",
+    "geom:latitude":29.46275,
+    "geom:longitude":30.70707,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shakshuk",
+    "gn:country_code":"EG",
+    "gn:dem":-42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349427,
+    "gn:latitude":29.46275,
+    "gn:longitude":30.70707,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shaksh\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El W\u00e2yet Shakshuk",
+        "Shakshouk",
+        "Shaksh\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349427
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5531e3d716d75d1d79169823f98820c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209421265
+        }
+    ],
+    "wof:id":1209421265,
+    "wof:lastmodified":1537620580,
+    "wof:name":"Shakshuk",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70707,
+    29.46275,
+    30.70707,
+    29.46275
+],
+  "geometry": {"coordinates":[30.70707,29.46275],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310288799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84472,27.9933,30.84472,27.9933",
+    "geom:latitude":27.9933,
+    "geom:longitude":30.84472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bani Muhammad Sha`rawi",
+    "gn:country_code":"EG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359206,
+    "gn:latitude":27.9933,
+    "gn:longitude":30.84472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b Mu\u1e29ammad Sha\u2018r\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Muh Sha\u2018r\u00e2wl",
+        "Beni Muh Sha\u2018r\u0101wi",
+        "Ban\u012b Mu\u1e29ammad Sha\u2018r\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092023043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359206
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"84e5f6b18d224cdd0868b1373fca810d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023043,
+            "locality_id":1310288799,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1310288799,
+    "wof:lastmodified":1537620830,
+    "wof:name":"Bani Muhammad Sha`rawi",
+    "wof:parent_id":1092023043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84472,
+    27.9933,
+    30.84472,
+    27.9933
+],
+  "geometry": {"coordinates":[30.84472,27.9933],"type":"Point"}
+}

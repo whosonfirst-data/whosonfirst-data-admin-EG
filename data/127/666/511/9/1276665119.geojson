@@ -1,0 +1,67 @@
+{
+  "id": 1276665119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73389,30.93361,30.73389,30.93361",
+    "geom:latitude":30.93361,
+    "geom:longitude":30.73389,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Abu Manjuj",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433264,
+    "gn:latitude":30.93361,
+    "gn:longitude":30.73389,
+    "gn:modification_date":"2001-05-04",
+    "gn:name":"Ab\u016b Manj\u016bj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092024849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433264
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"42111228ecd3702a69a5a4adb979f57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024849,
+            "locality_id":1276665119,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276665119,
+    "wof:lastmodified":1536830150,
+    "wof:name":"Abu Manjuj",
+    "wof:parent_id":1092024849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73389,
+    30.93361,
+    30.73389,
+    30.93361
+],
+  "geometry": {"coordinates":[30.73389,30.93361],"type":"Point"}
+}

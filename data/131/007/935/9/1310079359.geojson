@@ -1,0 +1,71 @@
+{
+  "id": 1310079359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33293,30.4494,31.33293,30.4494",
+    "geom:latitude":30.4494,
+    "geom:longitude":31.33293,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Ayyub `Awad",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354375,
+    "gn:latitude":30.4494,
+    "gn:longitude":31.33293,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ayy\u016bb \u2018Awa\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Aiy\u00fbb \u2018Awa\u1e0d",
+        "Kafr Ayy\u016bb \u2018Awa\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354375
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3ca2a0bd56df4eb8d31272e78892b95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1310079359,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310079359,
+    "wof:lastmodified":1537620708,
+    "wof:name":"Kafr Ayyub `Awad",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33293,
+    30.4494,
+    31.33293,
+    30.4494
+],
+  "geometry": {"coordinates":[31.33293,30.4494],"type":"Point"}
+}

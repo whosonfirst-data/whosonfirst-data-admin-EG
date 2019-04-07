@@ -1,0 +1,71 @@
+{
+  "id": 1243363965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71179,29.29918,30.71179,29.29918",
+    "geom:latitude":29.29918,
+    "geom:longitude":30.71179,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jaradu",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355175,
+    "gn:latitude":29.29918,
+    "gn:longitude":30.71179,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jarad\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garadu",
+        "Jarad\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355175
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1aa1f217a1857fcdf1cb4f98dacdbbcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1243363965,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1243363965,
+    "wof:lastmodified":1537620756,
+    "wof:name":"Jaradu",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71179,
+    29.29918,
+    30.71179,
+    29.29918
+],
+  "geometry": {"coordinates":[30.71179,29.29918],"type":"Point"}
+}

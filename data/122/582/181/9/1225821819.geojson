@@ -1,0 +1,67 @@
+{
+  "id": 1225821819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55,25.4,30.55,25.4",
+    "geom:latitude":25.4,
+    "geom:longitude":30.55,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"`Ezbet Bir Ain el-Ghorab el-Qibli",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357578,
+    "gn:latitude":25.4,
+    "gn:longitude":30.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet B\u00eer A\u00een el-Ghorab el-Qibli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357578
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f57bc37e4f4eb907d31e83f1252f139d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020223,
+            "locality_id":1225821819,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1225821819,
+    "wof:lastmodified":1537046313,
+    "wof:name":"`Ezbet Bir Ain el-Ghorab el-Qibli",
+    "wof:parent_id":1092020223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55,
+    25.4,
+    30.55,
+    25.4
+],
+  "geometry": {"coordinates":[30.55,25.4],"type":"Point"}
+}

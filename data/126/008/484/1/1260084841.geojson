@@ -1,0 +1,75 @@
+{
+  "id": 1260084841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97481,30.80513,30.97481,30.80513",
+    "geom:latitude":30.80513,
+    "geom:longitude":30.97481,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr al Hima",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354656,
+    "gn:latitude":30.80513,
+    "gn:longitude":30.97481,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kafr al \u1e28im\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u062d\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-\u1e24ima",
+        "Kafr al \u1e28im\u0101",
+        "Kafr al-\u1e24im\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354656
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3d9df57e31537d7bb85bcb9a6e1138a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1260084841,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1260084841,
+    "wof:lastmodified":1537620733,
+    "wof:name":"Kafr al Hima",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97481,
+    30.80513,
+    30.97481,
+    30.80513
+],
+  "geometry": {"coordinates":[30.97481,30.80513],"type":"Point"}
+}

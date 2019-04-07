@@ -1,0 +1,71 @@
+{
+  "id": 1326488759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.83998,25.92664,32.83998,25.92664",
+    "geom:latitude":25.92664,
+    "geom:longitude":32.83998,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al `Ulayqat",
+    "gn:country_code":"EG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360514,
+    "gn:latitude":25.92664,
+    "gn:longitude":32.83998,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Ulayq\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Ileig\u00e2t",
+        "Al \u2018Ulayq\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092023581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360514
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8117680ff068b8e733b01bdda88fbfdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023581,
+            "locality_id":1326488759,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1326488759,
+    "wof:lastmodified":1537620880,
+    "wof:name":"Al `Ulayqat",
+    "wof:parent_id":1092023581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.83998,
+    25.92664,
+    32.83998,
+    25.92664
+],
+  "geometry": {"coordinates":[32.83998,25.92664],"type":"Point"}
+}

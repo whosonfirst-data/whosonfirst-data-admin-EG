@@ -1,0 +1,67 @@
+{
+  "id": 1260374135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4086,30.4041,31.4086,30.4041",
+    "geom:latitude":30.4041,
+    "geom:longitude":31.4086,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dahmasha",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358495,
+    "gn:latitude":30.4041,
+    "gn:longitude":31.4086,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Dahmash\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358495
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3403d33ceb669fdf9e7cabb37069ee0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022165,
+            "locality_id":1260374135,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1260374135,
+    "wof:lastmodified":1537084273,
+    "wof:name":"Dahmasha",
+    "wof:parent_id":1092022165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4086,
+    30.4041,
+    31.4086,
+    30.4041
+],
+  "geometry": {"coordinates":[31.4086,30.4041],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209187961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74252,30.90446,31.74252,30.90446",
+    "geom:latitude":30.90446,
+    "geom:longitude":31.74252,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Hajj `Id",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779421,
+    "gn:latitude":30.90446,
+    "gn:longitude":31.74252,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Izbat al \u1e28\u0101jj \u2018\u012ad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062d\u0627\u062c \u0639\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u1e28\u0101jj \u2018\u012ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779421
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"921826e5c89d75c35643b97e2d694687",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209187961
+        }
+    ],
+    "wof:id":1209187961,
+    "wof:lastmodified":1537621144,
+    "wof:name":"`Izbat al Hajj `Id",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74252000000001,
+    30.90446,
+    31.74252000000001,
+    30.90446
+],
+  "geometry": {"coordinates":[31.74252000000001,30.90446],"type":"Point"}
+}

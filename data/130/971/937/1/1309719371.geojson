@@ -1,0 +1,74 @@
+{
+  "id": 1309719371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80658,30.48195,30.80658,30.48195",
+    "geom:latitude":30.48195,
+    "geom:longitude":30.80658,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Khufuj",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545491,
+    "gn:latitude":30.48195,
+    "gn:longitude":30.80658,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat al Khuf\u016bj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062e\u0641\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Khuf\u016bj",
+        "\u2018Izbat al Khufuj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545491
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b39ce107f1e88dfba5c49397f5dcf9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1309719371,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1309719371,
+    "wof:lastmodified":1537621258,
+    "wof:name":"`Izbat al Khufuj",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80658,
+    30.48195,
+    30.80658,
+    30.48195
+],
+  "geometry": {"coordinates":[30.80658,30.48195],"type":"Point"}
+}

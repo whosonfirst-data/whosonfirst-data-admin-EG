@@ -1,0 +1,104 @@
+{
+  "id": 890450043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32018,30.31269,31.32018,30.31269",
+    "geom:latitude":30.31269,
+    "geom:longitude":31.32018,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":56872,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u064a\u0646 \u0627\u0644\u0642\u0646\u0627\u0637\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Shibin el-Qanater"
+    ],
+    "name:eng_x_preferred":[
+        "Shib\u00een el-Qan\u00e2\u1e6dir"
+    ],
+    "name:eng_x_variant":[
+        "Shib\u012bn al Qan\u0101\u0163ir",
+        "Shibin el-Qanater"
+    ],
+    "name:fre_x_preferred":[
+        "Shibin el-Qanater"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e8\u10d8\u10d1\u10d8\u10dc-\u10d4\u10da-\u10d9\u10d0\u10dc\u10d0\u10e2\u10d8\u10e0\u10d8"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b9\u03bc\u03c0\u03af\u03bd \u03b5\u03bb \u039a\u03b1\u03bd\u03b1\u03c4\u03af\u03c1"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0438\u0431\u0438\u043d-\u044d\u043b\u044c-\u041a\u0430\u043d\u0430\u0442\u0438\u0440 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0628\u06cc\u0646 \u0627\u0644\u0642\u0646\u0627\u0637\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Szibin al-Kanatir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0431\u0438\u043d-\u044d\u043b\u044c-\u041a\u0430\u043d\u0430\u0442\u0438\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Shab\u012bn al Qan\u0101tir"
+    ],
+    "qs:name":"Shib\u012bn al Qan\u0101\u0163ir",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092024593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349156,
+        "gp:id":56123263,
+        "qs:id":80207,
+        "wd:id":"Q2663513"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052722,
+    "wof:geomhash":"674462bd6556351f97bdb8c579bd9336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024593,
+            "locality_id":890450043,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":890450043,
+    "wof:lastmodified":1513956714,
+    "wof:name":"Shib\u012bn al Qan\u0101\u0163ir",
+    "wof:parent_id":1092024593,
+    "wof:placetype":"locality",
+    "wof:population":56872,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32018,
+    30.31269,
+    31.32018,
+    30.31269
+],
+  "geometry": {"coordinates":[31.32018,30.31269],"type":"Point"}
+}

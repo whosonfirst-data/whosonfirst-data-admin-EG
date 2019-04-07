@@ -1,0 +1,73 @@
+{
+  "id": 1343233073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.96194,30.54639,31.96194,30.54639",
+    "geom:latitude":30.54639,
+    "geom:longitude":31.96194,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Hayakilah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355385,
+    "gn:latitude":30.54639,
+    "gn:longitude":31.96194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al Hay\u0101kilah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Abu Heikal",
+        "\u2018Izbat Ab\u016b Haykal",
+        "\u2018Ezbet el-Hayakla",
+        "\u2018Izbat al Hay\u0101kilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355385
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"05de413fc1567df3304f140980403300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020039,
+            "locality_id":1343233073,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1343233073,
+    "wof:lastmodified":1537620765,
+    "wof:name":"`Izbat al Hayakilah",
+    "wof:parent_id":1092020039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.96194,
+    30.54639,
+    31.96194,
+    30.54639
+],
+  "geometry": {"coordinates":[31.96194,30.54639],"type":"Point"}
+}

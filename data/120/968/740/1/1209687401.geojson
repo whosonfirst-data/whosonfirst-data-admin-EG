@@ -1,0 +1,66 @@
+{
+  "id": 1209687401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83333,27.33333,30.83333,27.33333",
+    "geom:latitude":27.33333,
+    "geom:longitude":30.83333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"`Izab `Arab al Juhmah",
+    "gn:country_code":"EG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355412,
+    "gn:latitude":27.33333,
+    "gn:longitude":30.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izab \u2018Arab al Juhmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Arab el Gahma",
+        "\u2018Ezab \u2018Arab el-Gohoma",
+        "\u2018Izab \u2018Arab al Juhmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355412
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8f737773af6a99b2c335c5119f9ba560",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209687401
+        }
+    ],
+    "wof:id":1209687401,
+    "wof:lastmodified":1537620766,
+    "wof:name":"`Izab `Arab al Juhmah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83333,
+    27.33333,
+    30.83333,
+    27.33333
+],
+  "geometry": {"coordinates":[30.83333,27.33333],"type":"Point"}
+}

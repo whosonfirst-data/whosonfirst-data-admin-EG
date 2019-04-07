@@ -1,0 +1,71 @@
+{
+  "id": 1327345459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.24826,30.96867,30.24826,30.96867",
+    "geom:latitude":30.96867,
+    "geom:longitude":30.24826,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kawm al Khirbah",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357263,
+    "gn:latitude":30.96867,
+    "gn:longitude":30.24826,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm al Khirbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet K\u00f4m el-Khirba",
+        "Kawm al Khirbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357263
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c6b34f11d228030c47142a0a15e5032d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1327345459,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327345459,
+    "wof:lastmodified":1537620788,
+    "wof:name":"Kawm al Khirbah",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.24826,
+    30.96867,
+    30.24826,
+    30.96867
+],
+  "geometry": {"coordinates":[30.24826,30.96867],"type":"Point"}
+}

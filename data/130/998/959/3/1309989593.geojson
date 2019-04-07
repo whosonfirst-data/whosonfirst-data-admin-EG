@@ -1,0 +1,73 @@
+{
+  "id": 1309989593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56974,30.65884,31.56974,30.65884",
+    "geom:latitude":30.65884,
+    "geom:longitude":31.56974,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Abu Bahiyah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077778,
+    "gn:latitude":30.65884,
+    "gn:longitude":31.56974,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Ab\u016b Bah\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0628\u0647\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b Bah\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077778
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ad5bf31eacb145d255a3bb9c16ed6cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021319,
+            "locality_id":1309989593,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309989593,
+    "wof:lastmodified":1537621179,
+    "wof:name":"`Izbat Abu Bahiyah",
+    "wof:parent_id":1092021319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56974,
+    30.65884,
+    31.56974,
+    30.65884
+],
+  "geometry": {"coordinates":[31.56974,30.65884],"type":"Point"}
+}

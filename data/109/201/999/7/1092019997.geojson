@@ -1,0 +1,74 @@
+{
+  "id": 1092019997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0016,
+    "geom:area_square_m":17136679.1397,
+    "geom:bbox":"32.538079,29.959809,32.583834,30.034888",
+    "geom:latitude":30.00917,
+    "geom:longitude":32.557886,
+    "iso:country":"EG",
+    "lbl:latitude":30.016229,
+    "lbl:longitude":32.559446,
+    "meso:admin_1":"Suez",
+    "meso:diss_me":"El-SuezSuez",
+    "meso:gadm_admin":"Al-Arb'in",
+    "meso:gadm_hasc2":"EG.SW.AR",
+    "meso:gaul_admin":"Al-Arbiin",
+    "meso:mps_x":32.559446,
+    "meso:mps_y":30.016229,
+    "meso:name_en":"El-Suez",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.016229,
+    "mps:longitude":32.559446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Al-Arbiin",
+        "Al-Arb'in"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.SW.AR"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897344,
+    "wof:geomhash":"6a3f98cdca787a4b1fc6318dff4406f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019997,
+            "region_id":85671013
+        }
+    ],
+    "wof:id":1092019997,
+    "wof:lastmodified":1536615088,
+    "wof:name":"El-Suez",
+    "wof:parent_id":85671013,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"AR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.538079,
+    29.959809,
+    32.583834,
+    30.034888
+],
+  "geometry": {"coordinates":[[[32.544488,30.029307],[32.577605,30.034888],[32.580363,30.021068],[32.583834,30.006383],[32.577153,30.004682],[32.572928,30.004341],[32.570276,30.003661],[32.56782,30.002895],[32.563756,30.000758],[32.561165,29.996046],[32.559862,29.99277],[32.557701,29.990388],[32.556325,29.988856],[32.55436,29.986304],[32.551806,29.98154],[32.548465,29.976265],[32.544547,29.959809],[32.540674,29.994434],[32.538079,30.01763],[32.544156,30.018184],[32.544488,30.029307]]],"type":"Polygon"}
+}

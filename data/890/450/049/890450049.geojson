@@ -1,0 +1,75 @@
+{
+  "id": 890450049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78525,30.54448,31.78525,30.54448",
+    "geom:latitude":30.54448,
+    "geom:longitude":31.78525,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":51569,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0644 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Tell el- Keb\u00eer"
+    ],
+    "qs:name":"At Tall al Kab\u012br",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":748,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359710,
+        "gp:id":56446854,
+        "qs:id":80228,
+        "wd:id":"Q3983043",
+        "wk:page":"Tall al Kabir"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052722,
+    "wof:geomhash":"712c95317d706544f959674899dc22c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020039,
+            "locality_id":890450049,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":890450049,
+    "wof:lastmodified":1527792960,
+    "wof:name":"At Tall al Kab\u012br",
+    "wof:parent_id":1092020039,
+    "wof:placetype":"locality",
+    "wof:population":51569,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78525,
+    30.54448,
+    31.78525,
+    30.54448
+],
+  "geometry": {"coordinates":[31.78525,30.54448],"type":"Point"}
+}

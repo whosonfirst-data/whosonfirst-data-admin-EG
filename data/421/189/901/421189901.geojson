@@ -1,0 +1,127 @@
+{
+  "id": 421189901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.626205,22.348488,31.626205,22.348488",
+    "geom:latitude":22.348488,
+    "geom:longitude":31.626205,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0633\u0645\u0628\u0644"
+    ],
+    "name:dut_x_preferred":[
+        "Aboe Simbel"
+    ],
+    "name:eng_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:epo_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:est_x_preferred":[
+        "Ab\u016b Sunbul"
+    ],
+    "name:fre_x_preferred":[
+        "Abou Simbel"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d1\u10e3-\u10e1\u10d8\u10db\u10d1\u10d0\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d5 \u05e1\u05d9\u05de\u05d1\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Abu Szimbel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d6\u30fb\u30b7\u30f3\u30d9\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Sunbul"
+    ],
+    "name:por_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443-\u0421\u0438\u043c\u0431\u0435\u043b"
+    ],
+    "name:slo_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:spa_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:swe_x_preferred":[
+        "Abu Simbel"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Abu Simbel",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0633\u0648\u0627\u0646",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118005,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1521103,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092022915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1521103,
+        "qs:id":1118005,
+        "wd:id":"Q6655437"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009639,
+    "wof:geomhash":"fd6b5bbcba2423d78a16936df2360d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022915,
+            "locality_id":421189901,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":421189901,
+    "wof:lastmodified":1513956588,
+    "wof:name":"Abu Simbel",
+    "wof:parent_id":1092022915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.626205,
+    22.348488,
+    31.626205,
+    22.348488
+],
+  "geometry": {"coordinates":[31.626205,22.348488],"type":"Point"}
+}

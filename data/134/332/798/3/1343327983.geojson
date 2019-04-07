@@ -1,0 +1,67 @@
+{
+  "id": 1343327983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85317,28.73837,30.85317,28.73837",
+    "geom:latitude":28.73837,
+    "geom:longitude":30.85317,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Nazlat an Nasara",
+    "gn:country_code":"EG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434394,
+    "gn:latitude":28.73837,
+    "gn:longitude":30.85317,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nazlat an Na\u015f\u0101r\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092017627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434394
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6fde4fc08ad4339fda1f77acccccdcc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017627,
+            "locality_id":1343327983,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1343327983,
+    "wof:lastmodified":1536938335,
+    "wof:name":"Nazlat an Nasara",
+    "wof:parent_id":1092017627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85317,
+    28.73837,
+    30.85317,
+    28.73837
+],
+  "geometry": {"coordinates":[30.85317,28.73837],"type":"Point"}
+}

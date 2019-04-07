@@ -1,0 +1,71 @@
+{
+  "id": 1243417911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83333,27.6,30.83333,27.6",
+    "geom:latitude":27.6,
+    "geom:longitude":30.83333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Naj` Rashwan",
+    "gn:country_code":"EG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351397,
+    "gn:latitude":27.6,
+    "gn:longitude":30.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 Rashw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 Rashw\u00e2n",
+        "Naj\u2018 Rashw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351397
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0c346a8efe145f0d1fc8eeb9e6dc2c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1243417911,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1243417911,
+    "wof:lastmodified":1537620619,
+    "wof:name":"Naj` Rashwan",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83333,
+    27.6,
+    30.83333,
+    27.6
+],
+  "geometry": {"coordinates":[30.83333,27.6],"type":"Point"}
+}

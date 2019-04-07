@@ -1,0 +1,74 @@
+{
+  "id": 1327245643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27696,31.29194,31.27696,31.29194",
+    "geom:latitude":31.29194,
+    "geom:longitude":31.27696,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr al Ghul",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354684,
+    "gn:latitude":31.29194,
+    "gn:longitude":31.27696,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Gh\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u063a\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Gh\u00fbl",
+        "Kafr al Gh\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354684
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"564547255d07a7e976f346d7a34130a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1327245643,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1327245643,
+    "wof:lastmodified":1537620736,
+    "wof:name":"Kafr al Ghul",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27696,
+    31.29194,
+    31.27696,
+    31.29194
+],
+  "geometry": {"coordinates":[31.27696,31.29194],"type":"Point"}
+}

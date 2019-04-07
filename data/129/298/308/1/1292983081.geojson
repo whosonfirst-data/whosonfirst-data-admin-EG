@@ -1,0 +1,74 @@
+{
+  "id": 1292983081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9,24.41667,32.9,24.41667",
+    "geom:latitude":24.41667,
+    "geom:longitude":32.9,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"As Sabkhayah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359908,
+    "gn:latitude":24.41667,
+    "gn:longitude":32.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sabkh\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sabakhaya",
+        "Es Sabakh\u0101ya",
+        "El-Sabkh\u0101ya",
+        "As Sabkh\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359908
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5b34368566fd487665d90809b2752c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016115,
+            "locality_id":1292983081,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1292983081,
+    "wof:lastmodified":1537620857,
+    "wof:name":"As Sabkhayah",
+    "wof:parent_id":1092016115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9,
+    24.41667,
+    32.9,
+    24.41667
+],
+  "geometry": {"coordinates":[32.9,24.41667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310465447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05849,27.25946,31.05849,27.25946",
+    "geom:latitude":27.25946,
+    "geom:longitude":31.05849,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Hassani",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361188,
+    "gn:latitude":27.25946,
+    "gn:longitude":31.05849,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ass\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u1e24ass\u00e2ni",
+        "Al \u1e28ass\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361188
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4f313cbad05c7c496317535d4660b680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014043,
+            "locality_id":1310465447,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1310465447,
+    "wof:lastmodified":1537620920,
+    "wof:name":"Al Hassani",
+    "wof:parent_id":1092014043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05849000000001,
+    27.25946,
+    31.05849000000001,
+    27.25946
+],
+  "geometry": {"coordinates":[31.05849000000001,27.25946],"type":"Point"}
+}

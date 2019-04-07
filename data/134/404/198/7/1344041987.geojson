@@ -1,0 +1,75 @@
+{
+  "id": 1344041987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9917,30.31563,30.9917,30.31563",
+    "geom:latitude":30.31563,
+    "geom:longitude":30.9917,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Izbat Salih Rida",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":349761,
+    "gn:latitude":30.31563,
+    "gn:longitude":30.9917,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat \u015e\u0101li\u1e29 Ri\u1e11\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0635\u0627\u0644\u062d \u0631\u0636\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u015e\u0101li\u1e29 Ri\u1e11\u0101",
+        "S\u00e2lih Rid\u00e2",
+        "\u2018Izbat \u1e62\u0101li\u1e25 Ri\u1e0da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349761
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"89d0777e0ecb274fbf423fc438bc516f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1344041987,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1344041987,
+    "wof:lastmodified":1537620587,
+    "wof:name":"`Izbat Salih Rida",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9917,
+    30.31563,
+    30.9917,
+    30.31563
+],
+  "geometry": {"coordinates":[30.9917,30.31563],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259557667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98638,31.10595,30.98638,31.10595",
+    "geom:latitude":31.10595,
+    "geom:longitude":30.98638,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Mustafa Darwish",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416097,
+    "gn:latitude":31.10595,
+    "gn:longitude":30.98638,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Mu\u015f\u0163af\u00e1 Darw\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u0635\u0637\u0641\u0649 \u062f\u0631\u0648\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mu\u015f\u0163af\u00e1 Darw\u012bsh",
+        "\u2018Izbat Mu\u1e63\u1e6daf\u00e1 Darw\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416097
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3cf0c5aa0a7aa2f7ecdf97025513383a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1259557667,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1259557667,
+    "wof:lastmodified":1537621013,
+    "wof:name":"`Izbat Mustafa Darwish",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98638,
+    31.10595,
+    30.98638,
+    31.10595
+],
+  "geometry": {"coordinates":[30.98638,31.10595],"type":"Point"}
+}

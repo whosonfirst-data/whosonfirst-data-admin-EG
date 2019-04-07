@@ -1,0 +1,72 @@
+{
+  "id": 1243051719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86158,27.80028,30.86158,27.80028",
+    "geom:latitude":27.80028,
+    "geom:longitude":30.86158,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ar Rawdah",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360127,
+    "gn:latitude":27.80028,
+    "gn:longitude":30.86158,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Raw\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El R\u00f4da",
+        "Er R\u014dda",
+        "Ar Raw\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360127
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"02c8ef4abdcd5b296a031857bb6dcdf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022005,
+            "locality_id":1243051719,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1243051719,
+    "wof:lastmodified":1537620867,
+    "wof:name":"Ar Rawdah",
+    "wof:parent_id":1092022005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86158,
+    27.80028,
+    30.86158,
+    27.80028
+],
+  "geometry": {"coordinates":[30.86158,27.80028],"type":"Point"}
+}

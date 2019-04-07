@@ -1,0 +1,74 @@
+{
+  "id": 1243375291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.17044,31.18176,30.17044,31.18176",
+    "geom:latitude":31.18176,
+    "geom:longitude":30.17044,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bulin",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352404,
+    "gn:latitude":31.18176,
+    "gn:longitude":30.17044,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"B\u016bl\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u016bl\u012bn",
+        "Minsh\u00e2t B\u00fbl\u00een"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352404
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fdd2cad46229adcaef1689261489354b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1243375291,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243375291,
+    "wof:lastmodified":1537620652,
+    "wof:name":"Bulin",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.17044000000001,
+    31.18176,
+    30.17044000000001,
+    31.18176
+],
+  "geometry": {"coordinates":[30.17044000000001,31.18176],"type":"Point"}
+}

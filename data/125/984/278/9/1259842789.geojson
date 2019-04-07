@@ -1,0 +1,71 @@
+{
+  "id": 1259842789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85544,28.82448,30.85544,28.82448",
+    "geom:latitude":28.82448,
+    "geom:longitude":30.85544,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Saft al `Urafa",
+    "gn:country_code":"EG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349887,
+    "gn:latitude":28.82448,
+    "gn:longitude":30.85544,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015eaf\u0163 al \u2018Uraf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e62af\u1e6d el \u2018Urafa",
+        "\u015eaf\u0163 al \u2018Uraf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092017627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349887
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6d7d4722058e6d931777d5f316159305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017627,
+            "locality_id":1259842789,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1259842789,
+    "wof:lastmodified":1537620590,
+    "wof:name":"Saft al `Urafa",
+    "wof:parent_id":1092017627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85544,
+    28.82448,
+    30.85544,
+    28.82448
+],
+  "geometry": {"coordinates":[30.85544,28.82448],"type":"Point"}
+}

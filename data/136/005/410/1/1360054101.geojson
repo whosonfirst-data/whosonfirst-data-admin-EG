@@ -1,0 +1,71 @@
+{
+  "id": 1360054101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.17649,26.09022,32.17649,26.09022",
+    "geom:latitude":26.09022,
+    "geom:longitude":32.17649,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kawm al Bijah",
+    "gn:country_code":"EG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353885,
+    "gn:latitude":26.09022,
+    "gn:longitude":32.17649,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm al Bij\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f4m el B\u00eegah",
+        "Kawm al Bij\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353885
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e045ab09a948088324ff8ca14785a707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020903,
+            "locality_id":1360054101,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1360054101,
+    "wof:lastmodified":1537620678,
+    "wof:name":"Kawm al Bijah",
+    "wof:parent_id":1092020903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.17649,
+    26.09022,
+    32.17649,
+    26.09022
+],
+  "geometry": {"coordinates":[32.17649,26.09022],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310001231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76431,28.21697,30.76431,28.21697",
+    "geom:latitude":28.21697,
+    "geom:longitude":30.76431,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Jabal at Tayr al Qibli",
+    "gn:country_code":"EG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355284,
+    "gn:latitude":28.21697,
+    "gn:longitude":30.76431,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jabal a\u0163 \u0162ayr al Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabal el Teir el Qibli",
+        "Jabal a\u0163 \u0162ayr al Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092023043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355284
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"768746cae08ae1dc55fd332854a6e001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023043,
+            "locality_id":1310001231,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1310001231,
+    "wof:lastmodified":1537620757,
+    "wof:name":"Jabal at Tayr al Qibli",
+    "wof:parent_id":1092023043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76431,
+    28.21697,
+    30.76431,
+    28.21697
+],
+  "geometry": {"coordinates":[30.76431,28.21697],"type":"Point"}
+}

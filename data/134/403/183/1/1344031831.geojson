@@ -1,0 +1,73 @@
+{
+  "id": 1344031831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92483,31.2798,30.92483,31.2798",
+    "geom:latitude":31.2798,
+    "geom:longitude":30.92483,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Biltaji al Fiqi",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416323,
+    "gn:latitude":31.2798,
+    "gn:longitude":30.92483,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbat Bilt\u0101j\u012b al Fiq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0628\u0644\u062a\u0627\u062c\u064a \u0627\u0644\u0641\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Bilt\u0101j\u012b al Fiq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416323
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cfd403224289abfa0fce894b073cdc43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1344031831,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1344031831,
+    "wof:lastmodified":1537621028,
+    "wof:name":"`Izbat Biltaji al Fiqi",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92483,
+    31.2798,
+    30.92483,
+    31.2798
+],
+  "geometry": {"coordinates":[30.92483,31.2798],"type":"Point"}
+}

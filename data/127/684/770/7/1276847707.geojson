@@ -1,0 +1,75 @@
+{
+  "id": 1276847707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27841,30.53854,31.27841,30.53854",
+    "geom:latitude":30.53854,
+    "geom:longitude":31.27841,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr al Walaja",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420494,
+    "gn:latitude":30.53854,
+    "gn:longitude":31.27841,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Walaj\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0648\u0644\u062c\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafr al Walaj\u0101",
+        "Kafr el-Wagaga",
+        "Kafr el-Walaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092021747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420494
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8c9a413f033670669e34d3240d14e9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021747,
+            "locality_id":1276847707,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1276847707,
+    "wof:lastmodified":1537621074,
+    "wof:name":"Kafr al Walaja",
+    "wof:parent_id":1092021747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27841,
+    30.53854,
+    31.27841,
+    30.53854
+],
+  "geometry": {"coordinates":[31.27841,30.53854],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242656417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01439,30.89353,32.01439,30.89353",
+    "geom:latitude":30.89353,
+    "geom:longitude":32.01439,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat ar Rub`uma'ah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357417,
+    "gn:latitude":30.89353,
+    "gn:longitude":32.01439,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u2018Izbat ar Rub\u2018um\u0101\u2019ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0631\u0628\u0639\u0645\u0627\u0626\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet el-Rub\u2018um\u00e2ya",
+        "\u2018Izbat ar Rub\u2018um\u0101\u012byah",
+        "\u2018Izbat ar Rub\u2018um\u0101\u2019ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357417
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a613c6845dc546622464fadfbfecdfb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1242656417,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1242656417,
+    "wof:lastmodified":1537620792,
+    "wof:name":"`Izbat ar Rub`uma'ah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01439,
+    30.89353,
+    32.01439,
+    30.89353
+],
+  "geometry": {"coordinates":[32.01439,30.89353],"type":"Point"}
+}

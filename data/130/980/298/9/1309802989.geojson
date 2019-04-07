@@ -1,0 +1,74 @@
+{
+  "id": 1309802989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20783,31.01203,31.20783,31.01203",
+    "geom:latitude":31.01203,
+    "geom:longitude":31.20783,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat `Abduh al Babili",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419088,
+    "gn:latitude":31.01203,
+    "gn:longitude":31.20783,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"\u2018Izbat \u2018Abduh al B\u0101bil\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0639\u0628\u062f\u0647 \u0627\u0644\u0628\u0627\u0628\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u2018Abduh al B\u0101bil\u012b",
+        "\u2018Izbat \u2018Abdoh al-B\u0101bil\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419088
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8fe7d9102cdd5f7f63334f807a4a5e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1309802989,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1309802989,
+    "wof:lastmodified":1537621034,
+    "wof:name":"`Izbat `Abduh al Babili",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20783,
+    31.01203,
+    31.20783,
+    31.01203
+],
+  "geometry": {"coordinates":[31.20783,31.01203],"type":"Point"}
+}

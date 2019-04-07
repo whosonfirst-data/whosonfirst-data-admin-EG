@@ -1,0 +1,158 @@
+{
+  "id": 421189943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.970504,27.06524,27.970504,27.06524",
+    "geom:latitude":27.06524,
+    "geom:longitude":27.970504,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u0627\u0641\u0631\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u0627\u0641\u0631\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u0444\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Farafra"
+    ],
+    "name:ceb_x_preferred":[
+        "Qa\u015fr al Far\u0101firah"
+    ],
+    "name:deu_x_preferred":[
+        "Farafra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0627\u0641\u0631\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Al-Farafra"
+    ],
+    "name:gla_x_preferred":[
+        "Farafra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d0\u05e4\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Far\u00e1fra-o\u00e1zis"
+    ],
+    "name:ind_x_preferred":[
+        "Kalender Ayam"
+    ],
+    "name:ita_x_preferred":[
+        "Farafra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30e9\u30d5\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10e0\u10d0\u10e4\u10e0\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Farafra"
+    ],
+    "name:nld_x_preferred":[
+        "Farafraoase"
+    ],
+    "name:nor_x_preferred":[
+        "Farafra"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Farafira"
+    ],
+    "name:por_x_preferred":[
+        "O\u00e1sis de Farafra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u0444\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Farafra Oasis"
+    ],
+    "name:spa_x_preferred":[
+        "Depresi\u00f3n de Farafra"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u043f\u0443\u0441\u0442\u0438\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Farafra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u0444\u0440\u0430"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e4\u10d0\u10e0\u10d0\u10e4\u10e0\u10d0"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Qasr Farafra",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0648\u0627\u062f\u064a \u0627\u0644\u062c\u062f\u064a\u062f",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118065,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1526019,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":679,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092017585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1526019,
+        "qs:id":1118065,
+        "wd:id":"Q647638"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009641,
+    "wof:geomhash":"99c5fc79d886486edbf2f982827be090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017585,
+            "locality_id":421189943,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":421189943,
+    "wof:lastmodified":1527716272,
+    "wof:name":"Qasr Farafra",
+    "wof:parent_id":1092017585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.970504,
+    27.06524,
+    27.970504,
+    27.06524
+],
+  "geometry": {"coordinates":[27.970504,27.06524],"type":"Point"}
+}

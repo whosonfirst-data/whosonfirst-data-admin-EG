@@ -1,0 +1,71 @@
+{
+  "id": 1327110809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1789,27.20284,31.1789,27.20284",
+    "geom:latitude":27.20284,
+    "geom:longitude":31.1789,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Walidiyah",
+    "gn:country_code":"EG",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360474,
+    "gn:latitude":27.20284,
+    "gn:longitude":31.1789,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Wal\u012bd\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Wil\u012bd\u012bya",
+        "Al Wal\u012bd\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092017669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360474
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3a25fe920f929d277fce1db2c009c450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017669,
+            "locality_id":1327110809,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1327110809,
+    "wof:lastmodified":1537620878,
+    "wof:name":"Al Walidiyah",
+    "wof:parent_id":1092017669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1789,
+    27.20284,
+    31.1789,
+    27.20284
+],
+  "geometry": {"coordinates":[31.1789,27.20284],"type":"Point"}
+}

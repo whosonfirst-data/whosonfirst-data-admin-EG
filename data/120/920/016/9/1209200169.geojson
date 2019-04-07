@@ -1,0 +1,67 @@
+{
+  "id": 1209200169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,29.98333,31.13333,29.98333",
+    "geom:latitude":29.98333,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nazlat as Samman",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351164,
+    "gn:latitude":29.98333,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat as Samm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet el Simm\u00e2n",
+        "Nazlet el-Simma",
+        "Nazlat as Samm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351164
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8e15d3938bc16ee10472ef3fc61559ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209200169
+        }
+    ],
+    "wof:id":1209200169,
+    "wof:lastmodified":1537620611,
+    "wof:name":"Nazlat as Samman",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    29.98333,
+    31.13333,
+    29.98333
+],
+  "geometry": {"coordinates":[31.13333,29.98333],"type":"Point"}
+}

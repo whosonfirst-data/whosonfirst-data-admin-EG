@@ -1,0 +1,77 @@
+{
+  "id": 1243544399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02178,30.45534,31.02178,30.45534",
+    "geom:latitude":30.45534,
+    "geom:longitude":31.02178,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Izbat al Islah",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8138329,
+    "gn:latitude":30.45534,
+    "gn:longitude":31.02178,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat al I\u015fl\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0625\u0635\u0644\u0627\u062d"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0631\u063a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al I\u015fl\u0101\u1e29",
+        "Al Mirghan\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092017065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8138329
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"67b33be8c967bb2020c8bcf3f5fcab18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017065,
+            "locality_id":1243544399,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1243544399,
+    "wof:lastmodified":1537621179,
+    "wof:name":"`Izbat al Islah",
+    "wof:parent_id":1092017065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02178,
+    30.45534,
+    31.02178,
+    30.45534
+],
+  "geometry": {"coordinates":[31.02178,30.45534],"type":"Point"}
+}

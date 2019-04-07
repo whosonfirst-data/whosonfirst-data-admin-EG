@@ -1,0 +1,67 @@
+{
+  "id": 1343965661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66124,30.91033,30.66124,30.91033",
+    "geom:latitude":30.91033,
+    "geom:longitude":30.66124,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat ash Shurah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433171,
+    "gn:latitude":30.91033,
+    "gn:longitude":30.66124,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat ash Sh\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092020749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433171
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7c2943d357359fc0452e7ff58ca5f082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020749,
+            "locality_id":1343965661,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343965661,
+    "wof:lastmodified":1537011668,
+    "wof:name":"`Izbat ash Shurah",
+    "wof:parent_id":1092020749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66124000000001,
+    30.91033,
+    30.66124000000001,
+    30.91033
+],
+  "geometry": {"coordinates":[30.66124000000001,30.91033],"type":"Point"}
+}

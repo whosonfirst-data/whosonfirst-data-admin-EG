@@ -1,0 +1,210 @@
+{
+  "id": 421202495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.89181,25.07573,34.89181,25.07573",
+    "geom:latitude":25.07573,
+    "geom:longitude":34.89181,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0633\u0649 \u0639\u0644\u0645"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09b6\u09be \u0986\u09b2\u09ae"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0430 \u0410\u043b\u0430\u043c"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u85a9\u963f\u62c9\u59c6"
+    ],
+    "name:cze_x_preferred":[
+        "Mars\u00e1 Alam"
+    ],
+    "name:dan_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:deu_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:dut_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:eng_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:fin_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:fra_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:fre_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:ger_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03ac\u03c1\u03c3\u03b1 \u0391\u03bb\u03ac\u03bc"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0ab0\u0ab8\u0abe \u0a86\u0ab2\u0aae"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0938 \u0906\u0932\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Marsza Alam"
+    ],
+    "name:ind_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:ita_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b5\u30fb\u30a2\u30e9\u30e0"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0cb0\u0ccd\u0cb8 \u0c86\u0cb2\u0c82"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc0ac \uc54c\ub78c"
+    ],
+    "name:lav_x_preferred":[
+        "Marsaalama"
+    ],
+    "name:lit_x_preferred":[
+        "Marsa Alamas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0930\u0938\u093e \u0906\u0932\u092e"
+    ],
+    "name:may_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:nob_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0631\u0633\u06cc \u0639\u0644\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:por_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0430 \u0410\u043b\u0430\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dbb\u0dca\u0dc3\u0dcf \u0d87\u0dbd\u0db8\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:swe_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bb0\u0bcd\u0b9a\u0bbe \u0b85\u0bb2\u0bbe\u0bb0\u0bcd\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c30\u0c4d\u0c38\u0c3e \u0c05\u0c32\u0c2e\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e23\u0e4c\u0e0b\u0e48\u0e32 \u0e2d\u0e25\u0e32\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Marsa Alem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0430-\u0410\u043b\u0430\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Marsa Alam"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0631\u0633\u0627 \u0645\u0627\u0626\u06cc\u06a9\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Marsa Alam"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":352736,
+    "qs:gn_pop":10000,
+    "qs:name":"Mars\u00e1 Al \u2018alam",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0627\u062d\u0645\u0631",
+    "qs:photos":4084,
+    "qs:photos_1k":828,
+    "qs:photos_9k":18,
+    "qs:photos_9r":12,
+    "qs:photos_all":4084,
+    "qs:photos_sr":22,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":223081,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1525119,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352736,
+        "gp:id":1525119,
+        "qs:id":223081,
+        "wd:id":"Q1001901",
+        "wk:page":"Marsa Alam"
+    },
+    "wof:country":"EG",
+    "wof:created":1459010120,
+    "wof:geomhash":"a31d4d3af17410d72b86f276aedb3094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022093,
+            "locality_id":421202495,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":421202495,
+    "wof:lastmodified":1513956701,
+    "wof:name":"Mars\u00e1 Al \u2018alam",
+    "wof:parent_id":1092022093,
+    "wof:placetype":"locality",
+    "wof:population":10000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.89181,
+    25.07573,
+    34.89181,
+    25.07573
+],
+  "geometry": {"coordinates":[34.89181,25.07573],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209632849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24179,31.05996,31.24179,31.05996",
+    "geom:latitude":31.05996,
+    "geom:longitude":31.24179,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Banub",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359153,
+    "gn:latitude":31.05996,
+    "gn:longitude":31.24179,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"B\u0101n\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "B\u0101n\u016bb"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0646\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "B\u00e2n\u00fbb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359153
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"879394b5754c1c00dce69275a4c9df77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209632849
+        }
+    ],
+    "wof:id":1209632849,
+    "wof:lastmodified":1537620827,
+    "wof:name":"Banub",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24179,
+    31.05996,
+    31.24179,
+    31.05996
+],
+  "geometry": {"coordinates":[31.24179,31.05996],"type":"Point"}
+}

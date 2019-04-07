@@ -1,0 +1,73 @@
+{
+  "id": 1209948365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08777,30.76977,31.08777,30.76977",
+    "geom:latitude":30.76977,
+    "geom:longitude":31.08777,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Fawzi",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560798,
+    "gn:latitude":30.76977,
+    "gn:longitude":31.08777,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat Fawz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0641\u0648\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Fawz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560798
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"31bb220b401bdd444136438bda48db0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1209948365,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1209948365,
+    "wof:lastmodified":1537621210,
+    "wof:name":"`Izbat Fawzi",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08777000000001,
+    30.76977,
+    31.08777000000001,
+    30.76977
+],
+  "geometry": {"coordinates":[31.08777000000001,30.76977],"type":"Point"}
+}

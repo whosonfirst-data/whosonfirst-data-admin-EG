@@ -1,0 +1,61 @@
+{
+  "id": 1209276131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78352,31.41273,31.78352,31.41273",
+    "geom:latitude":31.41273,
+    "geom:longitude":31.78352,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"`Izbat Abu al `Izz",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421508,
+    "gn:latitude":31.41273,
+    "gn:longitude":31.78352,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Ab\u016b al \u2018Izz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421508
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"15264ccb7a5e5b52d294acd1bb58631b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209276131
+        }
+    ],
+    "wof:id":1209276131,
+    "wof:lastmodified":1536292189,
+    "wof:name":"`Izbat Abu al `Izz",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.783520000000006,
+    31.41273,
+    31.783520000000006,
+    31.41273
+],
+  "geometry": {"coordinates":[31.78352000000001,31.41273],"type":"Point"}
+}

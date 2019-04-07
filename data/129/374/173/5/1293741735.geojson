@@ -1,0 +1,72 @@
+{
+  "id": 1293741735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60509,26.69934,31.60509,26.69934",
+    "geom:latitude":26.69934,
+    "geom:longitude":31.60509,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Maraghah",
+    "gn:country_code":"EG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360748,
+    "gn:latitude":26.69934,
+    "gn:longitude":31.60509,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Al Mar\u0101ghah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mar\u00e2gha",
+        "Al Mar\u0101ghah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092018399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360748,
+        "wk:page":"El_Maragha"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"68bf56cf3b1f06c7a8627e3622c105e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018399,
+            "locality_id":1293741735,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1293741735,
+    "wof:lastmodified":1537620895,
+    "wof:name":"Al Maraghah",
+    "wof:parent_id":1092018399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60509,
+    26.69934000000001,
+    31.60509,
+    26.69934000000001
+],
+  "geometry": {"coordinates":[31.60509,26.69934000000001],"type":"Point"}
+}

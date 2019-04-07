@@ -1,0 +1,72 @@
+{
+  "id": 1243563493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07919,29.03174,31.07919,29.03174",
+    "geom:latitude":29.03174,
+    "geom:longitude":31.07919,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bani Sulayman ash Sharqiyah",
+    "gn:country_code":"EG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359178,
+    "gn:latitude":29.03174,
+    "gn:longitude":31.07919,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b Sulaym\u0101n ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Sul\u012bm\u0101n esh Sharq\u012bya",
+        "Beni Sul\u00eem\u00e2n el Sharq\u00eeya",
+        "Ban\u012b Sulaym\u0101n ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359178
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e8d362bb87583a675f1c31186206959f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015341,
+            "locality_id":1243563493,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1243563493,
+    "wof:lastmodified":1537620828,
+    "wof:name":"Bani Sulayman ash Sharqiyah",
+    "wof:parent_id":1092015341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07919,
+    29.03174000000001,
+    31.07919,
+    29.03174000000001
+],
+  "geometry": {"coordinates":[31.07919,29.03174000000001],"type":"Point"}
+}

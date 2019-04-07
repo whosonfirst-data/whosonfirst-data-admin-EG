@@ -1,0 +1,73 @@
+{
+  "id": 1276398077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67736,31.33136,30.67736,31.33136",
+    "geom:latitude":31.33136,
+    "geom:longitude":30.67736,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ar Rahayimah",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415718,
+    "gn:latitude":31.33136,
+    "gn:longitude":30.67736,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ar Ra\u1e29\u0101yimah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u0627\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Ra\u1e29\u0101yimah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092024971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415718
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b435b81149dd3fc1da8e3687733e19fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024971,
+            "locality_id":1276398077,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276398077,
+    "wof:lastmodified":1537620993,
+    "wof:name":"Ar Rahayimah",
+    "wof:parent_id":1092024971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67736,
+    31.33136,
+    30.67736,
+    31.33136
+],
+  "geometry": {"coordinates":[30.67736,31.33136],"type":"Point"}
+}

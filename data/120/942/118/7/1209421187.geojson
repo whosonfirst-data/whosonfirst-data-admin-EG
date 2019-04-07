@@ -1,0 +1,67 @@
+{
+  "id": 1209421187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74476,29.22265,30.74476,29.22265",
+    "geom:latitude":29.22265,
+    "geom:longitude":30.74476,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al Minya",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360685,
+    "gn:latitude":29.22265,
+    "gn:longitude":30.74476,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Miny\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minyat al \u1e28ay\u0163",
+        "El Minya",
+        "Minyet el \u1e24ei\u1e6d",
+        "Al Miny\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360685
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"92d86846cfc7dab8384d32791646ea27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209421187
+        }
+    ],
+    "wof:id":1209421187,
+    "wof:lastmodified":1537620891,
+    "wof:name":"Al Minya",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74476,
+    29.22265,
+    30.74476,
+    29.22265
+],
+  "geometry": {"coordinates":[30.74476,29.22265],"type":"Point"}
+}

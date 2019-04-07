@@ -1,0 +1,89 @@
+{
+  "id": 1209786081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41506,30.06675,32.41506,30.06675",
+    "geom:latitude":30.06675,
+    "geom:longitude":32.41506,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al `Ajrud",
+    "gn:country_code":"EG",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361623,
+    "gn:latitude":30.06675,
+    "gn:longitude":32.41506,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al \u2018Ajr\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062c\u0631\u0648\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u062c\u0631\u0648\u062f",
+        "\u0637\u0627\u0628\u064a\u0629 \u0627\u0644\u0639\u062c\u0631\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Agr\u00fbd Fort",
+        "Fort el Agr\u00fbd",
+        "Agrud",
+        "Al \u2018Ajr\u016bd",
+        "\u2018Ajr\u016bd",
+        "Tabyet el-Agrud",
+        "\u0162\u0101biyat al \u2018Ajr\u016bd",
+        "El-Agr\u00fbd",
+        "Bas\u1e6det el \u2018Agr\u00fbd",
+        "Bas\u0163at al \u2018Ajr\u016bd",
+        "Number Fourteen Tower",
+        "Bastet el \u2018Agr\u016bd",
+        "Basta el-Agr\u00fbd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671013,
+        1092023197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361623
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6e8e2d7349cd777766b9b3a35898dc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023197,
+            "locality_id":1209786081,
+            "region_id":85671013
+        }
+    ],
+    "wof:id":1209786081,
+    "wof:lastmodified":1537620947,
+    "wof:name":"Al `Ajrud",
+    "wof:parent_id":1092023197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41506,
+    30.06675,
+    32.41506,
+    30.06675
+],
+  "geometry": {"coordinates":[32.41506,30.06675],"type":"Point"}
+}

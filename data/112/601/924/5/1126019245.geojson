@@ -1,0 +1,100 @@
+{
+  "id": 1126019245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15777,30.56482,31.15777,30.56482",
+    "geom:latitude":30.56482,
+    "geom:longitude":31.15777,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":42708,
+    "gn:population":42708,
+    "iso:country":"EG",
+    "lbl:latitude":30.56482,
+    "lbl:longitude":31.15777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u064a\u0633\u0646\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Quweisna"
+    ],
+    "name:eng_x_preferred":[
+        "Quweisna"
+    ],
+    "name:pol_x_preferred":[
+        "Kuweisna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0432\u0435\u0439\u0441\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Quwaysin\u0101"
+    ],
+    "name:unk_x_variant":[
+        "Kuesnah"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":350370,
+    "qs_pg:gn_pop":42708,
+    "qs_pg:name":"Quwaysin\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":309703,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092023671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350370,
+        "qs_pg:id":309703,
+        "wd:id":"Q7273033"
+    },
+    "wof:country":"EG",
+    "wof:created":1497300730,
+    "wof:geomhash":"9d5bf6e984d7b222260e38db4fd51471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023671,
+            "locality_id":1126019245,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1126019245,
+    "wof:lastmodified":1513956710,
+    "wof:name":"Quwaysin\u0101",
+    "wof:parent_id":1092023671,
+    "wof:placetype":"locality",
+    "wof:population":42708,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15777,
+    30.56482,
+    31.15777,
+    30.56482
+],
+  "geometry": {"coordinates":[31.15777,30.56482],"type":"Point"}
+}

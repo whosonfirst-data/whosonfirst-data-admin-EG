@@ -1,0 +1,72 @@
+{
+  "id": 1360096727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.11361,31.20778,30.11361,31.20778",
+    "geom:latitude":31.20778,
+    "geom:longitude":30.11361,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izab Difshu",
+    "gn:country_code":"EG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355410,
+    "gn:latitude":31.20778,
+    "gn:longitude":30.11361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izab Difsh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Difshu",
+        "\u2018Izbab Difsh\u016b",
+        "\u2018Izab Difsh\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355410
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dddb35a69f2bbdc28f930ed96fe3945e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1360096727,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1360096727,
+    "wof:lastmodified":1537620766,
+    "wof:name":"`Izab Difshu",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.11361,
+    31.20778,
+    30.11361,
+    31.20778
+],
+  "geometry": {"coordinates":[30.11361,31.20778],"type":"Point"}
+}

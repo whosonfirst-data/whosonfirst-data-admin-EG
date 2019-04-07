@@ -1,0 +1,74 @@
+{
+  "id": 1293857639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83982,30.80282,31.83982,30.80282",
+    "geom:latitude":30.80282,
+    "geom:longitude":31.83982,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Qantir",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350767,
+    "gn:latitude":30.80282,
+    "gn:longitude":31.83982,
+    "gn:modification_date":"2017-07-16",
+    "gn:name":"Qant\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u062a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qant\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350767,
+        "wk:page":"Qantir"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"274ec52dad12c351bf1eba86ac055bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1293857639,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293857639,
+    "wof:lastmodified":1537620598,
+    "wof:name":"Qantir",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83982,
+    30.80282,
+    31.83982,
+    30.80282
+],
+  "geometry": {"coordinates":[31.83982,30.80282],"type":"Point"}
+}

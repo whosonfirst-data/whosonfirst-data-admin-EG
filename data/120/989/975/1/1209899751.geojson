@@ -1,0 +1,72 @@
+{
+  "id": 1209899751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66833,30.72528,31.66833,30.72528",
+    "geom:latitude":30.72528,
+    "geom:longitude":31.66833,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Abu Kabir",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354825,
+    "gn:latitude":30.72528,
+    "gn:longitude":31.66833,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Kafr Ab\u016b Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Abu Keb\u00eer",
+        "Kafr Ab\u016b Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354825
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b93488cc053e9a54d086ca5af2d64420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1209899751,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1209899751,
+    "wof:lastmodified":1537620747,
+    "wof:name":"Kafr Abu Kabir",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66833,
+    30.72528,
+    31.66833,
+    30.72528
+],
+  "geometry": {"coordinates":[31.66833,30.72528],"type":"Point"}
+}

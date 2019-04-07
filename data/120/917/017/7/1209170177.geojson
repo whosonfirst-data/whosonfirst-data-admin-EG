@@ -1,0 +1,66 @@
+{
+  "id": 1209170177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.39971,26.74711,31.39971,26.74711",
+    "geom:latitude":26.74711,
+    "geom:longitude":31.39971,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Jubayrat",
+    "gn:country_code":"EG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361039,
+    "gn:latitude":26.74711,
+    "gn:longitude":31.39971,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jubayr\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gib\u00eer\u00e2t",
+        "Al Jab\u012br\u0101t",
+        "Al Jubayr\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361039
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"65604898067625923901bcb822cea601",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209170177
+        }
+    ],
+    "wof:id":1209170177,
+    "wof:lastmodified":1537620912,
+    "wof:name":"Al Jubayrat",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.39971,
+    26.74711,
+    31.39971,
+    26.74711
+],
+  "geometry": {"coordinates":[31.39971,26.74711],"type":"Point"}
+}

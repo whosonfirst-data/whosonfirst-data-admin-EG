@@ -1,0 +1,109 @@
+{
+  "id": 890431233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80764,27.55602,30.80764,27.55602",
+    "geom:latitude":27.55602,
+    "geom:longitude":30.80764,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":67788,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631\u0648\u0637"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631\u0648\u0637"
+    ],
+    "name:chi_x_preferred":[
+        "\u4ee3\u9b6f\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Dairut"
+    ],
+    "name:eng_x_preferred":[
+        "Dairut"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10d0\u10d8\u10e0\u10e3\u10e2\u10d8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05d9\u05e8\u05d5\u05d8 \u05d0\u05dc-\u05e9\u05e8\u05d9\u05e3"
+    ],
+    "name:ita_x_preferred":[
+        "Dairut"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u06cc\u0631\u0648\u0637"
+    ],
+    "name:pol_x_preferred":[
+        "Dairut"
+    ],
+    "name:rup_x_preferred":[
+        "Dairut"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0439\u0440\u0443\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Dayr\u016b\u0163"
+    ],
+    "name:unk_x_variant":[
+        "Dair\u00fbt el Ma\u1e25a\u1e6d\u1e6da"
+    ],
+    "qs:name":"Dayr\u016b\u0163",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092015987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358269,
+        "gp:id":56447081,
+        "qs:id":274906,
+        "wd:id":"Q951804"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051882,
+    "wof:geomhash":"60db6f961e3c767044e2f1641e77566f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015987,
+            "locality_id":890431233,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":890431233,
+    "wof:lastmodified":1513956684,
+    "wof:name":"Dayr\u016b\u0163",
+    "wof:parent_id":1092015987,
+    "wof:placetype":"locality",
+    "wof:population":67788,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80764,
+    27.55602,
+    30.80764,
+    27.55602
+],
+  "geometry": {"coordinates":[30.80764,27.55602],"type":"Point"}
+}

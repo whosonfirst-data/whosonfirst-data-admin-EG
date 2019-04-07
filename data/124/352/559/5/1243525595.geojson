@@ -1,0 +1,74 @@
+{
+  "id": 1243525595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85569,30.54362,31.85569,30.54362",
+    "geom:latitude":30.54362,
+    "geom:longitude":31.85569,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Qurayn al Jadidah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360541,
+    "gn:latitude":30.54362,
+    "gn:longitude":31.85569,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al Qurayn al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0646 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Qurein el-Ged\u00eeda",
+        "Al Qurayn al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360541
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"547163dcf9acf82b5725d8ff7fd36af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020039,
+            "locality_id":1243525595,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1243525595,
+    "wof:lastmodified":1537620881,
+    "wof:name":"Al Qurayn al Jadidah",
+    "wof:parent_id":1092020039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85569000000001,
+    30.54362,
+    31.85569000000001,
+    30.54362
+],
+  "geometry": {"coordinates":[31.85569000000001,30.54362],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1092017953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.660428,
+    "geom:area_square_m":17770652370.143204,
+    "geom:bbox":"28.498101,29.236454,30.336177,30.889503",
+    "geom:latitude":30.05044,
+    "geom:longitude":29.263291,
+    "iso:country":"EG",
+    "lbl:latitude":29.986882,
+    "lbl:longitude":29.172774,
+    "meso:admin_1":"Marsa Matrooh",
+    "meso:diss_me":"El-HamamMarsa Matrooh",
+    "meso:gadm_admin":"Al-Hammam",
+    "meso:gadm_hasc2":"EG.MT.HA",
+    "meso:gaul_admin":"Al-Hammam",
+    "meso:mps_x":29.172774,
+    "meso:mps_y":29.986882,
+    "meso:name_en":"El-Hamam",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Merkz",
+    "mps:latitude":29.986882,
+    "mps:longitude":29.172774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al-Hammam"
+    ],
+    "name:eng_x_variant":[
+        "Al-Hammam"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.MT",
+    "statoids:name":"Al-Hammam",
+    "statoids:population":"56401",
+    "statoids:statoid":"EG.MT.HA",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.MT.HA"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897262,
+    "wof:geomhash":"b4646969092319538b0c1f724658b142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017953,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1092017953,
+    "wof:lastmodified":1536615086,
+    "wof:name":"El-Hamam",
+    "wof:parent_id":85671031,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":56401,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"HA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.498101,
+    29.236454,
+    30.336177,
+    30.889503
+],
+  "geometry": {"coordinates":[[[28.961878,30.845436],[28.970938,30.838225],[28.981987,30.832966],[28.989367,30.829748],[28.991023,30.829026],[28.992922,30.828721],[29.007002,30.826463],[29.032946,30.817777],[29.054757,30.815504],[29.075634,30.815405],[29.095977,30.817252],[29.130549,30.818069],[29.166983,30.823921],[29.203554,30.832401],[29.228827,30.840302],[29.256499,30.849687],[29.293222,30.85986],[29.323434,30.869801],[29.354983,30.880536],[29.377917,30.889503],[29.380056,30.871881],[29.381012,30.86787],[29.389106,30.85443],[29.356734,30.842591],[29.37293,30.826687],[29.393092,30.812224],[29.411878,30.781628],[29.438486,30.74717],[29.620498,30.748838],[29.631109,30.26259],[30.336177,29.87708],[30.168946,29.7836],[29.924157,29.646559],[29.89127,29.62774],[29.695161,29.518337],[29.672193,29.500109],[29.6085,29.442462],[29.503235,29.346551],[29.381569,29.236454],[29.31898,29.268797],[29.298889,29.290815],[29.159437,29.318219],[28.910351,29.481377],[28.748565,29.618474],[28.581747,29.774889],[28.564696,30.135048],[28.556684,30.362275],[28.567994,30.414693],[28.512315,30.467912],[28.498101,30.512896],[28.619409,30.533583],[28.756178,30.600339],[28.816813,30.638309],[28.860627,30.704916],[28.890925,30.751528],[28.88576,30.680952],[28.916737,30.683901],[28.937422,30.723976],[28.934777,30.762882],[28.961878,30.845436]]],"type":"Polygon"}
+}

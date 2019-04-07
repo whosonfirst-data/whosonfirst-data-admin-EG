@@ -1,0 +1,67 @@
+{
+  "id": 1327110473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76807,28.80914,30.76807,28.80914",
+    "geom:latitude":28.80914,
+    "geom:longitude":30.76807,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"`Izbat Kawm ar Raml",
+    "gn:country_code":"EG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434404,
+    "gn:latitude":28.80914,
+    "gn:longitude":30.76807,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Kawm ar Raml",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092017627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434404
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"09a037f743e5d5d4efa7727da7642c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017627,
+            "locality_id":1327110473,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1327110473,
+    "wof:lastmodified":1536647485,
+    "wof:name":"`Izbat Kawm ar Raml",
+    "wof:parent_id":1092017627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76807,
+    28.80914000000001,
+    30.76807,
+    28.80914000000001
+],
+  "geometry": {"coordinates":[30.76807,28.80914000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293223469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19217,31.11626,31.19217,31.11626",
+    "geom:latitude":31.11626,
+    "geom:longitude":31.19217,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bashbish",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359004,
+    "gn:latitude":31.11626,
+    "gn:longitude":31.19217,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Bashb\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0628\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Bashb\u012bsh",
+        "Bashb\u00eesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359004
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2fb829c7122a75bd06f7dc5f6f4033f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1293223469,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1293223469,
+    "wof:lastmodified":1537620825,
+    "wof:name":"Bashbish",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19217,
+    31.11626,
+    31.19217,
+    31.11626
+],
+  "geometry": {"coordinates":[31.19217,31.11626],"type":"Point"}
+}

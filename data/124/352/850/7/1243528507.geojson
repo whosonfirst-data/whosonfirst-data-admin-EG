@@ -1,0 +1,75 @@
+{
+  "id": 1243528507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8496,31.08194,30.8496,31.08194",
+    "geom:latitude":31.08194,
+    "geom:longitude":30.8496,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Minsha'at as Sughra",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360691,
+    "gn:latitude":31.08194,
+    "gn:longitude":30.8496,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al Minsha\u2019\u0101t a\u015f \u015eughr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0634\u0623\u0629 \u0627\u0644\u0635\u063a\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "El-Minsh\u00e2t el-\u1e62ughra",
+        "Al Minsha\u2019\u0101t a\u015f \u015eughr\u00e1",
+        "Al-Minsh\u0101t a\u1e63-\u1e62ughr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360691
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f5e6ae79ac29fcda2de1a9be4b9a8e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021829,
+            "locality_id":1243528507,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1243528507,
+    "wof:lastmodified":1537620891,
+    "wof:name":"Al Minsha'at as Sughra",
+    "wof:parent_id":1092021829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8496,
+    31.08194,
+    30.8496,
+    31.08194
+],
+  "geometry": {"coordinates":[30.8496,31.08194],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890428251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20071,30.35394,31.20071,30.35394",
+    "geom:latitude":30.35394,
+    "geom:longitude":31.20071,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":67599,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162\u016bkh"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0648\u062e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0445"
+    ],
+    "name:unk_x_variant":[
+        "T\u00fbkh"
+    ],
+    "qs:name":"Toukh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347236,
+        "gp:id":1526531,
+        "qs:id":206078
+    },
+    "wof:country":"EG",
+    "wof:created":1469051745,
+    "wof:geomhash":"0e587f300fb80cdc2b3f1e409927f35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":890428251,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":890428251,
+    "wof:lastmodified":1505343504,
+    "wof:name":"Toukh",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:population":67599,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20071,
+    30.35394,
+    31.20071,
+    30.35394
+],
+  "geometry": {"coordinates":[31.20071,30.35394],"type":"Point"}
+}

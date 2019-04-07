@@ -1,0 +1,71 @@
+{
+  "id": 1292905345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01519,30.69708,30.01519,30.69708",
+    "geom:latitude":30.69708,
+    "geom:longitude":30.01519,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ash Shahid Ahmad Badawi",
+    "gn:country_code":"EG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408927,
+    "gn:latitude":30.69708,
+    "gn:longitude":30.01519,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shah\u012bd A\u1e29mad Badaw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Shah\u00eed A\u1e25mad Badawi",
+        "Ash Shah\u012bd A\u1e29mad Badaw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408927
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"96f47088519d0f921c102b6fd559ca2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1292905345,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1292905345,
+    "wof:lastmodified":1537620966,
+    "wof:name":"Ash Shahid Ahmad Badawi",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01519,
+    30.69708,
+    30.01519,
+    30.69708
+],
+  "geometry": {"coordinates":[30.01519,30.69708],"type":"Point"}
+}

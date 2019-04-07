@@ -1,0 +1,108 @@
+{
+  "id": 85902963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5869986.862111,
+    "geom:bbox":"29.929504,31.177559,29.929504,31.177559",
+    "geom:latitude":31.177559,
+    "geom:longitude":29.929504,
+    "gn:id":"",
+    "iso:country":"EG",
+    "lbl:latitude":31.177559,
+    "lbl:longitude":29.929504,
+    "mps:latitude":31.173424,
+    "mps:longitude":29.931245,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_colloquial":[
+        "Muharram Bey"
+    ],
+    "name:eng_x_preferred":[
+        "Muh\u0327arram Bey"
+    ],
+    "name:eng_x_variant":[
+        "Moharram Bey"
+    ],
+    "name:unk_x_variant":[
+        "Muh\u0327arram Bey"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":1580,
+    "qs:local_sum":9759,
+    "qs:localhoods":18,
+    "qs:name":"Muh\u0327arram Bey",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:name_local":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:photo_max":4,
+    "qs:photo_sum":8,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424802,
+    "qs:woe_adm1":2345228,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1522006,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        1092022525,
+        85671041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1525422,
+        "qs:id":1118056,
+        "qs_pg:id":1118056
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"96d4810c17865e4e1754fad928ae8512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022525,
+            "locality_id":-1,
+            "neighbourhood_id":85902963,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":85902963,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935970,
+    "wof:name":"Muh\u0327arram Bey",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.929504,
+    31.177559,
+    29.929504,
+    31.177559
+],
+  "geometry": {"coordinates":[29.929504,31.177559],"type":"Point"}
+}

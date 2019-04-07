@@ -1,0 +1,74 @@
+{
+  "id": 1243444017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03592,30.25775,31.03592,30.25775",
+    "geom:latitude":30.25775,
+    "geom:longitude":31.03592,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Buhat Shatanuf",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358699,
+    "gn:latitude":30.25775,
+    "gn:longitude":31.03592,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u016bhat Sha\u0163\u0101n\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0647\u0629 \u0634\u0637\u0627\u0646\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "B\u00fbhet Sha\u1e6d\u00e2n\u00fbf",
+        "B\u016bhat Sha\u0163\u0101n\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358699
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b231a70a38a748c25ad711e969e2f6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1243444017,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1243444017,
+    "wof:lastmodified":1537620819,
+    "wof:name":"Buhat Shatanuf",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03592,
+    30.25775,
+    31.03592,
+    30.25775
+],
+  "geometry": {"coordinates":[31.03592,30.25775],"type":"Point"}
+}

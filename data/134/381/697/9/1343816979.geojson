@@ -1,0 +1,77 @@
+{
+  "id": 1343816979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67709,31.29211,30.67709,31.29211",
+    "geom:latitude":31.29211,
+    "geom:longitude":30.67709,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Barriyat al Usayfir",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359041,
+    "gn:latitude":31.29211,
+    "gn:longitude":30.67709,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Barr\u012byat al U\u015fayfir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0629 \u0627\u0644\u0623\u0635\u064a\u0641\u0631"
+    ],
+    "name:und_x_variant":[
+        "El \u2018Aseif\u00e2r",
+        "Barriyat al A\u015fayfar",
+        "Birr\u00eeyet el-A\u1e63eifar",
+        "Barreyit el \u2018Aseifar",
+        "Barr\u012byat al U\u015fayfir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092024971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359041
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"87ace88463be4b9fbdf385af7329a44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024971,
+            "locality_id":1343816979,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1343816979,
+    "wof:lastmodified":1537620825,
+    "wof:name":"Barriyat al Usayfir",
+    "wof:parent_id":1092024971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67709,
+    31.29211,
+    30.67709,
+    31.29211
+],
+  "geometry": {"coordinates":[30.67709,31.29211],"type":"Point"}
+}

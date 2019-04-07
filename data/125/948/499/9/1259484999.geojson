@@ -1,0 +1,75 @@
+{
+  "id": 1259484999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3125,31.02217,30.3125,31.02217",
+    "geom:latitude":31.02217,
+    "geom:longitude":30.3125,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Az Zarqa",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355683,
+    "gn:latitude":31.02217,
+    "gn:longitude":30.3125,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Az Zarq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0642\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Ibr\u00e2h\u00eem el Zarqa",
+        "\u2018Izbat Ibr\u0101h\u012bm az Zarq\u0101\u2019",
+        "Az Zarq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355683
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fe91a9b0af798e7f144f7a2882c87085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1259484999,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259484999,
+    "wof:lastmodified":1537620773,
+    "wof:name":"Az Zarqa",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3125,
+    31.02217000000001,
+    30.3125,
+    31.02217000000001
+],
+  "geometry": {"coordinates":[30.3125,31.02217000000001],"type":"Point"}
+}

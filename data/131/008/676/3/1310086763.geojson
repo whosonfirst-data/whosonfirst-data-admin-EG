@@ -1,0 +1,71 @@
+{
+  "id": 1310086763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.29642,29.57706,31.29642,29.57706",
+    "geom:latitude":29.57706,
+    "geom:longitude":31.29642,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"`Arab as Saff",
+    "gn:country_code":"EG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360235,
+    "gn:latitude":29.57706,
+    "gn:longitude":31.29642,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Arab a\u015f \u015eaff",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Arab el-\u1e62aff",
+        "\u2018Arab a\u015f \u015eaff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092019453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360235
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"60bb304b89e0ba971aa0aaca48f06fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019453,
+            "locality_id":1310086763,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1310086763,
+    "wof:lastmodified":1537620871,
+    "wof:name":"`Arab as Saff",
+    "wof:parent_id":1092019453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29642,
+    29.57706,
+    31.29642,
+    29.57706
+],
+  "geometry": {"coordinates":[31.29642,29.57706],"type":"Point"}
+}

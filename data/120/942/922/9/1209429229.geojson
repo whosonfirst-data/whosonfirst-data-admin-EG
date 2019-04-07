@@ -1,0 +1,68 @@
+{
+  "id": 1209429229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3617,31.17107,31.3617,31.17107",
+    "geom:latitude":31.17107,
+    "geom:longitude":31.3617,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat al `Asiyah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8543582,
+    "gn:latitude":31.17107,
+    "gn:longitude":31.3617,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"\u2018Izbat al \u2018\u0100\u015fiyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u0627\u0635\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u2018\u0100\u015fiyah",
+        "\u2018Izbat al-\u2018\u0100\u1e63iyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543582
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"40fd41c68a3309b5c29412cc866322de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209429229
+        }
+    ],
+    "wof:id":1209429229,
+    "wof:lastmodified":1537621199,
+    "wof:name":"`Izbat al `Asiyah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3617,
+    31.17107,
+    31.3617,
+    31.17107
+],
+  "geometry": {"coordinates":[31.3617,31.17107],"type":"Point"}
+}

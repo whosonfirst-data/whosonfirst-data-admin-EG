@@ -1,0 +1,67 @@
+{
+  "id": 1242779609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66261,30.59075,30.66261,30.59075",
+    "geom:latitude":30.59075,
+    "geom:longitude":30.66261,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat `Umar Ibn al Khattab",
+    "gn:country_code":"EG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421613,
+    "gn:latitude":30.59075,
+    "gn:longitude":30.66261,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Qaryat \u2018Umar Ibn al Kha\u0163\u0163\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421613
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"365f916a0ae23027cf41e6e06ec43c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1242779609,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242779609,
+    "wof:lastmodified":1536773340,
+    "wof:name":"Qaryat `Umar Ibn al Khattab",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66261,
+    30.59075,
+    30.66261,
+    30.59075
+],
+  "geometry": {"coordinates":[30.66261,30.59075],"type":"Point"}
+}

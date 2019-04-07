@@ -1,0 +1,71 @@
+{
+  "id": 1309762353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.07655,26.11782,32.07655,26.11782",
+    "geom:latitude":26.11782,
+    "geom:longitude":32.07655,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kawm Ya`qub",
+    "gn:country_code":"EG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353799,
+    "gn:latitude":26.11782,
+    "gn:longitude":32.07655,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm Ya\u2018q\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f4m Ya\u2018q\u00fbb",
+        "Kawm Ya\u2018q\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092014357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353799
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2a2824e7fa3ddf1bc2b85b19de1a244d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014357,
+            "locality_id":1309762353,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1309762353,
+    "wof:lastmodified":1537620674,
+    "wof:name":"Kawm Ya`qub",
+    "wof:parent_id":1092014357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.07655,
+    26.11782,
+    32.07655,
+    26.11782
+],
+  "geometry": {"coordinates":[32.07655,26.11782],"type":"Point"}
+}

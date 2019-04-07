@@ -1,0 +1,75 @@
+{
+  "id": 1327440193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07829,28.35831,33.07829,28.35831",
+    "geom:latitude":28.35831,
+    "geom:longitude":33.07829,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ras Gharib",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350207,
+    "gn:latitude":28.35831,
+    "gn:longitude":33.07829,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Ras Gharib",
+    "gn:population":32000,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u2019s Gh\u0101rib",
+        "Ras Gharib"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350207,
+        "wk:page":"Ras_Gharib"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fabebd97f2c7a9d2afa33364b76d746c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023825,
+            "locality_id":1327440193,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1327440193,
+    "wof:lastmodified":1537620593,
+    "wof:name":"Ras Gharib",
+    "wof:parent_id":1092023825,
+    "wof:placetype":"locality",
+    "wof:population":32000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07829,
+    28.35831,
+    33.07829,
+    28.35831
+],
+  "geometry": {"coordinates":[33.07829,28.35831],"type":"Point"}
+}

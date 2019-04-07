@@ -1,0 +1,76 @@
+{
+  "id": 1343975783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45259,31.14413,31.45259,31.14413",
+    "geom:latitude":31.14413,
+    "geom:longitude":31.45259,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr al Baramun",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354705,
+    "gn:latitude":31.14413,
+    "gn:longitude":31.45259,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kafr al Bar\u0101m\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0628\u0631\u0627\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Kafr el-Bar\u00e2m\u00fbn",
+        "Kafr el-Bar\u00e2m\u00fbn",
+        "Kafr al Bar\u0101m\u016bn",
+        "Kafr al-Bar\u0101m\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354705
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7ff5eb98fbab56fdec2658f0171c44c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1343975783,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343975783,
+    "wof:lastmodified":1537620737,
+    "wof:name":"Kafr al Baramun",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45259,
+    31.14413,
+    31.45259,
+    31.14413
+],
+  "geometry": {"coordinates":[31.45259,31.14413],"type":"Point"}
+}

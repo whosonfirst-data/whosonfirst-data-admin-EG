@@ -1,0 +1,71 @@
+{
+  "id": 1276424587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72661,28.39877,30.72661,28.39877",
+    "geom:latitude":28.39877,
+    "geom:longitude":30.72661,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ibwan az Zabadi",
+    "gn:country_code":"EG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355645,
+    "gn:latitude":28.39877,
+    "gn:longitude":30.72661,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ibw\u0101n az Zab\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibw\u00e2n el Zab\u00e2di",
+        "Ibw\u0101n az Zab\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355645
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5583457326e06d7a0b20306b66225a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022239,
+            "locality_id":1276424587,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1276424587,
+    "wof:lastmodified":1537620772,
+    "wof:name":"Ibwan az Zabadi",
+    "wof:parent_id":1092022239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72661,
+    28.39877000000001,
+    30.72661,
+    28.39877000000001
+],
+  "geometry": {"coordinates":[30.72661,28.39877000000001],"type":"Point"}
+}

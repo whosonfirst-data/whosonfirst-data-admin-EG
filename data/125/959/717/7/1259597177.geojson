@@ -1,0 +1,73 @@
+{
+  "id": 1259597177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66246,30.9556,31.66246,30.9556",
+    "geom:latitude":30.9556,
+    "geom:longitude":31.66246,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Basyuni",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357587,
+    "gn:latitude":30.9556,
+    "gn:longitude":31.66246,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Basy\u016bn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0628\u0633\u064a\u0648\u0646\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Basy\u016bn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357587
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b21a3e52b22c4b4f7a6f5aa9354e4fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025381,
+            "locality_id":1259597177,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259597177,
+    "wof:lastmodified":1537620799,
+    "wof:name":"`Izbat Basyuni",
+    "wof:parent_id":1092025381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66246,
+    30.9556,
+    31.66246,
+    30.9556
+],
+  "geometry": {"coordinates":[31.66246,30.9556],"type":"Point"}
+}

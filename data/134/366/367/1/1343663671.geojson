@@ -1,0 +1,74 @@
+{
+  "id": 1343663671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25931,31.08833,30.25931,31.08833",
+    "geom:latitude":31.08833,
+    "geom:longitude":30.25931,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Huwayj",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10337162,
+    "gn:latitude":31.08833,
+    "gn:longitude":30.25931,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u2018Izbat \u1e28uwayj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062d\u0648\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u1e28uwayj",
+        "\u2018Izbat \u1e24uwayj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10337162
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fd668e0bbb30d30a2abf72ffe189ea45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1343663671,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343663671,
+    "wof:lastmodified":1537621237,
+    "wof:name":"`Izbat Huwayj",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25931,
+    31.08833,
+    30.25931,
+    31.08833
+],
+  "geometry": {"coordinates":[30.25931,31.08833],"type":"Point"}
+}

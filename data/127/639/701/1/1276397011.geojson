@@ -1,0 +1,71 @@
+{
+  "id": 1276397011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80189,26.3119,31.80189,26.3119",
+    "geom:latitude":26.3119,
+    "geom:longitude":31.80189,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Bayt al Khuraybi",
+    "gn:country_code":"EG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358907,
+    "gn:latitude":26.3119,
+    "gn:longitude":31.80189,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bayt al Khurayb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit el Khureibi",
+        "Bayt al Khurayb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092021127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358907
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e1487d64dcff3bff4b21b9d916f18adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021127,
+            "locality_id":1276397011,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1276397011,
+    "wof:lastmodified":1537620824,
+    "wof:name":"Bayt al Khuraybi",
+    "wof:parent_id":1092021127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80189,
+    26.3119,
+    31.80189,
+    26.3119
+],
+  "geometry": {"coordinates":[31.80189,26.3119],"type":"Point"}
+}

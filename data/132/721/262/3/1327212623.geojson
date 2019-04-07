@@ -1,0 +1,73 @@
+{
+  "id": 1327212623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68631,30.70448,31.68631,30.70448",
+    "geom:latitude":30.70448,
+    "geom:longitude":31.68631,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Kamil",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8358430,
+    "gn:latitude":30.70448,
+    "gn:longitude":31.68631,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"\u2018Izbat K\u0101mil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0643\u0627\u0645\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat K\u0101mil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8358430
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"28bfd7d625d68b49f77a9620ed74551c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1327212623,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1327212623,
+    "wof:lastmodified":1537621190,
+    "wof:name":"`Izbat Kamil",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68631,
+    30.70448,
+    31.68631,
+    30.70448
+],
+  "geometry": {"coordinates":[31.68631,30.70448],"type":"Point"}
+}

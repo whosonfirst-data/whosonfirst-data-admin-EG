@@ -1,0 +1,91 @@
+{
+  "id": 1092025019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":4.409734,
+    "geom:area_square_m":47934129598.967888,
+    "geom:bbox":"24.869994,27.641235,28.86749,29.62",
+    "geom:latitude":28.464772,
+    "geom:longitude":26.318028,
+    "iso:country":"EG",
+    "lbl:latitude":28.391819,
+    "lbl:longitude":26.28796,
+    "meso:admin_1":"Marsa Matrooh",
+    "meso:diss_me":"SiwahMarsa Matrooh",
+    "meso:gadm_admin":"Siwa",
+    "meso:gadm_hasc2":"EG.MT.SI",
+    "meso:gaul_admin":"Siwa",
+    "meso:mps_x":26.28796,
+    "meso:mps_y":28.391819,
+    "meso:name_en":"Siwah",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Merkz",
+    "mps:latitude":28.391819,
+    "mps:longitude":26.28796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Siwa"
+    ],
+    "name:eng_x_variant":[
+        "Siwa"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.MT",
+    "statoids:name":"Siwa",
+    "statoids:population":"21693",
+    "statoids:statoid":"EG.MT.SI",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.MT.SI"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897530,
+    "wof:geomhash":"6895f5206bd53a922212d12515d34012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025019,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1092025019,
+    "wof:lastmodified":1536615093,
+    "wof:name":"Siwah",
+    "wof:parent_id":85671031,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":21693,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"SI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.869994,
+    27.641235,
+    28.86749,
+    29.62
+],
+  "geometry": {"coordinates":[[[24.909994,29.62],[24.966779,29.617743],[24.995105,29.6044],[25.06172,29.592456],[25.313071,29.524959],[25.581158,29.45328],[25.808843,29.327703],[26.000157,29.202387],[26.036518,29.213702],[26.070537,29.217442],[26.070058,29.182475],[26.194431,29.159562],[26.310256,29.136336],[26.438979,29.108246],[27.067255,29.01253],[27.67372,28.922264],[27.852628,28.883436],[28.042455,28.848312],[28.26558,28.807763],[28.86749,28.774524],[27.905685,28.549708],[27.890203,28.539728],[27.885687,28.531051],[27.849831,28.461641],[27.796154,28.351003],[27.784852,28.32966],[27.72703,28.207555],[27.677645,28.111648],[27.604077,27.964883],[27.558782,27.874619],[27.527259,27.811553],[27.471001,27.70531],[27.41771,27.644231],[25.0,27.641235],[25.0,29.256726],[24.969994,29.32],[24.919994,29.43],[24.889994,29.47],[24.879994,29.49],[24.869994,29.51],[24.869994,29.52],[24.869994,29.54],[24.869994,29.55],[24.869994,29.56],[24.879994,29.57],[24.889994,29.59],[24.899994,29.59],[24.909994,29.61],[24.909994,29.62]]],"type":"Polygon"}
+}

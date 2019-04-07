@@ -1,0 +1,75 @@
+{
+  "id": 1293893185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.49587,31.28704,31.49587,31.28704",
+    "geom:latitude":31.28704,
+    "geom:longitude":31.49587,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr Abu Sayyid Ahmad",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354808,
+    "gn:latitude":31.28704,
+    "gn:longitude":31.49587,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ab\u016b Sayyid A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0623\u0628\u0648 \u0633\u064a\u062f \u0623\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kafr Abu S\u00eed Ahmed",
+        "Kafr Abu Saiyid A\u1e25med",
+        "Kafr Ab\u016b Sayyid A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092024759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354808
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"149362512148435fde23b23398b6d58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024759,
+            "locality_id":1293893185,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1293893185,
+    "wof:lastmodified":1537620746,
+    "wof:name":"Kafr Abu Sayyid Ahmad",
+    "wof:parent_id":1092024759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.49587,
+    31.28704,
+    31.49587,
+    31.28704
+],
+  "geometry": {"coordinates":[31.49587,31.28704],"type":"Point"}
+}

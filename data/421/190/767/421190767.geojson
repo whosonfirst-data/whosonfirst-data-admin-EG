@@ -1,0 +1,79 @@
+{
+  "id": 421190767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92677,29.4233,30.92677,29.4233",
+    "geom:latitude":29.4233,
+    "geom:longitude":30.92677,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Az Zirb\u012b"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":434318,
+    "qs:gn_pop":0,
+    "qs:name":"Dar as Salam",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+    "qs:photos":602,
+    "qs:photos_1k":122,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":602,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1120443,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1522811,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092025417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434318,
+        "gp:id":1522811,
+        "qs:id":1120443
+    },
+    "wof:country":"EG",
+    "wof:created":1459009668,
+    "wof:geomhash":"981d27b7fd23b5df64b5f0930383c728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025417,
+            "locality_id":421190767,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":421190767,
+    "wof:lastmodified":1501214320,
+    "wof:name":"Dar as Salam",
+    "wof:parent_id":1092025417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92677,
+    29.4233,
+    30.92677,
+    29.4233
+],
+  "geometry": {"coordinates":[30.92677,29.4233],"type":"Point"}
+}

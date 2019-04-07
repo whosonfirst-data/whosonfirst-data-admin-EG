@@ -1,0 +1,67 @@
+{
+  "id": 1277074675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96667,29.31667,30.96667,29.31667",
+    "geom:latitude":29.31667,
+    "geom:longitude":30.96667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Ezbet el-Gindi",
+    "gn:country_code":"EG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357490,
+    "gn:latitude":29.31667,
+    "gn:longitude":30.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet el-Gindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357490
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c607f5f687bb817eab344c05d5385b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1277074675,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1277074675,
+    "wof:lastmodified":1536779769,
+    "wof:name":"`Ezbet el-Gindi",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96667,
+    29.31667,
+    30.96667,
+    29.31667
+],
+  "geometry": {"coordinates":[30.96667,29.31667],"type":"Point"}
+}

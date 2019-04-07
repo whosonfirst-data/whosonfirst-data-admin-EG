@@ -1,0 +1,73 @@
+{
+  "id": 1309907935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.32521,31.10281,30.32521,31.10281",
+    "geom:latitude":31.10281,
+    "geom:longitude":30.32521,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Tani",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10337161,
+    "gn:latitude":31.10281,
+    "gn:longitude":30.32521,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u2018Izbat T\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062a\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat T\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10337161
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6f43bbf12eaea0ef9faf8abb13128df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1309907935,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1309907935,
+    "wof:lastmodified":1537621236,
+    "wof:name":"`Izbat Tani",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.32521,
+    31.10281,
+    30.32521,
+    31.10281
+],
+  "geometry": {"coordinates":[30.32521,31.10281],"type":"Point"}
+}

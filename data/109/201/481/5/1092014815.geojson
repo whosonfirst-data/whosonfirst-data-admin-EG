@@ -1,0 +1,74 @@
+{
+  "id": 1092014815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.018989,
+    "geom:area_square_m":201230282.292882,
+    "geom:bbox":"33.497004,30.909379,33.604518,31.125436",
+    "geom:latitude":31.015848,
+    "geom:longitude":33.550796,
+    "iso:country":"EG",
+    "lbl:latitude":31.014867,
+    "lbl:longitude":33.55182,
+    "meso:admin_1":"North Sinai",
+    "meso:diss_me":"Awel El-AreeshNorth Sinai",
+    "meso:gadm_admin":"Al-'Arish 4",
+    "meso:gadm_hasc2":"EG.SS.FO",
+    "meso:gaul_admin":"El Arish 4",
+    "meso:mps_x":33.55182,
+    "meso:mps_y":31.014867,
+    "meso:name_en":"Awel El-Areesh",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":31.014867,
+    "mps:longitude":33.55182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "El Arish 4",
+        "Al-'Arish 4"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.SS.FO"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897150,
+    "wof:geomhash":"60c87f90dd257ed527a42afe37afd389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014815,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1092014815,
+    "wof:lastmodified":1536615082,
+    "wof:name":"Awel El-Areesh",
+    "wof:parent_id":85671093,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"FO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.497004,
+    30.909379,
+    33.604518,
+    31.125436
+],
+  "geometry": {"coordinates":[[[33.589551,31.117172],[33.604518,30.914649],[33.514068,30.909379],[33.510676,30.946555],[33.508346,30.975523],[33.506564,31.003285],[33.497004,31.125436],[33.502076,31.124997],[33.517375,31.120512],[33.535243,31.119103],[33.561117,31.117625],[33.58847,31.117161],[33.589551,31.117172]]],"type":"Polygon"}
+}

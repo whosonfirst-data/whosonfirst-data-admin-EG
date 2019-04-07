@@ -1,0 +1,74 @@
+{
+  "id": 1260151577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.99047,30.56613,31.99047,30.56613",
+    "geom:latitude":30.56613,
+    "geom:longitude":31.99047,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Abu Hazayn",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545777,
+    "gn:latitude":30.56613,
+    "gn:longitude":31.99047,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Ab\u016b \u1e28azayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u062d\u0632\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b \u1e28azayn",
+        "\u2018Izbat Ab\u016b \u1e24azayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545777
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ecc6ae83d8e3cfc3e4f2ce0a8e1069d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020039,
+            "locality_id":1260151577,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1260151577,
+    "wof:lastmodified":1537621275,
+    "wof:name":"`Izbat Abu Hazayn",
+    "wof:parent_id":1092020039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.99047,
+    30.56613,
+    31.99047,
+    30.56613
+],
+  "geometry": {"coordinates":[31.99047,30.56613],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260277159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86907,27.64169,30.86907,27.64169",
+    "geom:latitude":27.64169,
+    "geom:longitude":30.86907,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bani `Umran wa Nazlat Samhan",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359225,
+    "gn:latitude":27.64169,
+    "gn:longitude":30.86907,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b \u2018Umr\u0101n wa Nazlat Samh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni \u2018Imran and Nazlet Muhammad Simh\u00e2rt",
+        "Ban\u012b \u2018Imr\u0101n wa Nazlat Mu\u1e29ammad Samh\u0101n",
+        "Ban\u012b \u2018Umr\u0101n wa Nazlat Samh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359225
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6eeff19ca556cd858061baa82a72366d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1260277159,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1260277159,
+    "wof:lastmodified":1537620831,
+    "wof:name":"Bani `Umran wa Nazlat Samhan",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86907,
+    27.64169,
+    30.86907,
+    27.64169
+],
+  "geometry": {"coordinates":[30.86907,27.64169],"type":"Point"}
+}

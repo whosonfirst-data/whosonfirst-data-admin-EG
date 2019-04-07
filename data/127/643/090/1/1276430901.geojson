@@ -1,0 +1,74 @@
+{
+  "id": 1276430901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09104,30.25407,31.09104,30.25407",
+    "geom:latitude":30.25407,
+    "geom:longitude":31.09104,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sarawah",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349586,
+    "gn:latitude":30.25407,
+    "gn:longitude":31.09104,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"\u015ear\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0631\u0627\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e62ar\u00e2wa",
+        "\u015ear\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349586
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4d7c1667f53e065134818b753ab30d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1276430901,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1276430901,
+    "wof:lastmodified":1537620583,
+    "wof:name":"Sarawah",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09104,
+    30.25407,
+    31.09104,
+    30.25407
+],
+  "geometry": {"coordinates":[31.09104,30.25407],"type":"Point"}
+}

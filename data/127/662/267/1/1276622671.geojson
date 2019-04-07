@@ -1,0 +1,71 @@
+{
+  "id": 1276622671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45508,26.81318,31.45508,26.81318",
+    "geom:latitude":26.81318,
+    "geom:longitude":31.45508,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Naj` Hamad",
+    "gn:country_code":"EG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351568,
+    "gn:latitude":26.81318,
+    "gn:longitude":31.45508,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 \u1e28amad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 Hamad",
+        "Naj\u2018 \u1e28amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092025101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351568
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"57ec2b6d5ece6bb3793d112c4ca3d84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025101,
+            "locality_id":1276622671,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1276622671,
+    "wof:lastmodified":1537620628,
+    "wof:name":"Naj` Hamad",
+    "wof:parent_id":1092025101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45508,
+    26.81318,
+    31.45508,
+    26.81318
+],
+  "geometry": {"coordinates":[31.45508,26.81318],"type":"Point"}
+}

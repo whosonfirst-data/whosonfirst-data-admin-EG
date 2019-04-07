@@ -1,0 +1,76 @@
+{
+  "id": 1309979823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.29733,30.52154,31.29733,30.52154",
+    "geom:latitude":30.52154,
+    "geom:longitude":31.29733,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Walaja",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360475,
+    "gn:latitude":30.52154,
+    "gn:longitude":31.29733,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Al Walaj\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0644\u062c\u0627"
+    ],
+    "name:und_x_variant":[
+        "El-Walaga",
+        "Al Walajah",
+        "Al Walaja",
+        "Al Walaj\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360475
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8ba95f76af1e5b925cb8d4015264036e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1309979823,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309979823,
+    "wof:lastmodified":1537620879,
+    "wof:name":"Al Walaja",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29733,
+    30.52154,
+    31.29733,
+    30.52154
+],
+  "geometry": {"coordinates":[31.29733,30.52154],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243317755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.32312,30.7727,34.32312,30.7727",
+    "geom:latitude":30.7727,
+    "geom:longitude":34.32312,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Abu Jurayyan",
+    "gn:country_code":"EG",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414674,
+    "gn:latitude":30.7727,
+    "gn:longitude":34.32312,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Jurayy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Gray\u00e2n",
+        "Ab\u016b Jurayy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092019147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414674
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0cb6edb7fa59d4a283d69b285dff3982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019147,
+            "locality_id":1243317755,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1243317755,
+    "wof:lastmodified":1537620970,
+    "wof:name":"Abu Jurayyan",
+    "wof:parent_id":1092019147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.32312,
+    30.7727,
+    34.32312,
+    30.7727
+],
+  "geometry": {"coordinates":[34.32312,30.7727],"type":"Point"}
+}

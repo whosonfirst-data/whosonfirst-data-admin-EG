@@ -1,0 +1,76 @@
+{
+  "id": 1293159773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91383,31.20578,30.91383,31.20578",
+    "geom:latitude":31.20578,
+    "geom:longitude":30.91383,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al `Aqulah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361561,
+    "gn:latitude":31.20578,
+    "gn:longitude":30.91383,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al \u2018\u0100q\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0642\u0648\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u00c2q\u00fbia",
+        "El-\u2018\u00c2q\u00fbla",
+        "Al \u2018\u0100q\u016blah",
+        "Al-Aqulah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361561
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"96a7f46f3fd939f930e1d9f1f9f262ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1293159773,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1293159773,
+    "wof:lastmodified":1537620944,
+    "wof:name":"Al `Aqulah",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91383,
+    31.20578,
+    30.91383,
+    31.20578
+],
+  "geometry": {"coordinates":[30.91383,31.20578],"type":"Point"}
+}

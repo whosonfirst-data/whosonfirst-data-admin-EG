@@ -1,0 +1,71 @@
+{
+  "id": 1326521917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.02167,30.54667,32.02167,30.54667",
+    "geom:latitude":30.54667,
+    "geom:longitude":32.02167,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"`Izbat al Mahsamah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413843,
+    "gn:latitude":30.54667,
+    "gn:longitude":32.02167,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2018Izbat al Ma\u1e29samah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbat el-Ma\u1e29sama",
+        "\u2018Izbat al Ma\u1e29samah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413843
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8638a9525dbafe53751b9543761b36be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020039,
+            "locality_id":1326521917,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1326521917,
+    "wof:lastmodified":1537621135,
+    "wof:name":"`Izbat al Mahsamah",
+    "wof:parent_id":1092020039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.02167,
+    30.54667,
+    32.02167,
+    30.54667
+],
+  "geometry": {"coordinates":[32.02167,30.54667],"type":"Point"}
+}

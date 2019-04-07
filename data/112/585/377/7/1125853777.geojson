@@ -1,0 +1,87 @@
+{
+  "id": 1125853777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.29151,30.94154,31.29151,30.94154",
+    "geom:latitude":30.94154,
+    "geom:longitude":31.29151,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":34692,
+    "gn:population":34692,
+    "iso:country":"EG",
+    "lbl:latitude":30.94154,
+    "lbl:longitude":31.29151,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u062c\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Aga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0430"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":361702,
+    "qs_pg:gn_pop":34692,
+    "qs_pg:name":"Aj\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":206234,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361702,
+        "qs_pg:id":206234
+    },
+    "wof:country":"EG",
+    "wof:created":1497293524,
+    "wof:geomhash":"cab408df6fb7a2e70a1171ff8a20cf78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014439,
+            "locality_id":1125853777,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1125853777,
+    "wof:lastmodified":1509396102,
+    "wof:name":"Aj\u0101",
+    "wof:parent_id":1092014439,
+    "wof:placetype":"locality",
+    "wof:population":34692,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29151,
+    30.94154,
+    31.29151,
+    30.94154
+],
+  "geometry": {"coordinates":[31.29151,30.94154],"type":"Point"}
+}

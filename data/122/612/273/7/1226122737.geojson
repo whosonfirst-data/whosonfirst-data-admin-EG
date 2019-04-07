@@ -1,0 +1,72 @@
+{
+  "id": 1226122737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27889,30.53889,31.27889,30.53889",
+    "geom:latitude":30.53889,
+    "geom:longitude":31.27889,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr el-Walaga",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354307,
+    "gn:latitude":30.53889,
+    "gn:longitude":31.27889,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Kafr el-Walaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Wagaga",
+        "Kafr el-Walaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092021747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354307
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2b039d032df2e24c1b07bab9685d16f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021747,
+            "locality_id":1226122737,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1226122737,
+    "wof:lastmodified":1537620703,
+    "wof:name":"Kafr el-Walaga",
+    "wof:parent_id":1092021747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27889,
+    30.53889,
+    31.27889,
+    30.53889
+],
+  "geometry": {"coordinates":[31.27889,30.53889],"type":"Point"}
+}

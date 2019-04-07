@@ -1,0 +1,67 @@
+{
+  "id": 1276454847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53333,30.86667,30.53333,30.86667",
+    "geom:latitude":30.86667,
+    "geom:longitude":30.53333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Ezbet el Darawsha",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357519,
+    "gn:latitude":30.86667,
+    "gn:longitude":30.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet el Dar\u00e2wsha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357519
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a3291bcdfb0b474f5a7c2bb1db9ea68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1276454847,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276454847,
+    "wof:lastmodified":1536613416,
+    "wof:name":"`Ezbet el Darawsha",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53333,
+    30.86667000000001,
+    30.53333,
+    30.86667000000001
+],
+  "geometry": {"coordinates":[30.53333,30.86667000000001],"type":"Point"}
+}

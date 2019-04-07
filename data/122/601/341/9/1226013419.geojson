@@ -1,0 +1,71 @@
+{
+  "id": 1226013419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.43333,26.1,32.43333,26.1",
+    "geom:latitude":26.1,
+    "geom:longitude":32.43333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` al Kasarinah",
+    "gn:country_code":"EG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351487,
+    "gn:latitude":26.1,
+    "gn:longitude":32.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 al Kas\u0101rinah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 el Kas\u00e2rna",
+        "Naj\u2018 al Kas\u0101rinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351487
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1fc3b4cf52ae87d8dbd32e97fa8a374a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020315,
+            "locality_id":1226013419,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1226013419,
+    "wof:lastmodified":1537620625,
+    "wof:name":"Naj` al Kasarinah",
+    "wof:parent_id":1092020315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.43333,
+    26.1,
+    32.43333,
+    26.1
+],
+  "geometry": {"coordinates":[32.43333,26.1],"type":"Point"}
+}

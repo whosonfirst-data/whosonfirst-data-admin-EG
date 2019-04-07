@@ -1,0 +1,75 @@
+{
+  "id": 1326994537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.89686,31.23835,30.89686,31.23835",
+    "geom:latitude":31.23835,
+    "geom:longitude":30.89686,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Manshiyat `Aql",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352877,
+    "gn:latitude":31.23835,
+    "gn:longitude":30.89686,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Mansh\u012byat \u2018Aql",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0639\u0642\u0644"
+    ],
+    "name:und_x_variant":[
+        "Mansh\u00eeyet \u2018Aql",
+        "Mansh\u012byat \u2018Aql",
+        "Manshiyyat \u2018Aql"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092024971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352877
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"65e79b469f9bcf5b3f110c1c47422b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024971,
+            "locality_id":1326994537,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1326994537,
+    "wof:lastmodified":1537620661,
+    "wof:name":"Manshiyat `Aql",
+    "wof:parent_id":1092024971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89686,
+    31.23835,
+    30.89686,
+    31.23835
+],
+  "geometry": {"coordinates":[30.89686,31.23835],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242736909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2218,31.17419,31.2218,31.17419",
+    "geom:latitude":31.17419,
+    "geom:longitude":31.2218,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Biyala",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358726,
+    "gn:latitude":31.17419,
+    "gn:longitude":31.2218,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Biyal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Biyal\u0101",
+        "Biyala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358726,
+        "wk:page":"Biyala"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9c1934fa88bbade8bbeaa3cad160bc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1242736909,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1242736909,
+    "wof:lastmodified":1537620819,
+    "wof:name":"Biyala",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2218,
+    31.17419000000001,
+    31.2218,
+    31.17419000000001
+],
+  "geometry": {"coordinates":[31.2218,31.17419000000001],"type":"Point"}
+}

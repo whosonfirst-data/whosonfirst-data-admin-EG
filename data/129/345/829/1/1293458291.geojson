@@ -1,0 +1,74 @@
+{
+  "id": 1293458291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.50737,25.44669,32.50737,25.44669",
+    "geom:latitude":25.44669,
+    "geom:longitude":32.50737,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kiman al Mata`inah",
+    "gn:country_code":"EG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353498,
+    "gn:latitude":25.44669,
+    "gn:longitude":32.50737,
+    "gn:modification_date":"2017-07-15",
+    "gn:name":"K\u012bm\u0101n al Ma\u0163\u0101\u2018inah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0645\u0627\u0646 \u0627\u0644\u0645\u0637\u0627\u0639\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "K\u00eem\u00e2n el Mat\u00e2\u2018n\u00e1",
+        "K\u012bm\u0101n al Ma\u0163\u0101\u2018inah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353498
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9a2720717d03c22daf4985cb0bcdbac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020721,
+            "locality_id":1293458291,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1293458291,
+    "wof:lastmodified":1537620672,
+    "wof:name":"Kiman al Mata`inah",
+    "wof:parent_id":1092020721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.50737,
+    25.44669,
+    32.50737,
+    25.44669
+],
+  "geometry": {"coordinates":[32.50737,25.44669],"type":"Point"}
+}

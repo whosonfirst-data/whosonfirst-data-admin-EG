@@ -1,0 +1,74 @@
+{
+  "id": 1193148519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46491,30.88033,30.46491,30.88033",
+    "geom:latitude":30.88033,
+    "geom:longitude":30.46491,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Khaliliyah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360933,
+    "gn:latitude":30.88033,
+    "gn:longitude":30.46491,
+    "gn:modification_date":"2017-07-16",
+    "gn:name":"Al Khal\u012bl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u064a\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Khal\u00eel\u00eeya",
+        "Al Khal\u012bl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360933
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2c7a7003f89e67e29f96dd73d0d3ac57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1193148519,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1193148519,
+    "wof:lastmodified":1537620905,
+    "wof:name":"Al Khaliliyah",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46491,
+    30.88033,
+    30.46491,
+    30.88033
+],
+  "geometry": {"coordinates":[30.46491,30.88033],"type":"Point"}
+}

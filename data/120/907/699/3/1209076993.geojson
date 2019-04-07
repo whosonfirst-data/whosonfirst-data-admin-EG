@@ -1,0 +1,67 @@
+{
+  "id": 1209076993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52469,30.65882,31.52469,30.65882",
+    "geom:latitude":30.65882,
+    "geom:longitude":31.52469,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Abu Firakh",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354837,
+    "gn:latitude":30.65882,
+    "gn:longitude":31.52469,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ab\u016b Fir\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0623\u0628\u0648 \u0641\u0631\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "Kafr Ab\u016b Fir\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354837
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"34577f6300853dd03bae2f648f660168",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209076993
+        }
+    ],
+    "wof:id":1209076993,
+    "wof:lastmodified":1537620748,
+    "wof:name":"Kafr Abu Firakh",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52469,
+    30.65882,
+    31.52469,
+    30.65882
+],
+  "geometry": {"coordinates":[31.52469,30.65882],"type":"Point"}
+}

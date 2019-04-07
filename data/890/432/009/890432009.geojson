@@ -1,0 +1,93 @@
+{
+  "id": 890432009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.89948,28.82431,30.89948,28.82431",
+    "geom:latitude":28.82431,
+    "geom:longitude":30.89948,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":63793,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0634\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Al Fashn"
+    ],
+    "name:eng_x_preferred":[
+        "Al Fashn"
+    ],
+    "name:est_x_preferred":[
+        "Al-Fashn"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0641\u0634\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0424\u0430\u0448\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Al Fashn"
+    ],
+    "name:unk_x_variant":[
+        "El Fashn"
+    ],
+    "qs:name":"Al Fashn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092017627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361329,
+        "gp:id":1522940,
+        "qs:id":277563,
+        "wd:id":"Q953625",
+        "wk:page":"Al Fashn"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051925,
+    "wof:geomhash":"53cd231d54933785322cd103edd4674f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017627,
+            "locality_id":890432009,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":890432009,
+    "wof:lastmodified":1527793035,
+    "wof:name":"Al Fashn",
+    "wof:parent_id":1092017627,
+    "wof:placetype":"locality",
+    "wof:population":63793,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89948,
+    28.82431,
+    30.89948,
+    28.82431
+],
+  "geometry": {"coordinates":[30.89948,28.82431],"type":"Point"}
+}

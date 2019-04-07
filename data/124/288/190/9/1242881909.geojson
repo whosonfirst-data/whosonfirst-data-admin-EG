@@ -1,0 +1,75 @@
+{
+  "id": 1242881909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33651,31.02186,30.33651,31.02186",
+    "geom:latitude":31.02186,
+    "geom:longitude":30.33651,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"As Sakhrah",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359883,
+    "gn:latitude":31.02186,
+    "gn:longitude":30.33651,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"A\u015f \u015eakhrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u062e\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e62akhra",
+        "A\u015f \u015eakhrah",
+        "A\u1e63-\u1e62akhrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359883
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"983324a13b7f83ee0afa55bc1519aa43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1242881909,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242881909,
+    "wof:lastmodified":1537620855,
+    "wof:name":"As Sakhrah",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33651,
+    31.02186,
+    30.33651,
+    31.02186
+],
+  "geometry": {"coordinates":[30.33651,31.02186],"type":"Point"}
+}

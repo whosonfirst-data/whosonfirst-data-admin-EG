@@ -1,0 +1,68 @@
+{
+  "id": 1209498585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7987,30.51486,31.7987,30.51486",
+    "geom:latitude":30.51486,
+    "geom:longitude":31.7987,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Mansur `Askar",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545754,
+    "gn:latitude":30.51486,
+    "gn:longitude":31.7987,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Man\u015f\u016br \u2018Askar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u0646\u0635\u0648\u0631 \u0639\u0633\u0643\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Man\u015f\u016br \u2018Askar",
+        "\u2018Izbat Man\u1e63\u016br \u2018Askar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545754
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fc3aa2bd387f70f23189ceb7f5c657f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209498585
+        }
+    ],
+    "wof:id":1209498585,
+    "wof:lastmodified":1537621273,
+    "wof:name":"`Izbat Mansur `Askar",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7987,
+    30.51486,
+    31.7987,
+    30.51486
+],
+  "geometry": {"coordinates":[31.7987,30.51486],"type":"Point"}
+}

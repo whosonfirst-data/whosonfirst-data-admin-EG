@@ -1,0 +1,81 @@
+{
+  "id": 1125819195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85,28.91667,30.85,28.91667",
+    "geom:latitude":28.91667,
+    "geom:longitude":30.85,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":37260,
+    "gn:population":37260,
+    "iso:country":"EG",
+    "lbl:latitude":28.91667,
+    "lbl:longitude":30.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sumus\u1e6da el Sul\u1e6d\u00e2ni"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":347749,
+    "qs_pg:gn_pop":37260,
+    "qs_pg:name":"Sumus\u0163\u0101 as Sul\u0163\u0101n\u012b",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":124301,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092024299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347749,
+        "qs_pg:id":124301
+    },
+    "wof:country":"EG",
+    "wof:created":1497291976,
+    "wof:geomhash":"6904b25bf5c3cfe7f6349d0634fb66b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024299,
+            "locality_id":1125819195,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1125819195,
+    "wof:lastmodified":1509393986,
+    "wof:name":"Sumus\u0163\u0101 as Sul\u0163\u0101n\u012b",
+    "wof:parent_id":1092024299,
+    "wof:placetype":"locality",
+    "wof:population":37260,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85,
+    28.91667,
+    30.85,
+    28.91667
+],
+  "geometry": {"coordinates":[30.85,28.91667],"type":"Point"}
+}

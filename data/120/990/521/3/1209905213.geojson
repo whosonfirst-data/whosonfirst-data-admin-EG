@@ -1,0 +1,71 @@
+{
+  "id": 1209905213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68128,28.26821,30.68128,28.26821",
+    "geom:latitude":28.26821,
+    "geom:longitude":30.68128,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ash Shaykh `Abd Allah",
+    "gn:country_code":"EG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360003,
+    "gn:latitude":28.26821,
+    "gn:longitude":30.68128,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shaykh \u2018Abd All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sheikh \u2018Abdalla",
+        "Ash Shaykh \u2018Abd All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092024217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360003
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5ce33b4c25b5a53cc00cc10591685db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024217,
+            "locality_id":1209905213,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1209905213,
+    "wof:lastmodified":1537620861,
+    "wof:name":"Ash Shaykh `Abd Allah",
+    "wof:parent_id":1092024217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68128,
+    28.26821,
+    30.68128,
+    28.26821
+],
+  "geometry": {"coordinates":[30.68128,28.26821],"type":"Point"}
+}

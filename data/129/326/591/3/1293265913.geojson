@@ -1,0 +1,75 @@
+{
+  "id": 1293265913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65555,30.60403,31.65555,30.60403",
+    "geom:latitude":30.60403,
+    "geom:longitude":31.65555,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Hafiz",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354282,
+    "gn:latitude":30.60403,
+    "gn:longitude":31.65555,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u1e28\u0101fiz\u0327",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062d\u0627\u0641\u0638"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u1e24\u00e2fiz Bey",
+        "Kafr \u1e24\u00e2fiz",
+        "Kafr \u1e28\u0101fiz\u0327"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354282
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"773952970d04fbe81eb2c5d54ba15013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014103,
+            "locality_id":1293265913,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293265913,
+    "wof:lastmodified":1537620702,
+    "wof:name":"Kafr Hafiz",
+    "wof:parent_id":1092014103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65555,
+    30.60403,
+    31.65555,
+    30.60403
+],
+  "geometry": {"coordinates":[31.65555,30.60403],"type":"Point"}
+}

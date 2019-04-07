@@ -1,0 +1,71 @@
+{
+  "id": 1344156153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79961,30.89181,30.79961,30.89181",
+    "geom:latitude":30.89181,
+    "geom:longitude":30.79961,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Qasta",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350635,
+    "gn:latitude":30.89181,
+    "gn:longitude":30.79961,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qas\u0163\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qas\u1e6da",
+        "Qas\u0163\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092021623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350635
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"aaec374741d42d6b51e92309f107b813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021623,
+            "locality_id":1344156153,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1344156153,
+    "wof:lastmodified":1537620596,
+    "wof:name":"Qasta",
+    "wof:parent_id":1092021623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79961,
+    30.89181,
+    30.79961,
+    30.89181
+],
+  "geometry": {"coordinates":[30.79961,30.89181],"type":"Point"}
+}

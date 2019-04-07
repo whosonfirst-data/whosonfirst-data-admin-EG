@@ -1,0 +1,67 @@
+{
+  "id": 1343958859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86201,29.17205,30.86201,29.17205",
+    "geom:latitude":29.17205,
+    "geom:longitude":30.86201,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat al Jabal",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434745,
+    "gn:latitude":29.17205,
+    "gn:longitude":30.86201,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat al Jabal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434745
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a7a524a1bfc559304aea1278a86abe5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022937,
+            "locality_id":1343958859,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1343958859,
+    "wof:lastmodified":1537021373,
+    "wof:name":"`Izbat al Jabal",
+    "wof:parent_id":1092022937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86201,
+    29.17205,
+    30.86201,
+    29.17205
+],
+  "geometry": {"coordinates":[30.86201,29.17205],"type":"Point"}
+}

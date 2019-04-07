@@ -1,0 +1,74 @@
+{
+  "id": 1243365383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81433,30.48131,30.81433,30.48131",
+    "geom:latitude":30.48131,
+    "geom:longitude":30.81433,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Salim `Abbud",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545492,
+    "gn:latitude":30.48131,
+    "gn:longitude":30.81433,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Sal\u012bm \u2018Abb\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0633\u0644\u064a\u0645 \u0639\u0628\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Sal\u012bm \u2018Abb\u016bd",
+        "\u2018Izbat Sil\u012bm \u2018Abb\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545492
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"62409a4e29cc531f5d04cdc9198a82de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1243365383,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243365383,
+    "wof:lastmodified":1537621258,
+    "wof:name":"`Izbat Salim `Abbud",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81433,
+    30.48131,
+    30.81433,
+    30.48131
+],
+  "geometry": {"coordinates":[30.81433,30.48131],"type":"Point"}
+}

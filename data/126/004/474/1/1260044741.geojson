@@ -1,0 +1,67 @@
+{
+  "id": 1260044741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81833,31.46111,31.81833,31.46111",
+    "geom:latitude":31.46111,
+    "geom:longitude":31.81833,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Shatt el-Khaiyata",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413282,
+    "gn:latitude":31.46111,
+    "gn:longitude":31.81833,
+    "gn:modification_date":"1998-08-19",
+    "gn:name":"Sha\u1e6d\u1e6d el-Kha\u00eey\u00e2\u1e6da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413282
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fa767b6d9bf2987918d9594169a4af2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":1260044741,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1260044741,
+    "wof:lastmodified":1537042215,
+    "wof:name":"Shatt el-Khaiyata",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81833,
+    31.46111,
+    31.81833,
+    31.46111
+],
+  "geometry": {"coordinates":[31.81833,31.46111],"type":"Point"}
+}

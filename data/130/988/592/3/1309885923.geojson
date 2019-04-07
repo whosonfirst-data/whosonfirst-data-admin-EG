@@ -1,0 +1,76 @@
+{
+  "id": 1309885923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13295,30.39831,31.13295,30.39831",
+    "geom:latitude":30.39831,
+    "geom:longitude":31.13295,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr Tahlah",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354047,
+    "gn:latitude":30.39831,
+    "gn:longitude":31.13295,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u0162a\u1e29lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0637\u062d\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e6ca\u1e25la",
+        "Kafr \u1e6ca\u1e25la",
+        "Kafr \u0162a\u1e29lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092015253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354047,
+        "wk:page":"Kafr_Tahla"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a7d63887aa01429414dbcfacb6d3f782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015253,
+            "locality_id":1309885923,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1309885923,
+    "wof:lastmodified":1537620684,
+    "wof:name":"Kafr Tahlah",
+    "wof:parent_id":1092015253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13295,
+    30.39831,
+    31.13295,
+    30.39831
+],
+  "geometry": {"coordinates":[31.13295,30.39831],"type":"Point"}
+}

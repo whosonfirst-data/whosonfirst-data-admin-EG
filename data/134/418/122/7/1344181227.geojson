@@ -1,0 +1,67 @@
+{
+  "id": 1344181227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88333,29.45,30.88333,29.45",
+    "geom:latitude":29.45,
+    "geom:longitude":30.88333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Ezbet Simeida Farrag",
+    "gn:country_code":"EG",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357100,
+    "gn:latitude":29.45,
+    "gn:longitude":30.88333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet \u1e62imeida Farr\u00e2g",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092025417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357100
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8d2c98368fae0355e3baca0a7fc7032b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025417,
+            "locality_id":1344181227,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1344181227,
+    "wof:lastmodified":1536701614,
+    "wof:name":"`Ezbet Simeida Farrag",
+    "wof:parent_id":1092025417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88333,
+    29.45,
+    30.88333,
+    29.45
+],
+  "geometry": {"coordinates":[30.88333,29.45],"type":"Point"}
+}

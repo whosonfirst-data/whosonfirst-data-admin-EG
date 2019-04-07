@@ -1,0 +1,74 @@
+{
+  "id": 1344141389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23917,30.56289,31.23917,30.56289",
+    "geom:latitude":30.56289,
+    "geom:longitude":31.23917,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mit al `Absi",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352242,
+    "gn:latitude":30.56289,
+    "gn:longitude":31.23917,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"M\u012bt al \u2018Abs\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0627\u0644\u0639\u0628\u0633\u064a"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet el- \u2018Absi",
+        "M\u012bt al \u2018Abs\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092023671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352242
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ee04bc6e7b399314cfd67c23a013750d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023671,
+            "locality_id":1344141389,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1344141389,
+    "wof:lastmodified":1537620644,
+    "wof:name":"Mit al `Absi",
+    "wof:parent_id":1092023671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23917,
+    30.56289,
+    31.23917,
+    30.56289
+],
+  "geometry": {"coordinates":[31.23917,30.56289],"type":"Point"}
+}

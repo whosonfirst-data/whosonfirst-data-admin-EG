@@ -1,0 +1,70 @@
+{
+  "id": 1343508751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.995,31.01,32.995,31.01",
+    "geom:latitude":31.01,
+    "geom:longitude":32.995,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Hayshah ad Dayza",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413483,
+    "gn:latitude":31.01,
+    "gn:longitude":32.995,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Hayshah a\u1e11 \u1e10ayz\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hayshah a\u1e11 \u1e10ayz\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092015521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413483
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7073f8b3853f954fa6f1a1b3514f2d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015521,
+            "locality_id":1343508751,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1343508751,
+    "wof:lastmodified":1537621135,
+    "wof:name":"Hayshah ad Dayza",
+    "wof:parent_id":1092015521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.995,
+    31.01,
+    32.995,
+    31.01
+],
+  "geometry": {"coordinates":[32.995,31.01],"type":"Point"}
+}

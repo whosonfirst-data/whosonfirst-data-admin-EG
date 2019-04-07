@@ -1,0 +1,72 @@
+{
+  "id": 1309688133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74413,28.74692,30.74413,28.74692",
+    "geom:latitude":28.74692,
+    "geom:longitude":30.74413,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"`Atfat Haydar",
+    "gn:country_code":"EG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359751,
+    "gn:latitude":28.74692,
+    "gn:longitude":30.74413,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018A\u0163fat \u1e28aydar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018A\u0163f \u1e28aydar",
+        "\u2018A\u1e6df \u1e24eidar",
+        "\u2018A\u0163fat \u1e28aydar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359751
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0abc5e859a1fac8a0c3d44a8739e4421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016505,
+            "locality_id":1309688133,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1309688133,
+    "wof:lastmodified":1537620848,
+    "wof:name":"`Atfat Haydar",
+    "wof:parent_id":1092016505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74413,
+    28.74692000000001,
+    30.74413,
+    28.74692000000001
+],
+  "geometry": {"coordinates":[30.74413,28.74692000000001],"type":"Point"}
+}

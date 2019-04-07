@@ -1,0 +1,73 @@
+{
+  "id": 1292908279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17676,30.9229,31.17676,30.9229",
+    "geom:latitude":30.9229,
+    "geom:longitude":31.17676,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Shakir",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560824,
+    "gn:latitude":30.9229,
+    "gn:longitude":31.17676,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"\u2018Izbat Sh\u0101kir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0634\u0627\u0643\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Sh\u0101kir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560824
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a7900dd7a3638b4b9584a9428bb88e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1292908279,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1292908279,
+    "wof:lastmodified":1537621211,
+    "wof:name":"`Izbat Shakir",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17676,
+    30.9229,
+    31.17676,
+    30.9229
+],
+  "geometry": {"coordinates":[31.17676,30.9229],"type":"Point"}
+}

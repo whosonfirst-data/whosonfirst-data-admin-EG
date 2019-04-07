@@ -1,0 +1,65 @@
+{
+  "id": 890442877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3552505,29.58333,32.3552505,29.58333",
+    "geom:latitude":29.58333,
+    "geom:longitude":32.35525,
+    "gn:country":"EG",
+    "gp:adm0":23424802,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ein El Sokhna",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0633\u0648\u064a\u0633",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":223,
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":23428056,
+        "qs:id":367833,
+        "wd:id":"Q405881",
+        "wk:page":"Ain Sukhna"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052385,
+    "wof:geomhash":"ff48402c52ffc2023aa433263032a941",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":890442877
+        }
+    ],
+    "wof:id":890442877,
+    "wof:lastmodified":1527792857,
+    "wof:name":"Ein El Sokhna",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3552505,
+    29.58333,
+    32.3552505,
+    29.58333
+],
+  "geometry": {"coordinates":[32.3552505,29.58333],"type":"Point"}
+}

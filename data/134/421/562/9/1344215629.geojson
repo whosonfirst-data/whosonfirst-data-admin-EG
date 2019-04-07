@@ -1,0 +1,68 @@
+{
+  "id": 1344215629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09817,31.0865,28.09817,31.0865",
+    "geom:latitude":31.0865,
+    "geom:longitude":28.09817,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Zawiyat al `Awwamah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346110,
+    "gn:latitude":31.0865,
+    "gn:longitude":28.09817,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat al \u2018Aww\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zawiyet el \u2018Auw\u0101ma",
+        "Zawyet el \u2018Auw\u00e2ma",
+        "Z\u0101wiyat al \u2018Aww\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346110
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"984a740cf61189fed54908ddf6e0b1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1344215629,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344215629,
+    "wof:lastmodified":1537620547,
+    "wof:name":"Zawiyat al `Awwamah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09817,
+    31.0865,
+    28.09817,
+    31.0865
+],
+  "geometry": {"coordinates":[28.09817,31.0865],"type":"Point"}
+}

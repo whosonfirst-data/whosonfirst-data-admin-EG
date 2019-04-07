@@ -1,0 +1,71 @@
+{
+  "id": 1344240569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66546,28.52346,30.66546,28.52346",
+    "geom:latitude":28.52346,
+    "geom:longitude":30.66546,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kafr Abu al `Amudayn",
+    "gn:country_code":"EG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354838,
+    "gn:latitude":28.52346,
+    "gn:longitude":30.66546,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ab\u016b al \u2018Am\u016bdayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Abu el-\u2019Auwad\u00een",
+        "Kafr Ab\u016b al \u2018Am\u016bdayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092015295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354838
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dbeb6fd561c41e22e15d7fbf673f5479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015295,
+            "locality_id":1344240569,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1344240569,
+    "wof:lastmodified":1537620748,
+    "wof:name":"Kafr Abu al `Amudayn",
+    "wof:parent_id":1092015295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66546,
+    28.52346,
+    30.66546,
+    28.52346
+],
+  "geometry": {"coordinates":[30.66546,28.52346],"type":"Point"}
+}

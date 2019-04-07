@@ -1,0 +1,67 @@
+{
+  "id": 1209789485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0,30.8,32.0,30.8",
+    "geom:latitude":30.8,
+    "geom:longitude":32.0,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Ahmad Muhammad `Abd al Karim `Akilah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354764,
+    "gn:latitude":30.8,
+    "gn:longitude":32.0,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Kafr A\u1e29mad Mu\u1e29ammad \u2018Abd al Kar\u012bm \u2018Ak\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354764
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8c2d28054103f96ced24adaf825f2152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1209789485,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1209789485,
+    "wof:lastmodified":1536395661,
+    "wof:name":"Kafr Ahmad Muhammad `Abd al Karim `Akilah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0,
+    30.8,
+    32.0,
+    30.8
+],
+  "geometry": {"coordinates":[32.0,30.8],"type":"Point"}
+}

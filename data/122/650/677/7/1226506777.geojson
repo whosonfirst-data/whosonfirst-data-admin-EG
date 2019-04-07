@@ -1,0 +1,75 @@
+{
+  "id": 1226506777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09142,31.15645,31.09142,31.15645",
+    "geom:latitude":31.15645,
+    "geom:longitude":31.09142,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat al Birnis",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419244,
+    "gn:latitude":31.15645,
+    "gn:longitude":31.09142,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbat al Birnis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u0631\u0646\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Birnis",
+        "\u2018Izbat al- Birins",
+        "\u2018Izbat al Birins"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419244
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"faa5bfcf56652b4bfe5b8ec8a9bf9ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1226506777,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1226506777,
+    "wof:lastmodified":1537621044,
+    "wof:name":"`Izbat al Birnis",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09142,
+    31.15645,
+    31.09142,
+    31.15645
+],
+  "geometry": {"coordinates":[31.09142,31.15645],"type":"Point"}
+}

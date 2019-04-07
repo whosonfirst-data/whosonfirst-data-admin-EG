@@ -1,0 +1,70 @@
+{
+  "id": 1259946533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63778,30.55917,32.63778,30.55917",
+    "geom:latitude":30.55917,
+    "geom:longitude":32.63778,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"At Tasah",
+    "gn:country_code":"EG",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412830,
+    "gn:latitude":30.55917,
+    "gn:longitude":32.63778,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"A\u0163 \u0162\u0101sah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u0163 \u0162\u0101sah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092023021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412830
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6f5a4f3bada201674e373369818245f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023021,
+            "locality_id":1259946533,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1259946533,
+    "wof:lastmodified":1537621134,
+    "wof:name":"At Tasah",
+    "wof:parent_id":1092023021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63778,
+    30.55917,
+    32.63778,
+    30.55917
+],
+  "geometry": {"coordinates":[32.63778,30.55917],"type":"Point"}
+}

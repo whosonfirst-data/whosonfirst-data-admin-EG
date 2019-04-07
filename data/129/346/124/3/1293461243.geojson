@@ -1,0 +1,71 @@
+{
+  "id": 1293461243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68333,27.61667,30.68333,27.61667",
+    "geom:latitude":27.61667,
+    "geom:longitude":30.68333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Naj` ar Rubay`at",
+    "gn:country_code":"EG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351452,
+    "gn:latitude":27.61667,
+    "gn:longitude":30.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 ar Rubay\u2018\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag el Rabeiiyat",
+        "Naj\u2018 ar Rubay\u2018\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351452
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b15e404bb65a47e1a388a9b277367cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1293461243,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1293461243,
+    "wof:lastmodified":1537620622,
+    "wof:name":"Naj` ar Rubay`at",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68333,
+    27.61667000000001,
+    30.68333,
+    27.61667000000001
+],
+  "geometry": {"coordinates":[30.68333,27.61667000000001],"type":"Point"}
+}

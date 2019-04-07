@@ -1,0 +1,77 @@
+{
+  "id": 1259972117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9132,31.07829,29.9132,31.07829",
+    "geom:latitude":31.07829,
+    "geom:longitude":29.9132,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"`Ilwat al Hajj `Umar",
+    "gn:country_code":"EG",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8365047,
+    "gn:latitude":31.07829,
+    "gn:longitude":29.9132,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"\u2018Ilwat al \u1e28\u0101jj \u2018Umar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0648\u0629 \u0627\u0644\u062d\u0627\u062c \u0639\u0645\u0631"
+    ],
+    "name:ara_x_variant":[
+        "Al Mi\u1e29j\u0101f",
+        "\u0627\u0644\u0645\u062d\u062c\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ilwat al \u1e28\u0101jj \u2018Umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8365047
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"47970556e623aacdd66873436f51f9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":1259972117,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1259972117,
+    "wof:lastmodified":1537621194,
+    "wof:name":"`Ilwat al Hajj `Umar",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9132,
+    31.07829000000001,
+    29.9132,
+    31.07829000000001
+],
+  "geometry": {"coordinates":[29.9132,31.07829000000001],"type":"Point"}
+}

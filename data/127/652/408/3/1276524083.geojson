@@ -1,0 +1,72 @@
+{
+  "id": 1276524083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68333,27.63333,30.68333,27.63333",
+    "geom:latitude":27.63333,
+    "geom:longitude":30.68333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Naj` Qimatah",
+    "gn:country_code":"EG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351399,
+    "gn:latitude":27.63333,
+    "gn:longitude":30.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 Qim\u0101\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 Qum\u00e2ta",
+        "Nag\u2018 Qam\u00e2ta",
+        "Naj\u2018 Qim\u0101\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351399
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"903f20e77a0d7fee35d911b770e29755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1276524083,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1276524083,
+    "wof:lastmodified":1537620619,
+    "wof:name":"Naj` Qimatah",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68333,
+    27.63333,
+    30.68333,
+    27.63333
+],
+  "geometry": {"coordinates":[30.68333,27.63333],"type":"Point"}
+}

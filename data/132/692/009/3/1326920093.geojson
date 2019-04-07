@@ -1,0 +1,75 @@
+{
+  "id": 1326920093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02966,30.34036,31.02966,30.34036",
+    "geom:latitude":30.34036,
+    "geom:longitude":31.02966,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Manyal Duwayb",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352842,
+    "gn:latitude":30.34036,
+    "gn:longitude":31.02966,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Manyal Duwayb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u064a\u0644 \u062f\u0648\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Manyal Duweib",
+        "Manyal Duwayb wa Minsh\u0101tuh\u0101",
+        "Manyal Duwayb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352842
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"726d8d9c2760e700faedc0fd76378ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1326920093,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1326920093,
+    "wof:lastmodified":1537620659,
+    "wof:name":"Manyal Duwayb",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02966,
+    30.34036,
+    31.02966,
+    30.34036
+],
+  "geometry": {"coordinates":[31.02966,30.34036],"type":"Point"}
+}

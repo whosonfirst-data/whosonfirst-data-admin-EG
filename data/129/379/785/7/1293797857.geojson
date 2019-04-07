@@ -1,0 +1,74 @@
+{
+  "id": 1293797857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4513,31.18541,31.4513,31.18541",
+    "geom:latitude":31.18541,
+    "geom:longitude":31.4513,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Na`imah Muharram",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8544109,
+    "gn:latitude":31.18541,
+    "gn:longitude":31.4513,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"\u2018Izbat Na\u2018\u012bmah Mu\u1e29arram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0646\u0639\u064a\u0645\u0629 \u0645\u062d\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Na\u2018\u012bmah Mu\u1e29arram",
+        "\u2018Izbat Na\u2018\u012bmah Mu\u1e25arram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8544109
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ab29f4e3202642dc3be32a13f426e892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1293797857,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1293797857,
+    "wof:lastmodified":1537621202,
+    "wof:name":"`Izbat Na`imah Muharram",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4513,
+    31.18541,
+    31.4513,
+    31.18541
+],
+  "geometry": {"coordinates":[31.4513,31.18541],"type":"Point"}
+}

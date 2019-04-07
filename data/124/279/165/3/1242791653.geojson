@@ -1,0 +1,71 @@
+{
+  "id": 1242791653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83069,31.48381,31.83069,31.48381",
+    "geom:latitude":31.48381,
+    "geom:longitude":31.83069,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ash Shaykh Dirgham",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359993,
+    "gn:latitude":31.48381,
+    "gn:longitude":31.83069,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shaykh \u1e10irgh\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Sheikh Durgh\u00e2m",
+        "Ash Shaykh \u1e10irgh\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359993
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d41d3ff8316c0b7c9866a0d2c343fc02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":1242791653,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1242791653,
+    "wof:lastmodified":1537620861,
+    "wof:name":"Ash Shaykh Dirgham",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83069,
+    31.48381,
+    31.83069,
+    31.48381
+],
+  "geometry": {"coordinates":[31.83069,31.48381],"type":"Point"}
+}

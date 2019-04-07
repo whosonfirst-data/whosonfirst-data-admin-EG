@@ -1,0 +1,71 @@
+{
+  "id": 1193137627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88184,29.38113,30.88184,29.38113",
+    "geom:latitude":29.38113,
+    "geom:longitude":30.88184,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Minshat 'Utayfah",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352360,
+    "gn:latitude":29.38113,
+    "gn:longitude":30.88184,
+    "gn:modification_date":"2017-08-21",
+    "gn:name":"Minsh\u0101t \u2018U\u0163ayfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minsh\u00e2t \u2018U\u1e6deifa",
+        "Minsh\u0101t \u2018U\u0163ayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092024457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352360
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"970d7754dea0d09ccd5eac5c51f3848a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024457,
+            "locality_id":1193137627,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1193137627,
+    "wof:lastmodified":1537620648,
+    "wof:name":"Minshat 'Utayfah",
+    "wof:parent_id":1092024457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88184,
+    29.38113,
+    30.88184,
+    29.38113
+],
+  "geometry": {"coordinates":[30.88184,29.38113],"type":"Point"}
+}

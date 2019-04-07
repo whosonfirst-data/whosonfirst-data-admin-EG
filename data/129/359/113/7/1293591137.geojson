@@ -1,0 +1,70 @@
+{
+  "id": 1293591137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67001,30.74841,30.67001,30.74841",
+    "geom:latitude":30.74841,
+    "geom:longitude":30.67001,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Khirbita",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353588,
+    "gn:latitude":30.74841,
+    "gn:longitude":30.67001,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khirbit\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbit\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353588
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8d99fedf3b53d5e8bff275a8e2dacac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1293591137,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1293591137,
+    "wof:lastmodified":1537620672,
+    "wof:name":"Khirbita",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67001,
+    30.74841,
+    30.67001,
+    30.74841
+],
+  "geometry": {"coordinates":[30.67001,30.74841],"type":"Point"}
+}

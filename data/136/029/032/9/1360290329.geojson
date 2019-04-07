@@ -1,0 +1,74 @@
+{
+  "id": 1360290329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92204,30.90477,30.92204,30.90477",
+    "geom:latitude":30.90477,
+    "geom:longitude":30.92204,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Atf Abu Jundi",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359752,
+    "gn:latitude":30.90477,
+    "gn:longitude":30.92204,
+    "gn:modification_date":"2017-07-17",
+    "gn:name":"\u2018A\u0163f Ab\u016b Jund\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0637\u0641 \u0627\u0628\u0648 \u062c\u0646\u062f\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u2018A\u1e6df Abu Gindi",
+        "\u2018A\u0163f Ab\u016b Jund\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092023627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359752
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"07fdfa5ccf49f8c27edb6577ada4bb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023627,
+            "locality_id":1360290329,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1360290329,
+    "wof:lastmodified":1537620848,
+    "wof:name":"`Atf Abu Jundi",
+    "wof:parent_id":1092023627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92204000000001,
+    30.90477000000001,
+    30.92204000000001,
+    30.90477000000001
+],
+  "geometry": {"coordinates":[30.92204000000001,30.90477000000001],"type":"Point"}
+}

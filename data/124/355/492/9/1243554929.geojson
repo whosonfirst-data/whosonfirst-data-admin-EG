@@ -1,0 +1,74 @@
+{
+  "id": 1243554929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72949,29.15138,30.72949,29.15138",
+    "geom:latitude":29.15138,
+    "geom:longitude":30.72949,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Munsha'at `Abd al Majid",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352449,
+    "gn:latitude":29.15138,
+    "gn:longitude":30.72949,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Munsha\u2019at \u2018Abd al Maj\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munsha\u2019at \u2018Abd al Maj\u012bd",
+        "Minsha\u2019t \u2018Abd al Maj\u012bd",
+        "Minsh\u00e2t Mu\u1e25ammad Abd el Mag\u00eed",
+        "Danyal el Bahar\u00eeya",
+        "Minsh\u0101t \u2018Abd al Maj\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352449
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b716570c175eff411e253427640a6df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1243554929,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1243554929,
+    "wof:lastmodified":1537620655,
+    "wof:name":"Munsha'at `Abd al Majid",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72949,
+    29.15138,
+    30.72949,
+    29.15138
+],
+  "geometry": {"coordinates":[30.72949,29.15138],"type":"Point"}
+}

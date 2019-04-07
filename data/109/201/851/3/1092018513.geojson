@@ -1,0 +1,74 @@
+{
+  "id": 1092018513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001366,
+    "geom:area_square_m":14898880.067314,
+    "geom:bbox":"30.792605,28.088084,30.821329,28.136304",
+    "geom:latitude":28.112037,
+    "geom:longitude":30.806798,
+    "iso:country":"EG",
+    "lbl:latitude":28.112124,
+    "lbl:longitude":30.806798,
+    "meso:admin_1":"Menia",
+    "meso:diss_me":"El-Menya El-GedidahMenia",
+    "meso:gadm_admin":"Unorganized in Al Minya",
+    "meso:gadm_hasc2":"EG.IK.UO",
+    "meso:gaul_admin":"Zemam Out",
+    "meso:mps_x":30.806798,
+    "meso:mps_y":28.112124,
+    "meso:name_en":"El-Menya El-Gedidah",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Merkz",
+    "mps:latitude":28.112124,
+    "mps:longitude":30.806798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Zemam Out",
+        "Unorganized in Al Minya"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.IK.UO"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897292,
+    "wof:geomhash":"f6f2c28ab8e84990d50ec5de8f457d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018513,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1092018513,
+    "wof:lastmodified":1536615086,
+    "wof:name":"El-Menya El-Gedidah",
+    "wof:parent_id":85671085,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"UO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.792605,
+    28.088084,
+    30.821329,
+    28.136304
+],
+  "geometry": {"coordinates":[[[30.792605,28.136304],[30.820705,28.136028],[30.821329,28.088084],[30.792605,28.088084],[30.792605,28.136304]]],"type":"Polygon"}
+}

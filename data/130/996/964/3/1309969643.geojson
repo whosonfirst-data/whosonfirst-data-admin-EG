@@ -1,0 +1,72 @@
+{
+  "id": 1309969643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83333,27.45,30.83333,27.45",
+    "geom:latitude":27.45,
+    "geom:longitude":30.83333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tanaghah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347526,
+    "gn:latitude":27.45,
+    "gn:longitude":30.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tan\u0101ghah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tan\u00e2gha",
+        "Tan\u0101ghah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092019229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347526
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d0064ca5c212306ce3e65ab98a120e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019229,
+            "locality_id":1309969643,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1309969643,
+    "wof:lastmodified":1537620560,
+    "wof:name":"Tanaghah",
+    "wof:parent_id":1092019229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83333,
+    27.45,
+    30.83333,
+    27.45
+],
+  "geometry": {"coordinates":[30.83333,27.45],"type":"Point"}
+}

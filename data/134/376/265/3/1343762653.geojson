@@ -1,0 +1,67 @@
+{
+  "id": 1343762653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98824,29.37924,30.98824,29.37924",
+    "geom:latitude":29.37924,
+    "geom:longitude":30.98824,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat `Uthman `Abbas",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434344,
+    "gn:latitude":29.37924,
+    "gn:longitude":30.98824,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat \u2018Uthm\u0101n \u2018Abb\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434344
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f1b4c658671a0dbee72c017e89bfc4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1343762653,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1343762653,
+    "wof:lastmodified":1536807506,
+    "wof:name":"`Izbat `Uthman `Abbas",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98824,
+    29.37924000000001,
+    30.98824,
+    29.37924000000001
+],
+  "geometry": {"coordinates":[30.98824,29.37924000000001],"type":"Point"}
+}

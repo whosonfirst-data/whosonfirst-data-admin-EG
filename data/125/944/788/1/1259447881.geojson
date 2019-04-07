@@ -1,0 +1,73 @@
+{
+  "id": 1259447881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67506,31.43482,31.67506,31.43482",
+    "geom:latitude":31.43482,
+    "geom:longitude":31.67506,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Dumyat al Jadidah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421251,
+    "gn:latitude":31.43482,
+    "gn:longitude":31.67506,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dumy\u0101\u0163 al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u064a\u0627\u0637 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dumy\u0101\u0163 al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421251
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3f2b9ea2076f8f8fb5c5d7e987f2979b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016271,
+            "locality_id":1259447881,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1259447881,
+    "wof:lastmodified":1537621105,
+    "wof:name":"Dumyat al Jadidah",
+    "wof:parent_id":1092016271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67506,
+    31.43482,
+    31.67506,
+    31.43482
+],
+  "geometry": {"coordinates":[31.67506,31.43482],"type":"Point"}
+}

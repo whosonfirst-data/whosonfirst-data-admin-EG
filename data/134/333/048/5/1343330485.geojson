@@ -1,0 +1,76 @@
+{
+  "id": 1343330485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.92554,31.61245,25.92554,31.61245",
+    "geom:latitude":31.61245,
+    "geom:longitude":25.92554,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sidi Barrani",
+    "gn:country_code":"EG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":348548,
+    "gn:latitude":31.61245,
+    "gn:longitude":25.92554,
+    "gn:modification_date":"2017-04-11",
+    "gn:name":"S\u012bd\u012b Barr\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u0628\u0631\u0627\u0646\u0649"
+    ],
+    "name:und_x_variant":[
+        "El Bomba",
+        "Sidi el-Barr\u00e1ni",
+        "S\u012bd\u012b Barr\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092024899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":348548,
+        "wk:page":"Sidi_Barrani"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f0e83d6b12eb04b1720ac16a3141f88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024899,
+            "locality_id":1343330485,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1343330485,
+    "wof:lastmodified":1537620569,
+    "wof:name":"Sidi Barrani",
+    "wof:parent_id":1092024899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.92554,
+    31.61245,
+    25.92554,
+    31.61245
+],
+  "geometry": {"coordinates":[25.92554,31.61245],"type":"Point"}
+}

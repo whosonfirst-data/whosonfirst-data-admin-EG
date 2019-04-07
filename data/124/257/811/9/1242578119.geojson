@@ -1,0 +1,71 @@
+{
+  "id": 1242578119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8682,29.36612,30.8682,29.36612",
+    "geom:latitude":29.36612,
+    "geom:longitude":30.8682,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al Ka`abi al Jadidah",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360988,
+    "gn:latitude":29.36612,
+    "gn:longitude":30.8682,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ka\u2018\u0101b\u012b al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Ka\u2018\u00e2bi el-Ged\u00eeda",
+        "Al Ka\u2018\u0101b\u012b al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092024457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360988
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"54f585bf7600522d389548c7dd456f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024457,
+            "locality_id":1242578119,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1242578119,
+    "wof:lastmodified":1537620909,
+    "wof:name":"Al Ka`abi al Jadidah",
+    "wof:parent_id":1092024457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8682,
+    29.36612,
+    30.8682,
+    29.36612
+],
+  "geometry": {"coordinates":[30.8682,29.36612],"type":"Point"}
+}

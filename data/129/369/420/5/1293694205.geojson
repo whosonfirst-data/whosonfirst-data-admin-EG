@@ -1,0 +1,75 @@
+{
+  "id": 1293694205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.376,31.12046,30.376,31.12046",
+    "geom:latitude":31.12046,
+    "geom:longitude":30.376,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bisintaway",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358742,
+    "gn:latitude":31.12046,
+    "gn:longitude":30.376,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Bisint\u0101w\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0646\u062a\u0627\u0648\u0627\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bisint\u00e2w\u00e2i",
+        "Bisint\u0101w\u0101y",
+        "\u2018Ezab Bisint\u00e2w\u00e2i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358742
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"08e2b41a1a46de64ae63925587038b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1293694205,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1293694205,
+    "wof:lastmodified":1537620819,
+    "wof:name":"Bisintaway",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.376,
+    31.12046,
+    30.376,
+    31.12046
+],
+  "geometry": {"coordinates":[30.376,31.12046],"type":"Point"}
+}

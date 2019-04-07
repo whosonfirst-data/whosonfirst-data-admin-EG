@@ -1,0 +1,74 @@
+{
+  "id": 1209875163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75962,31.13047,30.75962,31.13047",
+    "geom:latitude":31.13047,
+    "geom:longitude":30.75962,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Minsha'at Battah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352407,
+    "gn:latitude":31.13047,
+    "gn:longitude":30.75962,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Minsha\u2019\u0101t Ba\u0163\u0163\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u0628\u0637\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Minsha\u2019\u0101t Ba\u0163\u0163\u0101\u1e29",
+        "Minsh\u0101t Ba\u1e6d\u1e6d\u0101\u1e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352407
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4b4c171fbd3963024e231d8dea9423fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1209875163,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1209875163,
+    "wof:lastmodified":1537620652,
+    "wof:name":"Minsha'at Battah",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75962,
+    31.13047000000001,
+    30.75962,
+    31.13047000000001
+],
+  "geometry": {"coordinates":[30.75962,31.13047000000001],"type":"Point"}
+}

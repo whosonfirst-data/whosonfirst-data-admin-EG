@@ -1,0 +1,68 @@
+{
+  "id": 1209326299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82574,30.4062,30.82574,30.4062",
+    "geom:latitude":30.4062,
+    "geom:longitude":30.82574,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat ad Duktur Mahmud Salim",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545653,
+    "gn:latitude":30.4062,
+    "gn:longitude":30.82574,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat ad Dukt\u016br Ma\u1e29m\u016bd S\u0101lim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062f\u0643\u062a\u0648\u0631 \u0645\u062d\u0645\u0648\u062f \u0633\u0627\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ad Dukt\u016br Ma\u1e29m\u016bd S\u0101lim",
+        "\u2018Izbat Doctor Ma\u1e25m\u016bd S\u0101lim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545653
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9d2e5e3ac9c29c9d612d93a992a87d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209326299
+        }
+    ],
+    "wof:id":1209326299,
+    "wof:lastmodified":1537621268,
+    "wof:name":"`Izbat ad Duktur Mahmud Salim",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82574,
+    30.4062,
+    30.82574,
+    30.4062
+],
+  "geometry": {"coordinates":[30.82574,30.4062],"type":"Point"}
+}

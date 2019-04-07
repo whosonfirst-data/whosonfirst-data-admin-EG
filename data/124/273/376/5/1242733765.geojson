@@ -1,0 +1,72 @@
+{
+  "id": 1242733765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.96805,26.20754,31.96805,26.20754",
+    "geom:latitude":26.20754,
+    "geom:longitude":31.96805,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Barkhil",
+    "gn:country_code":"EG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358626,
+    "gn:latitude":26.20754,
+    "gn:longitude":31.96805,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Barkh\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barkheil",
+        "Burkhayl",
+        "Barkh\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092017143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358626
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ed2ad3df78d3cb807d94e6f2852201be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017143,
+            "locality_id":1242733765,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1242733765,
+    "wof:lastmodified":1537620817,
+    "wof:name":"Barkhil",
+    "wof:parent_id":1092017143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.96805,
+    26.20754,
+    31.96805,
+    26.20754
+],
+  "geometry": {"coordinates":[31.96805,26.20754],"type":"Point"}
+}

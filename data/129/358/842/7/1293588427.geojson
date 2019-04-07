@@ -1,0 +1,74 @@
+{
+  "id": 1293588427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05432,30.9911,31.05432,30.9911",
+    "geom:latitude":30.9911,
+    "geom:longitude":31.05432,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat al Islah Awwal",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560278,
+    "gn:latitude":30.9911,
+    "gn:longitude":31.05432,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat al I\u015fl\u0101\u1e29 Awwal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0627\u0635\u0644\u0627\u062d \u0627\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al I\u015fl\u0101\u1e29 Awwal",
+        "\u2018Izbat al I\u1e63l\u0101\u1e25 No. 1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560278
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f432c351bc487cd2719d63d4007b7e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1293588427,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1293588427,
+    "wof:lastmodified":1537621205,
+    "wof:name":"`Izbat al Islah Awwal",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05432,
+    30.9911,
+    31.05432,
+    30.9911
+],
+  "geometry": {"coordinates":[31.05432,30.9911],"type":"Point"}
+}

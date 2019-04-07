@@ -1,0 +1,75 @@
+{
+  "id": 1209733093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71466,31.01701,31.71466,31.01701",
+    "geom:latitude":31.01701,
+    "geom:longitude":31.71466,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Khamsat `Ashar",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559191,
+    "gn:latitude":31.01701,
+    "gn:longitude":31.71466,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat Khamsat \u2018Ashar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062e\u0645\u0633\u0629 \u0639\u0634\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Khamsat \u2018Ashar",
+        "\u2018Iz. 15",
+        "\u2018Izbat 15"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092016227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559191
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b2ef0258a0240dd1f41ffbd9e1ae24d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016227,
+            "locality_id":1209733093,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1209733093,
+    "wof:lastmodified":1537621205,
+    "wof:name":"`Izbat Khamsat `Ashar",
+    "wof:parent_id":1092016227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71466,
+    31.01701,
+    31.71466,
+    31.01701
+],
+  "geometry": {"coordinates":[31.71466,31.01701],"type":"Point"}
+}

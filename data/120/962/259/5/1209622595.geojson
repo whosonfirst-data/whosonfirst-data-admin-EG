@@ -1,0 +1,68 @@
+{
+  "id": 1209622595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.22699,31.14491,30.22699,31.14491",
+    "geom:latitude":31.14491,
+    "geom:longitude":30.22699,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tamamah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347548,
+    "gn:latitude":31.14491,
+    "gn:longitude":30.22699,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Tam\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0645\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tam\u00e2ma",
+        "Tam\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347548
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"afb53c01715313dbd76a034fa4e12a8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209622595
+        }
+    ],
+    "wof:id":1209622595,
+    "wof:lastmodified":1537620560,
+    "wof:name":"Tamamah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.22699,
+    31.14491,
+    30.22699,
+    31.14491
+],
+  "geometry": {"coordinates":[30.22699,31.14491],"type":"Point"}
+}

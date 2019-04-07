@@ -1,0 +1,74 @@
+{
+  "id": 1259685815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06823,31.1307,30.06823,31.1307",
+    "geom:latitude":31.1307,
+    "geom:longitude":30.06823,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat as Sab`in",
+    "gn:country_code":"EG",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349956,
+    "gn:latitude":31.1307,
+    "gn:longitude":30.06823,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat as Sab\u2018\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0633\u0628\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet el-Sab\u2018\u00een",
+        "\u2018Izbat as Sab\u2018\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349956
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ee65b59f80350fa2840d082a6cdd3227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1259685815,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259685815,
+    "wof:lastmodified":1537620591,
+    "wof:name":"`Izbat as Sab`in",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06823,
+    31.1307,
+    30.06823,
+    31.1307
+],
+  "geometry": {"coordinates":[30.06823,31.1307],"type":"Point"}
+}

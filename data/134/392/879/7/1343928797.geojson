@@ -1,0 +1,76 @@
+{
+  "id": 1343928797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.70617,30.8809,31.70617,30.8809",
+    "geom:latitude":30.8809,
+    "geom:longitude":31.70617,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr al Jamayilah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354628,
+    "gn:latitude":30.8809,
+    "gn:longitude":31.70617,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kafr al Jam\u0101yilah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u062c\u0645\u0627\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Gam\u00e2yla",
+        "Kafr al Jamm\u0101l\u012byah",
+        "Kafr al Jam\u0101ylah",
+        "Kafr al Jam\u0101yilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354628
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c56d6b11c5d82adbfb6fa812f7d54486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1343928797,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343928797,
+    "wof:lastmodified":1537620730,
+    "wof:name":"Kafr al Jamayilah",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.70617,
+    30.8809,
+    31.70617,
+    30.8809
+],
+  "geometry": {"coordinates":[31.70617,30.8809],"type":"Point"}
+}

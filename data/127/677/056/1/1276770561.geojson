@@ -1,0 +1,71 @@
+{
+  "id": 1276770561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63444,30.75398,30.63444,30.75398",
+    "geom:latitude":30.75398,
+    "geom:longitude":30.63444,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Qalawat",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360623,
+    "gn:latitude":30.75398,
+    "gn:longitude":30.63444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qal\u0101w\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Qal\u00e2w\u00e2t",
+        "Al Qal\u0101w\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360623
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c5c4ee05e98fcd47c11c2276afa07982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1276770561,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276770561,
+    "wof:lastmodified":1537620887,
+    "wof:name":"Al Qalawat",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63444,
+    30.75398,
+    30.63444,
+    30.75398
+],
+  "geometry": {"coordinates":[30.63444,30.75398],"type":"Point"}
+}

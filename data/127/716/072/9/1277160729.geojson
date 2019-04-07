@@ -1,0 +1,73 @@
+{
+  "id": 1277160729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66398,30.91212,31.66398,30.91212",
+    "geom:latitude":30.91212,
+    "geom:longitude":31.66398,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Muhammad Sidqi",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779426,
+    "gn:latitude":30.91212,
+    "gn:longitude":31.66398,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Izbat Mu\u1e29ammad \u015eidq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u062d\u0645\u062f \u0635\u062f\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mu\u1e29ammad \u015eidq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779426
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dcb3f596683c7ade653b65d53aa2d9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1277160729,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1277160729,
+    "wof:lastmodified":1537621145,
+    "wof:name":"`Izbat Muhammad Sidqi",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66398,
+    30.91212,
+    31.66398,
+    30.91212
+],
+  "geometry": {"coordinates":[31.66398,30.91212],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243268053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79772,31.40854,31.79772,31.40854",
+    "geom:latitude":31.40854,
+    "geom:longitude":31.79772,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Ezbet el-Kahhal el-`Ali",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413640,
+    "gn:latitude":31.40854,
+    "gn:longitude":31.79772,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Ezbet el-Kahh\u00e2l el-\u2018Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413640
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4d6817dd91b0ea40e0adb1e0557ea1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":1243268053,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1243268053,
+    "wof:lastmodified":1537060014,
+    "wof:name":"`Ezbet el-Kahhal el-`Ali",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79772,
+    31.40854,
+    31.79772,
+    31.40854
+],
+  "geometry": {"coordinates":[31.79772,31.40854],"type":"Point"}
+}

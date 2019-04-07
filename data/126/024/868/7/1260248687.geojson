@@ -1,0 +1,76 @@
+{
+  "id": 1260248687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.02461,30.89577,34.02461,30.89577",
+    "geom:latitude":30.89577,
+    "geom:longitude":34.02461,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Al Maqdabah",
+    "gn:country_code":"EG",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360752,
+    "gn:latitude":30.89577,
+    "gn:longitude":34.02461,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Al Maq\u1e11abah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0642\u0636\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Magdaba",
+        "El Magdhaba",
+        "El Maqdaba",
+        "Al Maq\u1e11abah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092019147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360752
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c05f852353f856aba3e5f204611177fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019147,
+            "locality_id":1260248687,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1260248687,
+    "wof:lastmodified":1537620895,
+    "wof:name":"Al Maqdabah",
+    "wof:parent_id":1092019147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.02461,
+    30.89577,
+    34.02461,
+    30.89577
+],
+  "geometry": {"coordinates":[34.02461,30.89577],"type":"Point"}
+}

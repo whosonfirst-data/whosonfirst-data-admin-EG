@@ -1,0 +1,66 @@
+{
+  "id": 1209170163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4,26.78333,31.4,26.78333",
+    "geom:latitude":26.78333,
+    "geom:longitude":31.4,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Nazlat Musallam",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351103,
+    "gn:latitude":26.78333,
+    "gn:longitude":31.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat Musallam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet Misallam",
+        "Nazlat Musallam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351103
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"494add02528e415e78aba146dcb0176a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209170163
+        }
+    ],
+    "wof:id":1209170163,
+    "wof:lastmodified":1537620606,
+    "wof:name":"Nazlat Musallam",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4,
+    26.78333,
+    31.4,
+    26.78333
+],
+  "geometry": {"coordinates":[31.4,26.78333],"type":"Point"}
+}

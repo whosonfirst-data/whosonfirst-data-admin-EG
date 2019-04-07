@@ -1,0 +1,75 @@
+{
+  "id": 1276536845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26667,29.93333,31.26667,29.93333",
+    "geom:latitude":29.93333,
+    "geom:longitude":31.26667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tura",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347194,
+    "gn:latitude":29.93333,
+    "gn:longitude":31.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162ur\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e6cura el-\u1e24agg\u00e2ra",
+        "\u0162urah al \u1e28ayy",
+        "\u0162urah",
+        "\u0162ur\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092021173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347194,
+        "wk:page":"Tura%2C_Egypt"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a5109f22531ac83df215fe92927e3ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021173,
+            "locality_id":1276536845,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1276536845,
+    "wof:lastmodified":1537620554,
+    "wof:name":"Tura",
+    "wof:parent_id":1092021173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26667,
+    29.93333,
+    31.26667,
+    29.93333
+],
+  "geometry": {"coordinates":[31.26667,29.93333],"type":"Point"}
+}

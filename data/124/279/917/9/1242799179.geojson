@@ -1,0 +1,71 @@
+{
+  "id": 1242799179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.28515,30.87001,32.28515,30.87001",
+    "geom:latitude":30.87001,
+    "geom:longitude":32.28515,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"`Izbat Suliman Marzuq",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357097,
+    "gn:latitude":30.87001,
+    "gn:longitude":32.28515,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Sul\u012bman Marz\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Sul\u00eeman Marz\u00fbq",
+        "\u2018Izbat Sul\u012bman Marz\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092019071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357097
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"338f0a3640742c5f2a81d8514ce22b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019071,
+            "locality_id":1242799179,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1242799179,
+    "wof:lastmodified":1537620784,
+    "wof:name":"`Izbat Suliman Marzuq",
+    "wof:parent_id":1092019071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.28515,
+    30.87001,
+    32.28515,
+    30.87001
+],
+  "geometry": {"coordinates":[32.28515,30.87001],"type":"Point"}
+}

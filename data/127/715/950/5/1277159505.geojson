@@ -1,0 +1,74 @@
+{
+  "id": 1277159505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.75,23.2,32.75,23.2",
+    "geom:latitude":23.2,
+    "geom:longitude":32.75,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ad Dakkah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361855,
+    "gn:latitude":23.2,
+    "gn:longitude":32.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ad Dakkah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Dakka",
+        "Dakka",
+        "Ed Dakka",
+        "Ad Dakkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092022915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361855
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8167d385847ee674ac453a7d2b282a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022915,
+            "locality_id":1277159505,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1277159505,
+    "wof:lastmodified":1537620954,
+    "wof:name":"Ad Dakkah",
+    "wof:parent_id":1092022915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.75,
+    23.2,
+    32.75,
+    23.2
+],
+  "geometry": {"coordinates":[32.75,23.2],"type":"Point"}
+}

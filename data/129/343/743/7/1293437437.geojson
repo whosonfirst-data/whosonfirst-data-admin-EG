@@ -1,0 +1,74 @@
+{
+  "id": 1293437437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.18406,31.21907,34.18406,31.21907",
+    "geom:latitude":31.21907,
+    "geom:longitude":34.18406,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Al Matallah",
+    "gn:country_code":"EG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449764,
+    "gn:latitude":31.21907,
+    "gn:longitude":34.18406,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Al Ma\u0163allah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ma\u0163allah",
+        "Matalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092023763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449764
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"47b463ab4895da729f44cd883123b659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023763,
+            "locality_id":1293437437,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1293437437,
+    "wof:lastmodified":1537621132,
+    "wof:name":"Al Matallah",
+    "wof:parent_id":1092023763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.18406,
+    31.21907,
+    34.18406,
+    31.21907
+],
+  "geometry": {"coordinates":[34.18406,31.21907],"type":"Point"}
+}

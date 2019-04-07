@@ -1,0 +1,71 @@
+{
+  "id": 1309979851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85701,30.7899,31.85701,30.7899",
+    "geom:latitude":30.7899,
+    "geom:longitude":31.85701,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"As Sama`inah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359860,
+    "gn:latitude":30.7899,
+    "gn:longitude":31.85701,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sam\u0101\u2018inah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sam\u00e2\u2018na",
+        "As Sam\u0101\u2018inah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359860
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a8f3d6dc06860c1996ef1eb9db78e368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1309979851,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309979851,
+    "wof:lastmodified":1537620853,
+    "wof:name":"As Sama`inah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85701,
+    30.7899,
+    31.85701,
+    30.7899
+],
+  "geometry": {"coordinates":[31.85701,30.7899],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1293906225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76802,30.96124,30.76802,30.96124",
+    "geom:latitude":30.96124,
+    "geom:longitude":30.76802,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sa al Hajar",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349983,
+    "gn:latitude":30.96124,
+    "gn:longitude":30.76802,
+    "gn:modification_date":"2017-07-08",
+    "gn:name":"\u015e\u0101 al \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0627 \u0627\u0644\u062d\u062c\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "Sais"
+    ],
+    "name:deu_x_preferred":[
+        "Sais"
+    ],
+    "name:eng_x_preferred":[
+        "Sais"
+    ],
+    "name:fin_x_preferred":[
+        "Sais"
+    ],
+    "name:fra_x_preferred":[
+        "Sa\u00efs"
+    ],
+    "name:ita_x_preferred":[
+        "Sais"
+    ],
+    "name:pol_x_preferred":[
+        "Sais"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Sais"
+    ],
+    "name:und_x_variant":[
+        "Sais",
+        "\u1e62a el-\u1e24agar",
+        "\u1e62\u00e2n el-\u1e24agar",
+        "\u015e\u0101 al \u1e28ajar"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u6613\u65af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092015375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349983,
+        "wk:page":"Sais%2C_Egypt"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"052b45718ad6eca0442e6d8049ecae9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015375,
+            "locality_id":1293906225,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1293906225,
+    "wof:lastmodified":1537620591,
+    "wof:name":"Sa al Hajar",
+    "wof:parent_id":1092015375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76802,
+    30.96124,
+    30.76802,
+    30.96124
+],
+  "geometry": {"coordinates":[30.76802,30.96124],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309870097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40392,31.45339,30.40392,31.45339",
+    "geom:latitude":31.45339,
+    "geom:longitude":30.40392,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat as Subayhi",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414952,
+    "gn:latitude":31.45339,
+    "gn:longitude":30.40392,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat as Subay\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0633\u0628\u064a\u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat as Subay\u1e29\u012b",
+        "\u2018Izbat as Sibay\u1e29\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414952
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e884256f4c50a75fa4f0b7bc437eeaa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1309870097,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1309870097,
+    "wof:lastmodified":1537620973,
+    "wof:name":"`Izbat as Subayhi",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40392,
+    31.45339,
+    30.40392,
+    31.45339
+],
+  "geometry": {"coordinates":[30.40392,31.45339],"type":"Point"}
+}

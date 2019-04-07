@@ -1,0 +1,75 @@
+{
+  "id": 1242751605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.72762,30.6861,31.72762,30.6861",
+    "geom:latitude":30.6861,
+    "geom:longitude":31.72762,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Abu `Awad",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354168,
+    "gn:latitude":30.6861,
+    "gn:longitude":31.72762,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ab\u016b \u2018Awa\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0623\u0628\u0648 \u0639\u0648\u0636"
+    ],
+    "name:und_x_variant":[
+        "Kafr Mu\u1e25ammad \u2018Awa\u1e0d",
+        "Kafr Mu\u1e29ammad \u2018Awa\u1e11",
+        "Kafr Ab\u016b \u2018Awa\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354168
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d0153c19e6d13a8053c52fdff1d81dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1242751605,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1242751605,
+    "wof:lastmodified":1537620693,
+    "wof:name":"Kafr Abu `Awad",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.72762,
+    30.6861,
+    31.72762,
+    30.6861
+],
+  "geometry": {"coordinates":[31.72762,30.6861],"type":"Point"}
+}

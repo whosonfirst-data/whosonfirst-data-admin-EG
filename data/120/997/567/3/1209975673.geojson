@@ -1,0 +1,73 @@
+{
+  "id": 1209975673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73935,31.1604,30.73935,31.1604",
+    "geom:latitude":31.1604,
+    "geom:longitude":30.73935,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Muhammad ad Daqduqi",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415808,
+    "gn:latitude":31.1604,
+    "gn:longitude":30.73935,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u2018Izbat Mu\u1e29ammad ad Daqd\u016bq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u062d\u0645\u062f \u0627\u0644\u062f\u0642\u062f\u0648\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mu\u1e29ammad ad Daqd\u016bq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415808
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c7aa934a98a00bf66568600e2a9f2b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1209975673,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1209975673,
+    "wof:lastmodified":1537620999,
+    "wof:name":"`Izbat Muhammad ad Daqduqi",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73935,
+    31.1604,
+    30.73935,
+    31.1604
+],
+  "geometry": {"coordinates":[30.73935,31.1604],"type":"Point"}
+}

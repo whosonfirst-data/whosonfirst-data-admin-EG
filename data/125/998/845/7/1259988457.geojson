@@ -1,0 +1,71 @@
+{
+  "id": 1259988457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.59542,25.27518,32.59542,25.27518",
+    "geom:latitude":25.27518,
+    "geom:longitude":32.59542,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Naj` al `Ababdah",
+    "gn:country_code":"EG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351661,
+    "gn:latitude":25.27518,
+    "gn:longitude":32.59542,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 al \u2018Ab\u0101bdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 el-Ab\u00e2bda",
+        "Naj\u2018 al \u2018Ab\u0101bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351661
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"83eb1103ecb40a3794b5d34dd5b096c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020721,
+            "locality_id":1259988457,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1259988457,
+    "wof:lastmodified":1537620629,
+    "wof:name":"Naj` al `Ababdah",
+    "wof:parent_id":1092020721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.59542,
+    25.27518,
+    32.59542,
+    25.27518
+],
+  "geometry": {"coordinates":[32.59542,25.27518],"type":"Point"}
+}

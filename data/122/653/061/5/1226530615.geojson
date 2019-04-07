@@ -1,0 +1,71 @@
+{
+  "id": 1226530615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76667,30.05,31.76667,30.05",
+    "geom:latitude":30.05,
+    "geom:longitude":31.76667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kafr ash Shara`inah",
+    "gn:country_code":"EG",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354511,
+    "gn:latitude":30.05,
+    "gn:longitude":31.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr ash Shar\u0101\u2018inah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Shar\u00e2\u2018na",
+        "Kafr ash Shar\u0101\u2018inah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092022997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354511
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fbc0f532803235ae50cea0bdb8f3c7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022997,
+            "locality_id":1226530615,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1226530615,
+    "wof:lastmodified":1537620720,
+    "wof:name":"Kafr ash Shara`inah",
+    "wof:parent_id":1092022997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76667,
+    30.05,
+    31.76667,
+    30.05
+],
+  "geometry": {"coordinates":[31.76667,30.05],"type":"Point"}
+}

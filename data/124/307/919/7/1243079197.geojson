@@ -1,0 +1,74 @@
+{
+  "id": 1243079197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52653,31.06846,30.52653,31.06846",
+    "geom:latitude":31.06846,
+    "geom:longitude":30.52653,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Abu Zinah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8715694,
+    "gn:latitude":31.06846,
+    "gn:longitude":30.52653,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"\u2018Izbat Ab\u016b Z\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0632\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b Z\u012bnah",
+        "\u2018Izbat Ab\u016b Zaynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8715694
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f1e19851de7ffc888de29339907d1be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019273,
+            "locality_id":1243079197,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243079197,
+    "wof:lastmodified":1537621219,
+    "wof:name":"`Izbat Abu Zinah",
+    "wof:parent_id":1092019273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52653,
+    31.06846,
+    30.52653,
+    31.06846
+],
+  "geometry": {"coordinates":[30.52653,31.06846],"type":"Point"}
+}

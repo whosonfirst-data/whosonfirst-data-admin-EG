@@ -1,0 +1,97 @@
+{
+  "id": 890443435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13703,30.19327,31.13703,30.19327",
+    "geom:latitude":30.19327,
+    "geom:longitude":31.13703,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":56302,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0646\u0627\u0637\u0631 \u0627\u0644\u062e\u064a\u0631\u064a\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0642\u0646\u0627\u0637\u0631 \u0627\u0644\u062e\u064a\u0631\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Qanatir el Qahiriya"
+    ],
+    "name:eng_x_preferred":[
+        "Qanatir el Qahiriya"
+    ],
+    "name:fre_x_preferred":[
+        "Qanatir el Qahiriya"
+    ],
+    "name:ger_x_preferred":[
+        "al-Qanatir al-Chairiyya"
+    ],
+    "name:per_x_preferred":[
+        "\u0642\u0646\u0627\u0637\u0631 \u062e\u06cc\u0631\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Kanatir al-Chajrijja"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0430\u043d\u0430\u0442\u0438\u0440-\u044d\u043b\u044c-\u0425\u0435\u0439\u0440\u0438\u044f"
+    ],
+    "name:unk_x_variant":[
+        "El-Qan\u00e2\u1e6dir el-Khair\u00eeya"
+    ],
+    "qs:name":"Al Qan\u0101\u0163ir al Khayr\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092018935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360615,
+        "gp:id":56123259,
+        "qs:id":1028053,
+        "wd:id":"Q7266461"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052424,
+    "wof:geomhash":"65aa77e05821f3fb608319190d590e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018935,
+            "locality_id":890443435,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":890443435,
+    "wof:lastmodified":1513956652,
+    "wof:name":"Al Qan\u0101\u0163ir al Khayr\u012byah",
+    "wof:parent_id":1092018935,
+    "wof:placetype":"locality",
+    "wof:population":56302,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13703,
+    30.19327,
+    31.13703,
+    30.19327
+],
+  "geometry": {"coordinates":[31.13703,30.19327],"type":"Point"}
+}

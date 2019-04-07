@@ -1,0 +1,73 @@
+{
+  "id": 1260345187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.92151,31.57736,25.92151,31.57736",
+    "geom:latitude":31.57736,
+    "geom:longitude":25.92151,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Zawiyat Sidi Barrani",
+    "gn:country_code":"EG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346071,
+    "gn:latitude":31.57736,
+    "gn:longitude":25.92151,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat S\u012bd\u012b Barr\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyec Sidi Barr\u00e2ni",
+        "Zauiet Sidi el-Barr\u00e0ni",
+        "Z\u00e2wyet Sidi Barr\u00e2ni",
+        "Z\u0101wiyat S\u012bd\u012b Barr\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092024899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346071
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"226322bfa879caa7f45b70a8072090e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024899,
+            "locality_id":1260345187,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1260345187,
+    "wof:lastmodified":1537620544,
+    "wof:name":"Zawiyat Sidi Barrani",
+    "wof:parent_id":1092024899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.92151,
+    31.57736,
+    25.92151,
+    31.57736
+],
+  "geometry": {"coordinates":[25.92151,31.57736],"type":"Point"}
+}

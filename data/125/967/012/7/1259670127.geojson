@@ -1,0 +1,71 @@
+{
+  "id": 1259670127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.90977,25.55015,28.90977,25.55015",
+    "geom:latitude":25.55015,
+    "geom:longitude":28.90977,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Qalamun",
+    "gn:country_code":"EG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360625,
+    "gn:latitude":25.55015,
+    "gn:longitude":28.90977,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qalam\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Qalamun",
+        "Al Qalam\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360625
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c9f6cbca9d1116052c8e9042a9ea2eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020201,
+            "locality_id":1259670127,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1259670127,
+    "wof:lastmodified":1537620887,
+    "wof:name":"Al Qalamun",
+    "wof:parent_id":1092020201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.90977,
+    25.55015,
+    28.90977,
+    25.55015
+],
+  "geometry": {"coordinates":[28.90977,25.55015],"type":"Point"}
+}

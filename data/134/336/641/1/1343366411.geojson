@@ -1,0 +1,73 @@
+{
+  "id": 1343366411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.09785,30.87724,30.09785,30.87724",
+    "geom:latitude":30.87724,
+    "geom:longitude":30.09785,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Nasturya",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355342,
+    "gn:latitude":30.87724,
+    "gn:longitude":30.09785,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat N\u0101st\u016bry\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Gianaclis",
+        "\u2018Izbat J\u0101n\u0101kl\u012bs",
+        "El-Qarya el-Ged\u00eeda",
+        "\u2018Izbat N\u0101st\u016bry\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355342
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e526ac617a78ec0b9517f290a74c1e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1343366411,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343366411,
+    "wof:lastmodified":1537620762,
+    "wof:name":"`Izbat Nasturya",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.09785,
+    30.87724,
+    30.09785,
+    30.87724
+],
+  "geometry": {"coordinates":[30.09785,30.87724],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259762601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63419,25.51071,30.63419,25.51071",
+    "geom:latitude":25.51071,
+    "geom:longitude":30.63419,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"`Ezbet Muhammed Khalil",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357182,
+    "gn:latitude":25.51071,
+    "gn:longitude":30.63419,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Ezbet Mu\u1e25ammed Khalil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357182
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1ac4650d5077fda39b0c882bb53d74bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020223,
+            "locality_id":1259762601,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1259762601,
+    "wof:lastmodified":1536953373,
+    "wof:name":"`Ezbet Muhammed Khalil",
+    "wof:parent_id":1092020223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63419,
+    25.51071,
+    30.63419,
+    25.51071
+],
+  "geometry": {"coordinates":[30.63419,25.51071],"type":"Point"}
+}

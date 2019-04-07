@@ -1,0 +1,75 @@
+{
+  "id": 1276235439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82689,30.46491,30.82689,30.46491",
+    "geom:latitude":30.46491,
+    "geom:longitude":30.82689,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kafr Dawud",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354327,
+    "gn:latitude":30.46491,
+    "gn:longitude":30.82689,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kafr D\u0101w\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062f\u0627\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kafr D\u00e2w\u00fbd",
+        "Kafr D\u0101\u2019\u016bd",
+        "Kafr D\u0101w\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354327
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1b195f5f773a2d907993b326281f85dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1276235439,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276235439,
+    "wof:lastmodified":1537620704,
+    "wof:name":"Kafr Dawud",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82689,
+    30.46491,
+    30.82689,
+    30.46491
+],
+  "geometry": {"coordinates":[30.82689,30.46491],"type":"Point"}
+}

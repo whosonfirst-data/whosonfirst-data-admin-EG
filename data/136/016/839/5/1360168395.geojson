@@ -1,0 +1,72 @@
+{
+  "id": 1360168395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74247,27.84143,30.74247,27.84143",
+    "geom:latitude":27.84143,
+    "geom:longitude":30.74247,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ibshadat",
+    "gn:country_code":"EG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355655,
+    "gn:latitude":27.84143,
+    "gn:longitude":30.74247,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ibsh\u0101d\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibsh\u00e2da Ba\u1e25ari",
+        "Ibsh\u0101dah Ba\u1e29r\u012b",
+        "Ibsh\u0101d\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355655
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a75d64aa10ee918b6a8a606149a3f055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022005,
+            "locality_id":1360168395,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1360168395,
+    "wof:lastmodified":1537620773,
+    "wof:name":"Ibshadat",
+    "wof:parent_id":1092022005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74247,
+    27.84143,
+    30.74247,
+    27.84143
+],
+  "geometry": {"coordinates":[30.74247,27.84143],"type":"Point"}
+}

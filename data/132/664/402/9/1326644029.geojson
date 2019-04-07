@@ -1,0 +1,74 @@
+{
+  "id": 1326644029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.72166,31.14564,31.72166,31.14564",
+    "geom:latitude":31.14564,
+    "geom:longitude":31.72166,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr `Allam",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354603,
+    "gn:latitude":31.14564,
+    "gn:longitude":31.72166,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kafr \u2018All\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0639\u0644\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u2018All\u0101m",
+        "Kafr \u2018All\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354603
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"00d22792bb09849dc50168b894230b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022451,
+            "locality_id":1326644029,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1326644029,
+    "wof:lastmodified":1537620728,
+    "wof:name":"Kafr `Allam",
+    "wof:parent_id":1092022451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.72166,
+    31.14564,
+    31.72166,
+    31.14564
+],
+  "geometry": {"coordinates":[31.72166,31.14564],"type":"Point"}
+}

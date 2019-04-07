@@ -1,0 +1,76 @@
+{
+  "id": 1293179901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35673,30.569,31.35673,30.569",
+    "geom:latitude":30.569,
+    "geom:longitude":31.35673,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Abu Tawwalah",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361968,
+    "gn:latitude":30.569,
+    "gn:longitude":31.35673,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b \u0162aww\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0637\u0648\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Abu \u1e6caw\u00e2la",
+        "Abu \u1e6cuw\u00e2la",
+        "Ab\u016b \u0162uw\u0101lah",
+        "Ab\u016b \u0162aww\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361968
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3c05990091095793e23e12d31961547a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1293179901,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293179901,
+    "wof:lastmodified":1537620956,
+    "wof:name":"Abu Tawwalah",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35673,
+    30.56900000000001,
+    31.35673,
+    30.56900000000001
+],
+  "geometry": {"coordinates":[31.35673,30.56900000000001],"type":"Point"}
+}

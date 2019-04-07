@@ -1,0 +1,85 @@
+{
+  "id": 890422287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73514,30.61618,31.73514,30.61618",
+    "geom:latitude":30.61618,
+    "geom:longitude":31.73514,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":61730,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Al Qurayn"
+    ],
+    "name:eng_x_preferred":[
+        "Al Qurayn"
+    ],
+    "name:fre_x_preferred":[
+        "Al Qurayn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c-\u042d\u043b\u044c-\u041a\u0443\u0440\u0430\u0439\u043d"
+    ],
+    "name:unk_x_variant":[
+        "El-Qurein"
+    ],
+    "qs:name":"Al Qurayn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092019105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360542,
+        "gp:id":56446798,
+        "qs:id":547874,
+        "wd:id":"Q13634887"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051435,
+    "wof:geomhash":"ad70250cf1a8a78dea596c3f119e6a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019105,
+            "locality_id":890422287,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":890422287,
+    "wof:lastmodified":1513956652,
+    "wof:name":"Al Qurayn",
+    "wof:parent_id":1092019105,
+    "wof:placetype":"locality",
+    "wof:population":61730,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73514,
+    30.61618,
+    31.73514,
+    30.61618
+],
+  "geometry": {"coordinates":[31.73514,30.61618],"type":"Point"}
+}

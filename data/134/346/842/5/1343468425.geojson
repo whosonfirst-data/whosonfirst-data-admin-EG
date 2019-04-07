@@ -1,0 +1,77 @@
+{
+  "id": 1343468425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47034,30.91018,31.47034,30.91018",
+    "geom:latitude":30.91018,
+    "geom:longitude":31.47034,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tummay az Zahayirah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347209,
+    "gn:latitude":30.91018,
+    "gn:longitude":31.47034,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"\u0162umm\u0101y az Zah\u0101yirah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0645\u0627\u064a \u0627\u0644\u0632\u0647\u0627\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162umm\u0101y az Zah\u0101\u2019irah",
+        "\u1e6cumm\u00e2i el-Zah\u00e2yra",
+        "\u0162umm\u0101y az Zah\u0101yrah",
+        "\u0162umm\u0101y az Zah\u0101yirah",
+        "\u1e6cumm\u0101y az-Zah\u0101yrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092019741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347209
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"738502eb058b60d00b8c53e51c08560d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019741,
+            "locality_id":1343468425,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343468425,
+    "wof:lastmodified":1537620555,
+    "wof:name":"Tummay az Zahayirah",
+    "wof:parent_id":1092019741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47034,
+    30.91018,
+    31.47034,
+    30.91018
+],
+  "geometry": {"coordinates":[31.47034,30.91018],"type":"Point"}
+}

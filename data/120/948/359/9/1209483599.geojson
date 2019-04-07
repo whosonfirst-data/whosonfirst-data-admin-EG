@@ -1,0 +1,61 @@
+{
+  "id": 1209483599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85,26.36667,31.85,26.36667",
+    "geom:latitude":26.36667,
+    "geom:longitude":31.85,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Bindar ash Sharqiyah",
+    "gn:country_code":"EG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358808,
+    "gn:latitude":26.36667,
+    "gn:longitude":31.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Bind\u0101r ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358808
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"86cda4ae44e604b84f67a8dbe5fd3bf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209483599
+        }
+    ],
+    "wof:id":1209483599,
+    "wof:lastmodified":1536285705,
+    "wof:name":"Bindar ash Sharqiyah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85,
+    26.366670000000006,
+    31.85,
+    26.366670000000006
+],
+  "geometry": {"coordinates":[31.85,26.36667000000001],"type":"Point"}
+}

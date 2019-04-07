@@ -1,0 +1,74 @@
+{
+  "id": 1360188559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75113,31.22432,31.75113,31.22432",
+    "geom:latitude":31.22432,
+    "geom:longitude":31.75113,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Wizarat az Zira`ah 'Arb`at `Ashar",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559059,
+    "gn:latitude":31.22432,
+    "gn:longitude":31.75113,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat Wiz\u0101rat az Zir\u0101\u2018ah \u2019Arb\u2018at \u2018Ashar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0632\u0631\u0627\u0639\u0629 \u0661\u0664"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Wiz\u0101rat az Zir\u0101\u2018ah \u2019Arb\u2018at \u2018Ashar",
+        "\u2018Iz. Wiz\u0101rat az-Zir\u0101\u2018ah No. 14"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559059
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"677da24c1725ee51e2fdd2f94c94fd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022451,
+            "locality_id":1360188559,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1360188559,
+    "wof:lastmodified":1537621205,
+    "wof:name":"`Izbat Wizarat az Zira`ah 'Arb`at `Ashar",
+    "wof:parent_id":1092022451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75113,
+    31.22432,
+    31.75113,
+    31.22432
+],
+  "geometry": {"coordinates":[31.75113,31.22432],"type":"Point"}
+}

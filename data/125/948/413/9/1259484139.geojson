@@ -1,0 +1,75 @@
+{
+  "id": 1259484139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72056,29.34035,30.72056,29.34035",
+    "geom:latitude":29.34035,
+    "geom:longitude":30.72056,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al `Ajamiyin",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361627,
+    "gn:latitude":29.34035,
+    "gn:longitude":30.72056,
+    "gn:modification_date":"2017-07-09",
+    "gn:name":"Al \u2018Ajam\u012by\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062c\u0645\u064a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El \u2018Agam\u00eey\u00een",
+        "El-\u2018Agmiy\u00een",
+        "Al \u2018Ajam\u012by\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361627
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"036aac4cf2a38b3d33a1632a3715326e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1259484139,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1259484139,
+    "wof:lastmodified":1537620948,
+    "wof:name":"Al `Ajamiyin",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72056,
+    29.34035,
+    30.72056,
+    29.34035
+],
+  "geometry": {"coordinates":[30.72056,29.34035],"type":"Point"}
+}

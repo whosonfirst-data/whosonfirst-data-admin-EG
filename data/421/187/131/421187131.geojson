@@ -1,0 +1,81 @@
+{
+  "id": 421187131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23333,29.95,31.23333,29.95",
+    "geom:latitude":29.95,
+    "geom:longitude":31.23333,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "El-Manyal"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":352838,
+    "qs:gn_pop":0,
+    "qs:name":"Manyal Shihah",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u062c\u064a\u0632\u0629",
+    "qs:photos":275,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":275,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1081054,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1525112,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092021173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352838,
+        "gp:id":1525112,
+        "qs:id":1081054,
+        "wd:id":"Q5350664",
+        "wk:page":"El-Manial"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009503,
+    "wof:geomhash":"88fc36425050e0c1a682d4a4d98fa902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021173,
+            "locality_id":421187131,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":421187131,
+    "wof:lastmodified":1501214125,
+    "wof:name":"Manyal Shihah",
+    "wof:parent_id":1092021173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23333,
+    29.95,
+    31.23333,
+    29.95
+],
+  "geometry": {"coordinates":[31.23333,29.95],"type":"Point"}
+}

@@ -1,0 +1,241 @@
+{
+  "id": 1125854153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.93651,26.72918,33.93651,26.72918",
+    "geom:latitude":26.72918,
+    "geom:longitude":33.93651,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":32944,
+    "gn:population":32944,
+    "iso:country":"EG",
+    "lbl:latitude":26.72918,
+    "lbl:longitude":33.93651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0641\u0627\u062c\u0627"
+    ],
+    "name:ara_x_variant":[
+        "B\u016br Saf\u0101jah"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0641\u0627\u062c\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "safaga haqqinda"
+    ],
+    "name:baq_x_preferred":[
+        "Safaga"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09ab\u09be\u099c\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u0421\u0430\u0444\u0430\u0433\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u585e\u6cd5\u6770"
+    ],
+    "name:cze_x_preferred":[
+        "Safaga"
+    ],
+    "name:dan_x_preferred":[
+        "Safaga"
+    ],
+    "name:deu_x_preferred":[
+        "Safaga"
+    ],
+    "name:dut_x_preferred":[
+        "Port Safaga"
+    ],
+    "name:eng_x_preferred":[
+        "Port Safaga"
+    ],
+    "name:est_x_preferred":[
+        "B\u016br Saf\u0101jah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0641\u0627\u062c\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Safaga"
+    ],
+    "name:fra_x_preferred":[
+        "Port Safaga"
+    ],
+    "name:fre_x_preferred":[
+        "Port Safaga"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e3\u10e0-\u10e1\u10d0\u10e4\u10d0\u10d2\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Safaga"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03c6\u03ac\u03b3\u03ba\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0aab\u0abe\u0a97\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u092b\u093e\u0917\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Szafaga"
+    ],
+    "name:ind_x_preferred":[
+        "Safaga"
+    ],
+    "name:ita_x_preferred":[
+        "Safaga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30d5\u30a1\u30ac"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cab\u0cbe\u0c97"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u0444\u0430\u0433\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ud30c\uac00"
+    ],
+    "name:lav_x_preferred":[
+        "Safaga"
+    ],
+    "name:lit_x_preferred":[
+        "Safaga"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u092b\u093e\u0917\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Safaga"
+    ],
+    "name:nob_x_preferred":[
+        "Safaga"
+    ],
+    "name:nor_x_preferred":[
+        "Safaga"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0641\u0627\u062c\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Safad\u017ca"
+    ],
+    "name:por_x_preferred":[
+        "Safaga"
+    ],
+    "name:rum_x_preferred":[
+        "Port Safaga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0444\u0430\u0433\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Port Safaga"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dc6\u0dcf\u0d9c\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Safaga"
+    ],
+    "name:swe_x_preferred":[
+        "B\u016br Saf\u0101jah"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0baa\u0bbe\u0b95\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c2b\u0c3e\u0c17\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e1f\u0e32\u0e01\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Safaga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0444\u0430\u0433\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Safaga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0641\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Safaga"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u6cd5\u6770"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":358620,
+    "qs_pg:gn_pop":32944,
+    "qs_pg:name":"B\u016br Saf\u0101jah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":206289,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092024087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358620,
+        "qs_pg:id":206289,
+        "wd:id":"Q986325"
+    },
+    "wof:country":"EG",
+    "wof:created":1497293540,
+    "wof:geomhash":"21de890e6d91d4f1fcd091b0bbe2134d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024087,
+            "locality_id":1125854153,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1125854153,
+    "wof:lastmodified":1513956682,
+    "wof:name":"B\u016br Saf\u0101jah",
+    "wof:parent_id":1092024087,
+    "wof:placetype":"locality",
+    "wof:population":32944,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.93651,
+    26.72918,
+    33.93651,
+    26.72918
+],
+  "geometry": {"coordinates":[33.93651,26.72918],"type":"Point"}
+}

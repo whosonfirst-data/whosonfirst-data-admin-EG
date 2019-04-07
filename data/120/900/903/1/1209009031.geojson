@@ -1,0 +1,67 @@
+{
+  "id": 1209009031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2235,30.62454,31.2235,30.62454",
+    "geom:latitude":30.62454,
+    "geom:longitude":31.2235,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat as Sayyid Rih",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199975,
+    "gn:latitude":30.62454,
+    "gn:longitude":31.2235,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"\u2018Izbat as Sayyid R\u012b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0633\u064a\u062f \u0631\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat as Sayyid R\u012b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199975
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"99b680bb80c74c8c44f97c688c770752",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209009031
+        }
+    ],
+    "wof:id":1209009031,
+    "wof:lastmodified":1537621188,
+    "wof:name":"`Izbat as Sayyid Rih",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2235,
+    30.62454,
+    31.2235,
+    30.62454
+],
+  "geometry": {"coordinates":[31.2235,30.62454],"type":"Point"}
+}

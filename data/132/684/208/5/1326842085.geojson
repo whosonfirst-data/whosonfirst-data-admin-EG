@@ -1,0 +1,72 @@
+{
+  "id": 1326842085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48125,30.8351,30.48125,30.8351",
+    "geom:latitude":30.8351,
+    "geom:longitude":30.48125,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tibah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354036,
+    "gn:latitude":30.8351,
+    "gn:longitude":30.48125,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr \u0162aybah",
+        "Kafr \u1e6ceiba",
+        "\u0162\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354036
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c63ce6c6f34602f18fbb5b6f4a76848d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1326842085,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1326842085,
+    "wof:lastmodified":1537620684,
+    "wof:name":"Tibah",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48125,
+    30.8351,
+    30.48125,
+    30.8351
+],
+  "geometry": {"coordinates":[30.48125,30.8351],"type":"Point"}
+}

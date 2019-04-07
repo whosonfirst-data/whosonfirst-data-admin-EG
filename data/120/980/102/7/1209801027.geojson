@@ -1,0 +1,75 @@
+{
+  "id": 1209801027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27444,29.65083,31.27444,29.65083",
+    "geom:latitude":29.65083,
+    "geom:longitude":31.27444,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al `Atf",
+    "gn:country_code":"EG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361521,
+    "gn:latitude":29.65083,
+    "gn:longitude":31.27444,
+    "gn:modification_date":"2017-07-16",
+    "gn:name":"Al \u2018A\u0163f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0637\u0641"
+    ],
+    "name:und_x_variant":[
+        "El-\u2018A\u1e6df",
+        "Atf",
+        "Al \u2018A\u0163f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092016893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361521
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ea70a38f67cdc06703c894035983b3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016893,
+            "locality_id":1209801027,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1209801027,
+    "wof:lastmodified":1537620941,
+    "wof:name":"Al `Atf",
+    "wof:parent_id":1092016893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27444,
+    29.65083,
+    31.27444,
+    29.65083
+],
+  "geometry": {"coordinates":[31.27444,29.65083],"type":"Point"}
+}

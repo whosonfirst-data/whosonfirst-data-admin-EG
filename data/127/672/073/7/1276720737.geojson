@@ -1,0 +1,75 @@
+{
+  "id": 1276720737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71464,31.27202,30.71464,31.27202",
+    "geom:latitude":31.27202,
+    "geom:longitude":30.71464,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Az Zahaliq",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357362,
+    "gn:latitude":31.27202,
+    "gn:longitude":30.71464,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Az Za\u1e29\u0101l\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u062d\u0627\u0644\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet el-Za\u1e25\u00e2l\u00eeq",
+        "\u2018Izbat az Za\u1e29\u0101l\u012bq",
+        "Az Za\u1e29\u0101l\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092024971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357362
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9d68cb6fd6d3dbe1ad70c73014e9a88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024971,
+            "locality_id":1276720737,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276720737,
+    "wof:lastmodified":1537620791,
+    "wof:name":"Az Zahaliq",
+    "wof:parent_id":1092024971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71464000000001,
+    31.27202,
+    30.71464000000001,
+    31.27202
+],
+  "geometry": {"coordinates":[30.71464000000001,31.27202],"type":"Point"}
+}

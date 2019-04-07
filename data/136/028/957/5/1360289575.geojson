@@ -1,0 +1,77 @@
+{
+  "id": 1360289575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31217,31.13291,31.31217,31.13291",
+    "geom:latitude":31.13291,
+    "geom:longitude":31.31217,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tayyibat Nisha",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359683,
+    "gn:latitude":31.13291,
+    "gn:longitude":31.31217,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"\u0162ayyibat Nish\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0628\u0629 \u0646\u0634\u0627"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e6caiyibe",
+        "\u1e6caiyibet Nisha",
+        "A\u0163 \u0162ayyibah",
+        "\u0162ayyibat Nish\u0101",
+        "\u1e6cayyibat Nish\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359683
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0d3f3fb75916b1f946da3c09ba948d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1360289575,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1360289575,
+    "wof:lastmodified":1537620845,
+    "wof:name":"Tayyibat Nisha",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31217,
+    31.13291,
+    31.31217,
+    31.13291
+],
+  "geometry": {"coordinates":[31.31217,31.13291],"type":"Point"}
+}

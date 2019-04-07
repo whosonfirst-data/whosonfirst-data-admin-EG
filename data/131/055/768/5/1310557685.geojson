@@ -1,0 +1,67 @@
+{
+  "id": 1310557685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.81667,25.83333,32.81667,25.83333",
+    "geom:latitude":25.83333,
+    "geom:longitude":32.81667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Nag` Abu Zinad",
+    "gn:country_code":"EG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351681,
+    "gn:latitude":25.83333,
+    "gn:longitude":32.81667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2018 Abu Zin\u00e2d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351681
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"705f8fbcb4c61024b85135e146b9c2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023115,
+            "locality_id":1310557685,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1310557685,
+    "wof:lastmodified":1536840775,
+    "wof:name":"Nag` Abu Zinad",
+    "wof:parent_id":1092023115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.81667,
+    25.83333,
+    32.81667,
+    25.83333
+],
+  "geometry": {"coordinates":[32.81667,25.83333],"type":"Point"}
+}

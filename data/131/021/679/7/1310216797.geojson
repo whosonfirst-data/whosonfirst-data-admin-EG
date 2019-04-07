@@ -1,0 +1,73 @@
+{
+  "id": 1310216797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52028,31.19595,30.52028,31.19595",
+    "geom:latitude":31.19595,
+    "geom:longitude":30.52028,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Qubtan",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415157,
+    "gn:latitude":31.19595,
+    "gn:longitude":30.52028,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u2018Izbat al Qub\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0642\u0628\u0637\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Qub\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092018277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415157
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"65779c757b3b6ce86ca0d5151c25d46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018277,
+            "locality_id":1310216797,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310216797,
+    "wof:lastmodified":1537620983,
+    "wof:name":"`Izbat al Qubtan",
+    "wof:parent_id":1092018277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52028,
+    31.19595,
+    30.52028,
+    31.19595
+],
+  "geometry": {"coordinates":[30.52028,31.19595],"type":"Point"}
+}

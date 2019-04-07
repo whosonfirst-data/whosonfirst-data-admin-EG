@@ -1,0 +1,74 @@
+{
+  "id": 1343745555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77002,30.91781,31.77002,30.91781",
+    "geom:latitude":30.91781,
+    "geom:longitude":31.77002,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"As Sufiyah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359806,
+    "gn:latitude":30.91781,
+    "gn:longitude":31.77002,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015f \u015e\u016bf\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sawfieh",
+        "El-\u1e62\u00fbf\u00eeya",
+        "El Sufia",
+        "Es Sufia",
+        "A\u015f \u015e\u016bf\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359806
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c3146515319594389d9d815b5c024ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015105,
+            "locality_id":1343745555,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343745555,
+    "wof:lastmodified":1537620849,
+    "wof:name":"As Sufiyah",
+    "wof:parent_id":1092015105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77002,
+    30.91781,
+    31.77002,
+    30.91781
+],
+  "geometry": {"coordinates":[31.77002,30.91781],"type":"Point"}
+}

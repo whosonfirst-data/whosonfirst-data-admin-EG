@@ -1,0 +1,74 @@
+{
+  "id": 1276662097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98389,30.80678,30.98389,30.80678",
+    "geom:latitude":30.80678,
+    "geom:longitude":30.98389,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr `Isam",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354232,
+    "gn:latitude":30.80678,
+    "gn:longitude":30.98389,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kafr \u2018I\u015f\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0639\u0635\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u2018I\u015f\u0101m",
+        "Kafr \u2018I\u1e63\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354232
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9b85c47708975e6f87f95d5857a3a2ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1276662097,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1276662097,
+    "wof:lastmodified":1537620698,
+    "wof:name":"Kafr `Isam",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98389,
+    30.80678,
+    30.98389,
+    30.80678
+],
+  "geometry": {"coordinates":[30.98389,30.80678],"type":"Point"}
+}

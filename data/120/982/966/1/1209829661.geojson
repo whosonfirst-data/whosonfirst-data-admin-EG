@@ -1,0 +1,78 @@
+{
+  "id": 1209829661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28208,31.06276,31.28208,31.06276",
+    "geom:latitude":31.06276,
+    "geom:longitude":31.28208,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Muhammad Badawi",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543565,
+    "gn:latitude":31.06276,
+    "gn:longitude":31.28208,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"\u2018Izbat Mu\u1e29ammad Badaw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u062d\u0645\u062f \u0628\u062f\u0648\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0646\u0627\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mu\u1e29ammad Badaw\u012b",
+        "Al Ghan\u0101yim",
+        "Al-Ghan\u0101yim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543565
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5d4df20259251fd3297a86e9dc08409b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1209829661,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1209829661,
+    "wof:lastmodified":1537621198,
+    "wof:name":"`Izbat Muhammad Badawi",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28208,
+    31.06276,
+    31.28208,
+    31.06276
+],
+  "geometry": {"coordinates":[31.28208,31.06276],"type":"Point"}
+}

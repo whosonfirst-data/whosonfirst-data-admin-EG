@@ -1,0 +1,77 @@
+{
+  "id": 1209919051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09401,31.02596,31.09401,31.02596",
+    "geom:latitude":31.02596,
+    "geom:longitude":31.09401,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Mu`tamadiyah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360640,
+    "gn:latitude":31.02596,
+    "gn:longitude":31.09401,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Al Mu\u2018tamad\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0639\u062a\u0645\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Mu\u2018tamid\u00eeya",
+        "Al Mu\u2018tamad\u012byah",
+        "Al-Mu\u2018tamidiyyah",
+        "Al Mu\u2018tamid\u012byah",
+        "Al Mu\u2018tamidiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360640
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cb045787eb0c0b8529ee9af97128e031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1209919051,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1209919051,
+    "wof:lastmodified":1537620888,
+    "wof:name":"Al Mu`tamadiyah",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09401,
+    31.02596,
+    31.09401,
+    31.02596
+],
+  "geometry": {"coordinates":[31.09401,31.02596],"type":"Point"}
+}

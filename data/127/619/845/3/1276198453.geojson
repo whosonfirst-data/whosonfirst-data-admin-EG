@@ -1,0 +1,67 @@
+{
+  "id": 1276198453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06002,24.46136,33.06002,24.46136",
+    "geom:latitude":24.46136,
+    "geom:longitude":33.06002,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Arminna",
+    "gn:country_code":"EG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360165,
+    "gn:latitude":24.46136,
+    "gn:longitude":33.06002,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Arminna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092022867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360165
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7022c2b05955be5614201312f1eb317e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022867,
+            "locality_id":1276198453,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1276198453,
+    "wof:lastmodified":1536959753,
+    "wof:name":"Arminna",
+    "wof:parent_id":1092022867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06002,
+    24.46136,
+    33.06002,
+    24.46136
+],
+  "geometry": {"coordinates":[33.06002,24.46136],"type":"Point"}
+}

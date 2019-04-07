@@ -1,0 +1,67 @@
+{
+  "id": 1209578683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93763,28.90501,30.93763,28.90501",
+    "geom:latitude":28.90501,
+    "geom:longitude":30.93763,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Suds al Umara'",
+    "gn:country_code":"EG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347970,
+    "gn:latitude":28.90501,
+    "gn:longitude":30.93763,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Suds al Umar\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sads el Omara",
+        "Sids",
+        "Sids el Umara",
+        "Suds al Umar\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347970
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"14aa18b430504386039c37c5fc56a1c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209578683
+        }
+    ],
+    "wof:id":1209578683,
+    "wof:lastmodified":1537620569,
+    "wof:name":"Suds al Umara'",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93763,
+    28.90501,
+    30.93763,
+    28.90501
+],
+  "geometry": {"coordinates":[30.93763,28.90501],"type":"Point"}
+}

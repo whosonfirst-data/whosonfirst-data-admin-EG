@@ -1,0 +1,72 @@
+{
+  "id": 1293854765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63639,30.71889,31.63639,30.71889",
+    "geom:latitude":30.71889,
+    "geom:longitude":31.63639,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Abu Yasin",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361941,
+    "gn:latitude":30.71889,
+    "gn:longitude":31.63639,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Ab\u016b Y\u0101s\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Y\u00e2s\u00een",
+        "Ab\u016b Y\u0101s\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361941
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c86ad066ea3372dda64f6b28626640c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1293854765,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293854765,
+    "wof:lastmodified":1537620956,
+    "wof:name":"Abu Yasin",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63639,
+    30.71889,
+    31.63639,
+    30.71889
+],
+  "geometry": {"coordinates":[31.63639,30.71889],"type":"Point"}
+}

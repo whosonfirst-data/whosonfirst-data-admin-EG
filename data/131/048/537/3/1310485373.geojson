@@ -1,0 +1,67 @@
+{
+  "id": 1310485373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76667,28.68333,30.76667,28.68333",
+    "geom:latitude":28.68333,
+    "geom:longitude":30.76667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kafr Mahdi",
+    "gn:country_code":"EG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354203,
+    "gn:latitude":28.68333,
+    "gn:longitude":30.76667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Kafr Mahd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354203
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fbd34634874744497c17dedcbbfcbc85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016505,
+            "locality_id":1310485373,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1310485373,
+    "wof:lastmodified":1536946361,
+    "wof:name":"Kafr Mahdi",
+    "wof:parent_id":1092016505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76667,
+    28.68333,
+    30.76667,
+    28.68333
+],
+  "geometry": {"coordinates":[30.76667,28.68333],"type":"Point"}
+}

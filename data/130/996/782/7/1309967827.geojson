@@ -1,0 +1,71 @@
+{
+  "id": 1309967827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76497,31.32986,31.76497,31.32986",
+    "geom:latitude":31.32986,
+    "geom:longitude":31.76497,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kafr al Ghawwabin",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354686,
+    "gn:latitude":31.32986,
+    "gn:longitude":31.76497,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Ghaww\u0101b\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Ghauw\u00e2b\u00een",
+        "Kafr al Ghaww\u0101b\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092020865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354686
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dc78e0e777c7be8aa7b692f56aac89a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020865,
+            "locality_id":1309967827,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1309967827,
+    "wof:lastmodified":1537620736,
+    "wof:name":"Kafr al Ghawwabin",
+    "wof:parent_id":1092020865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76497,
+    31.32986,
+    31.76497,
+    31.32986
+],
+  "geometry": {"coordinates":[31.76497,31.32986],"type":"Point"}
+}

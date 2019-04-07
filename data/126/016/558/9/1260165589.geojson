@@ -1,0 +1,74 @@
+{
+  "id": 1260165589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13498,30.65144,31.13498,30.65144",
+    "geom:latitude":30.65144,
+    "geom:longitude":31.13498,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Hurayn",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355757,
+    "gn:latitude":30.65144,
+    "gn:longitude":31.13498,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"H\u016brayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "H\u00fbrein",
+        "H\u016brayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092015653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355757
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"baa62ba52d0df0014dc4ef1274ef9a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015653,
+            "locality_id":1260165589,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1260165589,
+    "wof:lastmodified":1537620773,
+    "wof:name":"Hurayn",
+    "wof:parent_id":1092015653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13498,
+    30.65144,
+    31.13498,
+    30.65144
+],
+  "geometry": {"coordinates":[31.13498,30.65144],"type":"Point"}
+}

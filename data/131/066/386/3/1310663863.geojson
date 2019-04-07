@@ -1,0 +1,72 @@
+{
+  "id": 1310663863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,29.33333,31.13333,29.33333",
+    "geom:latitude":29.33333,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ibwit al Qadimah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355643,
+    "gn:latitude":29.33333,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ibw\u012b\u0163 al Qad\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibw\u00eet el Qad\u00eema",
+        "Ibw\u012b\u0163 al Qad\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092020395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355643
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5663ceb85b1f2179705d1f2299fb9857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020395,
+            "locality_id":1310663863,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1310663863,
+    "wof:lastmodified":1537620772,
+    "wof:name":"Ibwit al Qadimah",
+    "wof:parent_id":1092020395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    29.33333,
+    31.13333,
+    29.33333
+],
+  "geometry": {"coordinates":[31.13333,29.33333],"type":"Point"}
+}

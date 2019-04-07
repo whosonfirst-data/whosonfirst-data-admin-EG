@@ -1,0 +1,74 @@
+{
+  "id": 1193001703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8326,31.05964,31.8326,31.05964",
+    "geom:latitude":31.05964,
+    "geom:longitude":31.8326,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Ibrahim Hasan",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421203,
+    "gn:latitude":31.05964,
+    "gn:longitude":31.8326,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Ibr\u0101h\u012bm \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0625\u0628\u0631\u0627\u0647\u064a\u0645 \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ibr\u0101h\u012bm \u1e28asan",
+        "\u2018Izbat Ibr\u0101him \u1e24asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421203
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"af5dc062832c1efe63924757486b41c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015105,
+            "locality_id":1193001703,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1193001703,
+    "wof:lastmodified":1537621103,
+    "wof:name":"`Izbat Ibrahim Hasan",
+    "wof:parent_id":1092015105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8326,
+    31.05964,
+    31.8326,
+    31.05964
+],
+  "geometry": {"coordinates":[31.8326,31.05964],"type":"Point"}
+}

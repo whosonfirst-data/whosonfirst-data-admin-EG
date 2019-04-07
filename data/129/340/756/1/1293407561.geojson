@@ -1,0 +1,75 @@
+{
+  "id": 1293407561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.39854,30.85896,31.39854,30.85896",
+    "geom:latitude":30.85896,
+    "geom:longitude":31.39854,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr Tanbul al Jadid",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354041,
+    "gn:latitude":30.85896,
+    "gn:longitude":31.39854,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Kafr \u0162anb\u016bl al Jad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0637\u0646\u0628\u0648\u0644 \u0627\u0644\u062c\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u1e6camb\u00fbl el-Ged\u00eed",
+        "Kafr \u0162anb\u016bl al Jad\u012bd",
+        "Kafr \u1e6canb\u016bl al-Jad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092019741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354041
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bed624dc332e5ccbdb3f56ef775f459c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019741,
+            "locality_id":1293407561,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1293407561,
+    "wof:lastmodified":1537620684,
+    "wof:name":"Kafr Tanbul al Jadid",
+    "wof:parent_id":1092019741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.39854,
+    30.85896,
+    31.39854,
+    30.85896
+],
+  "geometry": {"coordinates":[31.39854,30.85896],"type":"Point"}
+}

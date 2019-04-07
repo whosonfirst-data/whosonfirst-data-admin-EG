@@ -1,0 +1,73 @@
+{
+  "id": 1243140799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4,26.06667,32.4,26.06667",
+    "geom:latitude":26.06667,
+    "geom:longitude":32.4,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"As Sama'inah",
+    "gn:country_code":"EG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359861,
+    "gn:latitude":26.06667,
+    "gn:longitude":32.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sam\u0101\u2019inah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Samayna",
+        "Naj\u2018 as Sam\u0101\u2019inah",
+        "Nag\u2018 el Sam\u00e2yna",
+        "As Sam\u0101\u2019inah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359861
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3ca0e15317788775e2279b8abe231f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020315,
+            "locality_id":1243140799,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1243140799,
+    "wof:lastmodified":1537620853,
+    "wof:name":"As Sama'inah",
+    "wof:parent_id":1092020315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4,
+    26.06667,
+    32.4,
+    26.06667
+],
+  "geometry": {"coordinates":[32.4,26.06667],"type":"Point"}
+}

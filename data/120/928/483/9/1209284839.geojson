@@ -1,0 +1,65 @@
+{
+  "id": 1209284839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56254,30.10841,32.56254,30.10841",
+    "geom:latitude":30.10841,
+    "geom:longitude":32.56254,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Muhammad Ahmad Bakin",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352008,
+    "gn:latitude":30.10841,
+    "gn:longitude":32.56254,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mu\u1e29ammad A\u1e29mad B\u0101k\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu\u1e29ammad A\u1e29mad B\u0101k\u012bn",
+        "Mu\u1e25ammad A\u1e25mad Baak\u00een"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352008
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e1fd1d867c38182866de2f0707e802de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209284839
+        }
+    ],
+    "wof:id":1209284839,
+    "wof:lastmodified":1537620632,
+    "wof:name":"Muhammad Ahmad Bakin",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56254000000001,
+    30.10841,
+    32.56254000000001,
+    30.10841
+],
+  "geometry": {"coordinates":[32.56254000000001,30.10841],"type":"Point"}
+}

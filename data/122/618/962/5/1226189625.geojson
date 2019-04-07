@@ -1,0 +1,74 @@
+{
+  "id": 1226189625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.685,25.76469,32.685,25.76469",
+    "geom:latitude":25.76469,
+    "geom:longitude":32.685,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Az Zayniyah Bahri",
+    "gn:country_code":"EG",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359481,
+    "gn:latitude":25.76469,
+    "gn:longitude":32.685,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az Zayn\u012byah Ba\u1e29r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 \u1e24a\u1e6dab",
+        "Naj\u2018 \u1e28a\u0163ab",
+        "El-Zein\u00eeya Ba\u1e25ari",
+        "El-Zeinly\u00e2t",
+        "Az Zayn\u012byah Ba\u1e29r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671097,
+        1092018839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359481
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4e4f363e83f2a19625705a7e3077b6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018839,
+            "locality_id":1226189625,
+            "region_id":85671097
+        }
+    ],
+    "wof:id":1226189625,
+    "wof:lastmodified":1537620838,
+    "wof:name":"Az Zayniyah Bahri",
+    "wof:parent_id":1092018839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.685,
+    25.76469,
+    32.685,
+    25.76469
+],
+  "geometry": {"coordinates":[32.685,25.76469],"type":"Point"}
+}

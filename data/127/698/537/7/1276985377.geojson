@@ -1,0 +1,74 @@
+{
+  "id": 1276985377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08805,30.78289,31.08805,30.78289",
+    "geom:latitude":30.78289,
+    "geom:longitude":31.08805,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Baqlulah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359140,
+    "gn:latitude":30.78289,
+    "gn:longitude":31.08805,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Baql\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0642\u0644\u0648\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Baql\u00fbla",
+        "Baql\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359140
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8fe0f7b20da7fcc4b9d05e853f84c40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1276985377,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1276985377,
+    "wof:lastmodified":1537620827,
+    "wof:name":"Baqlulah",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08805,
+    30.78289,
+    31.08805,
+    30.78289
+],
+  "geometry": {"coordinates":[31.08805,30.78289],"type":"Point"}
+}

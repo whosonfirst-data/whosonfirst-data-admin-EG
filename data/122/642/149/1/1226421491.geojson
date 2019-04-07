@@ -1,0 +1,73 @@
+{
+  "id": 1226421491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33148,30.53608,31.33148,30.53608",
+    "geom:latitude":30.53608,
+    "geom:longitude":31.33148,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Malamis",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352996,
+    "gn:latitude":30.53608,
+    "gn:longitude":31.33148,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mal\u0101mis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0627\u0645\u0633"
+    ],
+    "name:und_x_variant":[
+        "Mal\u0101mis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352996
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"687b239512b348f32f7f7ec53258e944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1226421491,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226421491,
+    "wof:lastmodified":1537620663,
+    "wof:name":"Malamis",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33148,
+    30.53608,
+    31.33148,
+    30.53608
+],
+  "geometry": {"coordinates":[31.33148,30.53608],"type":"Point"}
+}

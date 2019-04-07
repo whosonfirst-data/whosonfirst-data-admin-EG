@@ -1,0 +1,92 @@
+{
+  "id": 1092018369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":600669.859964,
+    "geom:bbox":"29.884095,31.18995,29.892833,31.20068",
+    "geom:latitude":31.196061,
+    "geom:longitude":29.889006,
+    "iso:country":"EG",
+    "lbl:latitude":31.19619,
+    "lbl:longitude":29.889088,
+    "meso:admin_1":"Alexandria",
+    "meso:diss_me":"El-MansheyahAlexandria",
+    "meso:gadm_admin":"Al-Manshiyah",
+    "meso:gadm_hasc2":"EG.IK.MN",
+    "meso:gaul_admin":"Al Manshiyya",
+    "meso:mps_x":29.889088,
+    "meso:mps_y":31.19619,
+    "meso:name_en":"El-Mansheyah",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":31.19619,
+    "mps:longitude":29.889088,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al-Manshiyah"
+    ],
+    "name:eng_x_variant":[
+        "Al Manshiyya",
+        "Al-Manshiyah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.IK",
+    "statoids:name":"Al-Manshiyah",
+    "statoids:population":"23616",
+    "statoids:statoid":"EG.IK.MN",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.IK.MN"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897281,
+    "wof:geomhash":"74107e26db8a745ff527ef3e9476b423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018369,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1092018369,
+    "wof:lastmodified":1536615086,
+    "wof:name":"El-Mansheyah",
+    "wof:parent_id":85671041,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":23616,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"MN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.884095,
+    31.18995,
+    29.892833,
+    31.20068
+],
+  "geometry": {"coordinates":[[[29.886729,31.200405],[29.886777,31.200375],[29.887078,31.20068],[29.887227,31.200602],[29.887433,31.200493],[29.887753,31.200335],[29.888109,31.200173],[29.888385,31.200071],[29.888518,31.20002],[29.888847,31.199912],[29.889106,31.199826],[29.889356,31.199754],[29.889382,31.199795],[29.8898,31.19969],[29.890195,31.199603],[29.890223,31.199598],[29.890651,31.19952],[29.890792,31.199519],[29.890796,31.199498],[29.890821,31.199494],[29.89084,31.199618],[29.890837,31.19964],[29.890865,31.19964],[29.890876,31.199634],[29.890867,31.199621],[29.890852,31.199573],[29.890846,31.199494],[29.891255,31.199437],[29.891545,31.19941],[29.891793,31.199383],[29.892333,31.19935],[29.892833,31.199338],[29.892533,31.194716],[29.892463,31.192776],[29.892389,31.191484],[29.892124,31.18995],[29.891535,31.190801],[29.891079,31.191247],[29.890282,31.191923],[29.889591,31.192449],[29.887614,31.192837],[29.885615,31.193228],[29.885453,31.193517],[29.884926,31.193946],[29.885095,31.194194],[29.884774,31.19445],[29.884921,31.194638],[29.885149,31.194585],[29.885263,31.194606],[29.885331,31.194646],[29.88541,31.194744],[29.885454,31.194863],[29.885397,31.19496],[29.885305,31.195075],[29.885213,31.195199],[29.885178,31.195325],[29.885165,31.195444],[29.88513,31.19556],[29.884878,31.196075],[29.885817,31.197044],[29.885018,31.197616],[29.884843,31.19774],[29.884095,31.19838],[29.885368,31.199362],[29.886161,31.199882],[29.886729,31.200405]]],"type":"Polygon"}
+}

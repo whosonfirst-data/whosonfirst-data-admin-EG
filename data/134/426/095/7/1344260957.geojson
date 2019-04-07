@@ -1,0 +1,79 @@
+{
+  "id": 1344260957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.43463,30.89516,31.43463,30.89516",
+    "geom:latitude":30.89516,
+    "geom:longitude":31.43463,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat ar Rabawat",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350979,
+    "gn:latitude":30.89516,
+    "gn:longitude":31.43463,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"\u2018Izbat ar Rabaw\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0631\u0628\u0648\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0648\u0628 \u0637\u0631\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "N\u016bb \u0162ar\u012bf",
+        "\u2018Izbat ar Rabaw\u0101t",
+        "N\u016bb \u1e6car\u012bf",
+        "\u2018Iz. ar-Rabaw\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092019741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350979
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cd7074cb898e72e7a18c63f9a7a61ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019741,
+            "locality_id":1344260957,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1344260957,
+    "wof:lastmodified":1537620602,
+    "wof:name":"`Izbat ar Rabawat",
+    "wof:parent_id":1092019741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.43463,
+    30.89516,
+    31.43463,
+    30.89516
+],
+  "geometry": {"coordinates":[31.43463,30.89516],"type":"Point"}
+}

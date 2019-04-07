@@ -1,0 +1,75 @@
+{
+  "id": 1277147857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.46239,30.72745,31.46239,30.72745",
+    "geom:latitude":30.72745,
+    "geom:longitude":31.46239,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Qatayi`",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360574,
+    "gn:latitude":30.72745,
+    "gn:longitude":31.46239,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qa\u0163ayi\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u0627\u064a\u0639"
+    ],
+    "name:und_x_variant":[
+        "El-Qa\u1e6d\u00e2yi\u2018",
+        "Al Qa\u0163\u0101\u2019i\u2018",
+        "Al Qa\u0163ayi\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360574
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d50053889f1c83f86745875d685c15f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1277147857,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1277147857,
+    "wof:lastmodified":1537620884,
+    "wof:name":"Al Qatayi`",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.46239000000001,
+    30.72745,
+    31.46239000000001,
+    30.72745
+],
+  "geometry": {"coordinates":[31.46239000000001,30.72745],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225964315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14139,30.24833,31.14139,30.24833",
+    "geom:latitude":30.24833,
+    "geom:longitude":31.14139,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Izbat Sayyid Muhammad",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":429068,
+    "gn:latitude":30.24833,
+    "gn:longitude":31.14139,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"`Izbat Sayyid Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092018935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429068
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3199defceabecf4653f8a018629569dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018935,
+            "locality_id":1225964315,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1225964315,
+    "wof:lastmodified":1536841515,
+    "wof:name":"`Izbat Sayyid Muhammad",
+    "wof:parent_id":1092018935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14139,
+    30.24833,
+    31.14139,
+    30.24833
+],
+  "geometry": {"coordinates":[31.14139,30.24833],"type":"Point"}
+}

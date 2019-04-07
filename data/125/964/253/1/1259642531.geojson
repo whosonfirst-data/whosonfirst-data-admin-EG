@@ -1,0 +1,77 @@
+{
+  "id": 1259642531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17028,31.45513,31.17028,31.45513",
+    "geom:latitude":31.45513,
+    "geom:longitude":31.17028,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Qaryah Raqm Ahad `Ashar",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7759285,
+    "gn:latitude":31.45513,
+    "gn:longitude":31.17028,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryah Raqm A\u1e29ad \u2018Ashar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 \u0661\u0661"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 11"
+    ],
+    "name:und_x_variant":[
+        "Qaryah Raqm A\u1e29ad \u2018Ashar",
+        "Qaryah Raqm 11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759285
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8ba2558dc890712241255de2fe6b5c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017993,
+            "locality_id":1259642531,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1259642531,
+    "wof:lastmodified":1537621137,
+    "wof:name":"Qaryah Raqm Ahad `Ashar",
+    "wof:parent_id":1092017993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17028,
+    31.45513,
+    31.17028,
+    31.45513
+],
+  "geometry": {"coordinates":[31.17028,31.45513],"type":"Point"}
+}

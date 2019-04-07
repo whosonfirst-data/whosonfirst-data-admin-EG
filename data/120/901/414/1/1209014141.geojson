@@ -1,0 +1,70 @@
+{
+  "id": 1209014141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28717,30.87694,31.28717,30.87694",
+    "geom:latitude":30.87694,
+    "geom:longitude":31.28717,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr an Nujaba",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354528,
+    "gn:latitude":30.87694,
+    "gn:longitude":31.28717,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Kafr an Nujab\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0646\u062c\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Nugaba",
+        "Kafr an Nujab\u0101\u2019",
+        "Kafr an Nujab\u0101",
+        "Kafr an-Nujab\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354528
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c6a21cd8ab8d7e70f0cbe3478791736b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209014141
+        }
+    ],
+    "wof:id":1209014141,
+    "wof:lastmodified":1537620721,
+    "wof:name":"Kafr an Nujaba",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28717,
+    30.87694,
+    31.28717,
+    30.87694
+],
+  "geometry": {"coordinates":[31.28717,30.87694],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293091907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25,29.86667,31.25,29.86667",
+    "geom:latitude":29.86667,
+    "geom:longitude":31.25,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Kafr al Qibli",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360977,
+    "gn:latitude":29.86667,
+    "gn:longitude":31.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kafr al Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Kafr el-Qibli",
+        "Al Kafr al Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092017019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360977
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"76414fab966973afea145d1f87907455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017019,
+            "locality_id":1293091907,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1293091907,
+    "wof:lastmodified":1537620908,
+    "wof:name":"Al Kafr al Qibli",
+    "wof:parent_id":1092017019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25,
+    29.86667000000001,
+    31.25,
+    29.86667000000001
+],
+  "geometry": {"coordinates":[31.25,29.86667000000001],"type":"Point"}
+}

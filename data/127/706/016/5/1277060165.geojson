@@ -1,0 +1,71 @@
+{
+  "id": 1277060165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73224,28.26414,30.73224,28.26414",
+    "geom:latitude":28.26414,
+    "geom:longitude":30.73224,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Bayahu",
+    "gn:country_code":"EG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361389,
+    "gn:latitude":28.26414,
+    "gn:longitude":30.73224,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bayah\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bayahu",
+        "Al Bayah\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092024217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361389
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1d4ecdb0531cd9d370b7016a2fbee75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024217,
+            "locality_id":1277060165,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1277060165,
+    "wof:lastmodified":1537620932,
+    "wof:name":"Al Bayahu",
+    "wof:parent_id":1092024217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73224,
+    28.26414,
+    30.73224,
+    28.26414
+],
+  "geometry": {"coordinates":[30.73224,28.26414],"type":"Point"}
+}

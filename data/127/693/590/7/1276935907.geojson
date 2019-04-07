@@ -1,0 +1,77 @@
+{
+  "id": 1276935907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20859,31.42475,31.20859,31.42475",
+    "geom:latitude":31.42475,
+    "geom:longitude":31.20859,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Qaryah Raqm Sittah wa Arba`un",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7759971,
+    "gn:latitude":31.42475,
+    "gn:longitude":31.20859,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryah Raqm Sittah wa Arba\u2018\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 \u0664\u0666"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 46"
+    ],
+    "name:und_x_variant":[
+        "Qaryah Raqm Sittah wa Arba\u2018\u016bn",
+        "Qaryah Raqm 46"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759971
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cb22c00255fa07dc168b400e79dd990a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1276935907,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276935907,
+    "wof:lastmodified":1537621139,
+    "wof:name":"Qaryah Raqm Sittah wa Arba`un",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20859,
+    31.42475,
+    31.20859,
+    31.42475
+],
+  "geometry": {"coordinates":[31.20859,31.42475],"type":"Point"}
+}

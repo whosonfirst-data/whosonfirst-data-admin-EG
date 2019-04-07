@@ -1,0 +1,67 @@
+{
+  "id": 1242582259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01667,30.9,31.01667,30.9",
+    "geom:latitude":30.9,
+    "geom:longitude":31.01667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Ezbet el-Qasabi",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357430,
+    "gn:latitude":30.9,
+    "gn:longitude":31.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet el-Qasabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357430
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f637f8aa407d5d14d6e2910024b384a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1242582259,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1242582259,
+    "wof:lastmodified":1537054530,
+    "wof:name":"`Ezbet el-Qasabi",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01667,
+    30.9,
+    31.01667,
+    30.9
+],
+  "geometry": {"coordinates":[31.01667,30.9],"type":"Point"}
+}

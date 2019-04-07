@@ -1,0 +1,66 @@
+{
+  "id": 1209573409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71667,26.55,31.71667,26.55",
+    "geom:latitude":26.55,
+    "geom:longitude":31.71667,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Jazirat Mahrus",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355094,
+    "gn:latitude":26.55,
+    "gn:longitude":31.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaz\u012brat Ma\u1e29r\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geziret Mahr\u00fbs",
+        "Jaz\u012brat Ma\u1e29r\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355094
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"55989dc25c84ab0eb48b0c4d941c8f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209573409
+        }
+    ],
+    "wof:id":1209573409,
+    "wof:lastmodified":1537620754,
+    "wof:name":"Jazirat Mahrus",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71667,
+    26.55,
+    31.71667,
+    26.55
+],
+  "geometry": {"coordinates":[31.71667,26.55],"type":"Point"}
+}

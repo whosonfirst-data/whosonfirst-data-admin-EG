@@ -1,0 +1,72 @@
+{
+  "id": 1293486789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83555,30.80892,30.83555,30.80892",
+    "geom:latitude":30.80892,
+    "geom:longitude":30.83555,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ad Daljamun",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361853,
+    "gn:latitude":30.80892,
+    "gn:longitude":30.83555,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ad Daljam\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Dalgam\u00fbn",
+        "Ed Dalgam\u016bn",
+        "Ad Daljam\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092021623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361853
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ac0226fd9700ee3b14c3128aa7609dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021623,
+            "locality_id":1293486789,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1293486789,
+    "wof:lastmodified":1537620953,
+    "wof:name":"Ad Daljamun",
+    "wof:parent_id":1092021623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83555,
+    30.80892,
+    30.83555,
+    30.80892
+],
+  "geometry": {"coordinates":[30.83555,30.80892],"type":"Point"}
+}

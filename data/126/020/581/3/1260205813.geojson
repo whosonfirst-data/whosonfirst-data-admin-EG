@@ -1,0 +1,81 @@
+{
+  "id": 1260205813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.79436,31.11501,29.79436,31.11501",
+    "geom:latitude":31.11501,
+    "geom:longitude":29.79436,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bitash",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6544319,
+    "gn:latitude":31.11501,
+    "gn:longitude":29.79436,
+    "gn:modification_date":"2007-05-29",
+    "gn:name":"Bitash",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0637\u0627\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0637\u0627\u0634"
+    ],
+    "name:eng_x_preferred":[
+        "Bitash"
+    ],
+    "name:eng_x_variant":[
+        "Al Bitash",
+        "Al Bitach",
+        "Bitach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092017441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6544319
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2d52b42659e4b9d0a17503a2f3e63900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017441,
+            "locality_id":1260205813,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1260205813,
+    "wof:lastmodified":1537621135,
+    "wof:name":"Bitash",
+    "wof:parent_id":1092017441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79436,
+    31.11501,
+    29.79436,
+    31.11501
+],
+  "geometry": {"coordinates":[29.79436,31.11501],"type":"Point"}
+}

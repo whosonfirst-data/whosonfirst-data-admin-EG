@@ -1,0 +1,78 @@
+{
+  "id": 1259605631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10485,30.17583,31.10485,30.17583",
+    "geom:latitude":30.17583,
+    "geom:longitude":31.10485,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Hisaniyin",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361141,
+    "gn:latitude":30.17583,
+    "gn:longitude":31.10485,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28is\u0101n\u012by\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28is\u0101n\u012by\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0633\u0627\u0646\u064a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e24is\u00e2n\u00eey\u00een",
+        "Al \u2019is\u0101n\u012by\u012bn",
+        "Al \u1e28is\u0101nyyin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092020631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361141
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6e3e5a1f4682025770675f4b940555a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020631,
+            "locality_id":1259605631,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1259605631,
+    "wof:lastmodified":1537620916,
+    "wof:name":"Al Hisaniyin",
+    "wof:parent_id":1092020631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.10485,
+    30.17583,
+    31.10485,
+    30.17583
+],
+  "geometry": {"coordinates":[31.10485,30.17583],"type":"Point"}
+}

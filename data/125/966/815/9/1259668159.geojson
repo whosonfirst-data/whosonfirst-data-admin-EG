@@ -1,0 +1,73 @@
+{
+  "id": 1259668159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01124,30.4317,31.01124,30.4317",
+    "geom:latitude":30.4317,
+    "geom:longitude":31.01124,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Jarawan",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":356775,
+    "gn:latitude":30.4317,
+    "gn:longitude":31.01124,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaraw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jaraw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092017065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356775
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5714bbbc53c3db0600d1ccb8102bb4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017065,
+            "locality_id":1259668159,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1259668159,
+    "wof:lastmodified":1537620779,
+    "wof:name":"Jarawan",
+    "wof:parent_id":1092017065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01124,
+    30.4317,
+    31.01124,
+    30.4317
+],
+  "geometry": {"coordinates":[31.01124,30.4317],"type":"Point"}
+}

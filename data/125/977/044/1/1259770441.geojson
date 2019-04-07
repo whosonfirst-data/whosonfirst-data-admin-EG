@@ -1,0 +1,73 @@
+{
+  "id": 1259770441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.228,30.37618,31.228,30.37618",
+    "geom:latitude":30.37618,
+    "geom:longitude":31.228,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Izbat Hawd Batatah",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139083,
+    "gn:latitude":30.37618,
+    "gn:longitude":31.228,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat \u1e28aw\u1e11 Ba\u0163\u0101\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062d\u0648\u0636 \u0628\u0637\u0627\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u1e28aw\u1e11 Ba\u0163\u0101\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139083
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"445e7354a2dd4334c8c01fea07cf84f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1259770441,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1259770441,
+    "wof:lastmodified":1537621182,
+    "wof:name":"`Izbat Hawd Batatah",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.228,
+    30.37618,
+    31.228,
+    30.37618
+],
+  "geometry": {"coordinates":[31.228,30.37618],"type":"Point"}
+}

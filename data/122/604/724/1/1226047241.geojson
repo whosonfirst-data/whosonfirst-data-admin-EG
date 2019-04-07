@@ -1,0 +1,75 @@
+{
+  "id": 1226047241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07428,31.07928,31.07428,31.07928",
+    "geom:latitude":31.07928,
+    "geom:longitude":31.07428,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Banawan",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361433,
+    "gn:latitude":31.07928,
+    "gn:longitude":31.07428,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Al Ban\u0101w\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0646\u0627\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-Ban\u00e2w\u00e2n",
+        "Al Ban\u0101w\u0101n",
+        "Al-Ban\u0101w\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361433
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7a48cee66b0cb65b9ef12d744c5c7294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1226047241,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1226047241,
+    "wof:lastmodified":1537620936,
+    "wof:name":"Al Banawan",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07428,
+    31.07928,
+    31.07428,
+    31.07928
+],
+  "geometry": {"coordinates":[31.07428,31.07928],"type":"Point"}
+}

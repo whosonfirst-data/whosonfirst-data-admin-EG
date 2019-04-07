@@ -1,0 +1,79 @@
+{
+  "id": 1276742067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56671,30.5468,31.56671,30.5468",
+    "geom:latitude":30.5468,
+    "geom:longitude":31.56671,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mit Rikab",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352129,
+    "gn:latitude":30.5468,
+    "gn:longitude":31.56671,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u012bt Rik\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u012bt Rik\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u062a \u0631\u0643\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet Rik\u00e2b and Kafr Sul\u00eem\u00e2n el-Qam\u1e25\u00e2wi",
+        "M\u012bt Rik\u0101b wa Kafr Sulaym\u0101n al Qam\u1e29\u0101w\u012b",
+        "M\u00eet Rik\u00e2b wa Kafr Sul\u00eem\u00e2n el-Qam\u1e25\u00e2wi",
+        "M\u012bt Rik\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352129
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e8a8434e7aaffda3bc4c6ef17bcf7df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1276742067,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276742067,
+    "wof:lastmodified":1537620634,
+    "wof:name":"Mit Rikab",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56671,
+    30.5468,
+    31.56671,
+    30.5468
+],
+  "geometry": {"coordinates":[31.56671,30.5468],"type":"Point"}
+}

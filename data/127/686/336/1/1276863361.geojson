@@ -1,0 +1,77 @@
+{
+  "id": 1276863361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.30935,30.31263,32.30935,30.31263",
+    "geom:latitude":30.31263,
+    "geom:longitude":32.30935,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fayid",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357039,
+    "gn:latitude":30.31263,
+    "gn:longitude":32.30935,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"F\u0101y\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "F\u0101\u2019id"
+    ],
+    "name:ara_x_variant":[
+        "F\u0101y\u012bd",
+        "F\u00e2yid"
+    ],
+    "name:und_x_variant":[
+        "F\u00e2yid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357039
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e98b24d517f6900dd756b60de197b278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020945,
+            "locality_id":1276863361,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1276863361,
+    "wof:lastmodified":1537620782,
+    "wof:name":"Fayid",
+    "wof:parent_id":1092020945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.30935,
+    30.31263,
+    32.30935,
+    30.31263
+],
+  "geometry": {"coordinates":[32.30935,30.31263],"type":"Point"}
+}

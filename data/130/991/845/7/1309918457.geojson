@@ -1,0 +1,72 @@
+{
+  "id": 1309918457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52434,26.85667,31.52434,26.85667",
+    "geom:latitude":26.85667,
+    "geom:longitude":31.52434,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"An Nawawirah",
+    "gn:country_code":"EG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360340,
+    "gn:latitude":26.85667,
+    "gn:longitude":31.52434,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An Naw\u0101wirah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Naw\u00e2wra",
+        "En Naw\u0101ura",
+        "An Naw\u0101wirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360340
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1c6c892620223e1353e4c69fe4c1a7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023157,
+            "locality_id":1309918457,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1309918457,
+    "wof:lastmodified":1537620875,
+    "wof:name":"An Nawawirah",
+    "wof:parent_id":1092023157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52434,
+    26.85667,
+    31.52434,
+    26.85667
+],
+  "geometry": {"coordinates":[31.52434,26.85667],"type":"Point"}
+}

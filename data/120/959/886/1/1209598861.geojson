@@ -1,0 +1,67 @@
+{
+  "id": 1209598861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6314,30.51837,31.6314,30.51837",
+    "geom:latitude":30.51837,
+    "geom:longitude":31.6314,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Salah Ayyub",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068956,
+    "gn:latitude":30.51837,
+    "gn:longitude":31.6314,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat \u015eal\u0101\u1e29 Ayy\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0635\u0644\u0627\u062d \u0623\u064a\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u015eal\u0101\u1e29 Ayy\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068956
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"90bdc88f6c7f04ad9ec460ffd4e324c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209598861
+        }
+    ],
+    "wof:id":1209598861,
+    "wof:lastmodified":1537621169,
+    "wof:name":"`Izbat Salah Ayyub",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6314,
+    30.51837,
+    31.6314,
+    30.51837
+],
+  "geometry": {"coordinates":[31.6314,30.51837],"type":"Point"}
+}

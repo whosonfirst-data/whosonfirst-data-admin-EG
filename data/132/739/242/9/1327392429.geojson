@@ -1,0 +1,72 @@
+{
+  "id": 1327392429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5,30.93333,29.5,30.93333",
+    "geom:latitude":30.93333,
+    "geom:longitude":29.5,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dawwar Ibrahim Abu Shunaywir",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358318,
+    "gn:latitude":30.93333,
+    "gn:longitude":29.5,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Daww\u0101r Ibr\u0101h\u012bm Ab\u016b Shunayw\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dauw\u00e2r Ibr\u00e2h\u00eem Abu Shineweir",
+        "Daww\u0101r Ibr\u0101h\u012bm Ab\u016b Shunayw\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358318
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ab88dd81d2c545d2d1ba24f06652c08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015739,
+            "locality_id":1327392429,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1327392429,
+    "wof:lastmodified":1537620812,
+    "wof:name":"Dawwar Ibrahim Abu Shunaywir",
+    "wof:parent_id":1092015739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5,
+    30.93333,
+    29.5,
+    30.93333
+],
+  "geometry": {"coordinates":[29.5,30.93333],"type":"Point"}
+}

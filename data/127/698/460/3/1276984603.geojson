@@ -1,0 +1,75 @@
+{
+  "id": 1276984603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83804,31.41681,31.83804,31.41681",
+    "geom:latitude":31.41681,
+    "geom:longitude":31.83804,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shatt Ghayt an Nasara",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349311,
+    "gn:latitude":31.41681,
+    "gn:longitude":31.83804,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sha\u0163\u0163 Ghay\u0163 an Na\u015f\u0101r\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghietel Nassrah",
+        "Shatt Gheit el Nassara",
+        "Gheit el Nasara",
+        "Shatt Gheit en Nassara",
+        "Sha\u1e6d\u1e6d Ghei\u1e6d el-Na\u1e63\u00e2ra",
+        "Sha\u0163\u0163 Ghay\u0163 an Na\u015f\u0101r\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349311
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"024069ed7226352e0ac4c761c588b3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":1276984603,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1276984603,
+    "wof:lastmodified":1537620578,
+    "wof:name":"Shatt Ghayt an Nasara",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83804,
+    31.41681,
+    31.83804,
+    31.41681
+],
+  "geometry": {"coordinates":[31.83804,31.41681],"type":"Point"}
+}

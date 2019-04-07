@@ -1,0 +1,67 @@
+{
+  "id": 1343971119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.52833,26.2,32.52833,26.2",
+    "geom:latitude":26.2,
+    "geom:longitude":32.52833,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wadi Kawlat Abu Laylah",
+    "gn:country_code":"EG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434558,
+    "gn:latitude":26.2,
+    "gn:longitude":32.52833,
+    "gn:modification_date":"2002-02-19",
+    "gn:name":"W\u0101d\u012b Kawlat Ab\u016b Laylah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092016157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434558
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dfe474b59c87dd8f950643428f312854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016157,
+            "locality_id":1343971119,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1343971119,
+    "wof:lastmodified":1537003796,
+    "wof:name":"Wadi Kawlat Abu Laylah",
+    "wof:parent_id":1092016157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.52833,
+    26.2,
+    32.52833,
+    26.2
+],
+  "geometry": {"coordinates":[32.52833,26.2],"type":"Point"}
+}

@@ -1,0 +1,395 @@
+{
+  "id": 421198061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.95502,30.83007,28.95502,30.83007",
+    "geom:latitude":30.83007,
+    "geom:longitude":28.95502,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Alamein"
+    ],
+    "name:alb_x_preferred":[
+        "El Alamejn"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u0645\u064a\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u0645\u064a\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl-\u018flameyn"
+    ],
+    "name:baq_x_preferred":[
+        "El-Alamein"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u0986\u09b2\u09be\u09ae\u09c7\u0987\u09a8"
+    ],
+    "name:bre_x_preferred":[
+        "El Alamein"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0430\u043c\u0435\u0439\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "El Alamein"
+    ],
+    "name:ceb_x_preferred":[
+        "Al \u2018Alamayn"
+    ],
+    "name:ces_x_preferred":[
+        "El Alamein"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u83b1\u66fc"
+    ],
+    "name:cze_x_preferred":[
+        "El Alamein"
+    ],
+    "name:dan_x_preferred":[
+        "El-Alamein"
+    ],
+    "name:deu_x_preferred":[
+        "El-Alamein"
+    ],
+    "name:dut_x_preferred":[
+        "El Alamein"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u0391\u03bb\u03b1\u03bc\u03ad\u03b9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "El Alamein"
+    ],
+    "name:est_x_preferred":[
+        "Al-\u2018Alamayn"
+    ],
+    "name:eus_x_preferred":[
+        "El-Alamein"
+    ],
+    "name:fin_x_preferred":[
+        "El Alamein"
+    ],
+    "name:fra_x_preferred":[
+        "El-Alamein"
+    ],
+    "name:fre_x_preferred":[
+        "El-Alamein"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d0\u10da\u10d0\u10db\u10d0\u10d8\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "el-Alamein"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u0391\u03bb\u03b1\u03bc\u03ad\u03b9\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab2 \u0a85\u0ab2\u0aae\u0ac7\u0a88\u0aa8"
+    ],
+    "name:hbs_x_preferred":[
+        "El Alamein"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05e2\u05dc\u05de\u05d9\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u0906\u0932\u093e\u092e\u0940\u0928"
+    ],
+    "name:hrv_x_preferred":[
+        "El Alamein"
+    ],
+    "name:ind_x_preferred":[
+        "Alamain"
+    ],
+    "name:ita_x_preferred":[
+        "El Alamein"
+    ],
+    "name:jav_x_preferred":[
+        "El Alamein"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30a2\u30e9\u30e1\u30a4\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0cb2\u0ccd \u0c86\u0cb2\u0cae\u0cc7\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d0\u10da\u10d0\u10db\u10d0\u10d8\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8 \uc54c\ub77c\uba54\uc778"
+    ],
+    "name:lav_x_preferred":[
+        "El Alameina"
+    ],
+    "name:lit_x_preferred":[
+        "El Alameinas"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0932 \u0905\u0932\u0945\u092e\u0940\u0928"
+    ],
+    "name:may_x_preferred":[
+        "El Alamein"
+    ],
+    "name:nld_x_preferred":[
+        "El Alamein"
+    ],
+    "name:nob_x_preferred":[
+        "El Alamein"
+    ],
+    "name:nor_x_preferred":[
+        "El Alamein"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0644\u0645\u06cc\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Alamajn"
+    ],
+    "name:por_x_preferred":[
+        "El Alamein"
+    ],
+    "name:ron_x_preferred":[
+        "El Alamein"
+    ],
+    "name:rum_x_preferred":[
+        "El Alamein"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0410\u043b\u0430\u043c\u0435\u0439\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043b\u0430\u043c\u0435\u0439\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0dbd\u0dca \u0d85\u0dbd\u0db8\u0dd2\u0db1\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Al-Alamajn"
+    ],
+    "name:slo_x_preferred":[
+        "Al-Alamajn"
+    ],
+    "name:slv_x_preferred":[
+        "El Alamein"
+    ],
+    "name:spa_x_preferred":[
+        "El Alamein"
+    ],
+    "name:sqi_x_preferred":[
+        "El Alamejn"
+    ],
+    "name:srd_x_preferred":[
+        "El Alamein"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0410\u043b\u0430\u043c\u0435\u0458\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "El Alamein"
+    ],
+    "name:swe_x_variant":[
+        "El-Alamein"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0bb2\u0bcd  \u0b86\u0bb2\u0bae\u0bc0\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c32\u0c4d \u0c05\u0c32\u0c2e\u0c47\u0c2f\u0c3f\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2d\u0e25 \u0e2d\u0e25\u0e32\u0e40\u0e21\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "El-Alameyn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0410\u043b\u0430\u043c\u0435\u0439\u043d"
+    ],
+    "name:unk_x_variant":[
+        "El \u2018Alamein"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644 \u0627\u0644\u0627\u0645\u06cc\u06ba"
+    ],
+    "name:vie_x_preferred":[
+        "El Alamein"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u83b1\u66fc"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Egypt",
+    "ne:ADM0_A3":"EGY",
+    "ne:ADM1NAME":"Matruh",
+    "ne:ADMIN1_COD":22,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":361612,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Al `Alamayn",
+    "ne:GN_POP":7400,
+    "ne:GTOPO30":6.0,
+    "ne:ISO_A2":"EG",
+    "ne:LABELRANK":3,
+    "ne:LATITUDE":30.817071,
+    "ne:LONGITUDE":28.949954,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"El Alamein",
+    "ne:MAX_AREAKM":3.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":28.975,
+    "ne:MAX_BBXMIN":28.95,
+    "ne:MAX_BBYMAX":30.833333,
+    "ne:MAX_BBYMIN":30.816667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":9.0,
+    "ne:MAX_PERMI":5.0,
+    "ne:MAX_POP10":2476,
+    "ne:MAX_POP20":2476,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":28.960417,
+    "ne:MEAN_BBYC":30.827083,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":3.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":28.975,
+    "ne:MIN_BBXMIN":28.95,
+    "ne:MIN_BBYMAX":30.833333,
+    "ne:MIN_BBYMIN":30.816667,
+    "ne:MIN_PERKM":9.0,
+    "ne:MIN_PERMI":5.0,
+    "ne:NAME":"El Alamein",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"El Alamein",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":7400,
+    "ne:POP_MIN":2476,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Egypt",
+    "ne:SOV_A3":"EGY",
+    "ne:TIMEZONE":"Africa/Cairo",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":361612,
+    "qs:gn_pop":7400,
+    "qs:name":"Al Alamayn",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0645\u0637\u0631\u0648\u062d",
+    "qs:photos":480,
+    "qs:photos_1k":97,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":480,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":919647,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1521219,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:elevation":7.0,
+    "wd:latitude":30.833333,
+    "wd:longitude":28.95,
+    "wd:population":2413,
+    "wd:wordcount":754,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092016623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361612,
+        "gp:id":1521219,
+        "qs:id":919647,
+        "wd:id":"Q204439",
+        "wk:page":"El Alamein"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009935,
+    "wof:geomhash":"8c62a87ac124775d112966b7ec75b62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016623,
+            "locality_id":421198061,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":421198061,
+    "wof:lastmodified":1527716357,
+    "wof:name":"Al Alamayn",
+    "wof:parent_id":1092016623,
+    "wof:placetype":"locality",
+    "wof:population":2413,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.95502,
+    30.83007,
+    28.95502,
+    30.83007
+],
+  "geometry": {"coordinates":[28.95502,30.83007],"type":"Point"}
+}

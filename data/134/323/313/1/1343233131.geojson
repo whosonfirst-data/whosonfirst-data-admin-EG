@@ -1,0 +1,67 @@
+{
+  "id": 1343233131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45992,30.75384,31.45992,30.75384",
+    "geom:latitude":30.75384,
+    "geom:longitude":31.45992,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dairab Negm",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910475,
+    "gn:latitude":30.75384,
+    "gn:longitude":31.45992,
+    "gn:modification_date":"2011-07-26",
+    "gn:name":"Dairab Negm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910475
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8201a36d4552fdae4a0f45f2ebb2bd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1343233131,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343233131,
+    "wof:lastmodified":1537071448,
+    "wof:name":"Dairab Negm",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45992,
+    30.75384,
+    31.45992,
+    30.75384
+],
+  "geometry": {"coordinates":[31.45992,30.75384],"type":"Point"}
+}

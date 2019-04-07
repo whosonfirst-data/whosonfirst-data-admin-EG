@@ -1,0 +1,74 @@
+{
+  "id": 1343766901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0209,30.75063,31.0209,30.75063",
+    "geom:latitude":30.75063,
+    "geom:longitude":31.0209,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nifya",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351042,
+    "gn:latitude":30.75063,
+    "gn:longitude":31.0209,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nify\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0641\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Nifia",
+        "Nify\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351042
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c9382ae92ee180cd0fe35b5aa9cb9dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1343766901,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1343766901,
+    "wof:lastmodified":1537620604,
+    "wof:name":"Nifya",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0209,
+    30.75063,
+    31.0209,
+    30.75063
+],
+  "geometry": {"coordinates":[31.0209,30.75063],"type":"Point"}
+}

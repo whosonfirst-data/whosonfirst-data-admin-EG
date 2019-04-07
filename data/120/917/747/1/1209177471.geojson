@@ -1,0 +1,61 @@
+{
+  "id": 1209177471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93333,28.95,30.93333,28.95",
+    "geom:latitude":28.95,
+    "geom:longitude":30.93333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kafr Abu Dukhkhan",
+    "gn:country_code":"EG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354839,
+    "gn:latitude":28.95,
+    "gn:longitude":30.93333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Kafr Ab\u016b Dukhkh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354839
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b238734fd34ef6c4de78313cbb135041",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209177471
+        }
+    ],
+    "wof:id":1209177471,
+    "wof:lastmodified":1536295373,
+    "wof:name":"Kafr Abu Dukhkhan",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93333,
+    28.95,
+    30.93333,
+    28.95
+],
+  "geometry": {"coordinates":[30.93333,28.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209190553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79091,27.53816,30.79091,27.53816",
+    "geom:latitude":27.53816,
+    "geom:longitude":30.79091,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Biblaw wa Nazlat Badawi",
+    "gn:country_code":"EG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358867,
+    "gn:latitude":27.53816,
+    "gn:longitude":30.79091,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bibl\u0101w wa Nazlat Badaw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bibl\u00e2w and Nazlet Badawi",
+        "Biblaw",
+        "Bibl\u0101u",
+        "Bibl\u0101w wa Nazlat Badaw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358867
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"85607058a7768876ea41d7d2df86c7cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209190553
+        }
+    ],
+    "wof:id":1209190553,
+    "wof:lastmodified":1537620823,
+    "wof:name":"Biblaw wa Nazlat Badawi",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79091,
+    27.53816,
+    30.79091,
+    27.53816
+],
+  "geometry": {"coordinates":[30.79091,27.53816],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259984419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9765,30.82675,30.9765,30.82675",
+    "geom:latitude":30.82675,
+    "geom:longitude":30.9765,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Zaynab Ahmad",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8624333,
+    "gn:latitude":30.82675,
+    "gn:longitude":30.9765,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"\u2018Izbat Zaynab A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0632\u064a\u0646\u0628 \u0623\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Zaynab A\u1e29mad",
+        "\u2018Izbat Zaynab A\u1e25mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8624333
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c8dac19ee88498d6a7a76479d12bfd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1259984419,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1259984419,
+    "wof:lastmodified":1537621216,
+    "wof:name":"`Izbat Zaynab Ahmad",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9765,
+    30.82675,
+    30.9765,
+    30.82675
+],
+  "geometry": {"coordinates":[30.9765,30.82675],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344220591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31667,26.9,31.31667,26.9",
+    "geom:latitude":26.9,
+    "geom:longitude":31.31667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nazlat al `Ada'imah",
+    "gn:country_code":"EG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351229,
+    "gn:latitude":26.9,
+    "gn:longitude":31.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat al \u2018A\u1e11\u0101\u2019imah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet el-\u2018A\u1e0d\u00e2yma",
+        "Nazlat al \u2018A\u1e11\u0101\u2019imah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092017873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351229
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"326269b049032bcd2863019eba248c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017873,
+            "locality_id":1344220591,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1344220591,
+    "wof:lastmodified":1537620615,
+    "wof:name":"Nazlat al `Ada'imah",
+    "wof:parent_id":1092017873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31667,
+    26.9,
+    31.31667,
+    26.9
+],
+  "geometry": {"coordinates":[31.31667,26.9],"type":"Point"}
+}

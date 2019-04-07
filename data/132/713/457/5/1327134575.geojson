@@ -1,0 +1,73 @@
+{
+  "id": 1327134575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90729,29.499,30.90729,29.499",
+    "geom:latitude":29.499,
+    "geom:longitude":30.90729,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Qasr Rashwan",
+    "gn:country_code":"EG",
+    "gn:dem":-28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350645,
+    "gn:latitude":29.499,
+    "gn:longitude":30.90729,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Qa\u015fr Rashw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0631\u0634\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qa\u015fr Rashw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092025417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350645
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d08d7bd52b2e184d0405b20b04497fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025417,
+            "locality_id":1327134575,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1327134575,
+    "wof:lastmodified":1537620596,
+    "wof:name":"Qasr Rashwan",
+    "wof:parent_id":1092025417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90729,
+    29.499,
+    30.90729,
+    29.499
+],
+  "geometry": {"coordinates":[30.90729,29.499],"type":"Point"}
+}

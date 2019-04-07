@@ -1,0 +1,67 @@
+{
+  "id": 1242755945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30526,29.86534,31.30526,29.86534",
+    "geom:latitude":29.86534,
+    "geom:longitude":31.30526,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"`Ezbet el-Auqat",
+    "gn:country_code":"EG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357542,
+    "gn:latitude":29.86534,
+    "gn:longitude":31.30526,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Ezbet el-Auq\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092021427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357542
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3d2ed1bce0c5c19b94b8a1fe8ff39748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021427,
+            "locality_id":1242755945,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1242755945,
+    "wof:lastmodified":1536806605,
+    "wof:name":"`Ezbet el-Auqat",
+    "wof:parent_id":1092021427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30526,
+    29.86534,
+    31.30526,
+    29.86534
+],
+  "geometry": {"coordinates":[31.30526,29.86534],"type":"Point"}
+}

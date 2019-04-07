@@ -1,0 +1,78 @@
+{
+  "id": 1259754161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13038,30.87528,32.13038,30.87528",
+    "geom:latitude":30.87528,
+    "geom:longitude":32.13038,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Qaryat Raqm `Asharah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194150,
+    "gn:latitude":30.87528,
+    "gn:longitude":32.13038,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Qaryat Raqm \u2018Asharah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 \u0661\u0660"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062f\u0648\u0627\u063a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Raqm \u2018Asharah",
+        "Qaryah Number Ten",
+        "\u2018Izbat ad Daw\u0101ghirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194150
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"53a5df93acb54c6619a94bbd44489cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1259754161,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259754161,
+    "wof:lastmodified":1537621234,
+    "wof:name":"Qaryat Raqm `Asharah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13038,
+    30.87528,
+    32.13038,
+    30.87528
+],
+  "geometry": {"coordinates":[32.13038,30.87528],"type":"Point"}
+}

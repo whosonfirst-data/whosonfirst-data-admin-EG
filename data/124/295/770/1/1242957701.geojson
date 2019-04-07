@@ -1,0 +1,75 @@
+{
+  "id": 1242957701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07656,30.4283,31.07656,30.4283",
+    "geom:latitude":30.4283,
+    "geom:longitude":31.07656,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Baraniqah",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361419,
+    "gn:latitude":30.4283,
+    "gn:longitude":31.07656,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bar\u0101niqah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0627\u0646\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Bar\u00e2nqa",
+        "Al Bar\u0101niqah",
+        "Al Bar\u0101nqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092017065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361419
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"aa176f1330b534a88945f33ff9250cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017065,
+            "locality_id":1242957701,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1242957701,
+    "wof:lastmodified":1537620934,
+    "wof:name":"Al Baraniqah",
+    "wof:parent_id":1092017065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07656,
+    30.4283,
+    31.07656,
+    30.4283
+],
+  "geometry": {"coordinates":[31.07656,30.4283],"type":"Point"}
+}

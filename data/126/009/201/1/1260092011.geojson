@@ -1,0 +1,71 @@
+{
+  "id": 1260092011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8315,30.54576,30.8315,30.54576",
+    "geom:latitude":30.54576,
+    "geom:longitude":30.8315,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Sursuq",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357093,
+    "gn:latitude":30.54576,
+    "gn:longitude":30.8315,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Sursuq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Sursug",
+        "\u2018Izbat Sursuq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092019949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357093
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"97b75b96c1a71d85c4235e3ee41697a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019949,
+            "locality_id":1260092011,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1260092011,
+    "wof:lastmodified":1537620783,
+    "wof:name":"`Izbat Sursuq",
+    "wof:parent_id":1092019949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8315,
+    30.54576,
+    30.8315,
+    30.54576
+],
+  "geometry": {"coordinates":[30.8315,30.54576],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277160753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31667,30.45,31.31667,30.45",
+    "geom:latitude":30.45,
+    "geom:longitude":31.31667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bani Husayn",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359231,
+    "gn:latitude":30.45,
+    "gn:longitude":31.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni \u1e24usein",
+        "Ban\u012b \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359231
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"47b395e4ed6e9b4d9d45b4a2530cf0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1277160753,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1277160753,
+    "wof:lastmodified":1537620831,
+    "wof:name":"Bani Husayn",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31667,
+    30.45,
+    31.31667,
+    30.45
+],
+  "geometry": {"coordinates":[31.31667,30.45],"type":"Point"}
+}

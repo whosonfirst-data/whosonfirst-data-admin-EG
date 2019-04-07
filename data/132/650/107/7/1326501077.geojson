@@ -1,0 +1,75 @@
+{
+  "id": 1326501077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77787,30.63759,31.77787,30.63759",
+    "geom:latitude":30.63759,
+    "geom:longitude":31.77787,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Mahmud al `Ashmawi",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":349234,
+    "gn:latitude":30.63759,
+    "gn:longitude":31.77787,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Ma\u1e29m\u016bd al \u2018Ashm\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u062d\u0645\u0648\u062f \u0627\u0644\u0639\u0634\u0645\u0627\u0648\u0649"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e25mud el-\u2018Ashm\u00e2wle",
+        "\u2018Izbat ash Shaykh Ma\u1e29m\u016bd al \u2018Ashm\u0101w\u012b",
+        "\u2018Izbat Ma\u1e29m\u016bd al \u2018Ashm\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092019105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349234
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3857c4592b5cf140e3b0513c54fc77f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019105,
+            "locality_id":1326501077,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1326501077,
+    "wof:lastmodified":1537620576,
+    "wof:name":"`Izbat Mahmud al `Ashmawi",
+    "wof:parent_id":1092019105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77787,
+    30.63759000000001,
+    31.77787,
+    30.63759000000001
+],
+  "geometry": {"coordinates":[31.77787,30.63759000000001],"type":"Point"}
+}

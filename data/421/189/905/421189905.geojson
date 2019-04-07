@@ -1,0 +1,75 @@
+{
+  "id": 421189905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.227779,30.05171,31.227779,30.05171",
+    "geom:latitude":30.05171,
+    "geom:longitude":31.227779,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ad Duqqi",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u062c\u064a\u0632\u0629",
+    "qs:photos":1987,
+    "qs:photos_1k":403,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1987,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118014,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1521172,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092015839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1521172,
+        "qs:id":1118014
+    },
+    "wof:country":"EG",
+    "wof:created":1459009640,
+    "wof:geomhash":"c78ca589c624c6b75a0bc55ec306f12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015839,
+            "locality_id":421189905,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":421189905,
+    "wof:lastmodified":1500036720,
+    "wof:name":"Ad Duqqi",
+    "wof:parent_id":1092015839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.227779,
+    30.05171,
+    31.227779,
+    30.05171
+],
+  "geometry": {"coordinates":[31.227779,30.05171],"type":"Point"}
+}

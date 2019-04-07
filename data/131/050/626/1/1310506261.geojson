@@ -1,0 +1,74 @@
+{
+  "id": 1310506261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17723,31.15325,31.17723,31.15325",
+    "geom:latitude":31.15325,
+    "geom:longitude":31.17723,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat al `Alayili",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419235,
+    "gn:latitude":31.15325,
+    "gn:longitude":31.17723,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"\u2018Izbat al \u2018Al\u0101yil\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u0644\u0627\u064a\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u2018Al\u0101yil\u012b",
+        "\u2018Izbat al- \u2018Al\u0101yl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419235
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"622d5085e0e401e8fc7625d1670b0dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1310506261,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1310506261,
+    "wof:lastmodified":1537621043,
+    "wof:name":"`Izbat al `Alayili",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17723,
+    31.15325,
+    31.17723,
+    31.15325
+],
+  "geometry": {"coordinates":[31.17723,31.15325],"type":"Point"}
+}

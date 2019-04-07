@@ -1,0 +1,74 @@
+{
+  "id": 1260050779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52935,30.70098,31.52935,30.70098",
+    "geom:latitude":30.70098,
+    "geom:longitude":31.52935,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Qutayyifat Mubashir",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350378,
+    "gn:latitude":30.70098,
+    "gn:longitude":31.52935,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qu\u0163ayyifat Mub\u0101shir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0637\u064a\u0651\u0641\u0629 \u0645\u0628\u0627\u0634\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qu\u1e6daiyifet Mub\u00e2shir",
+        "Qu\u0163ayyifat Mub\u0101shir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350378
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8f842b3a6914d3cac1be41abb2ea5c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018107,
+            "locality_id":1260050779,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1260050779,
+    "wof:lastmodified":1537620593,
+    "wof:name":"Qutayyifat Mubashir",
+    "wof:parent_id":1092018107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52935,
+    30.70098,
+    31.52935,
+    30.70098
+],
+  "geometry": {"coordinates":[31.52935,30.70098],"type":"Point"}
+}

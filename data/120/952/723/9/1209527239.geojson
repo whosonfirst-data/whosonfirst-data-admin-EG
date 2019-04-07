@@ -1,0 +1,65 @@
+{
+  "id": 1209527239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71397,30.94227,30.71397,30.94227",
+    "geom:latitude":30.94227,
+    "geom:longitude":30.71397,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Asmaniyah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359925,
+    "gn:latitude":30.94227,
+    "gn:longitude":30.71397,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Asm\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asm\u00e2n\u00eeya",
+        "Asm\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359925
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"52e3e33fe21126915ef12bc560d90f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209527239
+        }
+    ],
+    "wof:id":1209527239,
+    "wof:lastmodified":1537620858,
+    "wof:name":"Asmaniyah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71397,
+    30.94227,
+    30.71397,
+    30.94227
+],
+  "geometry": {"coordinates":[30.71397,30.94227],"type":"Point"}
+}

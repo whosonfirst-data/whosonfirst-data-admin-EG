@@ -1,0 +1,74 @@
+{
+  "id": 1226213385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82316,30.61661,31.82316,30.61661",
+    "geom:latitude":30.61661,
+    "geom:longitude":31.82316,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Nassar",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545742,
+    "gn:latitude":30.61661,
+    "gn:longitude":31.82316,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Na\u015f\u015f\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0646\u0635\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Na\u015f\u015f\u0101r",
+        "\u2018Izbat Na\u1e63\u1e63\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545742
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"993ae3e34ecff16c93da73d1181973e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1226213385,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226213385,
+    "wof:lastmodified":1537621272,
+    "wof:name":"`Izbat Nassar",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82316,
+    30.61661,
+    31.82316,
+    30.61661
+],
+  "geometry": {"coordinates":[31.82316,30.61661],"type":"Point"}
+}

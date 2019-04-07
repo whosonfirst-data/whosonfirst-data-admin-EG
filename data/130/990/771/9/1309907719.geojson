@@ -1,0 +1,77 @@
+{
+  "id": 1309907719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.44681,31.17912,30.44681,31.17912",
+    "geom:latitude":31.17912,
+    "geom:longitude":30.44681,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Mughazi Sitt Mi'ah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357179,
+    "gn:latitude":31.17912,
+    "gn:longitude":30.44681,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u2018Izbat Mugh\u0101z\u012b Sitt Mi\u2019ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u063a\u0627\u0632\u0649 \u0666\u0660\u0660"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Mu\u1e25ammad el-Mugh\u00e2zi",
+        "\u2018Ezbet Mu\u1e25 Pasha el Mugh\u00e2zi",
+        "\u2018Izbat Mugh\u0101z\u012b Sitt Mi\u2019ah",
+        "\u2018Izbat Mugh\u0101z\u012b No. 600",
+        "\u2018Izbat Mugh\u0101z\u012b Number Six Hundred"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092018277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357179
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"28605311439fa3c9543c7cfe2d179363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018277,
+            "locality_id":1309907719,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1309907719,
+    "wof:lastmodified":1537620785,
+    "wof:name":"`Izbat Mughazi Sitt Mi'ah",
+    "wof:parent_id":1092018277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.44681,
+    31.17912,
+    30.44681,
+    31.17912
+],
+  "geometry": {"coordinates":[30.44681,31.17912],"type":"Point"}
+}

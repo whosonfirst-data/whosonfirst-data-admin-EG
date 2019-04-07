@@ -1,0 +1,67 @@
+{
+  "id": 1209288217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.39444,30.44417,31.39444,30.44417",
+    "geom:latitude":30.44417,
+    "geom:longitude":31.39444,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bani Salih",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359186,
+    "gn:latitude":30.44417,
+    "gn:longitude":31.39444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni \u1e62\u00e2li\u1e25",
+        "Beni \u1e62\u00e2lib",
+        "Ban\u012b \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359186
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d927ff10d7affbe2d2aa07bd88216aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209288217
+        }
+    ],
+    "wof:id":1209288217,
+    "wof:lastmodified":1537620829,
+    "wof:name":"Bani Salih",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.39444,
+    30.44417,
+    31.39444,
+    30.44417
+],
+  "geometry": {"coordinates":[31.39444,30.44417],"type":"Point"}
+}

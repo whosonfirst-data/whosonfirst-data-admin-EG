@@ -1,0 +1,72 @@
+{
+  "id": 1193007121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8,28.48333,30.8,28.48333",
+    "geom:latitude":28.48333,
+    "geom:longitude":30.8,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Manshiyah al Jadidah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360764,
+    "gn:latitude":28.48333,
+    "gn:longitude":30.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Mansh\u012byah al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mansh\u00eeya el Ged\u00eeda",
+        "Al Mansh\u012byah al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092015295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360764
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"38b4ed95b0eda7eee724295ba1117b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015295,
+            "locality_id":1193007121,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1193007121,
+    "wof:lastmodified":1537620896,
+    "wof:name":"Al Manshiyah al Jadidah",
+    "wof:parent_id":1092015295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8,
+    28.48333,
+    30.8,
+    28.48333
+],
+  "geometry": {"coordinates":[30.8,28.48333],"type":"Point"}
+}

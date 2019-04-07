@@ -1,0 +1,73 @@
+{
+  "id": 1276724509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.39165,30.27363,32.39165,30.27363",
+    "geom:latitude":30.27363,
+    "geom:longitude":32.39165,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"`Izbat al Tirbani",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357368,
+    "gn:latitude":30.27363,
+    "gn:longitude":32.39165,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al Tirb\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Ezbet el-Tirb\u00e2ni"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Tirb\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357368
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"aa37d0f279ee226851704dbc7eb0645a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020945,
+            "locality_id":1276724509,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1276724509,
+    "wof:lastmodified":1537620791,
+    "wof:name":"`Izbat al Tirbani",
+    "wof:parent_id":1092020945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.39165,
+    30.27363,
+    32.39165,
+    30.27363
+],
+  "geometry": {"coordinates":[32.39165,30.27363],"type":"Point"}
+}

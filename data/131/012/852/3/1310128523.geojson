@@ -1,0 +1,73 @@
+{
+  "id": 1310128523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.04198,30.78544,31.04198,30.78544",
+    "geom:latitude":30.78544,
+    "geom:longitude":31.04198,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Mansi",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560600,
+    "gn:latitude":30.78544,
+    "gn:longitude":31.04198,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat Mans\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u0646\u0633\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mans\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560600
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6d15ce1798823d8ff489009b620d9790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1310128523,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1310128523,
+    "wof:lastmodified":1537621208,
+    "wof:name":"`Izbat Mansi",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04198,
+    30.78544,
+    31.04198,
+    30.78544
+],
+  "geometry": {"coordinates":[31.04198,30.78544],"type":"Point"}
+}

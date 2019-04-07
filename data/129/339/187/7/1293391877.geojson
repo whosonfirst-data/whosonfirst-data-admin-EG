@@ -1,0 +1,72 @@
+{
+  "id": 1293391877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.595,31.04944,30.595,31.04944",
+    "geom:latitude":31.04944,
+    "geom:longitude":30.595,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Ashrak",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361534,
+    "gn:latitude":31.04944,
+    "gn:longitude":30.595,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ashr\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Ashr\u00e2k",
+        "Al Ashr\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361534
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7f25e8fda8e65cbb064e3c56063ef990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019273,
+            "locality_id":1293391877,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1293391877,
+    "wof:lastmodified":1537620942,
+    "wof:name":"Al Ashrak",
+    "wof:parent_id":1092019273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.595,
+    31.04944,
+    30.595,
+    31.04944
+],
+  "geometry": {"coordinates":[30.595,31.04944],"type":"Point"}
+}

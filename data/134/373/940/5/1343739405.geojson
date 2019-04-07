@@ -1,0 +1,71 @@
+{
+  "id": 1343739405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28265,30.38653,31.28265,30.38653",
+    "geom:latitude":30.38653,
+    "geom:longitude":31.28265,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nazlat ar Rawashidah",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351176,
+    "gn:latitude":30.38653,
+    "gn:longitude":31.28265,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat ar Raw\u0101shidah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet el-Raw\u00e2shda",
+        "Nazlat ar Raw\u0101shidah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351176
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a4804fd7f71829597cdfe05e31d947b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1343739405,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1343739405,
+    "wof:lastmodified":1537620611,
+    "wof:name":"Nazlat ar Rawashidah",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28265,
+    30.38653,
+    31.28265,
+    30.38653
+],
+  "geometry": {"coordinates":[31.28265,30.38653],"type":"Point"}
+}

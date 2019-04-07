@@ -1,0 +1,75 @@
+{
+  "id": 1276408779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.38818,30.84532,29.38818,30.84532",
+    "geom:latitude":30.84532,
+    "geom:longitude":29.38818,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Al Hammam",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361219,
+    "gn:latitude":30.84532,
+    "gn:longitude":29.38818,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Al \u1e28amm\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "El \u1e24amm\u00e2m",
+        "Al \u1e28amm\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361219,
+        "wk:page":"El_Hamam"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bbe1a19ddee1b63e0399e625ca0b03c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015739,
+            "locality_id":1276408779,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1276408779,
+    "wof:lastmodified":1537620922,
+    "wof:name":"Al Hammam",
+    "wof:parent_id":1092015739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38818,
+    30.84532,
+    29.38818,
+    30.84532
+],
+  "geometry": {"coordinates":[29.38818,30.84532],"type":"Point"}
+}

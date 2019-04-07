@@ -1,0 +1,67 @@
+{
+  "id": 1310595497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69994,27.96127,30.69994,27.96127",
+    "geom:latitude":27.96127,
+    "geom:longitude":30.69994,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bani Sa`id",
+    "gn:country_code":"EG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434383,
+    "gn:latitude":27.96127,
+    "gn:longitude":30.69994,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ban\u012b Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092014221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434383
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cc2d2552e2c1fe810c9552b4419d2bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014221,
+            "locality_id":1310595497,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1310595497,
+    "wof:lastmodified":1536787601,
+    "wof:name":"Bani Sa`id",
+    "wof:parent_id":1092014221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69994,
+    27.96127000000001,
+    30.69994,
+    27.96127000000001
+],
+  "geometry": {"coordinates":[30.69994,27.96127000000001],"type":"Point"}
+}

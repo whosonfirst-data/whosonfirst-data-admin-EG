@@ -1,0 +1,73 @@
+{
+  "id": 1293119881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02941,30.30607,31.02941,30.30607",
+    "geom:latitude":30.30607,
+    "geom:longitude":31.02941,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Subk al Ahad",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432825,
+    "gn:latitude":30.30607,
+    "gn:longitude":31.02941,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Subk al A\u1e29ad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0643 \u0627\u0644\u0627\u062d\u062f"
+    ],
+    "name:und_x_variant":[
+        "Subk al A\u1e29ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432825
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"48296e94e8e7f3cfcfc0c52f121c7fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1293119881,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1293119881,
+    "wof:lastmodified":1537621117,
+    "wof:name":"Subk al Ahad",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02941,
+    30.30607,
+    31.02941,
+    30.30607
+],
+  "geometry": {"coordinates":[31.02941,30.30607],"type":"Point"}
+}

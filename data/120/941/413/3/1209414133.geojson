@@ -1,0 +1,72 @@
+{
+  "id": 1209414133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12556,30.78911,31.12556,30.78911",
+    "geom:latitude":30.78911,
+    "geom:longitude":31.12556,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Jummayzah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360993,
+    "gn:latitude":30.78911,
+    "gn:longitude":31.12556,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Al Jummayzah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0645\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Gemeiza",
+        "Gimmeza",
+        "El-Gimmeiza",
+        "Gimmeiza",
+        "Al Jummayzah",
+        "Al-Jimmayzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360993
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dc090d769bd08c1ebc48923e1d6615dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209414133
+        }
+    ],
+    "wof:id":1209414133,
+    "wof:lastmodified":1537620909,
+    "wof:name":"Al Jummayzah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12556,
+    30.78911,
+    31.12556,
+    30.78911
+],
+  "geometry": {"coordinates":[31.12556,30.78911],"type":"Point"}
+}

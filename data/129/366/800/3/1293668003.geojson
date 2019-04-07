@@ -1,0 +1,73 @@
+{
+  "id": 1293668003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83799,30.73718,31.83799,30.73718",
+    "geom:latitude":30.73718,
+    "geom:longitude":31.83799,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Qasim `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545709,
+    "gn:latitude":30.73718,
+    "gn:longitude":31.83799,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Q\u0101sim \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0642\u0627\u0633\u0645 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Q\u0101sim \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545709
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6c8977734b90436d5bdf634a1f7bdf15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1293668003,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293668003,
+    "wof:lastmodified":1537621270,
+    "wof:name":"`Izbat Qasim `Ali",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83799,
+    30.73718,
+    31.83799,
+    30.73718
+],
+  "geometry": {"coordinates":[31.83799,30.73718],"type":"Point"}
+}

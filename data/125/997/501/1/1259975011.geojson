@@ -1,0 +1,74 @@
+{
+  "id": 1259975011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90758,30.32948,30.90758,30.32948",
+    "geom:latitude":30.32948,
+    "geom:longitude":30.90758,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Izbat al `Attar",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545572,
+    "gn:latitude":30.32948,
+    "gn:longitude":30.90758,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat al \u2018A\u0163\u0163\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u0637\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u2018A\u0163\u0163\u0101r",
+        "\u2018Izbat al \u2018A\u1e6d\u1e6d\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092020631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545572
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9e0e87a2f06b7a4e56e7528518d29768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020631,
+            "locality_id":1259975011,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1259975011,
+    "wof:lastmodified":1537621264,
+    "wof:name":"`Izbat al `Attar",
+    "wof:parent_id":1092020631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90758,
+    30.32948,
+    30.90758,
+    30.32948
+],
+  "geometry": {"coordinates":[30.90758,30.32948],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209416835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.26667,31.06667,30.26667,31.06667",
+    "geom:latitude":31.06667,
+    "geom:longitude":30.26667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Tahir Bey al Misri",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355312,
+    "gn:latitude":31.06667,
+    "gn:longitude":30.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat \u0162\u0101hir Bey al Mi\u015fr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet \u1e6c\u00e2hir Bey el-Ma\u1e63ri",
+        "\u2018Ezbet el Tuw\u00e2la",
+        "\u2018Izbat \u0162\u0101hir Bey al Mi\u015fr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355312
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"82047bd155a1b79b88b3dfbacd67e9fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209416835
+        }
+    ],
+    "wof:id":1209416835,
+    "wof:lastmodified":1537620758,
+    "wof:name":"`Izbat Tahir Bey al Misri",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.26667,
+    31.06667,
+    30.26667,
+    31.06667
+],
+  "geometry": {"coordinates":[30.26667,31.06667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276246637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.84871,31.51202,31.84871,31.51202",
+    "geom:latitude":31.51202,
+    "geom:longitude":31.84871,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Malaqah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360799,
+    "gn:latitude":31.51202,
+    "gn:longitude":31.84871,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Malaqah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Malaqa",
+        "\u2018Ezbet el-Malaqa",
+        "Al Malaqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360799
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dbfc1db4ccdaeeca5f3109a464f2e098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":1276246637,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1276246637,
+    "wof:lastmodified":1537620898,
+    "wof:name":"Al Malaqah",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.84871,
+    31.51202,
+    31.84871,
+    31.51202
+],
+  "geometry": {"coordinates":[31.84871,31.51202],"type":"Point"}
+}

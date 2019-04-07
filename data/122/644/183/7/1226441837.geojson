@@ -1,0 +1,76 @@
+{
+  "id": 1226441837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08107,31.10101,31.08107,31.10101",
+    "geom:latitude":31.10101,
+    "geom:longitude":31.08107,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manshiyat al Awqaf",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352886,
+    "gn:latitude":31.10101,
+    "gn:longitude":31.08107,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Mansh\u012byat al Awq\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0627\u0644\u0627\u0648\u0642\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Mansh\u00eeyet el-Auq\u00e2f",
+        "Mansh\u012byat al Awq\u0101f",
+        "Manshiyyat al-Awq\u0101f",
+        "Manshiyyat al Awq\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352886
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"18343d1065e7e8d7e19215796df707bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1226441837,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1226441837,
+    "wof:lastmodified":1537620662,
+    "wof:name":"Manshiyat al Awqaf",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08107,
+    31.10101,
+    31.08107,
+    31.10101
+],
+  "geometry": {"coordinates":[31.08107,31.10101],"type":"Point"}
+}

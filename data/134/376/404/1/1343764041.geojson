@@ -1,0 +1,74 @@
+{
+  "id": 1343764041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.41875,31.00848,30.41875,31.00848",
+    "geom:latitude":31.00848,
+    "geom:longitude":30.41875,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Khamsah wa `Ishrun",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8716291,
+    "gn:latitude":31.00848,
+    "gn:longitude":30.41875,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"\u2018Izbat Khamsah wa \u2018Ishr\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0662\u0665"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Khamsah wa \u2018Ishr\u016bn",
+        "\u2018Izbat Number 25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092015921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8716291
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4d7d8c0535befe8bdc1ccbb4c93f6701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015921,
+            "locality_id":1343764041,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343764041,
+    "wof:lastmodified":1537621226,
+    "wof:name":"`Izbat Khamsah wa `Ishrun",
+    "wof:parent_id":1092015921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.41875,
+    31.00848,
+    30.41875,
+    31.00848
+],
+  "geometry": {"coordinates":[30.41875,31.00848],"type":"Point"}
+}

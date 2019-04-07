@@ -1,0 +1,67 @@
+{
+  "id": 1326594677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61667,31.31667,31.61667,31.31667",
+    "geom:latitude":31.31667,
+    "geom:longitude":31.61667,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"`Ezbet Costi Straphatis",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357569,
+    "gn:latitude":31.31667,
+    "gn:longitude":31.61667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet Costi Straphatis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092021673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357569
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e98b99035754013358e7405901bcd0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021673,
+            "locality_id":1326594677,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1326594677,
+    "wof:lastmodified":1536893849,
+    "wof:name":"`Ezbet Costi Straphatis",
+    "wof:parent_id":1092021673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61667000000001,
+    31.31667,
+    31.61667000000001,
+    31.31667
+],
+  "geometry": {"coordinates":[31.61667000000001,31.31667],"type":"Point"}
+}

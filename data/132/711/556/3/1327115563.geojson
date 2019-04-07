@@ -1,0 +1,67 @@
+{
+  "id": 1327115563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.43306,30.08306,31.43306,30.08306",
+    "geom:latitude":30.08306,
+    "geom:longitude":31.43306,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Burg el-Hudud",
+    "gn:country_code":"EG",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408692,
+    "gn:latitude":30.08306,
+    "gn:longitude":31.43306,
+    "gn:modification_date":"1997-08-11",
+    "gn:name":"Burg el-\u1e24ud\u00fbd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092022997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408692
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b415b8e4c526935e4edb755497798e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022997,
+            "locality_id":1327115563,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1327115563,
+    "wof:lastmodified":1536639483,
+    "wof:name":"Burg el-Hudud",
+    "wof:parent_id":1092022997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.43306,
+    30.08306,
+    31.43306,
+    30.08306
+],
+  "geometry": {"coordinates":[31.43306,30.08306],"type":"Point"}
+}

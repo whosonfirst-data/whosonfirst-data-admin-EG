@@ -1,0 +1,72 @@
+{
+  "id": 1226805697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.28333,30.85,29.28333,30.85",
+    "geom:latitude":30.85,
+    "geom:longitude":29.28333,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dawwar `Abd al `Ati Abu `Ajuz",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358337,
+    "gn:latitude":30.85,
+    "gn:longitude":29.28333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Daww\u0101r \u2018Abd al \u2018A\u0163\u012b Ab\u016b \u2018Aj\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dauw\u00e2r \u2018Abd el \u2018\u00c2ti Abu el \u2018Aguz",
+        "Dauw\u00e2r \u2018Abd el \u2018\u00c2ti \u2018Abu \u2018Ag\u00fbz",
+        "Daww\u0101r \u2018Abd al \u2018A\u0163\u012b Ab\u016b \u2018Aj\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092017953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358337
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"513738efe6d4e00fcd936c56b1b2782e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017953,
+            "locality_id":1226805697,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1226805697,
+    "wof:lastmodified":1537620813,
+    "wof:name":"Dawwar `Abd al `Ati Abu `Ajuz",
+    "wof:parent_id":1092017953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.28333,
+    30.85,
+    29.28333,
+    30.85
+],
+  "geometry": {"coordinates":[29.28333,30.85],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259579239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68333,28.45,30.68333,28.45",
+    "geom:latitude":28.45,
+    "geom:longitude":30.68333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ar Rawdah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360126,
+    "gn:latitude":28.45,
+    "gn:longitude":30.68333,
+    "gn:modification_date":"2017-07-16",
+    "gn:name":"Ar Raw\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0646\u0627\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Dan\u00e2za",
+        "Ar Raw\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092015295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360126
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"93353183757bf2b9f07b367542c589f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015295,
+            "locality_id":1259579239,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1259579239,
+    "wof:lastmodified":1537620867,
+    "wof:name":"Ar Rawdah",
+    "wof:parent_id":1092015295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68333,
+    28.45,
+    30.68333,
+    28.45
+],
+  "geometry": {"coordinates":[30.68333,28.45],"type":"Point"}
+}

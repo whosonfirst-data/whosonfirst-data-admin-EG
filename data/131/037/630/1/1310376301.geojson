@@ -1,0 +1,74 @@
+{
+  "id": 1310376301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60609,30.64318,31.60609,30.64318",
+    "geom:latitude":30.64318,
+    "geom:longitude":31.60609,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Az Zarzamun",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359489,
+    "gn:latitude":30.64318,
+    "gn:longitude":31.60609,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az Zarzam\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0632\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-Zarzam\u00fbn",
+        "Az Zarzam\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359489
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7c966bc43c732fcec553655ab3e949de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021319,
+            "locality_id":1310376301,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310376301,
+    "wof:lastmodified":1537620839,
+    "wof:name":"Az Zarzamun",
+    "wof:parent_id":1092021319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60609,
+    30.64318,
+    31.60609,
+    30.64318
+],
+  "geometry": {"coordinates":[31.60609,30.64318],"type":"Point"}
+}

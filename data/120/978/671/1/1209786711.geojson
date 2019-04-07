@@ -1,0 +1,72 @@
+{
+  "id": 1209786711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47256,30.48336,31.47256,30.48336",
+    "geom:latitude":30.48336,
+    "geom:longitude":31.47256,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Nashwah",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354150,
+    "gn:latitude":30.48336,
+    "gn:longitude":31.47256,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Nashwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nishwa",
+        "Kafr Nishwa",
+        "Kafr Nashwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354150
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"34ea02407282973b9efb876930915bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1209786711,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1209786711,
+    "wof:lastmodified":1537620692,
+    "wof:name":"Kafr Nashwah",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47256,
+    30.48336,
+    31.47256,
+    30.48336
+],
+  "geometry": {"coordinates":[31.47256,30.48336],"type":"Point"}
+}

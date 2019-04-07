@@ -1,0 +1,72 @@
+{
+  "id": 1276872915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63357,29.39628,30.63357,29.39628",
+    "geom:latitude":29.39628,
+    "geom:longitude":30.63357,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kahk al Qibliyah",
+    "gn:country_code":"EG",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354643,
+    "gn:latitude":29.39628,
+    "gn:longitude":30.63357,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ka\u1e29k al Qibl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr \u2018Al\u012b Ka\u1e29k",
+        "Kahk el-Qibl\u00eeya",
+        "Ka\u1e29k al Qibl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354643
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"42fa453c150d9bdc1463799633a35fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1276872915,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1276872915,
+    "wof:lastmodified":1537620732,
+    "wof:name":"Kahk al Qibliyah",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63357,
+    29.39628,
+    30.63357,
+    29.39628
+],
+  "geometry": {"coordinates":[30.63357,29.39628],"type":"Point"}
+}

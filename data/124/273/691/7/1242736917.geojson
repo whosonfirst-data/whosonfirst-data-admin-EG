@@ -1,0 +1,73 @@
+{
+  "id": 1242736917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2276,31.37762,31.2276,31.37762",
+    "geom:latitude":31.37762,
+    "geom:longitude":31.2276,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Arba`in",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419780,
+    "gn:latitude":31.37762,
+    "gn:longitude":31.2276,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Arba\u2018\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0631\u0628\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Arba\u2018\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419780
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d8354fd4c918a375666c16e9fbb303a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1242736917,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1242736917,
+    "wof:lastmodified":1537621059,
+    "wof:name":"Al Arba`in",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2276,
+    31.37762,
+    31.2276,
+    31.37762
+],
+  "geometry": {"coordinates":[31.2276,31.37762],"type":"Point"}
+}

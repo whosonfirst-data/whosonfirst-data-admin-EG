@@ -1,0 +1,79 @@
+{
+  "id": 1226356791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2954,30.72893,31.2954,30.72893",
+    "geom:latitude":30.72893,
+    "geom:longitude":31.2954,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kawm an Nur",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353867,
+    "gn:latitude":30.72893,
+    "gn:longitude":31.2954,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm an N\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645 \u0627\u0644\u0646\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "K\u00f4m el-N\u00fbr",
+        "K\u00f4m el-N\u00fbr & Kafr el-Dal\u00ee",
+        "K\u00f4m el-N\u00fbr wa Kafr el-Dal\u00ee",
+        "K\u00f4m en-N\u00fbr",
+        "K\u00f4m el-N\u00fbr and Kafr el-Dal\u00eel",
+        "Kawm an N\u016br wa Kafr ad Dal\u012bl",
+        "Kawm an N\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353867
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"48c6c51a5f7560cc1b38158fee1b916d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022277,
+            "locality_id":1226356791,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1226356791,
+    "wof:lastmodified":1537620677,
+    "wof:name":"Kawm an Nur",
+    "wof:parent_id":1092022277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2954,
+    30.72893,
+    31.2954,
+    30.72893
+],
+  "geometry": {"coordinates":[31.2954,30.72893],"type":"Point"}
+}

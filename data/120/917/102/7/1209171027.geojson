@@ -1,0 +1,67 @@
+{
+  "id": 1209171027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32849,28.47442,33.32849,28.47442",
+    "geom:latitude":28.47442,
+    "geom:longitude":33.32849,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Abu Durbah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362723,
+    "gn:latitude":28.47442,
+    "gn:longitude":33.32849,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Durbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Dura",
+        "Abu Durba",
+        "Abu Darba",
+        "Ab\u016b Durbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362723
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3b2a65a12d34d89eb52487bfdb092963",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209171027
+        }
+    ],
+    "wof:id":1209171027,
+    "wof:lastmodified":1537620961,
+    "wof:name":"Abu Durbah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32849,
+    28.47442,
+    33.32849,
+    28.47442
+],
+  "geometry": {"coordinates":[33.32849,28.47442],"type":"Point"}
+}

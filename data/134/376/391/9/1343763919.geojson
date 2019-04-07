@@ -1,0 +1,79 @@
+{
+  "id": 1343763919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31418,31.09311,30.31418,31.09311",
+    "geom:latitude":31.09311,
+    "geom:longitude":30.31418,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Abu Hummus",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362552,
+    "gn:latitude":31.09311,
+    "gn:longitude":30.31418,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ab\u016b \u1e28ummu\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0645\u0635"
+    ],
+    "name:und_x_variant":[
+        "Abou Hommos",
+        "Abu Humus",
+        "Abu \u1e24uminu\u1e63",
+        "Abu \u1e24ummu\u1e63",
+        "Ab\u016b \u1e28ummu\u015f",
+        "Ab\u016b Hummu\u1e63"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362552,
+        "wk:page":"Abu_Hummus"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"355d5cbedde28b6ad92840433654273b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1343763919,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343763919,
+    "wof:lastmodified":1537620960,
+    "wof:name":"Abu Hummus",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31418,
+    31.09311,
+    30.31418,
+    31.09311
+],
+  "geometry": {"coordinates":[30.31418,31.09311],"type":"Point"}
+}

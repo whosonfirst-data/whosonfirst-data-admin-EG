@@ -1,0 +1,71 @@
+{
+  "id": 1344044423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35094,30.2961,31.35094,30.2961",
+    "geom:latitude":30.2961,
+    "geom:longitude":31.35094,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Arab as Sawalihah",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360233,
+    "gn:latitude":30.2961,
+    "gn:longitude":31.35094,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Arab a\u015f \u015eaw\u0101li\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Arab el \u1e62aw\u00e2l\u1e25a",
+        "\u2018Arab a\u015f \u015eaw\u0101li\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092018143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360233
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"34f987d2724c192345c6c068d0bc7f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018143,
+            "locality_id":1344044423,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1344044423,
+    "wof:lastmodified":1537620871,
+    "wof:name":"`Arab as Sawalihah",
+    "wof:parent_id":1092018143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35094,
+    30.2961,
+    31.35094,
+    30.2961
+],
+  "geometry": {"coordinates":[31.35094,30.2961],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226614035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.46665,26.90092,31.46665,26.90092",
+    "geom:latitude":26.90092,
+    "geom:longitude":31.46665,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Qaw Gharb",
+    "gn:country_code":"EG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350585,
+    "gn:latitude":26.90092,
+    "gn:longitude":31.46665,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Q\u0101w Gharb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092016975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350585
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4fe826d7cc0a9185ce0f8efa3f7557e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016975,
+            "locality_id":1226614035,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1226614035,
+    "wof:lastmodified":1536904815,
+    "wof:name":"Qaw Gharb",
+    "wof:parent_id":1092016975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.46665,
+    26.90092000000001,
+    31.46665,
+    26.90092000000001
+],
+  "geometry": {"coordinates":[31.46665,26.90092000000001],"type":"Point"}
+}

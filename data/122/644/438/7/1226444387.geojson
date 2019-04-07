@@ -1,0 +1,67 @@
+{
+  "id": 1226444387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38346,30.89398,30.38346,30.89398",
+    "geom:latitude":30.89398,
+    "geom:longitude":30.38346,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kutamah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433994,
+    "gn:latitude":30.89398,
+    "gn:longitude":30.38346,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kut\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433994
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"84e8fdb987431f57e2f99995fdc16e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021459,
+            "locality_id":1226444387,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226444387,
+    "wof:lastmodified":1536647017,
+    "wof:name":"Kutamah",
+    "wof:parent_id":1092021459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38346,
+    30.89398,
+    30.38346,
+    30.89398
+],
+  "geometry": {"coordinates":[30.38346,30.89398],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293275759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66016,30.82319,31.66016,30.82319",
+    "geom:latitude":30.82319,
+    "geom:longitude":31.66016,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Abu Rajab",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433834,
+    "gn:latitude":30.82319,
+    "gn:longitude":31.66016,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Rajab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0631\u062c\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Rajab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433834
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8769df775f311bd044e1ef875dcb47fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1293275759,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293275759,
+    "wof:lastmodified":1537621129,
+    "wof:name":"Abu Rajab",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66016,
+    30.82319,
+    31.66016,
+    30.82319
+],
+  "geometry": {"coordinates":[31.66016,30.82319],"type":"Point"}
+}

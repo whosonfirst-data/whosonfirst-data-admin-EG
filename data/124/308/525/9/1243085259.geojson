@@ -1,0 +1,75 @@
+{
+  "id": 1243085259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89586,31.15054,31.89586,31.15054",
+    "geom:latitude":31.15054,
+    "geom:longitude":31.89586,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"As Sataytah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359840,
+    "gn:latitude":31.15054,
+    "gn:longitude":31.89586,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"As Sat\u0101ytah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u062a\u0627\u064a\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Sat\u00e2yta",
+        "As Sat\u0101\u2019itah",
+        "As Sat\u0101ytah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359840
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a2029000cff0cea0f74ba719d45ef475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018397,
+            "locality_id":1243085259,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1243085259,
+    "wof:lastmodified":1537620851,
+    "wof:name":"As Sataytah",
+    "wof:parent_id":1092018397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89586,
+    31.15054,
+    31.89586,
+    31.15054
+],
+  "geometry": {"coordinates":[31.89586,31.15054],"type":"Point"}
+}

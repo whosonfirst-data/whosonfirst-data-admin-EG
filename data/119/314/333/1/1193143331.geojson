@@ -1,0 +1,67 @@
+{
+  "id": 1193143331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93838,29.04202,30.93838,29.04202",
+    "geom:latitude":29.04202,
+    "geom:longitude":30.93838,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat `Ali Khalifah",
+    "gn:country_code":"EG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434765,
+    "gn:latitude":29.04202,
+    "gn:longitude":30.93838,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat \u2018Al\u012b Khal\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092014481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434765
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"db65cfddac6e381da5b2214add39d09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014481,
+            "locality_id":1193143331,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1193143331,
+    "wof:lastmodified":1536364383,
+    "wof:name":"`Izbat `Ali Khalifah",
+    "wof:parent_id":1092014481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93838,
+    29.04202,
+    30.93838,
+    29.04202
+],
+  "geometry": {"coordinates":[30.93838,29.04202],"type":"Point"}
+}

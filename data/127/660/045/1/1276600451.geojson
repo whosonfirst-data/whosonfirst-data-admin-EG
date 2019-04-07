@@ -1,0 +1,76 @@
+{
+  "id": 1276600451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38114,31.04154,33.38114,31.04154",
+    "geom:latitude":31.04154,
+    "geom:longitude":33.38114,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Mazar",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360705,
+    "gn:latitude":31.04154,
+    "gn:longitude":33.38114,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Maz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "El-Maz\u00e2r",
+        "Maz\u00e2r Station",
+        "Al Mazar",
+        "Maz\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092015521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360705
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0f2e0704b79a8d038d2df6aa26a9386e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015521,
+            "locality_id":1276600451,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1276600451,
+    "wof:lastmodified":1537620892,
+    "wof:name":"Mazar",
+    "wof:parent_id":1092015521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38114,
+    31.04154,
+    33.38114,
+    31.04154
+],
+  "geometry": {"coordinates":[33.38114,31.04154],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344050815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76854,28.58796,30.76854,28.58796",
+    "geom:latitude":28.58796,
+    "geom:longitude":30.76854,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Aba al Waqf",
+    "gn:country_code":"EG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363140,
+    "gn:latitude":28.58796,
+    "gn:longitude":30.76854,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u0101 al Waqf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aba el-Waqf",
+        "Ab\u0101 al Waqf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092021965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363140
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5330f347881a26c27b441ffa13b9b6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021965,
+            "locality_id":1344050815,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1344050815,
+    "wof:lastmodified":1537620966,
+    "wof:name":"Aba al Waqf",
+    "wof:parent_id":1092021965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76854,
+    28.58796,
+    30.76854,
+    28.58796
+],
+  "geometry": {"coordinates":[30.76854,28.58796],"type":"Point"}
+}

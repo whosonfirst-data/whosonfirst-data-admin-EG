@@ -1,0 +1,72 @@
+{
+  "id": 1226100377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.81667,26.0,32.81667,26.0",
+    "geom:latitude":26.0,
+    "geom:longitude":32.81667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Faruqiyat al Ashraf",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":356923,
+    "gn:latitude":26.0,
+    "gn:longitude":32.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"F\u0101r\u016bq\u012byat al Ashr\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00e2r\u00fbq\u00eeyet el Ashr\u00e2f",
+        "F\u0101r\u016bq\u012byat al Ashr\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356923
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2b7add15488af0a28e09b06870d972c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020789,
+            "locality_id":1226100377,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1226100377,
+    "wof:lastmodified":1537620781,
+    "wof:name":"Faruqiyat al Ashraf",
+    "wof:parent_id":1092020789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.81667,
+    26.0,
+    32.81667,
+    26.0
+],
+  "geometry": {"coordinates":[32.81667,26.0],"type":"Point"}
+}

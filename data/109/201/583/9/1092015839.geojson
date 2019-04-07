@@ -1,0 +1,92 @@
+{
+  "id": 1092015839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000276,
+    "geom:area_square_m":2950664.617365,
+    "geom:bbox":"31.224909917,30.049746,31.24337,30.0762985474",
+    "geom:latitude":30.062133,
+    "geom:longitude":31.232214,
+    "iso:country":"EG",
+    "lbl:latitude":30.062508,
+    "lbl:longitude":31.232354,
+    "meso:admin_1":"Cairo",
+    "meso:diss_me":"BoulaqCairo",
+    "meso:gadm_admin":"Bulaq",
+    "meso:gadm_hasc2":"EG.QH.BO",
+    "meso:gaul_admin":"Bulaq",
+    "meso:mps_x":31.231067,
+    "meso:mps_y":30.062787,
+    "meso:name_en":"Boulaq",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.062508,
+    "mps:longitude":31.232354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bulaq"
+    ],
+    "name:eng_x_variant":[
+        "Bulaq"
+    ],
+    "src:geom":"whosonfirst",
+    "src:geom_via":"meso",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.QH",
+    "statoids:name":"Bulaq",
+    "statoids:population":"62470",
+    "statoids:statoid":"EG.QH.BO",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.QH.BO"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897187,
+    "wof:geomhash":"07dfb15d32752c456ec0f8628589a7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015839,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1092015839,
+    "wof:lastmodified":1541791498,
+    "wof:name":"Boulaq",
+    "wof:parent_id":85670999,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":62470,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"BO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.22490991699137,
+    30.049746,
+    31.24337,
+    30.07629854738844
+],
+  "geometry": {"coordinates":[[[31.22635743179591,30.07629854738844],[31.229114,30.074803],[31.230501,30.074001],[31.231784,30.073242],[31.232678,30.072255],[31.23296,30.071693],[31.233498,30.070455],[31.234409,30.069269],[31.235745,30.068141],[31.237026,30.067475],[31.238253,30.066806],[31.240013,30.065778],[31.241241,30.065249],[31.242467,30.064627],[31.24337,30.06401],[31.242416,30.064072],[31.241458,30.064097],[31.240449,30.063797],[31.2396,30.063317],[31.239017,30.062517],[31.238916,30.061604],[31.239131,30.060852],[31.239878,30.060406],[31.240999,30.059596],[31.241202,30.059291],[31.240791,30.058433],[31.240214,30.056662],[31.23973,30.056229],[31.239259,30.055805],[31.238297,30.054881],[31.235295,30.049746],[31.22888211898425,30.05005255436897],[31.22876151286878,30.05091579920706],[31.22568784939075,30.06333485233417],[31.22496784818826,30.06832444002731],[31.22490991699137,30.07054408908225],[31.22516260219294,30.07302665541183],[31.22635743179591,30.07629854738844]]],"type":"Polygon"}
+}

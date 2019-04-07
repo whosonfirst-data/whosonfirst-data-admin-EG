@@ -1,0 +1,75 @@
+{
+  "id": 1260375245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08833,30.24364,31.08833,30.24364",
+    "geom:latitude":30.24364,
+    "geom:longitude":31.08833,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr Sarawah",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354103,
+    "gn:latitude":30.24364,
+    "gn:longitude":31.08833,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kafr \u015ear\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0635\u0631\u0627\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sar\u00e2wa",
+        "Kafr \u1e62ar\u00e2wa",
+        "Kafr \u015ear\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354103
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2b8c4b0c5e9e72171d5b19aaf4af794d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1260375245,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1260375245,
+    "wof:lastmodified":1537620689,
+    "wof:name":"Kafr Sarawah",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08833,
+    30.24364000000001,
+    31.08833,
+    30.24364000000001
+],
+  "geometry": {"coordinates":[31.08833,30.24364000000001],"type":"Point"}
+}

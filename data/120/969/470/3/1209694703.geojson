@@ -1,0 +1,69 @@
+{
+  "id": 1209694703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53723,30.57666,31.53723,30.57666",
+    "geom:latitude":30.57666,
+    "geom:longitude":31.53723,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Shubak Bastah",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349295,
+    "gn:latitude":30.57666,
+    "gn:longitude":31.53723,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u016bbak Bas\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0628\u0643 \u0628\u0633\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sh\u00f4bak Bas\u1e6da",
+        "Shawbak Bas\u0163ah",
+        "Sh\u016bbak Bas\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349295
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2000f43ecc3cbfe6b9cb1cf63002a820",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209694703
+        }
+    ],
+    "wof:id":1209694703,
+    "wof:lastmodified":1537620577,
+    "wof:name":"Shubak Bastah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53723,
+    30.57666,
+    31.53723,
+    30.57666
+],
+  "geometry": {"coordinates":[31.53723,30.57666],"type":"Point"}
+}

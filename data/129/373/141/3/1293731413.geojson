@@ -1,0 +1,74 @@
+{
+  "id": 1293731413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69843,25.68571,32.69843,25.68571",
+    "geom:latitude":25.68571,
+    "geom:longitude":32.69843,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Munsha'at al `Ammari",
+    "gn:country_code":"EG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9073435,
+    "gn:latitude":25.68571,
+    "gn:longitude":32.69843,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Munsha\u2019at al \u2018Amm\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u0627\u0644\u0639\u0645\u0627\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Munsha\u2019at al \u2018Amm\u0101r\u012b",
+        "Minsh\u0101t al-\u2018Amm\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671097,
+        1092018839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9073435
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cbd1cf4eb2c525afaafa8847f5eb0c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018839,
+            "locality_id":1293731413,
+            "region_id":85671097
+        }
+    ],
+    "wof:id":1293731413,
+    "wof:lastmodified":1537621227,
+    "wof:name":"Munsha'at al `Ammari",
+    "wof:parent_id":1092018839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69843,
+    25.68571,
+    32.69843,
+    25.68571
+],
+  "geometry": {"coordinates":[32.69843,25.68571],"type":"Point"}
+}

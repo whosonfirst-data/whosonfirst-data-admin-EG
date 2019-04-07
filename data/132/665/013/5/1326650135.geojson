@@ -1,0 +1,77 @@
+{
+  "id": 1326650135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15019,30.12194,31.15019,30.12194",
+    "geom:latitude":30.12194,
+    "geom:longitude":31.15019,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Shinbari",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349125,
+    "gn:latitude":30.12194,
+    "gn:longitude":31.15019,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shinb\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shinb\u0101r\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0646\u0628\u0627\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Shimb\u00e2ri",
+        "Shinb\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092023283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349125
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1fe9a87900d82321b91286a992b9b564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023283,
+            "locality_id":1326650135,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1326650135,
+    "wof:lastmodified":1537620575,
+    "wof:name":"Shinbari",
+    "wof:parent_id":1092023283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15019,
+    30.12194,
+    31.15019,
+    30.12194
+],
+  "geometry": {"coordinates":[31.15019,30.12194],"type":"Point"}
+}

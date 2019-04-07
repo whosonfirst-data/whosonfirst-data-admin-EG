@@ -1,0 +1,72 @@
+{
+  "id": 1259353999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.87439,30.8577,31.87439,30.8577",
+    "geom:latitude":30.8577,
+    "geom:longitude":31.87439,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Hijaziyah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355387,
+    "gn:latitude":30.8577,
+    "gn:longitude":31.87439,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ij\u0101z\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Izbat al \u1e28\u0101jj Sayyid M\u016bs\u00e1",
+        "El-\u1e24ig\u00e2z\u00eeya",
+        "Al \u1e28ij\u0101z\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355387
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d5697235dcee122df18caf2573c1d0cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1259353999,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259353999,
+    "wof:lastmodified":1537620765,
+    "wof:name":"Al Hijaziyah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.87439,
+    30.8577,
+    31.87439,
+    30.8577
+],
+  "geometry": {"coordinates":[31.87439,30.8577],"type":"Point"}
+}

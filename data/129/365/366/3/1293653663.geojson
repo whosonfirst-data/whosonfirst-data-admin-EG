@@ -1,0 +1,75 @@
+{
+  "id": 1293653663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00975,31.58388,31.00975,31.58388",
+    "geom:latitude":31.58388,
+    "geom:longitude":31.00975,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Banna'in",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361430,
+    "gn:latitude":31.58388,
+    "gn:longitude":31.00975,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Al Bann\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0646\u0627\u0626\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-Bann\u00e2\u2019\u00een",
+        "El-Bann\u00e2y\u00een",
+        "Al Bann\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361430
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"df6ea21a9ebb1c3219063cd5ad0ed1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017189,
+            "locality_id":1293653663,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1293653663,
+    "wof:lastmodified":1537620935,
+    "wof:name":"Al Banna'in",
+    "wof:parent_id":1092017189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00975,
+    31.58388,
+    31.00975,
+    31.58388
+],
+  "geometry": {"coordinates":[31.00975,31.58388],"type":"Point"}
+}

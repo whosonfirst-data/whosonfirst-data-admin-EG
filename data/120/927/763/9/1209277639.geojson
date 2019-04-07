@@ -1,0 +1,67 @@
+{
+  "id": 1209277639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88056,28.9125,30.88056,28.9125",
+    "geom:latitude":28.9125,
+    "geom:longitude":30.88056,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Nazlat ad Dib",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351232,
+    "gn:latitude":28.9125,
+    "gn:longitude":30.88056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat ad D\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlat adh Dhi\u2019b",
+        "Nazlet el D\u00eeb",
+        "Nazlat ad D\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351232
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b8554d27ba18e8caa85ab9c05ccc19fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209277639
+        }
+    ],
+    "wof:id":1209277639,
+    "wof:lastmodified":1537620615,
+    "wof:name":"Nazlat ad Dib",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88056,
+    28.9125,
+    30.88056,
+    28.9125
+],
+  "geometry": {"coordinates":[30.88056,28.9125],"type":"Point"}
+}

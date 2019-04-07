@@ -1,0 +1,72 @@
+{
+  "id": 1226314343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81717,27.58357,30.81717,27.58357",
+    "geom:latitude":27.58357,
+    "geom:longitude":30.81717,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Dayrut ash Sharif",
+    "gn:country_code":"EG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358266,
+    "gn:latitude":27.58357,
+    "gn:longitude":30.81717,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dayr\u016b\u0163 ash Shar\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dair\u016bt esh Shar\u012bf",
+        "Dair\u00fb\u1e6d el Shir\u00eef",
+        "Dayr\u016b\u0163 ash Shar\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358266
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"073df0a8696c1548375bb11f3db62e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1226314343,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1226314343,
+    "wof:lastmodified":1537620810,
+    "wof:name":"Dayrut ash Sharif",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81717,
+    27.58357,
+    30.81717,
+    27.58357
+],
+  "geometry": {"coordinates":[30.81717,27.58357],"type":"Point"}
+}

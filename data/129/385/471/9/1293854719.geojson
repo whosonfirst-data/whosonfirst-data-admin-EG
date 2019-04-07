@@ -1,0 +1,74 @@
+{
+  "id": 1293854719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77345,30.63528,31.77345,30.63528",
+    "geom:latitude":30.63528,
+    "geom:longitude":31.77345,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Muhammad as Sayyid",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545745,
+    "gn:latitude":30.63528,
+    "gn:longitude":31.77345,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Mu\u1e29ammad as Sayyid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u062d\u0645\u062f \u0627\u0644\u0633\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mu\u1e29ammad as Sayyid",
+        "\u2018Izbat Mu\u1e25ammad as Sayyid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092019105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545745
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1abb51e9b09c5ceab1778ffea082e8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019105,
+            "locality_id":1293854719,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293854719,
+    "wof:lastmodified":1537621273,
+    "wof:name":"`Izbat Muhammad as Sayyid",
+    "wof:parent_id":1092019105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77345,
+    30.63528,
+    31.77345,
+    30.63528
+],
+  "geometry": {"coordinates":[31.77345,30.63528],"type":"Point"}
+}

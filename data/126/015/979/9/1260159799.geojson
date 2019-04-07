@@ -1,0 +1,74 @@
+{
+  "id": 1260159799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.39517,30.74291,31.39517,30.74291",
+    "geom:latitude":30.74291,
+    "geom:longitude":31.39517,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Khawli",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420619,
+    "gn:latitude":30.74291,
+    "gn:longitude":31.39517,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al Khawl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062e\u0648\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Khawl\u012b",
+        "\u2018Izbat al Kh\u016bl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420619
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e27c757597d95734e887569a78eb952e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1260159799,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1260159799,
+    "wof:lastmodified":1537621081,
+    "wof:name":"`Izbat al Khawli",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.39517,
+    30.74291,
+    31.39517,
+    30.74291
+],
+  "geometry": {"coordinates":[31.39517,30.74291],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242772999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75485,28.44463,30.75485,28.44463",
+    "geom:latitude":28.44463,
+    "geom:longitude":30.75485,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Atlat",
+    "gn:country_code":"EG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433016,
+    "gn:latitude":28.44463,
+    "gn:longitude":30.75485,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Al Atl\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433016
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8cf1b319573ba05c1d82551f187711e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022239,
+            "locality_id":1242772999,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1242772999,
+    "wof:lastmodified":1536782753,
+    "wof:name":"Al Atlat",
+    "wof:parent_id":1092022239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75485,
+    28.44463,
+    30.75485,
+    28.44463
+],
+  "geometry": {"coordinates":[30.75485,28.44463],"type":"Point"}
+}

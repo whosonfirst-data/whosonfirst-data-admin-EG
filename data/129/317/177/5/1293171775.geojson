@@ -1,0 +1,76 @@
+{
+  "id": 1293171775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44081,30.56914,31.44081,30.56914",
+    "geom:latitude":30.56914,
+    "geom:longitude":31.44081,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Az Zankalun",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359497,
+    "gn:latitude":30.56914,
+    "gn:longitude":31.44081,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az Zankal\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0646\u0643\u0644\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ez-Zenkel\u00fbn",
+        "El-Zankal\u00fbn",
+        "Ez Zankal\u016bn",
+        "Az Zankal\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359497
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9da31d696077ec2dd5a37f618c7b8c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1293171775,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293171775,
+    "wof:lastmodified":1537620839,
+    "wof:name":"Az Zankalun",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44081,
+    30.56914,
+    31.44081,
+    30.56914
+],
+  "geometry": {"coordinates":[31.44081,30.56914],"type":"Point"}
+}

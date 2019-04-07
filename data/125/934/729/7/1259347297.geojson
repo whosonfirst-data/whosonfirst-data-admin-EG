@@ -1,0 +1,75 @@
+{
+  "id": 1259347297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06998,31.57314,31.06998,31.57314",
+    "geom:latitude":31.57314,
+    "geom:longitude":31.06998,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Matariqah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360718,
+    "gn:latitude":31.57314,
+    "gn:longitude":31.06998,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Al Ma\u0163\u0101riqah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0627\u0631\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Ma\u1e6d\u00e2rqa",
+        "Al Ma\u0163\u0101riqah",
+        "Al Ma\u0163\u0101rqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360718
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"091f1cf4e6f172d0147e3fa2cf38ab07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017189,
+            "locality_id":1259347297,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1259347297,
+    "wof:lastmodified":1537620893,
+    "wof:name":"Al Matariqah",
+    "wof:parent_id":1092017189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06998,
+    31.57314,
+    31.06998,
+    31.57314
+],
+  "geometry": {"coordinates":[31.06998,31.57314],"type":"Point"}
+}

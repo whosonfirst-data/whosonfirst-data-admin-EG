@@ -1,0 +1,112 @@
+{
+  "id": 1125879977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.89952,26.99123,33.89952,26.99123",
+    "geom:latitude":26.99123,
+    "geom:longitude":33.89952,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4000,
+    "gn:population":4000,
+    "iso:country":"EG",
+    "lbl:latitude":26.99123,
+    "lbl:longitude":33.89952,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u064a\u062c \u0645\u0643\u0627\u062f\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Makadi Bay"
+    ],
+    "name:eng_x_preferred":[
+        "Makady"
+    ],
+    "name:eng_x_variant":[
+        "Makadi Bay"
+    ],
+    "name:ger_x_preferred":[
+        "Makadi Bay"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03b7\u03c2 \u039c\u03b1\u03ba\u03b1\u03bd\u03c4\u03af"
+    ],
+    "name:lit_x_preferred":[
+        "Makadi Bei"
+    ],
+    "name:pol_x_preferred":[
+        "makadi bay"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Makadi Bay"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0434\u0456 \u0411\u0435\u0439"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6692518,
+    "qs_pg:gn_pop":4000,
+    "qs_pg:name":"Makadi Bay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":160961,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092021497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692518,
+        "qs_pg:id":160961,
+        "wd:id":"Q1521754"
+    },
+    "wof:country":"EG",
+    "wof:created":1497294751,
+    "wof:geomhash":"10c863fc5001559b06c813c51adfd302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021497,
+            "locality_id":1125879977,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1125879977,
+    "wof:lastmodified":1513956701,
+    "wof:name":"Makadi Bay",
+    "wof:parent_id":1092021497,
+    "wof:placetype":"locality",
+    "wof:population":4000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.89952,
+    26.99123,
+    33.89952,
+    26.99123
+],
+  "geometry": {"coordinates":[33.89952,26.99123],"type":"Point"}
+}

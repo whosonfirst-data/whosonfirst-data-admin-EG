@@ -1,0 +1,67 @@
+{
+  "id": 1243422577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81067,26.45469,31.81067,26.45469",
+    "geom:latitude":26.45469,
+    "geom:longitude":31.81067,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Naj` ash Shaykh Ibrahim",
+    "gn:country_code":"EG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445221,
+    "gn:latitude":26.45469,
+    "gn:longitude":31.81067,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Naj\u2018 ash Shaykh Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092014557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445221
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f2a97d4b9158e26d9fbfa513bb2ce4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014557,
+            "locality_id":1243422577,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1243422577,
+    "wof:lastmodified":1536838974,
+    "wof:name":"Naj` ash Shaykh Ibrahim",
+    "wof:parent_id":1092014557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81067,
+    26.45469000000001,
+    31.81067,
+    26.45469000000001
+],
+  "geometry": {"coordinates":[31.81067,26.45469000000001],"type":"Point"}
+}

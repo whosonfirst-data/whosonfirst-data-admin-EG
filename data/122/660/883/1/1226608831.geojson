@@ -1,0 +1,72 @@
+{
+  "id": 1226608831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15034,27.22233,31.15034,27.22233",
+    "geom:latitude":27.22233,
+    "geom:longitude":31.15034,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Akrad wa Bani Zayd",
+    "gn:country_code":"EG",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361616,
+    "gn:latitude":27.22233,
+    "gn:longitude":31.15034,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Akr\u0101d wa Ban\u012b Zayd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Akr\u00e2d",
+        "Al Akr\u0101d",
+        "Al Akr\u0101d wa Ban\u012b Zayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092017669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361616
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c86356c91c6d0a9683d191829af3e13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017669,
+            "locality_id":1226608831,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1226608831,
+    "wof:lastmodified":1537620947,
+    "wof:name":"Al Akrad wa Bani Zayd",
+    "wof:parent_id":1092017669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15034,
+    27.22233,
+    31.15034,
+    27.22233
+],
+  "geometry": {"coordinates":[31.15034,27.22233],"type":"Point"}
+}

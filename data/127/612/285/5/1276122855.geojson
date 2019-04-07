@@ -1,0 +1,77 @@
+{
+  "id": 1276122855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2584,31.01951,31.2584,31.01951",
+    "geom:latitude":31.01951,
+    "geom:longitude":31.2584,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Munsha'at Nazif",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352378,
+    "gn:latitude":31.01951,
+    "gn:longitude":31.2584,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Munsha\u2019at Naz\u0327\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u0646\u0638\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Minsb\u00e2t Na\u1e95if",
+        "Minsh\u00e2t Na\u1e95\u00eef",
+        "Munsha\u2019at Naz\u0327\u012bf",
+        "Minsha\u2019\u0101t Naz\u0327\u012bf",
+        "Minsh\u0101t Na\u1e93\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092024253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352378
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1c150237305a6cb82a2349ebabdf3aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024253,
+            "locality_id":1276122855,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1276122855,
+    "wof:lastmodified":1537620650,
+    "wof:name":"Munsha'at Nazif",
+    "wof:parent_id":1092024253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2584,
+    31.01951,
+    31.2584,
+    31.01951
+],
+  "geometry": {"coordinates":[31.2584,31.01951],"type":"Point"}
+}

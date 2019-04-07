@@ -1,0 +1,71 @@
+{
+  "id": 1259491083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71184,30.75208,30.71184,30.75208",
+    "geom:latitude":30.75208,
+    "geom:longitude":30.71184,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Balakus",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361444,
+    "gn:latitude":30.75208,
+    "gn:longitude":30.71184,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bal\u0101k\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Bal\u00e2k\u00fbs",
+        "Al Bal\u0101k\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361444
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f0480d354ce92bc60bb9a5aec89ae5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1259491083,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259491083,
+    "wof:lastmodified":1537620936,
+    "wof:name":"Al Balakus",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71184,
+    30.75208,
+    30.71184,
+    30.75208
+],
+  "geometry": {"coordinates":[30.71184,30.75208],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309708219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15892,29.98893,31.15892,29.98893",
+    "geom:latitude":29.98893,
+    "geom:longitude":31.15892,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Kawm al Akhdar",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360946,
+    "gn:latitude":29.98893,
+    "gn:longitude":31.15892,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kawm al Akh\u1e11ar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-K\u00f4m el-Akh\u1e0dar",
+        "K\u014dm el Akhdar",
+        "Al Kawm al Akh\u1e11ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092018891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360946
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ae95346891001c8112ae42cdce919e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018891,
+            "locality_id":1309708219,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1309708219,
+    "wof:lastmodified":1537620906,
+    "wof:name":"Al Kawm al Akhdar",
+    "wof:parent_id":1092018891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15892,
+    29.98893,
+    31.15892,
+    29.98893
+],
+  "geometry": {"coordinates":[31.15892,29.98893],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421168075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58226,25.33508,32.58226,25.33508",
+    "geom:latitude":25.33508,
+    "geom:longitude":32.58226,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Deir"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":361838,
+    "qs:gn_pop":0,
+    "qs:name":"Ad Dayr",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0642\u0646\u0627",
+    "qs:photos":86,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":86,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":979676,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1526689,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361838,
+        "gp:id":1526689,
+        "qs:id":979676
+    },
+    "wof:country":"EG",
+    "wof:created":1459008753,
+    "wof:geomhash":"51b7b822e0b6a7d7963fd4ad8481969a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023115,
+            "locality_id":421168075,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":421168075,
+    "wof:lastmodified":1501214191,
+    "wof:name":"Ad Dayr",
+    "wof:parent_id":1092023115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58226,
+    25.33508,
+    32.58226,
+    25.33508
+],
+  "geometry": {"coordinates":[32.58226,25.33508],"type":"Point"}
+}

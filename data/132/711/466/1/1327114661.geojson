@@ -1,0 +1,74 @@
+{
+  "id": 1327114661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23576,30.27387,31.23576,30.27387",
+    "geom:latitude":30.27387,
+    "geom:longitude":31.23576,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Khilwat Sinhirah",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353729,
+    "gn:latitude":30.27387,
+    "gn:longitude":31.23576,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khilwat Sinhirah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0648\u0629 \u0633\u0646\u0647\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khilwet Sinhira",
+        "Khilwat Sinhirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353729
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9d904cef7d86d206341ba2b7cc4207a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1327114661,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1327114661,
+    "wof:lastmodified":1537620673,
+    "wof:name":"Khilwat Sinhirah",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23576,
+    30.27387,
+    31.23576,
+    30.27387
+],
+  "geometry": {"coordinates":[31.23576,30.27387],"type":"Point"}
+}

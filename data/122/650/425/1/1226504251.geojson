@@ -1,0 +1,74 @@
+{
+  "id": 1226504251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68484,31.35573,31.68484,31.35573",
+    "geom:latitude":31.35573,
+    "geom:longitude":31.68484,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kafr Sa`d",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354123,
+    "gn:latitude":31.35573,
+    "gn:longitude":31.68484,
+    "gn:modification_date":"2017-02-08",
+    "gn:name":"Kafr Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kafr Sa\u2018d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092021673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354123,
+        "wk:page":"Kafr_Saad"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b092dd8ba46d2fe2b65de93c7add6d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021673,
+            "locality_id":1226504251,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1226504251,
+    "wof:lastmodified":1537620690,
+    "wof:name":"Kafr Sa`d",
+    "wof:parent_id":1092021673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68484,
+    31.35573,
+    31.68484,
+    31.35573
+],
+  "geometry": {"coordinates":[31.68484,31.35573],"type":"Point"}
+}

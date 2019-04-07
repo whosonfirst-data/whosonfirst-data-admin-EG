@@ -1,0 +1,71 @@
+{
+  "id": 1243052367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9379,30.71401,30.9379,30.71401",
+    "geom:latitude":30.71401,
+    "geom:longitude":30.9379,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zawiyat Bimam",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346091,
+    "gn:latitude":30.71401,
+    "gn:longitude":30.9379,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat Bimam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyet Bimam",
+        "Z\u0101wiyat Bimam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092025145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346091
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"76d161af0a484a1826fef77c0e8dd254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025145,
+            "locality_id":1243052367,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1243052367,
+    "wof:lastmodified":1537620546,
+    "wof:name":"Zawiyat Bimam",
+    "wof:parent_id":1092025145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9379,
+    30.71401,
+    30.9379,
+    30.71401
+],
+  "geometry": {"coordinates":[30.9379,30.71401],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276414041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37176,30.77421,31.37176,30.77421",
+    "geom:latitude":30.77421,
+    "geom:longitude":31.37176,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taha al Marj",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347649,
+    "gn:latitude":30.77421,
+    "gn:longitude":31.37176,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"\u0162a\u1e29\u0101 al Marj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u062d\u0627 \u0627\u0644\u0645\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u1e6ca\u1e25a el-Marg",
+        "\u0162\u0101\u1e29\u0101\u2019 al Marj",
+        "\u0162a\u1e29\u0101 al Marj",
+        "\u1e6ca\u1e25\u0101 al-Marj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347649
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"609f98bf5f1f0405bcf7af988daa3b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1276414041,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276414041,
+    "wof:lastmodified":1537620563,
+    "wof:name":"Taha al Marj",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37176,
+    30.77421,
+    31.37176,
+    30.77421
+],
+  "geometry": {"coordinates":[31.37176,30.77421],"type":"Point"}
+}

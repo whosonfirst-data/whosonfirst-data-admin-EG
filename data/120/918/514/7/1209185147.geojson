@@ -1,0 +1,67 @@
+{
+  "id": 1209185147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89725,30.71587,31.89725,30.71587",
+    "geom:latitude":30.71587,
+    "geom:longitude":31.89725,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Kharij az Zimam",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433763,
+    "gn:latitude":30.71587,
+    "gn:longitude":31.89725,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Kh\u0101rij az Zim\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062e\u0627\u0631\u062c \u0627\u0644\u0632\u0645\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Kh\u0101rij az Zim\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433763
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6633c16737fe6ed77e3a9eeb9920df1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209185147
+        }
+    ],
+    "wof:id":1209185147,
+    "wof:lastmodified":1537621124,
+    "wof:name":"`Izbat Kharij az Zimam",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89725,
+    30.71587,
+    31.89725,
+    30.71587
+],
+  "geometry": {"coordinates":[31.89725,30.71587],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343431769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47784,30.49468,31.47784,30.49468",
+    "geom:latitude":30.49468,
+    "geom:longitude":31.47784,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nashwah",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351315,
+    "gn:latitude":30.49468,
+    "gn:longitude":31.47784,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nashwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nishwa",
+        "Nashwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351315
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"277c9d9920a558f9f1f9a829ea5bcc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1343431769,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343431769,
+    "wof:lastmodified":1537620617,
+    "wof:name":"Nashwah",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47784,
+    30.49468,
+    31.47784,
+    30.49468
+],
+  "geometry": {"coordinates":[31.47784,30.49468],"type":"Point"}
+}

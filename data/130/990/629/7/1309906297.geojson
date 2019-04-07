@@ -1,0 +1,71 @@
+{
+  "id": 1309906297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70103,29.40461,30.70103,29.40461",
+    "geom:latitude":29.40461,
+    "geom:longitude":30.70103,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kafr Hindawi at Tahawi",
+    "gn:country_code":"EG",
+    "gn:dem":-27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354256,
+    "gn:latitude":29.40461,
+    "gn:longitude":30.70103,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Hind\u0101w\u012b a\u0163 \u0162\u0101\u1e29\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Hind\u00e2wi el Tah\u00e2wi",
+        "Kafr Hind\u0101w\u012b a\u0163 \u0162\u0101\u1e29\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354256
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"df570d30a0daea1fb70027945663faa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1309906297,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1309906297,
+    "wof:lastmodified":1537620700,
+    "wof:name":"Kafr Hindawi at Tahawi",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70103,
+    29.40461,
+    30.70103,
+    29.40461
+],
+  "geometry": {"coordinates":[30.70103,29.40461],"type":"Point"}
+}

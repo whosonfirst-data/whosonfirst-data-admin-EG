@@ -1,0 +1,75 @@
+{
+  "id": 1243538165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.40175,30.59009,31.40175,30.59009",
+    "geom:latitude":30.59009,
+    "geom:longitude":31.40175,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Nawwar",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354148,
+    "gn:latitude":30.59009,
+    "gn:longitude":31.40175,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Naww\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0646\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kafr Nauw\u00e2r \u1e24anna",
+        "Kafr Naww\u0101r \u1e28ann\u0101",
+        "Kafr Naww\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354148
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0c9140265c2f310a9675eb61495f576e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1243538165,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1243538165,
+    "wof:lastmodified":1537620692,
+    "wof:name":"Kafr Nawwar",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40175,
+    30.59009,
+    31.40175,
+    30.59009
+],
+  "geometry": {"coordinates":[31.40175,30.59009],"type":"Point"}
+}

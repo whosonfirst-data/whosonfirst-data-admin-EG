@@ -1,0 +1,71 @@
+{
+  "id": 1192969289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66667,25.66667,32.66667,25.66667",
+    "geom:latitude":25.66667,
+    "geom:longitude":32.66667,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Al Hubayl",
+    "gn:country_code":"EG",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361133,
+    "gn:latitude":25.66667,
+    "gn:longitude":32.66667,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Al \u1e28ubayl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-\u1e24ubeil",
+        "Al \u1e28ubayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671097,
+        1092018839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361133
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c80131f9b64f5d9d9c14c31ea1b30c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018839,
+            "locality_id":1192969289,
+            "region_id":85671097
+        }
+    ],
+    "wof:id":1192969289,
+    "wof:lastmodified":1537620916,
+    "wof:name":"Al Hubayl",
+    "wof:parent_id":1092018839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66667,
+    25.66667,
+    32.66667,
+    25.66667
+],
+  "geometry": {"coordinates":[32.66667,25.66667],"type":"Point"}
+}

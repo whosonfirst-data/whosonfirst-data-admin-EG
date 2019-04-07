@@ -1,0 +1,72 @@
+{
+  "id": 1259954383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83361,31.41417,31.83361,31.41417",
+    "geom:latitude":31.41417,
+    "geom:longitude":31.83361,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Ibrahim Hakim",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355702,
+    "gn:latitude":31.41417,
+    "gn:longitude":31.83361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ibr\u00e2h\u00eem \u1e24ak\u00eem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibn \u1e28ak\u012bm",
+        "Ibr\u00e2h\u00eem \u1e24ak\u00eem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355702
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"062090ddf71a66570a35cb82a90b2f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":1259954383,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1259954383,
+    "wof:lastmodified":1537620773,
+    "wof:name":"Ibrahim Hakim",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83361,
+    31.41417,
+    31.83361,
+    31.41417
+],
+  "geometry": {"coordinates":[31.83361,31.41417],"type":"Point"}
+}

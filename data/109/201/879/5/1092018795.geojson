@@ -1,0 +1,92 @@
+{
+  "id": 1092018795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002134,
+    "geom:area_square_m":22827912.679502,
+    "geom:bbox":"31.324949,30.079496,31.418496,30.149198",
+    "geom:latitude":30.114816,
+    "geom:longitude":31.365242,
+    "iso:country":"EG",
+    "lbl:latitude":30.115319,
+    "lbl:longitude":31.36135,
+    "meso:admin_1":"Cairo",
+    "meso:diss_me":"El-NozhahCairo",
+    "meso:gadm_admin":"An-Nuzhah",
+    "meso:gadm_hasc2":"EG.QH.NO",
+    "meso:gaul_admin":"Nuzha",
+    "meso:mps_x":31.36135,
+    "meso:mps_y":30.115319,
+    "meso:name_en":"El-Nozhah",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.115319,
+    "mps:longitude":31.36135,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "An-Nuzhah"
+    ],
+    "name:eng_x_variant":[
+        "Nuzha",
+        "An-Nuzhah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.QH",
+    "statoids:name":"An-Nuzhah",
+    "statoids:population":"161946",
+    "statoids:statoid":"EG.QH.NO",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.QH.NO"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897302,
+    "wof:geomhash":"c3733d433f237037262bd5633ba4dcc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018795,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1092018795,
+    "wof:lastmodified":1536615087,
+    "wof:name":"El-Nozhah",
+    "wof:parent_id":85670999,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":161946,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"NO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.324949,
+    30.079496,
+    31.418496,
+    30.149198
+],
+  "geometry": {"coordinates":[[[31.36845,30.132362],[31.377592,30.135735],[31.383533,30.137926],[31.39607,30.143095],[31.395831,30.143085],[31.39866,30.143787],[31.404678,30.145399],[31.418496,30.149198],[31.411529,30.142067],[31.385695,30.132064],[31.393805,30.125053],[31.389729,30.110993],[31.380124,30.10515],[31.378441,30.102615],[31.374305,30.105101],[31.369711,30.102182],[31.368416,30.096048],[31.37003,30.095583],[31.367982,30.093523],[31.368209,30.090278],[31.366252,30.088855],[31.364603,30.085187],[31.366379,30.084359],[31.366369,30.083093],[31.368642,30.083252],[31.370783,30.079496],[31.366944,30.079996],[31.3629,30.081584],[31.360389,30.082581],[31.359884,30.082733],[31.359228,30.083036],[31.358685,30.083282],[31.349107,30.093423],[31.34286,30.097253],[31.339382,30.099386],[31.324949,30.107738],[31.331194,30.11375],[31.337006,30.118348],[31.337161,30.118474],[31.340018,30.120771],[31.340218,30.120933],[31.34146,30.121951],[31.345253,30.124811],[31.347118,30.126215],[31.348095,30.12676],[31.348813,30.127177],[31.350078,30.127872],[31.350985,30.128549],[31.351886,30.129003],[31.352782,30.129248],[31.35383,30.129532],[31.354858,30.129773],[31.359394,30.131068],[31.359593,30.13107],[31.360889,30.131319],[31.361797,30.131536],[31.362488,30.131808],[31.364615,30.131825],[31.365575,30.131862],[31.366641,30.131902],[31.367439,30.132025],[31.367969,30.132185],[31.36845,30.132362]]],"type":"Polygon"}
+}

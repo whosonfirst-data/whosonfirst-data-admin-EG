@@ -1,0 +1,76 @@
+{
+  "id": 1344240399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.49153,30.67642,31.49153,30.67642",
+    "geom:latitude":30.67642,
+    "geom:longitude":31.49153,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr ash Shimakh",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352396,
+    "gn:latitude":30.67642,
+    "gn:longitude":31.49153,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr ash Shim\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0634\u0645\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Shamm\u00e2kh",
+        "Kafr ash Shamm\u0101kh",
+        "Minsh\u0101t Gh\u0101l\u012b Man\u015f\u016br",
+        "Kafr ash Shim\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352396
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"308e1ad1e576f7a00eed022f6b7f5e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1344240399,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1344240399,
+    "wof:lastmodified":1537620651,
+    "wof:name":"Kafr ash Shimakh",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.49153,
+    30.67642,
+    31.49153,
+    30.67642
+],
+  "geometry": {"coordinates":[31.49153,30.67642],"type":"Point"}
+}

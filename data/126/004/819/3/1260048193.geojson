@@ -1,0 +1,71 @@
+{
+  "id": 1260048193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91474,26.29599,31.91474,26.29599",
+    "geom:latitude":26.29599,
+    "geom:longitude":31.91474,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kawm as Sa`aydah",
+    "gn:country_code":"EG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353857,
+    "gn:latitude":26.29599,
+    "gn:longitude":31.91474,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm a\u015f \u015ea\u2018\u0101ydah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f4m el Sa\u2018\u00e2yda",
+        "Kawm a\u015f \u015ea\u2018\u0101ydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092021127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353857
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bd5a68b56d88fb88554c8b0d119b93c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021127,
+            "locality_id":1260048193,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1260048193,
+    "wof:lastmodified":1537620677,
+    "wof:name":"Kawm as Sa`aydah",
+    "wof:parent_id":1092021127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91474,
+    26.29599,
+    31.91474,
+    26.29599
+],
+  "geometry": {"coordinates":[31.91474,26.29599],"type":"Point"}
+}

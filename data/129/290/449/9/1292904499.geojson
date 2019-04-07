@@ -1,0 +1,72 @@
+{
+  "id": 1292904499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84384,29.23381,30.84384,29.23381",
+    "geom:latitude":29.23381,
+    "geom:longitude":30.84384,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Minshat Rabi`",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352376,
+    "gn:latitude":29.23381,
+    "gn:longitude":30.84384,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Minsh\u0101t Rab\u012b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munsh\u00e2t Rab\u00ee\u2018",
+        "Minsh\u0101t Rab\u012b\u2018",
+        "Minsh\u00e2t Rab\u00ee\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352376
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ecb4e38020dd3b7afea0c2ffc1f907d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1292904499,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1292904499,
+    "wof:lastmodified":1537620649,
+    "wof:name":"Minshat Rabi`",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84384,
+    29.23381,
+    30.84384,
+    29.23381
+],
+  "geometry": {"coordinates":[30.84384,29.23381],"type":"Point"}
+}

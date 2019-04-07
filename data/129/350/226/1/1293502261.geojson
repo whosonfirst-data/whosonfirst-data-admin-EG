@@ -1,0 +1,73 @@
+{
+  "id": 1293502261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05798,30.08574,31.05798,30.08574",
+    "geom:latitude":30.08574,
+    "geom:longitude":31.05798,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"`Izbat as Safih",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139546,
+    "gn:latitude":30.08574,
+    "gn:longitude":31.05798,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat a\u015f \u015eaf\u012b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0635\u0641\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat a\u015f \u015eaf\u012b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092022885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139546
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e5e7acf7ac20cd8e33b15523f6d534fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022885,
+            "locality_id":1293502261,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1293502261,
+    "wof:lastmodified":1537621183,
+    "wof:name":"`Izbat as Safih",
+    "wof:parent_id":1092022885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05798,
+    30.08574,
+    31.05798,
+    30.08574
+],
+  "geometry": {"coordinates":[31.05798,30.08574],"type":"Point"}
+}

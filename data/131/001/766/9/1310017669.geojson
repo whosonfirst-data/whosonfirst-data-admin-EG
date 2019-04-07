@@ -1,0 +1,77 @@
+{
+  "id": 1310017669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.22843,31.10727,30.22843,31.10727",
+    "geom:latitude":31.10727,
+    "geom:longitude":30.22843,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Saqr as Sughra",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351997,
+    "gn:latitude":31.10727,
+    "gn:longitude":30.22843,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat \u015eaqr a\u015f \u015eughr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0635\u0642\u0631 \u0627\u0644\u0635\u063a\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet \u1e62aqr el \u1e62ughra",
+        "\u2018Ezbet Mu\u1e25ammad Pasha el-Wak\u00eel",
+        "\u2018Izbat Mu\u1e29ammad B\u0101sh\u0101 al Wak\u012bl",
+        "\u2018Izbat \u015eaqr a\u015f \u015eughr\u00e1",
+        "\u2018Ezbet \u015eaqr el \u1e62ughra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351997
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"102eed804383a4b597904d74b00cdd95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1310017669,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310017669,
+    "wof:lastmodified":1537620632,
+    "wof:name":"`Izbat Saqr as Sughra",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.22843,
+    31.10727,
+    30.22843,
+    31.10727
+],
+  "geometry": {"coordinates":[30.22843,31.10727],"type":"Point"}
+}

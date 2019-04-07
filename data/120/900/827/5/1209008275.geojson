@@ -1,0 +1,68 @@
+{
+  "id": 1209008275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31428,30.90109,31.31428,30.90109",
+    "geom:latitude":30.90109,
+    "geom:longitude":31.31428,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Abu `Ujayzah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420751,
+    "gn:latitude":30.90109,
+    "gn:longitude":31.31428,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"\u2018Izbat Ab\u016b \u2018Ujayzah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u064a\u0629 \u0623\u0628\u0648 \u0639\u062c\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b \u2018Ujayzah",
+        "\u2018Iz. Ab\u016b \u2018Ujayzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420751
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e67fbacc1bf0af13b69ff457e034704d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209008275
+        }
+    ],
+    "wof:id":1209008275,
+    "wof:lastmodified":1537621090,
+    "wof:name":"`Izbat Abu `Ujayzah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31428,
+    30.90109,
+    31.31428,
+    30.90109
+],
+  "geometry": {"coordinates":[31.31428,30.90109],"type":"Point"}
+}

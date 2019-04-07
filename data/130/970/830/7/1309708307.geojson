@@ -1,0 +1,71 @@
+{
+  "id": 1309708307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21667,30.06667,31.21667,30.06667",
+    "geom:latitude":30.06667,
+    "geom:longitude":31.21667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Taj ad Duwal wa Kafr ash Shaykh Isma`il",
+    "gn:country_code":"EG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347622,
+    "gn:latitude":30.06667,
+    "gn:longitude":31.21667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u0101j ad Duwal wa Kafr ash Shaykh Ism\u0101\u2018\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00e2g el-Diwal and Kafr el-Sheikh Ism\u00e2\u2018\u00eel",
+        "T\u0101j ad Duwal wa Kafr ash Shaykh Ism\u0101\u2018\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092020437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347622
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0ab8709a2829dc925e6c3ff251538e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020437,
+            "locality_id":1309708307,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1309708307,
+    "wof:lastmodified":1537620562,
+    "wof:name":"Taj ad Duwal wa Kafr ash Shaykh Isma`il",
+    "wof:parent_id":1092020437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21667,
+    30.06667,
+    31.21667,
+    30.06667
+],
+  "geometry": {"coordinates":[31.21667,30.06667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326594289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85358,31.15278,30.85358,31.15278",
+    "geom:latitude":31.15278,
+    "geom:longitude":30.85358,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Bilshashah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358819,
+    "gn:latitude":31.15278,
+    "gn:longitude":30.85358,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Bilsh\u0101shah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0634\u0627\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bilsh\u00e2sha",
+        "Bilsh\u0101shah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358819
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b0f968ead45ab5fc2e5169a15923d731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1326594289,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1326594289,
+    "wof:lastmodified":1537620822,
+    "wof:name":"Bilshashah",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85358,
+    31.15278,
+    30.85358,
+    31.15278
+],
+  "geometry": {"coordinates":[30.85358,31.15278],"type":"Point"}
+}

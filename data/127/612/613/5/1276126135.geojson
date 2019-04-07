@@ -1,0 +1,67 @@
+{
+  "id": 1276126135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.60889,30.78917,30.60889,30.78917",
+    "geom:latitude":30.78917,
+    "geom:longitude":30.60889,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Abyuqa",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361883,
+    "gn:latitude":30.78917,
+    "gn:longitude":30.60889,
+    "gn:modification_date":"1999-03-03",
+    "gn:name":"Aby\u016bq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361883
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dddfc5682f6ace596e3cc5b6952401da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1276126135,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276126135,
+    "wof:lastmodified":1537053845,
+    "wof:name":"Abyuqa",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.60889,
+    30.78917,
+    30.60889,
+    30.78917
+],
+  "geometry": {"coordinates":[30.60889,30.78917],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327105571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79649,30.66331,31.79649,30.66331",
+    "geom:latitude":30.66331,
+    "geom:longitude":31.79649,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Riyad Khalifah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545732,
+    "gn:latitude":30.66331,
+    "gn:longitude":31.79649,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat R\u012by\u0101\u1e11 Khal\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u064a\u0627\u0636 \u062e\u0644\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat R\u012by\u0101\u1e11 Khal\u012bfah",
+        "\u2018Izbat Riy\u0101\u1e0d Khal\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545732
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dc793a5c8d98b5c0e6f87835434cf260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1327105571,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1327105571,
+    "wof:lastmodified":1537621272,
+    "wof:name":"`Izbat Riyad Khalifah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79649,
+    30.66331,
+    31.79649,
+    30.66331
+],
+  "geometry": {"coordinates":[31.79649,30.66331],"type":"Point"}
+}

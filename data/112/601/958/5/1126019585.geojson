@@ -1,0 +1,187 @@
+{
+  "id": 1126019585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.24528,31.35254,27.24528,31.35254",
+    "geom:latitude":31.35254,
+    "geom:longitude":27.24528,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":62042,
+    "gn:population":62042,
+    "iso:country":"EG",
+    "lbl:latitude":31.35254,
+    "lbl:longitude":27.24528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0633\u0649 \u0645\u0637\u0631\u0648\u062d"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u0633\u0649 \u0645\u0637\u0631\u0648\u062d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0430 \u041c\u0430\u0442\u0440\u0443\u0445"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u7279\u9b6f\u6e2f"
+    ],
+    "name:dan_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:deu_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:dut_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:eng_x_preferred":[
+        "Mersa Matruh"
+    ],
+    "name:eng_x_variant":[
+        "Mars\u00e1 Ma\u0163r\u016b\u1e29"
+    ],
+    "name:fin_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:fre_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10e0\u10e1\u10d0-\u10db\u10d0\u10e2\u10e0\u10e3\u10f0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:gle_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03ac\u03c1\u03c3\u03b1 \u039c\u03b1\u03c4\u03c1\u03bf\u03cd\u03c7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e1\u05d0 \u05de\u05d8\u05e8\u05d5\u05d7"
+    ],
+    "name:hun_x_preferred":[
+        "Marsza Matr\u00fah"
+    ],
+    "name:ita_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b5\u30fb\u30de\u30c8\u30eb\u30fc\u30d5"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u0440\u0441\u0430-\u041c\u0430\u0442\u0440\u0443\u0445"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\ub974\uc0ac\ub9c8\ud2b8\ub8e8"
+    ],
+    "name:lit_x_preferred":[
+        "Mersa Matruhas"
+    ],
+    "name:nob_x_preferred":[
+        "Mersa Matruh"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0631\u0633\u06cc \u0645\u0637\u0631\u0648\u062d"
+    ],
+    "name:pol_x_preferred":[
+        "Matruh"
+    ],
+    "name:por_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0430-\u041c\u0430\u0442\u0440\u0443\u0445"
+    ],
+    "name:sco_x_preferred":[
+        "Mersa Matruh"
+    ],
+    "name:spa_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0440\u0441\u0430 \u041c\u0430\u0442\u0440\u0443\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Mersa Matruh"
+    ],
+    "name:tur_x_preferred":[
+        "Mersa Matruh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0441\u0430-\u041c\u0430\u0442\u0440\u0443\u0445"
+    ],
+    "name:unk_x_variant":[
+        "Paraetonium"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0631\u0633\u06cc \u0645\u0637\u0631\u0648\u062d"
+    ],
+    "name:war_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":352733,
+    "qs_pg:gn_pop":62042,
+    "qs_pg:name":"Mars\u00e1 Ma\u0163r\u016b\u1e29",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":309967,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092022115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352733,
+        "qs_pg:id":309967,
+        "wd:id":"Q393829"
+    },
+    "wof:country":"EG",
+    "wof:created":1497300752,
+    "wof:geomhash":"6fbf10c5f4d43b5ce311886ffc2bf79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022115,
+            "locality_id":1126019585,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1126019585,
+    "wof:lastmodified":1513956702,
+    "wof:name":"Mars\u00e1 Ma\u0163r\u016b\u1e29",
+    "wof:parent_id":1092022115,
+    "wof:placetype":"locality",
+    "wof:population":62042,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.24528,
+    31.35254,
+    27.24528,
+    31.35254
+],
+  "geometry": {"coordinates":[27.24528,31.35254],"type":"Point"}
+}

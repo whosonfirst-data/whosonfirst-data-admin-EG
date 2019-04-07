@@ -1,0 +1,74 @@
+{
+  "id": 1293507897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73707,27.92083,30.73707,27.92083",
+    "geom:latitude":27.92083,
+    "geom:longitude":30.73707,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Hisaniyah",
+    "gn:country_code":"EG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361142,
+    "gn:latitude":27.92083,
+    "gn:longitude":30.73707,
+    "gn:modification_date":"2017-07-16",
+    "gn:name":"Al \u1e28is\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0633\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El \u1e24is\u00e2niya",
+        "Al \u1e28is\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092014221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361142
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d4c7bfa19886d7a1a6de742df046bdfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014221,
+            "locality_id":1293507897,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1293507897,
+    "wof:lastmodified":1537620917,
+    "wof:name":"Al Hisaniyah",
+    "wof:parent_id":1092014221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73707000000001,
+    27.92083,
+    30.73707000000001,
+    27.92083
+],
+  "geometry": {"coordinates":[30.73707000000001,27.92083],"type":"Point"}
+}

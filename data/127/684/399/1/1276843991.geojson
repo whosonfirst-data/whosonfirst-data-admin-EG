@@ -1,0 +1,71 @@
+{
+  "id": 1276843991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00361,30.865,32.00361,30.865",
+    "geom:latitude":30.865,
+    "geom:longitude":32.00361,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Quwaytah Sumaydah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357152,
+    "gn:latitude":30.865,
+    "gn:longitude":32.00361,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u2018Izbat Quwaytah Sumaydah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Quweita Simaida",
+        "\u2018Izbat Quwaytah Sumaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357152
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c2c599f0b7eda4edbcb65423c32fd8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1276843991,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276843991,
+    "wof:lastmodified":1537620785,
+    "wof:name":"`Izbat Quwaytah Sumaydah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00360999999999,
+    30.865,
+    32.00360999999999,
+    30.865
+],
+  "geometry": {"coordinates":[32.00360999999999,30.865],"type":"Point"}
+}

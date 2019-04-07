@@ -1,0 +1,73 @@
+{
+  "id": 1276349807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,31.06667,31.51667,31.06667",
+    "geom:latitude":31.06667,
+    "geom:longitude":31.51667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ash Shaykh Ridwan",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359976,
+    "gn:latitude":31.06667,
+    "gn:longitude":31.51667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shaykh Ri\u1e11w\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Izbat ash Shaykh Ri\u1e11w\u0101n al \u2018Adl",
+        "El-Sheikh Radw\u00e2n",
+        "Ash Shaykh Ri\u1e11w\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359976
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d4edad0e44246ac7d91832102adab2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1276349807,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1276349807,
+    "wof:lastmodified":1537620860,
+    "wof:name":"Ash Shaykh Ridwan",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    31.06667,
+    31.51667,
+    31.06667
+],
+  "geometry": {"coordinates":[31.51667,31.06667],"type":"Point"}
+}

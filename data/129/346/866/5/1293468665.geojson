@@ -1,0 +1,74 @@
+{
+  "id": 1293468665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82646,31.04611,31.82646,31.04611",
+    "geom:latitude":31.04611,
+    "geom:longitude":31.82646,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Zaki Mahmud",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421211,
+    "gn:latitude":31.04611,
+    "gn:longitude":31.82646,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Zak\u012b Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0632\u0643\u064a \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Zak\u012b Ma\u1e29m\u016bd",
+        "\u2018Izbat Zaki Ma\u1e25m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421211
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4ecd6cabd91237e8315c4803a120564b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015105,
+            "locality_id":1293468665,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293468665,
+    "wof:lastmodified":1537621103,
+    "wof:name":"`Izbat Zaki Mahmud",
+    "wof:parent_id":1092015105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82646,
+    31.04611,
+    31.82646,
+    31.04611
+],
+  "geometry": {"coordinates":[31.82646,31.04611],"type":"Point"}
+}

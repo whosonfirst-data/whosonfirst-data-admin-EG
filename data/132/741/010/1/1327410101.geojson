@@ -1,0 +1,71 @@
+{
+  "id": 1327410101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73333,27.5,30.73333,27.5",
+    "geom:latitude":27.5,
+    "geom:longitude":30.73333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nazlat Mas`ud as Sayyid",
+    "gn:country_code":"EG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351107,
+    "gn:latitude":27.5,
+    "gn:longitude":30.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat Mas\u2018\u016bd as Sayyid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet Mas\u2018\u00fbd el Saiyid",
+        "Nazlat Mas\u2018\u016bd as Sayyid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092015987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351107
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"21b978973b150be516c5b3905adc3bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015987,
+            "locality_id":1327410101,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1327410101,
+    "wof:lastmodified":1537620607,
+    "wof:name":"Nazlat Mas`ud as Sayyid",
+    "wof:parent_id":1092015987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73333,
+    27.5,
+    30.73333,
+    27.5
+],
+  "geometry": {"coordinates":[30.73333,27.5],"type":"Point"}
+}

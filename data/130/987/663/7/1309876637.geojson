@@ -1,0 +1,74 @@
+{
+  "id": 1309876637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55653,30.48256,31.55653,30.48256",
+    "geom:latitude":30.48256,
+    "geom:longitude":31.55653,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nubah",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350985,
+    "gn:latitude":30.48256,
+    "gn:longitude":31.55653,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u016bbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "N\u00fbba",
+        "N\u016bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350985
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4886a7507442008d963ed18fb23f5981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015569,
+            "locality_id":1309876637,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309876637,
+    "wof:lastmodified":1537620602,
+    "wof:name":"Nubah",
+    "wof:parent_id":1092015569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55653,
+    30.48256,
+    31.55653,
+    30.48256
+],
+  "geometry": {"coordinates":[31.55653,30.48256],"type":"Point"}
+}

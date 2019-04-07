@@ -1,0 +1,71 @@
+{
+  "id": 1344021661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33886,27.08582,31.33886,27.08582",
+    "geom:latitude":27.08582,
+    "geom:longitude":31.33886,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al `Awanah",
+    "gn:country_code":"EG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361511,
+    "gn:latitude":27.08582,
+    "gn:longitude":31.33886,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Aw\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Aw\u00e2na",
+        "Al \u2018Aw\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092024123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361511
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7a69bc854937b0ab286ae760219c4f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024123,
+            "locality_id":1344021661,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1344021661,
+    "wof:lastmodified":1537620940,
+    "wof:name":"Al `Awanah",
+    "wof:parent_id":1092024123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33886,
+    27.08582,
+    31.33886,
+    27.08582
+],
+  "geometry": {"coordinates":[31.33886,27.08582],"type":"Point"}
+}

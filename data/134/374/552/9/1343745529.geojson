@@ -1,0 +1,71 @@
+{
+  "id": 1343745529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48905,30.39464,31.48905,30.39464",
+    "geom:latitude":30.39464,
+    "geom:longitude":31.48905,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bi'r `Imarah wa Kafr Salamah Husayn",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358781,
+    "gn:latitude":30.39464,
+    "gn:longitude":31.48905,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bi\u2019r \u2018Im\u0101rah wa Kafr Sal\u0101mah \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00eer \u2018Im\u00e2ra and Kafr Sal\u00e2ma \u1e24usein",
+        "Bi\u2019r \u2018Im\u0101rah wa Kafr Sal\u0101mah \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358781
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8643ed62b061154204839751ace7eb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015569,
+            "locality_id":1343745529,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343745529,
+    "wof:lastmodified":1537620821,
+    "wof:name":"Bi'r `Imarah wa Kafr Salamah Husayn",
+    "wof:parent_id":1092015569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48905,
+    30.39464000000001,
+    31.48905,
+    30.39464000000001
+],
+  "geometry": {"coordinates":[31.48905,30.39464000000001],"type":"Point"}
+}

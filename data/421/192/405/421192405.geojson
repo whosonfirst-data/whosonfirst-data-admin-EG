@@ -1,0 +1,96 @@
+{
+  "id": 421192405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.80858,31.01252,29.80858,31.01252",
+    "geom:latitude":31.01252,
+    "geom:longitude":29.80858,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u062d\u0649 \u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Amiriya"
+    ],
+    "name:eng_x_preferred":[
+        "Amreya"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0645\u0631\u06cc\u0647"
+    ],
+    "name:unk_x_variant":[
+        "Mary\u016b\u0163"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":361579,
+    "qs:gn_pop":0,
+    "qs:name":"Al Amiriyah",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:photos":55,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":55,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168116,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1521235,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361579,
+        "gp:id":1521235,
+        "qs:id":1168116,
+        "wd:id":"Q626453"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009735,
+    "wof:geomhash":"c6452a0ba8abff6a7fe03df9d5071a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":421192405,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":421192405,
+    "wof:lastmodified":1527716114,
+    "wof:name":"Al Amiriyah",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.80858,
+    31.01252,
+    29.80858,
+    31.01252
+],
+  "geometry": {"coordinates":[29.80858,31.01252],"type":"Point"}
+}

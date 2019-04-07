@@ -1,0 +1,71 @@
+{
+  "id": 1360043295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.64332,26.70236,31.64332,26.70236",
+    "geom:latitude":26.70236,
+    "geom:longitude":31.64332,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Kitkatah",
+    "gn:country_code":"EG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360878,
+    "gn:latitude":26.70236,
+    "gn:longitude":31.64332,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kitk\u0101tah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Kitk\u0101fa",
+        "Al Kitk\u0101tah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092024379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360878
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b6abe5d227ef4c15daad8ff6fbd3ccda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024379,
+            "locality_id":1360043295,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1360043295,
+    "wof:lastmodified":1537620902,
+    "wof:name":"Al Kitkatah",
+    "wof:parent_id":1092024379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.64332000000001,
+    26.70236,
+    31.64332000000001,
+    26.70236
+],
+  "geometry": {"coordinates":[31.64332000000001,26.70236],"type":"Point"}
+}

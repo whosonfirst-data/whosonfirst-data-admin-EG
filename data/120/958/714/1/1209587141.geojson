@@ -1,0 +1,67 @@
+{
+  "id": 1209587141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,27.3,31.13333,27.3",
+    "geom:latitude":27.3,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Dayr Shu",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358271,
+    "gn:latitude":27.3,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dayr Sh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deir Sho",
+        "Deir Sh\u00fb",
+        "Dayr Sh\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358271
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9a274e1d7c44d11124ad7b6c63f70905",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209587141
+        }
+    ],
+    "wof:id":1209587141,
+    "wof:lastmodified":1537620810,
+    "wof:name":"Dayr Shu",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    27.3,
+    31.13333,
+    27.3
+],
+  "geometry": {"coordinates":[31.13333,27.3],"type":"Point"}
+}

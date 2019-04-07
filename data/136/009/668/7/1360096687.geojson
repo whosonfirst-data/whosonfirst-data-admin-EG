@@ -1,0 +1,67 @@
+{
+  "id": 1360096687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35252,30.91741,30.35252,30.91741",
+    "geom:latitude":30.91741,
+    "geom:longitude":30.35252,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Farhash",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434001,
+    "gn:latitude":30.91741,
+    "gn:longitude":30.35252,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Farh\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092015921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434001
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"df189813dccf963103ff4f4ca46c61b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015921,
+            "locality_id":1360096687,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1360096687,
+    "wof:lastmodified":1536929604,
+    "wof:name":"Farhash",
+    "wof:parent_id":1092015921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35252,
+    30.91741,
+    30.35252,
+    30.91741
+],
+  "geometry": {"coordinates":[30.35252,30.91741],"type":"Point"}
+}

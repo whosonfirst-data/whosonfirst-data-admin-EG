@@ -1,0 +1,74 @@
+{
+  "id": 1276211139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11387,30.65255,31.11387,30.65255",
+    "geom:latitude":30.65255,
+    "geom:longitude":31.11387,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr Hurayn",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354252,
+    "gn:latitude":30.65255,
+    "gn:longitude":31.11387,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kafr H\u016brayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0647\u0648\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafr H\u00fbrein",
+        "Kafr H\u016brayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092015653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354252
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f068b0061466fae7799b0e12ea530f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015653,
+            "locality_id":1276211139,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1276211139,
+    "wof:lastmodified":1537620699,
+    "wof:name":"Kafr Hurayn",
+    "wof:parent_id":1092015653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11387,
+    30.65255,
+    31.11387,
+    30.65255
+],
+  "geometry": {"coordinates":[31.11387,30.65255],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209529865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98333,31.16667,31.98333,31.16667",
+    "geom:latitude":31.16667,
+    "geom:longitude":31.98333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Hiwatah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361135,
+    "gn:latitude":31.16667,
+    "gn:longitude":31.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28iwatah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-\u1e24awata",
+        "Al \u1e28iwatah ash Shar\u012bf\u012byah",
+        "Al \u1e28iwatah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361135
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9f81bd035799b9f5e2f0d6a9ed2e2f45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209529865
+        }
+    ],
+    "wof:id":1209529865,
+    "wof:lastmodified":1537620916,
+    "wof:name":"Al Hiwatah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98333,
+    31.16667,
+    31.98333,
+    31.16667
+],
+  "geometry": {"coordinates":[31.98333,31.16667],"type":"Point"}
+}

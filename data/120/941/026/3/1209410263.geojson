@@ -1,0 +1,61 @@
+{
+  "id": 1209410263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.77365,28.09576,30.77365,28.09576",
+    "geom:latitude":28.09576,
+    "geom:longitude":30.77365,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Izbat Abu Filibu",
+    "gn:country_code":"EG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432902,
+    "gn:latitude":28.09576,
+    "gn:longitude":30.77365,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Ab\u016b Fil\u012bb\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432902
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"143e1578ef3c01360484fd4726e63c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209410263
+        }
+    ],
+    "wof:id":1209410263,
+    "wof:lastmodified":1536287860,
+    "wof:name":"`Izbat Abu Filibu",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.77365,
+    28.09576,
+    30.77365,
+    28.09576
+],
+  "geometry": {"coordinates":[30.77365,28.09576],"type":"Point"}
+}

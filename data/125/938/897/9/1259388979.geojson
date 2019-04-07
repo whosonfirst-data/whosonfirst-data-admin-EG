@@ -1,0 +1,67 @@
+{
+  "id": 1259388979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79153,29.29369,30.79153,29.29369",
+    "geom:latitude":29.29369,
+    "geom:longitude":30.79153,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Mahmmud Aghah",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434326,
+    "gn:latitude":29.29369,
+    "gn:longitude":30.79153,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat Ma\u1e29mm\u016bd \u0100ghah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434326
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"db73ac6f47e6b8597cdf2a48f2bad371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1259388979,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1259388979,
+    "wof:lastmodified":1536993444,
+    "wof:name":"`Izbat Mahmmud Aghah",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79153,
+    29.29369,
+    30.79153,
+    29.29369
+],
+  "geometry": {"coordinates":[30.79153,29.29369],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259597299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63913,31.08735,31.63913,31.08735",
+    "geom:latitude":31.08735,
+    "geom:longitude":31.63913,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ashmun ar Rumman",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360046,
+    "gn:latitude":31.08735,
+    "gn:longitude":31.63913,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Ashm\u016bn ar Rumm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0634\u0645\u0648\u0646 \u0627\u0644\u0631\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ashm\u00fbn el-Rumm\u00e2n",
+        "Ashm\u016bn ar Rumm\u0101n",
+        "Ashm\u016bn ar-Ruman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092016227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360046
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f6d2d749c927391648f0e0266d0a3da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016227,
+            "locality_id":1259597299,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259597299,
+    "wof:lastmodified":1537620864,
+    "wof:name":"Ashmun ar Rumman",
+    "wof:parent_id":1092016227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63913,
+    31.08735,
+    31.63913,
+    31.08735
+],
+  "geometry": {"coordinates":[31.63913,31.08735],"type":"Point"}
+}

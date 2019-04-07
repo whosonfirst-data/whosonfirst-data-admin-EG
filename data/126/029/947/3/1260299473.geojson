@@ -1,0 +1,67 @@
+{
+  "id": 1260299473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35,31.31667,31.35,31.31667",
+    "geom:latitude":31.31667,
+    "geom:longitude":31.35,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Ezbet `Atwa Abu Salim",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357600,
+    "gn:latitude":31.31667,
+    "gn:longitude":31.35,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet \u2018Atwa Abu S\u00e2lim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092015611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357600
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e1cf0f5a26f3d9b0d02c26c2615ed6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015611,
+            "locality_id":1260299473,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1260299473,
+    "wof:lastmodified":1536690530,
+    "wof:name":"`Ezbet `Atwa Abu Salim",
+    "wof:parent_id":1092015611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35,
+    31.31667,
+    31.35,
+    31.31667
+],
+  "geometry": {"coordinates":[31.35,31.31667],"type":"Point"}
+}

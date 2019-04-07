@@ -1,0 +1,67 @@
+{
+  "id": 1259795193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56013,30.9442,30.56013,30.9442",
+    "geom:latitude":30.9442,
+    "geom:longitude":30.56013,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Abu Zurayq",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433262,
+    "gn:latitude":30.9442,
+    "gn:longitude":30.56013,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Ab\u016b Zurayq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092020749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433262
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"57d66ac70f87ec8dd2f0dbf10f8e3091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020749,
+            "locality_id":1259795193,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259795193,
+    "wof:lastmodified":1536906510,
+    "wof:name":"`Izbat Abu Zurayq",
+    "wof:parent_id":1092020749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56013,
+    30.9442,
+    30.56013,
+    30.9442
+],
+  "geometry": {"coordinates":[30.56013,30.9442],"type":"Point"}
+}

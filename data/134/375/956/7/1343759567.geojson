@@ -1,0 +1,72 @@
+{
+  "id": 1343759567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,30.0,31.13333,30.0",
+    "geom:latitude":30.0,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kafrat Nassar",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354407,
+    "gn:latitude":30.0,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafrat Na\u015f\u015f\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafret Nassar",
+        "Kafrat Na\u015f\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092016591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354407
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"76685c25deee2ae3743889aac3adb3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016591,
+            "locality_id":1343759567,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1343759567,
+    "wof:lastmodified":1537620710,
+    "wof:name":"Kafrat Nassar",
+    "wof:parent_id":1092016591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    30.0,
+    31.13333,
+    30.0
+],
+  "geometry": {"coordinates":[31.13333,30.0],"type":"Point"}
+}

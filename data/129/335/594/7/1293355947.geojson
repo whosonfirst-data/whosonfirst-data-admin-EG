@@ -1,0 +1,74 @@
+{
+  "id": 1293355947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.10822,31.33289,32.10822,31.33289",
+    "geom:latitude":31.33289,
+    "geom:longitude":32.10822,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Qaryat al Minasrah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414061,
+    "gn:latitude":31.33289,
+    "gn:longitude":32.10822,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Qaryat al Min\u0101\u015frah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u0646\u0627\u0635\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat el-Min\u00e2\u1e63ra",
+        "Qaryat al Min\u0101\u015frah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671021,
+        1092018325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414061
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1374912a3df899831b7ef37fec3a57c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018325,
+            "locality_id":1293355947,
+            "region_id":85671021
+        }
+    ],
+    "wof:id":1293355947,
+    "wof:lastmodified":1537620969,
+    "wof:name":"Qaryat al Minasrah",
+    "wof:parent_id":1092018325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.10822,
+    31.33289000000001,
+    32.10822,
+    31.33289000000001
+],
+  "geometry": {"coordinates":[32.10822,31.33289000000001],"type":"Point"}
+}

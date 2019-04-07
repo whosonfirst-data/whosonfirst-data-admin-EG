@@ -1,0 +1,74 @@
+{
+  "id": 1226311265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98333,26.25,31.98333,26.25",
+    "geom:latitude":26.25,
+    "geom:longitude":31.98333,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"As Sahil Qibli",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359890,
+    "gn:latitude":26.25,
+    "gn:longitude":31.98333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As S\u0101\u1e29il Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El S\u00e2\u1e25il",
+        "Es S\u0101hil Qibli",
+        "El S\u00e2\u1e25il Qibl\u00ee",
+        "As S\u0101\u1e29il Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092017143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359890
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"453b18bff45fb2a6dcdb89eb0e0acd69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017143,
+            "locality_id":1226311265,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1226311265,
+    "wof:lastmodified":1537620855,
+    "wof:name":"As Sahil Qibli",
+    "wof:parent_id":1092017143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98333,
+    26.25,
+    31.98333,
+    26.25
+],
+  "geometry": {"coordinates":[31.98333,26.25],"type":"Point"}
+}

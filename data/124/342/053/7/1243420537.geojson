@@ -1,0 +1,71 @@
+{
+  "id": 1243420537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92058,28.98698,30.92058,28.98698",
+    "geom:latitude":28.98698,
+    "geom:longitude":30.92058,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Fazarah",
+    "gn:country_code":"EG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":356877,
+    "gn:latitude":28.98698,
+    "gn:longitude":30.92058,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Faz\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faz\u00e2ra",
+        "Faz\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356877
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6a9139b8bf06c25e84abc7b6da20db73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015415,
+            "locality_id":1243420537,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1243420537,
+    "wof:lastmodified":1537620780,
+    "wof:name":"Fazarah",
+    "wof:parent_id":1092015415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92058,
+    28.98698,
+    30.92058,
+    28.98698
+],
+  "geometry": {"coordinates":[30.92058,28.98698],"type":"Point"}
+}

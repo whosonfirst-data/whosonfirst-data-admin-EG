@@ -1,0 +1,76 @@
+{
+  "id": 1326647661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.22252,30.82633,31.22252,30.82633",
+    "geom:latitude":30.82633,
+    "geom:longitude":31.22252,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mit Damsis",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352187,
+    "gn:latitude":30.82633,
+    "gn:longitude":31.22252,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"M\u012bt Dams\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u062f\u0645\u0633\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet Damsis and Kafr Abu Girg",
+        "M\u00eet Dams\u00ees wa Kafr Abu Girg",
+        "M\u012bt Dams\u012bs",
+        "M\u012bt Dams\u012bs wa Kafr Ab\u016b Jurj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092026069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352187
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d2c6223c0798ab95e500050b2270e7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092026069,
+            "locality_id":1326647661,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1326647661,
+    "wof:lastmodified":1537620639,
+    "wof:name":"Mit Damsis",
+    "wof:parent_id":1092026069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.22252000000001,
+    30.82633,
+    31.22252000000001,
+    30.82633
+],
+  "geometry": {"coordinates":[31.22252000000001,30.82633],"type":"Point"}
+}

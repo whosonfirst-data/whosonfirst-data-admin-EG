@@ -1,0 +1,75 @@
+{
+  "id": 1225806861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.636,31.23,31.636,31.23",
+    "geom:latitude":31.23,
+    "geom:longitude":31.636,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kafr al Mayasirah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354580,
+    "gn:latitude":31.23,
+    "gn:longitude":31.636,
+    "gn:modification_date":"2017-07-15",
+    "gn:name":"Kafr al May\u0101sirah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0645\u064a\u0627\u0633\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-May\u00e2sra",
+        "Kafr al May\u0101sirah",
+        "Kafr al-May\u0101srah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092024759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354580
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"765f4aa5ad65e199de603f81607cf9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024759,
+            "locality_id":1225806861,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1225806861,
+    "wof:lastmodified":1537620726,
+    "wof:name":"Kafr al Mayasirah",
+    "wof:parent_id":1092024759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.636,
+    31.23,
+    31.636,
+    31.23
+],
+  "geometry": {"coordinates":[31.636,31.23],"type":"Point"}
+}

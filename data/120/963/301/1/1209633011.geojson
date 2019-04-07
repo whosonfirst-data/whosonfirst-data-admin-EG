@@ -1,0 +1,67 @@
+{
+  "id": 1209633011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47894,31.07899,31.47894,31.07899",
+    "geom:latitude":31.07899,
+    "geom:longitude":31.47894,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shuha",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349029,
+    "gn:latitude":31.07899,
+    "gn:longitude":31.47894,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Shuh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shuh\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0647\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349029
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9e2ad9b7d7622d6f209ae23be9b794dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209633011
+        }
+    ],
+    "wof:id":1209633011,
+    "wof:lastmodified":1537620570,
+    "wof:name":"Shuha",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47894,
+    31.07899,
+    31.47894,
+    31.07899
+],
+  "geometry": {"coordinates":[31.47894,31.07899],"type":"Point"}
+}

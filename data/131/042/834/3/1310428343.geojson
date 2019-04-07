@@ -1,0 +1,74 @@
+{
+  "id": 1310428343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03519,30.85257,31.03519,30.85257",
+    "geom:latitude":30.85257,
+    "geom:longitude":31.03519,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Warathat al Khawli",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560486,
+    "gn:latitude":30.85257,
+    "gn:longitude":31.03519,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat Warathat al Khawl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0648\u0631\u062b\u0629 \u0627\u0644\u062e\u0648\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Warathat al Khawl\u012b",
+        "\u2018Izbat Warathat al-Kh\u016bl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560486
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5bdf8cb7fac268ec4a6ef1cf9cbd229a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1310428343,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1310428343,
+    "wof:lastmodified":1537621207,
+    "wof:name":"`Izbat Warathat al Khawli",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03519,
+    30.85257,
+    31.03519,
+    30.85257
+],
+  "geometry": {"coordinates":[31.03519,30.85257],"type":"Point"}
+}

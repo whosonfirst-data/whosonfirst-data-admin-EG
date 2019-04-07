@@ -1,0 +1,67 @@
+{
+  "id": 1259761255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30722,29.54117,31.30722,29.54117",
+    "geom:latitude":29.54117,
+    "geom:longitude":31.30722,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"`Arab al Ma``azah",
+    "gn:country_code":"EG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434292,
+    "gn:latitude":29.54117,
+    "gn:longitude":31.30722,
+    "gn:modification_date":"2011-05-22",
+    "gn:name":"\u2018Arab al Ma\u2018\u2018\u0101zah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092022997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434292
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"51d27583e4e6742146f0c3ee9b55ff79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022997,
+            "locality_id":1259761255,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1259761255,
+    "wof:lastmodified":1536955263,
+    "wof:name":"`Arab al Ma``azah",
+    "wof:parent_id":1092022997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30722,
+    29.54117,
+    31.30722,
+    29.54117
+],
+  "geometry": {"coordinates":[31.30722,29.54117],"type":"Point"}
+}

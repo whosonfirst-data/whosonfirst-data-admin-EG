@@ -1,0 +1,67 @@
+{
+  "id": 1259366763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.87174,27.66498,30.87174,27.66498",
+    "geom:latitude":27.66498,
+    "geom:longitude":30.87174,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kafr Khuzam",
+    "gn:country_code":"EG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354212,
+    "gn:latitude":27.66498,
+    "gn:longitude":30.87174,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kafr Khuz\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354212
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d1d6ffe6205f6123d584fdbdf5906ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1259366763,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1259366763,
+    "wof:lastmodified":1537025216,
+    "wof:name":"Kafr Khuzam",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.87174000000001,
+    27.66498,
+    30.87174000000001,
+    27.66498
+],
+  "geometry": {"coordinates":[30.87174000000001,27.66498],"type":"Point"}
+}

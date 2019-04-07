@@ -1,0 +1,71 @@
+{
+  "id": 1276617665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80646,27.39369,30.80646,27.39369",
+    "geom:latitude":27.39369,
+    "geom:longitude":30.80646,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"At Timsahiyah",
+    "gn:country_code":"EG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359682,
+    "gn:latitude":27.39369,
+    "gn:longitude":30.80646,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At Tims\u0101\u1e29\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Tims\u00e2h\u00eeya",
+        "At Tims\u0101\u1e29\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092019229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359682
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e61d38eb8981cb316c75549e80b10b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019229,
+            "locality_id":1276617665,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1276617665,
+    "wof:lastmodified":1537620845,
+    "wof:name":"At Timsahiyah",
+    "wof:parent_id":1092019229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80646,
+    27.39369000000001,
+    30.80646,
+    27.39369000000001
+],
+  "geometry": {"coordinates":[30.80646,27.39369000000001],"type":"Point"}
+}

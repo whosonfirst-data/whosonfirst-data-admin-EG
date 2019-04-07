@@ -1,0 +1,73 @@
+{
+  "id": 1293294505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01793,31.12528,30.01793,31.12528",
+    "geom:latitude":31.12528,
+    "geom:longitude":30.01793,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Khamsah/Arba`ah",
+    "gn:country_code":"EG",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10495995,
+    "gn:latitude":31.12528,
+    "gn:longitude":30.01793,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"\u2018Izbat Khamsah/Arba\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0665/\u0664"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Khamsah/Arba\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10495995
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c840ea4925918f632da4932c2480ea78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1293294505,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1293294505,
+    "wof:lastmodified":1537621256,
+    "wof:name":"`Izbat Khamsah/Arba`ah",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01793,
+    31.12528,
+    30.01793,
+    31.12528
+],
+  "geometry": {"coordinates":[30.01793,31.12528],"type":"Point"}
+}

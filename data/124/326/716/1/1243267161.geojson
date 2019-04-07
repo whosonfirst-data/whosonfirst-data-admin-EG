@@ -1,0 +1,67 @@
+{
+  "id": 1243267161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.74701,25.30306,34.74701,25.30306",
+    "geom:latitude":25.30306,
+    "geom:longitude":34.74701,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Naaba",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11126094,
+    "gn:latitude":25.30306,
+    "gn:longitude":34.74701,
+    "gn:modification_date":"2016-04-20",
+    "gn:name":"El Naaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092019193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11126094
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7f43c612c157ccf0a99224f3c1d164bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019193,
+            "locality_id":1243267161,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1243267161,
+    "wof:lastmodified":1537061229,
+    "wof:name":"El Naaba",
+    "wof:parent_id":1092019193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.74701,
+    25.30306,
+    34.74701,
+    25.30306
+],
+  "geometry": {"coordinates":[34.74701,25.30306],"type":"Point"}
+}

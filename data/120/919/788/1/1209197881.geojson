@@ -1,0 +1,67 @@
+{
+  "id": 1209197881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.49897,30.53225,31.49897,30.53225",
+    "geom:latitude":30.53225,
+    "geom:longitude":31.49897,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mit Abu `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352253,
+    "gn:latitude":30.53225,
+    "gn:longitude":31.49897,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u012bt Ab\u016b \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u012bt Ab\u016b \u2018Al\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u062a \u0623\u0628\u0648 \u0639\u0644\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352253
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7652552f7e5c6db4bbef92d8388a5c99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209197881
+        }
+    ],
+    "wof:id":1209197881,
+    "wof:lastmodified":1537620645,
+    "wof:name":"Mit Abu `Ali",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.49897,
+    30.53225,
+    31.49897,
+    30.53225
+],
+  "geometry": {"coordinates":[31.49897,30.53225],"type":"Point"}
+}

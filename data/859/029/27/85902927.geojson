@@ -1,0 +1,143 @@
+{
+  "id": 85902927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15219432.836354,
+    "geom:bbox":"29.962816,31.236152,29.962816,31.236152",
+    "geom:latitude":31.236152,
+    "geom:longitude":29.962816,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":31.24849,
+    "gn:longitude":29.98228,
+    "iso:country":"EG",
+    "lbl:latitude":31.236152,
+    "lbl:longitude":29.962816,
+    "mps:latitude":31.232765,
+    "mps:longitude":29.972958,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0633\u0645 \u0627\u0644\u0631\u0645\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Er Raml"
+    ],
+    "name:eng_x_variant":[
+        "Er-Ramleh",
+        "Ramlah",
+        "Ar Raml",
+        "Ramleh"
+    ],
+    "name:unk_x_variant":[
+        "Er Raml",
+        "Ramlah"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"Ar Raml",
+    "qs:local_max":1580,
+    "qs:local_sum":9759,
+    "qs:localhoods":18,
+    "qs:name":"Er Raml",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:name_local":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:photo_max":114,
+    "qs:photo_sum":334,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424802,
+    "qs:woe_adm1":2345228,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1522006,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":360137,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Er Raml",
+    "qs_pg:name_adm0":"\u0645\u0635\u0631",
+    "qs_pg:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs_pg:photos":238,
+    "qs_pg:photos_1k":48,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":238,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1118020,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424802,
+    "qs_pg:woe_id":1522076,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85671041,
+        102191573,
+        85632581,
+        1092019315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360137,
+        "gp:id":1522076,
+        "qs:id":1118020,
+        "qs_pg:id":1118020
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0755ff2383ea836794b83434e83560ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019315,
+            "locality_id":-1,
+            "neighbourhood_id":85902927,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":85902927,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379294,
+    "wof:name":"Er Raml",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126105603
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.962816,
+    31.236152,
+    29.962816,
+    31.236152
+],
+  "geometry": {"coordinates":[29.962816,31.236152],"type":"Point"}
+}

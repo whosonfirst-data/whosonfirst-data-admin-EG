@@ -1,0 +1,64 @@
+{
+  "id": 1209224173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.46667,30.85,31.46667,30.85",
+    "geom:latitude":30.85,
+    "geom:longitude":31.46667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Minshat Salih",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352368,
+    "gn:latitude":30.85,
+    "gn:longitude":31.46667,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Minsh\u0101t \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Minsh\u0101t \u015e\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352368
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d27ce334ca5232a2c3dbb2980c433288",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209224173
+        }
+    ],
+    "wof:id":1209224173,
+    "wof:lastmodified":1537620649,
+    "wof:name":"Minshat Salih",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.46667,
+    30.85,
+    31.46667,
+    30.85
+],
+  "geometry": {"coordinates":[31.46667,30.85],"type":"Point"}
+}

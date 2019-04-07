@@ -1,0 +1,67 @@
+{
+  "id": 1193117349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18333,30.46667,31.18333,30.46667",
+    "geom:latitude":30.46667,
+    "geom:longitude":31.18333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nisf Atrib",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351022,
+    "gn:latitude":30.46667,
+    "gn:longitude":31.18333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ni\u015ff Atr\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092015253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351022
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"40765e4472a88cff868fc300c070cb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015253,
+            "locality_id":1193117349,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1193117349,
+    "wof:lastmodified":1536366822,
+    "wof:name":"Nisf Atrib",
+    "wof:parent_id":1092015253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18333,
+    30.46667,
+    31.18333,
+    30.46667
+],
+  "geometry": {"coordinates":[31.18333,30.46667],"type":"Point"}
+}

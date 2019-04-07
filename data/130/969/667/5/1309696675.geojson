@@ -1,0 +1,70 @@
+{
+  "id": 1309696675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13842,30.57722,31.13842,30.57722",
+    "geom:latitude":30.57722,
+    "geom:longitude":31.13842,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr Ibnahas",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354248,
+    "gn:latitude":30.57722,
+    "gn:longitude":31.13842,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kafr Ibnahas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0623\u0628\u0646\u0647\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092023671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354248
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"18d033f53de35d088157094944fd7688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023671,
+            "locality_id":1309696675,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1309696675,
+    "wof:lastmodified":1537620699,
+    "wof:name":"Kafr Ibnahas",
+    "wof:parent_id":1092023671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13842,
+    30.57722,
+    31.13842,
+    30.57722
+],
+  "geometry": {"coordinates":[31.13842,30.57722],"type":"Point"}
+}

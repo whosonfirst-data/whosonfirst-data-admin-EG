@@ -1,0 +1,74 @@
+{
+  "id": 1243034657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.09923,31.03436,33.09923,31.03436",
+    "geom:latitude":31.03436,
+    "geom:longitude":33.09923,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Qaryat Salmanah",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410172,
+    "gn:latitude":31.03436,
+    "gn:longitude":33.09923,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Qaryat Salm\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0633\u0644\u0645\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Salm\u00e2na",
+        "Qaryat Salm\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092015521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410172
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"13d2bec66c4f20b7fbeed585b1318cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015521,
+            "locality_id":1243034657,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1243034657,
+    "wof:lastmodified":1537620968,
+    "wof:name":"Qaryat Salmanah",
+    "wof:parent_id":1092015521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.09923,
+    31.03436,
+    33.09923,
+    31.03436
+],
+  "geometry": {"coordinates":[33.09923,31.03436],"type":"Point"}
+}

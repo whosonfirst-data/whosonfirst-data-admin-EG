@@ -1,0 +1,73 @@
+{
+  "id": 1309695679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.20259,30.99227,32.20259,30.99227",
+    "geom:latitude":30.99227,
+    "geom:longitude":32.20259,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al `Awamirah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194144,
+    "gn:latitude":30.99227,
+    "gn:longitude":32.20259,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"\u2018Izbat al \u2018Aw\u0101mirah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u0648\u0627\u0645\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u2018Aw\u0101mirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194144
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"63433bfd8156b8bf011c4508ef3ee09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1309695679,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309695679,
+    "wof:lastmodified":1537621233,
+    "wof:name":"`Izbat al `Awamirah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.20259,
+    30.99227,
+    32.20259,
+    30.99227
+],
+  "geometry": {"coordinates":[32.20259,30.99227],"type":"Point"}
+}

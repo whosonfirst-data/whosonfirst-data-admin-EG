@@ -1,0 +1,73 @@
+{
+  "id": 1343241555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.61667,25.73333,32.61667,25.73333",
+    "geom:latitude":25.73333,
+    "geom:longitude":32.61667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al `Asasif",
+    "gn:country_code":"EG",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361539,
+    "gn:latitude":25.73333,
+    "gn:longitude":32.61667,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Al \u2018As\u0101s\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Asasif",
+        "Asasif",
+        "Al \u2018As\u0101s\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671097,
+        1092018839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361539,
+        "wk:page":"El-Assasif"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d17fd5ab6724faca4082736a1e1bb5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018839,
+            "locality_id":1343241555,
+            "region_id":85671097
+        }
+    ],
+    "wof:id":1343241555,
+    "wof:lastmodified":1537620943,
+    "wof:name":"Al `Asasif",
+    "wof:parent_id":1092018839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61667,
+    25.73333,
+    32.61667,
+    25.73333
+],
+  "geometry": {"coordinates":[32.61667,25.73333],"type":"Point"}
+}

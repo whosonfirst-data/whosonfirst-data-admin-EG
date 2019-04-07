@@ -1,0 +1,76 @@
+{
+  "id": 1343313025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.61431,25.68674,32.61431,25.68674",
+    "geom:latitude":25.68674,
+    "geom:longitude":32.61431,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Al Aqalitah",
+    "gn:country_code":"EG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361564,
+    "gn:latitude":25.68674,
+    "gn:longitude":32.61431,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Al Aq\u0101litah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0642\u0627\u0644\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Lel Agalta",
+        "El \u2018Aq\u0101lta",
+        "Al Aq\u0101litah",
+        "Al-Aq\u0101ltah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671097,
+        1092018839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361564
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b8a52547210545489cb222701d95fcc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018839,
+            "locality_id":1343313025,
+            "region_id":85671097
+        }
+    ],
+    "wof:id":1343313025,
+    "wof:lastmodified":1537620944,
+    "wof:name":"Al Aqalitah",
+    "wof:parent_id":1092018839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61431,
+    25.68674,
+    32.61431,
+    25.68674
+],
+  "geometry": {"coordinates":[32.61431,25.68674],"type":"Point"}
+}

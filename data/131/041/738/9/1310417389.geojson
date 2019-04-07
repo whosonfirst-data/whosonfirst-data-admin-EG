@@ -1,0 +1,73 @@
+{
+  "id": 1310417389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56933,31.00994,30.56933,31.00994",
+    "geom:latitude":31.00994,
+    "geom:longitude":30.56933,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sharnub",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349339,
+    "gn:latitude":31.00994,
+    "gn:longitude":30.56933,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sharn\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0646\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Sharn\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092015921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349339
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8422ea6f7d121054c8997bc5effe2d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015921,
+            "locality_id":1310417389,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310417389,
+    "wof:lastmodified":1537620579,
+    "wof:name":"Sharnub",
+    "wof:parent_id":1092015921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56933,
+    31.00994,
+    30.56933,
+    31.00994
+],
+  "geometry": {"coordinates":[30.56933,31.00994],"type":"Point"}
+}

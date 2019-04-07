@@ -1,0 +1,61 @@
+{
+  "id": 1209215729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7775,29.12902,30.7775,29.12902",
+    "geom:latitude":29.12902,
+    "geom:longitude":30.7775,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Salam",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434747,
+    "gn:latitude":29.12902,
+    "gn:longitude":30.7775,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Sal\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434747
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8ea6180d635b940edf6100003a9b4c8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209215729
+        }
+    ],
+    "wof:id":1209215729,
+    "wof:lastmodified":1536294138,
+    "wof:name":"`Izbat Salam",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7775,
+    29.12902,
+    30.7775,
+    29.12902
+],
+  "geometry": {"coordinates":[30.7775,29.12902],"type":"Point"}
+}

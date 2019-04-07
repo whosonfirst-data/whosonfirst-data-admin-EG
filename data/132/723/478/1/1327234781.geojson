@@ -1,0 +1,71 @@
+{
+  "id": 1327234781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94679,24.70976,32.94679,24.70976",
+    "geom:latitude":24.70976,
+    "geom:longitude":32.94679,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Salwa Qibli",
+    "gn:country_code":"EG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349731,
+    "gn:latitude":24.70976,
+    "gn:longitude":32.94679,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Salw\u00e1 Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silw\u00e1 Qibli",
+        "Salw\u00e1 Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092022915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349731
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a7da2947cf612116b995267f3ed2287d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022915,
+            "locality_id":1327234781,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1327234781,
+    "wof:lastmodified":1537620586,
+    "wof:name":"Salwa Qibli",
+    "wof:parent_id":1092022915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94679,
+    24.70976,
+    32.94679,
+    24.70976
+],
+  "geometry": {"coordinates":[32.94679,24.70976],"type":"Point"}
+}

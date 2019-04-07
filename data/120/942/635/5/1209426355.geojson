@@ -1,0 +1,70 @@
+{
+  "id": 1209426355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05233,31.17508,30.05233,31.17508",
+    "geom:latitude":31.17508,
+    "geom:longitude":30.05233,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Busah",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358604,
+    "gn:latitude":31.17508,
+    "gn:longitude":30.05233,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat al B\u016b\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u0648\u0635\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet el-B\u00fb\u1e63",
+        "\u2018Izbat al B\u016b\u015f",
+        "\u2018Izbat al B\u016b\u015fah",
+        "\u2018Ezbet el-B\u00fbs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358604
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f3ea3fa934181526f4b0bd4a9feea559",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209426355
+        }
+    ],
+    "wof:id":1209426355,
+    "wof:lastmodified":1537620817,
+    "wof:name":"`Izbat al Busah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05233,
+    31.17508,
+    30.05233,
+    31.17508
+],
+  "geometry": {"coordinates":[30.05233,31.17508],"type":"Point"}
+}

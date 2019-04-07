@@ -1,0 +1,73 @@
+{
+  "id": 1259396845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45583,30.82111,31.45583,30.82111",
+    "geom:latitude":30.82111,
+    "geom:longitude":31.45583,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Bashnayn",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361402,
+    "gn:latitude":30.82111,
+    "gn:longitude":31.45583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bashnayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Bashn\u00een",
+        "Al Bashn\u012bn",
+        "Al Bashnayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361402
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"430586fb360471d3ea778360c6887ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1259396845,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259396845,
+    "wof:lastmodified":1537620933,
+    "wof:name":"Al Bashnayn",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45583,
+    30.82111,
+    31.45583,
+    30.82111
+],
+  "geometry": {"coordinates":[31.45583,30.82111],"type":"Point"}
+}

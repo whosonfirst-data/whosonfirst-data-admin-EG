@@ -1,0 +1,75 @@
+{
+  "id": 1259394197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38414,31.32165,30.38414,31.32165",
+    "geom:latitude":31.32165,
+    "geom:longitude":30.38414,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryah Raqm Wahid",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415043,
+    "gn:latitude":31.32165,
+    "gn:longitude":30.38414,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Qaryah Raqm W\u0101\u1e29id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 \u06f1"
+    ],
+    "name:und_x_variant":[
+        "Qaryah Raqm W\u0101\u1e29id",
+        "Qaryah Raqm 1",
+        "Qaryah Number One"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092016481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415043
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"75b1ceb6fec9eb038c82f89dcbea8031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016481,
+            "locality_id":1259394197,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259394197,
+    "wof:lastmodified":1537620976,
+    "wof:name":"Qaryah Raqm Wahid",
+    "wof:parent_id":1092016481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38414,
+    31.32165,
+    30.38414,
+    31.32165
+],
+  "geometry": {"coordinates":[30.38414,31.32165],"type":"Point"}
+}

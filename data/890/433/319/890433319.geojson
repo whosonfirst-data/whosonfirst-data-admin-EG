@@ -1,0 +1,108 @@
+{
+  "id": 890433319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83841,27.9312,30.83841,27.9312",
+    "geom:latitude":27.9312,
+    "geom:longitude":30.83841,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":61182,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0642\u0631\u0642\u0627\u0635"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u0648 \u0642\u0631\u0642\u0627\u0635"
+    ],
+    "name:dut_x_preferred":[
+        "Abu Qirqas"
+    ],
+    "name:eng_x_preferred":[
+        "Abu Qirqas"
+    ],
+    "name:fre_x_preferred":[
+        "Abu Qirqas"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d1\u10e3-\u10e5\u10d8\u10e0\u10e5\u10d0\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ab\u016b Qurq\u0101\u1e63"
+    ],
+    "name:ita_x_preferred":[
+        "Abu Qirqas"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0628\u0648 \u0642\u0631\u0642\u0627\u0635"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Kurkas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443-\u041a\u0443\u0440\u043a\u0430\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Abu Qirqas"
+    ],
+    "name:swe_x_preferred":[
+        "Markaz Ab\u016b Qurq\u0101\u015f"
+    ],
+    "name:unk_x_variant":[
+        "Abu Kerkae"
+    ],
+    "qs:name":"Ab\u016b Qurq\u0101\u015f",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092014221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362277,
+        "qs:id":124315,
+        "wd:id":"Q3646152"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051976,
+    "wof:geomhash":"7afec016e455d49ad2ba2f86101b14ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014221,
+            "locality_id":890433319,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":890433319,
+    "wof:lastmodified":1513956588,
+    "wof:name":"Ab\u016b Qurq\u0101\u015f",
+    "wof:parent_id":1092014221,
+    "wof:placetype":"locality",
+    "wof:population":61182,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83841,
+    27.9312,
+    30.83841,
+    27.9312
+],
+  "geometry": {"coordinates":[30.83841,27.9312],"type":"Point"}
+}

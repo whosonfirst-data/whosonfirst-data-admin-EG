@@ -1,0 +1,74 @@
+{
+  "id": 1259552267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.89583,31.08639,27.89583,31.08639",
+    "geom:latitude":31.08639,
+    "geom:longitude":27.89583,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Zawiyat Sidi Musa",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346069,
+    "gn:latitude":31.08639,
+    "gn:longitude":27.89583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat S\u012bd\u012b M\u016bs\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0101wiyet S\u012bdi M\u016bsa",
+        "Zawia Sidi Musa",
+        "Z\u00e2wyet S\u00eed\u00ee M\u00fbsa",
+        "Z\u0101wiyat S\u012bd\u012b M\u016bs\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092022115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346069
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"492563a7eb2fa9c4e131f20325aa6c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022115,
+            "locality_id":1259552267,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1259552267,
+    "wof:lastmodified":1537620544,
+    "wof:name":"Zawiyat Sidi Musa",
+    "wof:parent_id":1092022115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.89583,
+    31.08639,
+    27.89583,
+    31.08639
+],
+  "geometry": {"coordinates":[27.89583,31.08639],"type":"Point"}
+}

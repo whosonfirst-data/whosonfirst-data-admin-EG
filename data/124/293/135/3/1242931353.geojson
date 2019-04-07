@@ -1,0 +1,67 @@
+{
+  "id": 1242931353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82199,26.46377,31.82199,26.46377",
+    "geom:latitude":26.46377,
+    "geom:longitude":31.82199,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Ahaywah Sharq",
+    "gn:country_code":"EG",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445218,
+    "gn:latitude":26.46377,
+    "gn:longitude":31.82199,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Al A\u1e29\u0101ywah Sharq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445218
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"756b6744334609dccece8e97dcf5085c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023157,
+            "locality_id":1242931353,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1242931353,
+    "wof:lastmodified":1537049251,
+    "wof:name":"Al Ahaywah Sharq",
+    "wof:parent_id":1092023157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82199,
+    26.46377,
+    31.82199,
+    26.46377
+],
+  "geometry": {"coordinates":[31.82199,26.46377],"type":"Point"}
+}

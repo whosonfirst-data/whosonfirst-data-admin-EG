@@ -1,0 +1,73 @@
+{
+  "id": 1226819947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38488,30.56602,31.38488,30.56602",
+    "geom:latitude":30.56602,
+    "geom:longitude":31.38488,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Khilwat Abu Badawiyah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420514,
+    "gn:latitude":30.56602,
+    "gn:longitude":31.38488,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khilwat Ab\u016b Badaw\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0648\u0629 \u0623\u0628\u0648 \u0628\u062f\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khilwat Ab\u016b Badaw\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420514
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"83a16e64dc0365add46b4bee782739c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1226819947,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226819947,
+    "wof:lastmodified":1537621075,
+    "wof:name":"Khilwat Abu Badawiyah",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38488,
+    30.56602,
+    31.38488,
+    30.56602
+],
+  "geometry": {"coordinates":[31.38488,30.56602],"type":"Point"}
+}

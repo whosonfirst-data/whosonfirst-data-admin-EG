@@ -1,0 +1,72 @@
+{
+  "id": 1293064761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84334,27.5967,30.84334,27.5967",
+    "geom:latitude":27.5967,
+    "geom:longitude":30.84334,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Jarf Sarhan",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354924,
+    "gn:latitude":27.5967,
+    "gn:longitude":30.84334,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jarf Sar\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garf Sar\u1e25\u00e2n",
+        "Jurf Sir\u1e29\u0101n",
+        "Jarf Sar\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354924
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e66d066527dd46758e835eac5a70f1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1293064761,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1293064761,
+    "wof:lastmodified":1537620751,
+    "wof:name":"Jarf Sarhan",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84334,
+    27.5967,
+    30.84334,
+    27.5967
+],
+  "geometry": {"coordinates":[30.84334,27.5967],"type":"Point"}
+}

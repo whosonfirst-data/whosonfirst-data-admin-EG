@@ -1,0 +1,74 @@
+{
+  "id": 1226360101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82322,31.21325,31.82322,31.21325",
+    "geom:latitude":31.21325,
+    "geom:longitude":31.82322,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat as Sayyid Nadim",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421051,
+    "gn:latitude":31.21325,
+    "gn:longitude":31.82322,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat as Sayyid Nad\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0633\u064a\u062f \u0646\u062f\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat as Sayyid Nad\u012bm",
+        "\u2018Izbat as Sayyd Nad\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421051
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c07038d4c302e0049648a7d2ff885b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022325,
+            "locality_id":1226360101,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1226360101,
+    "wof:lastmodified":1537621094,
+    "wof:name":"`Izbat as Sayyid Nadim",
+    "wof:parent_id":1092022325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82322000000001,
+    31.21325,
+    31.82322000000001,
+    31.21325
+],
+  "geometry": {"coordinates":[31.82322000000001,31.21325],"type":"Point"}
+}

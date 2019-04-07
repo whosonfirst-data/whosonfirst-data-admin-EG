@@ -1,0 +1,65 @@
+{
+  "id": 1209224199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01136,31.17063,32.01136,31.17063",
+    "geom:latitude":31.17063,
+    "geom:longitude":32.01136,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al `Asafirah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361545,
+    "gn:latitude":31.17063,
+    "gn:longitude":32.01136,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018A\u015f\u0101firah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-\u2018A\u1e63\u00e2fra",
+        "Al \u2018A\u015f\u0101firah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361545
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a6430d88163af105ac59a59c26d11fba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209224199
+        }
+    ],
+    "wof:id":1209224199,
+    "wof:lastmodified":1537620943,
+    "wof:name":"Al `Asafirah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01136,
+    31.17063,
+    32.01136,
+    31.17063
+],
+  "geometry": {"coordinates":[32.01136,31.17063],"type":"Point"}
+}

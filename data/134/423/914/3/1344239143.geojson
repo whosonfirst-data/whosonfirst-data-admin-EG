@@ -1,0 +1,67 @@
+{
+  "id": 1344239143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86667,24.15,32.86667,24.15",
+    "geom:latitude":24.15,
+    "geom:longitude":32.86667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Nag` el-Balida",
+    "gn:country_code":"EG",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351656,
+    "gn:latitude":24.15,
+    "gn:longitude":32.86667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2018 el-Bal\u00eeda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092014635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351656
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6b30ec5d0b6b974ddc6ee715d3a1274c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014635,
+            "locality_id":1344239143,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1344239143,
+    "wof:lastmodified":1536615428,
+    "wof:name":"Nag` el-Balida",
+    "wof:parent_id":1092014635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86667,
+    24.15,
+    32.86667,
+    24.15
+],
+  "geometry": {"coordinates":[32.86667,24.15],"type":"Point"}
+}

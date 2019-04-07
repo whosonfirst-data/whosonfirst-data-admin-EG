@@ -1,0 +1,71 @@
+{
+  "id": 1309785971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31875,30.23303,31.31875,30.23303",
+    "geom:latitude":30.23303,
+    "geom:longitude":31.31875,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Manayil",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360785,
+    "gn:latitude":30.23303,
+    "gn:longitude":31.31875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Man\u0101yil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Man\u00e2yil",
+        "Al Man\u0101yil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092018143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360785
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0f00b5634e3a31832a7109fbd9b42f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018143,
+            "locality_id":1309785971,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1309785971,
+    "wof:lastmodified":1537620897,
+    "wof:name":"Al Manayil",
+    "wof:parent_id":1092018143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31875,
+    30.23303,
+    31.31875,
+    30.23303
+],
+  "geometry": {"coordinates":[31.31875,30.23303],"type":"Point"}
+}

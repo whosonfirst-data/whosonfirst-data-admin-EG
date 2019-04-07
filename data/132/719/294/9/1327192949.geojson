@@ -1,0 +1,73 @@
+{
+  "id": 1327192949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.551,31.37915,30.551,31.37915",
+    "geom:latitude":31.37915,
+    "geom:longitude":30.551,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Wuhaysh",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357077,
+    "gn:latitude":31.37915,
+    "gn:longitude":30.551,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat Wu\u1e29aysh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0648\u062d\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Weheish",
+        "\u2018Izbat Wa\u1e29aysh",
+        "\u2018Izbat Wu\u1e29aysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357077
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f35e20cd6d4d09c113191f35de50f0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "locality_id":1327192949,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1327192949,
+    "wof:lastmodified":1537620782,
+    "wof:name":"`Izbat Wuhaysh",
+    "wof:parent_id":85671057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.551,
+    31.37915,
+    30.551,
+    31.37915
+],
+  "geometry": {"coordinates":[30.551,31.37915],"type":"Point"}
+}

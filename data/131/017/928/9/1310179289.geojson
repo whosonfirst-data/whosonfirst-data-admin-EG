@@ -1,0 +1,74 @@
+{
+  "id": 1310179289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8721,31.12838,30.8721,31.12838",
+    "geom:latitude":31.12838,
+    "geom:longitude":30.8721,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Rashwan Agha",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415973,
+    "gn:latitude":31.12838,
+    "gn:longitude":30.8721,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Rashw\u0101n Agh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0634\u0648\u0627\u0646 \u0623\u063a\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Rashw\u0101n Agh\u0101",
+        "\u2018Izbat Rashw\u0101n \u0100gh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415973
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dafe41efa97a7964eb8d9b34f54675b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021829,
+            "locality_id":1310179289,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1310179289,
+    "wof:lastmodified":1537621008,
+    "wof:name":"`Izbat Rashwan Agha",
+    "wof:parent_id":1092021829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8721,
+    31.12838,
+    30.8721,
+    31.12838
+],
+  "geometry": {"coordinates":[30.8721,31.12838],"type":"Point"}
+}

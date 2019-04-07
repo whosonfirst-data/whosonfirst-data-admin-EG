@@ -1,0 +1,76 @@
+{
+  "id": 1225840939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86339,30.34714,30.86339,30.34714",
+    "geom:latitude":30.34714,
+    "geom:longitude":30.86339,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr at Tarayinah",
+    "gn:country_code":"EG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354400,
+    "gn:latitude":30.34714,
+    "gn:longitude":30.86339,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kafr a\u0163 \u0162ar\u0101yinah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0637\u0631\u0627\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-\u1e6car\u00e2yna",
+        "Kafr a\u0163 \u0162ar\u0101\u2019inah",
+        "Kafr a\u0163 \u0162ar\u0101yinah",
+        "Kafr a\u1e6d-\u1e6car\u0101ynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354400
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"93a0d1c16cbf562446c54690a1c24525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1225840939,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1225840939,
+    "wof:lastmodified":1537620710,
+    "wof:name":"Kafr at Tarayinah",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86339000000001,
+    30.34714,
+    30.86339000000001,
+    30.34714
+],
+  "geometry": {"coordinates":[30.86339000000001,30.34714],"type":"Point"}
+}

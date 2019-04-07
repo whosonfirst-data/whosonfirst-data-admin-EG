@@ -1,0 +1,81 @@
+{
+  "id": 1125853789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4976,26.67319,31.4976,26.67319",
+    "geom:latitude":26.67319,
+    "geom:longitude":31.4976,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":47821,
+    "gn:population":47821,
+    "iso:country":"EG",
+    "lbl:latitude":26.67319,
+    "lbl:longitude":31.4976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Giheina"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":354981,
+    "qs_pg:gn_pop":47821,
+    "qs_pg:name":"Juhaynah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":206235,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092021233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354981,
+        "qs_pg:id":206235
+    },
+    "wof:country":"EG",
+    "wof:created":1497293525,
+    "wof:geomhash":"6f2b1ac5fd59b1777113198558db6721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021233,
+            "locality_id":1125853789,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1125853789,
+    "wof:lastmodified":1509396103,
+    "wof:name":"Juhaynah",
+    "wof:parent_id":1092021233,
+    "wof:placetype":"locality",
+    "wof:population":47821,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4976,
+    26.67319,
+    31.4976,
+    26.67319
+],
+  "geometry": {"coordinates":[31.4976,26.67319],"type":"Point"}
+}

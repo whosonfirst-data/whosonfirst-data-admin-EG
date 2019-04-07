@@ -1,0 +1,74 @@
+{
+  "id": 1293560057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.70841,30.50652,31.70841,30.50652",
+    "geom:latitude":30.50652,
+    "geom:longitude":31.70841,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Fawarinah",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069879,
+    "gn:latitude":30.50652,
+    "gn:longitude":31.70841,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat al Faw\u0101rinah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0641\u0648\u0627\u0631\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Faw\u0101rinah",
+        "\u2018Izbat al Faw\u0101rnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069879
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5fc0039c2686a1063fdec6f5d96d9bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014103,
+            "locality_id":1293560057,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293560057,
+    "wof:lastmodified":1537621174,
+    "wof:name":"`Izbat al Fawarinah",
+    "wof:parent_id":1092014103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.70841,
+    30.50652,
+    31.70841,
+    30.50652
+],
+  "geometry": {"coordinates":[31.70841,30.50652],"type":"Point"}
+}

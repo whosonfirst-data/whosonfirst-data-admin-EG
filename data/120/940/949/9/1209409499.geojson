@@ -1,0 +1,65 @@
+{
+  "id": 1209409499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.27446,30.82863,32.27446,30.82863",
+    "geom:latitude":30.82863,
+    "geom:longitude":32.27446,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"`Izbat Akharsat Abu Makhluf",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357632,
+    "gn:latitude":30.82863,
+    "gn:longitude":32.27446,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Akh\u0101rsat Ab\u016b Makhl\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Akh\u00e2rsat Abu Makhl\u00fbf",
+        "\u2018Izbat Akh\u0101rsat Ab\u016b Makhl\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357632
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7b7808d3ab7f51dfad4b4be3506caba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209409499
+        }
+    ],
+    "wof:id":1209409499,
+    "wof:lastmodified":1537620800,
+    "wof:name":"`Izbat Akharsat Abu Makhluf",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.27446,
+    30.82863,
+    32.27446,
+    30.82863
+],
+  "geometry": {"coordinates":[32.27446,30.82863],"type":"Point"}
+}

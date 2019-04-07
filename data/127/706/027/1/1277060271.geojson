@@ -1,0 +1,72 @@
+{
+  "id": 1277060271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73277,27.85966,30.73277,27.85966",
+    "geom:latitude":27.85966,
+    "geom:longitude":30.73277,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hur",
+    "gn:country_code":"EG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":356001,
+    "gn:latitude":27.85966,
+    "gn:longitude":30.73277,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"H\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hawr",
+        "H\u00f4r",
+        "H\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356001
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fa9d2c0256d36106ef1cd9fab89fd58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022005,
+            "locality_id":1277060271,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1277060271,
+    "wof:lastmodified":1537620776,
+    "wof:name":"Hur",
+    "wof:parent_id":1092022005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73277,
+    27.85966,
+    30.73277,
+    27.85966
+],
+  "geometry": {"coordinates":[30.73277,27.85966],"type":"Point"}
+}

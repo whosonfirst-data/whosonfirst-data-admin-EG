@@ -1,0 +1,73 @@
+{
+  "id": 1259353939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.70881,30.66794,31.70881,30.66794",
+    "geom:latitude":30.66794,
+    "geom:longitude":31.70881,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Abu `Uwaydah",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069334,
+    "gn:latitude":30.66794,
+    "gn:longitude":31.70881,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Ab\u016b \u2018Uway\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0639\u0648\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b \u2018Uway\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069334
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"30b79a6c0e6d07eed209402e566e52b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1259353939,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259353939,
+    "wof:lastmodified":1537621172,
+    "wof:name":"`Izbat Abu `Uwaydah",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.70881,
+    30.66794,
+    31.70881,
+    30.66794
+],
+  "geometry": {"coordinates":[31.70881,30.66794],"type":"Point"}
+}

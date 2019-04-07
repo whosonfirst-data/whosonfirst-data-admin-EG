@@ -1,0 +1,73 @@
+{
+  "id": 1259754205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.54983,30.47902,31.54983,30.47902",
+    "geom:latitude":30.47902,
+    "geom:longitude":31.54983,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat ash Shaykh Sa`d",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415692,
+    "gn:latitude":30.47902,
+    "gn:longitude":31.54983,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat ash Shaykh Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0634\u064a\u062e \u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ash Shaykh Sa\u2018d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415692
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"344d5ecf96005c438df04c690bedaa93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015569,
+            "locality_id":1259754205,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259754205,
+    "wof:lastmodified":1537620992,
+    "wof:name":"`Izbat ash Shaykh Sa`d",
+    "wof:parent_id":1092015569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.54983,
+    30.47902,
+    31.54983,
+    30.47902
+],
+  "geometry": {"coordinates":[31.54983,30.47902],"type":"Point"}
+}

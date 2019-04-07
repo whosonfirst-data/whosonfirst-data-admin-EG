@@ -1,0 +1,67 @@
+{
+  "id": 1193016337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93078,29.48758,30.93078,29.48758",
+    "geom:latitude":29.48758,
+    "geom:longitude":30.93078,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Jazirat Kamil",
+    "gn:country_code":"EG",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434314,
+    "gn:latitude":29.48758,
+    "gn:longitude":30.93078,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat Jaz\u012brat K\u0101mil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092025417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434314
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b7a7ef33f0ea182fe4d6e25e2cf8221c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025417,
+            "locality_id":1193016337,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1193016337,
+    "wof:lastmodified":1536378067,
+    "wof:name":"`Izbat Jazirat Kamil",
+    "wof:parent_id":1092025417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93078,
+    29.48758,
+    30.93078,
+    29.48758
+],
+  "geometry": {"coordinates":[30.93078,29.48758],"type":"Point"}
+}

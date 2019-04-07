@@ -1,0 +1,75 @@
+{
+  "id": 1326652739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27749,31.03153,31.27749,31.03153",
+    "geom:latitude":31.03153,
+    "geom:longitude":31.27749,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tulaymah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347220,
+    "gn:latitude":31.03153,
+    "gn:longitude":31.27749,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"\u0162ulaymah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0644\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e6culeima",
+        "\u0162ulaymah",
+        "\u1e6culaymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092024253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347220
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"276490bab9e3a5fe78132cac83314481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024253,
+            "locality_id":1326652739,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1326652739,
+    "wof:lastmodified":1537620555,
+    "wof:name":"Tulaymah",
+    "wof:parent_id":1092024253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27749,
+    31.03153,
+    31.27749,
+    31.03153
+],
+  "geometry": {"coordinates":[31.27749,31.03153],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259600737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.43145,31.07366,31.43145,31.07366",
+    "geom:latitude":31.07366,
+    "geom:longitude":31.43145,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mit Mazzah",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352146,
+    "gn:latitude":31.07366,
+    "gn:longitude":31.43145,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"M\u012bt Mazz\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0645\u0632\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "M\u012bt Mazz\u0101\u1e29",
+        "M\u00eet Mazz\u00e2\u1e25",
+        "M\u012bt Mazz\u0101\u1e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352146
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6ca606bc657e915c59ab11ec570c0f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014935,
+            "locality_id":1259600737,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259600737,
+    "wof:lastmodified":1537620636,
+    "wof:name":"Mit Mazzah",
+    "wof:parent_id":1092014935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.43145,
+    31.07366,
+    31.43145,
+    31.07366
+],
+  "geometry": {"coordinates":[31.43145,31.07366],"type":"Point"}
+}

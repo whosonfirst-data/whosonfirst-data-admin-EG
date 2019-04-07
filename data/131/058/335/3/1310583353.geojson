@@ -1,0 +1,67 @@
+{
+  "id": 1310583353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9,24.31667,32.9,24.31667",
+    "geom:latitude":24.31667,
+    "geom:longitude":32.9,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Nag` Taufiq `Abdu Muhammad & Brothers",
+    "gn:country_code":"EG",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351538,
+    "gn:latitude":24.31667,
+    "gn:longitude":32.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2018 Taufiq \u2018Abdu Muhammad & Brothers",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092014635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351538
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"27cbac4fc01ec22e17d47024ce5e9e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014635,
+            "locality_id":1310583353,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1310583353,
+    "wof:lastmodified":1536804561,
+    "wof:name":"Nag` Taufiq `Abdu Muhammad & Brothers",
+    "wof:parent_id":1092014635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9,
+    24.31667,
+    32.9,
+    24.31667
+],
+  "geometry": {"coordinates":[32.9,24.31667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276726523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10258,31.17806,31.10258,31.17806",
+    "geom:latitude":31.17806,
+    "geom:longitude":31.10258,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Fahmi Mubarak",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419271,
+    "gn:latitude":31.17806,
+    "gn:longitude":31.10258,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"\u2018Izbat Fahm\u012b Mub\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0641\u0647\u0645\u064a \u0645\u0628\u0627\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Fahm\u012b Mub\u0101rak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419271
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0b09443df096b87df6a07fd1bb9ed958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1276726523,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276726523,
+    "wof:lastmodified":1537621045,
+    "wof:name":"`Izbat Fahmi Mubarak",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.10258,
+    31.17806,
+    31.10258,
+    31.17806
+],
+  "geometry": {"coordinates":[31.10258,31.17806],"type":"Point"}
+}

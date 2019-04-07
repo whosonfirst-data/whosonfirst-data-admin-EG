@@ -1,0 +1,67 @@
+{
+  "id": 1310413485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71552,30.78925,30.71552,30.78925",
+    "geom:latitude":30.78925,
+    "geom:longitude":30.71552,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kafr Damatyuh",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354331,
+    "gn:latitude":30.78925,
+    "gn:longitude":30.71552,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kafr Damaty\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354331
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f7fb477b036b8c5980bdd2fa1cca02fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1310413485,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310413485,
+    "wof:lastmodified":1537047681,
+    "wof:name":"Kafr Damatyuh",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71552,
+    30.78925,
+    30.71552,
+    30.78925
+],
+  "geometry": {"coordinates":[30.71552,30.78925],"type":"Point"}
+}

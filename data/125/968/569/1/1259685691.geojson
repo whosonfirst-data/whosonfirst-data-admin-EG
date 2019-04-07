@@ -1,0 +1,67 @@
+{
+  "id": 1259685691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46389,31.34139,30.46389,31.34139",
+    "geom:latitude":31.34139,
+    "geom:longitude":30.46389,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Ezbet Shahin",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357117,
+    "gn:latitude":31.34139,
+    "gn:longitude":30.46389,
+    "gn:modification_date":"1997-09-25",
+    "gn:name":"\u2018Ezbet Shah\u00een",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357117
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"056ffdd0c1465492d5518ac058a9750d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1259685691,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1259685691,
+    "wof:lastmodified":1537061106,
+    "wof:name":"`Ezbet Shahin",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46389000000001,
+    31.34139,
+    30.46389000000001,
+    31.34139
+],
+  "geometry": {"coordinates":[30.46389000000001,31.34139],"type":"Point"}
+}

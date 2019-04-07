@@ -1,0 +1,71 @@
+{
+  "id": 1310280833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78062,28.82297,30.78062,28.82297",
+    "geom:latitude":28.82297,
+    "geom:longitude":30.78062,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Jamhud",
+    "gn:country_code":"EG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361026,
+    "gn:latitude":28.82297,
+    "gn:longitude":30.78062,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jamh\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gamh\u00fbd",
+        "Al Jamh\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092017627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361026
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0cffb81dd124545dbe58434652b10ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017627,
+            "locality_id":1310280833,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1310280833,
+    "wof:lastmodified":1537620911,
+    "wof:name":"Al Jamhud",
+    "wof:parent_id":1092017627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78062000000001,
+    28.82297,
+    30.78062000000001,
+    28.82297
+],
+  "geometry": {"coordinates":[30.78062000000001,28.82297],"type":"Point"}
+}

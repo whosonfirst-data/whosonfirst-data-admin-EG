@@ -1,0 +1,73 @@
+{
+  "id": 1343335705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78033,31.30119,30.78033,31.30119",
+    "geom:latitude":31.30119,
+    "geom:longitude":30.78033,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat al `Atiqi",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416308,
+    "gn:latitude":31.30119,
+    "gn:longitude":30.78033,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbat al \u2018At\u012bq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u062a\u064a\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u2018At\u012bq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092024971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416308
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ca7f6bf7816e5229f2b0694fc4c51c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024971,
+            "locality_id":1343335705,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1343335705,
+    "wof:lastmodified":1537621027,
+    "wof:name":"`Izbat al `Atiqi",
+    "wof:parent_id":1092024971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78033,
+    31.30119,
+    30.78033,
+    31.30119
+],
+  "geometry": {"coordinates":[30.78033,31.30119],"type":"Point"}
+}

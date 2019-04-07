@@ -1,0 +1,73 @@
+{
+  "id": 1344216059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70044,31.16551,30.70044,31.16551",
+    "geom:latitude":31.16551,
+    "geom:longitude":30.70044,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat al Mala`ib",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415803,
+    "gn:latitude":31.16551,
+    "gn:longitude":30.70044,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u2018Izbat al Mal\u0101\u2018ib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0645\u0644\u0627\u0639\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Mal\u0101\u2018ib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415803
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"41968df6b722f041bafe60d5c45cdbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1344216059,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1344216059,
+    "wof:lastmodified":1537620999,
+    "wof:name":"`Izbat al Mala`ib",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70044,
+    31.16551,
+    30.70044,
+    31.16551
+],
+  "geometry": {"coordinates":[30.70044,31.16551],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310020169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60833,31.08194,31.60833,31.08194",
+    "geom:latitude":31.08194,
+    "geom:longitude":31.60833,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Minyat Mijahid",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419616,
+    "gn:latitude":31.08194,
+    "gn:longitude":31.60833,
+    "gn:modification_date":"2001-02-05",
+    "gn:name":"Minyat Mij\u0101hid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092016227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419616
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4e5b3a3a06ab32803e671697822fce93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016227,
+            "locality_id":1310020169,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1310020169,
+    "wof:lastmodified":1536619978,
+    "wof:name":"Minyat Mijahid",
+    "wof:parent_id":1092016227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60833,
+    31.08194,
+    31.60833,
+    31.08194
+],
+  "geometry": {"coordinates":[31.60833,31.08194],"type":"Point"}
+}

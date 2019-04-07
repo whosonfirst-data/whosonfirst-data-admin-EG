@@ -1,0 +1,66 @@
+{
+  "id": 1209517197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.24968,30.82692,30.24968,30.82692",
+    "geom:latitude":30.82692,
+    "geom:longitude":30.24968,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat as Suttumayah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357376,
+    "gn:latitude":30.82692,
+    "gn:longitude":30.24968,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat as Suttum\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet el-Suttum\u00e2ya",
+        "\u2018Ezbet el-Suttuh\u00e2ya",
+        "\u2018Izbat as Suttum\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357376
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"be3ff2dcb20cb1525804d41756c1caf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209517197
+        }
+    ],
+    "wof:id":1209517197,
+    "wof:lastmodified":1537620791,
+    "wof:name":"`Izbat as Suttumayah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.24968,
+    30.82692,
+    30.24968,
+    30.82692
+],
+  "geometry": {"coordinates":[30.24968,30.82692],"type":"Point"}
+}

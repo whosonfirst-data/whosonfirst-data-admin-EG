@@ -1,0 +1,70 @@
+{
+  "id": 1209689675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76475,30.6343,31.76475,30.6343",
+    "geom:latitude":30.6343,
+    "geom:longitude":31.76475,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Hassasah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354662,
+    "gn:latitude":30.6343,
+    "gn:longitude":31.76475,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat al \u1e28ass\u0101sah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062d\u0633\u0627\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-\u1e24as\u00e2sna",
+        "Kafr al \u1e28as\u0101sinah",
+        "\u2018Izbat al \u1e28ass\u0101sah",
+        "\u2018Izbat al-\u1e24ass\u0101sah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354662
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"77e09be51df098ff8207c9decdbb41b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209689675
+        }
+    ],
+    "wof:id":1209689675,
+    "wof:lastmodified":1537620734,
+    "wof:name":"`Izbat al Hassasah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76475,
+    30.6343,
+    31.76475,
+    30.6343
+],
+  "geometry": {"coordinates":[31.76475,30.6343],"type":"Point"}
+}

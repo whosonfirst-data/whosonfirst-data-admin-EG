@@ -1,0 +1,76 @@
+{
+  "id": 1243228109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71763,31.18417,30.71763,31.18417",
+    "geom:latitude":31.18417,
+    "geom:longitude":30.71763,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Usayfir",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360498,
+    "gn:latitude":31.18417,
+    "gn:longitude":30.71763,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Al U\u015fayfir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0635\u064a\u0641\u0631"
+    ],
+    "name:und_x_variant":[
+        "El-A\u1e63eifar",
+        "Laseifar",
+        "Al U\u015fayfir",
+        "Al-U\u1e63ayfir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360498
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6eb95df6743efe22a023d9eb1f74c83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1243228109,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1243228109,
+    "wof:lastmodified":1537620880,
+    "wof:name":"Al Usayfir",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71763,
+    31.18417,
+    30.71763,
+    31.18417
+],
+  "geometry": {"coordinates":[30.71763,31.18417],"type":"Point"}
+}

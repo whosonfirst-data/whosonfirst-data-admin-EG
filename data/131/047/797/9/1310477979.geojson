@@ -1,0 +1,72 @@
+{
+  "id": 1310477979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4,27.03333,31.4,27.03333",
+    "geom:latitude":27.03333,
+    "geom:longitude":31.4,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nazlat Bakhum",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351147,
+    "gn:latitude":27.03333,
+    "gn:longitude":31.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat B\u0101kh\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet Bakhum",
+        "Nazlat B\u0101kh\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092016975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351147
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5c0ca599be1bbcd0239e4590ad93e55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016975,
+            "locality_id":1310477979,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1310477979,
+    "wof:lastmodified":1537620609,
+    "wof:name":"Nazlat Bakhum",
+    "wof:parent_id":1092016975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4,
+    27.03333,
+    31.4,
+    27.03333
+],
+  "geometry": {"coordinates":[31.4,27.03333],"type":"Point"}
+}

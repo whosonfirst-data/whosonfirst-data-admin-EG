@@ -1,0 +1,74 @@
+{
+  "id": 1243263023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10164,30.98523,31.10164,30.98523",
+    "geom:latitude":30.98523,
+    "geom:longitude":31.10164,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Ratib",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357146,
+    "gn:latitude":30.98523,
+    "gn:longitude":31.10164,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"\u2018Izbat R\u0101tib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0627\u062a\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat R\u0101tib",
+        "\u2018Ezbet R\u00e2tib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357146
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c075e93f4ed4f41f562b3cfe21e7e431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1243263023,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1243263023,
+    "wof:lastmodified":1537620784,
+    "wof:name":"`Izbat Ratib",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.10164,
+    30.98523,
+    31.10164,
+    30.98523
+],
+  "geometry": {"coordinates":[31.10164,30.98523],"type":"Point"}
+}

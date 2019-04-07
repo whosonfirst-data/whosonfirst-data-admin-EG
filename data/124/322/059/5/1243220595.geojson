@@ -1,0 +1,67 @@
+{
+  "id": 1243220595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.60222,29.45611,34.60222,29.45611",
+    "geom:latitude":29.45611,
+    "geom:longitude":34.60222,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Al Hamymat",
+    "gn:country_code":"EG",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413284,
+    "gn:latitude":29.45611,
+    "gn:longitude":34.60222,
+    "gn:modification_date":"2007-03-19",
+    "gn:name":"Al \u1e28amym\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671089,
+        1092023241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413284
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bb54095e0473e6db04421d4dc6513d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023241,
+            "locality_id":1243220595,
+            "region_id":85671089
+        }
+    ],
+    "wof:id":1243220595,
+    "wof:lastmodified":1536632822,
+    "wof:name":"Al Hamymat",
+    "wof:parent_id":1092023241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.60222,
+    29.45611,
+    34.60222,
+    29.45611
+],
+  "geometry": {"coordinates":[34.60222,29.45611],"type":"Point"}
+}

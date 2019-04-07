@@ -1,0 +1,74 @@
+{
+  "id": 1276726461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.89809,31.13982,30.89809,31.13982",
+    "geom:latitude":31.13982,
+    "geom:longitude":30.89809,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"At Turabiyah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547543,
+    "gn:latitude":31.13982,
+    "gn:longitude":30.89809,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"A\u0163 \u0162ur\u0101b\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0631\u0627\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162ur\u0101b\u012byah",
+        "A\u1e6d \u1e6cur\u0101biyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547543
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"47c6150f3004af46a66dfc4d09a725f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1276726461,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276726461,
+    "wof:lastmodified":1537621279,
+    "wof:name":"At Turabiyah",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89809,
+    31.13982,
+    30.89809,
+    31.13982
+],
+  "geometry": {"coordinates":[30.89809,31.13982],"type":"Point"}
+}

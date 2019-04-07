@@ -1,0 +1,74 @@
+{
+  "id": 1344171097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.84862,31.1263,31.84862,31.1263",
+    "geom:latitude":31.1263,
+    "geom:longitude":31.84862,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat `Awad",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421127,
+    "gn:latitude":31.1263,
+    "gn:longitude":31.84862,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat \u2018Awa\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0639\u0648\u0636"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u2018Awa\u1e11",
+        "\u2018Izbat \u2018Awa\u1e0d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421127
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a51a78401644cfd09d9eed4bea96c802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018397,
+            "locality_id":1344171097,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1344171097,
+    "wof:lastmodified":1537621098,
+    "wof:name":"`Izbat `Awad",
+    "wof:parent_id":1092018397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.84862,
+    31.1263,
+    31.84862,
+    31.1263
+],
+  "geometry": {"coordinates":[31.84862,31.1263],"type":"Point"}
+}

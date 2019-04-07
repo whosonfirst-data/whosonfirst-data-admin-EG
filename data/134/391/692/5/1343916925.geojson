@@ -1,0 +1,73 @@
+{
+  "id": 1343916925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14016,31.16713,31.14016,31.16713",
+    "geom:latitude":31.16713,
+    "geom:longitude":31.14016,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Diyab",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419258,
+    "gn:latitude":31.16713,
+    "gn:longitude":31.14016,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"\u2018Izbat Diy\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062f\u064a\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Diy\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419258
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6704ed425bf82f017adecf24cdeda532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1343916925,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1343916925,
+    "wof:lastmodified":1537621045,
+    "wof:name":"`Izbat Diyab",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14016,
+    31.16713,
+    31.14016,
+    31.16713
+],
+  "geometry": {"coordinates":[31.14016,31.16713],"type":"Point"}
+}

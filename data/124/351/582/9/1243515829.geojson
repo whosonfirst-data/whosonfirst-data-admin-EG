@@ -1,0 +1,74 @@
+{
+  "id": 1243515829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6871,25.66979,32.6871,25.66979",
+    "geom:latitude":25.66979,
+    "geom:longitude":32.6871,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Naj` az Zanaqitah",
+    "gn:country_code":"EG",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9073424,
+    "gn:latitude":25.66979,
+    "gn:longitude":32.6871,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Naj\u2018 az Zan\u0101qi\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062c\u0639 \u0627\u0644\u0632\u0646\u0627\u0642\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Naj\u2018 az Zan\u0101qi\u0163ah",
+        "Naj\u2018 az-Zan\u0101q\u1e6dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9073424
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"819b3cead3d0ff433ef2b42e3c1e449d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023115,
+            "locality_id":1243515829,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1243515829,
+    "wof:lastmodified":1537621227,
+    "wof:name":"Naj` az Zanaqitah",
+    "wof:parent_id":1092023115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6871,
+    25.66979,
+    32.6871,
+    25.66979
+],
+  "geometry": {"coordinates":[32.6871,25.66979],"type":"Point"}
+}

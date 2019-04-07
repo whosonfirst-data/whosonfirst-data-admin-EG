@@ -1,0 +1,67 @@
+{
+  "id": 1276118101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51161,29.3955,30.51161,29.3955",
+    "geom:latitude":29.3955,
+    "geom:longitude":30.51161,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat an Namus",
+    "gn:country_code":"EG",
+    "gn:dem":-34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434844,
+    "gn:latitude":29.3955,
+    "gn:longitude":30.51161,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat an N\u0101m\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434844
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5a954f7121ad4d5113aff11a3214c0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1276118101,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1276118101,
+    "wof:lastmodified":1537064173,
+    "wof:name":"`Izbat an Namus",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51161,
+    29.3955,
+    30.51161,
+    29.3955
+],
+  "geometry": {"coordinates":[30.51161,29.3955],"type":"Point"}
+}

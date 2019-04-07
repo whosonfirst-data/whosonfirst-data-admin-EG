@@ -1,0 +1,71 @@
+{
+  "id": 1226198649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.76667,25.93333,32.76667,25.93333",
+    "geom:latitude":25.93333,
+    "geom:longitude":32.76667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Humr wa al Ja`afirah",
+    "gn:country_code":"EG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361128,
+    "gn:latitude":25.93333,
+    "gn:longitude":32.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28umr wa al Ja\u2018\u0101firah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u1e24umr and el Ga\u2018\u00e2fra",
+        "Al \u1e28umr wa al Ja\u2018\u0101firah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092023581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361128
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"df8f1a54a6dbc968e9cf4152885a3523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023581,
+            "locality_id":1226198649,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1226198649,
+    "wof:lastmodified":1537620915,
+    "wof:name":"Al Humr wa al Ja`afirah",
+    "wof:parent_id":1092023581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.76667,
+    25.93333,
+    32.76667,
+    25.93333
+],
+  "geometry": {"coordinates":[32.76667,25.93333],"type":"Point"}
+}

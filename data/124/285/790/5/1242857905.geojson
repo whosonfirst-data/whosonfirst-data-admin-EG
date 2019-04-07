@@ -1,0 +1,71 @@
+{
+  "id": 1242857905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71639,30.70028,31.71639,30.70028",
+    "geom:latitude":30.70028,
+    "geom:longitude":31.71639,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr `Umar Kurdi",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354022,
+    "gn:latitude":30.70028,
+    "gn:longitude":31.71639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u2018Umar Kurd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zim\u0101m Kafr \u2018Umar Kurd\u012b",
+        "Kafr \u2018Umar Kurd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354022
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d722d6f1405306cbc54a3f8c46b86a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1242857905,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1242857905,
+    "wof:lastmodified":1537620682,
+    "wof:name":"Kafr `Umar Kurdi",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71639,
+    30.70028,
+    31.71639,
+    30.70028
+],
+  "geometry": {"coordinates":[31.71639,30.70028],"type":"Point"}
+}

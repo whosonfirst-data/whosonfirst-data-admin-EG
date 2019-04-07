@@ -1,0 +1,72 @@
+{
+  "id": 1310293873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73968,27.94457,30.73968,27.94457",
+    "geom:latitude":27.94457,
+    "geom:longitude":30.73968,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Birba al Kubra",
+    "gn:country_code":"EG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361416,
+    "gn:latitude":27.94457,
+    "gn:longitude":30.73968,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Birb\u0101 al Kubr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Birba el Kubra",
+        "Al Barb\u00e1 al Kubr\u00e1",
+        "Al Birb\u0101 al Kubr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092014221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361416
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3fd984e2d2232558b285f5df2d8d125a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014221,
+            "locality_id":1310293873,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1310293873,
+    "wof:lastmodified":1537620934,
+    "wof:name":"Al Birba al Kubra",
+    "wof:parent_id":1092014221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73968,
+    27.94457,
+    30.73968,
+    27.94457
+],
+  "geometry": {"coordinates":[30.73968,27.94457],"type":"Point"}
+}

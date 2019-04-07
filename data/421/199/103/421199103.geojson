@@ -1,0 +1,82 @@
+{
+  "id": 421199103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.36812,30.21035,31.36812,30.21035",
+    "geom:latitude":30.21035,
+    "geom:longitude":31.36812,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "El-Kh\u00e2nk\u00e2h"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":360928,
+    "qs:gn_pop":62434,
+    "qs:name":"\u0627\u0644\u062e\u0627\u0646\u0643\u0647",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0642\u0644\u064a\u0648\u0628\u064a\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":385,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":189137,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1521692,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092018143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360928,
+        "gp:id":1521692,
+        "qs:id":189137
+    },
+    "wof:country":"EG",
+    "wof:created":1459009978,
+    "wof:geomhash":"f592bcc9aa811de62603cc78247508fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018143,
+            "locality_id":421199103,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":421199103,
+    "wof:lastmodified":1505340761,
+    "wof:name":"\u0627\u0644\u062e\u0627\u0646\u0643\u0647",
+    "wof:parent_id":1092018143,
+    "wof:placetype":"locality",
+    "wof:population":62434,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.36812,
+    30.21035,
+    31.36812,
+    30.21035
+],
+  "geometry": {"coordinates":[31.36812,30.21035],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243568675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60806,31.26303,31.60806,31.26303",
+    "geom:latitude":31.26303,
+    "geom:longitude":31.60806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat al Hadi",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421478,
+    "gn:latitude":31.26303,
+    "gn:longitude":31.60806,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al H\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0647\u0627\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al H\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092024759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421478
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ddd399f8c3ae150f10821efc7802e284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024759,
+            "locality_id":1243568675,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1243568675,
+    "wof:lastmodified":1537621116,
+    "wof:name":"`Izbat al Hadi",
+    "wof:parent_id":1092024759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60806,
+    31.26303,
+    31.60806,
+    31.26303
+],
+  "geometry": {"coordinates":[31.60806,31.26303],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310557343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.945,26.21636,31.945,26.21636",
+    "geom:latitude":26.21636,
+    "geom:longitude":31.945,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ash Shaykh Barakah",
+    "gn:country_code":"EG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359995,
+    "gn:latitude":26.21636,
+    "gn:longitude":31.945,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shaykh Barakah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sheikh Baraka",
+        "Ash Shaykh Barakah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092017143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359995
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"25227dce619f3844ba2cd9642a23a961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017143,
+            "locality_id":1310557343,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1310557343,
+    "wof:lastmodified":1537620861,
+    "wof:name":"Ash Shaykh Barakah",
+    "wof:parent_id":1092017143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.945,
+    26.21636,
+    31.945,
+    26.21636
+],
+  "geometry": {"coordinates":[31.945,26.21636],"type":"Point"}
+}

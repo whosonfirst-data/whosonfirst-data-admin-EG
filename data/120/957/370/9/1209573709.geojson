@@ -1,0 +1,65 @@
+{
+  "id": 1209573709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.57609,25.3989,32.57609,25.3989",
+    "geom:latitude":25.3989,
+    "geom:longitude":32.57609,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` al Hamidat",
+    "gn:country_code":"EG",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351628,
+    "gn:latitude":25.3989,
+    "gn:longitude":32.57609,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 al \u1e28am\u012bd\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 el-Hamad\u00e2t",
+        "Naj\u2018 al \u1e28am\u012bd\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351628
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"17651611c857fcad354a4488ded9e084",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209573709
+        }
+    ],
+    "wof:id":1209573709,
+    "wof:lastmodified":1537620628,
+    "wof:name":"Naj` al Hamidat",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.57609,
+    25.3989,
+    32.57609,
+    25.3989
+],
+  "geometry": {"coordinates":[32.57609,25.3989],"type":"Point"}
+}

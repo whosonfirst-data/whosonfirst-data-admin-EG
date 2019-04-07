@@ -1,0 +1,74 @@
+{
+  "id": 1092018763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.063115,
+    "geom:area_square_m":672660060.744547,
+    "geom:bbox":"30.227253,30.32745,30.665896,30.590036",
+    "geom:latitude":30.478702,
+    "geom:longitude":30.459406,
+    "iso:country":"EG",
+    "lbl:latitude":30.482077,
+    "lbl:longitude":30.462729,
+    "meso:admin_1":"Behera",
+    "meso:diss_me":"El-Nobareyah CityBehera",
+    "meso:gadm_admin":"Unorganized in Al Buhayrah",
+    "meso:gadm_hasc2":"EG.IK.UO",
+    "meso:gaul_admin":"Zemam Out",
+    "meso:mps_x":30.462729,
+    "meso:mps_y":30.482077,
+    "meso:name_en":"El-Nobareyah City",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.482077,
+    "mps:longitude":30.462729,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Zemam Out",
+        "Unorganized in Al Buhayrah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.IK.UO"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897301,
+    "wof:geomhash":"eebbe4be3773c9822a4723a6c586ad96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018763,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1092018763,
+    "wof:lastmodified":1536615087,
+    "wof:name":"El-Nobareyah City",
+    "wof:parent_id":85671035,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"UO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.227253,
+    30.32745,
+    30.665896,
+    30.590036
+],
+  "geometry": {"coordinates":[[[30.626046,30.405748],[30.586182,30.388222],[30.567306,30.391047],[30.540842,30.382405],[30.541691,30.362742],[30.544146,30.347206],[30.541114,30.32745],[30.227253,30.495478],[30.294738,30.559083],[30.353454,30.590036],[30.530345,30.565376],[30.563053,30.554161],[30.598499,30.536407],[30.665896,30.462323],[30.626046,30.405748]]],"type":"Polygon"}
+}

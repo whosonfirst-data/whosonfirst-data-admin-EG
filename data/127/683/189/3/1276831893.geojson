@@ -1,0 +1,73 @@
+{
+  "id": 1276831893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06833,31.3573,32.06833,31.3573",
+    "geom:latitude":31.3573,
+    "geom:longitude":32.06833,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ad Dibah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421566,
+    "gn:latitude":31.3573,
+    "gn:longitude":32.06833,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ad D\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad D\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671021,
+        1092018325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421566
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f02fbd954a4631936a810d270fb4db6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018325,
+            "locality_id":1276831893,
+            "region_id":85671021
+        }
+    ],
+    "wof:id":1276831893,
+    "wof:lastmodified":1537621116,
+    "wof:name":"Ad Dibah",
+    "wof:parent_id":1092018325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06833,
+    31.3573,
+    32.06833,
+    31.3573
+],
+  "geometry": {"coordinates":[32.06833,31.3573],"type":"Point"}
+}

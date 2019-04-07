@@ -1,0 +1,73 @@
+{
+  "id": 1226761751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33164,31.34773,31.33164,31.34773",
+    "geom:latitude":31.34773,
+    "geom:longitude":31.33164,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qaryat Jalyah al Ula",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419911,
+    "gn:latitude":31.34773,
+    "gn:longitude":31.33164,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaryat J\u0101lyah al \u016al\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u062c\u0627\u0644\u064a\u0629 \u0627\u0644\u0627\u0648\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Qaryat J\u0101lyah al \u016al\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092015611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419911
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ea56a1dc3f01e4750a0274e2d6f4f5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015611,
+            "locality_id":1226761751,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1226761751,
+    "wof:lastmodified":1537621066,
+    "wof:name":"Qaryat Jalyah al Ula",
+    "wof:parent_id":1092015611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33164,
+    31.34773,
+    31.33164,
+    31.34773
+],
+  "geometry": {"coordinates":[31.33164,31.34773],"type":"Point"}
+}

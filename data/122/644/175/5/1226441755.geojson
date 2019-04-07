@@ -1,0 +1,74 @@
+{
+  "id": 1226441755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83285,30.88305,30.83285,30.88305",
+    "geom:latitude":30.88305,
+    "geom:longitude":30.83285,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Asdimah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360069,
+    "gn:latitude":30.88305,
+    "gn:longitude":30.83285,
+    "gn:modification_date":"2017-07-12",
+    "gn:name":"Asd\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u062f\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Asd\u00eema",
+        "Asd\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092021623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360069
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c3073b24bac694b9a8a196f326d7c4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021623,
+            "locality_id":1226441755,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1226441755,
+    "wof:lastmodified":1537620865,
+    "wof:name":"Asdimah",
+    "wof:parent_id":1092021623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83285,
+    30.88305,
+    30.83285,
+    30.88305
+],
+  "geometry": {"coordinates":[30.83285,30.88305],"type":"Point"}
+}

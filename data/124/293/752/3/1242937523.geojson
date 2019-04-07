@@ -1,0 +1,76 @@
+{
+  "id": 1242937523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05119,31.21114,31.05119,31.21114",
+    "geom:latitude":31.21114,
+    "geom:longitude":31.05119,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Sidi Ghazi",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":348507,
+    "gn:latitude":31.21114,
+    "gn:longitude":31.05119,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"S\u012bd\u012b Gh\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u012bd\u012b Gh\u0101z\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u062f\u064a \u063a\u0627\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "S\u00eedi Gh\u00e2zi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":348507
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"da4fd57740af6dfe60368ebd746b97ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1242937523,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1242937523,
+    "wof:lastmodified":1537620569,
+    "wof:name":"Sidi Ghazi",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05119,
+    31.21114,
+    31.05119,
+    31.21114
+],
+  "geometry": {"coordinates":[31.05119,31.21114],"type":"Point"}
+}

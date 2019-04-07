@@ -1,0 +1,72 @@
+{
+  "id": 1293565457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76667,27.61667,30.76667,27.61667",
+    "geom:latitude":27.61667,
+    "geom:longitude":30.76667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Zawiyat Harun",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346086,
+    "gn:latitude":27.61667,
+    "gn:longitude":30.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat H\u0101r\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyet H\u00e2r\u00fbn",
+        "Z\u0101wiyat H\u0101r\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346086
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b662a2b76349a55db514dcb6740d620b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1293565457,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1293565457,
+    "wof:lastmodified":1537620545,
+    "wof:name":"Zawiyat Harun",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76667,
+    27.61667000000001,
+    30.76667,
+    27.61667000000001
+],
+  "geometry": {"coordinates":[30.76667,27.61667000000001],"type":"Point"}
+}

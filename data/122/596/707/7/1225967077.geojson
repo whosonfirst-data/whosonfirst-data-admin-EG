@@ -1,0 +1,74 @@
+{
+  "id": 1225967077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14644,30.68516,31.14644,30.68516",
+    "geom:latitude":30.68516,
+    "geom:longitude":31.14644,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr Kila al Bab",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354211,
+    "gn:latitude":30.68516,
+    "gn:longitude":31.14644,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kafr Kil\u0101 al B\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0643\u0644\u0627 \u0627\u0644\u0628\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Kafr Kila el-B\u00e2b",
+        "Kafr Kil\u0101 al B\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354211
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3c1f196d337467ca6cc2279ebd9cb79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1225967077,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1225967077,
+    "wof:lastmodified":1537620696,
+    "wof:name":"Kafr Kila al Bab",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14644,
+    30.68516,
+    31.14644,
+    30.68516
+],
+  "geometry": {"coordinates":[31.14644,30.68516],"type":"Point"}
+}

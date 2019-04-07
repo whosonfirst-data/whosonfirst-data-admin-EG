@@ -1,0 +1,72 @@
+{
+  "id": 1310485289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.69133,30.7034,31.69133,30.7034",
+    "geom:latitude":30.7034,
+    "geom:longitude":31.69133,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Awlad Zughli",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354378,
+    "gn:latitude":30.7034,
+    "gn:longitude":31.69133,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Awl\u0101d Zughl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Nimr",
+        "Kafr Aul\u00e2d Zughli",
+        "Kafr Awl\u0101d Zughl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354378
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2087368a8f5679c9cc284a193cb2f433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1310485289,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310485289,
+    "wof:lastmodified":1537620708,
+    "wof:name":"Kafr Awlad Zughli",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.69133,
+    30.7034,
+    31.69133,
+    30.7034
+],
+  "geometry": {"coordinates":[31.69133,30.7034],"type":"Point"}
+}

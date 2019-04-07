@@ -1,0 +1,73 @@
+{
+  "id": 1343241139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47908,30.54636,31.47908,30.54636",
+    "geom:latitude":30.54636,
+    "geom:longitude":31.47908,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Labibah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420503,
+    "gn:latitude":30.54636,
+    "gn:longitude":31.47908,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Lab\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0644\u0628\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Lab\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420503
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dded50f1d4ffd4474e3c4b32071d0482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1343241139,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343241139,
+    "wof:lastmodified":1537621075,
+    "wof:name":"`Izbat Labibah",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47908,
+    30.54636,
+    31.47908,
+    30.54636
+],
+  "geometry": {"coordinates":[31.47908,30.54636],"type":"Point"}
+}

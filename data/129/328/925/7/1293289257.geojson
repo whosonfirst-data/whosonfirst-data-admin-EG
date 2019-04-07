@@ -1,0 +1,74 @@
+{
+  "id": 1293289257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05739,30.56428,31.05739,30.56428",
+    "geom:latitude":30.56428,
+    "geom:longitude":31.05739,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zuwayr wa Minshat Ibrahim Habashi",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345959,
+    "gn:latitude":30.56428,
+    "gn:longitude":31.05739,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Zuwayr wa Minsh\u0101t Ibr\u0101h\u012bm \u1e28abash\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u064a\u0631 \u0648 \u0645\u0646\u0634\u0627\u0629 \u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u062d\u0628\u0634\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ziweir and Minsh\u00e2t Ibr\u00e2h\u00eem \u1e24abashi",
+        "Zuwayr wa Minsh\u0101t Ibr\u0101h\u012bm \u1e28abash\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092024543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345959
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0477840a59029a8508be3d367b1b024a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024543,
+            "locality_id":1293289257,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1293289257,
+    "wof:lastmodified":1537620543,
+    "wof:name":"Zuwayr wa Minshat Ibrahim Habashi",
+    "wof:parent_id":1092024543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05739,
+    30.56428,
+    31.05739,
+    30.56428
+],
+  "geometry": {"coordinates":[31.05739,30.56428],"type":"Point"}
+}

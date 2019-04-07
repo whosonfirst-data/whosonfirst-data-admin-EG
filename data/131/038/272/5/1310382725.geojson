@@ -1,0 +1,67 @@
+{
+  "id": 1310382725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2,30.2,31.2,30.2",
+    "geom:latitude":30.2,
+    "geom:longitude":31.2,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ama",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360453,
+    "gn:latitude":30.2,
+    "gn:longitude":31.2,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092023447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360453
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d8f47afcc992441471cdbda50041d6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023447,
+            "locality_id":1310382725,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1310382725,
+    "wof:lastmodified":1537090898,
+    "wof:name":"Ama",
+    "wof:parent_id":1092023447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2,
+    30.2,
+    31.2,
+    30.2
+],
+  "geometry": {"coordinates":[31.2,30.2],"type":"Point"}
+}

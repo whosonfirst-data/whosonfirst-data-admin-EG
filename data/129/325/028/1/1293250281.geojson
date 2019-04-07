@@ -1,0 +1,72 @@
+{
+  "id": 1293250281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91667,26.25,31.91667,26.25",
+    "geom:latitude":26.25,
+    "geom:longitude":31.91667,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Wahliyah al Kabirah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360476,
+    "gn:latitude":26.25,
+    "gn:longitude":31.91667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Wa\u1e29l\u012byah al Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Wa\u1e25l\u00eeya el Keb\u00eera",
+        "Al Wa\u1e29l\u012byah al Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092017143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360476
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"da7e3721cf844d0dc374136f089e5849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017143,
+            "locality_id":1293250281,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1293250281,
+    "wof:lastmodified":1537620879,
+    "wof:name":"Al Wahliyah al Kabirah",
+    "wof:parent_id":1092017143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91667,
+    26.25,
+    31.91667,
+    26.25
+],
+  "geometry": {"coordinates":[31.91667,26.25],"type":"Point"}
+}

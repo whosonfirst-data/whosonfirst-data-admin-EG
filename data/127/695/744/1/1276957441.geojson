@@ -1,0 +1,71 @@
+{
+  "id": 1276957441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83333,30.68333,31.83333,30.68333",
+    "geom:latitude":30.68333,
+    "geom:longitude":31.83333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr an Naja'irah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354538,
+    "gn:latitude":30.68333,
+    "gn:longitude":31.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr an Naj\u0101\u2019irah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Nag\u00e2yra",
+        "Kafr an Naj\u0101\u2019irah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354538
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e13d307f19619b1b0c1b7591fb2bdf11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1276957441,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276957441,
+    "wof:lastmodified":1537620722,
+    "wof:name":"Kafr an Naja'irah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83333,
+    30.68333,
+    31.83333,
+    30.68333
+],
+  "geometry": {"coordinates":[31.83333,30.68333],"type":"Point"}
+}

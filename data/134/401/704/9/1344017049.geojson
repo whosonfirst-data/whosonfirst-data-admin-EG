@@ -1,0 +1,73 @@
+{
+  "id": 1344017049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02698,31.31801,31.02698,31.31801",
+    "geom:latitude":31.31801,
+    "geom:longitude":31.02698,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Qaryat Taba al Jadidah",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419799,
+    "gn:latitude":31.31801,
+    "gn:longitude":31.02698,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qaryat \u0162\u0101b\u0101 al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0637\u0627\u0628\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat \u0162\u0101b\u0101 al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419799
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e43e340cdd2de84cd07bedd843e46010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1344017049,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1344017049,
+    "wof:lastmodified":1537621060,
+    "wof:name":"Qaryat Taba al Jadidah",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02698,
+    31.31801,
+    31.02698,
+    31.31801
+],
+  "geometry": {"coordinates":[31.02698,31.31801],"type":"Point"}
+}

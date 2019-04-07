@@ -1,0 +1,71 @@
+{
+  "id": 1193236277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85,26.31667,31.85,26.31667",
+    "geom:latitude":26.31667,
+    "geom:longitude":31.85,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Bani `Aysh",
+    "gn:country_code":"EG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359261,
+    "gn:latitude":26.31667,
+    "gn:longitude":31.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b \u2018Aysh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni \u2018Aish",
+        "Ban\u012b \u2018Aysh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092021127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359261
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"be8e1dae7beb1e141e0521560fb56cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021127,
+            "locality_id":1193236277,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1193236277,
+    "wof:lastmodified":1537620834,
+    "wof:name":"Bani `Aysh",
+    "wof:parent_id":1092021127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85,
+    26.31667,
+    31.85,
+    26.31667
+],
+  "geometry": {"coordinates":[31.85,26.31667],"type":"Point"}
+}

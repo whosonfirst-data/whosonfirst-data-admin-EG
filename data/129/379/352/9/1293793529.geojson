@@ -1,0 +1,75 @@
+{
+  "id": 1293793529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23388,31.13244,31.23388,31.13244",
+    "geom:latitude":31.13244,
+    "geom:longitude":31.23388,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr al Abhar",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354757,
+    "gn:latitude":31.13244,
+    "gn:longitude":31.23388,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Kafr al Ab\u1e29ar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0623\u0628\u062d\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Ab\u1e25ar",
+        "Kafr al Ab\u1e29ar",
+        "Kafr al-Ab\u1e25ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354757
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b90aa50eb4d67ac53bfa2fd09b105f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1293793529,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1293793529,
+    "wof:lastmodified":1537620742,
+    "wof:name":"Kafr al Abhar",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23388,
+    31.13244000000001,
+    31.23388,
+    31.13244000000001
+],
+  "geometry": {"coordinates":[31.23388,31.13244000000001],"type":"Point"}
+}

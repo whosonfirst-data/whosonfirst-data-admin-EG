@@ -1,0 +1,61 @@
+{
+  "id": 1209521559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98286,29.37177,30.98286,29.37177",
+    "geom:latitude":29.37177,
+    "geom:longitude":30.98286,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Ezbet el-Ghazali",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357491,
+    "gn:latitude":29.37177,
+    "gn:longitude":30.98286,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Ezbet el-Ghaz\u00e2li",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357491
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1329d8acb0c740e16f3bd29e38e7af72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209521559
+        }
+    ],
+    "wof:id":1209521559,
+    "wof:lastmodified":1536284563,
+    "wof:name":"`Ezbet el-Ghazali",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98286,
+    29.37177,
+    30.98286,
+    29.37177
+],
+  "geometry": {"coordinates":[30.98286,29.37177],"type":"Point"}
+}

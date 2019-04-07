@@ -1,0 +1,75 @@
+{
+  "id": 1309777073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.36058,30.55858,31.36058,30.55858",
+    "geom:latitude":30.55858,
+    "geom:longitude":31.36058,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"At Tallin",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359707,
+    "gn:latitude":30.55858,
+    "gn:longitude":31.36058,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At Tall\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-Tallein",
+        "At Tallayn",
+        "At Tall\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359707
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5d95e8cb08b401eda8cb2be1525ca2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1309777073,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309777073,
+    "wof:lastmodified":1537620847,
+    "wof:name":"At Tallin",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.36058,
+    30.55858,
+    31.36058,
+    30.55858
+],
+  "geometry": {"coordinates":[31.36058,30.55858],"type":"Point"}
+}

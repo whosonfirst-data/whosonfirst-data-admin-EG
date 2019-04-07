@@ -1,0 +1,73 @@
+{
+  "id": 1209803489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24481,30.05623,31.24481,30.05623",
+    "geom:latitude":30.05623,
+    "geom:longitude":31.24481,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Azbakiyah",
+    "gn:country_code":"EG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":425184,
+    "gn:latitude":30.05623,
+    "gn:longitude":31.24481,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Al Azbak\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u0632\u0628\u0643\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Azbak\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092016929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425184
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f29345118158c500373f9dfa47c3a90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016929,
+            "locality_id":1209803489,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1209803489,
+    "wof:lastmodified":1537621116,
+    "wof:name":"Al Azbakiyah",
+    "wof:parent_id":1092016929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24481,
+    30.05623,
+    31.24481,
+    30.05623
+],
+  "geometry": {"coordinates":[31.24481,30.05623],"type":"Point"}
+}

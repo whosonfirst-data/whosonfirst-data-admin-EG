@@ -1,0 +1,67 @@
+{
+  "id": 1343550245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83114,28.43332,30.83114,28.43332",
+    "geom:latitude":28.43332,
+    "geom:longitude":30.83114,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Abu `Aziz",
+    "gn:country_code":"EG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362822,
+    "gn:latitude":28.43332,
+    "gn:longitude":30.83114,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ab\u016b \u2018Az\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092015295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362822
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"59c927e37763e8b39c12d8777e746acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015295,
+            "locality_id":1343550245,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1343550245,
+    "wof:lastmodified":1536614323,
+    "wof:name":"Abu `Aziz",
+    "wof:parent_id":1092015295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83114,
+    28.43332,
+    30.83114,
+    28.43332
+],
+  "geometry": {"coordinates":[30.83114,28.43332],"type":"Point"}
+}

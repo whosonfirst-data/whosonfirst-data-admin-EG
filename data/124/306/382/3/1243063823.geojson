@@ -1,0 +1,72 @@
+{
+  "id": 1243063823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83817,30.55791,30.83817,30.55791",
+    "geom:latitude":30.55791,
+    "geom:longitude":30.83817,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Jazirat al Hajar",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355110,
+    "gn:latitude":30.55791,
+    "gn:longitude":30.83817,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaz\u012brat al \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaz\u00eeret el-\u1e24agar",
+        "Gez\u00eeret el-\u1e24agar",
+        "Jaz\u012brat al \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092019949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355110
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cd4a006751da241e7c702c92d990ef70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019949,
+            "locality_id":1243063823,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1243063823,
+    "wof:lastmodified":1537620755,
+    "wof:name":"Jazirat al Hajar",
+    "wof:parent_id":1092019949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83817,
+    30.55791,
+    30.83817,
+    30.55791
+],
+  "geometry": {"coordinates":[30.83817,30.55791],"type":"Point"}
+}

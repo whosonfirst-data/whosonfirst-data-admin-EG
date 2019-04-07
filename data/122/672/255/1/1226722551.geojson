@@ -1,0 +1,71 @@
+{
+  "id": 1226722551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86667,25.0,32.86667,25.0",
+    "geom:latitude":25.0,
+    "geom:longitude":32.86667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Kafr al `Awdalab",
+    "gn:country_code":"EG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354714,
+    "gn:latitude":25.0,
+    "gn:longitude":32.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al \u2018Aw\u1e11al\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el \u2018\u00d4dl\u00e2b",
+        "Kafr al \u2018Aw\u1e11al\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354714
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8526ba05a69e1bb0768106dbf35d949a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016437,
+            "locality_id":1226722551,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1226722551,
+    "wof:lastmodified":1537620738,
+    "wof:name":"Kafr al `Awdalab",
+    "wof:parent_id":1092016437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86667,
+    25.0,
+    32.86667,
+    25.0
+],
+  "geometry": {"coordinates":[32.86667,25.0],"type":"Point"}
+}

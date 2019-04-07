@@ -1,0 +1,76 @@
+{
+  "id": 1259950935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.07339,30.82405,32.07339,30.82405",
+    "geom:latitude":30.82405,
+    "geom:longitude":32.07339,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Awlad `Inan",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443386,
+    "gn:latitude":30.82405,
+    "gn:longitude":32.07339,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Awl\u0101d \u2018In\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Awl\u0101d \u2018In\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0648\u0644\u0627\u062f \u0639\u0646\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Awlad \u2018In\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443386
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bbd0f97a79985006351c1e6b0e9bb1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1259950935,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259950935,
+    "wof:lastmodified":1537621131,
+    "wof:name":"Awlad `Inan",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.07339,
+    30.82405,
+    32.07339,
+    30.82405
+],
+  "geometry": {"coordinates":[32.07339,30.82405],"type":"Point"}
+}

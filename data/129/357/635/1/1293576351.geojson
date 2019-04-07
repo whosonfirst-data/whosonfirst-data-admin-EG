@@ -1,0 +1,72 @@
+{
+  "id": 1293576351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25,30.45,31.25,30.45",
+    "geom:latitude":30.45,
+    "geom:longitude":31.25,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr Abu Zahrah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354791,
+    "gn:latitude":30.45,
+    "gn:longitude":31.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ab\u016b Zahrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Abu Zahra",
+        "Kafr Ab\u016b Zahrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092015253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354791
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"59e5f559d87fab28d34fdc9aa7476c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015253,
+            "locality_id":1293576351,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1293576351,
+    "wof:lastmodified":1537620745,
+    "wof:name":"Kafr Abu Zahrah",
+    "wof:parent_id":1092015253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25,
+    30.45,
+    31.25,
+    30.45
+],
+  "geometry": {"coordinates":[31.25,30.45],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277055489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17683,27.1398,31.17683,27.1398",
+    "geom:latitude":27.1398,
+    "geom:longitude":31.17683,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Durunkah",
+    "gn:country_code":"EG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358028,
+    "gn:latitude":27.1398,
+    "gn:longitude":31.17683,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Durunkah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Durunka",
+        "Durunkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358028,
+        "wk:page":"Durunka"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f8f3334f7644c780b5a771626766821e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014633,
+            "locality_id":1277055489,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1277055489,
+    "wof:lastmodified":1537620806,
+    "wof:name":"Durunkah",
+    "wof:parent_id":1092014633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17683,
+    27.1398,
+    31.17683,
+    27.1398
+],
+  "geometry": {"coordinates":[31.17683,27.1398],"type":"Point"}
+}

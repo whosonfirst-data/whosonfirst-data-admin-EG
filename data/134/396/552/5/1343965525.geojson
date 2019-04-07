@@ -1,0 +1,75 @@
+{
+  "id": 1343965525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37424,31.28638,30.37424,31.28638",
+    "geom:latitude":31.28638,
+    "geom:longitude":30.37424,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat Raqm Sab`ah",
+    "gn:country_code":"EG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415051,
+    "gn:latitude":31.28638,
+    "gn:longitude":30.37424,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Qaryat Raqm Sab\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 \u06f7"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Raqm Sab\u2018ah",
+        "Qaryah Raqm 7",
+        "Qaryah Number Seven"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092016481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415051
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f00bb9ea22c1077184beeb9129f68a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016481,
+            "locality_id":1343965525,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343965525,
+    "wof:lastmodified":1537620977,
+    "wof:name":"Qaryat Raqm Sab`ah",
+    "wof:parent_id":1092016481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37424,
+    31.28638,
+    30.37424,
+    31.28638
+],
+  "geometry": {"coordinates":[30.37424,31.28638],"type":"Point"}
+}

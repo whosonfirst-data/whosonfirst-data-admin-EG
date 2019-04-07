@@ -1,0 +1,74 @@
+{
+  "id": 1226044245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73035,30.84759,30.73035,30.84759",
+    "geom:latitude":30.84759,
+    "geom:longitude":30.73035,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ash Shu`ayrah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359957,
+    "gn:latitude":30.84759,
+    "gn:longitude":30.73035,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shu\u2018ayrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Shu\u2018ayyirah",
+        "El-Shu\u2018aiyara",
+        "Esh-Shu\u2018aiyara",
+        "El-Shi\u2018\u00eera",
+        "Ash Shu\u2018ayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092020749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359957
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0b1cb818ea186fe50b1f4140ee1a65e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020749,
+            "locality_id":1226044245,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226044245,
+    "wof:lastmodified":1537620859,
+    "wof:name":"Ash Shu`ayrah",
+    "wof:parent_id":1092020749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73035,
+    30.84759,
+    30.73035,
+    30.84759
+],
+  "geometry": {"coordinates":[30.73035,30.84759],"type":"Point"}
+}

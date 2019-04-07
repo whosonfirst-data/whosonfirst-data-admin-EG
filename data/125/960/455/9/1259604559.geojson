@@ -1,0 +1,77 @@
+{
+  "id": 1259604559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31598,30.47666,32.31598,30.47666",
+    "geom:latitude":30.47666,
+    "geom:longitude":32.31598,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"`Izbat Yousif Hasan al Qarqawi Sarabiyum",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357068,
+    "gn:latitude":30.47666,
+    "gn:longitude":32.31598,
+    "gn:modification_date":"2017-10-25",
+    "gn:name":"\u2018Izbat Yousif Hasan al Qarq\u0101wi Sar\u0101biy\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Serapeum"
+    ],
+    "name:eng_x_preferred":[
+        "Serapeum"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Yusef Hasan el-Qarq\u00e2wi Serapeum",
+        "\u2018Izbat Yousif Hasan al Qarq\u0101wi Sar\u0101biy\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357068
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dd9ae76c956d26754a48a2669e8bd115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020945,
+            "locality_id":1259604559,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1259604559,
+    "wof:lastmodified":1537620782,
+    "wof:name":"`Izbat Yousif Hasan al Qarqawi Sarabiyum",
+    "wof:parent_id":1092020945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31598,
+    30.47666,
+    32.31598,
+    30.47666
+],
+  "geometry": {"coordinates":[32.31598,30.47666],"type":"Point"}
+}

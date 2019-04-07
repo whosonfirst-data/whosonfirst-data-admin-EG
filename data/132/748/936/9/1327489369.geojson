@@ -1,0 +1,72 @@
+{
+  "id": 1327489369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.72939,26.42123,31.72939,26.42123",
+    "geom:latitude":26.42123,
+    "geom:longitude":31.72939,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al `Amaydah",
+    "gn:country_code":"EG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361598,
+    "gn:latitude":26.42123,
+    "gn:longitude":31.72939,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Am\u0101ydah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Am\u00e2yda",
+        "Al \u2018Am\u0101\u2019idah",
+        "Al \u2018Am\u0101ydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092018599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361598
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3dc6c3b4f5d84ae7ea8fc5522e91f41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018599,
+            "locality_id":1327489369,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1327489369,
+    "wof:lastmodified":1537620946,
+    "wof:name":"Al `Amaydah",
+    "wof:parent_id":1092018599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.72939,
+    26.42123,
+    31.72939,
+    26.42123
+],
+  "geometry": {"coordinates":[31.72939,26.42123],"type":"Point"}
+}

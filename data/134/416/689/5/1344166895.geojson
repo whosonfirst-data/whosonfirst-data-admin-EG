@@ -1,0 +1,67 @@
+{
+  "id": 1344166895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.62329,30.55746,32.62329,30.55746",
+    "geom:latitude":30.55746,
+    "geom:longitude":32.62329,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tasa Junction",
+    "gn:country_code":"EG",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449807,
+    "gn:latitude":30.55746,
+    "gn:longitude":32.62329,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Tasa Junction",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092023021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449807
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"73753a5420eb703dc791b80b434cebcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023021,
+            "locality_id":1344166895,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1344166895,
+    "wof:lastmodified":1536722263,
+    "wof:name":"Tasa Junction",
+    "wof:parent_id":1092023021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.62329,
+    30.55746,
+    32.62329,
+    30.55746
+],
+  "geometry": {"coordinates":[32.62329,30.55746],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209273337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83278,31.0901,30.83278,31.0901",
+    "geom:latitude":31.0901,
+    "geom:longitude":30.83278,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nashart",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351321,
+    "gn:latitude":31.0901,
+    "gn:longitude":30.83278,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Nashart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0634\u0631\u062a"
+    ],
+    "name:und_x_variant":[
+        "Neshart",
+        "Nashart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351321
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3762e0c897f56e162b8de554d6e265ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209273337
+        }
+    ],
+    "wof:id":1209273337,
+    "wof:lastmodified":1537620617,
+    "wof:name":"Nashart",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83278,
+    31.0901,
+    30.83278,
+    31.0901
+],
+  "geometry": {"coordinates":[30.83278,31.0901],"type":"Point"}
+}

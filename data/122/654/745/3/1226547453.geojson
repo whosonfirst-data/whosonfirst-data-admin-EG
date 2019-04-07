@@ -1,0 +1,75 @@
+{
+  "id": 1226547453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59856,31.1695,30.59856,31.1695",
+    "geom:latitude":31.1695,
+    "geom:longitude":30.59856,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Lawiyah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357852,
+    "gn:latitude":31.1695,
+    "gn:longitude":30.59856,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Al Law\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Liw\u00eeya",
+        "Al Law\u012byah",
+        "Al Lawiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092018277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357852
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a5c98e71c2d87db0933f67a888537cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018277,
+            "locality_id":1226547453,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226547453,
+    "wof:lastmodified":1537620805,
+    "wof:name":"Al Lawiyah",
+    "wof:parent_id":1092018277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59856,
+    31.1695,
+    30.59856,
+    31.1695
+],
+  "geometry": {"coordinates":[30.59856,31.1695],"type":"Point"}
+}

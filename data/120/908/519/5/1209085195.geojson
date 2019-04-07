@@ -1,0 +1,61 @@
+{
+  "id": 1209085195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82324,30.78464,31.82324,30.78464",
+    "geom:latitude":30.78464,
+    "geom:longitude":31.82324,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tall Az Zahirah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432858,
+    "gn:latitude":30.78464,
+    "gn:longitude":31.82324,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Tall Az\u0327 Z\u0327ah\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432858
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"baceec3af3a8cc1eccc5cb78a07a37c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209085195
+        }
+    ],
+    "wof:id":1209085195,
+    "wof:lastmodified":1536298210,
+    "wof:name":"Tall Az Zahirah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82324,
+    30.784640000000003,
+    31.82324,
+    30.784640000000003
+],
+  "geometry": {"coordinates":[31.82324,30.78464],"type":"Point"}
+}

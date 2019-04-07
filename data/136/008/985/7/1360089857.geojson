@@ -1,0 +1,71 @@
+{
+  "id": 1360089857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81668,30.93684,30.81668,30.93684",
+    "geom:latitude":30.93684,
+    "geom:longitude":30.81668,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr Ja`far",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354226,
+    "gn:latitude":30.93684,
+    "gn:longitude":30.81668,
+    "gn:modification_date":"2017-07-15",
+    "gn:name":"Kafr Ja\u2018far",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Ga\u2018far",
+        "Kafr Ja\u2018far"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092015375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354226
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1914b03c98a4d6ee94a9c97183425b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015375,
+            "locality_id":1360089857,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1360089857,
+    "wof:lastmodified":1537620697,
+    "wof:name":"Kafr Ja`far",
+    "wof:parent_id":1092015375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81668,
+    30.93684,
+    30.81668,
+    30.93684
+],
+  "geometry": {"coordinates":[30.81668,30.93684],"type":"Point"}
+}

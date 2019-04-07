@@ -1,0 +1,72 @@
+{
+  "id": 1310622955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76667,30.96667,29.76667,30.96667",
+    "geom:latitude":30.96667,
+    "geom:longitude":29.76667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dawwar Abu Basisah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358331,
+    "gn:latitude":30.96667,
+    "gn:longitude":29.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Daww\u0101r Ab\u016b Bas\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dauw\u00e2r Abu Bis\u00eesa",
+        "Daww\u0101r Ab\u016b Bas\u012bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358331
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a7ac8414bb0ee594a7086f7378fb3130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":1310622955,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1310622955,
+    "wof:lastmodified":1537620813,
+    "wof:name":"Dawwar Abu Basisah",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76667,
+    30.96667,
+    29.76667,
+    30.96667
+],
+  "geometry": {"coordinates":[29.76667,30.96667],"type":"Point"}
+}

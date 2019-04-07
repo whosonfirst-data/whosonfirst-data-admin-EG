@@ -1,0 +1,67 @@
+{
+  "id": 1259652499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.10082,31.58441,26.10082,31.58441",
+    "geom:latitude":31.58441,
+    "geom:longitude":26.10082,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Kafret Hamdan",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354297,
+    "gn:latitude":31.58441,
+    "gn:longitude":26.10082,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kafret Hamdan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092018725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354297
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6f4ff394b20583e0891a887aaa465631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018725,
+            "locality_id":1259652499,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1259652499,
+    "wof:lastmodified":1536612956,
+    "wof:name":"Kafret Hamdan",
+    "wof:parent_id":1092018725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.10082,
+    31.58441,
+    26.10082,
+    31.58441
+],
+  "geometry": {"coordinates":[26.10082,31.58441],"type":"Point"}
+}

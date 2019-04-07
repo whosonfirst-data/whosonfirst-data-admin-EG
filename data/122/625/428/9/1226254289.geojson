@@ -1,0 +1,70 @@
+{
+  "id": 1226254289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.94255,31.0533,29.94255,31.0533",
+    "geom:latitude":31.0533,
+    "geom:longitude":29.94255,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat al Amal",
+    "gn:country_code":"EG",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415511,
+    "gn:latitude":31.0533,
+    "gn:longitude":29.94255,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Qaryat al Amal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0627\u0645\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415511
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"83492ca4502e8f47e093ba96ba9b275b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":1226254289,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1226254289,
+    "wof:lastmodified":1537620984,
+    "wof:name":"Qaryat al Amal",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.94255,
+    31.0533,
+    29.94255,
+    31.0533
+],
+  "geometry": {"coordinates":[29.94255,31.0533],"type":"Point"}
+}

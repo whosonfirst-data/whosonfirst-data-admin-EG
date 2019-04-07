@@ -1,0 +1,75 @@
+{
+  "id": 1293767509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73333,28.18333,30.73333,28.18333",
+    "geom:latitude":28.18333,
+    "geom:longitude":30.73333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zuhrah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345989,
+    "gn:latitude":28.18333,
+    "gn:longitude":30.73333,
+    "gn:modification_date":"2017-07-16",
+    "gn:name":"Zuhrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0647\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zuhra",
+        "Zuhrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092018557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345989
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6b4a4c0613ed9525c891b02a6ddde56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018557,
+            "locality_id":1293767509,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1293767509,
+    "wof:lastmodified":1537620543,
+    "wof:name":"Zuhrah",
+    "wof:parent_id":1092018557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73333,
+    28.18333,
+    30.73333,
+    28.18333
+],
+  "geometry": {"coordinates":[30.73333,28.18333],"type":"Point"}
+}

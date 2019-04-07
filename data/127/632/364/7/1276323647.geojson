@@ -1,0 +1,77 @@
+{
+  "id": 1276323647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07013,30.43905,31.07013,30.43905",
+    "geom:latitude":30.43905,
+    "geom:longitude":31.07013,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Subk ad Dahhak",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347829,
+    "gn:latitude":30.43905,
+    "gn:longitude":31.07013,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Subk a\u1e11 \u1e10a\u1e29\u1e29\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0643 \u0627\u0644\u0636\u062d\u0627\u0643"
+    ],
+    "name:und_x_variant":[
+        "Subk ed Dahh\u0101k",
+        "Subk el Dahak",
+        "Sobk el Dahhak",
+        "Subk el-\u1e0ca\u1e25\u1e25\u00e2k",
+        "Subk a\u1e11 \u1e10a\u1e29\u1e29\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092017065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347829
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"91b0ab624296e2f8dc98a7f9f0a6fa9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017065,
+            "locality_id":1276323647,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1276323647,
+    "wof:lastmodified":1537620566,
+    "wof:name":"Subk ad Dahhak",
+    "wof:parent_id":1092017065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07013,
+    30.43905,
+    31.07013,
+    30.43905
+],
+  "geometry": {"coordinates":[31.07013,30.43905],"type":"Point"}
+}

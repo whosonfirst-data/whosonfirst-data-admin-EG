@@ -1,0 +1,73 @@
+{
+  "id": 1344246163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88333,28.51667,30.88333,28.51667",
+    "geom:latitude":28.51667,
+    "geom:longitude":30.88333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nuju` `Arab Ghalib Abu Hasab Allah",
+    "gn:country_code":"EG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350958,
+    "gn:latitude":28.51667,
+    "gn:longitude":30.88333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nuj\u016b\u2018 \u2018Arab Gh\u0101lib Ab\u016b \u1e28asab All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Arab as Subaykhah",
+        "Nugu \u2018Arab Gh\u00e2lib Abu \u1e24asaballa",
+        "\u2018Arab el Subeikha",
+        "Nuj\u016b\u2018 \u2018Arab Gh\u0101lib Ab\u016b \u1e28asab All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092023043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350958
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f185906a0c7b0b1d7019007595acccf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023043,
+            "locality_id":1344246163,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1344246163,
+    "wof:lastmodified":1537620601,
+    "wof:name":"Nuju` `Arab Ghalib Abu Hasab Allah",
+    "wof:parent_id":1092023043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88333,
+    28.51667,
+    30.88333,
+    28.51667
+],
+  "geometry": {"coordinates":[30.88333,28.51667],"type":"Point"}
+}

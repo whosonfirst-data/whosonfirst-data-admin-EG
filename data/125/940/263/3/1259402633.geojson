@@ -1,0 +1,73 @@
+{
+  "id": 1259402633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30778,29.64833,31.30778,29.64833",
+    "geom:latitude":29.64833,
+    "geom:longitude":31.30778,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Hayy",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361161,
+    "gn:latitude":29.64833,
+    "gn:longitude":31.30778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ayy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Hai",
+        "Al \u1e28ay",
+        "Al \u1e28ayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092019453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361161
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"513bb8f21337747530de33df7ac35fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019453,
+            "locality_id":1259402633,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1259402633,
+    "wof:lastmodified":1537620918,
+    "wof:name":"Al Hayy",
+    "wof:parent_id":1092019453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30778,
+    29.64833,
+    31.30778,
+    29.64833
+],
+  "geometry": {"coordinates":[31.30778,29.64833],"type":"Point"}
+}

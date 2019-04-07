@@ -1,0 +1,92 @@
+{
+  "id": 1092016767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1641390.118702,
+    "geom:bbox":"32.282153,31.248949,32.302859,31.274254",
+    "geom:latitude":31.262796,
+    "geom:longitude":32.293802,
+    "iso:country":"EG",
+    "lbl:latitude":31.265456,
+    "lbl:longitude":32.297253,
+    "meso:admin_1":"Port Said",
+    "meso:diss_me":"El-ArabPort Said",
+    "meso:gadm_admin":"Al-'Arab",
+    "meso:gadm_hasc2":"EG.BS.AR",
+    "meso:gaul_admin":"Al-Arab",
+    "meso:mps_x":32.297253,
+    "meso:mps_y":31.265456,
+    "meso:name_en":"El-Arab",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":31.265456,
+    "mps:longitude":32.297253,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Al-'Arab"
+    ],
+    "name:eng_x_variant":[
+        "Al-Arab",
+        "Al-'Arab"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.BS",
+    "statoids:name":"Al-'Arab",
+    "statoids:population":"46977",
+    "statoids:statoid":"EG.BS.AR",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.BS.AR"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897221,
+    "wof:geomhash":"3a57ccf1f76038d9c8b42cb69c276560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016767,
+            "region_id":85671021
+        }
+    ],
+    "wof:id":1092016767,
+    "wof:lastmodified":1536615084,
+    "wof:name":"El-Arab",
+    "wof:parent_id":85671021,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":46977,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"AR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.282153,
+    31.248949,
+    32.302859,
+    31.274254
+],
+  "geometry": {"coordinates":[[[32.296202,31.274254],[32.296595,31.274193],[32.296958,31.274144],[32.297254,31.27412],[32.297751,31.274066],[32.298113,31.27403],[32.29852,31.273989],[32.298536,31.273988],[32.298772,31.27397],[32.299031,31.273971],[32.299394,31.273935],[32.29989,31.273868],[32.300264,31.273819],[32.300402,31.273801],[32.300557,31.273795],[32.300613,31.273792],[32.30112,31.27376],[32.301303,31.273739],[32.301438,31.273724],[32.30189,31.273669],[32.302386,31.273621],[32.302859,31.27355],[32.302819,31.271428],[32.302802,31.270906],[32.301665,31.266381],[32.297287,31.260537],[32.295081,31.26174],[32.289244,31.254605],[32.288447,31.253358],[32.288192,31.252459],[32.288362,31.251183],[32.288515,31.250922],[32.288769,31.248949],[32.288224,31.248997],[32.287368,31.24913],[32.286745,31.249529],[32.28371,31.251259],[32.282153,31.252124],[32.286533,31.257767],[32.289809,31.261989],[32.291259,31.263965],[32.291959,31.263566],[32.295072,31.267424],[32.294683,31.267823],[32.294761,31.268754],[32.295617,31.268621],[32.295928,31.268954],[32.295928,31.269141],[32.295928,31.269287],[32.295072,31.269553],[32.295695,31.272347],[32.296084,31.273744],[32.296202,31.274254]]],"type":"Polygon"}
+}

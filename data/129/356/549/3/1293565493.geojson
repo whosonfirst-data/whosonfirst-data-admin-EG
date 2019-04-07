@@ -1,0 +1,72 @@
+{
+  "id": 1293565493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11667,27.25,31.11667,27.25",
+    "geom:latitude":27.25,
+    "geom:longitude":31.11667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sawalim Abnub",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349555,
+    "gn:latitude":27.25,
+    "gn:longitude":31.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saw\u0101lim Abn\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zim\u0101m Saw\u0101lim Abn\u016bb",
+        "Saw\u0101lim Abn\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349555
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1b30f523cad849efad9b6125a704411d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014043,
+            "locality_id":1293565493,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1293565493,
+    "wof:lastmodified":1537620582,
+    "wof:name":"Sawalim Abnub",
+    "wof:parent_id":1092014043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11667000000001,
+    27.25,
+    31.11667000000001,
+    27.25
+],
+  "geometry": {"coordinates":[31.11667000000001,27.25],"type":"Point"}
+}

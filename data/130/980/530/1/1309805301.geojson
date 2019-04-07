@@ -1,0 +1,67 @@
+{
+  "id": 1309805301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.64778,30.71083,30.64778,30.71083",
+    "geom:latitude":30.71083,
+    "geom:longitude":30.64778,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat ash Sharif ash Sharqiyah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421633,
+    "gn:latitude":30.71083,
+    "gn:longitude":30.64778,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"\u2018Izbat ash Shar\u012bf ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421633
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8aa325cfe495160ec99470d3ffe97536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1309805301,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1309805301,
+    "wof:lastmodified":1536932499,
+    "wof:name":"`Izbat ash Sharif ash Sharqiyah",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.64778,
+    30.71083,
+    30.64778,
+    30.71083
+],
+  "geometry": {"coordinates":[30.64778,30.71083],"type":"Point"}
+}

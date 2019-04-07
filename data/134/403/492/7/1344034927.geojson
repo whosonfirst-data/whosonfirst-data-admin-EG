@@ -1,0 +1,74 @@
+{
+  "id": 1344034927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21248,30.3355,31.21248,30.3355",
+    "geom:latitude":30.3355,
+    "geom:longitude":31.21248,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr Hasan Sa`d",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354265,
+    "gn:latitude":30.3355,
+    "gn:longitude":31.21248,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u1e28asan Sa\u2018d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062d\u0633\u0646 \u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u1e28asan Sa\u2018d",
+        "Kafr \u2019asan Sa\u2018d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354265
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1765de2fe551d9fabb0b419ba24365d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1344034927,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1344034927,
+    "wof:lastmodified":1537620700,
+    "wof:name":"Kafr Hasan Sa`d",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21248,
+    30.3355,
+    31.21248,
+    30.3355
+],
+  "geometry": {"coordinates":[31.21248,30.3355],"type":"Point"}
+}

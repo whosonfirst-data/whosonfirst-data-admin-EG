@@ -1,0 +1,67 @@
+{
+  "id": 1276416671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41667,26.95,31.41667,26.95",
+    "geom:latitude":26.95,
+    "geom:longitude":31.41667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tu`ma",
+    "gn:country_code":"EG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347217,
+    "gn:latitude":26.95,
+    "gn:longitude":31.41667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Tu\u2018ma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092016975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347217
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a1bcf4ed722d446f15f4db186948fbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016975,
+            "locality_id":1276416671,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1276416671,
+    "wof:lastmodified":1536667076,
+    "wof:name":"Tu`ma",
+    "wof:parent_id":1092016975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41667,
+    26.95,
+    31.41667,
+    26.95
+],
+  "geometry": {"coordinates":[31.41667,26.95],"type":"Point"}
+}

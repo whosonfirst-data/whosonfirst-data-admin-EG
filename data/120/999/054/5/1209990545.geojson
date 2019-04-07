@@ -1,0 +1,67 @@
+{
+  "id": 1209990545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6,31.3,30.6,31.3",
+    "geom:latitude":31.3,
+    "geom:longitude":30.6,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Ezbet Muhammad Abu Isma`il",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357213,
+    "gn:latitude":31.3,
+    "gn:longitude":30.6,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet Mu\u1e25ammad Abu Ism\u00e2\u2018\u00eel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357213
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"80ab6fd2e7cf9218886b766374ad2986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1209990545,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1209990545,
+    "wof:lastmodified":1536386618,
+    "wof:name":"`Ezbet Muhammad Abu Isma`il",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6,
+    31.3,
+    30.6,
+    31.3
+],
+  "geometry": {"coordinates":[30.6,31.3],"type":"Point"}
+}

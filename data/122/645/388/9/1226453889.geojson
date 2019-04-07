@@ -1,0 +1,75 @@
+{
+  "id": 1226453889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.26847,31.15339,30.26847,31.15339",
+    "geom:latitude":31.15339,
+    "geom:longitude":30.26847,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Abu Bakr Hasan",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362813,
+    "gn:latitude":31.15339,
+    "gn:longitude":30.26847,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u2018Izbat Ab\u016b Bakr \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0628\u0643\u0631 \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Abu Bakr \u1e24asan",
+        "\u2018Izbat Ab\u016b Bakr \u1e28asan",
+        "\u2018Izbat Ab\u016b Bakr \u1e24asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362813
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d5268ce6c5b7f9cd6c7bfc273c6906e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1226453889,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226453889,
+    "wof:lastmodified":1537620962,
+    "wof:name":"`Izbat Abu Bakr Hasan",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.26847,
+    31.15339,
+    30.26847,
+    31.15339
+],
+  "geometry": {"coordinates":[30.26847,31.15339],"type":"Point"}
+}

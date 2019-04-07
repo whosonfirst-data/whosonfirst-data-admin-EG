@@ -1,0 +1,73 @@
+{
+  "id": 1344026255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.40391,26.89815,31.40391,26.89815",
+    "geom:latitude":26.89815,
+    "geom:longitude":31.40391,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ar Rayayinah al Mu`allaq",
+    "gn:country_code":"EG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360121,
+    "gn:latitude":26.89815,
+    "gn:longitude":31.40391,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Ray\u0101yinah al Mu\u2018allaq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Ray\u0101yinah al Mu\u2018allaq",
+        "El Rayayna el Mi\u2018allaq",
+        "Er Ray\u0101ina el Mi\u2018allaq",
+        "Ar Ray\u0101ynah al Mi\u2018allaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092025329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360121
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cd71d364306b40ed993ef298a20ccd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025329,
+            "locality_id":1344026255,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1344026255,
+    "wof:lastmodified":1537620867,
+    "wof:name":"Ar Rayayinah al Mu`allaq",
+    "wof:parent_id":1092025329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40391,
+    26.89815,
+    31.40391,
+    26.89815
+],
+  "geometry": {"coordinates":[31.40391,26.89815],"type":"Point"}
+}

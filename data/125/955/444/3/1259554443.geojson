@@ -1,0 +1,67 @@
+{
+  "id": 1259554443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52889,30.79778,31.52889,30.79778",
+    "geom:latitude":30.79778,
+    "geom:longitude":31.52889,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Abu Tariyah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433791,
+    "gn:latitude":30.79778,
+    "gn:longitude":31.52889,
+    "gn:modification_date":"2001-06-20",
+    "gn:name":"Kafr Ab\u016b \u0162ar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433791
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2c2bb10178da9ad65c4367b22f9d9039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1259554443,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259554443,
+    "wof:lastmodified":1536756912,
+    "wof:name":"Kafr Abu Tariyah",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52889,
+    30.79778,
+    31.52889,
+    30.79778
+],
+  "geometry": {"coordinates":[31.52889,30.79778],"type":"Point"}
+}

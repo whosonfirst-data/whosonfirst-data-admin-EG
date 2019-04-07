@@ -1,0 +1,73 @@
+{
+  "id": 1360268833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6507,30.76148,31.6507,30.76148",
+    "geom:latitude":30.76148,
+    "geom:longitude":31.6507,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Manshar",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779478,
+    "gn:latitude":30.76148,
+    "gn:longitude":31.6507,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Izbat al Manshar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0645\u0646\u0634\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Manshar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779478
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5eb36e26cf3ac079cba1cd4bf10fb10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1360268833,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1360268833,
+    "wof:lastmodified":1537621147,
+    "wof:name":"`Izbat al Manshar",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6507,
+    30.76148,
+    31.6507,
+    30.76148
+],
+  "geometry": {"coordinates":[31.6507,30.76148],"type":"Point"}
+}

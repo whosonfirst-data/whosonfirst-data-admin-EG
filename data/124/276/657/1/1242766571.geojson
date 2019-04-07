@@ -1,0 +1,72 @@
+{
+  "id": 1242766571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78781,27.74566,30.78781,27.74566",
+    "geom:latitude":27.74566,
+    "geom:longitude":30.78781,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Minshat al Maghaliqah",
+    "gn:country_code":"EG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352425,
+    "gn:latitude":27.74566,
+    "gn:longitude":30.78781,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Minsh\u0101t al Magh\u0101liqah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minsh\u00e2t el Magh\u00e2lqa",
+        "Minsh\u0101t al Mugh\u0101laqah",
+        "Minsh\u0101t al Magh\u0101liqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352425
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"43433173ed64b647d80ce5a71abb52c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022005,
+            "locality_id":1242766571,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1242766571,
+    "wof:lastmodified":1537620653,
+    "wof:name":"Minshat al Maghaliqah",
+    "wof:parent_id":1092022005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78781,
+    27.74566,
+    30.78781,
+    27.74566
+],
+  "geometry": {"coordinates":[30.78781,27.74566],"type":"Point"}
+}

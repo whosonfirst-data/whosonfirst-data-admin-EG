@@ -1,0 +1,76 @@
+{
+  "id": 1260054539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65379,31.23867,31.65379,31.23867",
+    "geom:latitude":31.23867,
+    "geom:longitude":31.65379,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"As Sarw",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359841,
+    "gn:latitude":31.23867,
+    "gn:longitude":31.65379,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"As Sarw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Sirw",
+        "El-Sirw",
+        "As Sarw",
+        "As-Sirw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092020509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359841
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"34c763216f5a64f11449aa4abab18c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020509,
+            "locality_id":1260054539,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1260054539,
+    "wof:lastmodified":1537620852,
+    "wof:name":"As Sarw",
+    "wof:parent_id":1092020509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65379,
+    31.23867000000001,
+    31.65379,
+    31.23867000000001
+],
+  "geometry": {"coordinates":[31.65379,31.23867000000001],"type":"Point"}
+}

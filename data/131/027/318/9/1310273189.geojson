@@ -1,0 +1,72 @@
+{
+  "id": 1310273189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91317,26.30503,31.91317,26.30503",
+    "geom:latitude":26.30503,
+    "geom:longitude":31.91317,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Mazatat ash Shaykh Jabr",
+    "gn:country_code":"EG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352562,
+    "gn:latitude":26.30503,
+    "gn:longitude":31.91317,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maz\u0101tat ash Shaykh Jabr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maz\u00e2ta and el Sheikh Gabr",
+        "Maz\u0101tah wa ash Shaykh Jabr",
+        "Maz\u0101tat ash Shaykh Jabr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092021127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352562
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"275fa82c0e69cad99167e6302976229c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021127,
+            "locality_id":1310273189,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1310273189,
+    "wof:lastmodified":1537620656,
+    "wof:name":"Mazatat ash Shaykh Jabr",
+    "wof:parent_id":1092021127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91317,
+    26.30503,
+    31.91317,
+    26.30503
+],
+  "geometry": {"coordinates":[31.91317,26.30503],"type":"Point"}
+}

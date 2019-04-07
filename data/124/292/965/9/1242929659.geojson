@@ -1,0 +1,67 @@
+{
+  "id": 1242929659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8,25.9,32.8,25.9",
+    "geom:latitude":25.9,
+    "geom:longitude":32.8,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Nag` el-Dib",
+    "gn:country_code":"EG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351649,
+    "gn:latitude":25.9,
+    "gn:longitude":32.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2018 el-D\u00eeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092023581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351649
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2646ce7a1ca26521300e3bf361289949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023581,
+            "locality_id":1242929659,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1242929659,
+    "wof:lastmodified":1537051582,
+    "wof:name":"Nag` el-Dib",
+    "wof:parent_id":1092023581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8,
+    25.9,
+    32.8,
+    25.9
+],
+  "geometry": {"coordinates":[32.8,25.9],"type":"Point"}
+}

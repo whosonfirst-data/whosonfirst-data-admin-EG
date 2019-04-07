@@ -1,0 +1,71 @@
+{
+  "id": 1243068775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98919,29.16409,30.98919,29.16409",
+    "geom:latitude":29.16409,
+    "geom:longitude":30.98919,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hajir Bani Sulayman",
+    "gn:country_code":"EG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":356360,
+    "gn:latitude":29.16409,
+    "gn:longitude":30.98919,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28\u0101jir Ban\u012b Sulaym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e24\u00e2gir Beni Sulim\u00e2n",
+        "\u1e28\u0101jir Ban\u012b Sulaym\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356360
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d108fbcf85350649162f8d83c3e19dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015341,
+            "locality_id":1243068775,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1243068775,
+    "wof:lastmodified":1537620778,
+    "wof:name":"Hajir Bani Sulayman",
+    "wof:parent_id":1092015341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98919,
+    29.16409,
+    30.98919,
+    29.16409
+],
+  "geometry": {"coordinates":[30.98919,29.16409],"type":"Point"}
+}

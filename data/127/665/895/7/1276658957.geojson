@@ -1,0 +1,67 @@
+{
+  "id": 1276658957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08306,30.93889,30.08306,30.93889",
+    "geom:latitude":30.93889,
+    "geom:longitude":30.08306,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Ezbet Kom Abu el-`Ida",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357273,
+    "gn:latitude":30.93889,
+    "gn:longitude":30.08306,
+    "gn:modification_date":"1997-08-14",
+    "gn:name":"\u2018Ezbet K\u00f4m Abu el-\u2018Ida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357273
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"47bfc7da057ac8a731f044a7feff0443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1276658957,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276658957,
+    "wof:lastmodified":1536838393,
+    "wof:name":"`Ezbet Kom Abu el-`Ida",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08306,
+    30.93889,
+    30.08306,
+    30.93889
+],
+  "geometry": {"coordinates":[30.08306,30.93889],"type":"Point"}
+}

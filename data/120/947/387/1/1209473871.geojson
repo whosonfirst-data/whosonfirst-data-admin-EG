@@ -1,0 +1,71 @@
+{
+  "id": 1209473871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06806,31.45333,31.06806,31.45333",
+    "geom:latitude":31.45333,
+    "geom:longitude":31.06806,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbah Raqm Thalathah wa Sittun",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7763059,
+    "gn:latitude":31.45333,
+    "gn:longitude":31.06806,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Izbah Raqm Thal\u0101thah wa Sitt\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0642\u0645 \u0666\u0663"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0642\u0645 63"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbah Raqm Thal\u0101thah wa Sitt\u016bn",
+        "\u2018Izbah Raqm 63"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7763059
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3edb305472d58959d545b8ba2fbd5b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209473871
+        }
+    ],
+    "wof:id":1209473871,
+    "wof:lastmodified":1537621140,
+    "wof:name":"`Izbah Raqm Thalathah wa Sittun",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06806,
+    31.45333,
+    31.06806,
+    31.45333
+],
+  "geometry": {"coordinates":[31.06806,31.45333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343683909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.79175,30.99955,29.79175,30.99955",
+    "geom:latitude":30.99955,
+    "geom:longitude":29.79175,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"An Nasiriyah",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415520,
+    "gn:latitude":30.99955,
+    "gn:longitude":29.79175,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"An N\u0101\u015fir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0635\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "An N\u0101\u015fir\u012byah",
+        "An-N\u0101\u1e63iriyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415520
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"76a10b2737f3cea459498c732cd5b89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":1343683909,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1343683909,
+    "wof:lastmodified":1537620985,
+    "wof:name":"An Nasiriyah",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79175,
+    30.99955,
+    29.79175,
+    30.99955
+],
+  "geometry": {"coordinates":[29.79175,30.99955],"type":"Point"}
+}

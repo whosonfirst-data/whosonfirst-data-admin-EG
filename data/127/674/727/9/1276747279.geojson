@@ -1,0 +1,72 @@
+{
+  "id": 1276747279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.77526,27.79853,30.77526,27.79853",
+    "geom:latitude":27.79853,
+    "geom:longitude":30.77526,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nawa",
+    "gn:country_code":"EG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351263,
+    "gn:latitude":27.79853,
+    "gn:longitude":30.77526,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naw\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawai",
+        "Naw\u0101y",
+        "Naw\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351263
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"54cb63f46089d52d24ead4788577576c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022005,
+            "locality_id":1276747279,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1276747279,
+    "wof:lastmodified":1537620616,
+    "wof:name":"Nawa",
+    "wof:parent_id":1092022005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.77526,
+    27.79853,
+    30.77526,
+    27.79853
+],
+  "geometry": {"coordinates":[30.77526,27.79853],"type":"Point"}
+}

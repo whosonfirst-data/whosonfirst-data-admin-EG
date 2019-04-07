@@ -1,0 +1,74 @@
+{
+  "id": 1260097867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.39951,31.24485,31.39951,31.24485",
+    "geom:latitude":31.24485,
+    "geom:longitude":31.39951,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kawm al Yahud",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8544628,
+    "gn:latitude":31.24485,
+    "gn:longitude":31.39951,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Kawm al Yah\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645 \u0627\u0644\u064a\u0647\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kawm al Yah\u016bd",
+        "Kawm al-Yah\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092015611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8544628
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5bccb1b418bc2c05f8e1582915e17489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015611,
+            "locality_id":1260097867,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1260097867,
+    "wof:lastmodified":1537621204,
+    "wof:name":"Kawm al Yahud",
+    "wof:parent_id":1092015611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.39951,
+    31.24485,
+    31.39951,
+    31.24485
+],
+  "geometry": {"coordinates":[31.39951,31.24485],"type":"Point"}
+}

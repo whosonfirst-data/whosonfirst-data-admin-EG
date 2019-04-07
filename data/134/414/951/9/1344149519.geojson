@@ -1,0 +1,67 @@
+{
+  "id": 1344149519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.70154,31.05764,29.70154,31.05764",
+    "geom:latitude":31.05764,
+    "geom:longitude":29.70154,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"El-Shaikh Mabrouk",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8555972,
+    "gn:latitude":31.05764,
+    "gn:longitude":29.70154,
+    "gn:modification_date":"2013-06-13",
+    "gn:name":"El-Shaikh Mabrouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8555972
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6baadb01c532e4776b9d7f12172def99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":1344149519,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1344149519,
+    "wof:lastmodified":1536746880,
+    "wof:name":"El-Shaikh Mabrouk",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.70154,
+    31.05764000000001,
+    29.70154,
+    31.05764000000001
+],
+  "geometry": {"coordinates":[29.70154,31.05764000000001],"type":"Point"}
+}

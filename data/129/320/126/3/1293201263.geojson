@@ -1,0 +1,74 @@
+{
+  "id": 1293201263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86123,29.30042,30.86123,29.30042",
+    "geom:latitude":29.30042,
+    "geom:longitude":30.86123,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Quhafah",
+    "gn:country_code":"EG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350486,
+    "gn:latitude":29.30042,
+    "gn:longitude":30.86123,
+    "gn:modification_date":"2017-07-10",
+    "gn:name":"Qu\u1e25\u0101fah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u062d\u0627\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Quh\u00e2fa",
+        "Qu\u1e29\u0101fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350486
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"463ac061b0deb313db83799fda8ff4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1293201263,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1293201263,
+    "wof:lastmodified":1537620594,
+    "wof:name":"Quhafah",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86123,
+    29.30042000000001,
+    30.86123,
+    29.30042000000001
+],
+  "geometry": {"coordinates":[30.86123,29.30042000000001],"type":"Point"}
+}

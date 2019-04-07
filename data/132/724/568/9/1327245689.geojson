@@ -1,0 +1,73 @@
+{
+  "id": 1327245689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61288,30.84548,31.61288,30.84548",
+    "geom:latitude":30.84548,
+    "geom:longitude":31.61288,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Sam`an ar Ratl",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433844,
+    "gn:latitude":30.84548,
+    "gn:longitude":31.61288,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Sam\u2018\u0101n ar Ra\u0163l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0633\u0645\u0639\u0627\u0646 \u0627\u0644\u0631\u0637\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Sam\u2018\u0101n ar Ra\u0163l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433844
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"907d8bc190c2491e3f530f8f81445c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1327245689,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1327245689,
+    "wof:lastmodified":1537621130,
+    "wof:name":"`Izbat Sam`an ar Ratl",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61288,
+    30.84548,
+    31.61288,
+    30.84548
+],
+  "geometry": {"coordinates":[31.61288,30.84548],"type":"Point"}
+}

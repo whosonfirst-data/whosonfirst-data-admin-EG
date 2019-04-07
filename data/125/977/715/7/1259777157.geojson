@@ -1,0 +1,71 @@
+{
+  "id": 1259777157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74537,27.98308,30.74537,27.98308",
+    "geom:latitude":27.98308,
+    "geom:longitude":30.74537,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bani Musa",
+    "gn:country_code":"EG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359200,
+    "gn:latitude":27.98308,
+    "gn:longitude":30.74537,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b M\u016bs\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Musa",
+        "Ban\u012b M\u016bs\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092014221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359200
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4631eb54a1a8bafa3fc5d049f63a1814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014221,
+            "locality_id":1259777157,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1259777157,
+    "wof:lastmodified":1537620830,
+    "wof:name":"Bani Musa",
+    "wof:parent_id":1092014221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74537,
+    27.98308,
+    30.74537,
+    27.98308
+],
+  "geometry": {"coordinates":[30.74537,27.98308],"type":"Point"}
+}

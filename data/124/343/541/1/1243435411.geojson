@@ -1,0 +1,71 @@
+{
+  "id": 1243435411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27542,29.52019,31.27542,29.52019",
+    "geom:latitude":29.52019,
+    "geom:longitude":31.27542,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Widy",
+    "gn:country_code":"EG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360459,
+    "gn:latitude":29.52019,
+    "gn:longitude":31.27542,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Widy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Widy",
+        "Al Widy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092019453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360459
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bc135fb1c45a9541cd5ddf973d366b7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019453,
+            "locality_id":1243435411,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1243435411,
+    "wof:lastmodified":1537620877,
+    "wof:name":"Al Widy",
+    "wof:parent_id":1092019453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27542,
+    29.52019,
+    31.27542,
+    29.52019
+],
+  "geometry": {"coordinates":[31.27542,29.52019],"type":"Point"}
+}

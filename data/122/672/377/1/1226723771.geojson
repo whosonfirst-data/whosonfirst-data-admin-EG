@@ -1,0 +1,74 @@
+{
+  "id": 1226723771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80982,30.712,31.80982,30.712",
+    "geom:latitude":30.712,
+    "geom:longitude":31.80982,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Taruti",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545714,
+    "gn:latitude":30.712,
+    "gn:longitude":31.80982,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat \u0162\u0101r\u016bt\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0637\u0627\u0631\u0648\u062a\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u0162\u0101r\u016bt\u012b",
+        "\u2018Izbat \u1e6c\u0101r\u016bti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545714
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bff6ba1dd83cad8652e0f93b9adc6ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1226723771,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226723771,
+    "wof:lastmodified":1537621270,
+    "wof:name":"`Izbat Taruti",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80982,
+    30.712,
+    31.80982,
+    30.712
+],
+  "geometry": {"coordinates":[31.80982,30.712],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226749333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72788,30.74632,30.72788,30.74632",
+    "geom:latitude":30.74632,
+    "geom:longitude":30.72788,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Mustafa ash Shurbaji",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421639,
+    "gn:latitude":30.74632,
+    "gn:longitude":30.72788,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Mu\u015f\u0163af\u00e1 ash Sh\u016brbaj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421639
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9e4433e4677fc3cf07bfe79549b09b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1226749333,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226749333,
+    "wof:lastmodified":1536710655,
+    "wof:name":"`Izbat Mustafa ash Shurbaji",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72788,
+    30.74632,
+    30.72788,
+    30.74632
+],
+  "geometry": {"coordinates":[30.72788,30.74632],"type":"Point"}
+}

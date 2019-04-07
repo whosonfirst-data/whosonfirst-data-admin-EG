@@ -1,0 +1,71 @@
+{
+  "id": 1226366475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75337,29.36266,30.75337,29.36266",
+    "geom:latitude":29.36266,
+    "geom:longitude":30.75337,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sinaru",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347929,
+    "gn:latitude":29.36266,
+    "gn:longitude":30.75337,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u012bnar\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Senr\u00fb",
+        "S\u012bnar\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092024457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347929
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d9572d78e716e356043b09d515a71acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024457,
+            "locality_id":1226366475,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1226366475,
+    "wof:lastmodified":1537620568,
+    "wof:name":"Sinaru",
+    "wof:parent_id":1092024457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75337,
+    29.36266,
+    30.75337,
+    29.36266
+],
+  "geometry": {"coordinates":[30.75337,29.36266],"type":"Point"}
+}

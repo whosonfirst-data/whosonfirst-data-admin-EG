@@ -1,0 +1,71 @@
+{
+  "id": 1343751429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88417,30.63532,30.88417,30.63532",
+    "geom:latitude":30.63532,
+    "geom:longitude":30.88417,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sahil al Jawabir",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349856,
+    "gn:latitude":30.63532,
+    "gn:longitude":30.88417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u0101\u1e29il al Jaw\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e2\u1e25il el-Gaw\u00e2bir",
+        "S\u0101\u1e29il al Jaw\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092019949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349856
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ccc3502b8c468c15e881a5fc97a0aea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019949,
+            "locality_id":1343751429,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1343751429,
+    "wof:lastmodified":1537620589,
+    "wof:name":"Sahil al Jawabir",
+    "wof:parent_id":1092019949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88417,
+    30.63532,
+    30.88417,
+    30.63532
+],
+  "geometry": {"coordinates":[30.88417,30.63532],"type":"Point"}
+}

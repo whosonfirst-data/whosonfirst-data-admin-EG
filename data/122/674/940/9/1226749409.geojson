@@ -1,0 +1,71 @@
+{
+  "id": 1226749409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.07633,30.5817,30.07633,30.5817",
+    "geom:latitude":30.5817,
+    "geom:longitude":30.07633,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Wihdah",
+    "gn:country_code":"EG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408911,
+    "gn:latitude":30.5817,
+    "gn:longitude":30.07633,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Wi\u1e29dah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Wi\u1e25da",
+        "Al Wi\u1e29dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092022959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408911
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b11f5be5ba97290592dc48b3d516f2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022959,
+            "locality_id":1226749409,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226749409,
+    "wof:lastmodified":1537620966,
+    "wof:name":"Al Wihdah",
+    "wof:parent_id":1092022959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.07633,
+    30.5817,
+    30.07633,
+    30.5817
+],
+  "geometry": {"coordinates":[30.07633,30.5817],"type":"Point"}
+}

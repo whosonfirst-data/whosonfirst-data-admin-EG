@@ -1,0 +1,71 @@
+{
+  "id": 1293206405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73695,29.38953,30.73695,29.38953",
+    "geom:latitude":29.38953,
+    "geom:longitude":30.73695,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Fadl Sa`id",
+    "gn:country_code":"EG",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357048,
+    "gn:latitude":29.38953,
+    "gn:longitude":30.73695,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Fa\u1e11l Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Fa\u1e0dl Sa\u2018\u00eed",
+        "\u2018Izbat Fa\u1e11l Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092024457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357048
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bdf4a153838ecd771208b20944f2e32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024457,
+            "locality_id":1293206405,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1293206405,
+    "wof:lastmodified":1537620782,
+    "wof:name":"`Izbat Fadl Sa`id",
+    "wof:parent_id":1092024457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73695,
+    29.38953,
+    30.73695,
+    29.38953
+],
+  "geometry": {"coordinates":[30.73695,29.38953],"type":"Point"}
+}

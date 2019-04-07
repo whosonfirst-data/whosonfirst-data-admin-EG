@@ -1,0 +1,76 @@
+{
+  "id": 1293672653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60452,30.79196,31.60452,30.79196",
+    "geom:latitude":30.79196,
+    "geom:longitude":31.60452,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ashnit al Harabwah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355482,
+    "gn:latitude":30.79196,
+    "gn:longitude":31.60452,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ashn\u012b\u0163 al \u1e28ar\u0101bwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0634\u0646\u064a\u0637 \u0627\u0644\u062d\u0631\u0627\u0628\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ishnit el-Harabwa",
+        "Ishn\u00ee\u1e6d el-\u1e24ar\u00e2biwa",
+        "Ishn\u012b\u0163 al \u1e28ar\u0101biwah",
+        "Ashn\u012b\u0163 al \u1e28ar\u0101bwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355482
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6012ce0395b15d4cdbf908691979919d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1293672653,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293672653,
+    "wof:lastmodified":1537620768,
+    "wof:name":"Ashnit al Harabwah",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60452,
+    30.79196,
+    31.60452,
+    30.79196
+],
+  "geometry": {"coordinates":[31.60452,30.79196],"type":"Point"}
+}

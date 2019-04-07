@@ -1,0 +1,308 @@
+{
+  "id": 1125766921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.28412,31.25654,32.28412,31.25654",
+    "geom:latitude":31.25654,
+    "geom:longitude":32.28412,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":538378,
+    "iso:country":"EG",
+    "lbl:latitude":31.25654,
+    "lbl:longitude":32.28412,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Port Said"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u0633\u0639\u064a\u062f"
+    ],
+    "name:arm_x_preferred":[
+        "\u054a\u0578\u0580\u057f \u054d\u0561\u056b\u0564"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631 \u0633\u0639\u064a\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Port-S\u0259id"
+    ],
+    "name:baq_x_preferred":[
+        "Port Said"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041f\u043e\u0440\u0442-\u0421\u0430\u0456\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cb\u09b0\u09cd\u099f \u09b8\u0988\u09a6"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u0421\u0430\u0438\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Port Sa\u00efd"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0443\u0440-\u0421\u0430\u04c0\u0438\u0439\u0434"
+    ],
+    "name:chi_x_preferred":[
+        "\u585e\u5fb7\u6e2f"
+    ],
+    "name:cze_x_preferred":[
+        "Port Said"
+    ],
+    "name:dan_x_preferred":[
+        "Port Said"
+    ],
+    "name:dut_x_preferred":[
+        "Port Said"
+    ],
+    "name:eng_x_preferred":[
+        "Port Said"
+    ],
+    "name:epo_x_preferred":[
+        "Port Said"
+    ],
+    "name:est_x_preferred":[
+        "Port Said"
+    ],
+    "name:fin_x_preferred":[
+        "Port Said"
+    ],
+    "name:fre_x_preferred":[
+        "Port-Sa\u00efd"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2-\u10e1\u10d0\u10d8\u10d3\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Port Said"
+    ],
+    "name:gle_x_preferred":[
+        "Port Said"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4 \u03a3\u03ac\u03b9\u03bd\u03c4"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acb\u0ab0\u0acd\u0a9f \u0ab8\u0ac8\u0aa1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05e1\u05e2\u05d9\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0938\u0908\u0926"
+    ],
+    "name:hrv_x_preferred":[
+        "Port Said"
+    ],
+    "name:hun_x_preferred":[
+        "Port Sza\u00edd"
+    ],
+    "name:ice_x_preferred":[
+        "Port Sa\u00edd"
+    ],
+    "name:ile_x_preferred":[
+        "Port Said"
+    ],
+    "name:ind_x_preferred":[
+        "Bursaid"
+    ],
+    "name:ita_x_preferred":[
+        "Porto Said"
+    ],
+    "name:jav_x_preferred":[
+        "Port Said"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30b5\u30a4\u30c9"
+    ],
+    "name:kal_x_preferred":[
+        "Port Said"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0cb8\u0cc6\u0ca1\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0421\u0430\u0438\u0434"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ud2b8\uc0ac\uc774\ub4dc"
+    ],
+    "name:lav_x_preferred":[
+        "Portsa\u012bda"
+    ],
+    "name:lit_x_preferred":[
+        "Port Saidas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0941\u0930 \u0938\u0948\u0926"
+    ],
+    "name:may_x_preferred":[
+        "Port Said"
+    ],
+    "name:nau_x_preferred":[
+        "Port Said"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u094b\u0930\u094d\u091f \u0938\u093e\u092f\u0926"
+    ],
+    "name:nno_x_preferred":[
+        "Port Said"
+    ],
+    "name:nob_x_preferred":[
+        "Port Said"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a4b\u0a30 \u0a38\u0a08\u0a26"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u200c\u0633\u0639\u06cc\u062f"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u0633\u0639\u06cc\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Port Said"
+    ],
+    "name:por_x_preferred":[
+        "Porto Said"
+    ],
+    "name:rum_x_preferred":[
+        "Port Said"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0421\u0430\u0438\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Port Said"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0ddd\u0dbb\u0dca\u0da7\u0dca \u0dc3\u0dba\u0dd2\u0da9\u0dca"
+    ],
+    "name:slo_x_preferred":[
+        "Port Said"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Sa\u00edd"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0440\u0442 \u0421\u0430\u0438\u0434"
+    ],
+    "name:swa_x_preferred":[
+        "Port Said"
+    ],
+    "name:swe_x_preferred":[
+        "Port Said"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b9a\u0bc6\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d \u0c38\u0c46\u0c21\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e0b\u0e32\u0e2d\u0e34\u0e14"
+    ],
+    "name:tur_x_preferred":[
+        "Port Said"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0421\u0430\u0457\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u0633\u0639\u06cc\u062f"
+    ],
+    "name:uzb_x_preferred":[
+        "Port-said"
+    ],
+    "name:vie_x_preferred":[
+        "Port Said"
+    ],
+    "name:war_x_preferred":[
+        "Port Said"
+    ],
+    "name:wel_x_preferred":[
+        "Port Said"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2-\u10e1\u10d0\u10d8\u10d3\u10d8"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":358619,
+    "qs_pg:gn_pop":538378,
+    "qs_pg:name":"\u0628\u0648\u0631\u0633\u0639\u064a\u062f",
+    "qs_pg:name_adm0":"\u0645\u0635\u0631",
+    "qs_pg:name_adm1":"\u0628\u0648\u0631\u0633\u0639\u064a\u062f",
+    "qs_pg:photos":186,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":696,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":11,
+    "qs_pg:qs_id":1075478,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424802,
+    "qs_pg:woe_id":1525969,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424802,
+    "woe:name_adm0":"\u0645\u0635\u0631",
+    "woe:name_adm1":"\u0628\u0648\u0631\u0633\u0639\u064a\u062f",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671021,
+        1092018325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358619,
+        "gp:id":1525969,
+        "qs_pg:id":1075478,
+        "wd:id":"Q134509"
+    },
+    "wof:country":"EG",
+    "wof:created":1497289930,
+    "wof:geomhash":"a1b5b56d37c7836e76c798f6185905e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018325,
+            "locality_id":1125766921,
+            "region_id":85671021
+        }
+    ],
+    "wof:id":1125766921,
+    "wof:lastmodified":1513956728,
+    "wof:name":"\u0628\u0648\u0631\u0633\u0639\u064a\u062f",
+    "wof:parent_id":1092018325,
+    "wof:placetype":"locality",
+    "wof:population":538378,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.28412,
+    31.25654,
+    32.28412,
+    31.25654
+],
+  "geometry": {"coordinates":[32.28412,31.25654],"type":"Point"}
+}

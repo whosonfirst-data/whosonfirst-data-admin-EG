@@ -1,0 +1,74 @@
+{
+  "id": 1310692031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28129,29.82913,31.28129,29.82913",
+    "geom:latitude":29.82913,
+    "geom:longitude":31.28129,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"At Tarfayah",
+    "gn:country_code":"EG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359703,
+    "gn:latitude":29.82913,
+    "gn:longitude":31.28129,
+    "gn:modification_date":"2017-07-10",
+    "gn:name":"A\u0163 \u0162arf\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0631\u0641\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e6carf\u00e2ya",
+        "A\u0163 \u0162arf\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092017019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359703
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bdc38d8987970d32e64e96437fb331af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017019,
+            "locality_id":1310692031,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1310692031,
+    "wof:lastmodified":1537620846,
+    "wof:name":"At Tarfayah",
+    "wof:parent_id":1092017019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28129,
+    29.82913,
+    31.28129,
+    29.82913
+],
+  "geometry": {"coordinates":[31.28129,29.82913],"type":"Point"}
+}

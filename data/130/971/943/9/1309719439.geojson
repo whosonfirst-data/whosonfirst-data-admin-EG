@@ -1,0 +1,67 @@
+{
+  "id": 1309719439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9518,30.99782,29.9518,30.99782",
+    "geom:latitude":30.99782,
+    "geom:longitude":29.9518,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Haris Raqm Sittah",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433943,
+    "gn:latitude":30.99782,
+    "gn:longitude":29.9518,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Al \u1e28\u0101ris Raqm Sittah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433943
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"347b73534c99f264c89a3c7745501ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1309719439,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1309719439,
+    "wof:lastmodified":1537053248,
+    "wof:name":"Al Haris Raqm Sittah",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9518,
+    30.99782,
+    29.9518,
+    30.99782
+],
+  "geometry": {"coordinates":[29.9518,30.99782],"type":"Point"}
+}

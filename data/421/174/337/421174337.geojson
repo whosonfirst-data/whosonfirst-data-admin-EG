@@ -1,0 +1,132 @@
+{
+  "id": 421174337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81841,27.4402,30.81841,27.4402",
+    "geom:latitude":27.4402,
+    "geom:longitude":30.81841,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0635\u064a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Qusiya"
+    ],
+    "name:dut_x_preferred":[
+        "Cusae"
+    ],
+    "name:eng_x_preferred":[
+        "Cusae"
+    ],
+    "name:fre_x_preferred":[
+        "Cusae"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e5\u10e3\u10d6\u10d4\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Al-Qusiyya"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c3\u03ac\u03b9"
+    ],
+    "name:hrv_x_preferred":[
+        "Kis"
+    ],
+    "name:ita_x_preferred":[
+        "Cusae"
+    ],
+    "name:lit_x_preferred":[
+        "Kusai"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Kusijja"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0443\u0441\u0438\u044f"
+    ],
+    "name:slo_x_preferred":[
+        "Cusae"
+    ],
+    "name:spa_x_preferred":[
+        "Cusae"
+    ],
+    "name:swe_x_preferred":[
+        "Al Q\u016b\u015f\u012byah"
+    ],
+    "name:unk_x_variant":[
+        "El Q\u016bs\u012bya"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":360526,
+    "qs:gn_pop":68394,
+    "qs:name":"Al Qusiyah",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0633\u064a\u0648\u0637",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":781023,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1521962,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092019229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360526,
+        "gp:id":1521962,
+        "qs:id":781023,
+        "wd:id":"Q310844",
+        "wk:page":"Cusae"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009028,
+    "wof:geomhash":"93a1ce0528c11afd7b884f5291aad5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019229,
+            "locality_id":421174337,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":421174337,
+    "wof:lastmodified":1513956652,
+    "wof:name":"Al Qusiyah",
+    "wof:parent_id":1092019229,
+    "wof:placetype":"locality",
+    "wof:population":68394,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81841,
+    27.4402,
+    30.81841,
+    27.4402
+],
+  "geometry": {"coordinates":[30.81841,27.4402],"type":"Point"}
+}

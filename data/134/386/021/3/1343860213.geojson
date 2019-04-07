@@ -1,0 +1,76 @@
+{
+  "id": 1343860213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55917,30.82472,30.55917,30.82472",
+    "geom:latitude":30.82472,
+    "geom:longitude":30.55917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zumran an Nakhl",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345979,
+    "gn:latitude":30.82472,
+    "gn:longitude":30.55917,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Zumr\u0101n an Nakhl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0645\u0631\u0627\u0646 \u0627\u0644\u0646\u062e\u0644"
+    ],
+    "name:und_x_variant":[
+        "Zimr\u00e2n en-Nakhl",
+        "Zumr\u00e2n el-Nakhl",
+        "Zumr\u0101n an Nakhl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345979
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e65870f79ee2f7d5f929f733f5fe882b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1343860213,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343860213,
+    "wof:lastmodified":1537620543,
+    "wof:name":"Zumran an Nakhl",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55917,
+    30.82472000000001,
+    30.55917,
+    30.82472000000001
+],
+  "geometry": {"coordinates":[30.55917,30.82472000000001],"type":"Point"}
+}

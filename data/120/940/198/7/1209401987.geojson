@@ -1,0 +1,68 @@
+{
+  "id": 1209401987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19843,30.36757,31.19843,30.36757",
+    "geom:latitude":30.36757,
+    "geom:longitude":31.19843,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr `Ulwan",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354236,
+    "gn:latitude":30.36757,
+    "gn:longitude":31.19843,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u2018Ulw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0639\u0644\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u2018Ulw\u0101n",
+        "Kafr \u2018Ilw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354236
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5fbe0ad4a969e406d078b0d016614da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209401987
+        }
+    ],
+    "wof:id":1209401987,
+    "wof:lastmodified":1537620698,
+    "wof:name":"Kafr `Ulwan",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19843,
+    30.36757,
+    31.19843,
+    30.36757
+],
+  "geometry": {"coordinates":[31.19843,30.36757],"type":"Point"}
+}

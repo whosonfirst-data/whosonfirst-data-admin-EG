@@ -1,0 +1,70 @@
+{
+  "id": 1209473895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00694,31.14535,31.00694,31.14535",
+    "geom:latitude":31.14535,
+    "geom:longitude":31.00694,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Nusrah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350905,
+    "gn:latitude":31.14535,
+    "gn:longitude":31.00694,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Nu\u015frah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0635\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nu\u1e63ra",
+        "Nu\u015frah",
+        "Na\u1e63rah",
+        "Na\u015frah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350905
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4ea55ddf48ea9ff71e2687a7d3751de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209473895
+        }
+    ],
+    "wof:id":1209473895,
+    "wof:lastmodified":1537620600,
+    "wof:name":"Nusrah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00694,
+    31.14535,
+    31.00694,
+    31.14535
+],
+  "geometry": {"coordinates":[31.00694,31.14535],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344240469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4122,30.60441,31.4122,30.60441",
+    "geom:latitude":30.60441,
+    "geom:longitude":31.4122,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tall Musmar",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347564,
+    "gn:latitude":30.60441,
+    "gn:longitude":31.4122,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tall Musm\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0645\u0633\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tall Musm\u0101r",
+        "Tall Mism\u0101r",
+        "Tell Musm\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347564
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"94f4d61b1b0db290e1a0182b7c4500f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1344240469,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1344240469,
+    "wof:lastmodified":1537620561,
+    "wof:name":"Tall Musmar",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4122,
+    30.60441,
+    31.4122,
+    30.60441
+],
+  "geometry": {"coordinates":[31.4122,30.60441],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276865801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.648,28.26728,30.648,28.26728",
+    "geom:latitude":28.26728,
+    "geom:longitude":30.648,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"At Tayyibah",
+    "gn:country_code":"EG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359685,
+    "gn:latitude":28.26728,
+    "gn:longitude":30.648,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u0163 \u0162ayyibah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ta\u00eeyiba",
+        "Et Taiyiba",
+        "A\u0163 \u0162ayyibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092024217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359685
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"14ae2a97e654c8721be08194c0f90ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024217,
+            "locality_id":1276865801,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1276865801,
+    "wof:lastmodified":1537620845,
+    "wof:name":"At Tayyibah",
+    "wof:parent_id":1092024217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.648,
+    28.26728,
+    30.648,
+    28.26728
+],
+  "geometry": {"coordinates":[30.648,28.26728],"type":"Point"}
+}

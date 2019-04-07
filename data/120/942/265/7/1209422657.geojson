@@ -1,0 +1,61 @@
+{
+  "id": 1209422657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43417,30.95611,30.43417,30.95611",
+    "geom:latitude":30.95611,
+    "geom:longitude":30.43417,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Ezbet Mazyad",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357229,
+    "gn:latitude":30.95611,
+    "gn:longitude":30.43417,
+    "gn:modification_date":"1997-08-14",
+    "gn:name":"\u2018Ezbet Mazyad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357229
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5aea8d02f9cbe9f515c9e2d5cf530da1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209422657
+        }
+    ],
+    "wof:id":1209422657,
+    "wof:lastmodified":1536287480,
+    "wof:name":"`Ezbet Mazyad",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43417,
+    30.95611,
+    30.43417,
+    30.95611
+],
+  "geometry": {"coordinates":[30.43417,30.95611],"type":"Point"}
+}

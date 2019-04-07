@@ -1,0 +1,74 @@
+{
+  "id": 1343867779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27961,31.17254,31.27961,31.17254",
+    "geom:latitude":31.17254,
+    "geom:longitude":31.27961,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Abu Talib",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543509,
+    "gn:latitude":31.17254,
+    "gn:longitude":31.27961,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"\u2018Izbat Ab\u016b \u0162\u0101lib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0637\u0627\u0644\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b \u0162\u0101lib",
+        "\u2018Izbat Ab\u016b \u1e6c\u0101lib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543509
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5efa56b75d69df7f756ce0b4603e4ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1343867779,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1343867779,
+    "wof:lastmodified":1537621198,
+    "wof:name":"`Izbat Abu Talib",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27961,
+    31.17254,
+    31.27961,
+    31.17254
+],
+  "geometry": {"coordinates":[31.27961,31.17254],"type":"Point"}
+}

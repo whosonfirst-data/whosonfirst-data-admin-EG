@@ -1,0 +1,72 @@
+{
+  "id": 1276524035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.22981,27.05546,31.22981,27.05546",
+    "geom:latitude":27.05546,
+    "geom:longitude":31.22981,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Az Zawiyah",
+    "gn:country_code":"EG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359486,
+    "gn:latitude":27.05546,
+    "gn:longitude":31.22981,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az Z\u0101wiyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Z\u00e2wya",
+        "Ez Z\u0101wiya",
+        "Az Z\u0101wiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359486
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0c61c3ab93308d2d3d302beaed37af5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014633,
+            "locality_id":1276524035,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1276524035,
+    "wof:lastmodified":1537620839,
+    "wof:name":"Az Zawiyah",
+    "wof:parent_id":1092014633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.22981,
+    27.05546,
+    31.22981,
+    27.05546
+],
+  "geometry": {"coordinates":[31.22981,27.05546],"type":"Point"}
+}

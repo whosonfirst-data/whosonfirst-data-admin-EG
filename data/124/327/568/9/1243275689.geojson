@@ -1,0 +1,74 @@
+{
+  "id": 1243275689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57946,31.09689,30.57946,31.09689",
+    "geom:latitude":31.09689,
+    "geom:longitude":30.57946,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nizarat al Banna",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415939,
+    "gn:latitude":31.09689,
+    "gn:longitude":30.57946,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Niz\u0327\u0101rat al Bann\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0638\u0627\u0631\u0629 \u0627\u0644\u0628\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Niz\u0327\u0101rat al Bann\u0101",
+        "Ni\u1e93\u0101rat al-Bann\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415939
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3efee9e651b3e14b3fcbad1403e67646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019273,
+            "locality_id":1243275689,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243275689,
+    "wof:lastmodified":1537621006,
+    "wof:name":"Nizarat al Banna",
+    "wof:parent_id":1092019273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57946,
+    31.09689,
+    30.57946,
+    31.09689
+],
+  "geometry": {"coordinates":[30.57946,31.09689],"type":"Point"}
+}

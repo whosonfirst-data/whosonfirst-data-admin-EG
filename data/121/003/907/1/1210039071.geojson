@@ -1,0 +1,75 @@
+{
+  "id": 1210039071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.77181,30.77301,30.77181,30.77301",
+    "geom:latitude":30.77301,
+    "geom:longitude":30.77181,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr Ya`qub",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354015,
+    "gn:latitude":30.77301,
+    "gn:longitude":30.77181,
+    "gn:modification_date":"2017-07-10",
+    "gn:name":"Kafr Ya\u2018q\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u064a\u0639\u0642\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Kafr Ya\u2018q\u00fbb",
+        "Karfy Y\u00e2qubo",
+        "Kafr Ya\u2018q\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092021623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354015
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f6461f9ad2ed13ab78c103171e15444c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021623,
+            "locality_id":1210039071,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1210039071,
+    "wof:lastmodified":1537620682,
+    "wof:name":"Kafr Ya`qub",
+    "wof:parent_id":1092021623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.77181,
+    30.77301,
+    30.77181,
+    30.77301
+],
+  "geometry": {"coordinates":[30.77181,30.77301],"type":"Point"}
+}

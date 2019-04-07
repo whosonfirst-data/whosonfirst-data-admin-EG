@@ -1,0 +1,74 @@
+{
+  "id": 1259806495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11886,30.72953,31.11886,30.72953",
+    "geom:latitude":30.72953,
+    "geom:longitude":31.11886,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Munsha'at as Santah",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352414,
+    "gn:latitude":30.72953,
+    "gn:longitude":31.11886,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Munsha\u2019at as San\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u0627\u0644\u0633\u0646\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Minsh\u00e2t el-San\u1e6da",
+        "Munsha\u2019at as San\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352414
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4b59ee60bc60c3788da760fc593c745e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1259806495,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1259806495,
+    "wof:lastmodified":1537620652,
+    "wof:name":"Munsha'at as Santah",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11886,
+    30.72953,
+    31.11886,
+    30.72953
+],
+  "geometry": {"coordinates":[31.11886,30.72953],"type":"Point"}
+}

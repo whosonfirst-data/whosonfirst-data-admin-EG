@@ -1,0 +1,75 @@
+{
+  "id": 1293337861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35098,31.04032,33.35098,31.04032",
+    "geom:latitude":31.04032,
+    "geom:longitude":33.35098,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Qaryat ar Rawdah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410171,
+    "gn:latitude":31.04032,
+    "gn:longitude":33.35098,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Qaryat ar Raw\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0631\u0648\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat el-R\u00f4\u1e0da",
+        "Qaryat ar Ra\u1e11ah",
+        "Qaryat ar Raw\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092015521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410171
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e6f68cab3fd64d649cfee7a2454124fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015521,
+            "locality_id":1293337861,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1293337861,
+    "wof:lastmodified":1537620968,
+    "wof:name":"Qaryat ar Rawdah",
+    "wof:parent_id":1092015521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35098,
+    31.04032,
+    33.35098,
+    31.04032
+],
+  "geometry": {"coordinates":[33.35098,31.04032],"type":"Point"}
+}

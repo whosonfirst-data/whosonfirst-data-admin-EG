@@ -1,0 +1,71 @@
+{
+  "id": 1293293167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85361,29.25964,30.85361,29.25964",
+    "geom:latitude":29.25964,
+    "geom:longitude":30.85361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dayr al `Azab",
+    "gn:country_code":"EG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358290,
+    "gn:latitude":29.25964,
+    "gn:longitude":30.85361,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dayr al \u2018Azab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deir el \u2018Azab",
+        "Dayr al \u2018Azab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358290
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c93f6453d8afdeca138dc2f459cf53c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1293293167,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1293293167,
+    "wof:lastmodified":1537620811,
+    "wof:name":"Dayr al `Azab",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85361,
+    29.25964,
+    30.85361,
+    29.25964
+],
+  "geometry": {"coordinates":[30.85361,29.25964],"type":"Point"}
+}

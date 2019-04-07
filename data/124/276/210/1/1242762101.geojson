@@ -1,0 +1,76 @@
+{
+  "id": 1242762101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83957,30.37538,30.83957,30.37538",
+    "geom:latitude":30.37538,
+    "geom:longitude":30.83957,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Khatatibah al Balad",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360917,
+    "gn:latitude":30.37538,
+    "gn:longitude":30.83957,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al Kha\u0163\u0101\u0163ibah al Balad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0637\u0627\u0637\u0628\u0629 \u0627\u0644\u0628\u0644\u062f"
+    ],
+    "name:und_x_variant":[
+        "El Kha\u1e6da\u1e6dba",
+        "Al Kha\u0163\u0101\u0163ibah",
+        "Al Kha\u0163\u0101\u0163ibah al Balad",
+        "Al-Kha\u1e6d\u0101\u1e6dbah al-Balad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360917
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2cf8aff3f27d243465451b3df0524ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019405,
+            "locality_id":1242762101,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242762101,
+    "wof:lastmodified":1537620904,
+    "wof:name":"Al Khatatibah al Balad",
+    "wof:parent_id":1092019405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83957,
+    30.37538,
+    30.83957,
+    30.37538
+],
+  "geometry": {"coordinates":[30.83957,30.37538],"type":"Point"}
+}

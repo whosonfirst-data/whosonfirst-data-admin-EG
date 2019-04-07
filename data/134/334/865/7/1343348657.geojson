@@ -1,0 +1,71 @@
+{
+  "id": 1343348657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.29541,30.2568,31.29541,30.2568",
+    "geom:latitude":30.2568,
+    "geom:longitude":31.29541,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nub Taha'",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350980,
+    "gn:latitude":30.2568,
+    "gn:longitude":31.29541,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u016bb \u0162\u0101\u1e29\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00fbb \u1e6c\u00e2\u1e25a",
+        "N\u016bb \u0162\u0101\u1e29\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092024593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350980
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"53d08f2d5afb264b829c96ab41930854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024593,
+            "locality_id":1343348657,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1343348657,
+    "wof:lastmodified":1537620602,
+    "wof:name":"Nub Taha'",
+    "wof:parent_id":1092024593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29541,
+    30.2568,
+    31.29541,
+    30.2568
+],
+  "geometry": {"coordinates":[31.29541,30.2568],"type":"Point"}
+}

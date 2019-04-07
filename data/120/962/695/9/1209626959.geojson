@@ -1,0 +1,61 @@
+{
+  "id": 1209626959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68056,30.67611,30.68056,30.67611",
+    "geom:latitude":30.67611,
+    "geom:longitude":30.68056,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat Hira'",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421628,
+    "gn:latitude":30.67611,
+    "gn:longitude":30.68056,
+    "gn:modification_date":"2001-04-20",
+    "gn:name":"Qaryat \u1e28ir\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421628
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"48d6dbfd1fdc25a5dd8f025e41ef8232",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209626959
+        }
+    ],
+    "wof:id":1209626959,
+    "wof:lastmodified":1536281324,
+    "wof:name":"Qaryat Hira'",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68056,
+    30.67611,
+    30.68056,
+    30.67611
+],
+  "geometry": {"coordinates":[30.68056,30.67611],"type":"Point"}
+}

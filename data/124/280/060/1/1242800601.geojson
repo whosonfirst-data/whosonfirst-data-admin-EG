@@ -1,0 +1,71 @@
+{
+  "id": 1242800601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85723,30.89057,30.85723,30.89057",
+    "geom:latitude":30.89057,
+    "geom:longitude":30.85723,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr Sulayman al Lawh",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354060,
+    "gn:latitude":30.89057,
+    "gn:longitude":30.85723,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Sulaym\u0101n al Law\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Sul\u00eem\u00e2n el-L\u00f4\u1e25",
+        "Kafr Sulaym\u0101n al Law\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092015375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354060
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ee1e99fa35a61c0a13c55242a0e351a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015375,
+            "locality_id":1242800601,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1242800601,
+    "wof:lastmodified":1537620686,
+    "wof:name":"Kafr Sulayman al Lawh",
+    "wof:parent_id":1092015375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85723,
+    30.89057,
+    30.85723,
+    30.89057
+],
+  "geometry": {"coordinates":[30.85723,30.89057],"type":"Point"}
+}

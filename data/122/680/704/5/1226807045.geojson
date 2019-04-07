@@ -1,0 +1,73 @@
+{
+  "id": 1226807045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4,26.88333,31.4,26.88333",
+    "geom:latitude":26.88333,
+    "geom:longitude":31.4,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Jibab",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361000,
+    "gn:latitude":26.88333,
+    "gn:longitude":31.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jib\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gab\u00e2b",
+        "El-Gib\u00e2b",
+        "Al Jib\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092025329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361000
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"281944259408c8a0c3e2410788c2531c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025329,
+            "locality_id":1226807045,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1226807045,
+    "wof:lastmodified":1537620909,
+    "wof:name":"Al Jibab",
+    "wof:parent_id":1092025329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4,
+    26.88333,
+    31.4,
+    26.88333
+],
+  "geometry": {"coordinates":[31.4,26.88333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343645405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73103,28.64914,30.73103,28.64914",
+    "geom:latitude":28.64914,
+    "geom:longitude":30.73103,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al `Aqliyah",
+    "gn:country_code":"EG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361563,
+    "gn:latitude":28.64914,
+    "gn:longitude":30.73103,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Aql\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Aql\u00eeya",
+        "Al \u2018Aql\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092021965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361563
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f286e79125a0ca0461b784e37f32423d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021965,
+            "locality_id":1343645405,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1343645405,
+    "wof:lastmodified":1537620944,
+    "wof:name":"Al `Aqliyah",
+    "wof:parent_id":1092021965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73103,
+    28.64914000000001,
+    30.73103,
+    28.64914000000001
+],
+  "geometry": {"coordinates":[30.73103,28.64914000000001],"type":"Point"}
+}

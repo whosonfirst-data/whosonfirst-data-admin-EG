@@ -1,0 +1,77 @@
+{
+  "id": 1242563073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14336,30.15232,31.14336,30.15232",
+    "geom:latitude":30.15232,
+    "geom:longitude":31.14336,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Quratiyin",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360544,
+    "gn:latitude":30.15232,
+    "gn:longitude":31.14336,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qur\u0101\u0163\u012by\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qur\u0101\u0163\u012by\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0631\u0627\u0637\u064a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-Qur\u00e2\u1e6d\u00eey\u00een",
+        "Al Qur\u0101\u0163\u012by\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092023283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360544
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fc03e835be6cd115f196da2fbd6429c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023283,
+            "locality_id":1242563073,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1242563073,
+    "wof:lastmodified":1537620881,
+    "wof:name":"Al Quratiyin",
+    "wof:parent_id":1092023283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14336,
+    30.15232,
+    31.14336,
+    30.15232
+],
+  "geometry": {"coordinates":[31.14336,30.15232],"type":"Point"}
+}

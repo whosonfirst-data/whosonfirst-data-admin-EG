@@ -1,0 +1,71 @@
+{
+  "id": 1343444853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79784,27.82888,30.79784,27.82888",
+    "geom:latitude":27.82888,
+    "geom:longitude":30.79784,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Mahras",
+    "gn:country_code":"EG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360818,
+    "gn:latitude":27.82888,
+    "gn:longitude":30.79784,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ma\u1e29ra\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ma\u1e25ras",
+        "Al Ma\u1e29ra\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360818
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bc73a55e6ba8b77faa43de7d7a81e821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022005,
+            "locality_id":1343444853,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1343444853,
+    "wof:lastmodified":1537620899,
+    "wof:name":"Al Mahras",
+    "wof:parent_id":1092022005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79784,
+    27.82888,
+    30.79784,
+    27.82888
+],
+  "geometry": {"coordinates":[30.79784,27.82888],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1225908669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08632,31.35,31.08632,31.35",
+    "geom:latitude":31.35,
+    "geom:longitude":31.08632,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbah Raqm `Ishrun",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7763433,
+    "gn:latitude":31.35,
+    "gn:longitude":31.08632,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Izbah Raqm \u2018Ishr\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0642\u0645 \u0662\u0660"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0642\u0645 20"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbah Raqm \u2018Ishr\u016bn",
+        "\u2018Izbah Raqm 20"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7763433
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7f8c54b1f269bf57223c6d175e04d74b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017993,
+            "locality_id":1225908669,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1225908669,
+    "wof:lastmodified":1537621141,
+    "wof:name":"`Izbah Raqm `Ishrun",
+    "wof:parent_id":1092017993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08632,
+    31.35,
+    31.08632,
+    31.35
+],
+  "geometry": {"coordinates":[31.08632,31.35],"type":"Point"}
+}

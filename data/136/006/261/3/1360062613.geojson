@@ -1,0 +1,72 @@
+{
+  "id": 1360062613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33336,30.334,31.33336,30.334",
+    "geom:latitude":30.334,
+    "geom:longitude":31.33336,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr Sulayman al Wirr",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354059,
+    "gn:latitude":30.334,
+    "gn:longitude":31.33336,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Sulaym\u0101n al Wirr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Sul\u00eem\u00e2n el-Win",
+        "Kafr Sul\u00eem\u00e2n el-Wirr",
+        "Kafr Sulaym\u0101n al Wirr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092024593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354059
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ec9702ad1fc966ad2e7c064be9573599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024593,
+            "locality_id":1360062613,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1360062613,
+    "wof:lastmodified":1537620686,
+    "wof:name":"Kafr Sulayman al Wirr",
+    "wof:parent_id":1092024593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33336,
+    30.334,
+    31.33336,
+    30.334
+],
+  "geometry": {"coordinates":[31.33336,30.334],"type":"Point"}
+}

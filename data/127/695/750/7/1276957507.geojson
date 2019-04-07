@@ -1,0 +1,67 @@
+{
+  "id": 1276957507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.96583,30.80694,31.96583,30.80694",
+    "geom:latitude":30.80694,
+    "geom:longitude":31.96583,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Ikhyiwwah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357880,
+    "gn:latitude":30.80694,
+    "gn:longitude":31.96583,
+    "gn:modification_date":"2001-04-25",
+    "gn:name":"Al Ikhyiwwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357880
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0e439ee5f7e9b86c12af46d586ee15e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1276957507,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276957507,
+    "wof:lastmodified":1536938100,
+    "wof:name":"Al Ikhyiwwah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.96583,
+    30.80694,
+    31.96583,
+    30.80694
+],
+  "geometry": {"coordinates":[31.96583,30.80694],"type":"Point"}
+}

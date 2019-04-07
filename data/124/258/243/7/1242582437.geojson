@@ -1,0 +1,74 @@
+{
+  "id": 1242582437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86398,30.88646,30.86398,30.88646",
+    "geom:latitude":30.88646,
+    "geom:longitude":30.86398,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Haddad",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361265,
+    "gn:latitude":30.88646,
+    "gn:longitude":30.86398,
+    "gn:modification_date":"2017-07-10",
+    "gn:name":"Al \u1e28add\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062f\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e24add\u00e2d",
+        "Al \u1e28add\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092015375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361265
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4519ec46ab7a6e0784d244d201dec791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015375,
+            "locality_id":1242582437,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1242582437,
+    "wof:lastmodified":1537620926,
+    "wof:name":"Al Haddad",
+    "wof:parent_id":1092015375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86398,
+    30.88646,
+    30.86398,
+    30.88646
+],
+  "geometry": {"coordinates":[30.86398,30.88646],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259785455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06944,31.04917,30.06944,31.04917",
+    "geom:latitude":31.04917,
+    "geom:longitude":30.06944,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Isma`il Sidqi Basha",
+    "gn:country_code":"EG",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355455,
+    "gn:latitude":31.04917,
+    "gn:longitude":30.06944,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat Ism\u0101\u2018\u012bl \u015eidq\u012b B\u0101sh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Yanni Banoyoti",
+        "\u2018Ezbet Ism\u00e2\u2018\u00eel \u1e62idqi",
+        "Ism\u00e2\u2018\u00eel \u015eidqi Pasha",
+        "\u2018Izbat Ism\u0101\u2018\u012bl \u015eidq\u012b B\u0101sh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355455
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0621907c39841510493f8042792c6fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1259785455,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259785455,
+    "wof:lastmodified":1537620767,
+    "wof:name":"`Izbat Isma`il Sidqi Basha",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06944,
+    31.04917,
+    30.06944,
+    31.04917
+],
+  "geometry": {"coordinates":[30.06944,31.04917],"type":"Point"}
+}

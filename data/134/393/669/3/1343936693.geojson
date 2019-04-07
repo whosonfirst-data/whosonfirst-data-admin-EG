@@ -1,0 +1,75 @@
+{
+  "id": 1343936693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.72761,30.89559,31.72761,30.89559",
+    "geom:latitude":30.89559,
+    "geom:longitude":31.72761,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tall Rak",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347562,
+    "gn:latitude":30.89559,
+    "gn:longitude":31.72761,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tall R\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0631\u0627\u0643"
+    ],
+    "name:und_x_variant":[
+        "Tell R\u00e2k",
+        "Tel R\u00e2k",
+        "Tall R\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347562
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"50a82fbcb7d45c98d4f23c475cc75f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015105,
+            "locality_id":1343936693,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343936693,
+    "wof:lastmodified":1537620560,
+    "wof:name":"Tall Rak",
+    "wof:parent_id":1092015105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.72761,
+    30.89559,
+    31.72761,
+    30.89559
+],
+  "geometry": {"coordinates":[31.72761,30.89559],"type":"Point"}
+}

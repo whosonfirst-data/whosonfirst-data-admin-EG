@@ -1,0 +1,73 @@
+{
+  "id": 1360265381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18307,30.3032,31.18307,30.3032",
+    "geom:latitude":30.3032,
+    "geom:longitude":31.18307,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tirsa",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347263,
+    "gn:latitude":30.3032,
+    "gn:longitude":31.18307,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tirs\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Tirs\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0631\u0633\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347263
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cf4c7e2b6df6f5e5d42e5109f1d978b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1360265381,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1360265381,
+    "wof:lastmodified":1537620556,
+    "wof:name":"Tirsa",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18307,
+    30.3032,
+    31.18307,
+    30.3032
+],
+  "geometry": {"coordinates":[31.18307,30.3032],"type":"Point"}
+}

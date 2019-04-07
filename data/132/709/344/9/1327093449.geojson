@@ -1,0 +1,77 @@
+{
+  "id": 1327093449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07575,31.40872,31.07575,31.40872",
+    "geom:latitude":31.40872,
+    "geom:longitude":31.07575,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbah Raqm Ithna `Ashar",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7763430,
+    "gn:latitude":31.40872,
+    "gn:longitude":31.07575,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Izbah Raqm Ithn\u0101 \u2018Ashar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0642\u0645 \u0661\u0662"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0642\u0645 12"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbah Raqm Ithn\u0101 \u2018Ashar",
+        "\u2018Izbah Raqm 12"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7763430
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3b607cca7b17e40a4470efad0e714512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017993,
+            "locality_id":1327093449,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1327093449,
+    "wof:lastmodified":1537621141,
+    "wof:name":"`Izbah Raqm Ithna `Ashar",
+    "wof:parent_id":1092017993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07575,
+    31.40872,
+    31.07575,
+    31.40872
+],
+  "geometry": {"coordinates":[31.07575,31.40872],"type":"Point"}
+}

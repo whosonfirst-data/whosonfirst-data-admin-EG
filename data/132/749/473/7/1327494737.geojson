@@ -1,0 +1,74 @@
+{
+  "id": 1327494737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.59322,25.69729,32.59322,25.69729",
+    "geom:latitude":25.69729,
+    "geom:longitude":32.59322,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Naj` Raml al Aqalitah",
+    "gn:country_code":"EG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9073429,
+    "gn:latitude":25.69729,
+    "gn:longitude":32.59322,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Naj\u2018 Raml al Aq\u0101litah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062c\u0639 \u0631\u0645\u0644 \u0627\u0644\u0623\u0642\u0627\u0644\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Naj\u2018 Raml al Aq\u0101litah",
+        "Naj\u2018 Raml al-Aq\u0101ltah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671097,
+        1092018839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9073429
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5c5499698343ed5ff3c7f256df25afbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018839,
+            "locality_id":1327494737,
+            "region_id":85671097
+        }
+    ],
+    "wof:id":1327494737,
+    "wof:lastmodified":1537621227,
+    "wof:name":"Naj` Raml al Aqalitah",
+    "wof:parent_id":1092018839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.59322,
+    25.69729,
+    32.59322,
+    25.69729
+],
+  "geometry": {"coordinates":[32.59322,25.69729],"type":"Point"}
+}

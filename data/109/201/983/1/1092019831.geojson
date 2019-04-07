@@ -1,0 +1,92 @@
+{
+  "id": 1092019831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000305,
+    "geom:area_square_m":3261793.09842,
+    "geom:bbox":"31.253323,30.066688,31.271078,30.098501",
+    "geom:latitude":30.080711,
+    "geom:longitude":31.261695,
+    "iso:country":"EG",
+    "lbl:latitude":30.081951,
+    "lbl:longitude":31.263172,
+    "meso:admin_1":"Cairo",
+    "meso:diss_me":"El-SharabeyahCairo",
+    "meso:gadm_admin":"Ash-Sharabiyah",
+    "meso:gadm_hasc2":"EG.QH.SB",
+    "meso:gaul_admin":"Al Sharabiyya",
+    "meso:mps_x":31.263172,
+    "meso:mps_y":30.081951,
+    "meso:name_en":"El-Sharabeyah",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.081951,
+    "mps:longitude":31.263172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ash-Sharabiyah"
+    ],
+    "name:eng_x_variant":[
+        "Al Sharabiyya",
+        "Ash-Sharabiyah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.QH",
+    "statoids:name":"Ash-Sharabiyah",
+    "statoids:population":"215595",
+    "statoids:statoid":"EG.QH.SB",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.QH.SB"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897338,
+    "wof:geomhash":"9ad0abe360f13ea7b683a28c3429ec7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019831,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1092019831,
+    "wof:lastmodified":1536615088,
+    "wof:name":"El-Sharabeyah",
+    "wof:parent_id":85670999,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":215595,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"SB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.253323,
+    30.066688,
+    31.271078,
+    30.098501
+],
+  "geometry": {"coordinates":[[[31.256331,30.081785],[31.256482,30.083071],[31.25705,30.087959],[31.257158,30.090967],[31.257194,30.095867],[31.257293,30.098501],[31.260012,30.098291],[31.259824,30.096764],[31.259759,30.096118],[31.259853,30.095424],[31.259949,30.094823],[31.260207,30.094409],[31.260676,30.093766],[31.261772,30.092479],[31.262421,30.091786],[31.263823,30.090873],[31.265564,30.089822],[31.266992,30.089137],[31.267943,30.088636],[31.268254,30.088177],[31.268984,30.08721],[31.269506,30.086613],[31.270072,30.085506],[31.270538,30.084725],[31.270793,30.084126],[31.271078,30.083054],[31.267936,30.076056],[31.2667,30.073279],[31.265962,30.071363],[31.265786,30.070741],[31.265668,30.070322],[31.260813,30.068498],[31.258947,30.067835],[31.258316,30.06761],[31.256793,30.06754],[31.2564,30.067526],[31.256029,30.06739],[31.254061,30.066688],[31.253366,30.068054],[31.253323,30.068232],[31.253686,30.069222],[31.253848,30.069705],[31.254348,30.0712],[31.254737,30.072349],[31.255202,30.074027],[31.255301,30.07551],[31.255508,30.077042],[31.256138,30.079049],[31.25645,30.080815],[31.256331,30.081785]]],"type":"Polygon"}
+}

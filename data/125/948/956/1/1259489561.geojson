@@ -1,0 +1,67 @@
+{
+  "id": 1259489561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.99698,29.38915,30.99698,29.38915",
+    "geom:latitude":29.38915,
+    "geom:longitude":30.99698,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat `Ali ad Dali",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434343,
+    "gn:latitude":29.38915,
+    "gn:longitude":30.99698,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat \u2018Al\u012b ad D\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434343
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c3b7a9de5e4f1c954e4ca7b4de4cdc43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1259489561,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1259489561,
+    "wof:lastmodified":1536848916,
+    "wof:name":"`Izbat `Ali ad Dali",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.99698,
+    29.38915,
+    30.99698,
+    29.38915
+],
+  "geometry": {"coordinates":[30.99698,29.38915],"type":"Point"}
+}

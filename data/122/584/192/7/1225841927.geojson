@@ -1,0 +1,67 @@
+{
+  "id": 1225841927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23333,29.76667,31.23333,29.76667",
+    "geom:latitude":29.76667,
+    "geom:longitude":31.23333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Ezbet el-Khassa",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357462,
+    "gn:latitude":29.76667,
+    "gn:longitude":31.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet el-Kh\u00e2\u1e63\u1e63a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092017019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357462
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dc90822ccbf03a72280c601a36c18894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017019,
+            "locality_id":1225841927,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1225841927,
+    "wof:lastmodified":1537018442,
+    "wof:name":"`Ezbet el-Khassa",
+    "wof:parent_id":1092017019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23333,
+    29.76667,
+    31.23333,
+    29.76667
+],
+  "geometry": {"coordinates":[31.23333,29.76667],"type":"Point"}
+}

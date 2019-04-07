@@ -1,0 +1,67 @@
+{
+  "id": 1226576159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88857,29.51242,30.88857,29.51242",
+    "geom:latitude":29.51242,
+    "geom:longitude":30.88857,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kafr al Masallat",
+    "gn:country_code":"EG",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434355,
+    "gn:latitude":29.51242,
+    "gn:longitude":30.88857,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kafr al Masall\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092022885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434355
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"75b74403fe7ea3cadfe9e0b3eab21f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022885,
+            "locality_id":1226576159,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1226576159,
+    "wof:lastmodified":1536955688,
+    "wof:name":"Kafr al Masallat",
+    "wof:parent_id":1092022885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88857,
+    29.51242,
+    30.88857,
+    29.51242
+],
+  "geometry": {"coordinates":[30.88857,29.51242],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193017981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73102,30.7193,30.73102,30.7193",
+    "geom:latitude":30.7193,
+    "geom:longitude":30.73102,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat `Amad",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421635,
+    "gn:latitude":30.7193,
+    "gn:longitude":30.73102,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"\u2018Izbat \u2018Amad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421635
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"992d0a0de489895182a6521e39b97f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1193017981,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1193017981,
+    "wof:lastmodified":1536376387,
+    "wof:name":"`Izbat `Amad",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73102,
+    30.7193,
+    30.73102,
+    30.7193
+],
+  "geometry": {"coordinates":[30.73102,30.7193],"type":"Point"}
+}

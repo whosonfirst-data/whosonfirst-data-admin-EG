@@ -1,0 +1,66 @@
+{
+  "id": 890422275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78944,29.2376,30.78944,29.2376",
+    "geom:latitude":29.2376,
+    "geom:longitude":30.78944,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":45269,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"I\u0163s\u0101",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355420,
+        "gp:id":56123290,
+        "qs:id":547865
+    },
+    "wof:country":"EG",
+    "wof:created":1469051435,
+    "wof:geomhash":"010d370396f4fe8f041a803565a34187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":890422275,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":890422275,
+    "wof:lastmodified":1505343468,
+    "wof:name":"I\u0163s\u0101",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:population":45269,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78944,
+    29.2376,
+    30.78944,
+    29.2376
+],
+  "geometry": {"coordinates":[30.78944,29.2376],"type":"Point"}
+}

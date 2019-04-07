@@ -1,0 +1,74 @@
+{
+  "id": 1326732333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5927,31.03539,30.5927,31.03539",
+    "geom:latitude":31.03539,
+    "geom:longitude":30.5927,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"As Sihma",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415955,
+    "gn:latitude":31.03539,
+    "gn:longitude":30.5927,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"As Si\u1e29m\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u062d\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "As Si\u1e29m\u0101",
+        "As-Si\u1e25m\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092024849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415955
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"db17bbb6b1f4ab1b6a256e0e691c6201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024849,
+            "locality_id":1326732333,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1326732333,
+    "wof:lastmodified":1537621007,
+    "wof:name":"As Sihma",
+    "wof:parent_id":1092024849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5927,
+    31.03539,
+    30.5927,
+    31.03539
+],
+  "geometry": {"coordinates":[30.5927,31.03539],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1277151371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5735,31.3653,31.5735,31.3653",
+    "geom:latitude":31.3653,
+    "geom:longitude":31.5735,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kafr al Wastani",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354551,
+    "gn:latitude":31.3653,
+    "gn:longitude":31.5735,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Was\u0163\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0648\u0633\u0637\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Was\u1e6d\u00e2ni",
+        "Kafr al Was\u0163\u0101n\u012b",
+        "Kafr al Wus\u0163\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092021673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354551
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f81e3820928270576268f0e4d52107fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021673,
+            "locality_id":1277151371,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1277151371,
+    "wof:lastmodified":1537620723,
+    "wof:name":"Kafr al Wastani",
+    "wof:parent_id":1092021673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5735,
+    31.3653,
+    31.5735,
+    31.3653
+],
+  "geometry": {"coordinates":[31.5735,31.3653],"type":"Point"}
+}

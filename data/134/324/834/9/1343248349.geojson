@@ -1,0 +1,71 @@
+{
+  "id": 1343248349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.97918,25.48742,28.97918,25.48742",
+    "geom:latitude":25.48742,
+    "geom:longitude":28.97918,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mut",
+    "gn:country_code":"EG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351766,
+    "gn:latitude":25.48742,
+    "gn:longitude":28.97918,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u016b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00fb",
+        "M\u016b\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351766
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"55b38924aee88c3b10af562937f0cb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020201,
+            "locality_id":1343248349,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1343248349,
+    "wof:lastmodified":1537620630,
+    "wof:name":"Mut",
+    "wof:parent_id":1092020201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.97918,
+    25.48742,
+    28.97918,
+    25.48742
+],
+  "geometry": {"coordinates":[28.97918,25.48742],"type":"Point"}
+}

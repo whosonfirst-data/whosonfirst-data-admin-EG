@@ -1,0 +1,70 @@
+{
+  "id": 1209115741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32576,30.80552,31.32576,30.80552",
+    "geom:latitude":30.80552,
+    "geom:longitude":31.32576,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Damas",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358442,
+    "gn:latitude":30.80552,
+    "gn:longitude":31.32576,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Dam\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u0627\u0635"
+    ],
+    "name:und_x_variant":[
+        "Dam\u00e2\u1e63",
+        "Dam\u0101\u015f",
+        "Dam\u0101\u1e63"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358442,
+        "wk:page":"Damas_%28Egypt%29"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9b53f268fb2b0fb64bb98f3f088a0fd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209115741
+        }
+    ],
+    "wof:id":1209115741,
+    "wof:lastmodified":1537620815,
+    "wof:name":"Damas",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32576,
+    30.80552,
+    31.32576,
+    30.80552
+],
+  "geometry": {"coordinates":[31.32576,30.80552],"type":"Point"}
+}

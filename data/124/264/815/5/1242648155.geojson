@@ -1,0 +1,73 @@
+{
+  "id": 1242648155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56543,30.38322,31.56543,30.38322",
+    "geom:latitude":30.38322,
+    "geom:longitude":31.56543,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Manshiyat as Salam",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415655,
+    "gn:latitude":30.38322,
+    "gn:longitude":31.56543,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mansh\u012byat as Sal\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Mansh\u012byat as Sal\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415655
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b3199870c9a7c37c3e25d7d5f36d8f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015569,
+            "locality_id":1242648155,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1242648155,
+    "wof:lastmodified":1537620990,
+    "wof:name":"Manshiyat as Salam",
+    "wof:parent_id":1092015569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56543,
+    30.38322,
+    31.56543,
+    30.38322
+],
+  "geometry": {"coordinates":[31.56543,30.38322],"type":"Point"}
+}

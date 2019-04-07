@@ -1,0 +1,72 @@
+{
+  "id": 1327137563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03578,24.54164,33.03578,24.54164",
+    "geom:latitude":24.54164,
+    "geom:longitude":33.03578,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Madinat Nasir",
+    "gn:country_code":"EG",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353220,
+    "gn:latitude":24.54164,
+    "gn:longitude":33.03578,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mad\u012bnat N\u0101\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nasser City",
+        "El-Nasser",
+        "Mad\u012bnat N\u0101\u015fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092022915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353220
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9a54bf102aabe990d4d1db8168dfce89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022915,
+            "locality_id":1327137563,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1327137563,
+    "wof:lastmodified":1537620668,
+    "wof:name":"Madinat Nasir",
+    "wof:parent_id":1092022915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03578,
+    24.54164,
+    33.03578,
+    24.54164
+],
+  "geometry": {"coordinates":[33.03578,24.54164],"type":"Point"}
+}

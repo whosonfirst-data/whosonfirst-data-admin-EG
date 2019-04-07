@@ -1,0 +1,67 @@
+{
+  "id": 1209373801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62416,31.28442,30.62416,31.28442",
+    "geom:latitude":31.28442,
+    "geom:longitude":30.62416,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat `Id Mansur",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10430266,
+    "gn:latitude":31.28442,
+    "gn:longitude":30.62416,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"\u2018Izbat \u2018\u012ad Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0639\u064a\u062f \u0645\u0646\u0635\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u2018\u012ad Man\u015f\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10430266
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2d7e7ea6ea76536379bca90a76496199",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209373801
+        }
+    ],
+    "wof:id":1209373801,
+    "wof:lastmodified":1537621249,
+    "wof:name":"`Izbat `Id Mansur",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62416,
+    31.28442,
+    30.62416,
+    31.28442
+],
+  "geometry": {"coordinates":[30.62416,31.28442],"type":"Point"}
+}

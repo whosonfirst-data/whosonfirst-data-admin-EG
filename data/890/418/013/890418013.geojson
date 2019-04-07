@@ -1,0 +1,106 @@
+{
+  "id": 890418013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.86591,28.34919,28.86591,28.34919",
+    "geom:latitude":28.34919,
+    "geom:longitude":28.86591,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":20000,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0648\u064a\u0637\u0649"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0648\u064a\u0637"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Bawiti"
+    ],
+    "name:eng_x_preferred":[
+        "Bawiti"
+    ],
+    "name:fre_x_preferred":[
+        "Bawiti"
+    ],
+    "name:ger_x_preferred":[
+        "al-Bawiti"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bf\u03c5\u03af\u03c4\u03b9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a6\u30fc\u30c6\u30a3\u30fc"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0648\u06cc\u0637\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Bawiti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0432\u0438\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Al Baw\u012b\u0163\u012b"
+    ],
+    "name:unk_x_variant":[
+        "El Baw\u00eeti"
+    ],
+    "qs:name":"Al Baw\u012b\u0163\u012b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092022885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361394,
+        "gp:id":1522648,
+        "qs:id":547938,
+        "wd:id":"Q4116186"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051231,
+    "wof:geomhash":"d4193ed97dc7f48c369d2eb25d00823b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022885,
+            "locality_id":890418013,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":890418013,
+    "wof:lastmodified":1513956605,
+    "wof:name":"Al Baw\u012b\u0163\u012b",
+    "wof:parent_id":1092022885,
+    "wof:placetype":"locality",
+    "wof:population":20000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.86591,
+    28.34919,
+    28.86591,
+    28.34919
+],
+  "geometry": {"coordinates":[28.86591,28.34919],"type":"Point"}
+}

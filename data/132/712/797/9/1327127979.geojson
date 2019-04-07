@@ -1,0 +1,67 @@
+{
+  "id": 1327127979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65897,28.2242,30.65897,28.2242",
+    "geom:latitude":28.2242,
+    "geom:longitude":30.65897,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Izbat al Yamamah",
+    "gn:country_code":"EG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445289,
+    "gn:latitude":28.2242,
+    "gn:longitude":30.65897,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"\u2018Izbat al Yam\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092024217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445289
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2488aada1ad21ce6e972f4e44f6a025d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024217,
+            "locality_id":1327127979,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1327127979,
+    "wof:lastmodified":1536620415,
+    "wof:name":"`Izbat al Yamamah",
+    "wof:parent_id":1092024217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65897,
+    28.2242,
+    30.65897,
+    28.2242
+],
+  "geometry": {"coordinates":[30.65897,28.2242],"type":"Point"}
+}

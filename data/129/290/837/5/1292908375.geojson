@@ -1,0 +1,74 @@
+{
+  "id": 1292908375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1396,30.93327,31.1396,30.93327",
+    "geom:latitude":30.93327,
+    "geom:longitude":31.1396,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Shubra Malakan",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349054,
+    "gn:latitude":30.93327,
+    "gn:longitude":31.1396,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Shubr\u0101 Malak\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u0631\u0627 \u0645\u0644\u0643\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shubra Malak\u00e2n",
+        "Shubr\u0101 Malak\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349054
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d56092fb2a718b326e93be16193d5191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1292908375,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1292908375,
+    "wof:lastmodified":1537620572,
+    "wof:name":"Shubra Malakan",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1396,
+    30.93327,
+    31.1396,
+    30.93327
+],
+  "geometry": {"coordinates":[31.1396,30.93327],"type":"Point"}
+}

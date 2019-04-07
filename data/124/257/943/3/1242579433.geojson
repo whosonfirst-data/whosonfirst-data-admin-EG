@@ -1,0 +1,72 @@
+{
+  "id": 1242579433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2,30.91667,30.2,30.91667",
+    "geom:latitude":30.91667,
+    "geom:longitude":30.2,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Naj` Turujah",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351387,
+    "gn:latitude":30.91667,
+    "gn:longitude":30.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 Tur\u016bjah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Izbat \u2018Abd al \u1e28am\u012bd Khayr",
+        "Nag\u2018 Tur\u00fbga",
+        "Naj\u2018 Tur\u016bjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351387
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f4b185ef2809bf19ddb789124c53cd75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1242579433,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242579433,
+    "wof:lastmodified":1537620618,
+    "wof:name":"Naj` Turujah",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2,
+    30.91667,
+    30.2,
+    30.91667
+],
+  "geometry": {"coordinates":[30.2,30.91667],"type":"Point"}
+}

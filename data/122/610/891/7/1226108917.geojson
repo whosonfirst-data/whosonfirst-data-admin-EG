@@ -1,0 +1,74 @@
+{
+  "id": 1226108917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00501,31.03089,33.00501,31.03089",
+    "geom:latitude":31.03089,
+    "geom:longitude":33.00501,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Al Hathanah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8594878,
+    "gn:latitude":31.03089,
+    "gn:longitude":33.00501,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Al \u1e28ath\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062b\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ath\u0101nah",
+        "El Hathata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092015521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594878
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"810a38288c9deeddd34f104da769b4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015521,
+            "locality_id":1226108917,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1226108917,
+    "wof:lastmodified":1537621214,
+    "wof:name":"Al Hathanah",
+    "wof:parent_id":1092015521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00501,
+    31.03089000000001,
+    33.00501,
+    31.03089000000001
+],
+  "geometry": {"coordinates":[33.00501,31.03089000000001],"type":"Point"}
+}

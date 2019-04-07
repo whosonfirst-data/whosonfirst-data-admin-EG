@@ -1,0 +1,67 @@
+{
+  "id": 1310169121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41738,26.92435,31.41738,26.92435",
+    "geom:latitude":26.92435,
+    "geom:longitude":31.41738,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Wa`adilah",
+    "gn:country_code":"EG",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360486,
+    "gn:latitude":26.92435,
+    "gn:longitude":31.41738,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Al Wa\u2018\u0101\u1e11ilah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092024039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360486
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"eb0412e6c13335f6c04a1a6dc963fe09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024039,
+            "locality_id":1310169121,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1310169121,
+    "wof:lastmodified":1536905129,
+    "wof:name":"Al Wa`adilah",
+    "wof:parent_id":1092024039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41738,
+    26.92435,
+    31.41738,
+    26.92435
+],
+  "geometry": {"coordinates":[31.41738,26.92435],"type":"Point"}
+}

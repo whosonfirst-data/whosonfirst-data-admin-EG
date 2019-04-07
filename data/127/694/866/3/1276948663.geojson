@@ -1,0 +1,75 @@
+{
+  "id": 1276948663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80545,30.53833,31.80545,30.53833",
+    "geom:latitude":30.53833,
+    "geom:longitude":31.80545,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"At Tall as Saghir",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359708,
+    "gn:latitude":30.53833,
+    "gn:longitude":31.80545,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"At Tall a\u015f \u015eagh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0644 \u0627\u0644\u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "El-Tell el-\u1e62agh\u00eer",
+        "At Tall a\u015f \u015eagh\u012br",
+        "At-Tall a\u1e63-\u1e62agh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359708
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7eeb34ac69d5d9449bf145bd6935897a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020039,
+            "locality_id":1276948663,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1276948663,
+    "wof:lastmodified":1537620847,
+    "wof:name":"At Tall as Saghir",
+    "wof:parent_id":1092020039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80545,
+    30.53833,
+    31.80545,
+    30.53833
+],
+  "geometry": {"coordinates":[31.80545,30.53833],"type":"Point"}
+}

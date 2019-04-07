@@ -1,0 +1,67 @@
+{
+  "id": 1310101123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.22712,29.62414,31.22712,29.62414",
+    "geom:latitude":29.62414,
+    "geom:longitude":31.22712,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Ezbet el-Sheikb Fadl",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357385,
+    "gn:latitude":29.62414,
+    "gn:longitude":31.22712,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Ezbet el-Sheikb Fa\u1e0dl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092016893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357385
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0fe8af610f9416bfd91b9b4206c3838e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016893,
+            "locality_id":1310101123,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1310101123,
+    "wof:lastmodified":1537002071,
+    "wof:name":"`Ezbet el-Sheikb Fadl",
+    "wof:parent_id":1092016893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.22712000000001,
+    29.62414,
+    31.22712000000001,
+    29.62414
+],
+  "geometry": {"coordinates":[31.22712000000001,29.62414],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226331253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81479,27.86587,30.81479,27.86587",
+    "geom:latitude":27.86587,
+    "geom:longitude":30.81479,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Saqiyat Musa",
+    "gn:country_code":"EG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349609,
+    "gn:latitude":27.86587,
+    "gn:longitude":30.81479,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u0101qiyat M\u016bs\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e2qyet M\u00fbsa",
+        "S\u0101qiyat M\u016bs\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092014221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349609
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5069d914f4166d16a95d9c234e56d76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014221,
+            "locality_id":1226331253,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1226331253,
+    "wof:lastmodified":1537620583,
+    "wof:name":"Saqiyat Musa",
+    "wof:parent_id":1092014221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81479,
+    27.86587,
+    30.81479,
+    27.86587
+],
+  "geometry": {"coordinates":[30.81479,27.86587],"type":"Point"}
+}

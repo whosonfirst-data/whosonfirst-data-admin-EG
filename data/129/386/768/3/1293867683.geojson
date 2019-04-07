@@ -1,0 +1,71 @@
+{
+  "id": 1293867683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76413,27.73542,30.76413,27.73542",
+    "geom:latitude":27.73542,
+    "geom:longitude":30.76413,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dayrut Umm Nakhlah",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358265,
+    "gn:latitude":27.73542,
+    "gn:longitude":30.76413,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dayr\u016b\u0163 Umm Nakhlah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dair\u00fb\u1e6d Umm Nakhla",
+        "Dayr\u016b\u0163 Umm Nakhlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358265
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"121913565f4cb943e511132eb201033b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022005,
+            "locality_id":1293867683,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1293867683,
+    "wof:lastmodified":1537620810,
+    "wof:name":"Dayrut Umm Nakhlah",
+    "wof:parent_id":1092022005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76413,
+    27.73542,
+    30.76413,
+    27.73542
+],
+  "geometry": {"coordinates":[30.76413,27.73542],"type":"Point"}
+}

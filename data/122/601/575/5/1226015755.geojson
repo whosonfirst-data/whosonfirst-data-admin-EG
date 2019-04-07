@@ -1,0 +1,77 @@
+{
+  "id": 1226015755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.88357,30.73761,31.88357,30.73761",
+    "geom:latitude":30.73761,
+    "geom:longitude":31.88357,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Wasaylah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354553,
+    "gn:latitude":30.73761,
+    "gn:longitude":31.88357,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat al Wa\u015f\u0101ylah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0648\u0635\u0627\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Was\u00e2yla",
+        "Kafr al Wa\u015f\u0101\u2019ilah",
+        "Kafr al Wa\u015f\u0101ylah",
+        "\u2018Izbat al Wa\u015f\u0101ylah",
+        "\u2018Izbat al-Wa\u1e63\u0101ylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354553
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"32e94d3e3c7344256068c8794e07c5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1226015755,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226015755,
+    "wof:lastmodified":1537620723,
+    "wof:name":"`Izbat al Wasaylah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.88357,
+    30.73761,
+    31.88357,
+    30.73761
+],
+  "geometry": {"coordinates":[31.88357,30.73761],"type":"Point"}
+}

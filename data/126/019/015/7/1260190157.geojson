@@ -1,0 +1,76 @@
+{
+  "id": 1260190157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43596,30.98929,30.43596,30.98929",
+    "geom:latitude":30.98929,
+    "geom:longitude":30.43596,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ash Shawkah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360005,
+    "gn:latitude":30.98929,
+    "gn:longitude":30.43596,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Ash Shawkah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Sh\u00f4ka",
+        "Esh-Sh\u00f4ka",
+        "Ash Shawkah",
+        "Ash-Shawkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092015921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360005
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fc96559a5e51d4c37100cf06f901652e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015921,
+            "locality_id":1260190157,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1260190157,
+    "wof:lastmodified":1537620862,
+    "wof:name":"Ash Shawkah",
+    "wof:parent_id":1092015921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43596,
+    30.98929,
+    30.43596,
+    30.98929
+],
+  "geometry": {"coordinates":[30.43596,30.98929],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343235869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74312,30.61639,31.74312,30.61639",
+    "geom:latitude":30.61639,
+    "geom:longitude":31.74312,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr al Lata'ifah",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354602,
+    "gn:latitude":30.61639,
+    "gn:longitude":31.74312,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al La\u0163\u0101\u2019ifah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-La\u1e6d\u00e2yfa",
+        "Kafr al La\u0163\u0101\u2019ifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092019105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354602
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2a4532ac58a962d5fb090defec9c7f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019105,
+            "locality_id":1343235869,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343235869,
+    "wof:lastmodified":1537620728,
+    "wof:name":"Kafr al Lata'ifah",
+    "wof:parent_id":1092019105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74312,
+    30.61639000000001,
+    31.74312,
+    30.61639000000001
+],
+  "geometry": {"coordinates":[31.74312,30.61639000000001],"type":"Point"}
+}

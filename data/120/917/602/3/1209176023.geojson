@@ -1,0 +1,73 @@
+{
+  "id": 1209176023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65284,31.27502,31.65284,31.27502",
+    "geom:latitude":31.27502,
+    "geom:longitude":31.65284,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"As Sawalim",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359834,
+    "gn:latitude":31.27502,
+    "gn:longitude":31.65284,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"As Saw\u0101lim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As Suw\u0101lim"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0648\u0627\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "Es Saw\u0101lim",
+        "El Sawalem",
+        "El-Saw\u00e2lim",
+        "As Saw\u0101lim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359834
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e6893f3ae5366d656d9b60b7d37376ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209176023
+        }
+    ],
+    "wof:id":1209176023,
+    "wof:lastmodified":1537620851,
+    "wof:name":"As Sawalim",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65284,
+    31.27502,
+    31.65284,
+    31.27502
+],
+  "geometry": {"coordinates":[31.65284,31.27502],"type":"Point"}
+}

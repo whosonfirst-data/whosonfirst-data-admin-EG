@@ -1,0 +1,71 @@
+{
+  "id": 1343735995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79778,30.80694,31.79778,30.80694",
+    "geom:latitude":30.80694,
+    "geom:longitude":31.79778,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr al Matawi`ah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354581,
+    "gn:latitude":30.80694,
+    "gn:longitude":31.79778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Ma\u0163\u0101wi\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Ma\u1e6d\u00e2w\u2018a",
+        "Kafr al Ma\u0163\u0101wi\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354581
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0b457f1774a7f34dd5f303c1fac26c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1343735995,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343735995,
+    "wof:lastmodified":1537620726,
+    "wof:name":"Kafr al Matawi`ah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79778,
+    30.80694,
+    31.79778,
+    30.80694
+],
+  "geometry": {"coordinates":[31.79778,30.80694],"type":"Point"}
+}

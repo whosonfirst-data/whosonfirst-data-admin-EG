@@ -1,0 +1,72 @@
+{
+  "id": 1226063261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80569,28.3951,30.80569,28.3951",
+    "geom:latitude":28.3951,
+    "geom:longitude":30.80569,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Izbat as Sawaytah",
+    "gn:country_code":"EG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359837,
+    "gn:latitude":28.3951,
+    "gn:longitude":30.80569,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat as Saw\u0101y\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Izbat as Saw\u0101y\u0163ah",
+        "El Saw\u00e2y\u1e6da",
+        "A\u015f \u015eaw\u0101\u2019i\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359837
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6cf743de97f090870e12ed2a34024252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022239,
+            "locality_id":1226063261,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1226063261,
+    "wof:lastmodified":1537620851,
+    "wof:name":"`Izbat as Sawaytah",
+    "wof:parent_id":1092022239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80569,
+    28.3951,
+    30.80569,
+    28.3951
+],
+  "geometry": {"coordinates":[30.80569,28.3951],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276854689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38745,30.43707,31.38745,30.43707",
+    "geom:latitude":30.43707,
+    "geom:longitude":31.38745,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Mustafa AFandi",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354157,
+    "gn:latitude":30.43707,
+    "gn:longitude":31.38745,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Mu\u015f\u0163af\u00e1 AFand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Mu\u1e63\u1e6dafa Efendi",
+        "Kafr Mu\u015f\u0163af\u00e1 AFand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354157
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2e9a2423d51793a7d77435eb2406b645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1276854689,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276854689,
+    "wof:lastmodified":1537620692,
+    "wof:name":"Kafr Mustafa AFandi",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38745,
+    30.43707,
+    31.38745,
+    30.43707
+],
+  "geometry": {"coordinates":[31.38745,30.43707],"type":"Point"}
+}

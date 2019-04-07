@@ -1,0 +1,73 @@
+{
+  "id": 1360059373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72037,31.21069,30.72037,31.21069",
+    "geom:latitude":31.21069,
+    "geom:longitude":30.72037,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Ghunaym",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415824,
+    "gn:latitude":31.21069,
+    "gn:longitude":30.72037,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u2018Izbat Ghunaym",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u063a\u0646\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ghunaym"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415824
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3f11b99ebe90134ca610b018df80d249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1360059373,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1360059373,
+    "wof:lastmodified":1537620999,
+    "wof:name":"`Izbat Ghunaym",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72037000000001,
+    31.21069,
+    30.72037000000001,
+    31.21069
+],
+  "geometry": {"coordinates":[30.72037000000001,31.21069],"type":"Point"}
+}

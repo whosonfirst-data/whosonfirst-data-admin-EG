@@ -1,0 +1,72 @@
+{
+  "id": 1242842707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.36667,26.8,31.36667,26.8",
+    "geom:latitude":26.8,
+    "geom:longitude":31.36667,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Nazlat Hajir Mishta",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351132,
+    "gn:latitude":26.8,
+    "gn:longitude":31.36667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat \u1e28\u0101jir Mish\u0163\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e24\u00e2gir Mish\u1e6da",
+        "Nazlat \u1e28\u0101jir Mish\u0163\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092025329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351132
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1ee7745c796c43c9d1b54ccc70c33c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025329,
+            "locality_id":1242842707,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1242842707,
+    "wof:lastmodified":1537620608,
+    "wof:name":"Nazlat Hajir Mishta",
+    "wof:parent_id":1092025329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.36667000000001,
+    26.8,
+    31.36667000000001,
+    26.8
+],
+  "geometry": {"coordinates":[31.36667000000001,26.8],"type":"Point"}
+}

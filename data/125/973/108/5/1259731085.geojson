@@ -1,0 +1,74 @@
+{
+  "id": 1259731085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36894,30.666,34.36894,30.666",
+    "geom:latitude":30.666,
+    "geom:longitude":34.36894,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Al Qusaymah",
+    "gn:country_code":"EG",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360532,
+    "gn:latitude":30.666,
+    "gn:longitude":34.36894,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qu\u015faymah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Qesima",
+        "El-Quseima",
+        "El-Qu\u1e63aima",
+        "El Kossaima",
+        "Al Qu\u015faymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092019147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360532
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7c74f967f0e44bf913940034c290177f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019147,
+            "locality_id":1259731085,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1259731085,
+    "wof:lastmodified":1537620881,
+    "wof:name":"Al Qusaymah",
+    "wof:parent_id":1092019147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36894,
+    30.666,
+    34.36894,
+    30.666
+],
+  "geometry": {"coordinates":[34.36894,30.666],"type":"Point"}
+}

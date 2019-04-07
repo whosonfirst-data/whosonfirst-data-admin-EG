@@ -1,0 +1,67 @@
+{
+  "id": 1243574159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23333,29.51667,31.23333,29.51667",
+    "geom:latitude":29.51667,
+    "geom:longitude":31.23333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Abu Fa'r",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362698,
+    "gn:latitude":29.51667,
+    "gn:longitude":31.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ab\u016b Fa\u2019r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092016893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362698
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"09ffa5f5b4dd3a791f9e265ee3203996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016893,
+            "locality_id":1243574159,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1243574159,
+    "wof:lastmodified":1536619432,
+    "wof:name":"Abu Fa'r",
+    "wof:parent_id":1092016893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23333,
+    29.51667,
+    31.23333,
+    29.51667
+],
+  "geometry": {"coordinates":[31.23333,29.51667],"type":"Point"}
+}

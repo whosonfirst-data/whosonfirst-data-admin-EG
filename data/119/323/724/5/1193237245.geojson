@@ -1,0 +1,73 @@
+{
+  "id": 1193237245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14057,31.42594,31.14057,31.42594",
+    "geom:latitude":31.42594,
+    "geom:longitude":31.14057,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat al Islah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419760,
+    "gn:latitude":31.42594,
+    "gn:longitude":31.14057,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al I\u015fl\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0627\u0635\u0644\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al I\u015fl\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419760
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"23364dbd87f01d05594968dd25b138ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017993,
+            "locality_id":1193237245,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1193237245,
+    "wof:lastmodified":1537621058,
+    "wof:name":"`Izbat al Islah",
+    "wof:parent_id":1092017993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14057,
+    31.42594,
+    31.14057,
+    31.42594
+],
+  "geometry": {"coordinates":[31.14057,31.42594],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326738005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71447,30.93851,30.71447,30.93851",
+    "geom:latitude":30.93851,
+    "geom:longitude":30.71447,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mahallat `Ubayd",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353116,
+    "gn:latitude":30.93851,
+    "gn:longitude":30.71447,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ma\u1e29allat \u2018Ubayd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e25allet \u2018Ibeid",
+        "Ma\u1e29allat \u2018Ubayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092024849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353116
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"df57b92c11b8829520aac6d43881cc6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024849,
+            "locality_id":1326738005,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1326738005,
+    "wof:lastmodified":1537620664,
+    "wof:name":"Mahallat `Ubayd",
+    "wof:parent_id":1092024849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71447,
+    30.93851,
+    30.71447,
+    30.93851
+],
+  "geometry": {"coordinates":[30.71447,30.93851],"type":"Point"}
+}

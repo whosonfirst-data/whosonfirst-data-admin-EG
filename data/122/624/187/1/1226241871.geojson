@@ -1,0 +1,75 @@
+{
+  "id": 1226241871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.909,30.847,30.909,30.847",
+    "geom:latitude":30.847,
+    "geom:longitude":30.909,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Hissat Birma",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355861,
+    "gn:latitude":30.847,
+    "gn:longitude":30.909,
+    "gn:modification_date":"2017-07-16",
+    "gn:name":"\u1e28i\u015f\u015fat Birm\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0629 \u0628\u0631\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "Birma",
+        "\u1e24i\u1e63\u1e63et Birma",
+        "\u1e28i\u015f\u015fat Birm\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355861
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9106334057aade28f8c8654b53c23ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1226241871,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1226241871,
+    "wof:lastmodified":1537620774,
+    "wof:name":"Hissat Birma",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.909,
+    30.847,
+    30.909,
+    30.847
+],
+  "geometry": {"coordinates":[30.909,30.847],"type":"Point"}
+}

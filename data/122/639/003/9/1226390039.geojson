@@ -1,0 +1,71 @@
+{
+  "id": 1226390039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.32318,30.84738,32.32318,30.84738",
+    "geom:latitude":30.84738,
+    "geom:longitude":32.32318,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Al Qantarah ash Sharqiyah",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360607,
+    "gn:latitude":30.84738,
+    "gn:longitude":32.32318,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qan\u0163arah ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Qan\u1e6dara el-Sharq\u00eeya",
+        "Al Qan\u0163arah ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092023021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360607
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3d6325797f96e6447a9de45f3828ab17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023021,
+            "locality_id":1226390039,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1226390039,
+    "wof:lastmodified":1537620886,
+    "wof:name":"Al Qantarah ash Sharqiyah",
+    "wof:parent_id":1092023021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.32318,
+    30.84738,
+    32.32318,
+    30.84738
+],
+  "geometry": {"coordinates":[32.32318,30.84738],"type":"Point"}
+}

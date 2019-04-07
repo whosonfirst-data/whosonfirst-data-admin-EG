@@ -1,0 +1,75 @@
+{
+  "id": 1242888169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80886,31.19444,31.80886,31.19444",
+    "geom:latitude":31.19444,
+    "geom:longitude":31.80886,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat an Nizarah",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421065,
+    "gn:latitude":31.19444,
+    "gn:longitude":31.80886,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat an Niz\u0327\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0646\u0638\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat an Niz\u0327\u0101rah",
+        "\u2018Izbat an Naz\u0327\u0101rah",
+        "\u2018Izbat an Ni\u1e93\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421065
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f6b1a152e3cf3c0917eb3a8b22ab6a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022325,
+            "locality_id":1242888169,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1242888169,
+    "wof:lastmodified":1537621095,
+    "wof:name":"`Izbat an Nizarah",
+    "wof:parent_id":1092022325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80886,
+    31.19444,
+    31.80886,
+    31.19444
+],
+  "geometry": {"coordinates":[31.80886,31.19444],"type":"Point"}
+}

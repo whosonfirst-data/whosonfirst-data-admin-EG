@@ -1,0 +1,72 @@
+{
+  "id": 1310119727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4697,30.89308,31.4697,30.89308",
+    "geom:latitude":30.89308,
+    "geom:longitude":31.4697,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Abu Laban",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420746,
+    "gn:latitude":30.89308,
+    "gn:longitude":31.4697,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"\u2018Izbat Ab\u016b Laban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b Laban",
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0644\u0628\u0646",
+        "\u2018Iz. Ab\u016b Laban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092019741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420746
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"99a918f7250c0ebd50a04d265c9a13f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019741,
+            "locality_id":1310119727,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1310119727,
+    "wof:lastmodified":1537621089,
+    "wof:name":"`Izbat Abu Laban",
+    "wof:parent_id":1092019741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4697,
+    30.89308,
+    31.4697,
+    30.89308
+],
+  "geometry": {"coordinates":[31.4697,30.89308],"type":"Point"}
+}

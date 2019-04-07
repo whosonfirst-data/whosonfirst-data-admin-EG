@@ -1,0 +1,71 @@
+{
+  "id": 1276308983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07161,27.28155,31.07161,27.28155",
+    "geom:latitude":27.28155,
+    "geom:longitude":31.07161,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bani Muhammadiyat",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359208,
+    "gn:latitude":27.28155,
+    "gn:longitude":31.07161,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b Mu\u1e29ammad\u012by\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni M\u00fb\u1e25ammad\u00eey\u00e2t",
+        "Ban\u012b Mu\u1e29ammad\u012by\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359208
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a1c75a508a0e1a7936fc88b32e93c521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014043,
+            "locality_id":1276308983,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1276308983,
+    "wof:lastmodified":1537620830,
+    "wof:name":"Bani Muhammadiyat",
+    "wof:parent_id":1092014043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07161,
+    27.28155,
+    31.07161,
+    27.28155
+],
+  "geometry": {"coordinates":[31.07161,27.28155],"type":"Point"}
+}

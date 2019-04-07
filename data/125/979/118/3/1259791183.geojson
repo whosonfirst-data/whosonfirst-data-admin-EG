@@ -1,0 +1,71 @@
+{
+  "id": 1259791183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57068,30.84015,30.57068,30.84015",
+    "geom:latitude":30.84015,
+    "geom:longitude":30.57068,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zawiyat Musallam",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346081,
+    "gn:latitude":30.84015,
+    "gn:longitude":30.57068,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat Musallam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyet Misallam",
+        "Z\u0101wiyat Musallam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346081
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b2668b8de308d1ea61981ba2369bfeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1259791183,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259791183,
+    "wof:lastmodified":1537620545,
+    "wof:name":"Zawiyat Musallam",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57068,
+    30.84015,
+    30.57068,
+    30.84015
+],
+  "geometry": {"coordinates":[30.57068,30.84015],"type":"Point"}
+}

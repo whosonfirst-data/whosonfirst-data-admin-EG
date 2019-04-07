@@ -1,0 +1,72 @@
+{
+  "id": 1343556725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68396,28.07504,30.68396,28.07504",
+    "geom:latitude":28.07504,
+    "geom:longitude":30.68396,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tuwah Bani Ibrahim",
+    "gn:country_code":"EG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347164,
+    "gn:latitude":28.07504,
+    "gn:longitude":30.68396,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u016bwah Ban\u012b Ibr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Ibr\u00e2h\u00eem",
+        "Tuwa Beni Ibr\u00e2h\u00eem",
+        "T\u016bwah Ban\u012b Ibr\u0101h\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092018557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347164
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3cac47c380d551dc1965d3233fc2bd4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018557,
+            "locality_id":1343556725,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1343556725,
+    "wof:lastmodified":1537620553,
+    "wof:name":"Tuwah Bani Ibrahim",
+    "wof:parent_id":1092018557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68396,
+    28.07504,
+    30.68396,
+    28.07504
+],
+  "geometry": {"coordinates":[30.68396,28.07504],"type":"Point"}
+}

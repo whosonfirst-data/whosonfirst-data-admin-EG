@@ -1,0 +1,75 @@
+{
+  "id": 1310184085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58054,30.7849,31.58054,30.7849",
+    "geom:latitude":30.7849,
+    "geom:longitude":31.58054,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat ar Ruba`iyin",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360097,
+    "gn:latitude":30.7849,
+    "gn:longitude":31.58054,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat ar Rub\u0101\u2018iy\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0631\u0628\u0627\u0639\u064a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-Rub\u00e2\u2018iy\u00een",
+        "Ar Rub\u0101\u2018\u012by\u012bn",
+        "\u2018Izbat ar Rub\u0101\u2018iy\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360097
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3a491613c3a71de46325a5d21012b56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1310184085,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310184085,
+    "wof:lastmodified":1537620865,
+    "wof:name":"`Izbat ar Ruba`iyin",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58054000000001,
+    30.7849,
+    31.58054000000001,
+    30.7849
+],
+  "geometry": {"coordinates":[31.58054000000001,30.7849],"type":"Point"}
+}

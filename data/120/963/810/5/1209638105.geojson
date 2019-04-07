@@ -1,0 +1,67 @@
+{
+  "id": 1209638105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12908,30.83243,31.12908,30.83243",
+    "geom:latitude":30.83243,
+    "geom:longitude":31.12908,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Mubarak",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560727,
+    "gn:latitude":30.83243,
+    "gn:longitude":31.12908,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat Mub\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u0628\u0627\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mub\u0101rak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560727
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"44e1dc2331dbe7cb292558031d24644b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209638105
+        }
+    ],
+    "wof:id":1209638105,
+    "wof:lastmodified":1537621210,
+    "wof:name":"`Izbat Mubarak",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12908,
+    30.83243,
+    31.12908,
+    30.83243
+],
+  "geometry": {"coordinates":[31.12908,30.83243],"type":"Point"}
+}

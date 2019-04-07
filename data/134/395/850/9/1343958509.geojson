@@ -1,0 +1,67 @@
+{
+  "id": 1343958509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69507,29.39075,30.69507,29.39075",
+    "geom:latitude":29.39075,
+    "geom:longitude":30.69507,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Minshat as Salam",
+    "gn:country_code":"EG",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434832,
+    "gn:latitude":29.39075,
+    "gn:longitude":30.69507,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Minsh\u0101t as Sal\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434832
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9302aa0869a01de7f84e8913a1a44d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1343958509,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1343958509,
+    "wof:lastmodified":1537021857,
+    "wof:name":"Minshat as Salam",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69507,
+    29.39075,
+    30.69507,
+    29.39075
+],
+  "geometry": {"coordinates":[30.69507,29.39075],"type":"Point"}
+}

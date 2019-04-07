@@ -1,0 +1,71 @@
+{
+  "id": 1343366597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81667,30.35,30.81667,30.35",
+    "geom:latitude":30.35,
+    "geom:longitude":30.81667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Mahattat al Khatatibah",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355328,
+    "gn:latitude":30.35,
+    "gn:longitude":30.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Ma\u1e29a\u0163\u0163at al Kha\u0163\u0101\u0163ibah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Ma\u1e25attet el Kha\u1e6da\u1e6dba",
+        "\u2018Izbat Ma\u1e29a\u0163\u0163at al Kha\u0163\u0101\u0163ibah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092023063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355328
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"064a1132d7da57148ea78a14749bc926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023063,
+            "locality_id":1343366597,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343366597,
+    "wof:lastmodified":1537620760,
+    "wof:name":"`Izbat Mahattat al Khatatibah",
+    "wof:parent_id":1092023063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81667,
+    30.35,
+    30.81667,
+    30.35
+],
+  "geometry": {"coordinates":[30.81667,30.35],"type":"Point"}
+}

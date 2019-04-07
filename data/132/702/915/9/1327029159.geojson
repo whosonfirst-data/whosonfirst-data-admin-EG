@@ -1,0 +1,73 @@
+{
+  "id": 1327029159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16163,30.90743,31.16163,30.90743",
+    "geom:latitude":30.90743,
+    "geom:longitude":31.16163,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Anis",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560845,
+    "gn:latitude":30.90743,
+    "gn:longitude":31.16163,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"\u2018Izbat An\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0646\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat An\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560845
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6d1cb7ac695e257b6a2f8aeb029023a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1327029159,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1327029159,
+    "wof:lastmodified":1537621211,
+    "wof:name":"`Izbat Anis",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16163,
+    30.90743,
+    31.16163,
+    30.90743
+],
+  "geometry": {"coordinates":[31.16163,30.90743],"type":"Point"}
+}

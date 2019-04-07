@@ -1,0 +1,72 @@
+{
+  "id": 1226113773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93333,27.36667,30.93333,27.36667",
+    "geom:latitude":27.36667,
+    "geom:longitude":30.93333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"As Sahrij",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359889,
+    "gn:latitude":27.36667,
+    "gn:longitude":30.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015f \u015eahr\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sahr\u00eeg",
+        "A\u015f \u015eahr\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359889
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2070872486c802e7560e0285b96ec726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1226113773,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1226113773,
+    "wof:lastmodified":1537620855,
+    "wof:name":"As Sahrij",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93333,
+    27.36667000000001,
+    30.93333,
+    27.36667000000001
+],
+  "geometry": {"coordinates":[30.93333,27.36667000000001],"type":"Point"}
+}

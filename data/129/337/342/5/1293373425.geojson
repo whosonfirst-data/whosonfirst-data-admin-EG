@@ -1,0 +1,73 @@
+{
+  "id": 1293373425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.99652,30.53952,31.99652,30.53952",
+    "geom:latitude":30.53952,
+    "geom:longitude":31.99652,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Abu Kurum",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433760,
+    "gn:latitude":30.53952,
+    "gn:longitude":31.99652,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Ab\u016b Kur\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0643\u0631\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b Kur\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092023021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433760
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"46c1c465fa00c1b6b9b9950f315243bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023021,
+            "locality_id":1293373425,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1293373425,
+    "wof:lastmodified":1537621123,
+    "wof:name":"`Izbat Abu Kurum",
+    "wof:parent_id":1092023021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.99652,
+    30.53952,
+    31.99652,
+    30.53952
+],
+  "geometry": {"coordinates":[31.99652,30.53952],"type":"Point"}
+}

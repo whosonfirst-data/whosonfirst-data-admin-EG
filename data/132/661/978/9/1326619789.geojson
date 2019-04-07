@@ -1,0 +1,71 @@
+{
+  "id": 1326619789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.99975,30.68506,30.99975,30.68506",
+    "geom:latitude":30.68506,
+    "geom:longitude":30.99975,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr Hamam",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354277,
+    "gn:latitude":30.68506,
+    "gn:longitude":30.99975,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u1e28am\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr \u1e24am\u00e2m",
+        "Kafr \u1e28am\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092025145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354277
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fbe6ac1a817058a81a7932c39fb290ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025145,
+            "locality_id":1326619789,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1326619789,
+    "wof:lastmodified":1537620701,
+    "wof:name":"Kafr Hamam",
+    "wof:parent_id":1092025145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.99975,
+    30.68506,
+    30.99975,
+    30.68506
+],
+  "geometry": {"coordinates":[30.99975,30.68506],"type":"Point"}
+}

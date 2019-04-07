@@ -1,0 +1,75 @@
+{
+  "id": 1259554485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45147,30.80347,31.45147,30.80347",
+    "geom:latitude":30.80347,
+    "geom:longitude":31.45147,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Misah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360680,
+    "gn:latitude":30.80347,
+    "gn:longitude":31.45147,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Al M\u012bs\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u0633\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-M\u00ees\u00e2h",
+        "Al M\u012bs\u0101h",
+        "Al-M\u012bs\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360680
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ee47e496465b8f4a7b0e7d008b3de5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1259554485,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259554485,
+    "wof:lastmodified":1537620891,
+    "wof:name":"Al Misah",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45147,
+    30.80347,
+    31.45147,
+    30.80347
+],
+  "geometry": {"coordinates":[31.45147,30.80347],"type":"Point"}
+}

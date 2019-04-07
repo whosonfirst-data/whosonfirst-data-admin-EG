@@ -1,0 +1,73 @@
+{
+  "id": 1242656395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.62391,30.664,31.62391,30.664",
+    "geom:latitude":30.664,
+    "geom:longitude":31.62391,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Hasan",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069914,
+    "gn:latitude":30.664,
+    "gn:longitude":31.62391,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069914
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e7f5e628d690f9689fc86e64c0d0bca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021319,
+            "locality_id":1242656395,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1242656395,
+    "wof:lastmodified":1537621175,
+    "wof:name":"`Izbat Hasan",
+    "wof:parent_id":1092021319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.62391,
+    30.664,
+    31.62391,
+    30.664
+],
+  "geometry": {"coordinates":[31.62391,30.664],"type":"Point"}
+}

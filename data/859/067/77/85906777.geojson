@@ -1,0 +1,99 @@
+{
+  "id": 85906777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6724823.426759,
+    "geom:bbox":"29.87256,31.191516,29.87256,31.191516",
+    "geom:latitude":31.191516,
+    "geom:longitude":29.87256,
+    "gn:id":"",
+    "iso:country":"EG",
+    "lbl:latitude":31.191516,
+    "lbl:longitude":29.87256,
+    "mps:latitude":31.188563,
+    "mps:longitude":29.861845,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "El Minaa District"
+    ],
+    "name:unk_x_variant":[
+        "El Minaa District"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":1580,
+    "qs:local_sum":9759,
+    "qs:localhoods":18,
+    "qs:name":"El Minaa District",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:name_local":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:photo_max":40,
+    "qs:photo_sum":110,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424802,
+    "qs:woe_adm1":2345228,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1522006,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":2102,
+    "wof:belongs_to":[],
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724298,
+        "qs:id":383651,
+        "qs_pg:id":383651,
+        "wd:id":"Q5258869"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0733e0e3ce91d8cba562bfeb62226944",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906777,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85906777,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936437,
+    "wof:name":"El Minaa District",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.87256,
+    31.191516,
+    29.87256,
+    31.191516
+],
+  "geometry": {"coordinates":[29.87256,31.191516],"type":"Point"}
+}

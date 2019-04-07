@@ -1,0 +1,65 @@
+{
+  "id": 1209112077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90587,29.40626,30.90587,29.40626",
+    "geom:latitude":29.40626,
+    "geom:longitude":30.90587,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jabalah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355292,
+    "gn:latitude":29.40626,
+    "gn:longitude":30.90587,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jabalah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gabala",
+        "Jabalah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355292
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b8837454bfaa0246175b321fae458c91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209112077
+        }
+    ],
+    "wof:id":1209112077,
+    "wof:lastmodified":1537620757,
+    "wof:name":"Jabalah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90587,
+    29.40626,
+    30.90587,
+    29.40626
+],
+  "geometry": {"coordinates":[30.90587,29.40626],"type":"Point"}
+}

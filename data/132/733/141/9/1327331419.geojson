@@ -1,0 +1,67 @@
+{
+  "id": 1327331419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.59135,30.9264,29.59135,30.9264",
+    "geom:latitude":30.9264,
+    "geom:longitude":29.59135,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Naj` al Jur",
+    "gn:country_code":"EG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434135,
+    "gn:latitude":30.9264,
+    "gn:longitude":29.59135,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Naj\u2018 al J\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434135
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"04fe05cbed29cd262849d905797a7c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015739,
+            "locality_id":1327331419,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1327331419,
+    "wof:lastmodified":1536825712,
+    "wof:name":"Naj` al Jur",
+    "wof:parent_id":1092015739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.59135,
+    30.9264,
+    29.59135,
+    30.9264
+],
+  "geometry": {"coordinates":[29.59135,30.9264],"type":"Point"}
+}

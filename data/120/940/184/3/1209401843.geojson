@@ -1,0 +1,66 @@
+{
+  "id": 1209401843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26917,30.28333,31.26917,30.28333",
+    "geom:latitude":30.28333,
+    "geom:longitude":31.26917,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Kawm al Ahmar",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360952,
+    "gn:latitude":30.28333,
+    "gn:longitude":31.26917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kawm al A\u1e29mar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-K\u00f4m el-A\u1e25mar",
+        "Al Kawm al A\u1e29mar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360952
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1163b56bf65b9b126dfe24852a1a554f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209401843
+        }
+    ],
+    "wof:id":1209401843,
+    "wof:lastmodified":1537620906,
+    "wof:name":"Al Kawm al Ahmar",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26917000000001,
+    30.28333,
+    31.26917000000001,
+    30.28333
+],
+  "geometry": {"coordinates":[31.26917000000001,30.28333],"type":"Point"}
+}

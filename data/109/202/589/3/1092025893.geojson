@@ -1,0 +1,91 @@
+{
+  "id": 1092025893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001016,
+    "geom:area_square_m":10789944.450608,
+    "geom:bbox":"30.971336,30.766139,31.029047,30.793851",
+    "geom:latitude":30.779407,
+    "geom:longitude":30.999012,
+    "iso:country":"EG",
+    "lbl:latitude":30.777781,
+    "lbl:longitude":30.999559,
+    "meso:admin_1":"Gharbia",
+    "meso:diss_me":"Tany TantaGharbia",
+    "meso:gadm_admin":"Tanta 2",
+    "meso:gadm_hasc2":"EG.GH.TS",
+    "meso:gaul_admin":"Tanta 2",
+    "meso:mps_x":30.999559,
+    "meso:mps_y":30.777781,
+    "meso:name_en":"Tany Tanta",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.777781,
+    "mps:longitude":30.999559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tanta 2"
+    ],
+    "name:eng_x_variant":[
+        "Tanta 2"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.GH",
+    "statoids:name":"Tanta 2",
+    "statoids:population":"214275",
+    "statoids:statoid":"EG.GH.TS",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.GH.TS"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897559,
+    "wof:geomhash":"6e7d1d29fe0a513835994c6762c4bdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025893,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1092025893,
+    "wof:lastmodified":1536615094,
+    "wof:name":"Tany Tanta",
+    "wof:parent_id":85670985,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":214275,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"TS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.971336,
+    30.766139,
+    31.029047,
+    30.793851
+],
+  "geometry": {"coordinates":[[[30.97252,30.787327],[30.986885,30.787483],[31.00589,30.790353],[31.029047,30.793851],[31.028766,30.792236],[31.028496,30.792004],[31.025791,30.789904],[31.024982,30.789436],[31.023086,30.787576],[31.022271,30.786418],[31.021612,30.784287],[31.02117,30.782721],[31.021164,30.7818],[31.021158,30.78088],[31.021419,30.779962],[31.022212,30.777895],[31.021939,30.7772],[31.021664,30.776278],[31.021482,30.775969],[31.019497,30.773954],[31.019213,30.773519],[31.018136,30.771869],[31.017324,30.770939],[31.015973,30.770005],[31.012469,30.768822],[31.01166,30.768584],[31.010851,30.768113],[31.008162,30.76809],[31.007086,30.768078],[31.003579,30.766434],[31.001965,30.766188],[30.999275,30.766163],[30.99793,30.766151],[30.997124,30.766143],[30.996855,30.766139],[30.995246,30.766815],[30.994708,30.767042],[30.992833,30.767944],[30.991762,30.768624],[30.99096,30.769306],[30.989354,30.770445],[30.98855,30.771127],[30.987213,30.772036],[30.985595,30.77133],[30.984244,30.770395],[30.982626,30.769689],[30.979933,30.769203],[30.978319,30.768957],[30.976435,30.768708],[30.972939,30.768674],[30.971336,30.770271],[30.971888,30.772579],[30.972164,30.773734],[30.972711,30.77512],[30.973256,30.776279],[30.974344,30.77813],[30.974351,30.779282],[30.974209,30.779526],[30.973821,30.780429],[30.973841,30.783654],[30.973314,30.78526],[30.972781,30.786177],[30.97252,30.787327]]],"type":"Polygon"}
+}

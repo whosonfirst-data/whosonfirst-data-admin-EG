@@ -1,0 +1,66 @@
+{
+  "id": 1209384557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.83013,25.07096,32.83013,25.07096",
+    "geom:latitude":25.07096,
+    "geom:longitude":32.83013,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Al Kilh",
+    "gn:country_code":"EG",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353503,
+    "gn:latitude":25.07096,
+    "gn:longitude":32.83013,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kil\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kil\u1e25 el Gabal",
+        "Kil\u1e29 al Jabal",
+        "Al Kil\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353503
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"eb3ee2136972230fb1ae7b2b1d031b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209384557
+        }
+    ],
+    "wof:id":1209384557,
+    "wof:lastmodified":1537620672,
+    "wof:name":"Al Kilh",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.83013,
+    25.07096,
+    32.83013,
+    25.07096
+],
+  "geometry": {"coordinates":[32.83013,25.07096],"type":"Point"}
+}

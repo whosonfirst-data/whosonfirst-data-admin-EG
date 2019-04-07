@@ -1,0 +1,76 @@
+{
+  "id": 1209915789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28358,31.04321,30.28358,31.04321",
+    "geom:latitude":31.04321,
+    "geom:longitude":30.28358,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kawm al Qanatir",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355337,
+    "gn:latitude":31.04321,
+    "gn:longitude":30.28358,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kawm al Qan\u0101\u0163ir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645 \u0627\u0644\u0642\u0646\u0627\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet K\u00f4m el-Qan\u00e2\u1e6dir",
+        "\u2018Izbat Kawm al Qan\u0101\u0163ir",
+        "Kawm al Qan\u0101\u0163ir",
+        "Kawm al Qan\u0101\u1e6dir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355337
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d2c555ff0ad6de0dd3615af755f259b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1209915789,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1209915789,
+    "wof:lastmodified":1537620761,
+    "wof:name":"Kawm al Qanatir",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28358,
+    31.04321,
+    30.28358,
+    31.04321
+],
+  "geometry": {"coordinates":[30.28358,31.04321],"type":"Point"}
+}

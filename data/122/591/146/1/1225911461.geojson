@@ -1,0 +1,78 @@
+{
+  "id": 1225911461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11034,29.0475,33.11034,29.0475",
+    "geom:latitude":29.0475,
+    "geom:longitude":33.11034,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Abu Zanimah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361930,
+    "gn:latitude":29.0475,
+    "gn:longitude":33.11034,
+    "gn:modification_date":"2016-09-20",
+    "gn:name":"Ab\u016b Zan\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0632\u0646\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Abu Zen\u012bma",
+        "Abu Zuneim",
+        "Aby Zniema",
+        "Abu Zen\u00eema",
+        "Ab\u016b Zan\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671089,
+        1092014403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361930,
+        "wk:page":"Abu_Zenima"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c37176692402d33410753b6f816e82db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014403,
+            "locality_id":1225911461,
+            "region_id":85671089
+        }
+    ],
+    "wof:id":1225911461,
+    "wof:lastmodified":1537620956,
+    "wof:name":"Abu Zanimah",
+    "wof:parent_id":1092014403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11034,
+    29.0475,
+    33.11034,
+    29.0475
+],
+  "geometry": {"coordinates":[33.11034,29.0475],"type":"Point"}
+}

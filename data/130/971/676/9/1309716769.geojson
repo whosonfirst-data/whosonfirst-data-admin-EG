@@ -1,0 +1,71 @@
+{
+  "id": 1309716769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79567,30.79608,30.79567,30.79608",
+    "geom:latitude":30.79608,
+    "geom:longitude":30.79567,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr Hashshad",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354263,
+    "gn:latitude":30.79608,
+    "gn:longitude":30.79567,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u1e28ashsh\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr \u1e24ashsh\u00e2d",
+        "Kafr \u1e28ashsh\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092021623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354263
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"29a0eb3a601fd1db665101c782d43049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021623,
+            "locality_id":1309716769,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1309716769,
+    "wof:lastmodified":1537620700,
+    "wof:name":"Kafr Hashshad",
+    "wof:parent_id":1092021623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79567,
+    30.79608,
+    30.79567,
+    30.79608
+],
+  "geometry": {"coordinates":[30.79567,30.79608],"type":"Point"}
+}

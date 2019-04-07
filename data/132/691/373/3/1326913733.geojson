@@ -1,0 +1,77 @@
+{
+  "id": 1326913733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76126,30.5473,31.76126,30.5473",
+    "geom:latitude":30.5473,
+    "geom:longitude":31.76126,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tall Hamid",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347587,
+    "gn:latitude":30.5473,
+    "gn:longitude":31.76126,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Tall \u1e28\u0101mid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062d\u0627\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Tell \u1e24\u00e2mid",
+        "Tell Abu \u1e24\u00e2mid",
+        "Tall Ab\u016b \u1e28\u0101mid",
+        "Tall \u1e28\u0101mid",
+        "Tall \u1e24amid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347587
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c5730d9f0a7b6786f9d6fb155d30c044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020039,
+            "locality_id":1326913733,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1326913733,
+    "wof:lastmodified":1537620562,
+    "wof:name":"Tall Hamid",
+    "wof:parent_id":1092020039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76126,
+    30.5473,
+    31.76126,
+    30.5473
+],
+  "geometry": {"coordinates":[31.76126,30.5473],"type":"Point"}
+}

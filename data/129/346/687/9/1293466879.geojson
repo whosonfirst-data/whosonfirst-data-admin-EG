@@ -1,0 +1,74 @@
+{
+  "id": 1293466879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14821,30.30026,31.14821,30.30026",
+    "geom:latitude":30.30026,
+    "geom:longitude":31.14821,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ajhur al Kubra",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361694,
+    "gn:latitude":30.30026,
+    "gn:longitude":31.14821,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ajh\u016br al Kubr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u062c\u0647\u0648\u0631 \u0627\u0644\u0643\u0628\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Ag-h\u00fbr el-Kubra",
+        "Ajh\u016br al Kubr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361694
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"85d44c3b76fcdbf393e2cc918a1cf782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1293466879,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1293466879,
+    "wof:lastmodified":1537620950,
+    "wof:name":"Ajhur al Kubra",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14821,
+    30.30026,
+    31.14821,
+    30.30026
+],
+  "geometry": {"coordinates":[31.14821,30.30026],"type":"Point"}
+}

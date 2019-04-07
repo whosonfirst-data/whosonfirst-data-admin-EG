@@ -1,0 +1,71 @@
+{
+  "id": 1327106081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.004,27.24478,31.004,27.24478",
+    "geom:latitude":27.24478,
+    "geom:longitude":31.004,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bani Sanad",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359183,
+    "gn:latitude":27.24478,
+    "gn:longitude":31.004,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b Sanad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Sanad",
+        "Ban\u012b Sanad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092022045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359183
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"06a0800b7f2f1b4b6e2ced03e1ea2f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022045,
+            "locality_id":1327106081,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1327106081,
+    "wof:lastmodified":1537620829,
+    "wof:name":"Bani Sanad",
+    "wof:parent_id":1092022045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.004,
+    27.24478,
+    31.004,
+    27.24478
+],
+  "geometry": {"coordinates":[31.004,27.24478],"type":"Point"}
+}

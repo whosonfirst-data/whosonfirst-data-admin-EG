@@ -1,0 +1,61 @@
+{
+  "id": 1209101219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65,28.08333,30.65,28.08333",
+    "geom:latitude":28.08333,
+    "geom:longitude":30.65,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nag' Hamad 'Iraq",
+    "gn:country_code":"EG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351567,
+    "gn:latitude":28.08333,
+    "gn:longitude":30.65,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2019 \u1e24amad \u2019Iraq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351567
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b7791bd87d3afc90efe590aacafff5c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209101219
+        }
+    ],
+    "wof:id":1209101219,
+    "wof:lastmodified":1536297726,
+    "wof:name":"Nag' Hamad 'Iraq",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65,
+    28.08333,
+    30.65,
+    28.08333
+],
+  "geometry": {"coordinates":[30.65,28.08333],"type":"Point"}
+}

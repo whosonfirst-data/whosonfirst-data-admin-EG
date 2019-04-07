@@ -1,0 +1,73 @@
+{
+  "id": 1226716211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.21501,31.06158,32.21501,31.06158",
+    "geom:latitude":31.06158,
+    "geom:longitude":32.21501,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Hajayizah",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9643161,
+    "gn:latitude":31.06158,
+    "gn:longitude":32.21501,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Al \u1e28aj\u0101yizah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062c\u0627\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28aj\u0101yizah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671021,
+        1092017397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9643161
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9ff80e3b8fe380b3e8d0837a81b08673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017397,
+            "locality_id":1226716211,
+            "region_id":85671021
+        }
+    ],
+    "wof:id":1226716211,
+    "wof:lastmodified":1537621231,
+    "wof:name":"Al Hajayizah",
+    "wof:parent_id":1092017397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.21501,
+    31.06158,
+    32.21501,
+    31.06158
+],
+  "geometry": {"coordinates":[32.21501,31.06158],"type":"Point"}
+}

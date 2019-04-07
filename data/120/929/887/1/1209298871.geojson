@@ -1,0 +1,65 @@
+{
+  "id": 1209298871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93423,30.55428,30.93423,30.55428",
+    "geom:latitude":30.55428,
+    "geom:longitude":30.93423,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Shubra Bas",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349068,
+    "gn:latitude":30.55428,
+    "gn:longitude":30.93423,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shubr\u0101 B\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shubra B\u00e2\u1e63",
+        "Shubr\u0101 B\u0101\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349068
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"987d9db32440317e3b48eb54153d9f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209298871
+        }
+    ],
+    "wof:id":1209298871,
+    "wof:lastmodified":1537620573,
+    "wof:name":"Shubra Bas",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93423,
+    30.55428,
+    30.93423,
+    30.55428
+],
+  "geometry": {"coordinates":[30.93423,30.55428],"type":"Point"}
+}

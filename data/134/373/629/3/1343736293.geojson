@@ -1,0 +1,73 @@
+{
+  "id": 1343736293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79338,31.29797,30.79338,31.29797",
+    "geom:latitude":31.29797,
+    "geom:longitude":30.79338,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Abu Husayn",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416313,
+    "gn:latitude":31.29797,
+    "gn:longitude":30.79338,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbat Ab\u016b \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u062d\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092024971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416313
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"faef69a568c6a28638e267fee596b321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024971,
+            "locality_id":1343736293,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1343736293,
+    "wof:lastmodified":1537621027,
+    "wof:name":"`Izbat Abu Husayn",
+    "wof:parent_id":1092024971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79338,
+    31.29797,
+    30.79338,
+    31.29797
+],
+  "geometry": {"coordinates":[30.79338,31.29797],"type":"Point"}
+}

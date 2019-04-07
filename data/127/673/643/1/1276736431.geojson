@@ -1,0 +1,74 @@
+{
+  "id": 1276736431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79981,31.04167,31.79981,31.04167",
+    "geom:latitude":31.04167,
+    "geom:longitude":31.79981,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Hanash",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421210,
+    "gn:latitude":31.04167,
+    "gn:longitude":31.79981,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat al \u1e28anash",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062d\u0646\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u1e28anash",
+        "\u2018Izbat al-\u1e24anash"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421210
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c66b94a82901ca8eb66b66b0c894e677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015105,
+            "locality_id":1276736431,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276736431,
+    "wof:lastmodified":1537621103,
+    "wof:name":"`Izbat al Hanash",
+    "wof:parent_id":1092015105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79981,
+    31.04167,
+    31.79981,
+    31.04167
+],
+  "geometry": {"coordinates":[31.79981,31.04167],"type":"Point"}
+}

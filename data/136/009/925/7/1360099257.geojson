@@ -1,0 +1,75 @@
+{
+  "id": 1360099257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42355,30.99238,31.42355,30.99238",
+    "geom:latitude":30.99238,
+    "geom:longitude":31.42355,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mit al Akrad",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352241,
+    "gn:latitude":30.99238,
+    "gn:longitude":31.42355,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"M\u012bt al Akr\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0627\u0644\u0623\u0643\u0631\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet el-Akr\u00e2d",
+        "M\u012bt al Akr\u0101d",
+        "M\u012bt al-Akr\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352241
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"079efd64318c8d45d59425dbeb1d3be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1360099257,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1360099257,
+    "wof:lastmodified":1537620644,
+    "wof:name":"Mit al Akrad",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42355,
+    30.99238,
+    31.42355,
+    30.99238
+],
+  "geometry": {"coordinates":[31.42355,30.99238],"type":"Point"}
+}

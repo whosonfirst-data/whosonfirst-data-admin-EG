@@ -1,0 +1,71 @@
+{
+  "id": 1209479541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78104,31.03497,30.78104,31.03497",
+    "geom:latitude":31.03497,
+    "geom:longitude":30.78104,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat ash Shadhli",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416154,
+    "gn:latitude":31.03497,
+    "gn:longitude":30.78104,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat ash Sh\u0101dhl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0634\u0627\u0630\u0644\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0648 \u062d\u0645\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ash Sh\u0101dhl\u012b",
+        "Ab\u016b \u1e28imayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416154
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5613d26b1e4112adc16bca96138087cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209479541
+        }
+    ],
+    "wof:id":1209479541,
+    "wof:lastmodified":1537621018,
+    "wof:name":"`Izbat ash Shadhli",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78104,
+    31.03497,
+    30.78104,
+    31.03497
+],
+  "geometry": {"coordinates":[30.78104,31.03497],"type":"Point"}
+}

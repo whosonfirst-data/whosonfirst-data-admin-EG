@@ -1,0 +1,74 @@
+{
+  "id": 1226813609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97554,31.20459,30.97554,31.20459",
+    "geom:latitude":31.20459,
+    "geom:longitude":30.97554,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat at Tayyarah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416069,
+    "gn:latitude":31.20459,
+    "gn:longitude":30.97554,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat a\u0163 \u0162ayy\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0637\u064a\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat a\u0163 \u0162ayy\u0101rah",
+        "\u2018Izbat a\u1e6d \u1e6cayy\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416069
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c1f38867a6791c7d79e2bf26382cdfff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1226813609,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1226813609,
+    "wof:lastmodified":1537621010,
+    "wof:name":"`Izbat at Tayyarah",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97554,
+    31.20459,
+    30.97554,
+    31.20459
+],
+  "geometry": {"coordinates":[30.97554,31.20459],"type":"Point"}
+}

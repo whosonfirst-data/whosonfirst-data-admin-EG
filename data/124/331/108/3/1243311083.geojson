@@ -1,0 +1,67 @@
+{
+  "id": 1243311083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.18385,31.1585,34.18385,31.1585",
+    "geom:latitude":31.1585,
+    "geom:longitude":34.18385,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Abu Zamat",
+    "gn:country_code":"EG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449782,
+    "gn:latitude":31.1585,
+    "gn:longitude":34.18385,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Abu Zamat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092023763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449782
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"94307a0ed84966d8cbc55e56e2a4ac05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023763,
+            "locality_id":1243311083,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1243311083,
+    "wof:lastmodified":1537000006,
+    "wof:name":"Abu Zamat",
+    "wof:parent_id":1092023763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.18385,
+    31.1585,
+    34.18385,
+    31.1585
+],
+  "geometry": {"coordinates":[34.18385,31.1585],"type":"Point"}
+}

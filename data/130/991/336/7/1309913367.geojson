@@ -1,0 +1,85 @@
+{
+  "id": 1309913367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.144,31.0393,30.144,31.0393",
+    "geom:latitude":31.0393,
+    "geom:longitude":30.144,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Hilbawi",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352880,
+    "gn:latitude":31.0393,
+    "gn:longitude":30.144,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al Hilb\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0644\u0628\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mansh\u00eeyet el-Hilb\u00e2wi",
+        "Mansh\u012byat al Hilb\u0101w\u012b",
+        "Al Hilb\u0101w\u012b",
+        "\u2018Izbat at Turjum\u0101n",
+        "\u2018Ezbet el Turguman",
+        "\u2018Ezbet Ibr\u00e2h\u00eem Bey el-\u1e24ilb\u00e2wi",
+        "\u2018Izbat Ibr\u0101h\u012bm Bey al \u1e28ilb\u0101w\u012b",
+        "Al \u2018Izbah al \u1e28amr\u0101\u2019",
+        "El \u1e24amra",
+        "Al \u1e28amr\u0101\u2019",
+        "\u2018Ezbet el Mansh\u00eeya el-Ged\u00eeda",
+        "\u2018Ezbet Ibr\u00e2h\u00eem Bey el-Hilb\u00e2wi",
+        "\u2018Izbat Ibr\u0101h\u012bm Bey al Hilb\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352880
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fdc2ca2cfa176daa84ed414671b46189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1309913367,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1309913367,
+    "wof:lastmodified":1537620661,
+    "wof:name":"Al Hilbawi",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.144,
+    31.0393,
+    30.144,
+    31.0393
+],
+  "geometry": {"coordinates":[30.144,31.0393],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343816557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.81812,31.19793,27.81812,31.19793",
+    "geom:latitude":31.19793,
+    "geom:longitude":27.81812,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Zawiyat Ashtur",
+    "gn:country_code":"EG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346096,
+    "gn:latitude":31.19793,
+    "gn:longitude":27.81812,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat Ash\u0163\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyet Asht\u00fbr",
+        "Zawia Ashtuh",
+        "Z\u0101wiyat Ash\u0163\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092022115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346096
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e2766a7c7327c87b088e4ff849b7cbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022115,
+            "locality_id":1343816557,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1343816557,
+    "wof:lastmodified":1537620546,
+    "wof:name":"Zawiyat Ashtur",
+    "wof:parent_id":1092022115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.81812,
+    31.19793,
+    27.81812,
+    31.19793
+],
+  "geometry": {"coordinates":[27.81812,31.19793],"type":"Point"}
+}

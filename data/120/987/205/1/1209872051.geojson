@@ -1,0 +1,74 @@
+{
+  "id": 1209872051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93333,26.2,31.93333,26.2",
+    "geom:latitude":26.2,
+    "geom:longitude":31.93333,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Harajah Qibli",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361203,
+    "gn:latitude":26.2,
+    "gn:longitude":31.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28arajah Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zim\u0101m al \u1e28arajah Qibl\u012b",
+        "El Haraga",
+        "El \u1e24araga Qibl\u00ee",
+        "Al \u1e28arajah Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092017143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361203
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6fd8f0441d092503408786cbfc53487f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017143,
+            "locality_id":1209872051,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1209872051,
+    "wof:lastmodified":1537620921,
+    "wof:name":"Al Harajah Qibli",
+    "wof:parent_id":1092017143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93333,
+    26.2,
+    31.93333,
+    26.2
+],
+  "geometry": {"coordinates":[31.93333,26.2],"type":"Point"}
+}

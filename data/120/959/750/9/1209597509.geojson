@@ -1,0 +1,65 @@
+{
+  "id": 1209597509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13333,22.75,32.13333,22.75",
+    "geom:latitude":22.75,
+    "geom:longitude":32.13333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tumas wa `Afiyah",
+    "gn:country_code":"EG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347215,
+    "gn:latitude":22.75,
+    "gn:longitude":32.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u016bm\u0101s wa \u2018\u0100fiyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00fbm\u00e2s and \u2018\u00c2fya",
+        "T\u016bm\u0101s wa \u2018\u0100fiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347215
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cc16943d91770f02ff783668189ab593",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209597509
+        }
+    ],
+    "wof:id":1209597509,
+    "wof:lastmodified":1537620555,
+    "wof:name":"Tumas wa `Afiyah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13333,
+    22.75,
+    32.13333,
+    22.75
+],
+  "geometry": {"coordinates":[32.13333,22.75],"type":"Point"}
+}

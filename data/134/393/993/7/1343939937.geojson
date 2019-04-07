@@ -1,0 +1,71 @@
+{
+  "id": 1343939937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.89111,25.01397,32.89111,25.01397",
+    "geom:latitude":25.01397,
+    "geom:longitude":32.89111,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Naj` al `Atwani",
+    "gn:country_code":"EG",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351608,
+    "gn:latitude":25.01397,
+    "gn:longitude":32.89111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 al \u2018A\u0163w\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 el-\u2018Otw\u00e2ni el-Ba\u1e25ari",
+        "Naj\u2018 al \u2018A\u0163w\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351608
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2023d02994eb5894c9369def9729fa54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016437,
+            "locality_id":1343939937,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1343939937,
+    "wof:lastmodified":1537620628,
+    "wof:name":"Naj` al `Atwani",
+    "wof:parent_id":1092016437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.89111,
+    25.01397,
+    32.89111,
+    25.01397
+],
+  "geometry": {"coordinates":[32.89111,25.01397],"type":"Point"}
+}

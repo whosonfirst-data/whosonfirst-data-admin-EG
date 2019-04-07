@@ -1,0 +1,79 @@
+{
+  "id": 421192789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.59564,29.95412,32.59564,29.95412",
+    "geom:latitude":29.95412,
+    "geom:longitude":32.59564,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Esh Shatt"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":360014,
+    "qs:gn_pop":0,
+    "qs:name":"Ash Shatt",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0633\u0648\u064a\u0633",
+    "qs:photos":127,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":127,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1175305,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1522265,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671013,
+        1092017827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360014,
+        "gp:id":1522265,
+        "qs:id":1175305
+    },
+    "wof:country":"EG",
+    "wof:created":1459009748,
+    "wof:geomhash":"2402ff83dcba2e537461cd90683e1821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017827,
+            "locality_id":421192789,
+            "region_id":85671013
+        }
+    ],
+    "wof:id":421192789,
+    "wof:lastmodified":1501214184,
+    "wof:name":"Ash Shatt",
+    "wof:parent_id":1092017827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.59564,
+    29.95412,
+    32.59564,
+    29.95412
+],
+  "geometry": {"coordinates":[32.59564,29.95412],"type":"Point"}
+}

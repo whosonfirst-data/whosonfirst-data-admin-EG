@@ -1,0 +1,73 @@
+{
+  "id": 1343436171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.12104,31.08092,32.12104,31.08092",
+    "geom:latitude":31.08092,
+    "geom:longitude":32.12104,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"`Izbat Sulayman Abu `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9616697,
+    "gn:latitude":31.08092,
+    "gn:longitude":32.12104,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"\u2018Izbat Sulaym\u0101n Ab\u016b \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0633\u0644\u064a\u0645\u0627\u0646 \u0627\u0628\u0648 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Sulaym\u0101n Ab\u016b \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9616697
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b6e4ed5dc2a74d8e4e875d326cb33c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1343436171,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343436171,
+    "wof:lastmodified":1537621230,
+    "wof:name":"`Izbat Sulayman Abu `Ali",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.12104,
+    31.08092000000001,
+    32.12104,
+    31.08092000000001
+],
+  "geometry": {"coordinates":[32.12104,31.08092000000001],"type":"Point"}
+}

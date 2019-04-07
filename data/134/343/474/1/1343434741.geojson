@@ -1,0 +1,73 @@
+{
+  "id": 1343434741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74897,30.54296,31.74897,30.54296",
+    "geom:latitude":30.54296,
+    "geom:longitude":31.74897,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Tall al Ba`ar",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069876,
+    "gn:latitude":30.54296,
+    "gn:longitude":31.74897,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Tall al Ba\u2018ar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062a\u0644 \u0627\u0644\u0628\u0639\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Tall al Ba\u2018ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069876
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"462685a1e36d42f5ac03e69d10c297e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014103,
+            "locality_id":1343434741,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343434741,
+    "wof:lastmodified":1537621174,
+    "wof:name":"`Izbat Tall al Ba`ar",
+    "wof:parent_id":1092014103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74897,
+    30.54296,
+    31.74897,
+    30.54296
+],
+  "geometry": {"coordinates":[31.74897,30.54296],"type":"Point"}
+}

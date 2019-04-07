@@ -1,0 +1,77 @@
+{
+  "id": 1242751603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74797,30.75339,31.74797,30.75339",
+    "geom:latitude":30.75339,
+    "geom:longitude":31.74797,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al `Arin",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361549,
+    "gn:latitude":30.75339,
+    "gn:longitude":31.74797,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018\u0100r\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018\u0100r\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0627\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-\u2018\u00c2r\u00een",
+        "Al \u2018\u0100r\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361549
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9f84a721c25c8d92c776f47fd18f7910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1242751603,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1242751603,
+    "wof:lastmodified":1537620943,
+    "wof:name":"Al `Arin",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74797,
+    30.75339,
+    31.74797,
+    30.75339
+],
+  "geometry": {"coordinates":[31.74797,30.75339],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310109909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35934,31.28392,31.35934,31.28392",
+    "geom:latitude":31.28392,
+    "geom:longitude":31.35934,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ash Shawami",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357763,
+    "gn:latitude":31.28392,
+    "gn:longitude":31.35934,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shaw\u0101m\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0627\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ash Shaw\u0101m\u012b",
+        "El-Shaw\u00e2mi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092015611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357763
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"020656ebff218459395e5acf55374c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015611,
+            "locality_id":1310109909,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1310109909,
+    "wof:lastmodified":1537620803,
+    "wof:name":"Ash Shawami",
+    "wof:parent_id":1092015611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35934,
+    31.28392,
+    31.35934,
+    31.28392
+],
+  "geometry": {"coordinates":[31.35934,31.28392],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260002243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12211,30.89605,31.12211,30.89605",
+    "geom:latitude":30.89605,
+    "geom:longitude":31.12211,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat al Bank",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560719,
+    "gn:latitude":30.89605,
+    "gn:longitude":31.12211,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat al Bank",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u0646\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Bank",
+        "\u2018Izbat al-Bank"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560719
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2da222885afa51670e64a3c77d439387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1260002243,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1260002243,
+    "wof:lastmodified":1537621209,
+    "wof:name":"`Izbat al Bank",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12211,
+    30.89605,
+    31.12211,
+    30.89605
+],
+  "geometry": {"coordinates":[31.12211,30.89605],"type":"Point"}
+}

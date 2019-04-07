@@ -1,0 +1,75 @@
+{
+  "id": 1292907657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52878,31.08245,31.52878,31.08245",
+    "geom:latitude":31.08245,
+    "geom:longitude":31.52878,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jazirat al Qibab",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350572,
+    "gn:latitude":31.08245,
+    "gn:longitude":31.52878,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Jaz\u012brat al Qib\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u0642\u0628\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Gez\u00eeret el-Qib\u00e2b",
+        "Jaz\u012brat al Qib\u0101b",
+        "Jaz\u012brat al-Qib\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092016227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350572
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"35d3669aa303fa9019f101f3ed85a761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016227,
+            "locality_id":1292907657,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1292907657,
+    "wof:lastmodified":1537620595,
+    "wof:name":"Jazirat al Qibab",
+    "wof:parent_id":1092016227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52878,
+    31.08245,
+    31.52878,
+    31.08245
+],
+  "geometry": {"coordinates":[31.52878,31.08245],"type":"Point"}
+}

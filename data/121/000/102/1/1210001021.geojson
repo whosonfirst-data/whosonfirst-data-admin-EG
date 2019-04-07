@@ -1,0 +1,77 @@
+{
+  "id": 1210001021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18104,30.6012,31.18104,30.6012",
+    "geom:latitude":30.6012,
+    "geom:longitude":31.18104,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Izbat as Sayyid al Faqi",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199911,
+    "gn:latitude":30.6012,
+    "gn:longitude":31.18104,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"\u2018Izbat as Sayy\u012bd al Faq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0633\u064a\u062f \u0627\u0644\u0641\u0642\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Al I\u015fl\u0101\u1e29",
+        "\u0627\u0644\u0627\u0635\u0644\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat as Sayy\u012bd al Faq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092023671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199911
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7e9f2fa11331cbb91302af6baf288eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023671,
+            "locality_id":1210001021,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1210001021,
+    "wof:lastmodified":1537621186,
+    "wof:name":"`Izbat as Sayyid al Faqi",
+    "wof:parent_id":1092023671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18104000000001,
+    30.6012,
+    31.18104000000001,
+    30.6012
+],
+  "geometry": {"coordinates":[31.18104000000001,30.6012],"type":"Point"}
+}

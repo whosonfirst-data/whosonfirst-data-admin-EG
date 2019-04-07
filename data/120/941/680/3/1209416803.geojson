@@ -1,0 +1,61 @@
+{
+  "id": 1209416803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53187,30.8799,30.53187,30.8799",
+    "geom:latitude":30.8799,
+    "geom:longitude":30.53187,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Babadublu",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433242,
+    "gn:latitude":30.8799,
+    "gn:longitude":30.53187,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat B\u0101b\u0101dubl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433242
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"05157d261cda3f720b2b8ad9ccc79320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209416803
+        }
+    ],
+    "wof:id":1209416803,
+    "wof:lastmodified":1536287660,
+    "wof:name":"`Izbat Babadublu",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53187,
+    30.8799,
+    30.53187,
+    30.8799
+],
+  "geometry": {"coordinates":[30.53187,30.8799],"type":"Point"}
+}

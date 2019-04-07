@@ -1,0 +1,72 @@
+{
+  "id": 1226427871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2345,29.62965,31.2345,29.62965",
+    "geom:latitude":29.62965,
+    "geom:longitude":31.2345,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tahma wa Minshat `Abd as Sayyid",
+    "gn:country_code":"EG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347636,
+    "gn:latitude":29.62965,
+    "gn:longitude":31.2345,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162ahm\u0101 wa Minsh\u0101t \u2018Abd as Sayyid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e6cahma and Minsh\u00e2t \u2018Abd el Saiyid",
+        "Tahma",
+        "\u0162ahm\u0101 wa Minsh\u0101t \u2018Abd as Sayyid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092016893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347636
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"447ad5288bdc48a8aa12bd0e0030b5a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016893,
+            "locality_id":1226427871,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1226427871,
+    "wof:lastmodified":1537620563,
+    "wof:name":"Tahma wa Minshat `Abd as Sayyid",
+    "wof:parent_id":1092016893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2345,
+    29.62965,
+    31.2345,
+    29.62965
+],
+  "geometry": {"coordinates":[31.2345,29.62965],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343746353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85906,30.52789,30.85906,30.52789",
+    "geom:latitude":30.52789,
+    "geom:longitude":30.85906,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Shabshir Tamalay",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349467,
+    "gn:latitude":30.52789,
+    "gn:longitude":30.85906,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shabsh\u012br \u0162amal\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shabsh\u00eer \u1e6camal\u00e2i",
+        "Shabsh\u012br \u0162amal\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092019949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349467
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5b9137f577987302f8ba2cc2b2886707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019949,
+            "locality_id":1343746353,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1343746353,
+    "wof:lastmodified":1537620580,
+    "wof:name":"Shabshir Tamalay",
+    "wof:parent_id":1092019949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85906,
+    30.52789000000001,
+    30.85906,
+    30.52789000000001
+],
+  "geometry": {"coordinates":[30.85906,30.52789000000001],"type":"Point"}
+}

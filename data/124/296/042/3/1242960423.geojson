@@ -1,0 +1,74 @@
+{
+  "id": 1242960423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15783,30.34756,31.15783,30.34756",
+    "geom:latitude":30.34756,
+    "geom:longitude":31.15783,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kawm al Atrun",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353886,
+    "gn:latitude":30.34756,
+    "gn:longitude":31.15783,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm al A\u0163r\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645 \u0627\u0644\u0627\u0637\u0631\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "K\u00f4m el-A\u1e6dr\u00fbn",
+        "Kawm al A\u0163r\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353886
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cca6edde56d3da657f81d175072f2023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1242960423,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1242960423,
+    "wof:lastmodified":1537620678,
+    "wof:name":"Kawm al Atrun",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15783,
+    30.34756,
+    31.15783,
+    30.34756
+],
+  "geometry": {"coordinates":[31.15783,30.34756],"type":"Point"}
+}

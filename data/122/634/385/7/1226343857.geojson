@@ -1,0 +1,71 @@
+{
+  "id": 1226343857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.17343,30.97089,30.17343,30.97089",
+    "geom:latitude":30.97089,
+    "geom:longitude":30.17343,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Turujah",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357085,
+    "gn:latitude":30.97089,
+    "gn:longitude":30.17343,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tur\u016bjah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Tur\u00fbga",
+        "Tur\u016bjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357085
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"904aad15f7fe75db0753fde79b24e7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1226343857,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226343857,
+    "wof:lastmodified":1537620783,
+    "wof:name":"Turujah",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.17343,
+    30.97089,
+    30.17343,
+    30.97089
+],
+  "geometry": {"coordinates":[30.17343,30.97089],"type":"Point"}
+}

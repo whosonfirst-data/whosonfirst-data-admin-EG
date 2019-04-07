@@ -1,0 +1,74 @@
+{
+  "id": 1209896425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13975,30.34044,31.13975,30.34044",
+    "geom:latitude":30.34044,
+    "geom:longitude":31.13975,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Manshiyat al `Amar",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352887,
+    "gn:latitude":30.34044,
+    "gn:longitude":31.13975,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mansh\u012byat al \u2018Am\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0627\u0644\u0639\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Manshiyet el-Amar",
+        "Mansh\u012byat al \u2018Am\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352887
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1426fe23cde635a69cff1e66ca6d9f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1209896425,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1209896425,
+    "wof:lastmodified":1537620662,
+    "wof:name":"Manshiyat al `Amar",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13975,
+    30.34044,
+    31.13975,
+    30.34044
+],
+  "geometry": {"coordinates":[31.13975,30.34044],"type":"Point"}
+}

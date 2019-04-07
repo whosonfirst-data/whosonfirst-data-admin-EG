@@ -1,0 +1,74 @@
+{
+  "id": 1327243079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51755,30.90847,30.51755,30.90847",
+    "geom:latitude":30.90847,
+    "geom:longitude":30.51755,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Misin",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360679,
+    "gn:latitude":30.90847,
+    "gn:longitude":30.51755,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"Al Mis\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-Mis\u00een",
+        "Al Mis\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360679
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f9cd539134b17c07115f6290d01cd98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1327243079,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327243079,
+    "wof:lastmodified":1537620890,
+    "wof:name":"Al Misin",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51755,
+    30.90847,
+    30.51755,
+    30.90847
+],
+  "geometry": {"coordinates":[30.51755,30.90847],"type":"Point"}
+}

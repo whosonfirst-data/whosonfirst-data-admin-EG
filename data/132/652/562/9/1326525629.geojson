@@ -1,0 +1,72 @@
+{
+  "id": 1326525629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80647,28.02675,30.80647,28.02675",
+    "geom:latitude":28.02675,
+    "geom:longitude":30.80647,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Matahrah al Bahariyah",
+    "gn:country_code":"EG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360724,
+    "gn:latitude":28.02675,
+    "gn:longitude":30.80647,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ma\u0163\u0101hrah al Ba\u1e29ar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ma\u1e6d\u00e2hra el Ba\u1e25ar\u00eeya",
+        "Al Ma\u0163\u0101hirah al Ba\u1e29r\u012byah",
+        "Al Ma\u0163\u0101hrah al Ba\u1e29ar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092018557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360724
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fa8b7c599fe24d039ff05e9d03274865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018557,
+            "locality_id":1326525629,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1326525629,
+    "wof:lastmodified":1537620893,
+    "wof:name":"Al Matahrah al Bahariyah",
+    "wof:parent_id":1092018557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80647,
+    28.02675,
+    30.80647,
+    28.02675
+],
+  "geometry": {"coordinates":[30.80647,28.02675],"type":"Point"}
+}

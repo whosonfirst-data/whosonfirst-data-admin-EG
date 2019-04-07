@@ -1,0 +1,67 @@
+{
+  "id": 1226444351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68171,30.94169,30.68171,30.94169",
+    "geom:latitude":30.94169,
+    "geom:longitude":30.68171,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Surur Maqlad",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433298,
+    "gn:latitude":30.94169,
+    "gn:longitude":30.68171,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Sur\u016br Maqlad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092020749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433298
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0f4abaf8e8f9a52350bb41db6e193f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020749,
+            "locality_id":1226444351,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226444351,
+    "wof:lastmodified":1536647073,
+    "wof:name":"`Izbat Surur Maqlad",
+    "wof:parent_id":1092020749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68171,
+    30.94169,
+    30.68171,
+    30.94169
+],
+  "geometry": {"coordinates":[30.68171,30.94169],"type":"Point"}
+}

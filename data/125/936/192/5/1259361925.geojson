@@ -1,0 +1,73 @@
+{
+  "id": 1259361925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59485,30.70707,31.59485,30.70707",
+    "geom:latitude":30.70707,
+    "geom:longitude":31.59485,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Hawanim",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069888,
+    "gn:latitude":30.70707,
+    "gn:longitude":31.59485,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat al Haw\u0101nim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0647\u0648\u0627\u0646\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Haw\u0101nim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069888
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"434ff0ea7554faccbb32b95937e53347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021319,
+            "locality_id":1259361925,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259361925,
+    "wof:lastmodified":1537621175,
+    "wof:name":"`Izbat al Hawanim",
+    "wof:parent_id":1092021319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59485,
+    30.70707,
+    31.59485,
+    30.70707
+],
+  "geometry": {"coordinates":[31.59485,30.70707],"type":"Point"}
+}

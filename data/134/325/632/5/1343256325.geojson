@@ -1,0 +1,71 @@
+{
+  "id": 1343256325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.32306,30.50889,32.32306,30.50889",
+    "geom:latitude":30.50889,
+    "geom:longitude":32.32306,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"`Izbat Abu Sitayt",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413913,
+    "gn:latitude":30.50889,
+    "gn:longitude":32.32306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2018Izbat Ab\u016b Sitayt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Abu Siteit",
+        "\u2018Izbat Ab\u016b Sitayt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092017535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413913
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c1f77d1047323e363cc87c0e2a28197a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017535,
+            "locality_id":1343256325,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1343256325,
+    "wof:lastmodified":1537621135,
+    "wof:name":"`Izbat Abu Sitayt",
+    "wof:parent_id":1092017535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.32306,
+    30.50889,
+    32.32306,
+    30.50889
+],
+  "geometry": {"coordinates":[32.32306,30.50889],"type":"Point"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 890451959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00904,30.55258,31.00904,30.55258",
+    "geom:latitude":30.55258,
+    "geom:longitude":31.00904,
+    "gn:country":"EG",
+    "gn:fcode":"PPLA",
+    "gn:pop":0,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u064a\u0646 \u0627\u0644\u0643\u0648\u0645"
+    ],
+    "name:arz_x_preferred":[
+        "\u0634\u0628\u064a\u0646 \u0627\u0644\u0643\u0648\u0645"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0438\u0431\u0438\u043d \u0435\u043b-\u041a\u043e\u043c"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e0c\u8cd3\u5eab\u59c6"
+    ],
+    "name:dut_x_preferred":[
+        "Shibin al Kawm"
+    ],
+    "name:eng_x_preferred":[
+        "Shibin Al Kawm"
+    ],
+    "name:fre_x_preferred":[
+        "Shibin El Kom"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e8\u10d8\u10d1\u10d8\u10dc-\u10d4\u10da-\u10e5\u10e3\u10db\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Schibin al-Kaum"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b9\u03bc\u03c0\u03af\u03bd \u03b5\u03bb \u039a\u03bf\u03bc"
+    ],
+    "name:ita_x_preferred":[
+        "Shibin El Kom"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30d3\u30fc\u30f3\u30fb\u30a8\u30eb\uff1d\u30b3\u30fc\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ube48\uc5d8\ucf64"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0628\u06cc\u0646 \u0627\u0644\u06a9\u0648\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Szibin al-Kaum"
+    ],
+    "name:por_x_preferred":[
+        "Xibin El Kom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0431\u0438\u043d-\u044d\u043b\u044c-\u041a\u043e\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Shibin El Kom"
+    ],
+    "name:spa_x_preferred":[
+        "Shibin el-Kom"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0438\u0431\u0438\u043d \u0435\u043b \u041a\u043e\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Shibin al-Kawm"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eibin el-Kom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0438\u0431\u0456\u043d-\u0415\u043b\u044c-\u041a\u043e\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Shabin al-Kum"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0628\u06cc\u0646 \u0627\u0644\u06a9\u0648\u0645"
+    ],
+    "name:war_x_preferred":[
+        "Shibin el-Kom"
+    ],
+    "qs:name":"Shib\u012bn al Kawm",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092024543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349158,
+        "gp:id":56447384,
+        "qs:id":206102,
+        "wd:id":"Q31350"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052799,
+    "wof:geomhash":"457cb47c34fed090336465b6345ec9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024543,
+            "locality_id":890451959,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":890451959,
+    "wof:lastmodified":1513956714,
+    "wof:name":"Shib\u012bn al Kawm",
+    "wof:parent_id":1092024543,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00904,
+    30.55258,
+    31.00904,
+    30.55258
+],
+  "geometry": {"coordinates":[31.00904,30.55258],"type":"Point"}
+}

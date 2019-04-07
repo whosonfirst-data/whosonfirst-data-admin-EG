@@ -1,0 +1,76 @@
+{
+  "id": 1226002983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56571,25.62822,32.56571,25.62822",
+    "geom:latitude":25.62822,
+    "geom:longitude":32.56571,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Maris",
+    "gn:country_code":"EG",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360743,
+    "gn:latitude":25.62822,
+    "gn:longitude":32.56571,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Al Mar\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "El Mar\u00ees",
+        "Al Mar\u012bs",
+        "Al-Mar\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092014573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360743,
+        "wk:page":"El_Maris_%28suburb%29"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"60b1f58c4b52b85e49f4734179bd216e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014573,
+            "locality_id":1226002983,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1226002983,
+    "wof:lastmodified":1537620895,
+    "wof:name":"Al Maris",
+    "wof:parent_id":1092014573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56571,
+    25.62822,
+    32.56571,
+    25.62822
+],
+  "geometry": {"coordinates":[32.56571,25.62822],"type":"Point"}
+}

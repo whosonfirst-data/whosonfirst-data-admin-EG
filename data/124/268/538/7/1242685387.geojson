@@ -1,0 +1,72 @@
+{
+  "id": 1242685387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.34278,31.05306,30.34278,31.05306",
+    "geom:latitude":31.05306,
+    "geom:longitude":30.34278,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zawiyat Nu`aym",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346078,
+    "gn:latitude":31.05306,
+    "gn:longitude":30.34278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat Nu\u2018aym",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyet Na\u2018\u00eem",
+        "Z\u00e2wyet Ni\u2018eim",
+        "Z\u0101wiyat Nu\u2018aym"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346078
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d80dec5638d1a1a6bc48da5b479f9a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1242685387,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242685387,
+    "wof:lastmodified":1537620545,
+    "wof:name":"Zawiyat Nu`aym",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.34278,
+    31.05306,
+    30.34278,
+    31.05306
+],
+  "geometry": {"coordinates":[30.34278,31.05306],"type":"Point"}
+}

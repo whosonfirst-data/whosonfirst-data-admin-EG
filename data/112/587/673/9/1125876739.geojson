@@ -1,0 +1,118 @@
+{
+  "id": 1125876739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.67825,27.39417,33.67825,27.39417",
+    "geom:latitude":27.39417,
+    "geom:longitude":33.67825,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15000,
+    "gn:population":15000,
+    "iso:country":"EG",
+    "lbl:latitude":27.39417,
+    "lbl:longitude":33.67825,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0648\u0646\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062c\u0648\u0646\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043b \u0413\u0443\u043d\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "El Gouna"
+    ],
+    "name:eng_x_preferred":[
+        "El Gouna"
+    ],
+    "name:epo_x_preferred":[
+        "El Gouna"
+    ],
+    "name:fre_x_preferred":[
+        "El Gouna"
+    ],
+    "name:ger_x_preferred":[
+        "El Gouna"
+    ],
+    "name:nob_x_preferred":[
+        "El Gouna"
+    ],
+    "name:pol_x_preferred":[
+        "Al-D\u017cuna"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0413\u0443\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "El Gouna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0413\u0443\u043d\u0430"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6692512,
+    "qs_pg:gn_pop":15000,
+    "qs_pg:name":"El Gouna",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":160960,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092021497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692512,
+        "qs_pg:id":160960,
+        "wd:id":"Q286510"
+    },
+    "wof:country":"EG",
+    "wof:created":1497294575,
+    "wof:geomhash":"8a56a2cf1f40f6d6fea61758d806afdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021497,
+            "locality_id":1125876739,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1125876739,
+    "wof:lastmodified":1513956688,
+    "wof:name":"El Gouna",
+    "wof:parent_id":1092021497,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.67825,
+    27.39417,
+    33.67825,
+    27.39417
+],
+  "geometry": {"coordinates":[33.67825,27.39417],"type":"Point"}
+}

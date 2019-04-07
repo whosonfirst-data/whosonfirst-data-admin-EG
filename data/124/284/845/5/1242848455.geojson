@@ -1,0 +1,73 @@
+{
+  "id": 1242848455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23449,31.3219,31.23449,31.3219",
+    "geom:latitude":31.3219,
+    "geom:longitude":31.23449,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Qutah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419811,
+    "gn:latitude":31.3219,
+    "gn:longitude":31.23449,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Q\u016btah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0642\u0648\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Q\u016btah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419811
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b30e1fdb44a7a6c0f5ab4d2c2b59b492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1242848455,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1242848455,
+    "wof:lastmodified":1537621061,
+    "wof:name":"`Izbat Qutah",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23449,
+    31.3219,
+    31.23449,
+    31.3219
+],
+  "geometry": {"coordinates":[31.23449,31.3219],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226198881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4,29.21667,25.4,29.21667",
+    "geom:latitude":29.21667,
+    "geom:longitude":25.4,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"`Izbat Mushandid al Kabirah",
+    "gn:country_code":"EG",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355323,
+    "gn:latitude":29.21667,
+    "gn:longitude":25.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Mushandid al Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Mishandid el-Keb\u00eera",
+        "\u2018Izbat Mushandid al Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092025019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355323
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0c6c1a3cc16bc06f7109acea9888d421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025019,
+            "locality_id":1226198881,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1226198881,
+    "wof:lastmodified":1537620760,
+    "wof:name":"`Izbat Mushandid al Kabirah",
+    "wof:parent_id":1092025019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4,
+    29.21667,
+    25.4,
+    29.21667
+],
+  "geometry": {"coordinates":[25.4,29.21667],"type":"Point"}
+}

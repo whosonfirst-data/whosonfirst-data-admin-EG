@@ -1,0 +1,76 @@
+{
+  "id": 1327351199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41983,31.08227,31.41983,31.08227",
+    "geom:latitude":31.08227,
+    "geom:longitude":31.41983,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Khiyariyah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360900,
+    "gn:latitude":31.08227,
+    "gn:longitude":31.41983,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Al Khiy\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064a\u0627\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Khiy\u00e2r\u00eeya",
+        "Al Khayriyah",
+        "Al Khiy\u0101r\u012byah",
+        "Al-Khiy\u0101riyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360900
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f9d2db57ec5eaa3f52e02c57e0b1afbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014935,
+            "locality_id":1327351199,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1327351199,
+    "wof:lastmodified":1537620903,
+    "wof:name":"Al Khiyariyah",
+    "wof:parent_id":1092014935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41983,
+    31.08227,
+    31.41983,
+    31.08227
+],
+  "geometry": {"coordinates":[31.41983,31.08227],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226140117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10649,30.18479,31.10649,30.18479",
+    "geom:latitude":30.18479,
+    "geom:longitude":31.10649,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Manshiyat al Qanatir",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352878,
+    "gn:latitude":30.18479,
+    "gn:longitude":31.10649,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mansh\u012byat al Qan\u0101\u0163ir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0627\u0644\u0642\u0646\u0627\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet el-Man\u00e2shi",
+        "Mansh\u00eeyet el-Qan\u00e2\u1e6dir",
+        "Mansh\u012byat al Qan\u0101\u0163ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092020631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352878
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cb58c39262c5598d2416ee1bfbe005c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020631,
+            "locality_id":1226140117,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1226140117,
+    "wof:lastmodified":1537620661,
+    "wof:name":"Manshiyat al Qanatir",
+    "wof:parent_id":1092020631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.10649,
+    30.18479,
+    31.10649,
+    30.18479
+],
+  "geometry": {"coordinates":[31.10649,30.18479],"type":"Point"}
+}

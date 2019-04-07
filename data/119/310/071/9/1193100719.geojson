@@ -1,0 +1,72 @@
+{
+  "id": 1193100719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83333,27.48333,30.83333,27.48333",
+    "geom:latitude":27.48333,
+    "geom:longitude":30.83333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Masarah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352710,
+    "gn:latitude":27.48333,
+    "gn:longitude":30.83333,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Mas\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mas\u0101ra",
+        "Mas\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092015987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352710
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"244a988d2d18d0248b8950935f7125a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015987,
+            "locality_id":1193100719,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1193100719,
+    "wof:lastmodified":1537620658,
+    "wof:name":"Masarah",
+    "wof:parent_id":1092015987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83333,
+    27.48333,
+    30.83333,
+    27.48333
+],
+  "geometry": {"coordinates":[30.83333,27.48333],"type":"Point"}
+}

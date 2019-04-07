@@ -1,0 +1,67 @@
+{
+  "id": 1242929651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,26.03333,32.1,26.03333",
+    "geom:latitude":26.03333,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Nag` el-Qashaqsha",
+    "gn:country_code":"EG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351604,
+    "gn:latitude":26.03333,
+    "gn:longitude":32.1,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2018 el-Qash\u00e2qsha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351604
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"362be1bf5bcc5cfecfd9392911daeb6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020223,
+            "locality_id":1242929651,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1242929651,
+    "wof:lastmodified":1537051591,
+    "wof:name":"Nag` el-Qashaqsha",
+    "wof:parent_id":1092020223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    26.03333,
+    32.1,
+    26.03333
+],
+  "geometry": {"coordinates":[32.1,26.03333],"type":"Point"}
+}

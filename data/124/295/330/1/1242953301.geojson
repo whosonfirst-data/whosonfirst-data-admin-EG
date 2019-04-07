@@ -1,0 +1,74 @@
+{
+  "id": 1242953301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20935,30.51615,31.20935,30.51615",
+    "geom:latitude":30.51615,
+    "geom:longitude":31.20935,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mit al Hufiyin",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352233,
+    "gn:latitude":30.51615,
+    "gn:longitude":31.20935,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"M\u012bt al \u1e28\u016bfiy\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0627\u0644\u062d\u0648\u0641\u064a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet el-\u1e24\u00fbfiy\u00een",
+        "M\u012bt al \u1e28\u016bfiy\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092015253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352233
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7190554e8cdcbd9c2e46d819122744d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015253,
+            "locality_id":1242953301,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1242953301,
+    "wof:lastmodified":1537620643,
+    "wof:name":"Mit al Hufiyin",
+    "wof:parent_id":1092015253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20935,
+    30.51615,
+    31.20935,
+    30.51615
+],
+  "geometry": {"coordinates":[31.20935,30.51615],"type":"Point"}
+}

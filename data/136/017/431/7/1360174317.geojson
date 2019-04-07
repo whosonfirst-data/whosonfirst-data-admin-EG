@@ -1,0 +1,74 @@
+{
+  "id": 1360174317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94603,30.49285,30.94603,30.49285",
+    "geom:latitude":30.49285,
+    "geom:longitude":30.94603,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Izbat ash Shaykh Ahmad",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545521,
+    "gn:latitude":30.49285,
+    "gn:longitude":30.94603,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat ash Shaykh A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0634\u064a\u062e \u0623\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ash Shaykh A\u1e29mad",
+        "\u2018Izbat ash Shaykh A\u1e25mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092022369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545521
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e36c0f3e239288ad71275715263d40aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022369,
+            "locality_id":1360174317,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1360174317,
+    "wof:lastmodified":1537621260,
+    "wof:name":"`Izbat ash Shaykh Ahmad",
+    "wof:parent_id":1092022369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94603,
+    30.49285,
+    30.94603,
+    30.49285
+],
+  "geometry": {"coordinates":[30.94603,30.49285],"type":"Point"}
+}

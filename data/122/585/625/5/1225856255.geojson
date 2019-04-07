@@ -1,0 +1,67 @@
+{
+  "id": 1225856255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57126,30.76345,30.57126,30.76345",
+    "geom:latitude":30.76345,
+    "geom:longitude":30.57126,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Sayyid Afandi",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433032,
+    "gn:latitude":30.76345,
+    "gn:longitude":30.57126,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Sayyid Afand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433032
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"aa0e33a22eb25aad01e176d936a9f19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1225856255,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1225856255,
+    "wof:lastmodified":1536997727,
+    "wof:name":"`Izbat Sayyid Afandi",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57126,
+    30.76345,
+    30.57126,
+    30.76345
+],
+  "geometry": {"coordinates":[30.57126,30.76345],"type":"Point"}
+}

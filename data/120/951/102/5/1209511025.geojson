@@ -1,0 +1,66 @@
+{
+  "id": 1209511025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94389,30.64333,30.94389,30.64333",
+    "geom:latitude":30.64333,
+    "geom:longitude":30.94389,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"As Sukkariyah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359805,
+    "gn:latitude":30.64333,
+    "gn:longitude":30.94389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sukkar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Sukkar\u00eeya",
+        "As Sukkar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359805
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"12710646f04dbc150d3749255c8aa9fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209511025
+        }
+    ],
+    "wof:id":1209511025,
+    "wof:lastmodified":1537620849,
+    "wof:name":"As Sukkariyah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94389,
+    30.64333,
+    30.94389,
+    30.64333
+],
+  "geometry": {"coordinates":[30.94389,30.64333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1292921453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75437,31.16686,31.75437,31.16686",
+    "geom:latitude":31.16686,
+    "geom:longitude":31.75437,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Rif`i",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547268,
+    "gn:latitude":31.16686,
+    "gn:longitude":31.75437,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Rif\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0641\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Rif\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547268
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"374b557b013ff6b673ab457e5ba49de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022451,
+            "locality_id":1292921453,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1292921453,
+    "wof:lastmodified":1537621277,
+    "wof:name":"`Izbat Rif`i",
+    "wof:parent_id":1092022451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75437,
+    31.16686,
+    31.75437,
+    31.16686
+],
+  "geometry": {"coordinates":[31.75437,31.16686],"type":"Point"}
+}

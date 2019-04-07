@@ -1,0 +1,74 @@
+{
+  "id": 1277044259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.90723,28.38213,28.90723,28.38213",
+    "geom:latitude":28.38213,
+    "geom:longitude":28.90723,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Az Zabu",
+    "gn:country_code":"EG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359507,
+    "gn:latitude":28.38213,
+    "gn:longitude":28.90723,
+    "gn:modification_date":"2017-07-11",
+    "gn:name":"Az Zab\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0628\u0648"
+    ],
+    "name:und_x_variant":[
+        "Zabu",
+        "Az Zab\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092022885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359507
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"47ff3c9e31ebcd6802db9515734d5a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022885,
+            "locality_id":1277044259,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1277044259,
+    "wof:lastmodified":1537620840,
+    "wof:name":"Az Zabu",
+    "wof:parent_id":1092022885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.90723,
+    28.38213,
+    28.90723,
+    28.38213
+],
+  "geometry": {"coordinates":[28.90723,28.38213],"type":"Point"}
+}

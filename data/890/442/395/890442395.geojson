@@ -1,0 +1,71 @@
+{
+  "id": 890442395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58333,25.66667,32.58333,25.66667",
+    "geom:latitude":25.66667,
+    "geom:longitude":32.58333,
+    "gn:country":"EG",
+    "gn:fcode":"ADM2",
+    "gn:pop":422407,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0627\u0644\u0623\u0642\u0635\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Markaz Luxor"
+    ],
+    "qs:name":"Markaz al Uq\u015fur",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360503,
+        "qs:id":547901
+    },
+    "wof:country":"EG",
+    "wof:created":1469052361,
+    "wof:geomhash":"771eef6ceab9b7358de774ab6fa8ac5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":890442395,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":890442395,
+    "wof:lastmodified":1505343588,
+    "wof:name":"Markaz al Uq\u015fur",
+    "wof:parent_id":85671075,
+    "wof:placetype":"county",
+    "wof:population":422407,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58333,
+    25.66667,
+    32.58333,
+    25.66667
+],
+  "geometry": {"coordinates":[32.58333,25.66667],"type":"Point"}
+}

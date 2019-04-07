@@ -1,0 +1,67 @@
+{
+  "id": 1276323459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95,30.3,30.95,30.3",
+    "geom:latitude":30.3,
+    "geom:longitude":30.95,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ezbet Ghabriyal",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357341,
+    "gn:latitude":30.3,
+    "gn:longitude":30.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ezbet Ghabriy\u00e2l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357341
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b21ae5f648a79ae55a4259611cd3dead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1276323459,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1276323459,
+    "wof:lastmodified":1536792300,
+    "wof:name":"Ezbet Ghabriyal",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95,
+    30.3,
+    30.95,
+    30.3
+],
+  "geometry": {"coordinates":[30.95,30.3],"type":"Point"}
+}

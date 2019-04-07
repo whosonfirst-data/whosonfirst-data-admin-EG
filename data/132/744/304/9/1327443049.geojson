@@ -1,0 +1,73 @@
+{
+  "id": 1327443049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0431,31.14644,30.0431,31.14644",
+    "geom:latitude":31.14644,
+    "geom:longitude":30.0431,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Thalathah/Wahid",
+    "gn:country_code":"EG",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10495992,
+    "gn:latitude":31.14644,
+    "gn:longitude":30.0431,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"\u2018Izbat Thal\u0101thah/W\u0101\u1e29id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0663/\u0661"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Thal\u0101thah/W\u0101\u1e29id"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10495992
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d63401b4e4c31ce6c6bd22c69338af94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1327443049,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327443049,
+    "wof:lastmodified":1537621256,
+    "wof:name":"`Izbat Thalathah/Wahid",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0431,
+    31.14644,
+    30.0431,
+    31.14644
+],
+  "geometry": {"coordinates":[30.0431,31.14644],"type":"Point"}
+}

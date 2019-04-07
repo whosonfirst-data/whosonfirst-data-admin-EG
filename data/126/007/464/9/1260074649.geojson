@@ -1,0 +1,67 @@
+{
+  "id": 1260074649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81849,30.60688,30.81849,30.60688",
+    "geom:latitude":30.60688,
+    "geom:longitude":30.81849,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Danasur",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358427,
+    "gn:latitude":30.60688,
+    "gn:longitude":30.81849,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Dan\u0101\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092019949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358427
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bfa8011d09c413d9b1ebc3358940c773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019949,
+            "locality_id":1260074649,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1260074649,
+    "wof:lastmodified":1537000040,
+    "wof:name":"Danasur",
+    "wof:parent_id":1092019949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81849,
+    30.60688,
+    30.81849,
+    30.60688
+],
+  "geometry": {"coordinates":[30.81849,30.60688],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293493497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79472,29.30166,30.79472,29.30166",
+    "geom:latitude":29.30166,
+    "geom:longitude":30.79472,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Abu `Isa",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434325,
+    "gn:latitude":29.30166,
+    "gn:longitude":30.79472,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat Ab\u016b \u2018\u012as\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434325
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dccca5e9a8228ec0603d7ad8727268ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1293493497,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1293493497,
+    "wof:lastmodified":1536778859,
+    "wof:name":"`Izbat Abu `Isa",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79472,
+    29.30166,
+    30.79472,
+    29.30166
+],
+  "geometry": {"coordinates":[30.79472,29.30166],"type":"Point"}
+}

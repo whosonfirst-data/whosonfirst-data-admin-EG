@@ -1,0 +1,71 @@
+{
+  "id": 1310171735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90938,29.01929,30.90938,29.01929",
+    "geom:latitude":29.01929,
+    "geom:longitude":30.90938,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dayr Barawah",
+    "gn:country_code":"EG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358276,
+    "gn:latitude":29.01929,
+    "gn:longitude":30.90938,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dayr Bar\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deir Barawa",
+        "Dayr Bar\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092014481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358276
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7254ef158a33870cf2e4da2e84d5299f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014481,
+            "locality_id":1310171735,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1310171735,
+    "wof:lastmodified":1537620810,
+    "wof:name":"Dayr Barawah",
+    "wof:parent_id":1092014481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90938,
+    29.01929,
+    30.90938,
+    29.01929
+],
+  "geometry": {"coordinates":[30.90938,29.01929],"type":"Point"}
+}

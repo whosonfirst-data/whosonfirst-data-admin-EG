@@ -1,0 +1,92 @@
+{
+  "id": 1092024899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":1.889512,
+    "geom:area_square_m":20160900099.219357,
+    "geom:bbox":"25.423846,29.108246,26.438979,31.629356",
+    "geom:latitude":30.348377,
+    "geom:longitude":25.94153,
+    "iso:country":"EG",
+    "lbl:latitude":30.347656,
+    "lbl:longitude":25.931851,
+    "meso:admin_1":"Marsa Matrooh",
+    "meso:diss_me":"Sidy BarranyMarsa Matrooh",
+    "meso:gadm_admin":"Sidi Barrani",
+    "meso:gadm_hasc2":"EG.MT.SB",
+    "meso:gaul_admin":"Sidi Barani",
+    "meso:mps_x":25.931851,
+    "meso:mps_y":30.347656,
+    "meso:name_en":"Sidy Barrany",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Merkz",
+    "mps:latitude":30.347656,
+    "mps:longitude":25.931851,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sidi Barrani"
+    ],
+    "name:eng_x_variant":[
+        "Sidi Barani",
+        "Sidi Barrani"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.MT",
+    "statoids:name":"Sidi Barrani",
+    "statoids:population":"33456",
+    "statoids:statoid":"EG.MT.SB",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.MT.SB"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897525,
+    "wof:geomhash":"570d1e725a36a86ceef0da25290b1092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024899,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1092024899,
+    "wof:lastmodified":1536615093,
+    "wof:name":"Sidy Barrany",
+    "wof:parent_id":85671031,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":33456,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"SB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.423846,
+    29.108246,
+    26.438979,
+    31.629356
+],
+  "geometry": {"coordinates":[[[25.50761,31.520205],[25.519831,31.524614],[25.531113,31.528568],[25.544409,31.533084],[25.567638,31.539723],[25.592745,31.546232],[25.610736,31.5506],[25.636117,31.557099],[25.665671,31.565287],[25.710973,31.579901],[25.735183,31.588453],[25.743674,31.593096],[25.757934,31.598042],[25.787237,31.605517],[25.795719,31.608895],[25.812381,31.612213],[25.827708,31.615997],[25.850553,31.620409],[25.866667,31.622348],[25.885244,31.628508],[25.893837,31.629356],[25.905481,31.627197],[25.912711,31.626106],[25.925153,31.623365],[25.937061,31.620972],[25.948843,31.619266],[25.95901,31.617115],[25.970795,31.615752],[25.986332,31.614125],[25.980463,31.508365],[25.984018,31.45607],[26.046926,31.370995],[26.130933,31.311656],[26.302833,31.320828],[26.307494,31.252285],[26.311804,31.083783],[26.344426,30.603984],[26.382981,30.036949],[26.438979,29.108246],[26.310256,29.136336],[26.194431,29.159562],[26.070058,29.182475],[26.070537,29.217442],[26.036518,29.213702],[26.000157,29.202387],[25.808843,29.327703],[25.581158,29.45328],[25.551038,29.734964],[25.508622,30.11685],[25.45299,30.531803],[25.423846,30.799144],[25.461429,30.891584],[25.549162,31.052959],[25.603806,31.136438],[25.598929,31.208154],[25.573799,31.255165],[25.543523,31.297194],[25.512866,31.425483],[25.50761,31.520205]]],"type":"Polygon"}
+}

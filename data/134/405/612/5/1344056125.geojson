@@ -1,0 +1,76 @@
+{
+  "id": 1344056125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18083,30.75856,31.18083,30.75856",
+    "geom:latitude":30.75856,
+    "geom:longitude":31.18083,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr ad Dib",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354767,
+    "gn:latitude":30.75856,
+    "gn:longitude":31.18083,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kafr ad D\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u062f\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-D\u00eeb",
+        "Kafr adh Dhi\u2019b",
+        "Kafr ad D\u012bb",
+        "Kafr ad-D\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092026069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354767
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fe2d736ba21d05f67756b7071011694a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092026069,
+            "locality_id":1344056125,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1344056125,
+    "wof:lastmodified":1537620743,
+    "wof:name":"Kafr ad Dib",
+    "wof:parent_id":1092026069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18083,
+    30.75856,
+    31.18083,
+    30.75856
+],
+  "geometry": {"coordinates":[31.18083,30.75856],"type":"Point"}
+}

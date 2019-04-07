@@ -1,0 +1,72 @@
+{
+  "id": 1326527437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73333,30.88333,29.73333,30.88333",
+    "geom:latitude":30.88333,
+    "geom:longitude":29.73333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kafrat Sidi Juwayd",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354405,
+    "gn:latitude":30.88333,
+    "gn:longitude":29.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafrat S\u012bd\u012b Juwayd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafret S\u00eedi Guweid",
+        "Kafrat S\u012bd\u012b Juwayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354405
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ef5cbc47c4e993aa590d76085361b1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015695,
+            "locality_id":1326527437,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1326527437,
+    "wof:lastmodified":1537620710,
+    "wof:name":"Kafrat Sidi Juwayd",
+    "wof:parent_id":1092015695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73333,
+    30.88333,
+    29.73333,
+    30.88333
+],
+  "geometry": {"coordinates":[29.73333,30.88333],"type":"Point"}
+}

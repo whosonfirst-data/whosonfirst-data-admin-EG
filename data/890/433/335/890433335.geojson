@@ -1,0 +1,73 @@
+{
+  "id": 890433335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87472,24.98028,32.87472,24.98028",
+    "geom:latitude":24.98028,
+    "geom:longitude":32.87472,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":166102,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Idfu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"wk",
+    "wd:elevation":90.0,
+    "wd:latitude":"24.978055555",
+    "wd:longitude":"32.878888888",
+    "wd:population":65768,
+    "wd:wordcount":1825,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411165,
+        "gp:id":1523795,
+        "qs:id":124573,
+        "wd:id":"Q239107",
+        "wk:page":"Edfu"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051976,
+    "wof:geomhash":"d64c589706ff911f9b0831f0254c3f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016437,
+            "locality_id":890433335,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":890433335,
+    "wof:lastmodified":1527792955,
+    "wof:name":"Idfu",
+    "wof:parent_id":1092016437,
+    "wof:placetype":"locality",
+    "wof:population":65768,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87472,
+    24.98028,
+    32.87472,
+    24.98028
+],
+  "geometry": {"coordinates":[32.87472,24.98028],"type":"Point"}
+}

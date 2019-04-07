@@ -1,0 +1,71 @@
+{
+  "id": 1310588375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26,30.26479,31.26,30.26479",
+    "geom:latitude":30.26479,
+    "geom:longitude":31.26,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Jazirat an Najdi",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355103,
+    "gn:latitude":30.26479,
+    "gn:longitude":31.26,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaz\u012brat an Najd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gez\u00eeret el-Nagdi",
+        "Jaz\u012brat an Najd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092023447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355103
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"714820f04f74192199cb0aa56ffa1556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023447,
+            "locality_id":1310588375,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1310588375,
+    "wof:lastmodified":1537620754,
+    "wof:name":"Jazirat an Najdi",
+    "wof:parent_id":1092023447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26,
+    30.26479,
+    31.26,
+    30.26479
+],
+  "geometry": {"coordinates":[31.26,30.26479],"type":"Point"}
+}

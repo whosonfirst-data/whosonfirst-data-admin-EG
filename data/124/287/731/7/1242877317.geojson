@@ -1,0 +1,73 @@
+{
+  "id": 1242877317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63683,26.73077,31.63683,26.73077",
+    "geom:latitude":26.73077,
+    "geom:longitude":31.63683,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ar Rayayinah bil Hajir",
+    "gn:country_code":"EG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360120,
+    "gn:latitude":26.73077,
+    "gn:longitude":31.63683,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ar Ray\u0101yinah bil \u1e28\u0101jir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ray\u00e2yna bil H\u00e2gir",
+        "Er Ray\u0101ina bil H\u0101gir",
+        "Ar Ray\u0101yinah bi al \u1e28\u0101jir",
+        "Ar Ray\u0101yinah bil \u1e28\u0101jir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360120
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"96104853dcfcd372474ac2d58133e587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023157,
+            "locality_id":1242877317,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1242877317,
+    "wof:lastmodified":1537620867,
+    "wof:name":"Ar Rayayinah bil Hajir",
+    "wof:parent_id":1092023157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63683,
+    26.73077,
+    31.63683,
+    26.73077
+],
+  "geometry": {"coordinates":[31.63683,26.73077],"type":"Point"}
+}

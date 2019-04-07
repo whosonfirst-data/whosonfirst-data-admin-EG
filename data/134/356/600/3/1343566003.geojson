@@ -1,0 +1,75 @@
+{
+  "id": 1343566003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92538,31.01065,30.92538,31.01065",
+    "geom:latitude":31.01065,
+    "geom:longitude":30.92538,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al `Atawah al Qibliyah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361524,
+    "gn:latitude":31.01065,
+    "gn:longitude":30.92538,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al \u2018Atawah al Qibl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062a\u0648\u0629 \u0627\u0644\u0642\u0628\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u2018Atawa el-Qibl\u00eeya",
+        "Al \u2018Atawah al Qibl\u012byah",
+        "Al-\u2018Atawah al-Qibliyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092023627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361524
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2490a102136fa3cd0a4490ab47c0169f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023627,
+            "locality_id":1343566003,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1343566003,
+    "wof:lastmodified":1537620941,
+    "wof:name":"Al `Atawah al Qibliyah",
+    "wof:parent_id":1092023627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92538,
+    31.01065,
+    30.92538,
+    31.01065
+],
+  "geometry": {"coordinates":[30.92538,31.01065],"type":"Point"}
+}

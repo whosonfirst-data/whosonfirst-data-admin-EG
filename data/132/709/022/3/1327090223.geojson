@@ -1,0 +1,67 @@
+{
+  "id": 1327090223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,26.61667,31.51667,26.61667",
+    "geom:latitude":26.61667,
+    "geom:longitude":31.51667,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Nag` `Aula Abu Zeid",
+    "gn:country_code":"EG",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351673,
+    "gn:latitude":26.61667,
+    "gn:longitude":31.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2018 \u2018Aul\u00e2 Abu Zeid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092018399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351673
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"82b23851076a005e7b867214e0a30abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018399,
+            "locality_id":1327090223,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1327090223,
+    "wof:lastmodified":1536677159,
+    "wof:name":"Nag` `Aula Abu Zeid",
+    "wof:parent_id":1092018399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    26.61667000000001,
+    31.51667,
+    26.61667000000001
+],
+  "geometry": {"coordinates":[31.51667,26.61667000000001],"type":"Point"}
+}

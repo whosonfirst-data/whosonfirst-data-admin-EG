@@ -1,0 +1,74 @@
+{
+  "id": 1343867881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55567,30.99573,31.55567,30.99573",
+    "geom:latitude":30.99573,
+    "geom:longitude":31.55567,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mit Jarrah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352161,
+    "gn:latitude":30.99573,
+    "gn:longitude":31.55567,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u012bt Jarr\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u062c\u0631\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet Garr\u00e2\u1e25",
+        "M\u012bt Jarr\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352161
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"475a9c82b61052914bb383070f34973d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1343867881,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343867881,
+    "wof:lastmodified":1537620637,
+    "wof:name":"Mit Jarrah",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55567000000001,
+    30.99573,
+    31.55567000000001,
+    30.99573
+],
+  "geometry": {"coordinates":[31.55567000000001,30.99573],"type":"Point"}
+}

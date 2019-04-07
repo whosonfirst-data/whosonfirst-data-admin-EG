@@ -1,0 +1,73 @@
+{
+  "id": 1259997277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31082,30.71419,31.31082,30.71419",
+    "geom:latitude":30.71419,
+    "geom:longitude":31.31082,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sintimay",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420605,
+    "gn:latitude":30.71419,
+    "gn:longitude":31.31082,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sintim\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sintim\u0101y"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0646\u062a\u0645\u0627\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420605
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a7b3874e324030d8feadf88eb9d048d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022277,
+            "locality_id":1259997277,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259997277,
+    "wof:lastmodified":1537621080,
+    "wof:name":"Sintimay",
+    "wof:parent_id":1092022277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31082,
+    30.71419,
+    31.31082,
+    30.71419
+],
+  "geometry": {"coordinates":[31.31082,30.71419],"type":"Point"}
+}

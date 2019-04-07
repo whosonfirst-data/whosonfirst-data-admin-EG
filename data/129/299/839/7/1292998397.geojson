@@ -1,0 +1,67 @@
+{
+  "id": 1292998397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.80298,30.78818,29.80298,30.78818",
+    "geom:latitude":30.78818,
+    "geom:longitude":29.80298,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mustafa Isma`il",
+    "gn:country_code":"EG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433891,
+    "gn:latitude":30.78818,
+    "gn:longitude":29.80298,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Mu\u015f\u0163af\u00e1 Ism\u0101\u2018\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433891
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"20fdbf288af21a4ae956bcadb16b832b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015695,
+            "locality_id":1292998397,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1292998397,
+    "wof:lastmodified":1536994337,
+    "wof:name":"Mustafa Isma`il",
+    "wof:parent_id":1092015695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.80298,
+    30.78818,
+    29.80298,
+    30.78818
+],
+  "geometry": {"coordinates":[29.80298,30.78818],"type":"Point"}
+}

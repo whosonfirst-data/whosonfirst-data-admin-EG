@@ -1,0 +1,78 @@
+{
+  "id": 1343463541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13298,31.09577,31.13298,31.09577",
+    "geom:latitude":31.09577,
+    "geom:longitude":31.13298,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manshiyat Tunbarah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352866,
+    "gn:latitude":31.09577,
+    "gn:longitude":31.13298,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Mansh\u012byat \u0162unb\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0637\u0646\u0628\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mansh\u00eeyet \u1e6cumb\u00e2ra",
+        "Mansh\u012byat \u0162unb\u0101rah",
+        "Al Mansh\u012byah",
+        "El-Mansh\u00eeya",
+        "Manshiyyat \u1e6cunb\u0101rah",
+        "Manshiyyat \u0162unb\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352866
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"11f6781c516d374eaccc5c3ffbbb7bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1343463541,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1343463541,
+    "wof:lastmodified":1537620660,
+    "wof:name":"Manshiyat Tunbarah",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13298,
+    31.09577,
+    31.13298,
+    31.09577
+],
+  "geometry": {"coordinates":[31.13298,31.09577],"type":"Point"}
+}

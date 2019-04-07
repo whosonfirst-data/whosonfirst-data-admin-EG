@@ -1,0 +1,76 @@
+{
+  "id": 1310028481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12964,30.74614,31.12964,30.74614",
+    "geom:latitude":30.74614,
+    "geom:longitude":31.12964,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"As Santah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359849,
+    "gn:latitude":30.74614,
+    "gn:longitude":31.12964,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"As San\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0646\u0637\u0647"
+    ],
+    "name:und_x_variant":[
+        "Es Santa",
+        "El-San\u1e6da",
+        "As San\u0163ah",
+        "As-San\u1e6dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359849
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a654b4bf2738787a9ee83c44611378c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1310028481,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1310028481,
+    "wof:lastmodified":1537620852,
+    "wof:name":"As Santah",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12964,
+    30.74614,
+    31.12964,
+    30.74614
+],
+  "geometry": {"coordinates":[31.12964,30.74614],"type":"Point"}
+}

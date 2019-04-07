@@ -1,0 +1,72 @@
+{
+  "id": 1276336311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68864,30.86797,30.68864,30.86797",
+    "geom:latitude":30.86797,
+    "geom:longitude":30.68864,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kafr ash Shaykh Makhluf",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354479,
+    "gn:latitude":30.86797,
+    "gn:longitude":30.68864,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr ash Shaykh Makhl\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr ash Shaykh Makhl\u016bf",
+        "Kafr el-Sheikh Makhl\u00fbf",
+        "Kafr esh-Sheikh Makhl\u00fbf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092020749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354479
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"66237e4ee6960cd9dba3a502556ec218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020749,
+            "locality_id":1276336311,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276336311,
+    "wof:lastmodified":1537620717,
+    "wof:name":"Kafr ash Shaykh Makhluf",
+    "wof:parent_id":1092020749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68864,
+    30.86797,
+    30.68864,
+    30.86797
+],
+  "geometry": {"coordinates":[30.68864,30.86797],"type":"Point"}
+}

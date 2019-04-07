@@ -1,0 +1,74 @@
+{
+  "id": 1226116535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0419,31.09136,31.0419,31.09136",
+    "geom:latitude":31.09136,
+    "geom:longitude":31.0419,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Matbul",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352625,
+    "gn:latitude":31.09136,
+    "gn:longitude":31.0419,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Matb\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062a\u0628\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Matb\u016bl",
+        "Matb\u00fbl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352625
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6a5525dbb03b64eb4bc4240961a72c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1226116535,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1226116535,
+    "wof:lastmodified":1537620657,
+    "wof:name":"Matbul",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0419,
+    31.09136,
+    31.0419,
+    31.09136
+],
+  "geometry": {"coordinates":[31.0419,31.09136],"type":"Point"}
+}

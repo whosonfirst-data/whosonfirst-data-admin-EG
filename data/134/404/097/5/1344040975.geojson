@@ -1,0 +1,72 @@
+{
+  "id": 1344040975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85,30.7,31.85,30.7",
+    "geom:latitude":30.7,
+    "geom:longitude":31.85,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr al Bazat",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354695,
+    "gn:latitude":30.7,
+    "gn:longitude":31.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al B\u0101z\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-B\u00e2z\u00e2t",
+        "Kafr al B\u0101z\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354695
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ba80b917ed49d2336c708b4c2ef91305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1344040975,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1344040975,
+    "wof:lastmodified":1537620736,
+    "wof:name":"Kafr al Bazat",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85,
+    30.7,
+    31.85,
+    30.7
+],
+  "geometry": {"coordinates":[31.85,30.7],"type":"Point"}
+}

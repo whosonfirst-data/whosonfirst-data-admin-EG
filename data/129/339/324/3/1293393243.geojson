@@ -1,0 +1,71 @@
+{
+  "id": 1293393243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31667,25.0,33.31667,25.0",
+    "geom:latitude":25.0,
+    "geom:longitude":33.31667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Kana'is",
+    "gn:country_code":"EG",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360970,
+    "gn:latitude":25.0,
+    "gn:longitude":33.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kan\u0101\u2019is",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Kan\u00e2yis",
+        "Al Kan\u0101\u2019is"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092022915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360970
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"42915a7a3abc40e8158b3454469d653c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022915,
+            "locality_id":1293393243,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1293393243,
+    "wof:lastmodified":1537620907,
+    "wof:name":"Al Kana'is",
+    "wof:parent_id":1092022915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31667,
+    25.0,
+    33.31667,
+    25.0
+],
+  "geometry": {"coordinates":[33.31667,25.0],"type":"Point"}
+}

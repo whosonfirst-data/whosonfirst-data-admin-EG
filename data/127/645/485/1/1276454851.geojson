@@ -1,0 +1,67 @@
+{
+  "id": 1276454851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79495,30.53033,30.79495,30.53033",
+    "geom:latitude":30.53033,
+    "geom:longitude":30.79495,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat Umm Sabir",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415249,
+    "gn:latitude":30.53033,
+    "gn:longitude":30.79495,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Qaryat Umm \u015e\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415249
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"40bc2d9e2dff8f0257ed113b9ca5b85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1276454851,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276454851,
+    "wof:lastmodified":1536613409,
+    "wof:name":"Qaryat Umm Sabir",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79495,
+    30.53033,
+    30.79495,
+    30.53033
+],
+  "geometry": {"coordinates":[30.79495,30.53033],"type":"Point"}
+}

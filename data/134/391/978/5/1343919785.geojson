@@ -1,0 +1,77 @@
+{
+  "id": 1343919785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74759,31.38656,31.74759,31.38656",
+    "geom:latitude":31.38656,
+    "geom:longitude":31.74759,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Al Bustan",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361354,
+    "gn:latitude":31.38656,
+    "gn:longitude":31.74759,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bust\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Bust\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-Bust\u00e2n",
+        "Al Bust\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092020865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361354
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"67d85e86cc7e4573ec3f3f19d76d8942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020865,
+            "locality_id":1343919785,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1343919785,
+    "wof:lastmodified":1537620930,
+    "wof:name":"Al Bustan",
+    "wof:parent_id":1092020865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74759,
+    31.38656,
+    31.74759,
+    31.38656
+],
+  "geometry": {"coordinates":[31.74759,31.38656],"type":"Point"}
+}

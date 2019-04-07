@@ -1,0 +1,78 @@
+{
+  "id": 1310674951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00047,31.15405,31.00047,31.15405",
+    "geom:latitude":31.15405,
+    "geom:longitude":31.00047,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Murabi`in",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360651,
+    "gn:latitude":31.15405,
+    "gn:longitude":31.00047,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al Mur\u0101bi\u2018\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0627\u0628\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El Morabein",
+        "Murabi\u2018\u00een",
+        "El Mur\u00e2bi\u2018\u00een",
+        "Al Mur\u0101bi\u2018\u012bn",
+        "Al-Mur\u0101bi\u2018\u012bn",
+        "Al-Murab\u012b\u2018n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360651
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9897e38b63ef6c111cd578095bbb50cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1310674951,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1310674951,
+    "wof:lastmodified":1537620889,
+    "wof:name":"Al Murabi`in",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00047,
+    31.15405,
+    31.00047,
+    31.15405
+],
+  "geometry": {"coordinates":[31.00047,31.15405],"type":"Point"}
+}

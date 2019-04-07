@@ -1,0 +1,75 @@
+{
+  "id": 1242587125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52435,31.08737,31.52435,31.08737",
+    "geom:latitude":31.08737,
+    "geom:longitude":31.52435,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr al Qibab",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354562,
+    "gn:latitude":31.08737,
+    "gn:longitude":31.52435,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kafr al Qib\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0642\u0628\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Qib\u00e2b",
+        "Kafr al Qib\u0101b",
+        "Kafr al-Qib\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092016227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354562
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ba06f794f6d78426e8f8359cc0490309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016227,
+            "locality_id":1242587125,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1242587125,
+    "wof:lastmodified":1537620724,
+    "wof:name":"Kafr al Qibab",
+    "wof:parent_id":1092016227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52435,
+    31.08737,
+    31.52435,
+    31.08737
+],
+  "geometry": {"coordinates":[31.52435,31.08737],"type":"Point"}
+}

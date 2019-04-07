@@ -1,0 +1,75 @@
+{
+  "id": 1226213447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53414,30.77538,31.53414,30.77538",
+    "geom:latitude":30.77538,
+    "geom:longitude":31.53414,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr as Saqiyah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354435,
+    "gn:latitude":30.77538,
+    "gn:longitude":31.53414,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kafr as S\u0101qiyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0633\u0627\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-S\u00e2qya",
+        "Kafr as S\u0101qyah",
+        "Kafr as S\u0101qiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354435
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5d377ed79a0be1a97e56d23a6c3188bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018107,
+            "locality_id":1226213447,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226213447,
+    "wof:lastmodified":1537620713,
+    "wof:name":"Kafr as Saqiyah",
+    "wof:parent_id":1092018107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53414,
+    30.77538,
+    31.53414,
+    30.77538
+],
+  "geometry": {"coordinates":[31.53414,30.77538],"type":"Point"}
+}

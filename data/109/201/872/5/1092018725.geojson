@@ -1,0 +1,74 @@
+{
+  "id": 1092018725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.082941,
+    "geom:area_square_m":874861209.622261,
+    "geom:bbox":"25.980463,31.311656,26.397076,31.614125",
+    "geom:latitude":31.458023,
+    "geom:longitude":26.164093,
+    "iso:country":"EG",
+    "lbl:latitude":31.44146,
+    "lbl:longitude":26.164093,
+    "meso:admin_1":"Marsa Matrooh",
+    "meso:diss_me":"El-NegielahMarsa Matrooh",
+    "meso:gadm_admin":"Sidi Barrani",
+    "meso:gadm_hasc2":"EG.MT.SB",
+    "meso:gaul_admin":"Sidi Barani",
+    "meso:mps_x":26.164093,
+    "meso:mps_y":31.44146,
+    "meso:name_en":"El-Negielah",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Merkz",
+    "mps:latitude":31.44146,
+    "mps:longitude":26.164093,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Sidi Barani",
+        "Sidi Barrani"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.MT.SB"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897299,
+    "wof:geomhash":"b7939f42e769a28b5965a4b576479d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018725,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1092018725,
+    "wof:lastmodified":1536615087,
+    "wof:name":"El-Negielah",
+    "wof:parent_id":85671031,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"SB",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.980463,
+    31.311656,
+    26.397076,
+    31.614125
+],
+  "geometry": {"coordinates":[[[25.986332,31.614125],[26.005992,31.609821],[26.017916,31.608911],[26.03998,31.604007],[26.051753,31.601948],[26.074074,31.596462],[26.091052,31.592629],[26.102939,31.589188],[26.11308,31.585648],[26.127512,31.58218],[26.139384,31.577818],[26.146325,31.575684],[26.153911,31.571707],[26.169413,31.568338],[26.179436,31.56617],[26.193201,31.563275],[26.206713,31.561527],[26.21658,31.557982],[26.228721,31.554182],[26.241662,31.550143],[26.267724,31.545384],[26.274653,31.542784],[26.284819,31.541524],[26.293761,31.53913],[26.301434,31.532735],[26.308125,31.532201],[26.313217,31.532143],[26.317059,31.529346],[26.32573,31.526953],[26.334653,31.523524],[26.349788,31.523118],[26.356324,31.521321],[26.372792,31.520553],[26.377292,31.517174],[26.385837,31.515351],[26.397076,31.514413],[26.3317,31.421829],[26.302833,31.320828],[26.130933,31.311656],[26.046926,31.370995],[25.984018,31.45607],[25.980463,31.508365],[25.986332,31.614125]]],"type":"Polygon"}
+}

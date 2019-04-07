@@ -1,0 +1,71 @@
+{
+  "id": 1210028127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2022,30.92998,30.2022,30.92998",
+    "geom:latitude":30.92998,
+    "geom:longitude":30.2022,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zawiyat Saqr",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346074,
+    "gn:latitude":30.92998,
+    "gn:longitude":30.2022,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat \u015eaqr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyet \u1e62aqr",
+        "Z\u0101wiyat \u015eaqr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346074
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d47ddc00f98a071f63b7b871d88ca591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1210028127,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1210028127,
+    "wof:lastmodified":1537620544,
+    "wof:name":"Zawiyat Saqr",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2022,
+    30.92998,
+    30.2022,
+    30.92998
+],
+  "geometry": {"coordinates":[30.2022,30.92998],"type":"Point"}
+}

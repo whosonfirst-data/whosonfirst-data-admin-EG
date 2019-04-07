@@ -1,0 +1,67 @@
+{
+  "id": 1309675155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8432,28.94633,30.8432,28.94633",
+    "geom:latitude":28.94633,
+    "geom:longitude":30.8432,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Sarabu",
+    "gn:country_code":"EG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349596,
+    "gn:latitude":28.94633,
+    "gn:longitude":30.8432,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Sarab\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092024299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349596
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e7c2bc9c488706ca84f8490313533293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024299,
+            "locality_id":1309675155,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1309675155,
+    "wof:lastmodified":1536620533,
+    "wof:name":"Sarabu",
+    "wof:parent_id":1092024299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8432,
+    28.94633,
+    30.8432,
+    28.94633
+],
+  "geometry": {"coordinates":[30.8432,28.94633],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209416057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70073,29.13789,30.70073,29.13789",
+    "geom:latitude":29.13789,
+    "geom:longitude":30.70073,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al Gharaq",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361297,
+    "gn:latitude":29.13789,
+    "gn:longitude":30.70073,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Gharaq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gharaq es Sult\u0101ni",
+        "Kerkeosiris",
+        "El Qharaq el Sultani",
+        "Gharaq",
+        "El Gharaq el Sult\u00e2ni",
+        "Al Gharaq as Sul\u0163\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361297
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0bd477e966fe37c54d99d95dfdbff261",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209416057
+        }
+    ],
+    "wof:id":1209416057,
+    "wof:lastmodified":1537620927,
+    "wof:name":"Al Gharaq",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70073,
+    29.13789,
+    30.70073,
+    29.13789
+],
+  "geometry": {"coordinates":[30.70073,29.13789],"type":"Point"}
+}

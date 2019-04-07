@@ -1,0 +1,75 @@
+{
+  "id": 1276296197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95275,31.19188,30.95275,31.19188",
+    "geom:latitude":31.19188,
+    "geom:longitude":30.95275,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Waziriyah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360460,
+    "gn:latitude":31.19188,
+    "gn:longitude":30.95275,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al Waz\u012br\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0632\u064a\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Waz\u00eer\u00eeya",
+        "Al Waz\u012br\u012byah",
+        "Al-Waziriyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360460
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d32c9c2e3a1c3374930ffa38b2df2040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1276296197,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276296197,
+    "wof:lastmodified":1537620878,
+    "wof:name":"Al Waziriyah",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95275,
+    31.19188,
+    30.95275,
+    31.19188
+],
+  "geometry": {"coordinates":[30.95275,31.19188],"type":"Point"}
+}

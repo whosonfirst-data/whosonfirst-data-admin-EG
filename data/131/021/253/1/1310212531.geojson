@@ -1,0 +1,67 @@
+{
+  "id": 1310212531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.24699,30.83107,30.24699,30.83107",
+    "geom:latitude":30.83107,
+    "geom:longitude":30.24699,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Hasan Salih",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434210,
+    "gn:latitude":30.83107,
+    "gn:longitude":30.24699,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat \u1e28asan \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434210
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1204988413fbd5f89400956f791d26d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021459,
+            "locality_id":1310212531,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310212531,
+    "wof:lastmodified":1536841009,
+    "wof:name":"`Izbat Hasan Salih",
+    "wof:parent_id":1092021459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.24699,
+    30.83107,
+    30.24699,
+    30.83107
+],
+  "geometry": {"coordinates":[30.24699,30.83107],"type":"Point"}
+}

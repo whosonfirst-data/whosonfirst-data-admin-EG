@@ -1,0 +1,74 @@
+{
+  "id": 1310389161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.77395,28.18751,30.77395,28.18751",
+    "geom:latitude":28.18751,
+    "geom:longitude":30.77395,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tihna al Jabal",
+    "gn:country_code":"EG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347303,
+    "gn:latitude":28.18751,
+    "gn:longitude":30.77395,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162ihn\u0101 al Jabal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akoris",
+        "Tihna el Gebel",
+        "Tihna el Gabal",
+        "\u0162ihn\u0101 al Jabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092023043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347303,
+        "wk:page":"Akoris%2C_Egypt"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a93b2b1a427b380a8ac5776ef63d65c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023043,
+            "locality_id":1310389161,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1310389161,
+    "wof:lastmodified":1537620557,
+    "wof:name":"Tihna al Jabal",
+    "wof:parent_id":1092023043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.77395,
+    28.18751,
+    30.77395,
+    28.18751
+],
+  "geometry": {"coordinates":[30.77395,28.18751],"type":"Point"}
+}

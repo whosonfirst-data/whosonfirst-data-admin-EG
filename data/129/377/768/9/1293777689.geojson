@@ -1,0 +1,72 @@
+{
+  "id": 1293777689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73333,27.66667,30.73333,27.66667",
+    "geom:latitude":27.66667,
+    "geom:longitude":30.73333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nazlat al Badraman",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351217,
+    "gn:latitude":27.66667,
+    "gn:longitude":30.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat al Badram\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet el Badram\u00e2n",
+        "Nazlat al Badram\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351217
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a308a3e9b615c9b6b43bf1448ac54892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1293777689,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1293777689,
+    "wof:lastmodified":1537620614,
+    "wof:name":"Nazlat al Badraman",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73333,
+    27.66667,
+    30.73333,
+    27.66667
+],
+  "geometry": {"coordinates":[30.73333,27.66667],"type":"Point"}
+}

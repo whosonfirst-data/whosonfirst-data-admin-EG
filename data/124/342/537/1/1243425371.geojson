@@ -1,0 +1,73 @@
+{
+  "id": 1243425371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.97571,30.77306,31.97571,30.77306",
+    "geom:latitude":30.77306,
+    "geom:longitude":31.97571,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr al Kabayshah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354614,
+    "gn:latitude":30.77306,
+    "gn:longitude":31.97571,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Kab\u0101yshah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Kabaush",
+        "Kafr el-Kabaysh",
+        "Kafr el Kabaysha",
+        "Kafr al Kab\u0101yshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354614
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"33f923ef98ee015eca13c3db10114bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1243425371,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1243425371,
+    "wof:lastmodified":1537620729,
+    "wof:name":"Kafr al Kabayshah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.97571,
+    30.77306,
+    31.97571,
+    30.77306
+],
+  "geometry": {"coordinates":[31.97571,30.77306],"type":"Point"}
+}

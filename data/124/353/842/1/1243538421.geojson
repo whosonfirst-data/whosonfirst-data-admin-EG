@@ -1,0 +1,72 @@
+{
+  "id": 1243538421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8245,28.05502,30.8245,28.05502",
+    "geom:latitude":28.05502,
+    "geom:longitude":30.8245,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zawiyat Sultan Basha",
+    "gn:country_code":"EG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351079,
+    "gn:latitude":28.05502,
+    "gn:longitude":30.8245,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat Sul\u0163\u0101n Bash\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet Sul\u1e6d\u00e2n Pasha",
+        "Nazlat Sul\u0163\u0101n B\u0101sh\u0101",
+        "Z\u0101wiyat Sul\u0163\u0101n Bash\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092023043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351079
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"22b356f692d7ec541978b43db5267141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023043,
+            "locality_id":1243538421,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1243538421,
+    "wof:lastmodified":1537620605,
+    "wof:name":"Zawiyat Sultan Basha",
+    "wof:parent_id":1092023043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8245,
+    28.05502000000001,
+    30.8245,
+    28.05502000000001
+],
+  "geometry": {"coordinates":[30.8245,28.05502000000001],"type":"Point"}
+}

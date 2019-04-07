@@ -1,0 +1,66 @@
+{
+  "id": 1209529977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4,31.05,31.4,31.05",
+    "geom:latitude":31.05,
+    "geom:longitude":31.4,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr al Badamas",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354710,
+    "gn:latitude":31.05,
+    "gn:longitude":31.4,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Bad\u0101m\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Badam\u00e2\u1e63",
+        "Kafr al Bad\u0101m\u0101\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354710
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"422f50bf03927e2365408d5a253d059d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209529977
+        }
+    ],
+    "wof:id":1209529977,
+    "wof:lastmodified":1537620738,
+    "wof:name":"Kafr al Badamas",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4,
+    31.05,
+    31.4,
+    31.05
+],
+  "geometry": {"coordinates":[31.4,31.05],"type":"Point"}
+}

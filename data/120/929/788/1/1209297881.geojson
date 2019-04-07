@@ -1,0 +1,65 @@
+{
+  "id": 1209297881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83333,30.7,31.83333,30.7",
+    "geom:latitude":30.7,
+    "geom:longitude":31.83333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Abu Nimr",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354814,
+    "gn:latitude":30.7,
+    "gn:longitude":31.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ab\u016b Nimr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Ab\u016b Nimr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354814
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1124a3f79de498f8f3afaca6e97abc37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209297881
+        }
+    ],
+    "wof:id":1209297881,
+    "wof:lastmodified":1537620746,
+    "wof:name":"Kafr Abu Nimr",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83333,
+    30.7,
+    31.83333,
+    30.7
+],
+  "geometry": {"coordinates":[31.83333,30.7],"type":"Point"}
+}

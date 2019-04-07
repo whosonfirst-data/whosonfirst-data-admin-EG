@@ -1,0 +1,68 @@
+{
+  "id": 1209111099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21334,30.6243,31.21334,30.6243",
+    "geom:latitude":30.6243,
+    "geom:longitude":31.21334,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr Ghazi",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354284,
+    "gn:latitude":30.6243,
+    "gn:longitude":31.21334,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kafr Gh\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u063a\u0627\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kafr Gh\u00e2zi",
+        "Kafr Gh\u0101z\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354284
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d6da9106c9cd04437b264f443536cab3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209111099
+        }
+    ],
+    "wof:id":1209111099,
+    "wof:lastmodified":1537620702,
+    "wof:name":"Kafr Ghazi",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21334,
+    30.6243,
+    31.21334,
+    30.6243
+],
+  "geometry": {"coordinates":[31.21334,30.6243],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890433321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67148,30.72508,31.67148,30.72508",
+    "geom:latitude":30.72508,
+    "geom:longitude":31.67148,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":100684,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0643\u0628\u064a\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Abu Keb\u00eer"
+    ],
+    "qs:name":"Ab\u016b Kab\u012br",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":2375,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362485,
+        "gp:id":1521072,
+        "qs:id":124316,
+        "wd:id":"Q2908725",
+        "wk:page":"Abu Kabir"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051976,
+    "wof:geomhash":"6e280ac9902b9c1b0bfb615165691c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":890433321,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":890433321,
+    "wof:lastmodified":1527792958,
+    "wof:name":"Ab\u016b Kab\u012br",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:population":100684,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67148,
+    30.72508,
+    31.67148,
+    30.72508
+],
+  "geometry": {"coordinates":[31.67148,30.72508],"type":"Point"}
+}

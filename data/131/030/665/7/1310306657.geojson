@@ -1,0 +1,67 @@
+{
+  "id": 1310306657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13813,30.9338,30.13813,30.9338",
+    "geom:latitude":30.9338,
+    "geom:longitude":30.13813,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Amin `Allubah",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434193,
+    "gn:latitude":30.9338,
+    "gn:longitude":30.13813,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Am\u012bn \u2018All\u016bbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434193
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"42a5587697e8bb5ce77cd958fb738957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1310306657,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310306657,
+    "wof:lastmodified":1536706502,
+    "wof:name":"`Izbat Amin `Allubah",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13813,
+    30.9338,
+    30.13813,
+    30.9338
+],
+  "geometry": {"coordinates":[30.13813,30.9338],"type":"Point"}
+}

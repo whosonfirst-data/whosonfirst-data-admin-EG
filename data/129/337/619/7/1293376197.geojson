@@ -1,0 +1,71 @@
+{
+  "id": 1293376197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.94695,26.16838,31.94695,26.16838",
+    "geom:latitude":26.16838,
+    "geom:longitude":31.94695,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Naj` al Ghabat",
+    "gn:country_code":"EG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351641,
+    "gn:latitude":26.16838,
+    "gn:longitude":31.94695,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 al Gh\u0101b\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2019 el-Gh\u00e2b\u00e2t",
+        "Naj\u2018 al Gh\u0101b\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092017143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351641
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a3e7ed0cfe6303764356513399609153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017143,
+            "locality_id":1293376197,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1293376197,
+    "wof:lastmodified":1537620629,
+    "wof:name":"Naj` al Ghabat",
+    "wof:parent_id":1092017143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.94695,
+    26.16838,
+    31.94695,
+    26.16838
+],
+  "geometry": {"coordinates":[31.94695,26.16838],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293392985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.62719,25.53578,34.62719,25.53578",
+    "geom:latitude":25.53578,
+    "geom:longitude":34.62719,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Port el Ghalib",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6692521,
+    "gn:latitude":25.53578,
+    "gn:longitude":34.62719,
+    "gn:modification_date":"2012-04-11",
+    "gn:name":"Port el Ghalib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Port Ghalib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092019193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6692521
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"71ff3aab26821d88fc6025c6ed064ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019193,
+            "locality_id":1293392985,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1293392985,
+    "wof:lastmodified":1537621135,
+    "wof:name":"Port el Ghalib",
+    "wof:parent_id":1092019193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.62719,
+    25.53578,
+    34.62719,
+    25.53578
+],
+  "geometry": {"coordinates":[34.62719,25.53578],"type":"Point"}
+}

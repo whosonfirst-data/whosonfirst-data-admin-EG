@@ -1,0 +1,75 @@
+{
+  "id": 1310659613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83579,31.15769,30.83579,31.15769",
+    "geom:latitude":31.15769,
+    "geom:longitude":30.83579,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Sandala",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415986,
+    "gn:latitude":31.15769,
+    "gn:longitude":30.83579,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat \u015eandal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0635\u0646\u062f\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u015eandal\u0101",
+        "\u2018Izbat \u1e62andal\u0101",
+        "\u1e62andala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415986
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5e09e9f150fa27ca919f6a9acdaa19ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1310659613,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1310659613,
+    "wof:lastmodified":1537621008,
+    "wof:name":"`Izbat Sandala",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83579000000001,
+    31.15769,
+    30.83579000000001,
+    31.15769
+],
+  "geometry": {"coordinates":[30.83579000000001,31.15769],"type":"Point"}
+}

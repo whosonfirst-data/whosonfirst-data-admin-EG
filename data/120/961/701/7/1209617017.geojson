@@ -1,0 +1,66 @@
+{
+  "id": 1209617017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.45,31.1,30.45,31.1",
+    "geom:latitude":31.1,
+    "geom:longitude":30.45,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zawiyat Ghazal",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346088,
+    "gn:latitude":31.1,
+    "gn:longitude":30.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat Ghaz\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyet Ghaz\u00e2l",
+        "Z\u0101wiyat Ghaz\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346088
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e0c16189124b04b3a32cfea163e8edb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209617017
+        }
+    ],
+    "wof:id":1209617017,
+    "wof:lastmodified":1537620546,
+    "wof:name":"Zawiyat Ghazal",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45,
+    31.1,
+    30.45,
+    31.1
+],
+  "geometry": {"coordinates":[30.45,31.1],"type":"Point"}
+}

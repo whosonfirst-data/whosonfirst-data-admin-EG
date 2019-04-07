@@ -1,0 +1,73 @@
+{
+  "id": 1193016419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65059,29.30846,30.65059,29.30846",
+    "geom:latitude":29.30846,
+    "geom:longitude":30.65059,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"An Nazlah",
+    "gn:country_code":"EG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360333,
+    "gn:latitude":29.30846,
+    "gn:longitude":30.65059,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An Nazlah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Nazla",
+        "An Nazlat",
+        "En Nazla",
+        "An Nazlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360333
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"11590160d03d78a62833c0b556e40450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1193016419,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1193016419,
+    "wof:lastmodified":1537620874,
+    "wof:name":"An Nazlah",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65059,
+    29.30846,
+    30.65059,
+    29.30846
+],
+  "geometry": {"coordinates":[30.65059,29.30846],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343733765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31066,26.90749,31.31066,26.90749",
+    "geom:latitude":26.90749,
+    "geom:longitude":31.31066,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Mashay`ah",
+    "gn:country_code":"EG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360731,
+    "gn:latitude":26.90749,
+    "gn:longitude":31.31066,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Mash\u0101y\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mash\u0101i\u2018a",
+        "Al Mash\u0101\u2019i\u2018ah",
+        "El Mash\u00e2y\u2018a",
+        "Al Mash\u0101y\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092017873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360731
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"87250d7969a66ee912936c23b2a2adfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017873,
+            "locality_id":1343733765,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1343733765,
+    "wof:lastmodified":1537620894,
+    "wof:name":"Al Mashay`ah",
+    "wof:parent_id":1092017873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31066,
+    26.90749000000001,
+    31.31066,
+    26.90749000000001
+],
+  "geometry": {"coordinates":[31.31066,26.90749000000001],"type":"Point"}
+}

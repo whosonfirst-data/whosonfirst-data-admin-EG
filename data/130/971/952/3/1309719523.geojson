@@ -1,0 +1,73 @@
+{
+  "id": 1309719523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40565,31.28627,30.40565,31.28627",
+    "geom:latitude":31.28627,
+    "geom:longitude":30.40565,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al `Izbah al Bayda'",
+    "gn:country_code":"EG",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415052,
+    "gn:latitude":31.28627,
+    "gn:longitude":30.40565,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al \u2018Izbah al Bay\u1e11\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Izbah al Bay\u1e11\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092016481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415052
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"be6d4244479311a8c330e169f8d6c387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016481,
+            "locality_id":1309719523,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1309719523,
+    "wof:lastmodified":1537620977,
+    "wof:name":"Al `Izbah al Bayda'",
+    "wof:parent_id":1092016481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40565,
+    31.28627,
+    30.40565,
+    31.28627
+],
+  "geometry": {"coordinates":[30.40565,31.28627],"type":"Point"}
+}

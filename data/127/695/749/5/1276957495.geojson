@@ -1,0 +1,75 @@
+{
+  "id": 1276957495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79226,31.01845,31.79226,31.01845",
+    "geom:latitude":31.01845,
+    "geom:longitude":31.79226,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat ar Rawayisah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421227,
+    "gn:latitude":31.01845,
+    "gn:longitude":31.79226,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat ar Rawayisah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0631\u0648\u0627\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ar Rawayisah",
+        "\u2018Izbat ar Raw\u0101ysah",
+        "\u2018Izbat ar-Rawaysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421227
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"823283f8725ddaad8268d1efc88db9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015105,
+            "locality_id":1276957495,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276957495,
+    "wof:lastmodified":1537621104,
+    "wof:name":"`Izbat ar Rawayisah",
+    "wof:parent_id":1092015105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79226,
+    31.01845,
+    31.79226,
+    31.01845
+],
+  "geometry": {"coordinates":[31.79226,31.01845],"type":"Point"}
+}

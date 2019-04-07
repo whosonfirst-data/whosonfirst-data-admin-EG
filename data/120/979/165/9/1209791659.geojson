@@ -1,0 +1,71 @@
+{
+  "id": 1209791659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.89109,29.07253,30.89109,29.07253",
+    "geom:latitude":29.07253,
+    "geom:longitude":30.89109,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Qalha",
+    "gn:country_code":"EG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350803,
+    "gn:latitude":29.07253,
+    "gn:longitude":30.89109,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qalh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qalaha",
+        "Qalh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092014481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350803
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d5c159082d866d8e6d0692427fd68ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014481,
+            "locality_id":1209791659,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1209791659,
+    "wof:lastmodified":1537620599,
+    "wof:name":"Qalha",
+    "wof:parent_id":1092014481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89109,
+    29.07253,
+    30.89109,
+    29.07253
+],
+  "geometry": {"coordinates":[30.89109,29.07253],"type":"Point"}
+}

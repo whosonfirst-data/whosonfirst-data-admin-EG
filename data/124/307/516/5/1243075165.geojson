@@ -1,0 +1,71 @@
+{
+  "id": 1243075165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59445,30.89364,30.59445,30.89364",
+    "geom:latitude":30.89364,
+    "geom:longitude":30.59445,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ju`ayf",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355012,
+    "gn:latitude":30.89364,
+    "gn:longitude":30.59445,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ju\u2018ayf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gi\u2018eif",
+        "Ju\u2018ayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092020749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355012
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3faf4d337a01b21d3e6f0aa8c313237f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020749,
+            "locality_id":1243075165,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243075165,
+    "wof:lastmodified":1537620753,
+    "wof:name":"Ju`ayf",
+    "wof:parent_id":1092020749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59445,
+    30.89364,
+    30.59445,
+    30.89364
+],
+  "geometry": {"coordinates":[30.59445,30.89364],"type":"Point"}
+}

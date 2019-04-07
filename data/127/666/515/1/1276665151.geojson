@@ -1,0 +1,73 @@
+{
+  "id": 1276665151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.14858,31.00455,30.14858,31.00455",
+    "geom:latitude":31.00455,
+    "geom:longitude":30.14858,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Basha as Sughra",
+    "gn:country_code":"EG",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10495966,
+    "gn:latitude":31.00455,
+    "gn:longitude":30.14858,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"\u2018Izbat al B\u0101sh\u0101 a\u015f \u015eughr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u0627\u0634\u0627 \u0627\u0644\u0635\u063a\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al B\u0101sh\u0101 a\u015f \u015eughr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10495966
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b921d53b97d635e38befdac28d4c0dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1276665151,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276665151,
+    "wof:lastmodified":1537621254,
+    "wof:name":"`Izbat al Basha as Sughra",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.14858,
+    31.00455,
+    30.14858,
+    31.00455
+],
+  "geometry": {"coordinates":[30.14858,31.00455],"type":"Point"}
+}

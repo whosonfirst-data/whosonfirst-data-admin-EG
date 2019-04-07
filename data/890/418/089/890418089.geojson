@@ -1,0 +1,99 @@
+{
+  "id": 890418089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.77924,28.41899,30.77924,28.41899",
+    "geom:latitude":28.41899,
+    "geom:longitude":30.77924,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":45215,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Matai"
+    ],
+    "name:eng_x_preferred":[
+        "Matai"
+    ],
+    "name:fre_x_preferred":[
+        "Matai"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10d7\u10d0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ma\u1e6d\u0101i"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0637\u0627\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Matai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Markaz Ma\u0163\u0101y"
+    ],
+    "name:unk_x_variant":[
+        "Muttay"
+    ],
+    "qs:name":"Ma\u0163\u0101y",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352628,
+        "qs:id":547860,
+        "wd:id":"Q3498842"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051234,
+    "wof:geomhash":"9839ce308d640fcdf9c6407a485df0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022239,
+            "locality_id":890418089,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":890418089,
+    "wof:lastmodified":1513956704,
+    "wof:name":"Ma\u0163\u0101y",
+    "wof:parent_id":1092022239,
+    "wof:placetype":"locality",
+    "wof:population":45215,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.77924,
+    28.41899,
+    30.77924,
+    28.41899
+],
+  "geometry": {"coordinates":[30.77924,28.41899],"type":"Point"}
+}

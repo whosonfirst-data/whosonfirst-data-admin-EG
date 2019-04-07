@@ -1,0 +1,67 @@
+{
+  "id": 1343238355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38965,27.02744,31.38965,27.02744",
+    "geom:latitude":27.02744,
+    "geom:longitude":31.38965,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"An Nawamis",
+    "gn:country_code":"EG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":417454,
+    "gn:latitude":27.02744,
+    "gn:longitude":31.38965,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"An Naw\u0101m\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092016975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":417454
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5ebc0a0a626c0bb97ff26e47c99f9aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016975,
+            "locality_id":1343238355,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1343238355,
+    "wof:lastmodified":1537064095,
+    "wof:name":"An Nawamis",
+    "wof:parent_id":1092016975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38965,
+    27.02744,
+    31.38965,
+    27.02744
+],
+  "geometry": {"coordinates":[31.38965,27.02744],"type":"Point"}
+}

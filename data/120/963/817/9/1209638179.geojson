@@ -1,0 +1,67 @@
+{
+  "id": 1209638179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16232,30.88678,31.16232,30.88678",
+    "geom:latitude":30.88678,
+    "geom:longitude":31.16232,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Bahjat",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560857,
+    "gn:latitude":30.88678,
+    "gn:longitude":31.16232,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat Bahjat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0628\u0647\u062c\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Bahjat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560857
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"24ce19b21d542c4a27354910142b1885",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209638179
+        }
+    ],
+    "wof:id":1209638179,
+    "wof:lastmodified":1537621212,
+    "wof:name":"`Izbat Bahjat",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16232,
+    30.88678,
+    31.16232,
+    30.88678
+],
+  "geometry": {"coordinates":[31.16232,30.88678],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277160887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.62066,30.45455,31.62066,30.45455",
+    "geom:latitude":30.45455,
+    "geom:longitude":31.62066,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr `Isa Qandil",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415666,
+    "gn:latitude":30.45455,
+    "gn:longitude":31.62066,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u2018\u012as\u00e1 Qand\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0639\u064a\u0633\u0649 \u0642\u0646\u062f\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u2018\u012as\u00e1 Qand\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415666
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5f354697c92b94730b19441ce9cf0ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015569,
+            "locality_id":1277160887,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1277160887,
+    "wof:lastmodified":1537620991,
+    "wof:name":"Kafr `Isa Qandil",
+    "wof:parent_id":1092015569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.62066,
+    30.45455,
+    31.62066,
+    30.45455
+],
+  "geometry": {"coordinates":[31.62066,30.45455],"type":"Point"}
+}

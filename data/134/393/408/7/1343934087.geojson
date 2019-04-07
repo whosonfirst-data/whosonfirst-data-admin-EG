@@ -1,0 +1,73 @@
+{
+  "id": 1343934087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,27.3,31.13333,27.3",
+    "geom:latitude":27.3,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kawm Dayr Shu",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353834,
+    "gn:latitude":27.3,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm Dayr Sh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f4m Deir Sho",
+        "K\u00f4m Deir Sh\u00fb",
+        "Kawm Dayr Sh\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353834
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9a274e1d7c44d11124ad7b6c63f70905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014043,
+            "locality_id":1343934087,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1343934087,
+    "wof:lastmodified":1537620676,
+    "wof:name":"Kawm Dayr Shu",
+    "wof:parent_id":1092014043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    27.3,
+    31.13333,
+    27.3
+],
+  "geometry": {"coordinates":[31.13333,27.3],"type":"Point"}
+}

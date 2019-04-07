@@ -1,0 +1,72 @@
+{
+  "id": 1327413917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32243,30.19888,31.32243,30.19888",
+    "geom:latitude":30.19888,
+    "geom:longitude":31.32243,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Siryaqus",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347874,
+    "gn:latitude":30.19888,
+    "gn:longitude":31.32243,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Siry\u0101q\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siriaqus",
+        "Siry\u00e2q\u00fbs",
+        "Siry\u0101q\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092018143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347874
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3c33c95d517a66ed749bd84fa62882a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018143,
+            "locality_id":1327413917,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1327413917,
+    "wof:lastmodified":1537620567,
+    "wof:name":"Siryaqus",
+    "wof:parent_id":1092018143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32243,
+    30.19888,
+    31.32243,
+    30.19888
+],
+  "geometry": {"coordinates":[31.32243,30.19888],"type":"Point"}
+}

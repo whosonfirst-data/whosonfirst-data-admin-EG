@@ -1,0 +1,77 @@
+{
+  "id": 1326829381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19872,30.82157,31.19872,30.82157",
+    "geom:latitude":30.82157,
+    "geom:longitude":31.19872,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Minyat al Mubashirin",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352219,
+    "gn:latitude":30.82157,
+    "gn:longitude":31.19872,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Minyat al Mub\u0101shir\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u064a\u0629 \u0627\u0644\u0645\u0628\u0627\u0634\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet el-Mub\u00e2shir\u00een",
+        "Minyet el-Mub\u00e2sh\u00eerin",
+        "M\u012bt al Mub\u0101shir\u012bn",
+        "Minyat al Mub\u0101shir\u012bn",
+        "Minyat al-Mub\u0101shir\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092026069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352219
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c0efa3925c3290fa544d2fa4783757fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092026069,
+            "locality_id":1326829381,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1326829381,
+    "wof:lastmodified":1537620642,
+    "wof:name":"Minyat al Mubashirin",
+    "wof:parent_id":1092026069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19872,
+    30.82157,
+    31.19872,
+    30.82157
+],
+  "geometry": {"coordinates":[31.19872,30.82157],"type":"Point"}
+}

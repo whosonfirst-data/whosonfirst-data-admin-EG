@@ -1,0 +1,71 @@
+{
+  "id": 1193022227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82546,29.39757,30.82546,29.39757",
+    "geom:latitude":29.39757,
+    "geom:longitude":30.82546,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Naqalifah",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351345,
+    "gn:latitude":29.39757,
+    "gn:longitude":30.82546,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naq\u0101l\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naq\u00e2l\u00eefa",
+        "Naq\u0101l\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092024457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351345
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3035e58365c511085270616ec0320b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024457,
+            "locality_id":1193022227,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1193022227,
+    "wof:lastmodified":1537620617,
+    "wof:name":"Naqalifah",
+    "wof:parent_id":1092024457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82546,
+    29.39757,
+    30.82546,
+    29.39757
+],
+  "geometry": {"coordinates":[30.82546,29.39757],"type":"Point"}
+}

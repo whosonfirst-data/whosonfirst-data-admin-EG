@@ -1,0 +1,72 @@
+{
+  "id": 1193095375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77639,26.13467,32.77639,26.13467",
+    "geom:latitude":26.13467,
+    "geom:longitude":32.77639,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Jabalaw",
+    "gn:country_code":"EG",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361041,
+    "gn:latitude":26.13467,
+    "gn:longitude":32.77639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jabal\u0101w",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gabal\u00e2w",
+        "El Gabal\u0101u",
+        "Al Jabal\u0101w"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361041
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"104112371e4a6e4b3f86bfd1cc64d374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023115,
+            "locality_id":1193095375,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1193095375,
+    "wof:lastmodified":1537620912,
+    "wof:name":"Al Jabalaw",
+    "wof:parent_id":1092023115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77639,
+    26.13467,
+    32.77639,
+    26.13467
+],
+  "geometry": {"coordinates":[32.77639,26.13467],"type":"Point"}
+}

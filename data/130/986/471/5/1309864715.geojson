@@ -1,0 +1,75 @@
+{
+  "id": 1309864715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4984,31.35353,30.4984,31.35353",
+    "geom:latitude":31.35353,
+    "geom:longitude":30.4984,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ma`addiyat Mahdi",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353261,
+    "gn:latitude":31.35353,
+    "gn:longitude":30.4984,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ma\u2018add\u012byat Mahd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u062f\u064a\u0629 \u0645\u0647\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018add\u00eeyet Mahdi",
+        "Ma\u2018add\u012byat Mahd\u012b",
+        "Ma\u2018addiyit Mahd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353261
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c858d128b32964957f4044094bf4588f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1309864715,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1309864715,
+    "wof:lastmodified":1537620668,
+    "wof:name":"Ma`addiyat Mahdi",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4984,
+    31.35353,
+    30.4984,
+    31.35353
+],
+  "geometry": {"coordinates":[30.4984,31.35353],"type":"Point"}
+}

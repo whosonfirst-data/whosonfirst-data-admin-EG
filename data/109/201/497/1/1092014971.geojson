@@ -1,0 +1,91 @@
+{
+  "id": 1092014971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000385,
+    "geom:area_square_m":4093881.19902,
+    "geom:bbox":"31.489557,30.576502,31.517851,30.606669",
+    "geom:latitude":30.593069,
+    "geom:longitude":31.505801,
+    "iso:country":"EG",
+    "lbl:latitude":30.599396,
+    "lbl:longitude":31.500871,
+    "meso:admin_1":"Sharkia",
+    "meso:diss_me":"Awel El-ZaqazeeqSharkia",
+    "meso:gadm_admin":"Zaqaziq 2",
+    "meso:gadm_hasc2":"EG.SQ.ZS",
+    "meso:gaul_admin":"Zaqaziq 2",
+    "meso:mps_x":31.500871,
+    "meso:mps_y":30.599396,
+    "meso:name_en":"Awel El-Zaqazeeq",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.599396,
+    "mps:longitude":31.500871,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Az-Zaqaziq 1"
+    ],
+    "name:eng_x_variant":[
+        "Zaqaziq 2"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.SQ",
+    "statoids:name":"Az-Zaqaziq 1",
+    "statoids:population":"133145",
+    "statoids:statoid":"EG.SQ.ZF",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.SQ.ZF"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897156,
+    "wof:geomhash":"7e47a707331645f1f7aa734ad6ae94b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014971,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1092014971,
+    "wof:lastmodified":1536615083,
+    "wof:name":"Awel El-Zaqazeeq",
+    "wof:parent_id":85671007,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":133145,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"ZF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.489557,
+    30.576502,
+    31.517851,
+    30.606669
+],
+  "geometry": {"coordinates":[[[31.510165,30.604377],[31.514273,30.593222],[31.517605,30.585499],[31.516676,30.584331],[31.516206,30.583552],[31.515715,30.58199],[31.515682,30.580817],[31.516559,30.580026],[31.517436,30.579238],[31.517851,30.578061],[31.517382,30.577282],[31.516912,30.576502],[31.516035,30.577291],[31.514262,30.578085],[31.512489,30.578881],[31.511592,30.578887],[31.509316,30.577728],[31.507511,30.577351],[31.505749,30.578536],[31.505436,30.579063],[31.50508,30.579626],[31.505013,30.579773],[31.504993,30.580053],[31.50519,30.580722],[31.505865,30.582841],[31.506356,30.5844],[31.506398,30.585966],[31.506943,30.589484],[31.506548,30.591444],[31.50614,30.593012],[31.504378,30.594198],[31.499869,30.593445],[31.497615,30.593069],[31.496707,30.592684],[31.496247,30.592296],[31.495339,30.591911],[31.493085,30.591535],[31.491802,30.591546],[31.490609,30.591292],[31.489943,30.592947],[31.489557,30.593908],[31.490404,30.594158],[31.490926,30.594679],[31.491406,30.595851],[31.492805,30.597798],[31.493296,30.59936],[31.494706,30.601699],[31.497045,30.605205],[31.497645,30.606669],[31.498412,30.605978],[31.500186,30.605184],[31.50288,30.605166],[31.504674,30.605153],[31.510165,30.604377]]],"type":"Polygon"}
+}

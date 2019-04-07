@@ -1,0 +1,67 @@
+{
+  "id": 1343837453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59065,24.72213,30.59065,24.72213",
+    "geom:latitude":24.72213,
+    "geom:longitude":30.59065,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"`Ezbet `Ain Barqas",
+    "gn:country_code":"EG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357637,
+    "gn:latitude":24.72213,
+    "gn:longitude":30.59065,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Ezbet \u2018A\u00een Barqas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357637
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7f5051a3d16979ab89443ae5e45213df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020223,
+            "locality_id":1343837453,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1343837453,
+    "wof:lastmodified":1536700107,
+    "wof:name":"`Ezbet `Ain Barqas",
+    "wof:parent_id":1092020223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59065,
+    24.72213,
+    30.59065,
+    24.72213
+],
+  "geometry": {"coordinates":[30.59065,24.72213],"type":"Point"}
+}

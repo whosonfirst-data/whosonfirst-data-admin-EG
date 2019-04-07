@@ -1,0 +1,68 @@
+{
+  "id": 1226326915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24444,30.54972,31.24444,30.54972",
+    "geom:latitude":30.54972,
+    "geom:longitude":31.24444,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr Shukr",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354076,
+    "gn:latitude":30.54972,
+    "gn:longitude":31.24444,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Kafr Shukr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092023671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354076,
+        "wk:page":"Kafr_Shukr"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0e5979926b5ba6fcaa86b25831b1f992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023671,
+            "locality_id":1226326915,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1226326915,
+    "wof:lastmodified":1537562582,
+    "wof:name":"Kafr Shukr",
+    "wof:parent_id":1092023671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24444,
+    30.54972,
+    31.24444,
+    30.54972
+],
+  "geometry": {"coordinates":[31.24444,30.54972],"type":"Point"}
+}

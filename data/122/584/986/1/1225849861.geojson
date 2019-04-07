@@ -1,0 +1,75 @@
+{
+  "id": 1225849861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20033,31.0744,31.20033,31.0744",
+    "geom:latitude":31.0744,
+    "geom:longitude":31.20033,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mahallat al Qasab",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353140,
+    "gn:latitude":31.0744,
+    "gn:longitude":31.20033,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Ma\u1e29allat al Qa\u015fab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644\u0629 \u0627\u0644\u0642\u0635\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e25allet el-Qa\u1e63ab",
+        "Ma\u1e29allat al Qa\u015fab",
+        "Ma\u1e25allat al-Qa\u1e63ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353140
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d0d3e4ed26c648682fa9c548840173ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1225849861,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1225849861,
+    "wof:lastmodified":1537620667,
+    "wof:name":"Mahallat al Qasab",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20033,
+    31.0744,
+    31.20033,
+    31.0744
+],
+  "geometry": {"coordinates":[31.20033,31.0744],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1092019405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.025276,
+    "geom:area_square_m":269652027.066076,
+    "geom:bbox":"30.540842,30.308303,30.872711,30.460365",
+    "geom:latitude":30.370796,
+    "geom:longitude":30.703079,
+    "iso:country":"EG",
+    "lbl:latitude":30.382223,
+    "lbl:longitude":30.755883,
+    "meso:admin_1":"Menoufia",
+    "meso:diss_me":"El-Sadat CityMenoufia",
+    "meso:gadm_admin":"Sadat City",
+    "meso:gadm_hasc2":"EG.MF.EC",
+    "meso:gaul_admin":"Sadat City",
+    "meso:mps_x":30.755883,
+    "meso:mps_y":30.382223,
+    "meso:name_en":"El-Sadat City",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Merkz",
+    "mps:latitude":30.382223,
+    "mps:longitude":30.755883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sadat City"
+    ],
+    "name:eng_x_variant":[
+        "Sadat City"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.MF",
+    "statoids:name":"Sadat City",
+    "statoids:population":"143075",
+    "statoids:statoid":"EG.MF.EC",
+    "statoids:timezone":"+2~",
+    "statoids:type":"markaz",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.MF.EC"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897323,
+    "wof:geomhash":"7b97d2200c90f6468ea9a08cbe2e973f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019405,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1092019405,
+    "wof:lastmodified":1536615087,
+    "wof:name":"El-Sadat City",
+    "wof:parent_id":85671035,
+    "wof:placetype":"county",
+    "wof:placetype_local":"markaz",
+    "wof:population":143075,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"EC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.540842,
+    30.308303,
+    30.872711,
+    30.460365
+],
+  "geometry": {"coordinates":[[[30.626046,30.405748],[30.694431,30.376243],[30.727301,30.427847],[30.796596,30.425659],[30.819182,30.443992],[30.825447,30.452382],[30.827003,30.459257],[30.844578,30.460365],[30.845212,30.459521],[30.848441,30.455251],[30.849923,30.453305],[30.849916,30.450147],[30.849914,30.449525],[30.849864,30.449116],[30.849378,30.445134],[30.845517,30.440551],[30.841835,30.437407],[30.841913,30.43378],[30.842339,30.42857],[30.842153,30.423807],[30.842121,30.422969],[30.84206,30.421385],[30.841792,30.419191],[30.841524,30.417626],[30.84126,30.416086],[30.840379,30.413354],[30.838793,30.407967],[30.837912,30.405688],[30.838517,30.402748],[30.839429,30.401318],[30.840856,30.400277],[30.842234,30.399271],[30.847649,30.397083],[30.849624,30.39599],[30.852862,30.394196],[30.859077,30.391671],[30.863292,30.391201],[30.86831,30.391089],[30.870314,30.389899],[30.871712,30.387313],[30.872572,30.385532],[30.872711,30.385243],[30.872502,30.382292],[30.871891,30.379163],[30.870672,30.373076],[30.869643,30.372079],[30.86705,30.369562],[30.854195,30.364898],[30.845234,30.363282],[30.839696,30.362284],[30.830167,30.356407],[30.682755,30.318892],[30.581661,30.308303],[30.541114,30.32745],[30.544146,30.347206],[30.541691,30.362742],[30.540842,30.382405],[30.567306,30.391047],[30.586182,30.388222],[30.626046,30.405748]]],"type":"Polygon"}
+}

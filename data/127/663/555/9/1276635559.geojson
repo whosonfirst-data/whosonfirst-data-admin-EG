@@ -1,0 +1,71 @@
+{
+  "id": 1276635559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25,30.51667,31.25,30.51667",
+    "geom:latitude":30.51667,
+    "geom:longitude":31.25,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr `Azab Ghunaym",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354373,
+    "gn:latitude":30.51667,
+    "gn:longitude":31.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u2018Azab Ghunaym",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr \u2018Azab Ghuneim",
+        "Kafr \u2018Azab Ghunaym"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092021747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354373
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9b93a263ae21e4f7d7006327a792cf5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021747,
+            "locality_id":1276635559,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1276635559,
+    "wof:lastmodified":1537620708,
+    "wof:name":"Kafr `Azab Ghunaym",
+    "wof:parent_id":1092021747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25,
+    30.51667,
+    31.25,
+    30.51667
+],
+  "geometry": {"coordinates":[31.25,30.51667],"type":"Point"}
+}

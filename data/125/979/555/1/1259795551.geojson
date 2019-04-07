@@ -1,0 +1,67 @@
+{
+  "id": 1259795551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.60972,30.85972,30.60972,30.85972",
+    "geom:latitude":30.85972,
+    "geom:longitude":30.60972,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Abu Su`ayfah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433246,
+    "gn:latitude":30.85972,
+    "gn:longitude":30.60972,
+    "gn:modification_date":"2001-05-04",
+    "gn:name":"\u2018Izbat Ab\u016b Su\u2018ayfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092020749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433246
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f337d17bd3cef138641c4fa6c8742c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020749,
+            "locality_id":1259795551,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259795551,
+    "wof:lastmodified":1536905983,
+    "wof:name":"`Izbat Abu Su`ayfah",
+    "wof:parent_id":1092020749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.60972000000001,
+    30.85972000000001,
+    30.60972000000001,
+    30.85972000000001
+],
+  "geometry": {"coordinates":[30.60972000000001,30.85972000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210039077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14099,30.91609,31.14099,30.91609",
+    "geom:latitude":30.91609,
+    "geom:longitude":31.14099,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Mumtaz",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560847,
+    "gn:latitude":30.91609,
+    "gn:longitude":31.14099,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"\u2018Izbat Mumt\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u0645\u062a\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mumt\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560847
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"00baf29075da0d0acd1ceb680a5cab94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1210039077,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1210039077,
+    "wof:lastmodified":1537621211,
+    "wof:name":"`Izbat Mumtaz",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14099,
+    30.91609,
+    31.14099,
+    30.91609
+],
+  "geometry": {"coordinates":[31.14099,30.91609],"type":"Point"}
+}

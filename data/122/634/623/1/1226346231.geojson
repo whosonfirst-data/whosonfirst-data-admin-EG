@@ -1,0 +1,67 @@
+{
+  "id": 1226346231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82851,31.51027,31.82851,31.51027",
+    "geom:latitude":31.51027,
+    "geom:longitude":31.82851,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ras el-Barr",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350211,
+    "gn:latitude":31.51027,
+    "gn:longitude":31.82851,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"R\u00e2s el-Barr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350211
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c7acaaf1b351fe87a4aa56eef64e4716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":1226346231,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1226346231,
+    "wof:lastmodified":1536789157,
+    "wof:name":"Ras el-Barr",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82851,
+    31.51027,
+    31.82851,
+    31.51027
+],
+  "geometry": {"coordinates":[31.82851,31.51027],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421198107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.89839,24.93857,32.89839,24.93857",
+    "geom:latitude":24.93857,
+    "geom:longitude":32.89839,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Er Ridis\u012bya Bahari"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":360160,
+    "qs:gn_pop":0,
+    "qs:name":"Ar Radisiyah Bahri",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0633\u0648\u0627\u0646",
+    "qs:photos":144,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":144,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1028477,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1522062,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360160,
+        "gp:id":1522062,
+        "qs:id":1028477
+    },
+    "wof:country":"EG",
+    "wof:created":1459009936,
+    "wof:geomhash":"6b315f841deba5632c2f5c92ad44fc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016437,
+            "locality_id":421198107,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":421198107,
+    "wof:lastmodified":1501214184,
+    "wof:name":"Ar Radisiyah Bahri",
+    "wof:parent_id":1092016437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.89839,
+    24.93857,
+    32.89839,
+    24.93857
+],
+  "geometry": {"coordinates":[32.89839,24.93857],"type":"Point"}
+}

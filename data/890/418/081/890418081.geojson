@@ -1,0 +1,126 @@
+{
+  "id": 890418081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.76362,25.91407,32.76362,25.91407",
+    "geom:latitude":25.91407,
+    "geom:longitude":32.76362,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":60181,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0635"
+    ],
+    "name:arz_x_preferred":[
+        "\u0642\u0648\u0635"
+    ],
+    "name:cat_x_preferred":[
+        "Kus"
+    ],
+    "name:chi_x_preferred":[
+        "\u53e4\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Qus"
+    ],
+    "name:eng_x_preferred":[
+        "Qus"
+    ],
+    "name:fre_x_preferred":[
+        "Q\u00fbs"
+    ],
+    "name:ger_x_preferred":[
+        "Qus"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Qus"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30b9"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0642\u0648\u0635"
+    ],
+    "name:pol_x_preferred":[
+        "Kus"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Qus"
+    ],
+    "name:spa_x_preferred":[
+        "Apolin\u00f3polis Parva"
+    ],
+    "name:swe_x_preferred":[
+        "Kousa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Apollinopolis Parva"
+    ],
+    "qs:name":"Kousa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092023581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350422,
+        "gp:id":1526032,
+        "qs:id":547824,
+        "wd:id":"Q1816589",
+        "wk:page":"Kousa"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051234,
+    "wof:geomhash":"6a6c519898affc332b2ec459b8db7afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023581,
+            "locality_id":890418081,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":890418081,
+    "wof:lastmodified":1553816392,
+    "wof:name":"Kousa",
+    "wof:parent_id":1092023581,
+    "wof:placetype":"locality",
+    "wof:population":60181,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.76362,
+    25.91407,
+    32.76362,
+    25.91407
+],
+  "geometry": {"coordinates":[32.76362,25.91407],"type":"Point"}
+}

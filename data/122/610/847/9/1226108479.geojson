@@ -1,0 +1,71 @@
+{
+  "id": 1226108479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78333,28.85,30.78333,28.85",
+    "geom:latitude":28.85,
+    "geom:longitude":30.78333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Naj` `Abd Allah `Abd al Jawwad",
+    "gn:country_code":"EG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351516,
+    "gn:latitude":28.85,
+    "gn:longitude":30.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 \u2018Abd All\u0101h \u2018Abd al Jaww\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 \u2018Abdalla \u2018Abd el Ga\u00fbw\u00e2d",
+        "Naj\u2018 \u2018Abd All\u0101h \u2018Abd al Jaww\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092017627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351516
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9e2db40d9aabc0a50bbe5f2bd6e6c7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017627,
+            "locality_id":1226108479,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1226108479,
+    "wof:lastmodified":1537620627,
+    "wof:name":"Naj` `Abd Allah `Abd al Jawwad",
+    "wof:parent_id":1092017627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78333,
+    28.85,
+    30.78333,
+    28.85
+],
+  "geometry": {"coordinates":[30.78333,28.85],"type":"Point"}
+}

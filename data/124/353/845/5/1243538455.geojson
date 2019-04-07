@@ -1,0 +1,71 @@
+{
+  "id": 1243538455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81563,28.4806,30.81563,28.4806",
+    "geom:latitude":28.4806,
+    "geom:longitude":30.81563,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nazlat ad Dalil",
+    "gn:country_code":"EG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351237,
+    "gn:latitude":28.4806,
+    "gn:longitude":30.81563,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat ad Dal\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet el D\u00e2lil",
+        "Nazlat ad Dal\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092015295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351237
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b18369d95fedc928e4d0543a697908e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015295,
+            "locality_id":1243538455,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1243538455,
+    "wof:lastmodified":1537620615,
+    "wof:name":"Nazlat ad Dalil",
+    "wof:parent_id":1092015295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81563,
+    28.4806,
+    30.81563,
+    28.4806
+],
+  "geometry": {"coordinates":[30.81563,28.4806],"type":"Point"}
+}

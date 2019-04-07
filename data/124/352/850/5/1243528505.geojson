@@ -1,0 +1,77 @@
+{
+  "id": 1243528505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17901,31.48342,31.17901,31.48342",
+    "geom:latitude":31.48342,
+    "geom:longitude":31.17901,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Qaryah Raqm Ithnan wa Sittun",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7759946,
+    "gn:latitude":31.48342,
+    "gn:longitude":31.17901,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryah Raqm Ithn\u0101n wa Sitt\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 \u0666\u0662"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 62"
+    ],
+    "name:und_x_variant":[
+        "Qaryah Raqm Ithn\u0101n wa Sitt\u016bn",
+        "Qaryah Raqm 62"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759946
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"25417479879896cc5340c6516753e194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017993,
+            "locality_id":1243528505,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1243528505,
+    "wof:lastmodified":1537621138,
+    "wof:name":"Qaryah Raqm Ithnan wa Sittun",
+    "wof:parent_id":1092017993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17901,
+    31.48342,
+    31.17901,
+    31.48342
+],
+  "geometry": {"coordinates":[31.17901,31.48342],"type":"Point"}
+}

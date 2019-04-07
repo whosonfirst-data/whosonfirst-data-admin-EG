@@ -1,0 +1,113 @@
+{
+  "id": 1125852843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51965,29.2032,25.51965,29.2032",
+    "geom:latitude":29.2032,
+    "geom:longitude":25.51965,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7000,
+    "gn:population":7000,
+    "iso:country":"EG",
+    "lbl:latitude":29.2032,
+    "lbl:longitude":25.51965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062d\u0629 \u0633\u064a\u0648\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Oase Siwa"
+    ],
+    "name:dut_x_preferred":[
+        "Siwa Town"
+    ],
+    "name:eng_x_preferred":[
+        "Siwa Oasis"
+    ],
+    "name:eng_x_variant":[
+        "S\u012bwah",
+        "Siwa Town"
+    ],
+    "name:fra_x_preferred":[
+        "Siwa"
+    ],
+    "name:fre_x_preferred":[
+        "Siwa Town"
+    ],
+    "name:ger_x_preferred":[
+        "Siwa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0432\u0430"
+    ],
+    "name:siz_x_preferred":[
+        "Isiwan"
+    ],
+    "name:unk_x_variant":[
+        "Siuah"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":347863,
+    "qs_pg:gn_pop":7000,
+    "qs_pg:name":"S\u012bwah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":206100,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092025019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347863,
+        "qs_pg:id":206100,
+        "wd:id":"Q14220534"
+    },
+    "wof:country":"EG",
+    "wof:created":1497293488,
+    "wof:geomhash":"d3300dded9f05a3cf6fadca07f97583c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025019,
+            "locality_id":1125852843,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1125852843,
+    "wof:lastmodified":1513956717,
+    "wof:name":"S\u012bwah",
+    "wof:parent_id":1092025019,
+    "wof:placetype":"locality",
+    "wof:population":7000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51965,
+    29.2032,
+    25.51965,
+    29.2032
+],
+  "geometry": {"coordinates":[25.51965,29.2032],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310001735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83722,30.43518,30.83722,30.43518",
+    "geom:latitude":30.43518,
+    "geom:longitude":30.83722,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"At Tarranah",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359700,
+    "gn:latitude":30.43518,
+    "gn:longitude":30.83722,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"A\u0163 \u0162arr\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0631\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e6carr\u00e2na",
+        "A\u0163 \u0162arr\u0101nah",
+        "A\u1e6d-\u1e6carr\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359700
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c9854c4eb3a034c1214a075b6da366a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019405,
+            "locality_id":1310001735,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310001735,
+    "wof:lastmodified":1537620846,
+    "wof:name":"At Tarranah",
+    "wof:parent_id":1092019405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83722,
+    30.43518,
+    30.83722,
+    30.43518
+],
+  "geometry": {"coordinates":[30.83722,30.43518],"type":"Point"}
+}

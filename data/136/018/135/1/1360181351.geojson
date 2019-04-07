@@ -1,0 +1,72 @@
+{
+  "id": 1360181351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96018,30.55614,30.96018,30.55614",
+    "geom:latitude":30.55614,
+    "geom:longitude":30.96018,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Minshat ash Sharikayn",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352419,
+    "gn:latitude":30.55614,
+    "gn:longitude":30.96018,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Minsh\u0101t ash Shar\u012bkayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minsh\u00e2t esh-Shar\u00eekein",
+        "Minsh\u00e2t el-Sharikein",
+        "Minsh\u0101t ash Shar\u012bkayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092024543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352419
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e5e37a2d4bd4d492e4645a75646b13fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024543,
+            "locality_id":1360181351,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1360181351,
+    "wof:lastmodified":1537620653,
+    "wof:name":"Minshat ash Sharikayn",
+    "wof:parent_id":1092024543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96018,
+    30.55614000000001,
+    30.96018,
+    30.55614000000001
+],
+  "geometry": {"coordinates":[30.96018,30.55614000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259696685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88563,24.90652,32.88563,24.90652",
+    "geom:latitude":24.90652,
+    "geom:longitude":32.88563,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ar Radisiyah Qibli",
+    "gn:country_code":"EG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360159,
+    "gn:latitude":24.90652,
+    "gn:longitude":32.88563,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Rad\u012bs\u012byah Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Rid\u00ees\u00eeya Qibli",
+        "Ar Rid\u012bs\u012byah Qibl\u012b",
+        "Redesia",
+        "Ar Rads\u012byah Qibl\u012b",
+        "Er Ridis\u012bya Qibli",
+        "Ar Rad\u012bs\u012byah Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360159
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c53472a80215f2ecdf6eada82d794f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016437,
+            "locality_id":1259696685,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1259696685,
+    "wof:lastmodified":1537620870,
+    "wof:name":"Ar Radisiyah Qibli",
+    "wof:parent_id":1092016437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88563,
+    24.90652,
+    32.88563,
+    24.90652
+],
+  "geometry": {"coordinates":[32.88563,24.90652],"type":"Point"}
+}

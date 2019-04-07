@@ -1,0 +1,72 @@
+{
+  "id": 1293658125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.49861,29.62438,26.49861,29.62438",
+    "geom:latitude":29.62438,
+    "geom:longitude":26.49861,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Qarah",
+    "gn:country_code":"EG",
+    "gn:dem":-36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350762,
+    "gn:latitude":29.62438,
+    "gn:longitude":26.49861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Q\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gara",
+        "Qara",
+        "Q\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092022115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350762
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c1e0c17e00f191c25fc58c2f8b234867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022115,
+            "locality_id":1293658125,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1293658125,
+    "wof:lastmodified":1537620598,
+    "wof:name":"Qarah",
+    "wof:parent_id":1092022115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.49861,
+    29.62438,
+    26.49861,
+    29.62438
+],
+  "geometry": {"coordinates":[26.49861,29.62438],"type":"Point"}
+}

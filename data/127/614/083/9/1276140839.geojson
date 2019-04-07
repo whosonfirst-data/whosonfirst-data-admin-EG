@@ -1,0 +1,71 @@
+{
+  "id": 1276140839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.89802,30.57088,30.89802,30.57088",
+    "geom:latitude":30.57088,
+    "geom:longitude":30.89802,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Ashma",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360049,
+    "gn:latitude":30.57088,
+    "gn:longitude":30.89802,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Ashm\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ashma",
+        "\u2018Ashm\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092019949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360049
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c7f9871493630c41310bea14dfb62d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019949,
+            "locality_id":1276140839,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1276140839,
+    "wof:lastmodified":1537620864,
+    "wof:name":"`Ashma",
+    "wof:parent_id":1092019949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89802,
+    30.57088,
+    30.89802,
+    30.57088
+],
+  "geometry": {"coordinates":[30.89802,30.57088],"type":"Point"}
+}

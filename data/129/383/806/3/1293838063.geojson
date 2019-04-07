@@ -1,0 +1,67 @@
+{
+  "id": 1293838063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.14865,30.42662,33.14865,30.42662",
+    "geom:latitude":30.42662,
+    "geom:longitude":33.14865,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Al Mulayz",
+    "gn:country_code":"EG",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449789,
+    "gn:latitude":30.42662,
+    "gn:longitude":33.14865,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Al Mulayz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092018041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449789
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"39ee22fbf20b9fdb10c9e469f24b8342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018041,
+            "locality_id":1293838063,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1293838063,
+    "wof:lastmodified":1536779452,
+    "wof:name":"Al Mulayz",
+    "wof:parent_id":1092018041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.14865,
+    30.42662,
+    33.14865,
+    30.42662
+],
+  "geometry": {"coordinates":[33.14865,30.42662],"type":"Point"}
+}

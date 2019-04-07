@@ -1,0 +1,74 @@
+{
+  "id": 1225852577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.50838,31.04678,30.50838,31.04678",
+    "geom:latitude":31.04678,
+    "geom:longitude":30.50838,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kawm adh Dhibdiyah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8715695,
+    "gn:latitude":31.04678,
+    "gn:longitude":30.50838,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Kawm adh Dhibd\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645 \u0627\u0644\u0630\u0628\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kawm adh Dhibd\u012byah",
+        "Kawm az-Zibdiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092015921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8715695
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d54967daacce1d3f3a5411c6734d6b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015921,
+            "locality_id":1225852577,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1225852577,
+    "wof:lastmodified":1537621219,
+    "wof:name":"Kawm adh Dhibdiyah",
+    "wof:parent_id":1092015921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.50838,
+    31.04678,
+    30.50838,
+    31.04678
+],
+  "geometry": {"coordinates":[30.50838,31.04678],"type":"Point"}
+}

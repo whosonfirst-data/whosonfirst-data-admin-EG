@@ -1,0 +1,77 @@
+{
+  "id": 1243568557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30416,31.08158,31.30416,31.08158",
+    "geom:latitude":31.08158,
+    "geom:longitude":31.30416,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr al Junaynah al Bahri",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354616,
+    "gn:latitude":31.08158,
+    "gn:longitude":31.30416,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Kafr al Junaynah al Ba\u1e29r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u062c\u0646\u064a\u0646\u0629 \u0627\u0644\u0628\u062d\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Gineina el-Ba\u1e25ari",
+        "Kafr al Junaynah al Ba\u1e29r\u012b",
+        "Kafr al-Jinaynah al Ba\u1e25ar\u012b",
+        "Kafr al Jinaynah al Ba\u1e29ar\u012b",
+        "Kafr al-Jinaynah al-Ba\u1e25ar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354616
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d0453b98d3a7e164bc9117d4445ca713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1243568557,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1243568557,
+    "wof:lastmodified":1537620729,
+    "wof:name":"Kafr al Junaynah al Bahri",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30416,
+    31.08158,
+    31.30416,
+    31.08158
+],
+  "geometry": {"coordinates":[31.30416,31.08158],"type":"Point"}
+}

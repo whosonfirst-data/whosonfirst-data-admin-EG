@@ -1,0 +1,72 @@
+{
+  "id": 1259953745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.64139,30.68694,31.64139,30.68694",
+    "geom:latitude":30.68694,
+    "geom:longitude":31.64139,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr ash Shawbaki al Jadid",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354505,
+    "gn:latitude":30.68694,
+    "gn:longitude":31.64139,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Kafr ash Shawbak\u012b al Jad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Shub\u00e2ki el-Ged\u00eed",
+        "Kafr ash Shawbak\u012b al Jad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354505
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bfc19bb3f7a89200fd990eb93b0675e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1259953745,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259953745,
+    "wof:lastmodified":1537620719,
+    "wof:name":"Kafr ash Shawbaki al Jadid",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.64139,
+    30.68694,
+    31.64139,
+    30.68694
+],
+  "geometry": {"coordinates":[31.64139,30.68694],"type":"Point"}
+}

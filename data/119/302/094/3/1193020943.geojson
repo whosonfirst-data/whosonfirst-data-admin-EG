@@ -1,0 +1,74 @@
+{
+  "id": 1193020943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12317,30.69472,31.12317,30.69472",
+    "geom:latitude":30.69472,
+    "geom:longitude":31.12317,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al Badnijaniyah",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361476,
+    "gn:latitude":30.69472,
+    "gn:longitude":31.12317,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Al Badnij\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062f\u0646\u062c\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Biding\u00e2n\u00eeya",
+        "Al Badnij\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361476
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8b98d882d08a7540a4b63c9de1949448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1193020943,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1193020943,
+    "wof:lastmodified":1537620938,
+    "wof:name":"Al Badnijaniyah",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12317,
+    30.69472,
+    31.12317,
+    30.69472
+],
+  "geometry": {"coordinates":[31.12317,30.69472],"type":"Point"}
+}

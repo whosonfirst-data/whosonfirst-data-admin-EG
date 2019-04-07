@@ -1,0 +1,136 @@
+{
+  "id": 1125967975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61624,22.3457,31.61624,22.3457",
+    "geom:latitude":22.3457,
+    "geom:longitude":31.61624,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5000,
+    "gn:population":5000,
+    "iso:country":"EG",
+    "lbl:latitude":22.3457,
+    "lbl:longitude":31.61624,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0633\u0645\u0628\u0644"
+    ],
+    "name:dut_x_preferred":[
+        "Aboe Simbel"
+    ],
+    "name:eng_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:epo_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:est_x_preferred":[
+        "Ab\u016b Sunbul"
+    ],
+    "name:fra_x_preferred":[
+        "Abou Simbel"
+    ],
+    "name:fre_x_preferred":[
+        "Abou Simbel"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d1\u10e3-\u10e1\u10d8\u10db\u10d1\u10d0\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05d5 \u05e1\u05d9\u05de\u05d1\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Abu Szimbel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d6\u30fb\u30b7\u30f3\u30d9\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Sunbul"
+    ],
+    "name:por_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443-\u0421\u0438\u043c\u0431\u0435\u043b"
+    ],
+    "name:slo_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:spa_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:swe_x_preferred":[
+        "Abu Simbel"
+    ],
+    "name:unk_x_variant":[
+        "Abu Sinbil"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":362041,
+    "qs_pg:gn_pop":5000,
+    "qs_pg:name":"Ab\u016b Sunbul",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":435501,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092022915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362041,
+        "qs_pg:id":435501,
+        "wd:id":"Q6655437"
+    },
+    "wof:country":"EG",
+    "wof:created":1497298048,
+    "wof:geomhash":"6bd1ebe491c8ffd61fef035ae0025906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022915,
+            "locality_id":1125967975,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1125967975,
+    "wof:lastmodified":1513956588,
+    "wof:name":"Ab\u016b Sunbul",
+    "wof:parent_id":1092022915,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61624,
+    22.3457,
+    31.61624,
+    22.3457
+],
+  "geometry": {"coordinates":[31.61624,22.3457],"type":"Point"}
+}

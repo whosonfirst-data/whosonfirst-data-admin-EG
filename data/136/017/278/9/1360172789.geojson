@@ -1,0 +1,73 @@
+{
+  "id": 1360172789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25,29.96667,31.25,29.96667",
+    "geom:latitude":29.96667,
+    "geom:longitude":31.25,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Ma`adi",
+    "gn:country_code":"EG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360844,
+    "gn:latitude":29.96667,
+    "gn:longitude":31.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ma\u2018\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ma\u2018\u0101di",
+        "Meadi",
+        "Ma\u2018adi",
+        "Al Ma\u2018\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092018203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360844
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"18b4b73059db2d10176aae5a17844757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018203,
+            "locality_id":1360172789,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1360172789,
+    "wof:lastmodified":1537620900,
+    "wof:name":"Al Ma`adi",
+    "wof:parent_id":1092018203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25,
+    29.96667,
+    31.25,
+    29.96667
+],
+  "geometry": {"coordinates":[31.25,29.96667],"type":"Point"}
+}

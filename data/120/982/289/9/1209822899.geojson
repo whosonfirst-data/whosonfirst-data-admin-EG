@@ -1,0 +1,75 @@
+{
+  "id": 1209822899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.39121,31.01083,30.39121,31.01083",
+    "geom:latitude":31.01083,
+    "geom:longitude":30.39121,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"As Safasif",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359902,
+    "gn:latitude":31.01083,
+    "gn:longitude":30.39121,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"A\u015f \u015eaf\u0101\u015f\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0627\u0635\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e62af\u00e2\u1e63\u00eef",
+        "A\u015f \u015eaf\u0101\u015f\u012bf",
+        "A\u1e63-\u1e62af\u0101\u1e63\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092015921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359902
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f16686c5c20fd0fb602cda6e9aa3ac1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015921,
+            "locality_id":1209822899,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1209822899,
+    "wof:lastmodified":1537620856,
+    "wof:name":"As Safasif",
+    "wof:parent_id":1092015921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.39121,
+    31.01083,
+    30.39121,
+    31.01083
+],
+  "geometry": {"coordinates":[30.39121,31.01083],"type":"Point"}
+}

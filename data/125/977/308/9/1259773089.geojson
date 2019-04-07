@@ -1,0 +1,74 @@
+{
+  "id": 1259773089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94689,30.48312,30.94689,30.48312",
+    "geom:latitude":30.48312,
+    "geom:longitude":30.94689,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Izbat Mansur al Wasimi",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545520,
+    "gn:latitude":30.48312,
+    "gn:longitude":30.94689,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Man\u015f\u016br al Was\u012bm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u0646\u0635\u0648\u0631 \u0627\u0644\u0648\u0633\u064a\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Man\u015f\u016br al Was\u012bm\u012b",
+        "\u2018Izbat Man\u1e63\u016br al-Wis\u012bm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092022369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545520
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9cf9ac0c56f02a174c33429748502c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022369,
+            "locality_id":1259773089,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1259773089,
+    "wof:lastmodified":1537621260,
+    "wof:name":"`Izbat Mansur al Wasimi",
+    "wof:parent_id":1092022369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94689,
+    30.48312,
+    30.94689,
+    30.48312
+],
+  "geometry": {"coordinates":[30.94689,30.48312],"type":"Point"}
+}

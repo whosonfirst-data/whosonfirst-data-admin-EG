@@ -1,0 +1,76 @@
+{
+  "id": 1225995553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.60661,25.71046,32.60661,25.71046",
+    "geom:latitude":25.71046,
+    "geom:longitude":32.60661,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Al Ba`irat",
+    "gn:country_code":"EG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361462,
+    "gn:latitude":25.71046,
+    "gn:longitude":32.60661,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Al Ba\u2018\u012br\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0639\u064a\u0631\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "El Bi\u2018\u00eer\u00e2t",
+        "El-Ba\u2018\u00eer\u00e2t",
+        "Al Ba\u2018\u012br\u0101t",
+        "Al-Bi\u2018\u012br\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671097,
+        1092018839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361462
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2bbd1810c138cf24cbd3bb522d451a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018839,
+            "locality_id":1225995553,
+            "region_id":85671097
+        }
+    ],
+    "wof:id":1225995553,
+    "wof:lastmodified":1537620937,
+    "wof:name":"Al Ba`irat",
+    "wof:parent_id":1092018839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.60661,
+    25.71046,
+    32.60661,
+    25.71046
+],
+  "geometry": {"coordinates":[32.60661,25.71046],"type":"Point"}
+}

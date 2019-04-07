@@ -1,0 +1,72 @@
+{
+  "id": 1343479245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,28.15,30.75,28.15",
+    "geom:latitude":28.15,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nazlat Faraj Allah Matta",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351136,
+    "gn:latitude":28.15,
+    "gn:longitude":30.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat Faraj All\u0101h Matt\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet Faragalla Matta",
+        "Nazlat Faraj All\u0101h Matt\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092018557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351136
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fc18b43c3dd0140fc3ad884b89c76088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018557,
+            "locality_id":1343479245,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1343479245,
+    "wof:lastmodified":1537620609,
+    "wof:name":"Nazlat Faraj Allah Matta",
+    "wof:parent_id":1092018557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    28.15,
+    30.75,
+    28.15
+],
+  "geometry": {"coordinates":[30.75,28.15],"type":"Point"}
+}

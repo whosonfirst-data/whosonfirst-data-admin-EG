@@ -1,0 +1,75 @@
+{
+  "id": 1209723035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37833,31.10916,30.37833,31.10916",
+    "geom:latitude":31.10916,
+    "geom:longitude":30.37833,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Banna",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":356335,
+    "gn:latitude":31.10916,
+    "gn:longitude":30.37833,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u2018Izbat al Bann\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Y\u00fbsef el-Banna",
+        "\u2018Izbat al \u1e28\u0101jj Y\u016bsuf al Bann\u0101\u2019",
+        "\u2018Izbat al Bann\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356335
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"48d0f2505c3f64409738d2067da9c1ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1209723035,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1209723035,
+    "wof:lastmodified":1537620778,
+    "wof:name":"`Izbat al Banna",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37833,
+    31.10916,
+    30.37833,
+    31.10916
+],
+  "geometry": {"coordinates":[30.37833,31.10916],"type":"Point"}
+}

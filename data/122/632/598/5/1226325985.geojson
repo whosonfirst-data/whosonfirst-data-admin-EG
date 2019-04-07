@@ -1,0 +1,71 @@
+{
+  "id": 1226325985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78333,30.66667,31.78333,30.66667",
+    "geom:latitude":30.66667,
+    "geom:longitude":31.78333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Abu Dhi'ab",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354842,
+    "gn:latitude":30.66667,
+    "gn:longitude":31.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ab\u016b Dhi\u2019\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Abu D\u00eey\u00e2b",
+        "Kafr Ab\u016b Dhi\u2019\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354842
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0ca38b988b9f126a0fea53825a9a9d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1226325985,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226325985,
+    "wof:lastmodified":1537620749,
+    "wof:name":"Kafr Abu Dhi'ab",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78333,
+    30.66667,
+    31.78333,
+    30.66667
+],
+  "geometry": {"coordinates":[31.78333,30.66667],"type":"Point"}
+}

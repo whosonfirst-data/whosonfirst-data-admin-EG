@@ -1,0 +1,72 @@
+{
+  "id": 1326493365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.89478,28.78732,30.89478,28.78732",
+    "geom:latitude":28.78732,
+    "geom:longitude":30.89478,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Quddabi",
+    "gn:country_code":"EG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360632,
+    "gn:latitude":28.78732,
+    "gn:longitude":30.89478,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qu\u1e11\u1e11\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Qudd\u00e2bi",
+        "Al Qa\u1e11\u1e11\u0101b\u012b",
+        "Al Qu\u1e11\u1e11\u0101b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092017627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360632
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f15e2d8377dc340d16577464a79de3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017627,
+            "locality_id":1326493365,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1326493365,
+    "wof:lastmodified":1537620888,
+    "wof:name":"Al Quddabi",
+    "wof:parent_id":1092017627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89478,
+    28.78732,
+    30.89478,
+    28.78732
+],
+  "geometry": {"coordinates":[30.89478,28.78732],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243524203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94333,24.44618,32.94333,24.44618",
+    "geom:latitude":24.44618,
+    "geom:longitude":32.94333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Naj` ash Shatb al Kabir",
+    "gn:country_code":"EG",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351448,
+    "gn:latitude":24.44618,
+    "gn:longitude":32.94333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 ash Sha\u0163b al Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Shalb el Kebir",
+        "Nag\u2018 el-Sha\u1e6db el-Keb\u00eer",
+        "Naj\u2018 ash Sha\u0163b al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092021927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351448
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"003e20f90ebd7460dc7e91f8037532bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021927,
+            "locality_id":1243524203,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1243524203,
+    "wof:lastmodified":1537620622,
+    "wof:name":"Naj` ash Shatb al Kabir",
+    "wof:parent_id":1092021927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94333,
+    24.44618,
+    32.94333,
+    24.44618
+],
+  "geometry": {"coordinates":[32.94333,24.44618],"type":"Point"}
+}

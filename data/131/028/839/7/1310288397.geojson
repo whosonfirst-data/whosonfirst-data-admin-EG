@@ -1,0 +1,72 @@
+{
+  "id": 1310288397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0,30.78333,32.0,30.78333",
+    "geom:latitude":30.78333,
+    "geom:longitude":32.0,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr al Wuhushah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354548,
+    "gn:latitude":30.78333,
+    "gn:longitude":32.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Wu\u1e29\u016bshah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Wuh\u00fbsha",
+        "Kafr al Wu\u1e29\u016bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354548
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a373437fb31f3af354e7d34f4e8952c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1310288397,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310288397,
+    "wof:lastmodified":1537620723,
+    "wof:name":"Kafr al Wuhushah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0,
+    30.78333,
+    32.0,
+    30.78333
+],
+  "geometry": {"coordinates":[32.0,30.78333],"type":"Point"}
+}

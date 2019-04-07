@@ -1,0 +1,67 @@
+{
+  "id": 1310205391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80798,29.25446,30.80798,29.25446",
+    "geom:latitude":29.25446,
+    "geom:longitude":30.80798,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Abu Sir Difinnu",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362064,
+    "gn:latitude":29.25446,
+    "gn:longitude":30.80798,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Ab\u016b \u015e\u012br Difinn\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362064
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"166c50e2ad4b41738139be07cee074ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1310205391,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1310205391,
+    "wof:lastmodified":1536851325,
+    "wof:name":"Abu Sir Difinnu",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80798,
+    29.25446,
+    30.80798,
+    29.25446
+],
+  "geometry": {"coordinates":[30.80798,29.25446],"type":"Point"}
+}

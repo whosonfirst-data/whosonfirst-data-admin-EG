@@ -1,0 +1,71 @@
+{
+  "id": 1243247887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96154,30.56418,30.96154,30.56418",
+    "geom:latitude":30.56418,
+    "geom:longitude":30.96154,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tukh al Baraghitah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347230,
+    "gn:latitude":30.56418,
+    "gn:longitude":30.96154,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162\u016bkh al Bar\u0101ghitah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00fbkh el-Bar\u00e2ghta",
+        "\u0162\u016bkh al Bar\u0101ghitah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092024543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347230
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"19ed8ccf1af9afcfb2919bab9c93cbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024543,
+            "locality_id":1243247887,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1243247887,
+    "wof:lastmodified":1537620556,
+    "wof:name":"Tukh al Baraghitah",
+    "wof:parent_id":1092024543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96154000000001,
+    30.56418,
+    30.96154000000001,
+    30.56418
+],
+  "geometry": {"coordinates":[30.96154000000001,30.56418],"type":"Point"}
+}

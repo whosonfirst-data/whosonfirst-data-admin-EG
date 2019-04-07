@@ -1,0 +1,72 @@
+{
+  "id": 1344128375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74998,27.52726,30.74998,27.52726",
+    "geom:latitude":27.52726,
+    "geom:longitude":30.74998,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kawdiyat al Islam",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353450,
+    "gn:latitude":27.52726,
+    "gn:longitude":30.74998,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawdiyat al Isl\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kudyet el Isl\u00e2m",
+        "Kudyat al Isl\u0101m",
+        "Kawdiyat al Isl\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092015987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353450
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"31d0eabe7e6e3e5d4db24187a3350d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015987,
+            "locality_id":1344128375,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1344128375,
+    "wof:lastmodified":1537620671,
+    "wof:name":"Kawdiyat al Islam",
+    "wof:parent_id":1092015987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74998,
+    27.52726,
+    30.74998,
+    27.52726
+],
+  "geometry": {"coordinates":[30.74998,27.52726],"type":"Point"}
+}

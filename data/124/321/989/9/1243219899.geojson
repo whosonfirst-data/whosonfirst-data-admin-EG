@@ -1,0 +1,72 @@
+{
+  "id": 1243219899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73373,25.87991,32.73373,25.87991",
+    "geom:latitude":25.87991,
+    "geom:longitude":32.73373,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Jazirat Mutayrah",
+    "gn:country_code":"EG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355090,
+    "gn:latitude":25.87991,
+    "gn:longitude":32.73373,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaz\u012brat Mu\u0163ayrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gez\u00eeret Mi\u1e6deira",
+        "Gez\u00eeret Ni\u1e6deira",
+        "Jaz\u012brat Mu\u0163ayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092023581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355090
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0a11ab28381b8ff6bc69ca26e8da356b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023581,
+            "locality_id":1243219899,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1243219899,
+    "wof:lastmodified":1537620754,
+    "wof:name":"Jazirat Mutayrah",
+    "wof:parent_id":1092023581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73373,
+    25.87991,
+    32.73373,
+    25.87991
+],
+  "geometry": {"coordinates":[32.73373,25.87991],"type":"Point"}
+}

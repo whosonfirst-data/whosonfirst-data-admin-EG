@@ -1,0 +1,71 @@
+{
+  "id": 1344127909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5175,30.58472,31.5175,30.58472",
+    "geom:latitude":30.58472,
+    "geom:longitude":31.5175,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr `Abd al `Aziz",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354873,
+    "gn:latitude":30.58472,
+    "gn:longitude":31.5175,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u2018Abd al \u2018Az\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr \u2018Abd el-\u2018Az\u00eez",
+        "Kafr \u2018Abd al \u2018Az\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354873
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8877c83ca8fe039e733a40a5e054081c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1344127909,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1344127909,
+    "wof:lastmodified":1537620751,
+    "wof:name":"Kafr `Abd al `Aziz",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5175,
+    30.58472,
+    31.5175,
+    30.58472
+],
+  "geometry": {"coordinates":[31.5175,30.58472],"type":"Point"}
+}

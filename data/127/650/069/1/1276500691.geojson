@@ -1,0 +1,75 @@
+{
+  "id": 1276500691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2281,31.05454,33.2281,31.05454",
+    "geom:latitude":31.05454,
+    "geom:longitude":33.2281,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Qaryat at Tulul",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410169,
+    "gn:latitude":31.05454,
+    "gn:longitude":33.2281,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Qaryat at Tul\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u062a\u0644\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Qaryat el- Til\u00fbl",
+        "Qaryat at Til\u016bl",
+        "Qaryat at Tul\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092015521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410169
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"878015c2e5630177cadc24406585c466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015521,
+            "locality_id":1276500691,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1276500691,
+    "wof:lastmodified":1537620968,
+    "wof:name":"Qaryat at Tulul",
+    "wof:parent_id":1092015521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2281,
+    31.05454000000001,
+    33.2281,
+    31.05454000000001
+],
+  "geometry": {"coordinates":[33.2281,31.05454000000001],"type":"Point"}
+}

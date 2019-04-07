@@ -1,0 +1,72 @@
+{
+  "id": 1226244607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.58333,31.1,30.58333,31.1",
+    "geom:latitude":31.1,
+    "geom:longitude":30.58333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nizarat al Minya",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351006,
+    "gn:latitude":31.1,
+    "gn:longitude":30.58333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Niz\u0327\u0101rat al Miny\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ni\u1e95\u00e2ret el Minya",
+        "Niz\u0327\u0101rat al Miny\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351006
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1fbb9df1d38bcf27e73d9cba3e04b14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019273,
+            "locality_id":1226244607,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226244607,
+    "wof:lastmodified":1537620603,
+    "wof:name":"Nizarat al Minya",
+    "wof:parent_id":1092019273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.58333,
+    31.1,
+    30.58333,
+    31.1
+],
+  "geometry": {"coordinates":[30.58333,31.1],"type":"Point"}
+}

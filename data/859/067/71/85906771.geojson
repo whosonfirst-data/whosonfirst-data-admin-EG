@@ -1,0 +1,112 @@
+{
+  "id": 85906771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8661796.401489,
+    "geom:bbox":"29.953976,31.214781,29.953976,31.214781",
+    "geom:latitude":31.214781,
+    "geom:longitude":29.953976,
+    "gn:id":"",
+    "iso:country":"EG",
+    "lbl:latitude":31.214781,
+    "lbl:longitude":29.953976,
+    "mps:latitude":31.204441,
+    "mps:longitude":29.953494,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u062c\u0627\u0628\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Sidi Gaber District"
+    ],
+    "name:unk_x_variant":[
+        "Sidi Gaber District"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":1580,
+    "qs:local_sum":9759,
+    "qs:localhoods":18,
+    "qs:name":"Sidi Gaber District",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:name_local":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:photo_max":533,
+    "qs:photo_sum":1556,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":24,
+    "qs:woe_adm0":23424802,
+    "qs:woe_adm1":2345228,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1522006,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wk:latitude":31.2212,
+    "wk:longitude":29.9381,
+    "wk:wordcount":185,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        1092024943,
+        85671041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724292,
+        "qs:id":1187497,
+        "qs_pg:id":1187497,
+        "wd:id":"Q2169497"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"114de1ab830450a411f472c556e79b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024943,
+            "locality_id":-1,
+            "neighbourhood_id":85906771,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":85906771,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936436,
+    "wof:name":"Sidi Gaber District",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.953976,
+    31.214781,
+    29.953976,
+    31.214781
+],
+  "geometry": {"coordinates":[29.953976,31.214781],"type":"Point"}
+}

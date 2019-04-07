@@ -1,0 +1,65 @@
+{
+  "id": 890422919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.39997,25.79039,27.39997,25.79039",
+    "geom:latitude":25.79039,
+    "geom:longitude":27.39997,
+    "gn:country":"EG",
+    "gn:fcode":"FRM",
+    "gn:pop":15,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Malatshwene",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6941016,
+        "qs:id":653099
+    },
+    "wof:country":"EG",
+    "wof:created":1469051471,
+    "wof:geomhash":"1a48033e6f5b861e707cbf7709b23aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020201,
+            "locality_id":890422919,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":890422919,
+    "wof:lastmodified":1505343472,
+    "wof:name":"Malatshwene",
+    "wof:parent_id":1092020201,
+    "wof:placetype":"locality",
+    "wof:population":15,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.39997,
+    25.79039,
+    27.39997,
+    25.79039
+],
+  "geometry": {"coordinates":[27.39997,25.79039],"type":"Point"}
+}

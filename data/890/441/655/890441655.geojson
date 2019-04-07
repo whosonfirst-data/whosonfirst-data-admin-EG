@@ -1,0 +1,94 @@
+{
+  "id": 890441655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12733,29.14816,31.12733,29.14816",
+    "geom:latitude":29.14816,
+    "geom:longitude":31.12733,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":86608,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0635\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Nasser"
+    ],
+    "name:eng_x_preferred":[
+        "Nasser"
+    ],
+    "name:fre_x_preferred":[
+        "Nasser"
+    ],
+    "name:ger_x_preferred":[
+        "Nasir"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u0635\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Nasir"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0441\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "B\u016bsh"
+    ],
+    "qs:name":"B\u016bsh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092022779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358600,
+        "gp:id":1522760,
+        "qs:id":124306,
+        "wd:id":"Q63233"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052332,
+    "wof:geomhash":"1bfef6097b690e2573020e846509baf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022779,
+            "locality_id":890441655,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":890441655,
+    "wof:lastmodified":1553816399,
+    "wof:name":"B\u016bsh",
+    "wof:parent_id":1092022779,
+    "wof:placetype":"locality",
+    "wof:population":86608,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12733,
+    29.14816,
+    31.12733,
+    29.14816
+],
+  "geometry": {"coordinates":[31.12733,29.14816],"type":"Point"}
+}

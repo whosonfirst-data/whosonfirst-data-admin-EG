@@ -1,0 +1,74 @@
+{
+  "id": 1310407487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21393,31.07405,30.21393,31.07405",
+    "geom:latitude":31.07405,
+    "geom:longitude":30.21393,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Balaqtar",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359320,
+    "gn:latitude":31.07405,
+    "gn:longitude":30.21393,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Balaq\u0163ar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0642\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "Balaq\u0163ar",
+        "Balaq\u1e6dar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359320
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8e6cd6f5a763c084b20266c61ef33170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1310407487,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310407487,
+    "wof:lastmodified":1537620836,
+    "wof:name":"Balaqtar",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21393,
+    31.07405,
+    30.21393,
+    31.07405
+],
+  "geometry": {"coordinates":[30.21393,31.07405],"type":"Point"}
+}

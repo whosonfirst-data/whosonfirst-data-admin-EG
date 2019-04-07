@@ -1,0 +1,73 @@
+{
+  "id": 1292902613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15061,30.70328,31.15061,30.70328",
+    "geom:latitude":30.70328,
+    "geom:longitude":31.15061,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Ahmad as Safta",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199886,
+    "gn:latitude":30.70328,
+    "gn:longitude":31.15061,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"\u2018Izbat A\u1e29mad a\u015f \u015eaft\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u062d\u0645\u062f \u0627\u0644\u0635\u0641\u062a\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat A\u1e29mad a\u015f \u015eaft\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199886
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2eeb9fb8851fac15ff2ebe19f8c1fec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1292902613,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1292902613,
+    "wof:lastmodified":1537621186,
+    "wof:name":"`Izbat Ahmad as Safta",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15061,
+    30.70328,
+    31.15061,
+    30.70328
+],
+  "geometry": {"coordinates":[31.15061,30.70328],"type":"Point"}
+}

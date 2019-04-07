@@ -1,0 +1,71 @@
+{
+  "id": 1343336883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.02722,31.17694,32.02722,31.17694",
+    "geom:latitude":31.17694,
+    "geom:longitude":32.02722,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Ghusnah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361273,
+    "gn:latitude":31.17694,
+    "gn:longitude":32.02722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ghu\u015fnah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Gha\u1e63na",
+        "Al Ghu\u015fnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361273
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9253d0e114413bccaae7514fb2523b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018479,
+            "locality_id":1343336883,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343336883,
+    "wof:lastmodified":1537620926,
+    "wof:name":"Al Ghusnah",
+    "wof:parent_id":1092018479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.02722,
+    31.17694,
+    32.02722,
+    31.17694
+],
+  "geometry": {"coordinates":[32.02722,31.17694],"type":"Point"}
+}

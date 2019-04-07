@@ -1,0 +1,74 @@
+{
+  "id": 1344171157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71846,31.04129,31.71846,31.04129",
+    "geom:latitude":31.04129,
+    "geom:longitude":31.71846,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Na`im `Ali Hindi",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419693,
+    "gn:latitude":31.04129,
+    "gn:longitude":31.71846,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"\u2018Izbat Na\u2018\u012bm \u2018Al\u012b Hind\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0646\u0639\u064a\u0645 \u0639\u0644\u064a \u0647\u0646\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Na\u2018\u012bm \u2018Al\u012b Hind\u012b",
+        "\u2018Iz. Na\u2018\u012bm \u2018Al\u012b Hind\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092016227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419693
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"62414af7948b72971b957f88e0c57e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016227,
+            "locality_id":1344171157,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1344171157,
+    "wof:lastmodified":1537621055,
+    "wof:name":"`Izbat Na`im `Ali Hindi",
+    "wof:parent_id":1092016227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71846,
+    31.04129,
+    31.71846,
+    31.04129
+],
+  "geometry": {"coordinates":[31.71846,31.04129],"type":"Point"}
+}

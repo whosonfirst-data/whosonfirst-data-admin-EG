@@ -1,0 +1,72 @@
+{
+  "id": 1343233003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47383,30.79382,31.47383,30.79382",
+    "geom:latitude":30.79382,
+    "geom:longitude":31.47383,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat `Atwah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420667,
+    "gn:latitude":30.79382,
+    "gn:longitude":31.47383,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"\u2018Izbat \u2018A\u0163wah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Izbat \u2018A\u0163wah",
+        "\u0639\u0632\u0628\u0629 \u0639\u0637\u0648\u0629",
+        "\u2018Iz. \u2018A\u1e6dwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420667
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b4b7d555d52a9a9abeff9198a92aaa70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1343233003,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343233003,
+    "wof:lastmodified":1537621084,
+    "wof:name":"`Izbat `Atwah",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47383,
+    30.79382,
+    31.47383,
+    30.79382
+],
+  "geometry": {"coordinates":[31.47383,30.79382],"type":"Point"}
+}

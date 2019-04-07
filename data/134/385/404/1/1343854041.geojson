@@ -1,0 +1,74 @@
+{
+  "id": 1343854041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83708,30.3989,30.83708,30.3989",
+    "geom:latitude":30.3989,
+    "geom:longitude":30.83708,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Ikhmas",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361087,
+    "gn:latitude":30.3989,
+    "gn:longitude":30.83708,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al Ikhm\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0625\u062e\u0645\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "El-Ikhm\u00e2s",
+        "Al Ikhm\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361087
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0e14e9fd183da18fdbd6f1200a848552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019405,
+            "locality_id":1343854041,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343854041,
+    "wof:lastmodified":1537620914,
+    "wof:name":"Al Ikhmas",
+    "wof:parent_id":1092019405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83708,
+    30.3989,
+    30.83708,
+    30.3989
+],
+  "geometry": {"coordinates":[30.83708,30.3989],"type":"Point"}
+}

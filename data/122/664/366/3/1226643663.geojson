@@ -1,0 +1,73 @@
+{
+  "id": 1226643663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8968,31.00497,29.8968,31.00497",
+    "geom:latitude":31.00497,
+    "geom:longitude":29.8968,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qaryat al Waqqad",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415516,
+    "gn:latitude":31.00497,
+    "gn:longitude":29.8968,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Qaryat al Waqq\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u0648\u0642\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Waqq\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415516
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fc944eb353700e2a04bfe2f163e9ddca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":1226643663,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1226643663,
+    "wof:lastmodified":1537620984,
+    "wof:name":"Qaryat al Waqqad",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8968,
+    31.00497,
+    29.8968,
+    31.00497
+],
+  "geometry": {"coordinates":[29.8968,31.00497],"type":"Point"}
+}

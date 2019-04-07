@@ -1,0 +1,73 @@
+{
+  "id": 1327438843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67456,30.77517,30.67456,30.77517",
+    "geom:latitude":30.77517,
+    "geom:longitude":30.67456,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Biban",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358868,
+    "gn:latitude":30.77517,
+    "gn:longitude":30.67456,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"B\u012bb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0628\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u012bb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358868
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2ef4ba4b5e0c4295e4b35f97bcb1b74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1327438843,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327438843,
+    "wof:lastmodified":1537620823,
+    "wof:name":"Biban",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67456,
+    30.77517000000001,
+    30.67456,
+    30.77517000000001
+],
+  "geometry": {"coordinates":[30.67456,30.77517000000001],"type":"Point"}
+}

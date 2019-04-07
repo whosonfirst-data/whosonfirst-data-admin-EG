@@ -1,0 +1,67 @@
+{
+  "id": 1360261321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76667,27.6,30.76667,27.6",
+    "geom:latitude":27.6,
+    "geom:longitude":30.76667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sirqina",
+    "gn:country_code":"EG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347888,
+    "gn:latitude":27.6,
+    "gn:longitude":30.76667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Sirqin\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347888
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fe52c98be1d08ad9a6fdc96ec0aff144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1360261321,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1360261321,
+    "wof:lastmodified":1536691614,
+    "wof:name":"Sirqina",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76667,
+    27.6,
+    30.76667,
+    27.6
+],
+  "geometry": {"coordinates":[30.76667,27.6],"type":"Point"}
+}

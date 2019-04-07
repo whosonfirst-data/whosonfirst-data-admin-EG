@@ -1,0 +1,76 @@
+{
+  "id": 1210033991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45324,31.29028,31.45324,31.29028",
+    "geom:latitude":31.29028,
+    "geom:longitude":31.45324,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Abu Taha",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362026,
+    "gn:latitude":31.29028,
+    "gn:longitude":31.45324,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Ab\u016b \u0162\u0101h\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0637\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Abu \u1e6caha",
+        "Abu \u1e6caha",
+        "\u2018Izbat Ab\u016b \u0162\u0101h\u0101\u2019",
+        "\u2018Izbat Ab\u016b \u0162\u0101h\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092015611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362026
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"68ef1a42e55635072d5b2cb9f8384b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015611,
+            "locality_id":1210033991,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1210033991,
+    "wof:lastmodified":1537620957,
+    "wof:name":"`Izbat Abu Taha",
+    "wof:parent_id":1092015611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45324,
+    31.29028,
+    31.45324,
+    31.29028
+],
+  "geometry": {"coordinates":[31.45324,31.29028],"type":"Point"}
+}

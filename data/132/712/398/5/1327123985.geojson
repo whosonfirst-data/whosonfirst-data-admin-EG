@@ -1,0 +1,74 @@
+{
+  "id": 1327123985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08166,30.63795,31.08166,30.63795",
+    "geom:latitude":30.63795,
+    "geom:longitude":31.08166,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Diya al Kawm",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358100,
+    "gn:latitude":30.63795,
+    "gn:longitude":31.08166,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Diy\u0101 al Kawm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0627 \u0627\u0644\u0643\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Diya el-K\u00f4m",
+        "Diy\u0101 al Kawm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092015653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358100
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7b56ffbe26203b1bf5b882762c293d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015653,
+            "locality_id":1327123985,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1327123985,
+    "wof:lastmodified":1537620807,
+    "wof:name":"Diya al Kawm",
+    "wof:parent_id":1092015653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08166,
+    30.63795,
+    31.08166,
+    30.63795
+],
+  "geometry": {"coordinates":[31.08166,30.63795],"type":"Point"}
+}

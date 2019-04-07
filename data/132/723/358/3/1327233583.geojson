@@ -1,0 +1,73 @@
+{
+  "id": 1327233583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25974,31.04419,30.25974,31.04419",
+    "geom:latitude":31.04419,
+    "geom:longitude":30.25974,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Abu Shukri",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10337173,
+    "gn:latitude":31.04419,
+    "gn:longitude":30.25974,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u2018Izbat Ab\u016b Shukr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0634\u0643\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b Shukr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10337173
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3c7f5b09ecdfc76f35597b53025a648d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1327233583,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327233583,
+    "wof:lastmodified":1537621237,
+    "wof:name":"`Izbat Abu Shukri",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25974,
+    31.04419,
+    30.25974,
+    31.04419
+],
+  "geometry": {"coordinates":[30.25974,31.04419],"type":"Point"}
+}

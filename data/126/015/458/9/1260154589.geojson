@@ -1,0 +1,79 @@
+{
+  "id": 1260154589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76402,30.68282,31.76402,30.68282",
+    "geom:latitude":30.68282,
+    "geom:longitude":31.76402,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Akhmiyin",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361617,
+    "gn:latitude":30.68282,
+    "gn:longitude":31.76402,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al Akhm\u012by\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Akhm\u012by\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0623\u062e\u0645\u064a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-Akhm\u00eeyi",
+        "El Akhmiy\u012bn",
+        "Al Akhm\u012by\u012bn",
+        "Al-Akhmiyy\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361617
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b9bb69fea4479ea97b89b646731f0c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1260154589,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1260154589,
+    "wof:lastmodified":1537620947,
+    "wof:name":"Al Akhmiyin",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76402,
+    30.68282,
+    31.76402,
+    30.68282
+],
+  "geometry": {"coordinates":[31.76402,30.68282],"type":"Point"}
+}

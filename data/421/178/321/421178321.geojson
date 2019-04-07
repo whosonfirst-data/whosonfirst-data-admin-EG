@@ -1,0 +1,81 @@
+{
+  "id": 421178321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.039024,31.296374,30.039024,31.296374",
+    "geom:latitude":31.296374,
+    "geom:longitude":30.039024,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:gle_x_preferred":[
+        "Al Mamoura"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Al Mamoura",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:photos":113,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":113,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":484997,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":22724296,
+    "src:geom":"quattroshapes",
+    "wd:latitude":25.246389,
+    "wd:longitude":51.478889,
+    "wd:wordcount":150,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092018649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724296,
+        "qs:id":484997
+    },
+    "wof:country":"EG",
+    "wof:created":1459009178,
+    "wof:geomhash":"a56bd6e6d01f7c86b42f56a17868e448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018649,
+            "locality_id":421178321,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":421178321,
+    "wof:lastmodified":1527717729,
+    "wof:name":"Al Mamoura",
+    "wof:parent_id":1092018649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.039024,
+    31.296374,
+    30.039024,
+    31.296374
+],
+  "geometry": {"coordinates":[30.039024,31.296374],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360181267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82056,30.60139,30.82056,30.60139",
+    "geom:latitude":30.60139,
+    "geom:longitude":30.82056,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dinshaway",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358139,
+    "gn:latitude":30.60139,
+    "gn:longitude":30.82056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dinshaw\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Denshawai",
+        "Dinshaw\u00e2i",
+        "Dinshaw\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092019949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358139,
+        "wk:page":"Denshawai"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0ec47d297f40f1b2981749e3c1bb5773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019949,
+            "locality_id":1360181267,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1360181267,
+    "wof:lastmodified":1537620808,
+    "wof:name":"Dinshaway",
+    "wof:parent_id":1092019949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82056,
+    30.60139,
+    30.82056,
+    30.60139
+],
+  "geometry": {"coordinates":[30.82056,30.60139],"type":"Point"}
+}

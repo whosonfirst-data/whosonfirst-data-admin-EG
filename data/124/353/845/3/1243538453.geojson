@@ -1,0 +1,72 @@
+{
+  "id": 1243538453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73287,27.70022,30.73287,27.70022",
+    "geom:latitude":27.70022,
+    "geom:longitude":30.73287,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ash Shaykh Shubaykah",
+    "gn:country_code":"EG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359973,
+    "gn:latitude":27.70022,
+    "gn:longitude":30.73287,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shaykh Shubaykah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sheikh Shibeika",
+        "Esh Sheikh Shibeika",
+        "Ash Shaykh Shubaykah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359973
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fb7cd0514aa5c7df00c44a4e9effdf41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1243538453,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1243538453,
+    "wof:lastmodified":1537620860,
+    "wof:name":"Ash Shaykh Shubaykah",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73287,
+    27.70022,
+    30.73287,
+    27.70022
+],
+  "geometry": {"coordinates":[30.73287,27.70022],"type":"Point"}
+}

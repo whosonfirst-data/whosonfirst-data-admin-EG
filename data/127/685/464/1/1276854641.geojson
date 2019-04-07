@@ -1,0 +1,77 @@
+{
+  "id": 1276854641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60097,30.82844,31.60097,30.82844",
+    "geom:latitude":30.82844,
+    "geom:longitude":31.60097,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Abu ash Shuquq",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362839,
+    "gn:latitude":30.82844,
+    "gn:longitude":31.60097,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b ash Shuq\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0634\u0642\u0648\u0642"
+    ],
+    "name:und_x_variant":[
+        "Abu Shek\u00fbk",
+        "Abu el Sheq\u00fbq",
+        "Abu el-Shuq\u00fbq",
+        "Abu esh Shuq\u016bq",
+        "Ab\u016b ash Shuq\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362839
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e0340fc2af5443f09331cd3ecb938131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1276854641,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276854641,
+    "wof:lastmodified":1537620962,
+    "wof:name":"Abu ash Shuquq",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60097,
+    30.82844,
+    31.60097,
+    30.82844
+],
+  "geometry": {"coordinates":[31.60097,30.82844],"type":"Point"}
+}

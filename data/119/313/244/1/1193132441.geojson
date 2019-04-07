@@ -1,0 +1,67 @@
+{
+  "id": 1193132441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86779,27.68291,30.86779,27.68291",
+    "geom:latitude":27.68291,
+    "geom:longitude":30.86779,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Minshat Samhan",
+    "gn:country_code":"EG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434426,
+    "gn:latitude":27.68291,
+    "gn:longitude":30.86779,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Minsh\u0101t Samh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434426
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f0128d4ee3ee0e649258ec416177b0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022005,
+            "locality_id":1193132441,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1193132441,
+    "wof:lastmodified":1536374339,
+    "wof:name":"Minshat Samhan",
+    "wof:parent_id":1092022005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86779000000001,
+    27.68291,
+    30.86779000000001,
+    27.68291
+],
+  "geometry": {"coordinates":[30.86779000000001,27.68291],"type":"Point"}
+}

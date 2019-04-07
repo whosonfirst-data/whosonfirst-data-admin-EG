@@ -1,0 +1,68 @@
+{
+  "id": 1209228409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27963,30.68203,31.27963,30.68203",
+    "geom:latitude":30.68203,
+    "geom:longitude":31.27963,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr an Na`im",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354539,
+    "gn:latitude":30.68203,
+    "gn:longitude":31.27963,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr an Na\u2018\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0646\u0639\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Na\u2018\u00eem",
+        "Kafr an Na\u2018\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354539
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e87d12350969905185677f7b3645fb0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209228409
+        }
+    ],
+    "wof:id":1209228409,
+    "wof:lastmodified":1537620722,
+    "wof:name":"Kafr an Na`im",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27963,
+    30.68203,
+    31.27963,
+    30.68203
+],
+  "geometry": {"coordinates":[31.27963,30.68203],"type":"Point"}
+}

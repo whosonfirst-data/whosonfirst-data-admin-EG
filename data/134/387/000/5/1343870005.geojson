@@ -1,0 +1,67 @@
+{
+  "id": 1343870005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.20667,31.02417,30.20667,31.02417",
+    "geom:latitude":31.02417,
+    "geom:longitude":30.20667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Ezbet el-Atta",
+    "gn:country_code":"EG",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357543,
+    "gn:latitude":31.02417,
+    "gn:longitude":30.20667,
+    "gn:modification_date":"1997-09-25",
+    "gn:name":"\u2018Ezbet el-A\u1e6d\u1e6da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357543
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"766d1c8153112005769c42b302716dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1343870005,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343870005,
+    "wof:lastmodified":1536652689,
+    "wof:name":"`Ezbet el-Atta",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.20667000000001,
+    31.02417,
+    30.20667000000001,
+    31.02417
+],
+  "geometry": {"coordinates":[30.20667000000001,31.02417],"type":"Point"}
+}

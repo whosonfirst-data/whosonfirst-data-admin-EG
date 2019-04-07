@@ -1,0 +1,65 @@
+{
+  "id": 1209398545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78548,27.6906,30.78548,27.6906",
+    "geom:latitude":27.6906,
+    "geom:longitude":30.78548,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tandah",
+    "gn:country_code":"EG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347510,
+    "gn:latitude":27.6906,
+    "gn:longitude":30.78548,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tandah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanda",
+        "Tandah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347510
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5597dd176fc23d6df0f6160482f0689b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209398545
+        }
+    ],
+    "wof:id":1209398545,
+    "wof:lastmodified":1537620559,
+    "wof:name":"Tandah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78548,
+    27.6906,
+    30.78548,
+    27.6906
+],
+  "geometry": {"coordinates":[30.78548,27.6906],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209822949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65244,30.72475,30.65244,30.72475",
+    "geom:latitude":30.72475,
+    "geom:longitude":30.65244,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dast al Ashraf",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358361,
+    "gn:latitude":30.72475,
+    "gn:longitude":30.65244,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dast al Ashr\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dist el-Ashr\u00e2f",
+        "Dast al Ashr\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358361
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"df5a45911fcf132fc2a582c0d805bbaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1209822949,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1209822949,
+    "wof:lastmodified":1537620813,
+    "wof:name":"Dast al Ashraf",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65244,
+    30.72475,
+    30.65244,
+    30.72475
+],
+  "geometry": {"coordinates":[30.65244,30.72475],"type":"Point"}
+}

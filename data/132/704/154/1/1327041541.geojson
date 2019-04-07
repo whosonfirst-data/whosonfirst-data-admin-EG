@@ -1,0 +1,67 @@
+{
+  "id": 1327041541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53489,30.92029,30.53489,30.92029",
+    "geom:latitude":30.92029,
+    "geom:longitude":30.53489,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Mahmud ash Shinnawi",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433331,
+    "gn:latitude":30.92029,
+    "gn:longitude":30.53489,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Ma\u1e29m\u016bd ash Shinn\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092020749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433331
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c804a30d38d031e31b60e9ec7467a837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020749,
+            "locality_id":1327041541,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327041541,
+    "wof:lastmodified":1536746978,
+    "wof:name":"`Izbat Mahmud ash Shinnawi",
+    "wof:parent_id":1092020749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53489,
+    30.92029,
+    30.53489,
+    30.92029
+],
+  "geometry": {"coordinates":[30.53489,30.92029],"type":"Point"}
+}

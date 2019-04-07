@@ -1,0 +1,71 @@
+{
+  "id": 1344250909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76291,28.50528,30.76291,28.50528",
+    "geom:latitude":28.50528,
+    "geom:longitude":30.76291,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tanbu",
+    "gn:country_code":"EG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347512,
+    "gn:latitude":28.50528,
+    "gn:longitude":30.76291,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162anb\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tambu",
+        "\u0162anb\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092015295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347512
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"612f3a13d25e6eb7f399bc2d457fae6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015295,
+            "locality_id":1344250909,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1344250909,
+    "wof:lastmodified":1537620559,
+    "wof:name":"Tanbu",
+    "wof:parent_id":1092015295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76291,
+    28.50528,
+    30.76291,
+    28.50528
+],
+  "geometry": {"coordinates":[30.76291,28.50528],"type":"Point"}
+}

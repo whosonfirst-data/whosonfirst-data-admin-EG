@@ -1,0 +1,76 @@
+{
+  "id": 1276430737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93834,30.371,30.93834,30.371",
+    "geom:latitude":30.371,
+    "geom:longitude":30.93834,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ramlat al Injib",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350273,
+    "gn:latitude":30.371,
+    "gn:longitude":30.93834,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Ramlat al Injib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u0644\u0629 \u0627\u0644\u0625\u0646\u062c\u0628"
+    ],
+    "name:und_x_variant":[
+        "Ramlet el-Angeb",
+        "Ramlet el-Ingib",
+        "Ramlat al Anjab",
+        "Ramlat al Injib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350273
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1972824d73b6a03e7c1087c4aeaceee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1276430737,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1276430737,
+    "wof:lastmodified":1537620593,
+    "wof:name":"Ramlat al Injib",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93834,
+    30.371,
+    30.93834,
+    30.371
+],
+  "geometry": {"coordinates":[30.93834,30.371],"type":"Point"}
+}

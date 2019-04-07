@@ -1,0 +1,73 @@
+{
+  "id": 1360168107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.64094,30.7982,31.64094,30.7982",
+    "geom:latitude":30.7982,
+    "geom:longitude":31.64094,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat an Nawafi`ah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779481,
+    "gn:latitude":30.7982,
+    "gn:longitude":31.64094,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"\u2018Izbat an Naw\u0101fi\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0646\u0648\u0627\u0641\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat an Naw\u0101fi\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779481
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"08e7d90e80205dea0b17028a77b72757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1360168107,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1360168107,
+    "wof:lastmodified":1537621148,
+    "wof:name":"`Izbat an Nawafi`ah",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.64094,
+    30.7982,
+    31.64094,
+    30.7982
+],
+  "geometry": {"coordinates":[31.64094,30.7982],"type":"Point"}
+}

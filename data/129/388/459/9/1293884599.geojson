@@ -1,0 +1,67 @@
+{
+  "id": 1293884599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85546,29.2798,30.85546,29.2798",
+    "geom:latitude":29.2798,
+    "geom:longitude":30.85546,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Sunufar",
+    "gn:country_code":"EG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434330,
+    "gn:latitude":29.2798,
+    "gn:longitude":30.85546,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat Sun\u016bfar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434330
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9b37b1ce49803e1e0591ad87ebcc5b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1293884599,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1293884599,
+    "wof:lastmodified":1536712071,
+    "wof:name":"`Izbat Sunufar",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85546,
+    29.2798,
+    30.85546,
+    29.2798
+],
+  "geometry": {"coordinates":[30.85546,29.2798],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276342815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59167,30.81,30.59167,30.81",
+    "geom:latitude":30.81,
+    "geom:longitude":30.59167,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Minshat Abu Waqiyah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352439,
+    "gn:latitude":30.81,
+    "gn:longitude":30.59167,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Minsh\u0101t Ab\u016b W\u0101qiyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minsh\u00e2t Abu W\u00e2iya",
+        "Minsh\u0101t Ab\u016b W\u0101qiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352439
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"213cd49848c36750217b451693f61062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1276342815,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276342815,
+    "wof:lastmodified":1537620654,
+    "wof:name":"Minshat Abu Waqiyah",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59167,
+    30.81,
+    30.59167,
+    30.81
+],
+  "geometry": {"coordinates":[30.59167,30.81],"type":"Point"}
+}

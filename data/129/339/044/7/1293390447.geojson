@@ -1,0 +1,67 @@
+{
+  "id": 1293390447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68341,29.38921,30.68341,29.38921",
+    "geom:latitude":29.38921,
+    "geom:longitude":30.68341,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Minshat Huwayda",
+    "gn:country_code":"EG",
+    "gn:dem":-13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434833,
+    "gn:latitude":29.38921,
+    "gn:longitude":30.68341,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Minsh\u0101t Huwayd\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434833
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ef4b2c46dbccf882d497dd41405b92dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1293390447,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1293390447,
+    "wof:lastmodified":1536927630,
+    "wof:name":"Minshat Huwayda",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68341,
+    29.38921,
+    30.68341,
+    29.38921
+],
+  "geometry": {"coordinates":[30.68341,29.38921],"type":"Point"}
+}

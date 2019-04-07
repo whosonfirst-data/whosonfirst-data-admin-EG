@@ -1,0 +1,73 @@
+{
+  "id": 1293071905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.54693,30.58557,31.54693,30.58557",
+    "geom:latitude":30.58557,
+    "geom:longitude":31.54693,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Az Zarqiyah",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433526,
+    "gn:latitude":30.58557,
+    "gn:longitude":31.54693,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az Zarq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Az Zarq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433526
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bd43ef7c66f36a00bef0d419452e4517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1293071905,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293071905,
+    "wof:lastmodified":1537621121,
+    "wof:name":"Az Zarqiyah",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.54693,
+    30.58557,
+    31.54693,
+    30.58557
+],
+  "geometry": {"coordinates":[31.54693,30.58557],"type":"Point"}
+}

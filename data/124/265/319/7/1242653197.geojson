@@ -1,0 +1,71 @@
+{
+  "id": 1242653197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.99892,28.96447,30.99892,28.96447",
+    "geom:latitude":28.96447,
+    "geom:longitude":30.99892,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Taha' al Bishah",
+    "gn:country_code":"EG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347650,
+    "gn:latitude":28.96447,
+    "gn:longitude":30.99892,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162\u0101\u1e29\u0101\u2019 al B\u012bshah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taha el Bisha",
+        "\u0162\u0101\u1e29\u0101\u2019 al B\u012bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347650
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5b90f766c07e520d5cd8b01177bdddb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015415,
+            "locality_id":1242653197,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1242653197,
+    "wof:lastmodified":1537620563,
+    "wof:name":"Taha' al Bishah",
+    "wof:parent_id":1092015415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.99892,
+    28.96447,
+    30.99892,
+    28.96447
+],
+  "geometry": {"coordinates":[30.99892,28.96447],"type":"Point"}
+}

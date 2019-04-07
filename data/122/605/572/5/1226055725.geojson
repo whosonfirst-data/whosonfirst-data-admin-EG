@@ -1,0 +1,71 @@
+{
+  "id": 1226055725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83375,28.50923,30.83375,28.50923",
+    "geom:latitude":28.50923,
+    "geom:longitude":30.83375,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bani Samit",
+    "gn:country_code":"EG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359185,
+    "gn:latitude":28.50923,
+    "gn:longitude":30.83375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b S\u0101mi\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni S\u00e2mit",
+        "Ban\u012b S\u0101mi\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092015295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359185
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"659cf279c73f670969397da610b7a6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015295,
+            "locality_id":1226055725,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1226055725,
+    "wof:lastmodified":1537620829,
+    "wof:name":"Bani Samit",
+    "wof:parent_id":1092015295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83375,
+    28.50923,
+    30.83375,
+    28.50923
+],
+  "geometry": {"coordinates":[30.83375,28.50923],"type":"Point"}
+}

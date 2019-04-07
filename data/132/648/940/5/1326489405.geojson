@@ -1,0 +1,74 @@
+{
+  "id": 1326489405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71101,31.08347,30.71101,31.08347",
+    "geom:latitude":31.08347,
+    "geom:longitude":30.71101,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kafr Majar",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354198,
+    "gn:latitude":31.08347,
+    "gn:longitude":30.71101,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kafr Majar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0645\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kafr Magar",
+        "Kafr Majar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354198
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"62a126b1a5e5121373c74ff6ea689fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1326489405,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1326489405,
+    "wof:lastmodified":1537620695,
+    "wof:name":"Kafr Majar",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71101,
+    31.08347,
+    30.71101,
+    31.08347
+],
+  "geometry": {"coordinates":[30.71101,31.08347],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209601553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18333,26.43333,31.18333,26.43333",
+    "geom:latitude":26.43333,
+    "geom:longitude":31.18333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El-Kawamil Qibli",
+    "gn:country_code":"EG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357865,
+    "gn:latitude":26.43333,
+    "gn:longitude":31.18333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"El-Kaw\u00e2mil Qibli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357865
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f776fe0014eff45f972f022d57fbb249",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209601553
+        }
+    ],
+    "wof:id":1209601553,
+    "wof:lastmodified":1536282150,
+    "wof:name":"El-Kawamil Qibli",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18333,
+    26.43333,
+    31.18333,
+    26.43333
+],
+  "geometry": {"coordinates":[31.18333,26.43333],"type":"Point"}
+}

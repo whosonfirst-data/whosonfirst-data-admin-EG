@@ -1,0 +1,72 @@
+{
+  "id": 1344246051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76197,28.17228,30.76197,28.17228",
+    "geom:latitude":28.17228,
+    "geom:longitude":30.76197,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Izbat `Ibayd Sarufim",
+    "gn:country_code":"EG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351071,
+    "gn:latitude":28.17228,
+    "gn:longitude":30.76197,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat \u2018Ibayd \u015e\u0101r\u016bf\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlat \u2018Ubayd \u015e\u0101r\u016bf\u012bm",
+        "Nazlet \u2018Ibeid Sar\u00fbf\u00eem",
+        "\u2018Izbat \u2018Ibayd \u015e\u0101r\u016bf\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092018557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351071
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e340367fd4da27ec4549a6207ec918a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018557,
+            "locality_id":1344246051,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1344246051,
+    "wof:lastmodified":1537620604,
+    "wof:name":"`Izbat `Ibayd Sarufim",
+    "wof:parent_id":1092018557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76197,
+    28.17228,
+    30.76197,
+    28.17228
+],
+  "geometry": {"coordinates":[30.76197,28.17228],"type":"Point"}
+}

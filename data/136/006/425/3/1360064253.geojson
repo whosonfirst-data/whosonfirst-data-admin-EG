@@ -1,0 +1,75 @@
+{
+  "id": 1360064253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7617,30.74131,31.7617,30.74131",
+    "geom:latitude":30.74131,
+    "geom:longitude":31.7617,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"As Salatinah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359877,
+    "gn:latitude":30.74131,
+    "gn:longitude":31.7617,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"As Sal\u0101\u0163inah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0627\u0637\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Sal\u00e2\u1e6dna",
+        "As Sal\u0101\u0163inah",
+        "As-sal\u0101\u1e6dinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359877
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"67a033f0ee9bcea42258a7782a795aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1360064253,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1360064253,
+    "wof:lastmodified":1537620855,
+    "wof:name":"As Salatinah",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7617,
+    30.74131,
+    31.7617,
+    30.74131
+],
+  "geometry": {"coordinates":[31.7617,30.74131],"type":"Point"}
+}

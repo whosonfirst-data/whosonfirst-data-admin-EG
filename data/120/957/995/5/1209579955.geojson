@@ -1,0 +1,68 @@
+{
+  "id": 1209579955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.58455,31.26209,30.58455,31.26209",
+    "geom:latitude":31.26209,
+    "geom:longitude":30.58455,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Sa`dah",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357408,
+    "gn:latitude":31.26209,
+    "gn:longitude":30.58455,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat Sa\u2018dah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0633\u0639\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet el-Sa\u2018da & \u2018Ezbet el-Fut\u00fbh",
+        "\u2018Izbat Sa\u2018dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357408
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9bcd47b97d9657dc79bc7932447825cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209579955
+        }
+    ],
+    "wof:id":1209579955,
+    "wof:lastmodified":1537620792,
+    "wof:name":"`Izbat Sa`dah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.58455,
+    31.26209,
+    30.58455,
+    31.26209
+],
+  "geometry": {"coordinates":[30.58455,31.26209],"type":"Point"}
+}

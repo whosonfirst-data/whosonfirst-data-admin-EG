@@ -1,0 +1,71 @@
+{
+  "id": 1309982349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33333,27.06667,31.33333,27.06667",
+    "geom:latitude":27.06667,
+    "geom:longitude":31.33333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nazlat `Inan",
+    "gn:country_code":"EG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351121,
+    "gn:latitude":27.06667,
+    "gn:longitude":31.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat \u2018In\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet \u2018In\u00e2n",
+        "Nazlat \u2018In\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092024123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351121
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6a8ac181cfaadca4c6ffd9b4bf53f754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024123,
+            "locality_id":1309982349,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1309982349,
+    "wof:lastmodified":1537620608,
+    "wof:name":"Nazlat `Inan",
+    "wof:parent_id":1092024123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33333,
+    27.06667,
+    31.33333,
+    27.06667
+],
+  "geometry": {"coordinates":[31.33333,27.06667],"type":"Point"}
+}

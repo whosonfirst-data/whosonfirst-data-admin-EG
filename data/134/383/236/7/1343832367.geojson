@@ -1,0 +1,67 @@
+{
+  "id": 1343832367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76588,31.40017,31.76588,31.40017",
+    "geom:latitude":31.40017,
+    "geom:longitude":31.76588,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"`Izbat as Sawahil",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421507,
+    "gn:latitude":31.40017,
+    "gn:longitude":31.76588,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat as Saw\u0101\u1e29\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421507
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d03d197599161750101bf20ecfbfd747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":1343832367,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1343832367,
+    "wof:lastmodified":1536707499,
+    "wof:name":"`Izbat as Sawahil",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76588,
+    31.40017000000001,
+    31.76588,
+    31.40017000000001
+],
+  "geometry": {"coordinates":[31.76588,31.40017000000001],"type":"Point"}
+}

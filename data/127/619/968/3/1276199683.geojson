@@ -1,0 +1,73 @@
+{
+  "id": 1276199683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5036,30.45919,31.5036,30.45919",
+    "geom:latitude":30.45919,
+    "geom:longitude":31.5036,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Muhami",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139177,
+    "gn:latitude":30.45919,
+    "gn:longitude":31.5036,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat al Mu\u1e29\u0101m\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0645\u062d\u0627\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Mu\u1e29\u0101m\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139177
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1d42cd9306a6a446e53c6dcee06b6313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015569,
+            "locality_id":1276199683,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276199683,
+    "wof:lastmodified":1537621183,
+    "wof:name":"`Izbat al Muhami",
+    "wof:parent_id":1092015569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5036,
+    30.45919,
+    31.5036,
+    30.45919
+],
+  "geometry": {"coordinates":[31.5036,30.45919],"type":"Point"}
+}

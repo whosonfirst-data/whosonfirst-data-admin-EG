@@ -1,0 +1,75 @@
+{
+  "id": 1309686145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.815,31.01681,30.815,31.01681",
+    "geom:latitude":31.01681,
+    "geom:longitude":30.815,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Balnakumah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359323,
+    "gn:latitude":31.01681,
+    "gn:longitude":30.815,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Balnak\u016bmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0646\u0643\u0648\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Balank\u00fbma",
+        "Balank\u016bmah",
+        "Balnak\u016bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359323
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c345a22466af5138d90b23fb46811641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021829,
+            "locality_id":1309686145,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1309686145,
+    "wof:lastmodified":1537620836,
+    "wof:name":"Balnakumah",
+    "wof:parent_id":1092021829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.815,
+    31.01681,
+    30.815,
+    31.01681
+],
+  "geometry": {"coordinates":[30.815,31.01681],"type":"Point"}
+}

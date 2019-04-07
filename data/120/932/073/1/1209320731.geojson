@@ -1,0 +1,66 @@
+{
+  "id": 1209320731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6959,29.32632,30.6959,29.32632",
+    "geom:latitude":29.32632,
+    "geom:longitude":30.6959,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat al Arba`in",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360187,
+    "gn:latitude":29.32632,
+    "gn:longitude":30.6959,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al Arba\u2018\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el Arbi\u2018\u00een",
+        "\u2018Ezbet el-Arbi\u2018\u00een",
+        "\u2018Izbat al Arba\u2018\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360187
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"464adc067a5c2844dcecf834812ede5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209320731
+        }
+    ],
+    "wof:id":1209320731,
+    "wof:lastmodified":1537620870,
+    "wof:name":"`Izbat al Arba`in",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6959,
+    29.32632000000001,
+    30.6959,
+    29.32632000000001
+],
+  "geometry": {"coordinates":[30.6959,29.32632000000001],"type":"Point"}
+}

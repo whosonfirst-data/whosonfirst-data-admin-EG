@@ -1,0 +1,71 @@
+{
+  "id": 1276316743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.92979,30.92544,31.92979,30.92544",
+    "geom:latitude":30.92544,
+    "geom:longitude":31.92979,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Manshiyat al Fuli al Kabirah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352380,
+    "gn:latitude":30.92544,
+    "gn:longitude":31.92979,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mansh\u012byat al F\u016bl\u012b al Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minsh\u0101t Mu\u015f\u0163af\u00e1 \u1e28usayn al F\u016bl\u012b",
+        "Mansh\u012byat al F\u016bl\u012b al Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352380
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"777dbce9f5e02dc86342c7323601651b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1276316743,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276316743,
+    "wof:lastmodified":1537620650,
+    "wof:name":"Manshiyat al Fuli al Kabirah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.92979,
+    30.92544,
+    31.92979,
+    30.92544
+],
+  "geometry": {"coordinates":[31.92979,30.92544],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260250863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.48333,26.18333,32.48333,26.18333",
+    "geom:latitude":26.18333,
+    "geom:longitude":32.48333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Nag` 'Abd el-Qadir",
+    "gn:country_code":"EG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351688,
+    "gn:latitude":26.18333,
+    "gn:longitude":32.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2018 \u2019Abd el-Q\u00e2dir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092016157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351688
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1afdf5c2a90c9038569863ffdbd54ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016157,
+            "locality_id":1260250863,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1260250863,
+    "wof:lastmodified":1536756241,
+    "wof:name":"Nag` 'Abd el-Qadir",
+    "wof:parent_id":1092016157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.48333,
+    26.18333,
+    32.48333,
+    26.18333
+],
+  "geometry": {"coordinates":[32.48333,26.18333],"type":"Point"}
+}

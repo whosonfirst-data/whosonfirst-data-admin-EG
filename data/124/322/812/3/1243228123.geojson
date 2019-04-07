@@ -1,0 +1,73 @@
+{
+  "id": 1243228123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70982,31.23896,30.70982,31.23896",
+    "geom:latitude":31.23896,
+    "geom:longitude":30.70982,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Husayn az Zini",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415830,
+    "gn:latitude":31.23896,
+    "gn:longitude":30.70982,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u2018Izbat \u1e28usayn az Z\u012bn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062d\u0633\u064a\u0646 \u0627\u0644\u0632\u064a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u1e28usayn az Z\u012bn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415830
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"70f6fdbd0eca4bff2eb9f403401a952e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1243228123,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1243228123,
+    "wof:lastmodified":1537621000,
+    "wof:name":"`Izbat Husayn az Zini",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70982,
+    31.23896,
+    30.70982,
+    31.23896
+],
+  "geometry": {"coordinates":[30.70982,31.23896],"type":"Point"}
+}

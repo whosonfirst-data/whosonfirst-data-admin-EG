@@ -1,0 +1,66 @@
+{
+  "id": 1209403723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81667,27.9,30.81667,27.9",
+    "geom:latitude":27.9,
+    "geom:longitude":30.81667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"As Sinbillawayn",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359816,
+    "gn:latitude":27.9,
+    "gn:longitude":30.81667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sinbill\u0101wayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Simbill\u00e2wein",
+        "As Sinbill\u0101wayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359816
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3b8fd9b0cfe8a95f1f366fed8159563a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209403723
+        }
+    ],
+    "wof:id":1209403723,
+    "wof:lastmodified":1537620850,
+    "wof:name":"As Sinbillawayn",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81667,
+    27.9,
+    30.81667,
+    27.9
+],
+  "geometry": {"coordinates":[30.81667,27.9],"type":"Point"}
+}

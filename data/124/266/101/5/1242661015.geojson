@@ -1,0 +1,76 @@
+{
+  "id": 1242661015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68752,30.87959,31.68752,30.87959",
+    "geom:latitude":30.87959,
+    "geom:longitude":31.68752,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Abu Hurayz",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362597,
+    "gn:latitude":30.87959,
+    "gn:longitude":31.68752,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ab\u016b \u1e28urayz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0631\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28ar\u012bz",
+        "Abu \u1e24ireiz",
+        "Ab\u016b \u1e28irayz",
+        "Ab\u016b \u1e28urayz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362597
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bbf80216957bbc4abd8c7423285c4ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1242661015,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1242661015,
+    "wof:lastmodified":1537620961,
+    "wof:name":"Abu Hurayz",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68752000000001,
+    30.87959,
+    31.68752000000001,
+    30.87959
+],
+  "geometry": {"coordinates":[31.68752000000001,30.87959],"type":"Point"}
+}

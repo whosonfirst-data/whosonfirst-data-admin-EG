@@ -1,0 +1,67 @@
+{
+  "id": 1293572713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82917,30.86222,31.82917,30.86222",
+    "geom:latitude":30.86222,
+    "geom:longitude":31.82917,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Ezbet Muhammad Mansur",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357194,
+    "gn:latitude":30.86222,
+    "gn:longitude":31.82917,
+    "gn:modification_date":"1997-09-22",
+    "gn:name":"\u2018Ezbet Mu\u1e25ammad Man\u1e63\u00fbr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357194
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"df55c3d4e79fb5c9efb0c82d98a74b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1293572713,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293572713,
+    "wof:lastmodified":1536664266,
+    "wof:name":"`Ezbet Muhammad Mansur",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82917,
+    30.86222,
+    31.82917,
+    30.86222
+],
+  "geometry": {"coordinates":[31.82917,30.86222],"type":"Point"}
+}

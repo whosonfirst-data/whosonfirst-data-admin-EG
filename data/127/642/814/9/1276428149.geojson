@@ -1,0 +1,74 @@
+{
+  "id": 1276428149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25764,30.50466,31.25764,30.50466",
+    "geom:latitude":30.50466,
+    "geom:longitude":31.25764,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Izbat Zakariya Muhyi ad Din",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8058755,
+    "gn:latitude":30.50466,
+    "gn:longitude":31.25764,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"\u2018Izbat Zakar\u012by\u0101 Mu\u1e29y\u012b ad D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0632\u0643\u0631\u064a\u0627 \u0645\u062d\u064a\u0649 \u0627\u0644\u062f\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Zakar\u012by\u0101 Mu\u1e29y\u012b ad D\u012bn",
+        "\u2018Izbat Zakriy\u0101 Mu\u1e29y\u012b ad D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092021747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8058755
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a425c209e4e7fd4aa0bc3f7bed2b854b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021747,
+            "locality_id":1276428149,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1276428149,
+    "wof:lastmodified":1537621157,
+    "wof:name":"`Izbat Zakariya Muhyi ad Din",
+    "wof:parent_id":1092021747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25764,
+    30.50466,
+    31.25764,
+    30.50466
+],
+  "geometry": {"coordinates":[31.25764,30.50466],"type":"Point"}
+}

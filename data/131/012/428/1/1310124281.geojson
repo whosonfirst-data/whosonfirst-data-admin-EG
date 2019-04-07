@@ -1,0 +1,81 @@
+{
+  "id": 1310124281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74633,30.29636,31.74633,30.29636",
+    "geom:latitude":30.29636,
+    "geom:longitude":31.74633,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Al `Ashir min Ramadan",
+    "gn:country_code":"EG",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353229,
+    "gn:latitude":30.29636,
+    "gn:longitude":31.74633,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018\u0100shir min Rama\u1e11\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0634\u0631 \u0645\u0646 \u0631\u0645\u0636\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "10 Ramadan City",
+        "Ramadan 10 City",
+        "Tenth of Ramadan City",
+        "Ramadan the 10th City",
+        "10th of Ramadan City",
+        "Ramadan City",
+        "Mad\u012bnat al \u2018\u0100shir min Rama\u1e11\u0101n",
+        "Al \u2018\u0100shir min Rama\u1e11\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092022997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353229,
+        "wk:page":"10th_of_Ramadan_City"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"55ec3e7b8577c84617a2f8d5ffc93004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022997,
+            "locality_id":1310124281,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1310124281,
+    "wof:lastmodified":1537620668,
+    "wof:name":"Al `Ashir min Ramadan",
+    "wof:parent_id":1092022997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74633,
+    30.29636,
+    31.74633,
+    30.29636
+],
+  "geometry": {"coordinates":[31.74633,30.29636],"type":"Point"}
+}

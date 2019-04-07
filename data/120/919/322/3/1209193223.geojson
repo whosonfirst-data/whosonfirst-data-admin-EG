@@ -1,0 +1,68 @@
+{
+  "id": 1209193223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76856,31.05252,31.76856,31.05252",
+    "geom:latitude":31.05252,
+    "geom:longitude":31.76856,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Farayihah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421195,
+    "gn:latitude":31.05252,
+    "gn:longitude":31.76856,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat al Far\u0101yi\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0641\u0631\u0627\u064a\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Far\u0101yi\u1e29ah",
+        "\u2018Izbat al-Far\u0101y\u1e25ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421195
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ddeeed4f7ba6b29fb5b4756022989f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209193223
+        }
+    ],
+    "wof:id":1209193223,
+    "wof:lastmodified":1537621102,
+    "wof:name":"`Izbat al Farayihah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76856,
+    31.05252,
+    31.76856,
+    31.05252
+],
+  "geometry": {"coordinates":[31.76856,31.05252],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276528179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32811,30.31573,31.32811,30.31573",
+    "geom:latitude":30.31573,
+    "geom:longitude":31.32811,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Minyat Shibin",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352327,
+    "gn:latitude":30.31573,
+    "gn:longitude":31.32811,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Minyat Shib\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minyet Shib\u00een",
+        "Minyat Shib\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092024593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352327
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"31a41d0febb1353bc16e7fda38b07f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024593,
+            "locality_id":1276528179,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1276528179,
+    "wof:lastmodified":1537620646,
+    "wof:name":"Minyat Shibin",
+    "wof:parent_id":1092024593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32811,
+    30.31573,
+    31.32811,
+    30.31573
+],
+  "geometry": {"coordinates":[31.32811,30.31573],"type":"Point"}
+}

@@ -1,0 +1,235 @@
+{
+  "id": 1126019909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09785,29.07441,31.09785,29.07441",
+    "geom:latitude":29.07441,
+    "geom:longitude":31.09785,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":189624,
+    "gn:population":189624,
+    "iso:country":"EG",
+    "lbl:latitude":29.07441,
+    "lbl:longitude":31.09785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0633\u0648\u064a\u0641"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0565\u0576\u056b \u054d\u0578\u0582\u0565\u0575\u0586"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043d\u0456-\u0421\u0443\u044d\u0439\u0444"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09a8\u09bf \u09b8\u09cb\u09af\u09bc\u09c7\u09ab"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043d\u0438 \u0421\u0443\u0435\u0444"
+    ],
+    "name:cat_x_preferred":[
+        "Bani Suwayf"
+    ],
+    "name:chi_x_preferred":[
+        "\u8c9d\u5c3c\u8607\u97cb\u592b"
+    ],
+    "name:cze_x_preferred":[
+        "B\u00e1n\u00ed Suvajf"
+    ],
+    "name:dan_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:dut_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:eng_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:est_x_preferred":[
+        "Ban\u012b Suwayf"
+    ],
+    "name:fin_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:fre_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d8-\u10e1\u10e3\u10d0\u10e4\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Bani Suwaif"
+    ],
+    "name:gle_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03ad\u03bd\u03b9 \u03a3\u03bf\u03c5\u03ad\u03c6"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac7\u0aa8\u0ac0 \u0ab8\u0ac1\u0a87\u0aab"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d9 \u05e1\u05d5\u05d5\u05d9\u05e3"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0928\u0940 \u0938\u0941\u090f\u092b\u093c"
+    ],
+    "name:hun_x_preferred":[
+        "Bani Szuvajf"
+    ],
+    "name:ind_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:ita_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30cb\u30fb\u30b9\u30a8\u30d5"
+    ],
+    "name:kab_x_preferred":[
+        "Bani Swayf"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc6\u0ca8\u0cbf \u0cb8\u0ccd\u0caf\u0cc2\u0cab\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub2c8\uc218\uc5d0\ud504"
+    ],
+    "name:lav_x_preferred":[
+        "Beni Sueifa"
+    ],
+    "name:lit_x_preferred":[
+        "Beni Sueifas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0928\u0940 \u0938\u0941\u090f\u092b"
+    ],
+    "name:may_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:nob_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0646\u06cc \u0633\u0648\u06cc\u0641"
+    ],
+    "name:pol_x_preferred":[
+        "Bani Suwajf"
+    ],
+    "name:por_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u0438-\u0421\u0443\u044d\u0439\u0444"
+    ],
+    "name:sco_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd9\u0db1\u0dd2 \u0dc3\u0dd4\u0d91\u0dc6\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:spa_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043d\u0438 \u0421\u0443\u0435\u0458\u0444"
+    ],
+    "name:swe_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc6\u0ba9\u0bbf  \u0bb8\u0bc1\u0b90\u0baa\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c46\u0c28\u0c3f \u0c38\u0c41\u0c0e\u0c2b\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e19\u0e34 \u0e0b\u0e39\u0e1f"
+    ],
+    "name:tur_x_preferred":[
+        "Beni S\u00fcveyf"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d\u0456-\u0421\u0443\u0435\u0439\u0444"
+    ],
+    "name:unk_x_variant":[
+        "Beni Suef"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646\u06cc \u0633\u0648\u06cc\u0641"
+    ],
+    "name:vie_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:war_x_preferred":[
+        "Beni Suef"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":359173,
+    "qs_pg:gn_pop":189624,
+    "qs_pg:name":"Ban\u012b Suwayf",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":310176,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359173,
+        "qs_pg:id":310176,
+        "wd:id":"Q394080"
+    },
+    "wof:country":"EG",
+    "wof:created":1497300769,
+    "wof:geomhash":"d1115c903d70bcdef20165fdcb0073b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015341,
+            "locality_id":1126019909,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1126019909,
+    "wof:lastmodified":1513956678,
+    "wof:name":"Ban\u012b Suwayf",
+    "wof:parent_id":1092015341,
+    "wof:placetype":"locality",
+    "wof:population":189624,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09785,
+    29.07441,
+    31.09785,
+    29.07441
+],
+  "geometry": {"coordinates":[31.09785,29.07441],"type":"Point"}
+}

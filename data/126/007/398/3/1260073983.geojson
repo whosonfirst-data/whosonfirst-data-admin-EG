@@ -1,0 +1,67 @@
+{
+  "id": 1260073983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72392,28.63717,30.72392,28.63717",
+    "geom:latitude":28.63717,
+    "geom:longitude":30.72392,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Abu Bisht",
+    "gn:country_code":"EG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362789,
+    "gn:latitude":28.63717,
+    "gn:longitude":30.72392,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ab\u016b Bisht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362789
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1754bcd5702a141b982271b2efb8db34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016505,
+            "locality_id":1260073983,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1260073983,
+    "wof:lastmodified":1537000993,
+    "wof:name":"Abu Bisht",
+    "wof:parent_id":1092016505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72392,
+    28.63717,
+    30.72392,
+    28.63717
+],
+  "geometry": {"coordinates":[30.72392,28.63717],"type":"Point"}
+}

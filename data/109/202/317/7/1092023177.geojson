@@ -1,0 +1,67 @@
+{
+  "id": 1092023177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6811.95705,
+    "geom:bbox":"34.033425,27.824606,34.041674,27.830252",
+    "geom:latitude":27.827407,
+    "geom:longitude":34.037656,
+    "iso:country":"EG",
+    "lbl:latitude":27.827387,
+    "lbl:longitude":34.037718,
+    "meso:admin_1":"South Sinai",
+    "meso:diss_me":"NO DATASouth Sinai",
+    "meso:gadm_admin":"NO DATA",
+    "meso:gadm_hasc2":"NO DATA",
+    "meso:gaul_admin":"NO DATA",
+    "meso:mps_x":34.037718,
+    "meso:mps_y":27.827387,
+    "meso:name_en":"NO DATA",
+    "meso:patch":1,
+    "meso:source":"USAID",
+    "meso:type_en":"NO DATA",
+    "mps:latitude":27.827387,
+    "mps:longitude":34.037718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"EG",
+    "wof:created":1473897465,
+    "wof:geomhash":"c0751ac9f11ed1e80e9b673379cc6735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023177,
+            "region_id":85671089
+        }
+    ],
+    "wof:id":1092023177,
+    "wof:lastmodified":1512516749,
+    "wof:name":"",
+    "wof:parent_id":85671089,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.033425,
+    27.824606,
+    34.041674,
+    27.830252
+],
+  "geometry": {"coordinates":[[[34.037868,27.827362],[34.041674,27.824606],[34.033425,27.830252],[34.037868,27.827362]]],"type":"Polygon"}
+}

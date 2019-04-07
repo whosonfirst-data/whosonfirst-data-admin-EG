@@ -1,0 +1,75 @@
+{
+  "id": 1209882791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78326,30.4669,33.78326,30.4669",
+    "geom:latitude":30.4669,
+    "geom:longitude":33.78326,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Al Hasanah",
+    "gn:country_code":"EG",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358784,
+    "gn:latitude":30.4669,
+    "gn:longitude":33.78326,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Al \u1e28asanah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0633\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u00eer el-Hasana",
+        "Bi\u2019r \u1e28asanah",
+        "Al \u1e28asanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092018041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358784
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a5a306a90c2946be61b25ddf8e16a251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018041,
+            "locality_id":1209882791,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1209882791,
+    "wof:lastmodified":1537620821,
+    "wof:name":"Al Hasanah",
+    "wof:parent_id":1092018041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.78326,
+    30.4669,
+    33.78326,
+    30.4669
+],
+  "geometry": {"coordinates":[33.78326,30.4669],"type":"Point"}
+}

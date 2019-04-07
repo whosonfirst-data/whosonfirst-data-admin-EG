@@ -1,0 +1,73 @@
+{
+  "id": 1310283947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.716,30.79147,31.716,30.79147",
+    "geom:latitude":30.79147,
+    "geom:longitude":31.716,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Wa`ir",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779460,
+    "gn:latitude":30.79147,
+    "gn:longitude":31.716,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Izbat W\u0101\u2018ir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0648\u0627\u0639\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat W\u0101\u2018ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779460
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"51b51a87de1bc1e61de75070ab076727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1310283947,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310283947,
+    "wof:lastmodified":1537621147,
+    "wof:name":"`Izbat Wa`ir",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.716,
+    30.79147,
+    31.716,
+    30.79147
+],
+  "geometry": {"coordinates":[31.716,30.79147],"type":"Point"}
+}

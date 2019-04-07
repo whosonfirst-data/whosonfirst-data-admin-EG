@@ -1,0 +1,67 @@
+{
+  "id": 1209312035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00048,31.24374,30.00048,31.24374",
+    "geom:latitude":31.24374,
+    "geom:longitude":30.00048,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"`Izbat Zaqzuq",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8361451,
+    "gn:latitude":31.24374,
+    "gn:longitude":30.00048,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"\u2018Izbat Zaqz\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0632\u0642\u0632\u0648\u0642"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Zaqz\u016bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361451
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"67a1e03f1a1b25acbecc9484395c71d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209312035
+        }
+    ],
+    "wof:id":1209312035,
+    "wof:lastmodified":1537621194,
+    "wof:name":"`Izbat Zaqzuq",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00048,
+    31.24374000000001,
+    30.00048,
+    31.24374000000001
+],
+  "geometry": {"coordinates":[30.00048,31.24374000000001],"type":"Point"}
+}

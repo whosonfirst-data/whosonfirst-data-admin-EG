@@ -1,0 +1,71 @@
+{
+  "id": 1242874473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91772,29.34652,30.91772,29.34652",
+    "geom:latitude":29.34652,
+    "geom:longitude":30.91772,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al `Idwah",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361097,
+    "gn:latitude":29.34652,
+    "gn:longitude":30.91772,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Idwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u2018Idwa",
+        "Al \u2018Idwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361097
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"71356c8a8953ff95518186eb04e4ce62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1242874473,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1242874473,
+    "wof:lastmodified":1537620915,
+    "wof:name":"Al `Idwah",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91772000000001,
+    29.34652,
+    30.91772000000001,
+    29.34652
+],
+  "geometry": {"coordinates":[30.91772000000001,29.34652],"type":"Point"}
+}

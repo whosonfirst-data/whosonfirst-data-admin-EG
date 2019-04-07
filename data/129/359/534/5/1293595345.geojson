@@ -1,0 +1,67 @@
+{
+  "id": 1293595345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6626,29.13729,30.6626,29.13729",
+    "geom:latitude":29.13729,
+    "geom:longitude":30.6626,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Hasan Abu al Qasim",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434279,
+    "gn:latitude":29.13729,
+    "gn:longitude":30.6626,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat \u1e28asan Ab\u016b al Q\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434279
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c32389a2e99c58de999742dc550867ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1293595345,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1293595345,
+    "wof:lastmodified":1536629914,
+    "wof:name":"`Izbat Hasan Abu al Qasim",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6626,
+    29.13729,
+    30.6626,
+    29.13729
+],
+  "geometry": {"coordinates":[30.6626,29.13729],"type":"Point"}
+}

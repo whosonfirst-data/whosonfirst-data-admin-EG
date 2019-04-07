@@ -1,0 +1,71 @@
+{
+  "id": 1310205517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95,29.2,30.95,29.2",
+    "geom:latitude":29.2,
+    "geom:longitude":30.95,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gurob",
+    "gn:country_code":"EG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":8449931,
+    "gn:latitude":29.2,
+    "gn:longitude":30.95,
+    "gn:modification_date":"2013-02-06",
+    "gn:name":"Gurob",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Medinet Ghurab",
+        "Kom Medinet Ghurab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8449931
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"99002de9c91fcf4da7eca661dde81eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1310205517,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1310205517,
+    "wof:lastmodified":1537621195,
+    "wof:name":"Gurob",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95,
+    29.2,
+    30.95,
+    29.2
+],
+  "geometry": {"coordinates":[30.95,29.2],"type":"Point"}
+}

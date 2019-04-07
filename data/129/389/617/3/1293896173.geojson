@@ -1,0 +1,84 @@
+{
+  "id": 1293896173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40612,22.39706,36.40612,22.39706",
+    "geom:latitude":22.39706,
+    "geom:longitude":36.40612,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abu Ramad",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8030659,
+    "gn:latitude":22.39706,
+    "gn:longitude":36.40612,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Abu Ramad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092019787,
+        1091709471,
+        85632751,
+        85676867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8030659
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5168c3b85eba6791f08249172a2cb6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019787,
+            "locality_id":1293896173,
+            "region_id":85671085
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1091709471,
+            "locality_id":1293896173,
+            "region_id":85671085
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709471,
+            "locality_id":1293896173,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1293896173,
+    "wof:lastmodified":1536695236,
+    "wof:name":"Abu Ramad",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40612,
+    22.39706,
+    36.40612,
+    22.39706
+],
+  "geometry": {"coordinates":[36.40612,22.39706],"type":"Point"}
+}

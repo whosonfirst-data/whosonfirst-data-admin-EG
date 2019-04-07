@@ -1,0 +1,74 @@
+{
+  "id": 1327301171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63137,28.1984,33.63137,28.1984",
+    "geom:latitude":28.1984,
+    "geom:longitude":33.63137,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Al Jubayl",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355005,
+    "gn:latitude":28.1984,
+    "gn:longitude":33.63137,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jubayl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gibeil",
+        "Jabal",
+        "Gebeil",
+        "Jebal",
+        "Al Jubayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671089,
+        1092020113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355005
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e772e0064ffb4e0a636174f8ea994cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020113,
+            "locality_id":1327301171,
+            "region_id":85671089
+        }
+    ],
+    "wof:id":1327301171,
+    "wof:lastmodified":1537620752,
+    "wof:name":"Al Jubayl",
+    "wof:parent_id":1092020113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.63137,
+    28.1984,
+    33.63137,
+    28.1984
+],
+  "geometry": {"coordinates":[33.63137,28.1984],"type":"Point"}
+}

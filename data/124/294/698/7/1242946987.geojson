@@ -1,0 +1,75 @@
+{
+  "id": 1242946987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82928,31.10222,30.82928,31.10222",
+    "geom:latitude":31.10222,
+    "geom:longitude":30.82928,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Tawilat Nashart",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347398,
+    "gn:latitude":31.10222,
+    "gn:longitude":30.82928,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u0162aw\u012blat Nashart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u064a\u0644\u0629 \u0646\u0634\u0631\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u1e6caw\u00eelet Nashart",
+        "\u0162aw\u012blat Nashart",
+        "\u1e6cawilat Nashart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347398
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fb1cc42a5dfb8e9fd31c40dff81ad671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021829,
+            "locality_id":1242946987,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1242946987,
+    "wof:lastmodified":1537620557,
+    "wof:name":"Tawilat Nashart",
+    "wof:parent_id":1092021829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82928,
+    31.10222000000001,
+    30.82928,
+    31.10222000000001
+],
+  "geometry": {"coordinates":[30.82928,31.10222000000001],"type":"Point"}
+}

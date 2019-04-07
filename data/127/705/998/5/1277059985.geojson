@@ -1,0 +1,73 @@
+{
+  "id": 1277059985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65594,30.67721,31.65594,30.67721",
+    "geom:latitude":30.67721,
+    "geom:longitude":31.65594,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sirkis",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068460,
+    "gn:latitude":30.67721,
+    "gn:longitude":31.65594,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Sirk\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Sirk\u012bs"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0631\u0643\u064a\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068460
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4fad78a2d82ab06ea784ce88c490c91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1277059985,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1277059985,
+    "wof:lastmodified":1537621164,
+    "wof:name":"Sirkis",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65594,
+    30.67721,
+    31.65594,
+    30.67721
+],
+  "geometry": {"coordinates":[31.65594,30.67721],"type":"Point"}
+}

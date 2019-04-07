@@ -1,0 +1,74 @@
+{
+  "id": 1193252439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95347,31.2067,30.95347,31.2067",
+    "geom:latitude":31.2067,
+    "geom:longitude":30.95347,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat al Masri",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416059,
+    "gn:latitude":31.2067,
+    "gn:longitude":30.95347,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat al Ma\u015fr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0645\u0635\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Ma\u015fr\u012b",
+        "\u2018Izbat al Ma\u1e63r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416059
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6ed34429748f66f7476d8daa71b3d0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1193252439,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1193252439,
+    "wof:lastmodified":1537621010,
+    "wof:name":"`Izbat al Masri",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95347000000001,
+    31.2067,
+    30.95347000000001,
+    31.2067
+],
+  "geometry": {"coordinates":[30.95347000000001,31.2067],"type":"Point"}
+}

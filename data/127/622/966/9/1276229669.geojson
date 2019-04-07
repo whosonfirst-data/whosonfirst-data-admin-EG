@@ -1,0 +1,74 @@
+{
+  "id": 1276229669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3147,31.24713,30.3147,31.24713",
+    "geom:latitude":31.24713,
+    "geom:longitude":30.3147,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Jurf",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415099,
+    "gn:latitude":31.24713,
+    "gn:longitude":30.3147,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u2018Izbat al Jurf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062c\u0631\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Jurf",
+        "\u2018Ezbet el-Garf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092016481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415099
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6a5a0aee18794a10105517e47ca8030d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016481,
+            "locality_id":1276229669,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276229669,
+    "wof:lastmodified":1537620979,
+    "wof:name":"`Izbat al Jurf",
+    "wof:parent_id":1092016481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3147,
+    31.24713,
+    30.3147,
+    31.24713
+],
+  "geometry": {"coordinates":[30.3147,31.24713],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276774807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.44683,31.29053,30.44683,31.29053",
+    "geom:latitude":31.29053,
+    "geom:longitude":30.44683,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al `Ittah Ithnan",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415090,
+    "gn:latitude":31.29053,
+    "gn:longitude":30.44683,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat al \u2018Ittah Ithn\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u062a\u0629 \u0625\u062b\u0646\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u2018Ittah Ithn\u0101n",
+        "\u2018Izbat al \u2018Ittah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092023921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415090
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7659bd813aae43640b0d59bb6f69759d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023921,
+            "locality_id":1276774807,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276774807,
+    "wof:lastmodified":1537620979,
+    "wof:name":"`Izbat al `Ittah Ithnan",
+    "wof:parent_id":1092023921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.44683,
+    31.29053,
+    30.44683,
+    31.29053
+],
+  "geometry": {"coordinates":[30.44683,31.29053],"type":"Point"}
+}

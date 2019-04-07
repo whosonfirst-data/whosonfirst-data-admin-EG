@@ -1,0 +1,67 @@
+{
+  "id": 1344257265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81626,29.19112,30.81626,29.19112",
+    "geom:latitude":29.19112,
+    "geom:longitude":30.81626,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Awlad Muhammad al Kashif",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434739,
+    "gn:latitude":29.19112,
+    "gn:longitude":30.81626,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Awl\u0101d Mu\u1e29ammad al K\u0101shif",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434739
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5b1416dcbc70138d1d87ddaad6a901c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1344257265,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1344257265,
+    "wof:lastmodified":1537085625,
+    "wof:name":"`Izbat Awlad Muhammad al Kashif",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81626,
+    29.19112,
+    30.81626,
+    29.19112
+],
+  "geometry": {"coordinates":[30.81626,29.19112],"type":"Point"}
+}

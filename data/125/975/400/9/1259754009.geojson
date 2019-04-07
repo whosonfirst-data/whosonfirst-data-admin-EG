@@ -1,0 +1,74 @@
+{
+  "id": 1259754009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5416,30.61527,31.5416,30.61527",
+    "geom:latitude":30.61527,
+    "geom:longitude":31.5416,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Abu Taha",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8067813,
+    "gn:latitude":30.61527,
+    "gn:longitude":31.5416,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Ab\u016b \u0162\u0101h\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0637\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b \u0162\u0101h\u0101",
+        "\u2018Izbat Ab\u016b \u0162aha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8067813
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a41dc3dae31859b4699b322d54945e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1259754009,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259754009,
+    "wof:lastmodified":1537621161,
+    "wof:name":"`Izbat Abu Taha",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5416,
+    30.61527,
+    31.5416,
+    30.61527
+],
+  "geometry": {"coordinates":[31.5416,30.61527],"type":"Point"}
+}

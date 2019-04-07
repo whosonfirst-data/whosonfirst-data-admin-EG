@@ -1,0 +1,68 @@
+{
+  "id": 1343846303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61556,30.13806,31.61556,30.13806",
+    "geom:latitude":30.13806,
+    "geom:longitude":31.61556,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"El Shorouk",
+    "gn:country_code":"EG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7799998,
+    "gn:latitude":30.13806,
+    "gn:longitude":31.61556,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"El Shorouk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092022997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7799998,
+        "wk:page":"El_Shorouk"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"71fe123bc9bab96c15652b9a4a877f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022997,
+            "locality_id":1343846303,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1343846303,
+    "wof:lastmodified":1537562624,
+    "wof:name":"El Shorouk",
+    "wof:parent_id":1092022997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61556,
+    30.13806,
+    31.61556,
+    30.13806
+],
+  "geometry": {"coordinates":[31.61556,30.13806],"type":"Point"}
+}

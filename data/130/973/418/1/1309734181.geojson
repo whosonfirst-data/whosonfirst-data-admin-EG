@@ -1,0 +1,74 @@
+{
+  "id": 1309734181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3,29.78333,31.3,29.78333",
+    "geom:latitude":29.78333,
+    "geom:longitude":31.3,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"At Tabbin",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359722,
+    "gn:latitude":29.78333,
+    "gn:longitude":31.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"At Tabb\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Tabin",
+        "Et Tabb\u012bn",
+        "El Tabb\u00een",
+        "At Tabb\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092020075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359722
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"430d7313424dbc3e6854fba28647f31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020075,
+            "locality_id":1309734181,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1309734181,
+    "wof:lastmodified":1537620847,
+    "wof:name":"At Tabbin",
+    "wof:parent_id":1092020075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3,
+    29.78333,
+    31.3,
+    29.78333
+],
+  "geometry": {"coordinates":[31.3,29.78333],"type":"Point"}
+}

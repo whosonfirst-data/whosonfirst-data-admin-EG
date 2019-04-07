@@ -1,0 +1,74 @@
+{
+  "id": 1226028167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63224,30.63663,31.63224,30.63663",
+    "geom:latitude":30.63663,
+    "geom:longitude":31.63224,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat ash Shaykh `Utman",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068501,
+    "gn:latitude":30.63663,
+    "gn:longitude":31.63224,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat ash Shaykh \u2018Utm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0634\u064a\u062e \u0639\u062a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ash Shaykh \u2018Utm\u0101n",
+        "\u2018Izbat ash Shaykh \u2018Itm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068501
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b0a1b2af073ea6825a7d0cab0bd42489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021319,
+            "locality_id":1226028167,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226028167,
+    "wof:lastmodified":1537621166,
+    "wof:name":"`Izbat ash Shaykh `Utman",
+    "wof:parent_id":1092021319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63224,
+    30.63663,
+    31.63224,
+    30.63663
+],
+  "geometry": {"coordinates":[31.63224,30.63663],"type":"Point"}
+}

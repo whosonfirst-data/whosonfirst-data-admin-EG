@@ -1,0 +1,73 @@
+{
+  "id": 1092019147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.184051,
+    "geom:area_square_m":1957509494.534693,
+    "geom:bbox":"33.899048,30.282877,34.645544,30.959837",
+    "geom:latitude":30.673578,
+    "geom:longitude":34.325429,
+    "iso:country":"EG",
+    "lbl:latitude":30.808131,
+    "lbl:longitude":34.263156,
+    "meso:admin_1":"North Sinai",
+    "meso:diss_me":"El-QaseemahNorth Sinai",
+    "meso:gadm_admin":"Rafah",
+    "meso:gadm_hasc2":"EG.SS.RF",
+    "meso:gaul_admin":"Rafah",
+    "meso:mps_x":34.263156,
+    "meso:mps_y":30.808131,
+    "meso:name_en":"El-Qaseemah",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.808131,
+    "mps:longitude":34.263156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Rafah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.SS.RF"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897314,
+    "wof:geomhash":"4e9dfe5d6a0b63031703c108bce183c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019147,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1092019147,
+    "wof:lastmodified":1536615087,
+    "wof:name":"El-Qaseemah",
+    "wof:parent_id":85671093,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"RF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.899048,
+    30.282877,
+    34.645544,
+    30.959837
+],
+  "geometry": {"coordinates":[[[34.204209,30.949588],[34.288735,30.953766],[34.349355,30.957684],[34.362765,30.959837],[34.39687,30.863331],[34.41,30.84],[34.454485,30.75776],[34.496374,30.681112],[34.52419,30.58194],[34.52,30.53],[34.521541,30.531234],[34.563504,30.489811],[34.545293,30.437057],[34.547578,30.413369],[34.553756,30.404775],[34.6,30.38],[34.61,30.37],[34.624206,30.336814],[34.645544,30.283242],[34.403929,30.282877],[34.332044,30.653224],[34.138632,30.682804],[34.049663,30.805377],[33.899048,30.931809],[34.204209,30.949588]]],"type":"Polygon"}
+}

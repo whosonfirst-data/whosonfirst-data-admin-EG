@@ -1,0 +1,73 @@
+{
+  "id": 1226301733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49355,31.392,30.49355,31.392",
+    "geom:latitude":31.392,
+    "geom:longitude":30.49355,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat al Khadra'",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414972,
+    "gn:latitude":31.392,
+    "gn:longitude":30.49355,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat al Kha\u1e11r\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062e\u0636\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Kha\u1e11r\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414972
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"75d53523bb6128a181d239e19b5decbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1226301733,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1226301733,
+    "wof:lastmodified":1537620974,
+    "wof:name":"`Izbat al Khadra'",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49355,
+    31.392,
+    30.49355,
+    31.392
+],
+  "geometry": {"coordinates":[30.49355,31.392],"type":"Point"}
+}

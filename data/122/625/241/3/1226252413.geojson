@@ -1,0 +1,75 @@
+{
+  "id": 1226252413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.50777,31.29992,31.50777,31.29992",
+    "geom:latitude":31.29992,
+    "geom:longitude":31.50777,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr al `Atal",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354723,
+    "gn:latitude":31.29992,
+    "gn:longitude":31.50777,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kafr al \u2018Atal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0639\u062a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Kafr el- \u2018Atal",
+        "Kafr al \u2018Atal",
+        "\u2018Kafr al Utul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092024759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354723
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e6199f814ed560622a42fd9a789d8cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024759,
+            "locality_id":1226252413,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1226252413,
+    "wof:lastmodified":1537620739,
+    "wof:name":"Kafr al `Atal",
+    "wof:parent_id":1092024759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.50777,
+    31.29992,
+    31.50777,
+    31.29992
+],
+  "geometry": {"coordinates":[31.50777,31.29992],"type":"Point"}
+}

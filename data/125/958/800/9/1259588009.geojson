@@ -1,0 +1,67 @@
+{
+  "id": 1259588009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79347,30.795,30.79347,30.795",
+    "geom:latitude":30.795,
+    "geom:longitude":30.79347,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr Shammakh",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354093,
+    "gn:latitude":30.795,
+    "gn:longitude":30.79347,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kafr Shamm\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092021623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354093
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a6fe8c71011db9ea1996fd48d66e5f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021623,
+            "locality_id":1259588009,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1259588009,
+    "wof:lastmodified":1536708555,
+    "wof:name":"Kafr Shammakh",
+    "wof:parent_id":1092021623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79347000000001,
+    30.795,
+    30.79347000000001,
+    30.795
+],
+  "geometry": {"coordinates":[30.79347000000001,30.795],"type":"Point"}
+}

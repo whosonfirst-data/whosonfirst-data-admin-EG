@@ -1,0 +1,67 @@
+{
+  "id": 1327090633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38757,26.15276,32.38757,26.15276",
+    "geom:latitude":26.15276,
+    "geom:longitude":32.38757,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` ash Shaykh `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434572,
+    "gn:latitude":26.15276,
+    "gn:longitude":32.38757,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Naj\u2018 ash Shaykh \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092016157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434572
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"428214f47605d5bb6af6950e86faf0fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016157,
+            "locality_id":1327090633,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1327090633,
+    "wof:lastmodified":1536676584,
+    "wof:name":"Naj` ash Shaykh `Ali",
+    "wof:parent_id":1092016157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38757,
+    26.15276,
+    32.38757,
+    26.15276
+],
+  "geometry": {"coordinates":[32.38757,26.15276],"type":"Point"}
+}

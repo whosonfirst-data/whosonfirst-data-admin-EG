@@ -1,0 +1,65 @@
+{
+  "id": 1209478811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30163,27.13751,31.30163,27.13751",
+    "geom:latitude":27.13751,
+    "geom:longitude":31.30163,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Muti`ah",
+    "gn:country_code":"EG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360639,
+    "gn:latitude":27.13751,
+    "gn:longitude":31.30163,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Mu\u0163\u012b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mut\u00ee\u2018a",
+        "Al Mu\u0163\u012b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360639
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ff5409f4a57bd1624c8b2817fb4825b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209478811
+        }
+    ],
+    "wof:id":1209478811,
+    "wof:lastmodified":1537620888,
+    "wof:name":"Al Muti`ah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30163,
+    27.13751,
+    31.30163,
+    27.13751
+],
+  "geometry": {"coordinates":[31.30163,27.13751],"type":"Point"}
+}

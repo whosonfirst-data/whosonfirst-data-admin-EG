@@ -1,0 +1,74 @@
+{
+  "id": 1310288569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48289,30.76089,31.48289,30.76089",
+    "geom:latitude":30.76089,
+    "geom:longitude":31.48289,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Qawishah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420641,
+    "gn:latitude":30.76089,
+    "gn:longitude":31.48289,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"\u2018Izbat Q\u0101w\u012bshah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0642\u0627\u0648\u064a\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Q\u0101w\u012bshah",
+        "\u2018Iz. Q\u0101w\u012bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420641
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c93f70ce6252150e968531968cd45757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1310288569,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310288569,
+    "wof:lastmodified":1537621082,
+    "wof:name":"`Izbat Qawishah",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48289,
+    30.76089,
+    31.48289,
+    30.76089
+],
+  "geometry": {"coordinates":[31.48289,30.76089],"type":"Point"}
+}

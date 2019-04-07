@@ -1,0 +1,94 @@
+{
+  "id": 890450047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81338,30.93976,30.81338,30.93976",
+    "geom:latitude":30.93976,
+    "geom:longitude":30.81338,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":55523,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u064a\u0648\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Basyoun"
+    ],
+    "name:eng_x_preferred":[
+        "Basyoun"
+    ],
+    "name:ita_x_preferred":[
+        "Basyoun"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0441\u044c\u044e\u043d \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:pol_x_preferred":[
+        "Basjun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u044c\u044e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Basy\u016bn"
+    ],
+    "name:unk_x_variant":[
+        "Basy\u00fbn"
+    ],
+    "qs:name":"Basy\u016bn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092015375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358970,
+        "gp:id":1522642,
+        "qs:id":80227,
+        "wd:id":"Q1072210"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052722,
+    "wof:geomhash":"7bd30d1f691a6d30ebaac81472ebabe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015375,
+            "locality_id":890450047,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":890450047,
+    "wof:lastmodified":1513956678,
+    "wof:name":"Basy\u016bn",
+    "wof:parent_id":1092015375,
+    "wof:placetype":"locality",
+    "wof:population":55523,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81338,
+    30.93976,
+    30.81338,
+    30.93976
+],
+  "geometry": {"coordinates":[30.81338,30.93976],"type":"Point"}
+}

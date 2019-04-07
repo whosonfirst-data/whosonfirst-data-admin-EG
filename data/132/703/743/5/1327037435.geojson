@@ -1,0 +1,71 @@
+{
+  "id": 1327037435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70058,30.96806,30.70058,30.96806",
+    "geom:latitude":30.96806,
+    "geom:longitude":30.70058,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Urayn",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346475,
+    "gn:latitude":30.96806,
+    "gn:longitude":30.70058,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u016arayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00dbrein",
+        "\u016arayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092024849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346475
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2921f75c51105f0398746617a5649d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024849,
+            "locality_id":1327037435,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327037435,
+    "wof:lastmodified":1537620551,
+    "wof:name":"Urayn",
+    "wof:parent_id":1092024849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70058,
+    30.96806,
+    30.70058,
+    30.96806
+],
+  "geometry": {"coordinates":[30.70058,30.96806],"type":"Point"}
+}

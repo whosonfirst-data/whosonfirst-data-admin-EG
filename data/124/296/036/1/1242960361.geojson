@@ -1,0 +1,73 @@
+{
+  "id": 1242960361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24488,30.42757,31.24488,30.42757",
+    "geom:latitude":30.42757,
+    "geom:longitude":31.24488,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Izbat Muhammad Bashat",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432846,
+    "gn:latitude":30.42757,
+    "gn:longitude":31.24488,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Mu\u1e29ammad B\u0101sh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u062d\u0645\u062f \u0628\u0627\u0634\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mu\u1e29ammad B\u0101sh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092015253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432846
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2bff3f6477365ebbea7a574893425ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015253,
+            "locality_id":1242960361,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1242960361,
+    "wof:lastmodified":1537621118,
+    "wof:name":"`Izbat Muhammad Bashat",
+    "wof:parent_id":1092015253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24488,
+    30.42757000000001,
+    31.24488,
+    30.42757000000001
+],
+  "geometry": {"coordinates":[31.24488,30.42757000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259366429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38163,30.7083,31.38163,30.7083",
+    "geom:latitude":30.7083,
+    "geom:longitude":31.38163,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Abu `Asakir",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420601,
+    "gn:latitude":30.7083,
+    "gn:longitude":31.38163,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Ab\u016b \u2018As\u0101kir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0639\u0633\u0627\u0643\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b \u2018As\u0101kir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420601
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3a015099d453305d1756eb5e20b4a53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022277,
+            "locality_id":1259366429,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259366429,
+    "wof:lastmodified":1537621080,
+    "wof:name":"`Izbat Abu `Asakir",
+    "wof:parent_id":1092022277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38163,
+    30.7083,
+    31.38163,
+    30.7083
+],
+  "geometry": {"coordinates":[31.38163,30.7083],"type":"Point"}
+}

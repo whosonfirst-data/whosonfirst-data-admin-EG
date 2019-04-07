@@ -1,0 +1,73 @@
+{
+  "id": 1360169249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05322,30.28647,31.05322,30.28647",
+    "geom:latitude":30.28647,
+    "geom:longitude":31.05322,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr Abu Mahmud",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354823,
+    "gn:latitude":30.28647,
+    "gn:longitude":31.05322,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ab\u016b Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0623\u0628\u0648 \u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kafr Ab\u016b Ma\u1e29m\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354823
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"23eca9dfa2bde1f02c681ed11b4524d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1360169249,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1360169249,
+    "wof:lastmodified":1537620747,
+    "wof:name":"Kafr Abu Mahmud",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05322,
+    30.28647,
+    31.05322,
+    30.28647
+],
+  "geometry": {"coordinates":[31.05322,30.28647],"type":"Point"}
+}

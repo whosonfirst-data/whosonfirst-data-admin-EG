@@ -1,0 +1,74 @@
+{
+  "id": 1309780067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23033,31.14729,31.23033,31.14729",
+    "geom:latitude":31.14729,
+    "geom:longitude":31.23033,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"At Tanbawi",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419229,
+    "gn:latitude":31.14729,
+    "gn:longitude":31.23033,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"A\u0163 \u0162anb\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0646\u0628\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162anb\u0101w\u012b",
+        "A\u1e6d \u1e6canb\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419229
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"630ca45481f0e92bb57107a1284a0e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1309780067,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1309780067,
+    "wof:lastmodified":1537621043,
+    "wof:name":"At Tanbawi",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23033,
+    31.14729,
+    31.23033,
+    31.14729
+],
+  "geometry": {"coordinates":[31.23033,31.14729],"type":"Point"}
+}

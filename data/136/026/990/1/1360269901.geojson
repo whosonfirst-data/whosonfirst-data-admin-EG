@@ -1,0 +1,71 @@
+{
+  "id": 1360269901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96626,30.60359,30.96626,30.60359",
+    "geom:latitude":30.60359,
+    "geom:longitude":30.96626,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr al Batanun",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354701,
+    "gn:latitude":30.60359,
+    "gn:longitude":30.96626,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Bat\u0101n\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Bat\u00e2n\u00fbn",
+        "Kafr al Bat\u0101n\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092024543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354701
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f8dd0b1fab747c76dc0e902f4f3d36da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024543,
+            "locality_id":1360269901,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1360269901,
+    "wof:lastmodified":1537620737,
+    "wof:name":"Kafr al Batanun",
+    "wof:parent_id":1092024543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96626,
+    30.60359,
+    30.96626,
+    30.60359
+],
+  "geometry": {"coordinates":[30.96626,30.60359],"type":"Point"}
+}

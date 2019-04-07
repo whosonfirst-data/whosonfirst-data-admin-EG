@@ -1,0 +1,67 @@
+{
+  "id": 1226121405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93167,30.83,31.93167,30.83",
+    "geom:latitude":30.83,
+    "geom:longitude":31.93167,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Ezbet Ahmad Mazin",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":409303,
+    "gn:latitude":30.83,
+    "gn:longitude":31.93167,
+    "gn:modification_date":"1997-09-22",
+    "gn:name":"\u2018Ezbet A\u1e25mad M\u00e2zin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":409303
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ad6d4fc8c0dd2331391b9d4d06e34498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1226121405,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226121405,
+    "wof:lastmodified":1536613593,
+    "wof:name":"`Ezbet Ahmad Mazin",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93167,
+    30.83,
+    31.93167,
+    30.83
+],
+  "geometry": {"coordinates":[31.93167,30.83],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243343669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31667,30.33333,31.31667,30.33333",
+    "geom:latitude":30.33333,
+    "geom:longitude":31.31667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Khalwat ash Shaykh `Uthman",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353735,
+    "gn:latitude":30.33333,
+    "gn:longitude":31.31667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khalwat ash Shaykh \u2018Uthm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khilwet el-Sheikh \u2018Osm\u00e2n",
+        "Khalwat ash Shaykh \u2018Uthm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092024593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353735
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dd8415ef61e5389d7839cba6b5bbc68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024593,
+            "locality_id":1243343669,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1243343669,
+    "wof:lastmodified":1537620673,
+    "wof:name":"Khalwat ash Shaykh `Uthman",
+    "wof:parent_id":1092024593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31667,
+    30.33333,
+    31.31667,
+    30.33333
+],
+  "geometry": {"coordinates":[31.31667,30.33333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326600973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7519,30.73955,31.7519,30.73955",
+    "geom:latitude":30.73955,
+    "geom:longitude":31.7519,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Fadadinah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361343,
+    "gn:latitude":30.73955,
+    "gn:longitude":31.7519,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al Fad\u0101dinah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u062f\u0627\u062f\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Fad\u00e2dna",
+        "Al Fad\u0101dinah",
+        "Al-Fad\u0101dnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361343
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1178a2f5d11cf852da027f85e57c8f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1326600973,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1326600973,
+    "wof:lastmodified":1537620930,
+    "wof:name":"Al Fadadinah",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7519,
+    30.73955,
+    31.7519,
+    30.73955
+],
+  "geometry": {"coordinates":[31.7519,30.73955],"type":"Point"}
+}

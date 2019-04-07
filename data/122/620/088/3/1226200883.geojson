@@ -1,0 +1,72 @@
+{
+  "id": 1226200883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27088,31.49412,26.27088,31.49412",
+    "geom:latitude":31.49412,
+    "geom:longitude":26.27088,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Zawiyat al Muthniyan",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346101,
+    "gn:latitude":31.49412,
+    "gn:longitude":26.27088,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat al Muthniy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u0101wiyet el Mithniy\u0101n",
+        "Z\u00e2wyet el Mithniy\u00e2n",
+        "Z\u0101wiyat al Muthniy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092018725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346101
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"39c08734dc0f73752447a2f2181fc3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018725,
+            "locality_id":1226200883,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1226200883,
+    "wof:lastmodified":1537620546,
+    "wof:name":"Zawiyat al Muthniyan",
+    "wof:parent_id":1092018725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27088,
+    31.49412,
+    26.27088,
+    31.49412
+],
+  "geometry": {"coordinates":[26.27088,31.49412],"type":"Point"}
+}

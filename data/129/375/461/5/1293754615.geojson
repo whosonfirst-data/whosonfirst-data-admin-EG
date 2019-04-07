@@ -1,0 +1,74 @@
+{
+  "id": 1293754615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74424,30.93603,31.74424,30.93603",
+    "geom:latitude":30.93603,
+    "geom:longitude":31.74424,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Hamadah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357330,
+    "gn:latitude":30.93603,
+    "gn:longitude":31.74424,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat \u1e28am\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062d\u0645\u0627\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet \u1e24am\u00e2da",
+        "\u2018Izbat \u1e28am\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357330
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"db72c7928ebb6159e5cf74afc97214ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015105,
+            "locality_id":1293754615,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293754615,
+    "wof:lastmodified":1537620790,
+    "wof:name":"`Izbat Hamadah",
+    "wof:parent_id":1092015105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74424,
+    30.93603,
+    31.74424,
+    30.93603
+],
+  "geometry": {"coordinates":[31.74424,30.93603],"type":"Point"}
+}

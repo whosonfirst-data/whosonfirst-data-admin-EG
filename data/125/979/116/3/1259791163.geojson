@@ -1,0 +1,71 @@
+{
+  "id": 1259791163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56212,30.92075,30.56212,30.92075",
+    "geom:latitude":30.92075,
+    "geom:longitude":30.56212,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Bihay",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361380,
+    "gn:latitude":30.92075,
+    "gn:longitude":30.56212,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bihay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Bihai",
+        "Al Bihay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092020749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361380
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bb073e6686f4bf30d6a55cc7874e7290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020749,
+            "locality_id":1259791163,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259791163,
+    "wof:lastmodified":1537620932,
+    "wof:name":"Al Bihay",
+    "wof:parent_id":1092020749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56212,
+    30.92075,
+    30.56212,
+    30.92075
+],
+  "geometry": {"coordinates":[30.56212,30.92075],"type":"Point"}
+}

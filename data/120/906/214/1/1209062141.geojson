@@ -1,0 +1,65 @@
+{
+  "id": 1209062141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5082,26.80094,31.5082,26.80094",
+    "geom:latitude":26.80094,
+    "geom:longitude":31.5082,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ash Shaykh Zayn ad Din",
+    "gn:country_code":"EG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359968,
+    "gn:latitude":26.80094,
+    "gn:longitude":31.5082,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shaykh Zayn ad D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sheikh Ze\u00een el D\u00een",
+        "Ash Shaykh Zayn ad D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359968
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"de7af9ee0abd41128d8753aa501169ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209062141
+        }
+    ],
+    "wof:id":1209062141,
+    "wof:lastmodified":1537620860,
+    "wof:name":"Ash Shaykh Zayn ad Din",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5082,
+    26.80094,
+    31.5082,
+    26.80094
+],
+  "geometry": {"coordinates":[31.5082,26.80094],"type":"Point"}
+}

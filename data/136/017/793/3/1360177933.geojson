@@ -1,0 +1,67 @@
+{
+  "id": 1360177933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26667,29.95,31.26667,29.95",
+    "geom:latitude":29.95,
+    "geom:longitude":31.26667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El-Paruqiya",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357808,
+    "gn:latitude":29.95,
+    "gn:longitude":31.26667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"El-P\u00e2r\u00fbq\u00eeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092018203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357808
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dcaf6e7f6a7c7b07ccb3ce8c6d0f4295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018203,
+            "locality_id":1360177933,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1360177933,
+    "wof:lastmodified":1536811245,
+    "wof:name":"El-Paruqiya",
+    "wof:parent_id":1092018203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26667,
+    29.95,
+    31.26667,
+    29.95
+],
+  "geometry": {"coordinates":[31.26667,29.95],"type":"Point"}
+}

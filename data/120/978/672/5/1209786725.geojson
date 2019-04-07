@@ -1,0 +1,74 @@
+{
+  "id": 1209786725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.301,30.41558,31.301,30.41558",
+    "geom:latitude":30.41558,
+    "geom:longitude":31.301,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Majazir",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360811,
+    "gn:latitude":30.41558,
+    "gn:longitude":31.301,
+    "gn:modification_date":"2017-07-15",
+    "gn:name":"Al Maj\u0101zir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u0627\u0632\u0631"
+    ],
+    "name:und_x_variant":[
+        "El-Mag\u00e2zir",
+        "Al Maj\u0101zir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092015253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360811
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9746cf5f17f16012cbe8c12af7fd7de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015253,
+            "locality_id":1209786725,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1209786725,
+    "wof:lastmodified":1537620898,
+    "wof:name":"Al Majazir",
+    "wof:parent_id":1092015253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.301,
+    30.41558,
+    31.301,
+    30.41558
+],
+  "geometry": {"coordinates":[31.301,30.41558],"type":"Point"}
+}

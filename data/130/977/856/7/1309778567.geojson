@@ -1,0 +1,72 @@
+{
+  "id": 1309778567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.89655,24.13974,32.89655,24.13974",
+    "geom:latitude":24.13974,
+    "geom:longitude":32.89655,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Abu ar Rish Qibli",
+    "gn:country_code":"EG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362849,
+    "gn:latitude":24.13974,
+    "gn:longitude":32.89655,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b ar R\u012bsh Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu er R\u012bsh Qibli",
+        "Abu el R\u00eesh Qibli",
+        "Ab\u016b ar R\u012bsh Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092022915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362849
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e4a88e0c5f78d8ce3320d54861f37d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022915,
+            "locality_id":1309778567,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1309778567,
+    "wof:lastmodified":1537620963,
+    "wof:name":"Abu ar Rish Qibli",
+    "wof:parent_id":1092022915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.89655,
+    24.13974,
+    32.89655,
+    24.13974
+],
+  "geometry": {"coordinates":[32.89655,24.13974],"type":"Point"}
+}

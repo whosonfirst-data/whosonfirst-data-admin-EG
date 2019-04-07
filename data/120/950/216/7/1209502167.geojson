@@ -1,0 +1,71 @@
+{
+  "id": 1209502167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25024,30.20127,31.25024,30.20127",
+    "geom:latitude":30.20127,
+    "geom:longitude":31.25024,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nay",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351261,
+    "gn:latitude":30.20127,
+    "gn:longitude":31.25024,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "N\u0101y"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0627\u064a"
+    ],
+    "name:und_x_variant":[
+        "N\u00e2i",
+        "N\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351261
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2c8507723f4e4495db3d530a59346bbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209502167
+        }
+    ],
+    "wof:id":1209502167,
+    "wof:lastmodified":1537620616,
+    "wof:name":"Nay",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25024,
+    30.20127,
+    31.25024,
+    30.20127
+],
+  "geometry": {"coordinates":[31.25024,30.20127],"type":"Point"}
+}

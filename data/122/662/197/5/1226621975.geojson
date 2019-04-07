@@ -1,0 +1,67 @@
+{
+  "id": 1226621975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05047,29.12085,31.05047,29.12085",
+    "geom:latitude":29.12085,
+    "geom:longitude":31.05047,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bilifya",
+    "gn:country_code":"EG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358832,
+    "gn:latitude":29.12085,
+    "gn:longitude":31.05047,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bilify\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358832
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b6257c9fa74f69d52466e32083a9fb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015341,
+            "locality_id":1226621975,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1226621975,
+    "wof:lastmodified":1536893539,
+    "wof:name":"Bilifya",
+    "wof:parent_id":1092015341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05047,
+    29.12085,
+    31.05047,
+    29.12085
+],
+  "geometry": {"coordinates":[31.05047,29.12085],"type":"Point"}
+}

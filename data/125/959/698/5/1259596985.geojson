@@ -1,0 +1,77 @@
+{
+  "id": 1259596985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37406,31.2382,31.37406,31.2382",
+    "geom:latitude":31.2382,
+    "geom:longitude":31.37406,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"As Samahah al Kubra",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359862,
+    "gn:latitude":31.2382,
+    "gn:longitude":31.37406,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"As Sam\u0101\u1e29ah al Kubr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0627\u062d\u0629 \u0627\u0644\u0643\u0628\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "El-Sam\u00e2\u1e25iya el-Kubra",
+        "El-Samahiga el-Kubra",
+        "As Sam\u0101\u1e29\u012byah al Kubr\u00e1",
+        "As Sam\u0101\u1e29ah al Kubr\u00e1",
+        "As-Sam\u0101\u1e25ah al-Kubr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092015611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359862
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ac69e3e2f4ca48884aa4ffb9415bc243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015611,
+            "locality_id":1259596985,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259596985,
+    "wof:lastmodified":1537620853,
+    "wof:name":"As Samahah al Kubra",
+    "wof:parent_id":1092015611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37406,
+    31.2382,
+    31.37406,
+    31.2382
+],
+  "geometry": {"coordinates":[31.37406,31.2382],"type":"Point"}
+}

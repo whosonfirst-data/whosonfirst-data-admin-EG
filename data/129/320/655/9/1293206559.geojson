@@ -1,0 +1,76 @@
+{
+  "id": 1293206559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96447,29.40016,30.96447,29.40016",
+    "geom:latitude":29.40016,
+    "geom:longitude":30.96447,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sirsina",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347882,
+    "gn:latitude":29.40016,
+    "gn:longitude":30.96447,
+    "gn:modification_date":"2017-07-11",
+    "gn:name":"Sirsin\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0633\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sursina",
+        "Sirsin\u0101",
+        "Sirisna",
+        "Seresna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092025417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347882
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bbbc3788561400f4a57585be55a702aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025417,
+            "locality_id":1293206559,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1293206559,
+    "wof:lastmodified":1537620567,
+    "wof:name":"Sirsina",
+    "wof:parent_id":1092025417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96447,
+    29.40016,
+    30.96447,
+    29.40016
+],
+  "geometry": {"coordinates":[30.96447,29.40016],"type":"Point"}
+}

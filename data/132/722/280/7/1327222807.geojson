@@ -1,0 +1,67 @@
+{
+  "id": 1327222807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66667,28.13333,30.66667,28.13333",
+    "geom:latitude":28.13333,
+    "geom:longitude":30.66667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Ezbet `Asim",
+    "gn:country_code":"EG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357602,
+    "gn:latitude":28.13333,
+    "gn:longitude":30.66667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet \u2018Asim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092018557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357602
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d55400d62c7fb903492edf6668e1b706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018557,
+            "locality_id":1327222807,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1327222807,
+    "wof:lastmodified":1536982756,
+    "wof:name":"`Ezbet `Asim",
+    "wof:parent_id":1092018557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66667,
+    28.13333,
+    30.66667,
+    28.13333
+],
+  "geometry": {"coordinates":[30.66667,28.13333],"type":"Point"}
+}

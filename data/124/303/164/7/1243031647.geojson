@@ -1,0 +1,74 @@
+{
+  "id": 1243031647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06183,27.2512,31.06183,27.2512",
+    "geom:latitude":27.2512,
+    "geom:longitude":31.06183,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Naj` Layyu",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351394,
+    "gn:latitude":27.2512,
+    "gn:longitude":31.06183,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 Layy\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naj\u2018 Layy\u016b",
+        "Nag\u2018 Labu",
+        "Naj\u2018 Labw",
+        "Nag\u2018 Labw",
+        "Naj\u2018 Sab\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351394
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4cee5b777e6589b354e9c8ed9bddd537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014633,
+            "locality_id":1243031647,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1243031647,
+    "wof:lastmodified":1537620618,
+    "wof:name":"Naj` Layyu",
+    "wof:parent_id":1092014633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06183,
+    27.2512,
+    31.06183,
+    27.2512
+],
+  "geometry": {"coordinates":[31.06183,27.2512],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209193311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31214,30.55671,31.31214,30.55671",
+    "geom:latitude":30.55671,
+    "geom:longitude":31.31214,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Muhammad Ahmad",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354171,
+    "gn:latitude":30.55671,
+    "gn:longitude":31.31214,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Mu\u1e29ammad A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0645\u062d\u0645\u062f \u0627\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kafr Mu\u1e29ammad A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354171
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"275c77ac76d8d38c46cdfc8866a4dea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209193311
+        }
+    ],
+    "wof:id":1209193311,
+    "wof:lastmodified":1537620693,
+    "wof:name":"Kafr Muhammad Ahmad",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31214000000001,
+    30.55671,
+    31.31214000000001,
+    30.55671
+],
+  "geometry": {"coordinates":[31.31214000000001,30.55671],"type":"Point"}
+}

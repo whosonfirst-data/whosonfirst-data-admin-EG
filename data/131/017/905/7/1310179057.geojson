@@ -1,0 +1,74 @@
+{
+  "id": 1310179057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53317,30.75385,31.53317,30.75385",
+    "geom:latitude":30.75385,
+    "geom:longitude":31.53317,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tall Muhammad",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347563,
+    "gn:latitude":30.75385,
+    "gn:longitude":31.53317,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tall Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Tell Mu\u1e25ammad",
+        "Tall Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347563
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e3fe0fab53504a3b5206bc61ea33f20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018107,
+            "locality_id":1310179057,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310179057,
+    "wof:lastmodified":1537620561,
+    "wof:name":"Tall Muhammad",
+    "wof:parent_id":1092018107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53317,
+    30.75385,
+    31.53317,
+    30.75385
+],
+  "geometry": {"coordinates":[31.53317,30.75385],"type":"Point"}
+}

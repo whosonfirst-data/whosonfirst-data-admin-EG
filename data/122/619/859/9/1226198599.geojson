@@ -1,0 +1,72 @@
+{
+  "id": 1226198599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38251,26.05534,32.38251,26.05534",
+    "geom:latitude":26.05534,
+    "geom:longitude":32.38251,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Halfayah Qibli",
+    "gn:country_code":"EG",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361234,
+    "gn:latitude":26.05534,
+    "gn:longitude":32.38251,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28alf\u0101yah Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u1e24alf\u00e2ya Qibli",
+        "Al \u1e28ilf\u0101yah Qibl\u012b",
+        "Al \u1e28alf\u0101yah Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092022653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361234
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"840eafaaac07e8fa3a5d85482f6b053f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022653,
+            "locality_id":1226198599,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1226198599,
+    "wof:lastmodified":1537620923,
+    "wof:name":"Al Halfayah Qibli",
+    "wof:parent_id":1092022653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38251,
+    26.05534,
+    32.38251,
+    26.05534
+],
+  "geometry": {"coordinates":[32.38251,26.05534],"type":"Point"}
+}

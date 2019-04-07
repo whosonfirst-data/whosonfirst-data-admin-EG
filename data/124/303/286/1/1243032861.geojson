@@ -1,0 +1,75 @@
+{
+  "id": 1243032861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.62539,31.20103,31.62539,31.20103",
+    "geom:latitude":31.20103,
+    "geom:longitude":31.62539,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Mit al Khawli `Abd Allah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352227,
+    "gn:latitude":31.20103,
+    "gn:longitude":31.62539,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"M\u012bt al Khawl\u012b \u2018Abd All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0627\u0644\u062e\u0648\u0644\u064a \u0639\u0628\u062f\u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet el-Kh\u00f4li Abd\u00e2lla",
+        "M\u012bt al Khawl\u012b \u2018Abd All\u0101h",
+        "M\u012bt al-Khul\u012b \u2018Abd Allah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092020509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352227
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"81841b653fa3f00afad5aba58918c978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020509,
+            "locality_id":1243032861,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1243032861,
+    "wof:lastmodified":1537620642,
+    "wof:name":"Mit al Khawli `Abd Allah",
+    "wof:parent_id":1092020509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.62539,
+    31.20103,
+    31.62539,
+    31.20103
+],
+  "geometry": {"coordinates":[31.62539,31.20103],"type":"Point"}
+}

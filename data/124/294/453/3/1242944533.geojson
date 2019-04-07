@@ -1,0 +1,74 @@
+{
+  "id": 1242944533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83912,27.49118,30.83912,27.49118",
+    "geom:latitude":27.49118,
+    "geom:longitude":30.83912,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Masarah",
+    "gn:country_code":"EG",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351188,
+    "gn:latitude":27.49118,
+    "gn:longitude":30.83912,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mas\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlat al Mas\u0101rah",
+        "Mas\u00e2ra",
+        "Nazlet el Nas\u00e2ra",
+        "Mas\u0101rah",
+        "Mas\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092015987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351188
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5f5e47cea0e014172c1ce1845a01f63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015987,
+            "locality_id":1242944533,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1242944533,
+    "wof:lastmodified":1537620612,
+    "wof:name":"Masarah",
+    "wof:parent_id":1092015987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83912,
+    27.49118,
+    30.83912,
+    27.49118
+],
+  "geometry": {"coordinates":[30.83912,27.49118],"type":"Point"}
+}

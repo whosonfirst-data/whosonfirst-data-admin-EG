@@ -1,0 +1,74 @@
+{
+  "id": 1276521747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8877,31.35732,30.8877,31.35732",
+    "geom:latitude":31.35732,
+    "geom:longitude":30.8877,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbah Nimrah Thalathah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416275,
+    "gn:latitude":31.35732,
+    "gn:longitude":30.8877,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbah Nimrah Thal\u0101thah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0646\u0645\u0631\u0629 \u06f3"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbah Nimrah Thal\u0101thah",
+        "\u2018Izbat Raqm 3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416275
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"38cdd1b793bab56cec4b9ab6bf2b1408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1276521747,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276521747,
+    "wof:lastmodified":1537621025,
+    "wof:name":"`Izbah Nimrah Thalathah",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8877,
+    31.35732,
+    30.8877,
+    31.35732
+],
+  "geometry": {"coordinates":[30.8877,31.35732],"type":"Point"}
+}

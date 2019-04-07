@@ -1,0 +1,68 @@
+{
+  "id": 1209319503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01129,30.82055,31.01129,30.82055",
+    "geom:latitude":30.82055,
+    "geom:longitude":31.01129,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sibirbay",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":348975,
+    "gn:latitude":30.82055,
+    "gn:longitude":31.01129,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Sibirb\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0631\u0628\u0627\u064a"
+    ],
+    "name:und_x_variant":[
+        "Sibirb\u00e2i",
+        "Sibirb\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":348975
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b90d60a41897f18c2baf750325205b26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209319503
+        }
+    ],
+    "wof:id":1209319503,
+    "wof:lastmodified":1537620570,
+    "wof:name":"Sibirbay",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01129,
+    30.82055,
+    31.01129,
+    30.82055
+],
+  "geometry": {"coordinates":[31.01129,30.82055],"type":"Point"}
+}

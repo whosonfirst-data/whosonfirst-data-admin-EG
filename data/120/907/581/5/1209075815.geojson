@@ -1,0 +1,65 @@
+{
+  "id": 1209075815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88864,24.40566,32.88864,24.40566",
+    "geom:latitude":24.40566,
+    "geom:longitude":32.88864,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ar Raqabah",
+    "gn:country_code":"EG",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360134,
+    "gn:latitude":24.40566,
+    "gn:longitude":32.88864,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Raqabah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Raqaba",
+        "Ar Raqabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360134
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6984445f766c7d6aa2be37a3556aee05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209075815
+        }
+    ],
+    "wof:id":1209075815,
+    "wof:lastmodified":1537620868,
+    "wof:name":"Ar Raqabah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88864,
+    24.40566,
+    32.88864,
+    24.40566
+],
+  "geometry": {"coordinates":[32.88864,24.40566],"type":"Point"}
+}

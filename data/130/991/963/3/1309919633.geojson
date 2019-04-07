@@ -1,0 +1,75 @@
+{
+  "id": 1309919633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35108,31.09699,31.35108,31.09699",
+    "geom:latitude":31.09699,
+    "geom:longitude":31.35108,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kufur al `Arab",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353444,
+    "gn:latitude":31.09699,
+    "gn:longitude":31.35108,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kuf\u016br al \u2018Arab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0648\u0631 \u0627\u0644\u0639\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Kuf\u00fbr el- \u2018Arab",
+        "Kuf\u016br al \u2018Arab",
+        "Kuf\u016br al-\u2018Arab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353444
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3401d004e3cfe87749406df6192812a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1309919633,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1309919633,
+    "wof:lastmodified":1537620671,
+    "wof:name":"Kufur al `Arab",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35108,
+    31.09699,
+    31.35108,
+    31.09699
+],
+  "geometry": {"coordinates":[31.35108,31.09699],"type":"Point"}
+}

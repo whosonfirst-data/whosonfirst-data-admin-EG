@@ -1,0 +1,74 @@
+{
+  "id": 1193105751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.28242,26.01919,32.28242,26.01919",
+    "geom:latitude":26.01919,
+    "geom:longitude":32.28242,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Hiw",
+    "gn:country_code":"EG",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355855,
+    "gn:latitude":26.01919,
+    "gn:longitude":32.28242,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Hiw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hiu",
+        "Diospolis Mikra",
+        "Diospolis Parva",
+        "Hiw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092022653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355855,
+        "wk:page":"Hu%2C_Egypt"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"22a5e2a32a87b97429a8813c9920ac80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022653,
+            "locality_id":1193105751,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1193105751,
+    "wof:lastmodified":1537620774,
+    "wof:name":"Hiw",
+    "wof:parent_id":1092022653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.28242,
+    26.01919,
+    32.28242,
+    26.01919
+],
+  "geometry": {"coordinates":[32.28242,26.01919],"type":"Point"}
+}

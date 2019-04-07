@@ -1,0 +1,71 @@
+{
+  "id": 1242567411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85015,30.57877,30.85015,30.57877",
+    "geom:latitude":30.57877,
+    "geom:longitude":30.85015,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr Dinshaway",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354319,
+    "gn:latitude":30.57877,
+    "gn:longitude":30.85015,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Dinshaw\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Dinshaw\u00e2i",
+        "Kafr Dinshaw\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092019949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354319
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1de1f77c7ad9b7b05b53a7b0bee5b197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019949,
+            "locality_id":1242567411,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1242567411,
+    "wof:lastmodified":1537620704,
+    "wof:name":"Kafr Dinshaway",
+    "wof:parent_id":1092019949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85015,
+    30.57877,
+    30.85015,
+    30.57877
+],
+  "geometry": {"coordinates":[30.85015,30.57877],"type":"Point"}
+}

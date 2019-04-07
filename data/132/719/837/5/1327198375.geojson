@@ -1,0 +1,74 @@
+{
+  "id": 1327198375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81885,31.13623,30.81885,31.13623",
+    "geom:latitude":31.13623,
+    "geom:longitude":30.81885,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ash Shuqqah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359947,
+    "gn:latitude":31.13623,
+    "gn:longitude":30.81885,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Ash Shuqqah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Shuqqa",
+        "Ash Shuqqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359947
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d92028fe5777db84fc9407f256c45bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021829,
+            "locality_id":1327198375,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1327198375,
+    "wof:lastmodified":1537620858,
+    "wof:name":"Ash Shuqqah",
+    "wof:parent_id":1092021829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81885,
+    31.13623,
+    30.81885,
+    31.13623
+],
+  "geometry": {"coordinates":[30.81885,31.13623],"type":"Point"}
+}

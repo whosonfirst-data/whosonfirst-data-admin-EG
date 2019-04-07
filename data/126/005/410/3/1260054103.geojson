@@ -1,0 +1,73 @@
+{
+  "id": 1260054103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97731,31.2317,30.97731,31.2317",
+    "geom:latitude":31.2317,
+    "geom:longitude":30.97731,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kawm Abu Rayyah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416049,
+    "gn:latitude":31.2317,
+    "gn:longitude":30.97731,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kawm Ab\u016b Rayyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645 \u0623\u0628\u0648 \u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kawm Ab\u016b Rayyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416049
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3bd4fafd59b3ed387b905fd159ad0298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1260054103,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1260054103,
+    "wof:lastmodified":1537621009,
+    "wof:name":"Kawm Abu Rayyah",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97731,
+    31.2317,
+    30.97731,
+    31.2317
+],
+  "geometry": {"coordinates":[30.97731,31.2317],"type":"Point"}
+}

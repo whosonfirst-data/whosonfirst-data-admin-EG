@@ -1,0 +1,77 @@
+{
+  "id": 1310495417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73837,27.77469,30.73837,27.77469",
+    "geom:latitude":27.77469,
+    "geom:longitude":30.73837,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tunah al Jabal",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347206,
+    "gn:latitude":27.77469,
+    "gn:longitude":30.73837,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"T\u016bnah al Jabal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0646\u0629 \u0627\u0644\u062c\u0628\u0644\u200e"
+    ],
+    "name:und_x_variant":[
+        "T\u00fbna el Gabal",
+        "T\u016bnat al Jabal",
+        "T\u016bnah al Jabal",
+        "Tuna el-Gebel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347206,
+        "wk:page":"Tuna_el-Gebel"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"79c72c2be57ec17b8bf5c2edaa11bd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022005,
+            "locality_id":1310495417,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1310495417,
+    "wof:lastmodified":1537620555,
+    "wof:name":"Tunah al Jabal",
+    "wof:parent_id":1092022005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73837,
+    27.77469,
+    30.73837,
+    27.77469
+],
+  "geometry": {"coordinates":[30.73837,27.77469],"type":"Point"}
+}

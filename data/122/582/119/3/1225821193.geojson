@@ -1,0 +1,71 @@
+{
+  "id": 1225821193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9,28.96667,30.9,28.96667",
+    "geom:latitude":28.96667,
+    "geom:longitude":30.9,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kafr Bani `ali",
+    "gn:country_code":"EG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354358,
+    "gn:latitude":28.96667,
+    "gn:longitude":30.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ban\u012b \u2018al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Beni \u2018Ali",
+        "Kafr Ban\u012b \u2018al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092024299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354358
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"78102c3d09b88f03070b91ff5d7db277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024299,
+            "locality_id":1225821193,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1225821193,
+    "wof:lastmodified":1537620707,
+    "wof:name":"Kafr Bani `ali",
+    "wof:parent_id":1092024299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9,
+    28.96667,
+    30.9,
+    28.96667
+],
+  "geometry": {"coordinates":[30.9,28.96667],"type":"Point"}
+}

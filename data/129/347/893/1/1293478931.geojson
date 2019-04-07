@@ -1,0 +1,71 @@
+{
+  "id": 1293478931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.77749,28.53691,30.77749,28.53691",
+    "geom:latitude":28.53691,
+    "geom:longitude":30.77749,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Saft Abu Jirj",
+    "gn:country_code":"EG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349897,
+    "gn:latitude":28.53691,
+    "gn:longitude":30.77749,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015eaf\u0163 Ab\u016b Jirj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e62af\u1e6d Abu Girg",
+        "\u015eaf\u0163 Ab\u016b Jirj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092015295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349897
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9f4e7763367a8b4d5a4d8ebaa639b13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015295,
+            "locality_id":1293478931,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1293478931,
+    "wof:lastmodified":1537620590,
+    "wof:name":"Saft Abu Jirj",
+    "wof:parent_id":1092015295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.77749,
+    28.53691,
+    30.77749,
+    28.53691
+],
+  "geometry": {"coordinates":[30.77749,28.53691],"type":"Point"}
+}

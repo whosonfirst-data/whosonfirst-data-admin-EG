@@ -1,0 +1,67 @@
+{
+  "id": 1209511039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08892,30.48585,31.08892,30.48585",
+    "geom:latitude":30.48585,
+    "geom:longitude":31.08892,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr Abshish",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354860,
+    "gn:latitude":30.48585,
+    "gn:longitude":31.08892,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Absh\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0628\u0634\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Kafr Absh\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354860
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"16884d2db9a5b08ed3f84fc5532f3b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209511039
+        }
+    ],
+    "wof:id":1209511039,
+    "wof:lastmodified":1537620750,
+    "wof:name":"Kafr Abshish",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08892,
+    30.48585,
+    31.08892,
+    30.48585
+],
+  "geometry": {"coordinates":[31.08892,30.48585],"type":"Point"}
+}

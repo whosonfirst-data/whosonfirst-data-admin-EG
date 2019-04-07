@@ -1,0 +1,73 @@
+{
+  "id": 1259590627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6472,31.00266,30.6472,31.00266",
+    "geom:latitude":31.00266,
+    "geom:longitude":30.6472,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat at Tis`un",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10645319,
+    "gn:latitude":31.00266,
+    "gn:longitude":30.6472,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"\u2018Izbat at Tis\u2018\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u06f9\u06f0"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat at Tis\u2018\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092024849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10645319
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6a1590d077515ad3572b281fac83621c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024849,
+            "locality_id":1259590627,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259590627,
+    "wof:lastmodified":1537621258,
+    "wof:name":"`Izbat at Tis`un",
+    "wof:parent_id":1092024849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6472,
+    31.00266,
+    30.6472,
+    31.00266
+],
+  "geometry": {"coordinates":[30.6472,31.00266],"type":"Point"}
+}

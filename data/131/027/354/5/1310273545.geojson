@@ -1,0 +1,72 @@
+{
+  "id": 1310273545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.78333,26.11667,32.78333,26.11667",
+    "geom:latitude":26.11667,
+    "geom:longitude":32.78333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` `Arab as Sabhah",
+    "gn:country_code":"EG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351459,
+    "gn:latitude":26.11667,
+    "gn:longitude":32.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 \u2018Arab as Sab\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Arab el Sib\u1e25a",
+        "Nag\u2018 \u00c2rab el Sib\u1e25a",
+        "Naj\u2018 \u2018Arab as Sab\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351459
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ff299a5cc2611c91a2416ba17ce0e876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023115,
+            "locality_id":1310273545,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1310273545,
+    "wof:lastmodified":1537620623,
+    "wof:name":"Naj` `Arab as Sabhah",
+    "wof:parent_id":1092023115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.78333,
+    26.11667000000001,
+    32.78333,
+    26.11667000000001
+],
+  "geometry": {"coordinates":[32.78333,26.11667000000001],"type":"Point"}
+}

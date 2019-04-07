@@ -1,0 +1,67 @@
+{
+  "id": 1242883027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75901,28.29297,30.75901,28.29297",
+    "geom:latitude":28.29297,
+    "geom:longitude":30.75901,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bani Khalid",
+    "gn:country_code":"EG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433011,
+    "gn:latitude":28.29297,
+    "gn:longitude":30.75901,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ban\u012b Kh\u0101lid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092023043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433011
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"65dc3481b695142c18e67715911b78f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023043,
+            "locality_id":1242883027,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1242883027,
+    "wof:lastmodified":1536621601,
+    "wof:name":"Bani Khalid",
+    "wof:parent_id":1092023043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75901,
+    28.29297,
+    30.75901,
+    28.29297
+],
+  "geometry": {"coordinates":[30.75901,28.29297],"type":"Point"}
+}

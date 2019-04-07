@@ -1,0 +1,77 @@
+{
+  "id": 1343862403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59985,31.01826,31.59985,31.01826",
+    "geom:latitude":31.01826,
+    "geom:longitude":31.59985,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mit `Adlan",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352245,
+    "gn:latitude":31.01826,
+    "gn:longitude":31.59985,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"M\u012bt \u2018Adl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u012bt \u2018Adl\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u062a \u0639\u062f\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet \u2018Adl\u00e2n",
+        "\u2018Iz. M\u012bt \u2018Adl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352245
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"27f5a1fb4f33cd0b9893840144817afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1343862403,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343862403,
+    "wof:lastmodified":1537620644,
+    "wof:name":"Mit `Adlan",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59985,
+    31.01826,
+    31.59985,
+    31.01826
+],
+  "geometry": {"coordinates":[31.59985,31.01826],"type":"Point"}
+}

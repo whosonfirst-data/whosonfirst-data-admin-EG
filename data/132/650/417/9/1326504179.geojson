@@ -1,0 +1,74 @@
+{
+  "id": 1326504179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2538,31.45622,31.2538,31.45622",
+    "geom:latitude":31.45622,
+    "geom:longitude":31.2538,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Qaryah Sittah wa Khamsun",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7781422,
+    "gn:latitude":31.45622,
+    "gn:longitude":31.2538,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryah Sittah wa Khams\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0665\u0666"
+    ],
+    "name:und_x_variant":[
+        "Qaryah Sittah wa Khams\u016bn",
+        "Qaryah 56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7781422
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5f463f6452ff854c17e4018d2e2806ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1326504179,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1326504179,
+    "wof:lastmodified":1537621156,
+    "wof:name":"Qaryah Sittah wa Khamsun",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2538,
+    31.45622,
+    31.2538,
+    31.45622
+],
+  "geometry": {"coordinates":[31.2538,31.45622],"type":"Point"}
+}

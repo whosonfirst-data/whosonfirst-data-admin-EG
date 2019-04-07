@@ -1,0 +1,71 @@
+{
+  "id": 1293112711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5577,30.81499,31.5577,30.81499",
+    "geom:latitude":30.81499,
+    "geom:longitude":31.5577,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr Salamah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354119,
+    "gn:latitude":30.81499,
+    "gn:longitude":31.5577,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Sal\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Sal\u00e2ma",
+        "Kafr Sal\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354119
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b3704e6fba469913931b2b69b85c2f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1293112711,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293112711,
+    "wof:lastmodified":1537620690,
+    "wof:name":"Kafr Salamah",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5577,
+    30.81499,
+    31.5577,
+    30.81499
+],
+  "geometry": {"coordinates":[31.5577,30.81499],"type":"Point"}
+}

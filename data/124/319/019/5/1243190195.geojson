@@ -1,0 +1,74 @@
+{
+  "id": 1243190195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2907,30.97491,31.2907,30.97491",
+    "geom:latitude":30.97491,
+    "geom:longitude":31.2907,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sanbukht",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349650,
+    "gn:latitude":30.97491,
+    "gn:longitude":31.2907,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Sanbukht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u0628\u062e\u062a"
+    ],
+    "name:und_x_variant":[
+        "Sambukht",
+        "Sanbukht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349650
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5d62f81a21a4b86dcbdd3feff07fc082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014439,
+            "locality_id":1243190195,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1243190195,
+    "wof:lastmodified":1537620585,
+    "wof:name":"Sanbukht",
+    "wof:parent_id":1092014439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2907,
+    30.97491,
+    31.2907,
+    30.97491
+],
+  "geometry": {"coordinates":[31.2907,30.97491],"type":"Point"}
+}

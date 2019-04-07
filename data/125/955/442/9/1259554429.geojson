@@ -1,0 +1,74 @@
+{
+  "id": 1259554429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.11104,30.86008,32.11104,30.86008",
+    "geom:latitude":30.86008,
+    "geom:longitude":32.11104,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Qaryat Raqm Khamsah Bahr al Baqar",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10194125,
+    "gn:latitude":30.86008,
+    "gn:longitude":32.11104,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Qaryat Raqm Khamsah Ba\u1e29r al Baqar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 \u0665 \u0628\u062d\u0631 \u0627\u0644\u0628\u0642\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Raqm Khamsah Ba\u1e29r al Baqar",
+        "Qaryah Number Five Ba\u1e25r al-Baqar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10194125
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ce51c9e70942e9747dcab16eaabd6f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1259554429,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259554429,
+    "wof:lastmodified":1537621233,
+    "wof:name":"Qaryat Raqm Khamsah Bahr al Baqar",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.11104,
+    30.86008,
+    32.11104,
+    30.86008
+],
+  "geometry": {"coordinates":[32.11104,30.86008],"type":"Point"}
+}

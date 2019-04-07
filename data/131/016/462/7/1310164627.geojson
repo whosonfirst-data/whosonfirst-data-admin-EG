@@ -1,0 +1,73 @@
+{
+  "id": 1310164627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0077,31.30754,31.0077,31.30754",
+    "geom:latitude":31.30754,
+    "geom:longitude":31.0077,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Abu Jayid",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419813,
+    "gn:latitude":31.30754,
+    "gn:longitude":31.0077,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b J\u0101yid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ab\u016b J\u0101yid"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0628\u0648 \u062c\u0627\u064a\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419813
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f9a5f90d723bccf9d725f6c6694da5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1310164627,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1310164627,
+    "wof:lastmodified":1537621061,
+    "wof:name":"Abu Jayid",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0077,
+    31.30754,
+    31.0077,
+    31.30754
+],
+  "geometry": {"coordinates":[31.0077,31.30754],"type":"Point"}
+}

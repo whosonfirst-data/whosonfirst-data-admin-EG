@@ -1,0 +1,71 @@
+{
+  "id": 1327245775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01666,29.00747,31.01666,29.00747",
+    "geom:latitude":29.00747,
+    "geom:longitude":31.01666,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tana Bani Malu",
+    "gn:country_code":"EG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347527,
+    "gn:latitude":29.00747,
+    "gn:longitude":31.01666,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162an\u0101 Ban\u012b M\u0101l\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tana Beni M\u00e2lu",
+        "\u0162an\u0101 Ban\u012b M\u0101l\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347527
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cf89437bd9cf617aecff1bdee1f82491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015415,
+            "locality_id":1327245775,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1327245775,
+    "wof:lastmodified":1537620560,
+    "wof:name":"Tana Bani Malu",
+    "wof:parent_id":1092015415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01666,
+    29.00747,
+    31.01666,
+    29.00747
+],
+  "geometry": {"coordinates":[31.01666,29.00747],"type":"Point"}
+}

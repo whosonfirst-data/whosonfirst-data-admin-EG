@@ -1,0 +1,75 @@
+{
+  "id": 1243085119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44393,30.95667,31.44393,30.95667",
+    "geom:latitude":30.95667,
+    "geom:longitude":31.44393,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr al Amshuti",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354739,
+    "gn:latitude":30.95667,
+    "gn:longitude":31.44393,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Kafr al Amsh\u016b\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0623\u0645\u0634\u0648\u0637\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Amsh\u00fb\u1e6di",
+        "Kafr al Amsh\u016b\u0163\u012b",
+        "Kafr al-Amsh\u016b\u1e6d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354739
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"801fccf1206761c40fd13087fa9aebcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1243085119,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1243085119,
+    "wof:lastmodified":1537620740,
+    "wof:name":"Kafr al Amshuti",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44393,
+    30.95667000000001,
+    31.44393,
+    30.95667000000001
+],
+  "geometry": {"coordinates":[31.44393,30.95667000000001],"type":"Point"}
+}

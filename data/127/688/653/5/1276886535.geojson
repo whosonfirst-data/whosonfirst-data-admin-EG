@@ -1,0 +1,67 @@
+{
+  "id": 1276886535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04601,28.40457,33.04601,28.40457",
+    "geom:latitude":28.40457,
+    "geom:longitude":33.04601,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bakr",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6412823,
+    "gn:latitude":28.40457,
+    "gn:longitude":33.04601,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bakr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6412823
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6d983ff135f9c325295fdce744a757c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023825,
+            "locality_id":1276886535,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1276886535,
+    "wof:lastmodified":1537030833,
+    "wof:name":"Bakr",
+    "wof:parent_id":1092023825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04601,
+    28.40457,
+    33.04601,
+    28.40457
+],
+  "geometry": {"coordinates":[33.04601,28.40457],"type":"Point"}
+}

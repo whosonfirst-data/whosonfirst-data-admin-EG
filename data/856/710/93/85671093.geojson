@@ -1,0 +1,348 @@
+{
+  "id": 85671093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":2.645616,
+    "geom:area_square_m":28203277705.933731,
+    "geom:bbox":"32.584006,29.509729,34.89731,31.326074",
+    "geom:latitude":30.440799,
+    "geom:longitude":33.716551,
+    "gn:id":"",
+    "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Shamal Sina' Governorate"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "governorate"
+    ],
+    "lbl:latitude":30.485952,
+    "lbl:longitude":33.738679,
+    "meso:name_alt1":"North Sinai",
+    "mps:latitude":30.484638,
+    "mps:longitude":33.740137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0627\u0644 \u0633\u064a\u0646\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0645\u0627\u0644 \u0633\u064a\u0646\u0627\u0621"
+    ],
+    "name:arm_x_preferred":[
+        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u054d\u056b\u0576\u0561\u0575"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0645\u0627\u0644 \u0633\u064a\u0646\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09b0\u09cd\u09a5 \u09b8\u09bf\u09a8\u09be\u0987 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:bos_x_preferred":[
+        "Sjeverni Sinaj"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0421\u0438\u043d\u0430\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Governaci\u00f3 del Sina\u00ed del Nord"
+    ],
+    "name:chi_x_preferred":[
+        "\u5317\u897f\u5948\u7701"
+    ],
+    "name:cze_x_preferred":[
+        "Severn\u00ed Sinaj"
+    ],
+    "name:dan_x_preferred":[
+        "Shamal Sina'"
+    ],
+    "name:dut_x_preferred":[
+        "Noord-Sina\u00ef"
+    ],
+    "name:eng_x_preferred":[
+        "North Sinai"
+    ],
+    "name:eng_x_variant":[
+        "North Sinai Governorate",
+        "Shamal Sina'"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Norda Sinajo"
+    ],
+    "name:est_x_preferred":[
+        "P\u00f5hja-Siinai kubernerkond"
+    ],
+    "name:fin_x_preferred":[
+        "\u0160amal Sina'"
+    ],
+    "name:fre_x_preferred":[
+        "Gouvernorat du Sina\u00ef Nord"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7 \u10e1\u10d8\u10dc\u10d0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Schimal Sina"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03a3\u03b9\u03bd\u03ac"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0acb\u0ab0\u0acd\u0aa5 \u0ab8\u0abf\u0aa8\u0abe\u0a87 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6\u05e4\u05d5\u05df \u05e1\u05d9\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930 \u0938\u0940\u0928\u093e\u0908 \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
+    ],
+    "name:ind_x_preferred":[
+        "Kegubernuran Syamal Sina'"
+    ],
+    "name:ita_x_preferred":[
+        "Governatorato del Sinai del Nord"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u30b7\u30ca\u30a4\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0cb8\u0cbf\u0ca8\u0cc8 \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0e4\ub9d0\uc2dc\ub098 \uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Sinai Septentrionalis"
+    ],
+    "name:lav_x_preferred":[
+        "Zieme\u013cu Sinajas muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160iaur\u0117s Sinajaus muchafaza"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0421\u0438\u043d\u0430\u0458"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u0949\u0930\u094d\u0925 \u0938\u093f\u0928\u093e\u0908 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "North Sinai Governorate"
+    ],
+    "name:nob_x_preferred":[
+        "Guvernementet Shamal Sina'"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u062a\u0644\u0627 \u0633\u06cc\u0646\u0627\u0626\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Synaj P\u00f3\u0142nocny"
+    ],
+    "name:por_x_preferred":[
+        "Sinai do Norte"
+    ],
+    "name:rum_x_preferred":[
+        "Shamal Sina'"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0421\u0438\u043d\u0430\u0439"
+    ],
+    "name:sco_x_preferred":[
+        "North Sinai Govrenorate"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0dc3\u0dd2\u0db1\u0dba\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Sina\u00ed del Norte"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0438 \u0421\u0438\u043d\u0430\u0458"
+    ],
+    "name:swa_x_preferred":[
+        "Mkoa wa Sinai Kaskazini"
+    ],
+    "name:swe_x_preferred":[
+        "Guvernementet Sina ash-Shamaliyya"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1   \u0b9a\u0bbf\u0ba9\u0bbe\u0baf\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3e\u0c30\u0c4d\u0c24\u0c4d \u0c38\u0c3f\u0c28\u0c3e\u0c2f\u0c3f \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e32\u0e21\u0e32\u0e25\u0e0b\u0e34\u0e19\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Kuzey Sina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u0421\u0438\u043d\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "North Sinai"
+    ],
+    "name:unk_x_variant":[
+        "North Sinai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0634\u0645\u0627\u0644\u06cc \u0633\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh B\u1eafc Sinai"
+    ],
+    "name:war_x_preferred":[
+        "Amihanan nga Sinai"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"EGY",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"EGY-1558",
+    "ne:adm1_code":"EGY-1558",
+    "ne:admin":"Egypt",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"EG.SS",
+    "ne:code_local":"",
+    "ne:datarank":"3",
+    "ne:diss_me":"1558",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"EG32",
+    "ne:fips_alt":"EG27",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Egypt",
+    "ne:gn_a1_code":"EG.27",
+    "ne:gn_id":"349401",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Muhafazat Shamal Sina'",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"EG27",
+    "ne:gns_id":"-301990",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Shamal Sina', Muhafazat",
+    "ne:gns_region":"7",
+    "ne:gu_a3":"EGY",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"EG-",
+    "ne:iso_a2":"EG",
+    "ne:labelrank":"6",
+    "ne:latitude":"30.50710000000",
+    "ne:longitude":"33.67230000000",
+    "ne:mapcolor13":2,
+    "ne:mapcolor9":7,
+    "ne:name":"Shamal Sina'",
+    "ne:name_alt":"Shamal Sina|Nord Sina\u00ef|North Sinai|Sina ash-Sham\u0101l\u012byah|Sinai ash Sham\u0101l\u012bya",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SS",
+    "ne:provnum_ne":"22",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"6",
+    "ne:sov_a3":"EGY",
+    "ne:sub_code":"",
+    "ne:type":"Muhafazah",
+    "ne:type_en":"Governorate",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345248,
+    "ne:woe_label":"Shamal Sina', EG, Egypt",
+    "ne:woe_name":"Shamal Sina'",
+    "qs:a0":"Egypt",
+    "qs:a0_lc":"EG",
+    "qs:a1":"Shamal Sina'",
+    "qs:a1_lc":"EGY-1558",
+    "qs:adm0":"Egypt",
+    "qs:adm0_a3":"EGY",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Governorate",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"27,574",
+    "statoids:area_mi":"10,646",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"Al `Arish",
+    "statoids:country":"EG",
+    "statoids:gec":"EG27",
+    "statoids:hasc":"EG.SS",
+    "statoids:iso":"SIN",
+    "statoids:name":"Shamal Sina'",
+    "statoids:population":"339752",
+    "statoids:timezone":"+2~",
+    "statoids:type":"governorate",
+    "unlc:subdivision":"EG-SIN",
+    "wof:belongsto":[
+        102191573,
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"EG27",
+        "gn:id":349401,
+        "gp:id":2345248,
+        "hasc:id":"EG.SS",
+        "iso:id":"EG-SIN",
+        "qs:id":890537,
+        "unlc:id":"EG-SIN",
+        "wd:id":"Q30662"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"25516249639b3fc613cb680e28acfcf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":85671093,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550352,
+    "wof:name":"Shamal Sina'",
+    "wof:parent_id":85632581,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"governorate",
+    "wof:population":339752,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"SS",
+    "wof:subdivision":"EG-SIN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.584006,
+    29.509729,
+    34.89731,
+    31.326074
+],
+  "geometry": {"coordinates":[[[34.89731,29.509729],[34.799468,29.522903],[34.766934,29.526809],[34.688197,29.536228],[34.641993,29.541264],[34.602898,29.546808],[34.579113,29.549086],[34.542479,29.554402],[34.491628,29.560848],[34.465655,29.563354],[34.440776,29.567293],[34.420272,29.569585],[34.395668,29.578049],[34.374345,29.585576],[34.307095,29.609569],[34.269643,29.622978],[34.228637,29.637324],[34.18763,29.652145],[34.125028,29.674969],[34.075,29.692132],[34.044929,29.702716],[33.978499,29.726713],[33.940502,29.744882],[33.924101,29.755287],[33.898405,29.768509],[33.880823,29.777964],[33.880713,29.778023],[33.859314,29.78953],[33.824051,29.808901],[33.807376,29.817876],[33.782773,29.829912],[33.743406,29.837836],[33.626671,29.864233],[33.605893,29.868667],[33.583749,29.87357],[33.531259,29.886199],[33.513489,29.889455],[33.495992,29.891998],[33.403857,29.898501],[33.370229,29.900498],[33.343436,29.90181],[33.262511,29.908362],[33.217947,29.911739],[33.192795,29.913772],[33.155886,29.916469],[33.136748,29.918052],[33.105855,29.920298],[33.092732,29.92167],[33.065392,29.923455],[33.021922,29.926599],[32.980365,29.929275],[32.893699,29.93604],[32.845581,29.93964],[32.818788,29.94119],[32.808671,29.938289],[32.79827,29.955131],[32.796135,29.971372],[32.795801,30.01016],[32.792857,30.031006],[32.793222,30.046037],[32.792487,30.063491],[32.791003,30.095975],[32.789932,30.151975],[32.786253,30.190275],[32.782451,30.207242],[32.771718,30.278265],[32.766625,30.312928],[32.763903,30.323835],[32.758999,30.342983],[32.750783,30.367462],[32.746377,30.376186],[32.737811,30.3883],[32.721756,30.405742],[32.681331,30.448136],[32.660853,30.471393],[32.648446,30.493686],[32.637137,30.513071],[32.634682,30.522039],[32.637228,30.528829],[32.644551,30.542896],[32.649058,30.551627],[32.651888,30.559386],[32.651946,30.569326],[32.654601,30.595025],[32.651879,30.654418],[32.651273,30.694418],[32.640225,30.759137],[32.634062,30.801315],[32.629718,30.820948],[32.622335,30.844942],[32.604276,30.901414],[32.599619,30.914986],[32.590579,30.941403],[32.592064,30.957405],[32.597838,30.992803],[32.593988,31.001285],[32.584006,31.009278],[32.587734,31.027947],[32.588673,31.045888],[32.588162,31.053887],[32.592786,31.060552],[32.605853,31.058805],[32.616399,31.058231],[32.629465,31.056482],[32.639872,31.055564],[32.650595,31.057968],[32.75751658281781,31.10638044361787],[32.84582318648586,31.14463014416154],[32.94707678450273,31.18289190257451],[33.0478795816257,31.21531214758575],[33.08445221791933,31.22791011401549],[33.10919618786547,31.23382585756353],[33.14589540284422,31.23622746311232],[33.17315566494644,31.23614386821191],[33.21351061956091,31.23206710414765],[33.26002231203888,31.22537084728268],[33.3246798659266,31.21123276647335],[33.35039078126446,31.20246127273791],[33.39912011899733,31.18162255079642],[33.43511356714966,31.16355779704637],[33.46941753363349,31.14521409624734],[33.48480900954932,31.13134503656697],[33.497004,31.125436],[33.50459132961971,31.12345897826231],[33.517375,31.120512],[33.535243,31.119103],[33.561117,31.117625],[33.58847,31.117161],[33.589551,31.117172],[33.60689,31.117344],[33.63212,31.117923],[33.651219,31.119012],[33.68073,31.120345],[33.699463,31.12407],[33.706964,31.125152],[33.713638,31.126114],[33.727046,31.13069],[33.744718,31.134648],[33.76064,31.137359],[33.781806,31.142769],[33.798961,31.147643],[33.806638,31.149385],[33.816373,31.151594],[33.827874,31.152965],[33.84781,31.155967],[33.864977,31.161176],[33.884839,31.167961],[33.91004,31.174338],[33.933406,31.182797],[33.953835,31.191056],[33.965658,31.195395],[33.977713,31.19755],[33.997158,31.202371],[34.020159,31.212081],[34.047235,31.225524],[34.071471,31.236471],[34.114465,31.25762],[34.126847,31.264804],[34.147552,31.276817],[34.183108,31.298727],[34.216917,31.326074],[34.238803,31.298285],[34.248971,31.276907],[34.287098,31.171906],[34.348908,30.999047],[34.362765,30.959837],[34.39687,30.863331],[34.41,30.84],[34.454485,30.75776],[34.496374,30.681112],[34.52419,30.58194],[34.52,30.53],[34.521541,30.531234],[34.563504,30.489811],[34.545293,30.437057],[34.547578,30.413369],[34.553756,30.404775],[34.6,30.38],[34.61,30.37],[34.624206,30.336814],[34.645544,30.283242],[34.664794,30.226724],[34.699327,30.139112],[34.720744,30.087081],[34.742843,30.03113],[34.760916,29.981541],[34.76267,29.973745],[34.774283,29.941163],[34.781299,29.920488],[34.793732,29.889611],[34.800164,29.872274],[34.810487,29.847174],[34.814642,29.833896],[34.829656,29.796311],[34.84582,29.752388],[34.84919,29.744978],[34.850338,29.722115],[34.852311,29.700729],[34.856224,29.688717],[34.866625,29.667973],[34.874879,29.650942],[34.874187,29.638903],[34.872001,29.630222],[34.865603,29.610602],[34.863701,29.602719],[34.863695,29.591814],[34.863317,29.576441],[34.863555,29.564729],[34.869699,29.547624],[34.887835,29.521794],[34.89731,29.509729]]],"type":"Polygon"}
+}

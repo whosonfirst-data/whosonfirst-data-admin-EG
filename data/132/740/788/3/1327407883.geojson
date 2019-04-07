@@ -1,0 +1,73 @@
+{
+  "id": 1327407883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70867,31.15733,30.70867,31.15733",
+    "geom:latitude":31.15733,
+    "geom:longitude":30.70867,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat `Abd al Karim Abu Ra's",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415809,
+    "gn:latitude":31.15733,
+    "gn:longitude":30.70867,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u2018Izbat \u2018Abd al Kar\u012bm Ab\u016b Ra\u2019s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0639\u0628\u062f \u0627\u0644\u0643\u0631\u064a\u0645 \u0623\u0628\u0648 \u0631\u0623\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u2018Abd al Kar\u012bm Ab\u016b Ra\u2019s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415809
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ddb851451378e5e152c772e6f4cd9333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1327407883,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1327407883,
+    "wof:lastmodified":1537620999,
+    "wof:name":"`Izbat `Abd al Karim Abu Ra's",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70867,
+    31.15733,
+    30.70867,
+    31.15733
+],
+  "geometry": {"coordinates":[30.70867,31.15733],"type":"Point"}
+}

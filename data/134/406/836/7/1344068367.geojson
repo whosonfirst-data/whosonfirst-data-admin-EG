@@ -1,0 +1,75 @@
+{
+  "id": 1344068367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3572,31.15564,30.3572,31.15564",
+    "geom:latitude":31.15564,
+    "geom:longitude":30.3572,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"An Nakhlah al Bahariyah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357813,
+    "gn:latitude":31.15564,
+    "gn:longitude":30.3572,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"An Nakhlah al Ba\u1e29ar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u062e\u0644\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "An Nakhlah al Ba\u1e29ar\u012byah",
+        "El-Nakhla el-Ba\u1e25ar\u00eeya",
+        "An-Nakhlah al-Ba\u1e25ariyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357813
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"957943e11950f154e358af6cc6cf82d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1344068367,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1344068367,
+    "wof:lastmodified":1537620804,
+    "wof:name":"An Nakhlah al Bahariyah",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3572,
+    31.15564,
+    30.3572,
+    31.15564
+],
+  "geometry": {"coordinates":[30.3572,31.15564],"type":"Point"}
+}

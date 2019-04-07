@@ -1,0 +1,76 @@
+{
+  "id": 1210030427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.36364,30.99126,31.36364,30.99126",
+    "geom:latitude":30.99126,
+    "geom:longitude":31.36364,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Izbat al Hawawishah",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361172,
+    "gn:latitude":30.99126,
+    "gn:longitude":31.36364,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Izbat al \u1e28aw\u0101wishah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062d\u0648\u0627\u0648\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e24aw\u00e2wsha",
+        "Al \u1e28aw\u0101wishah",
+        "Izbat al \u1e28aw\u0101wishah",
+        "\u2018Iz. al-\u1e24aw\u0101shah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361172
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"08c3fba71b4199324657ad3fb11f8e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1210030427,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1210030427,
+    "wof:lastmodified":1537620919,
+    "wof:name":"Izbat al Hawawishah",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.36364,
+    30.99126,
+    31.36364,
+    30.99126
+],
+  "geometry": {"coordinates":[31.36364,30.99126],"type":"Point"}
+}

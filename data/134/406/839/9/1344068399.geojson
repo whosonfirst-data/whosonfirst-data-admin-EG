@@ -1,0 +1,67 @@
+{
+  "id": 1344068399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59443,30.69575,30.59443,30.69575",
+    "geom:latitude":30.69575,
+    "geom:longitude":30.59443,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat Arba`at `Ashar al `Azimah",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421641,
+    "gn:latitude":30.69575,
+    "gn:longitude":30.59443,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Qaryat Arba\u2018at \u2018Ashar al \u2018Az\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421641
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5d58a39935e89f665f1d8d4c0121d31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1344068399,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1344068399,
+    "wof:lastmodified":1536862684,
+    "wof:name":"Qaryat Arba`at `Ashar al `Azimah",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59443,
+    30.69575,
+    30.59443,
+    30.69575
+],
+  "geometry": {"coordinates":[30.59443,30.69575],"type":"Point"}
+}

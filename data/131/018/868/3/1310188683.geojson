@@ -1,0 +1,72 @@
+{
+  "id": 1310188683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74139,30.55611,31.74139,30.55611",
+    "geom:latitude":30.55611,
+    "geom:longitude":31.74139,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Gharabiwah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361298,
+    "gn:latitude":30.55611,
+    "gn:longitude":31.74139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ghar\u0101biwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ghar\u00e2bwa",
+        "Al Ghar\u0101biwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361298
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a8f25df6c49f9236f64a6d1e85df8b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014103,
+            "locality_id":1310188683,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310188683,
+    "wof:lastmodified":1537620927,
+    "wof:name":"Al Gharabiwah",
+    "wof:parent_id":1092014103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74139000000001,
+    30.55611,
+    31.74139000000001,
+    30.55611
+],
+  "geometry": {"coordinates":[31.74139000000001,30.55611],"type":"Point"}
+}

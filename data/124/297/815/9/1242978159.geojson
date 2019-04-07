@@ -1,0 +1,76 @@
+{
+  "id": 1242978159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52907,31.08155,30.52907,31.08155",
+    "geom:latitude":31.08155,
+    "geom:longitude":30.52907,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kawm Yatis",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353478,
+    "gn:latitude":31.08155,
+    "gn:longitude":30.52907,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kawm Y\u0101\u0163is",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645 \u064a\u0627\u0637\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kawm Y\u0101\u0163is",
+        "\u2018Ezbet K\u00f4m Batis",
+        "Kawm Y\u0101\u1e6d\u012bs",
+        "Kawm Y\u0101\u0163\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353478
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fb25c974cbab0132e6bef94b87c51a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019273,
+            "locality_id":1242978159,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242978159,
+    "wof:lastmodified":1537620672,
+    "wof:name":"Kawm Yatis",
+    "wof:parent_id":1092019273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52907,
+    31.08155,
+    30.52907,
+    31.08155
+],
+  "geometry": {"coordinates":[30.52907,31.08155],"type":"Point"}
+}

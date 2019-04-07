@@ -1,0 +1,75 @@
+{
+  "id": 1226444315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27586,31.02984,30.27586,31.02984",
+    "geom:latitude":31.02984,
+    "geom:longitude":30.27586,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat as Sukkari",
+    "gn:country_code":"EG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363063,
+    "gn:latitude":31.02984,
+    "gn:longitude":30.27586,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u2018Izbat as Sukkar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0633\u0643\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet \u2018Abdalla el-Sukkari",
+        "\u2018Izbat \u2018Abd All\u0101h as Sukkar\u012b",
+        "\u2018Izbat as Sukkar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363063
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"77aca70d55f02ee6c6d7aa4ee17f26c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1226444315,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226444315,
+    "wof:lastmodified":1537620965,
+    "wof:name":"`Izbat as Sukkari",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27586,
+    31.02984,
+    30.27586,
+    31.02984
+],
+  "geometry": {"coordinates":[30.27586,31.02984],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226657765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35508,30.72062,30.35508,30.72062",
+    "geom:latitude":30.72062,
+    "geom:longitude":30.35508,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Imam al Husayn",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408933,
+    "gn:latitude":30.72062,
+    "gn:longitude":30.35508,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Im\u0101m al \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Im\u00e2m el-\u1e24usein",
+        "Al Im\u0101m al \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408933
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"20d995524e1f302fafe382dfcb5a4b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1226657765,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226657765,
+    "wof:lastmodified":1537620967,
+    "wof:name":"Al Imam al Husayn",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35508,
+    30.72062,
+    30.35508,
+    30.72062
+],
+  "geometry": {"coordinates":[30.35508,30.72062],"type":"Point"}
+}

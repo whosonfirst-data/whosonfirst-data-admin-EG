@@ -1,0 +1,79 @@
+{
+  "id": 1310013509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00579,31.08651,30.00579,31.08651",
+    "geom:latitude":31.08651,
+    "geom:longitude":30.00579,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"`Izbat al Armal",
+    "gn:country_code":"EG",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347830,
+    "gn:latitude":31.08651,
+    "gn:longitude":30.00579,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat al Armal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0623\u0631\u0645\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Armal",
+        "\u2018Azbat \u015eub\u1e29\u012b Bay Ghali",
+        "\u2018Ezbet el Arman",
+        "\u2018Ezbet \u1e62ub\u1e25i Bey Gh\u00e2li",
+        "\u2018Izbat \u015eub\u1e29\u012b Bey Gh\u0101l\u012b",
+        "\u2018Ezbet K\u00f4m el-\u1e24\u00e2gg",
+        "Kawm al \u1e28ajj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347830
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"84ec8b6db17292e9a7533f5b9c4aa36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1310013509,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310013509,
+    "wof:lastmodified":1537620566,
+    "wof:name":"`Izbat al Armal",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00579,
+    31.08651,
+    30.00579,
+    31.08651
+],
+  "geometry": {"coordinates":[30.00579,31.08651],"type":"Point"}
+}

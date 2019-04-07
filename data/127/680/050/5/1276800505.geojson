@@ -1,0 +1,67 @@
+{
+  "id": 1276800505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53938,29.39267,30.53938,29.39267",
+    "geom:latitude":29.39267,
+    "geom:longitude":30.53938,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat al Fallah",
+    "gn:country_code":"EG",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434845,
+    "gn:latitude":29.39267,
+    "gn:longitude":30.53938,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat al Fall\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434845
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8f55e672871f2b0d1fa1137114e401d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1276800505,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1276800505,
+    "wof:lastmodified":1536649724,
+    "wof:name":"`Izbat al Fallah",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53938,
+    29.39267000000001,
+    30.53938,
+    29.39267000000001
+],
+  "geometry": {"coordinates":[30.53938,29.39267000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276935199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03524,26.12231,32.03524,26.12231",
+    "geom:latitude":26.12231,
+    "geom:longitude":32.03524,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` Kawm Jabir",
+    "gn:country_code":"EG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434542,
+    "gn:latitude":26.12231,
+    "gn:longitude":32.03524,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Naj\u2018 Kawm J\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092014357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434542
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f88b5d7816110a2e82f1f430f597d2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014357,
+            "locality_id":1276935199,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1276935199,
+    "wof:lastmodified":1536966999,
+    "wof:name":"Naj` Kawm Jabir",
+    "wof:parent_id":1092014357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03524,
+    26.12231,
+    32.03524,
+    26.12231
+],
+  "geometry": {"coordinates":[32.03524,26.12231],"type":"Point"}
+}

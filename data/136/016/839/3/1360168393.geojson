@@ -1,0 +1,67 @@
+{
+  "id": 1360168393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78333,28.45,30.78333,28.45",
+    "geom:latitude":28.45,
+    "geom:longitude":30.78333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Ezbet Habib Lutfalla",
+    "gn:country_code":"EG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357334,
+    "gn:latitude":28.45,
+    "gn:longitude":30.78333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet \u1e24ab\u00eeb Lu\u1e6dfalla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092015295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357334
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1e129b9d52de50645b427bdeec88a6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015295,
+            "locality_id":1360168393,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1360168393,
+    "wof:lastmodified":1536824571,
+    "wof:name":"`Ezbet Habib Lutfalla",
+    "wof:parent_id":1092015295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78333,
+    28.45,
+    30.78333,
+    28.45
+],
+  "geometry": {"coordinates":[30.78333,28.45],"type":"Point"}
+}

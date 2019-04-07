@@ -1,0 +1,74 @@
+{
+  "id": 1310314711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31959,31.19922,31.31959,31.19922",
+    "geom:latitude":31.19922,
+    "geom:longitude":31.31959,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Munsha'at al Badrawi",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409739,
+    "gn:latitude":31.19922,
+    "gn:longitude":31.31959,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Munsha\u2019at al Badr\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u0627\u0644\u0628\u062f\u0631\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Munsha\u2019at al Badr\u0101w\u012b",
+        "\u2018Ezbet el-Sa\u00eeyid Pasha el-Badrawi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409739
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d2c08407cb10742dc1ca9cdc216af839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1310314711,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1310314711,
+    "wof:lastmodified":1537621249,
+    "wof:name":"Munsha'at al Badrawi",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31959,
+    31.19922,
+    31.31959,
+    31.19922
+],
+  "geometry": {"coordinates":[31.31959,31.19922],"type":"Point"}
+}

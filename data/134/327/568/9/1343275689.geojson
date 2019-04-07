@@ -1,0 +1,78 @@
+{
+  "id": 1343275689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31202,30.8426,31.31202,30.8426",
+    "geom:latitude":30.8426,
+    "geom:longitude":31.31202,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ikhtab",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355582,
+    "gn:latitude":30.8426,
+    "gn:longitude":31.31202,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Ikh\u0163\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Ikh\u0163\u0101b"
+    ],
+    "name:ara_x_variant":[
+        "\u0625\u062e\u0637\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Akhtab",
+        "Ikh\u1e6d\u00e2b",
+        "Ikh\u1e6d\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355582
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"77304de780d216c11000ac1be80dcc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014439,
+            "locality_id":1343275689,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343275689,
+    "wof:lastmodified":1537620770,
+    "wof:name":"Ikhtab",
+    "wof:parent_id":1092014439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31202,
+    30.8426,
+    31.31202,
+    30.8426
+],
+  "geometry": {"coordinates":[31.31202,30.8426],"type":"Point"}
+}

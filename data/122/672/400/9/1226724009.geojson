@@ -1,0 +1,76 @@
+{
+  "id": 1226724009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03635,31.1422,31.03635,31.1422",
+    "geom:latitude":31.1422,
+    "geom:longitude":31.03635,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Butaytah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358592,
+    "gn:latitude":31.1422,
+    "gn:longitude":31.03635,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Bu\u0163ay\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bi\u1e6dei\u1e6da",
+        "Bu\u0163ay\u0163ah",
+        "Bi\u1e6day\u1e6da",
+        "Bi\u0163ay\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358592
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"065ec814c22891ed487d3b22155cbad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1226724009,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1226724009,
+    "wof:lastmodified":1537620816,
+    "wof:name":"Butaytah",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03635,
+    31.1422,
+    31.03635,
+    31.1422
+],
+  "geometry": {"coordinates":[31.03635,31.1422],"type":"Point"}
+}

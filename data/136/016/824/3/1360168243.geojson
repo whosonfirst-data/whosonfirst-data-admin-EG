@@ -1,0 +1,73 @@
+{
+  "id": 1360168243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56863,30.61618,31.56863,30.61618",
+    "geom:latitude":30.61618,
+    "geom:longitude":31.56863,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Ghandur",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069923,
+    "gn:latitude":30.61618,
+    "gn:longitude":31.56863,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat al Ghand\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u063a\u0646\u062f\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Ghand\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069923
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1b62af9d1514dc674df958cd6edca25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1360168243,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1360168243,
+    "wof:lastmodified":1537621175,
+    "wof:name":"`Izbat al Ghandur",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56863,
+    30.61618,
+    31.56863,
+    30.61618
+],
+  "geometry": {"coordinates":[31.56863,30.61618],"type":"Point"}
+}

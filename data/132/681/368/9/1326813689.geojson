@@ -1,0 +1,79 @@
+{
+  "id": 1326813689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73029,30.99494,31.73029,30.99494",
+    "geom:latitude":30.99494,
+    "geom:longitude":31.73029,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Qassasin al Azhar",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433817,
+    "gn:latitude":30.99494,
+    "gn:longitude":31.73029,
+    "gn:modification_date":"2017-07-10",
+    "gn:name":"Qa\u1e63\u1e63\u0101\u1e63\u012bn al Azh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_historical":[
+        "\u0642\u0635\u0627\u0635\u064a\u0646 \u0627\u0644\u0633\u0628\u0627\u062e"
+    ],
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0627\u0635\u064a\u0646 \u0627\u0644\u0623\u0632\u0647\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0635\u0627\u0635\u064a\u0646 \u0627\u0644\u0633\u0628\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "Qa\u015f\u015f\u0101\u015f\u012bn al Azh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433817
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7caeedbc649bafc927588a5318078077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015105,
+            "locality_id":1326813689,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1326813689,
+    "wof:lastmodified":1537621128,
+    "wof:name":"Qassasin al Azhar",
+    "wof:parent_id":1092015105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73029,
+    30.99494,
+    31.73029,
+    30.99494
+],
+  "geometry": {"coordinates":[31.73029,30.99494],"type":"Point"}
+}

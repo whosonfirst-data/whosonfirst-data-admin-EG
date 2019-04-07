@@ -1,0 +1,74 @@
+{
+  "id": 1343882239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.64687,29.12971,30.64687,29.12971",
+    "geom:latitude":29.12971,
+    "geom:longitude":30.64687,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al Hajar",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361255,
+    "gn:latitude":29.12971,
+    "gn:longitude":30.64687,
+    "gn:modification_date":"2017-07-11",
+    "gn:name":"Al \u1e28ajar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "El \u1e24agar",
+        "Al \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361255
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0f32141bcea2c606d1505001b2ffc0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1343882239,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1343882239,
+    "wof:lastmodified":1537620925,
+    "wof:name":"Al Hajar",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.64687,
+    29.12971,
+    30.64687,
+    29.12971
+],
+  "geometry": {"coordinates":[30.64687,29.12971],"type":"Point"}
+}

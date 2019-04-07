@@ -1,0 +1,67 @@
+{
+  "id": 1277075303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74477,29.17699,30.74477,29.17699",
+    "geom:latitude":29.17699,
+    "geom:longitude":30.74477,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat al Wabur al Mustajiddah",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434271,
+    "gn:latitude":29.17699,
+    "gn:longitude":30.74477,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat al W\u0101b\u016br al Mustajiddah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434271
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bf7a5effd6887120de303ffbbddf7ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1277075303,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1277075303,
+    "wof:lastmodified":1536778858,
+    "wof:name":"`Izbat al Wabur al Mustajiddah",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74477000000001,
+    29.17699,
+    30.74477000000001,
+    29.17699
+],
+  "geometry": {"coordinates":[30.74477000000001,29.17699],"type":"Point"}
+}

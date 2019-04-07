@@ -1,0 +1,67 @@
+{
+  "id": 1243510837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.34654,31.49977,25.34654,31.49977",
+    "geom:latitude":31.49977,
+    "geom:longitude":25.34654,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Byut Fadit",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358568,
+    "gn:latitude":31.49977,
+    "gn:longitude":25.34654,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Byut Fadit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092019621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358568
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a8121bda0288d1bc961a71fb9a45d3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019621,
+            "locality_id":1243510837,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1243510837,
+    "wof:lastmodified":1536713129,
+    "wof:name":"Byut Fadit",
+    "wof:parent_id":1092019621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.34654,
+    31.49977,
+    25.34654,
+    31.49977
+],
+  "geometry": {"coordinates":[25.34654,31.49977],"type":"Point"}
+}

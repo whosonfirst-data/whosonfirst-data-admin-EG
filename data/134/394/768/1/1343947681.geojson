@@ -1,0 +1,74 @@
+{
+  "id": 1343947681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03577,30.47665,31.03577,30.47665",
+    "geom:latitude":30.47665,
+    "geom:longitude":31.03577,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr Manawahlah",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354195,
+    "gn:latitude":30.47665,
+    "gn:longitude":31.03577,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Man\u0101wahlah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0645\u0646\u0627\u0648\u0647\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr Man\u00e2wahla",
+        "Kafr Man\u0101wahlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092017065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354195
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8e017ad44ad7eb4c6310571d4236501d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017065,
+            "locality_id":1343947681,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1343947681,
+    "wof:lastmodified":1537620695,
+    "wof:name":"Kafr Manawahlah",
+    "wof:parent_id":1092017065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03577,
+    30.47665,
+    31.03577,
+    30.47665
+],
+  "geometry": {"coordinates":[31.03577,30.47665],"type":"Point"}
+}

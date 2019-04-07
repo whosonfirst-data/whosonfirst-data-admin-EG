@@ -1,0 +1,71 @@
+{
+  "id": 1242753727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90723,28.85421,30.90723,28.85421",
+    "geom:latitude":28.85421,
+    "geom:longitude":30.90723,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Nazlat Hanna Hanna",
+    "gn:country_code":"EG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351127,
+    "gn:latitude":28.85421,
+    "gn:longitude":30.90723,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat \u1e28ann\u0101 \u1e28ann\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlat \u1e24anna",
+        "Nazlat \u1e28ann\u0101 \u1e28ann\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351127
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ab468a536829e8829b0b4c0ab38299e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015415,
+            "locality_id":1242753727,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1242753727,
+    "wof:lastmodified":1537620608,
+    "wof:name":"Nazlat Hanna Hanna",
+    "wof:parent_id":1092015415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90723,
+    28.85421,
+    30.90723,
+    28.85421
+],
+  "geometry": {"coordinates":[30.90723,28.85421],"type":"Point"}
+}

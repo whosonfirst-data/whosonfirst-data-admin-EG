@@ -1,0 +1,74 @@
+{
+  "id": 1243152277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32967,30.59055,31.32967,30.59055",
+    "geom:latitude":30.59055,
+    "geom:longitude":31.32967,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr ash Shaykh Marwan",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354478,
+    "gn:latitude":30.59055,
+    "gn:longitude":31.32967,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr ash Shaykh Marw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0634\u064a\u062e \u0645\u0631\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-Sheikh Maraw\u00e2n",
+        "Kafr ash Shaykh Marw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092021747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354478
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f4ccc31294a363933199fa2f4ce295f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021747,
+            "locality_id":1243152277,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1243152277,
+    "wof:lastmodified":1537620717,
+    "wof:name":"Kafr ash Shaykh Marwan",
+    "wof:parent_id":1092021747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32967,
+    30.59055,
+    31.32967,
+    30.59055
+],
+  "geometry": {"coordinates":[31.32967,30.59055],"type":"Point"}
+}

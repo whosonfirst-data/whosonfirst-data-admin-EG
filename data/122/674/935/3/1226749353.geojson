@@ -1,0 +1,67 @@
+{
+  "id": 1226749353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99777,30.64716,29.99777,30.64716",
+    "geom:latitude":30.64716,
+    "geom:longitude":29.99777,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Abd al Halim Mahmud",
+    "gn:country_code":"EG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443408,
+    "gn:latitude":30.64716,
+    "gn:longitude":29.99777,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Abd al \u1e28al\u012bm Ma\u1e29m\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092022959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443408
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f6d78705a712fbbdf5725eb94095d154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022959,
+            "locality_id":1226749353,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226749353,
+    "wof:lastmodified":1536710627,
+    "wof:name":"`Abd al Halim Mahmud",
+    "wof:parent_id":1092022959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99777000000001,
+    30.64716,
+    29.99777000000001,
+    30.64716
+],
+  "geometry": {"coordinates":[29.99777000000001,30.64716],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292912129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10775,27.32147,31.10775,27.32147",
+    "geom:latitude":27.32147,
+    "geom:longitude":31.10775,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nazlat Hammam Ahmad",
+    "gn:country_code":"EG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351130,
+    "gn:latitude":27.32147,
+    "gn:longitude":31.10775,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat \u1e28amm\u0101m A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Arab al Qan\u0101\u0163ir",
+        "Nazlet \u1e24amm\u00e2d A\u1e25mad",
+        "\u2018Arab el-Qan\u00e2\u1e6dir",
+        "Nazlat \u1e28amm\u0101d A\u1e29mad",
+        "Nazlat \u1e28amm\u0101m A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351130
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9ca8d19649e4dd99ac7f7d996be26a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1292912129,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1292912129,
+    "wof:lastmodified":1537620608,
+    "wof:name":"Nazlat Hammam Ahmad",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.10775,
+    27.32147,
+    31.10775,
+    27.32147
+],
+  "geometry": {"coordinates":[31.10775,27.32147],"type":"Point"}
+}

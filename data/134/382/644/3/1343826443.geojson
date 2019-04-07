@@ -1,0 +1,67 @@
+{
+  "id": 1343826443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.79718,26.04867,32.79718,26.04867",
+    "geom:latitude":26.04867,
+    "geom:longitude":32.79718,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"As Sawahliyah",
+    "gn:country_code":"EG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434497,
+    "gn:latitude":26.04867,
+    "gn:longitude":32.79718,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"As Saw\u0101\u1e29l\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092023527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434497
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"edf414af3debfe2251f61b2154e4ec95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023527,
+            "locality_id":1343826443,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1343826443,
+    "wof:lastmodified":1536716150,
+    "wof:name":"As Sawahliyah",
+    "wof:parent_id":1092023527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.79718,
+    26.04867,
+    32.79718,
+    26.04867
+],
+  "geometry": {"coordinates":[32.79718,26.04867],"type":"Point"}
+}

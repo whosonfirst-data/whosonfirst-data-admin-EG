@@ -1,0 +1,67 @@
+{
+  "id": 1360185231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07778,29.13597,31.07778,29.13597",
+    "geom:latitude":29.13597,
+    "geom:longitude":31.07778,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taha' Bush",
+    "gn:country_code":"EG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347648,
+    "gn:latitude":29.13597,
+    "gn:longitude":31.07778,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u0162a\u1e29\u0101\u2019 B\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092022779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347648
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0eb95a92a70f165d7175d246dd9b2705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022779,
+            "locality_id":1360185231,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1360185231,
+    "wof:lastmodified":1536801204,
+    "wof:name":"Taha' Bush",
+    "wof:parent_id":1092022779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07778,
+    29.13597,
+    31.07778,
+    29.13597
+],
+  "geometry": {"coordinates":[31.07778,29.13597],"type":"Point"}
+}

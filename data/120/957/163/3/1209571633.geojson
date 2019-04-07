@@ -1,0 +1,61 @@
+{
+  "id": 1209571633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23091,26.07032,32.23091,26.07032",
+    "geom:latitude":26.07032,
+    "geom:longitude":32.23091,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Awlad Najm al Qibliyah",
+    "gn:country_code":"EG",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434543,
+    "gn:latitude":26.07032,
+    "gn:longitude":32.23091,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Awl\u0101d Najm al Qibl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434543
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"be588215d52f2c1e675cbf7bc1e12ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209571633
+        }
+    ],
+    "wof:id":1209571633,
+    "wof:lastmodified":1536283065,
+    "wof:name":"Awlad Najm al Qibliyah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.230909999999994,
+    26.07032,
+    32.230909999999994,
+    26.07032
+],
+  "geometry": {"coordinates":[32.23090999999999,26.07032],"type":"Point"}
+}

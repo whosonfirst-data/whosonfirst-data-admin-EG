@@ -1,0 +1,119 @@
+{
+  "id": 1126091975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.87734,31.16976,29.87734,31.16976",
+    "geom:latitude":31.16976,
+    "geom:longitude":29.87734,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":31.16458,
+    "gn:longitude":29.87219,
+    "iso:country":"EG",
+    "lbl:latitude":31.16976,
+    "lbl:longitude":29.87734,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0631\u062f\u064a\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0648\u0631\u062f\u064a\u0627\u0646"
+    ],
+    "name:eng_x_colloquial":[
+        "El-Wardyan",
+        "Al Wardiyaan",
+        "Al Wardiyan"
+    ],
+    "name:eng_x_preferred":[
+        "Wardian"
+    ],
+    "name:eng_x_variant":[
+        "El-Wardy\u00e2n",
+        "Al Wardiy\u00e5n",
+        "Wardeyan",
+        "Wardiyan El"
+    ],
+    "name:unk_x_variant":[
+        "El-Wardy\u00e2n",
+        "Wardian"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":360469,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Wardian",
+    "qs_pg:name_adm0":"\u0645\u0635\u0631",
+    "qs_pg:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":218649,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424802,
+    "qs_pg:woe_id":1521996,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424802,
+    "woe:name_adm0":"\u0645\u0635\u0631",
+    "woe:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85671041,
+        102191573,
+        85632581,
+        1092022499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360469,
+        "gp:id":1521996,
+        "qs:id":218649,
+        "qs_pg:id":218649,
+        "wd:id":"Q4518971"
+    },
+    "wof:country":"EG",
+    "wof:created":1497314065,
+    "wof:geomhash":"fefff2a609f2cb02244e8025948d1d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022499,
+            "locality_id":-1,
+            "neighbourhood_id":1126091975,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1126091975,
+    "wof:lastmodified":1534379294,
+    "wof:name":"Wardian",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85902925
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.87734,
+    31.16976,
+    29.87734,
+    31.16976
+],
+  "geometry": {"coordinates":[29.87734,31.16976],"type":"Point"}
+}

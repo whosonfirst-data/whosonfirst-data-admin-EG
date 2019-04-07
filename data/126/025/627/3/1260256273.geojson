@@ -1,0 +1,75 @@
+{
+  "id": 1260256273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.62671,30.53423,31.62671,30.53423",
+    "geom:latitude":30.53423,
+    "geom:longitude":31.62671,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"As Sanajirah",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359852,
+    "gn:latitude":30.53423,
+    "gn:longitude":31.62671,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As San\u0101jirah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0646\u0627\u062c\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Sanagra",
+        "As San\u0101jirah",
+        "As San\u0101jrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359852
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"43c650064ca970962b277dbabecbe48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014103,
+            "locality_id":1260256273,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1260256273,
+    "wof:lastmodified":1537620852,
+    "wof:name":"As Sanajirah",
+    "wof:parent_id":1092014103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.62671,
+    30.53423,
+    31.62671,
+    30.53423
+],
+  "geometry": {"coordinates":[31.62671,30.53423],"type":"Point"}
+}

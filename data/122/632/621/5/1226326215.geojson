@@ -1,0 +1,71 @@
+{
+  "id": 1226326215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69015,28.03203,30.69015,28.03203",
+    "geom:latitude":28.03203,
+    "geom:longitude":30.69015,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Saft al Khammar",
+    "gn:country_code":"EG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349893,
+    "gn:latitude":28.03203,
+    "gn:longitude":30.69015,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015eaf\u0163 al Khamm\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saft el Khamm\u00e2r",
+        "\u015eaf\u0163 al Khamm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092018557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349893
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dca9d9a42701d8983b5b70ff4e247928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018557,
+            "locality_id":1226326215,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1226326215,
+    "wof:lastmodified":1537620590,
+    "wof:name":"Saft al Khammar",
+    "wof:parent_id":1092018557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69015,
+    28.03203,
+    30.69015,
+    28.03203
+],
+  "geometry": {"coordinates":[30.69015,28.03203],"type":"Point"}
+}

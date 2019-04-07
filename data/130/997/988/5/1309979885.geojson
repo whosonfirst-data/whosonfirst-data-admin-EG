@@ -1,0 +1,73 @@
+{
+  "id": 1309979885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31955,30.51609,31.31955,30.51609",
+    "geom:latitude":30.51609,
+    "geom:longitude":31.31955,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Khayri",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8062078,
+    "gn:latitude":30.51609,
+    "gn:longitude":31.31955,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Khayr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062e\u064a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Khayr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8062078
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d5506b9508b7760f7c09f3f5f811621f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1309979885,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309979885,
+    "wof:lastmodified":1537621158,
+    "wof:name":"`Izbat Khayri",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31955,
+    30.51609,
+    31.31955,
+    30.51609
+],
+  "geometry": {"coordinates":[31.31955,30.51609],"type":"Point"}
+}

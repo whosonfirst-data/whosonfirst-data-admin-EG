@@ -1,0 +1,75 @@
+{
+  "id": 1243079179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28954,31.00984,30.28954,31.00984",
+    "geom:latitude":31.00984,
+    "geom:longitude":30.28954,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mahallat Kayl",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353131,
+    "gn:latitude":31.00984,
+    "gn:longitude":30.28954,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ma\u1e29allat Kayl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644\u0629 \u0643\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e25allet Keil",
+        "Ma\u1e29allat Kayl",
+        "Ma\u1e25allat Kayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353131
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3bdb8b86c7ee01991ed755f7e95a34d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1243079179,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243079179,
+    "wof:lastmodified":1537620666,
+    "wof:name":"Mahallat Kayl",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28954,
+    31.00984,
+    30.28954,
+    31.00984
+],
+  "geometry": {"coordinates":[30.28954,31.00984],"type":"Point"}
+}

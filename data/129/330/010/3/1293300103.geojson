@@ -1,0 +1,67 @@
+{
+  "id": 1293300103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75333,30.67333,30.75333,30.67333",
+    "geom:latitude":30.67333,
+    "geom:longitude":30.75333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Ezbet Radi",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357150,
+    "gn:latitude":30.67333,
+    "gn:longitude":30.75333,
+    "gn:modification_date":"1997-08-27",
+    "gn:name":"\u2018Ezbet R\u00e2d\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357150
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9c8603d8748edbcb3c03c690ad4abe51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1293300103,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1293300103,
+    "wof:lastmodified":1537054717,
+    "wof:name":"`Ezbet Radi",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75333,
+    30.67333,
+    30.75333,
+    30.67333
+],
+  "geometry": {"coordinates":[30.75333,30.67333],"type":"Point"}
+}

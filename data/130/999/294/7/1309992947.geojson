@@ -1,0 +1,71 @@
+{
+  "id": 1309992947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27109,30.41596,31.27109,30.41596",
+    "geom:latitude":30.41596,
+    "geom:longitude":31.27109,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Minshat Dhi'ab",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352401,
+    "gn:latitude":30.41596,
+    "gn:longitude":31.27109,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Minsh\u0101t Dhi\u2019\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minsh\u00e2t Diyab",
+        "Minsh\u0101t Dhi\u2019\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092015253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352401
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"70c0d5cad98fe5dbfc50262c9c288f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015253,
+            "locality_id":1309992947,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1309992947,
+    "wof:lastmodified":1537620651,
+    "wof:name":"Minshat Dhi'ab",
+    "wof:parent_id":1092015253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27109,
+    30.41596,
+    31.27109,
+    30.41596
+],
+  "geometry": {"coordinates":[31.27109,30.41596],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293658135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.85,31.43333,26.85,31.43333",
+    "geom:latitude":31.43333,
+    "geom:longitude":26.85,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Kafr Abu Habhab",
+    "gn:country_code":"EG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354836,
+    "gn:latitude":31.43333,
+    "gn:longitude":26.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Kafr Abu Habhab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092022115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354836
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7f7a79de0643a4963ac08a95d59c09c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022115,
+            "locality_id":1293658135,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1293658135,
+    "wof:lastmodified":1537036752,
+    "wof:name":"Kafr Abu Habhab",
+    "wof:parent_id":1092022115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.85,
+    31.43333,
+    26.85,
+    31.43333
+],
+  "geometry": {"coordinates":[26.85,31.43333],"type":"Point"}
+}

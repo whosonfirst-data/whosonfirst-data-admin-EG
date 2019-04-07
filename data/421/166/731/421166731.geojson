@@ -1,0 +1,90 @@
+{
+  "id": 421166731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17278,29.4075,31.17278,29.4075",
+    "geom:latitude":29.4075,
+    "geom:longitude":31.17278,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0627\u0645"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0627\u0645"
+    ],
+    "name:ind_x_preferred":[
+        "Al Haram"
+    ],
+    "name:unk_x_variant":[
+        "El Haram"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":361202,
+    "qs:gn_pop":0,
+    "qs:name":"Al Haram",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0628\u0646\u064a \u0633\u0648\u064a\u0641",
+    "qs:photos":104,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":104,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":270984,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1521512,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":362,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092020395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361202,
+        "gp:id":1521512,
+        "qs:id":270984,
+        "wd:id":"Q4703985"
+    },
+    "wof:country":"EG",
+    "wof:created":1459008700,
+    "wof:geomhash":"b4f3730b691d930bd036e474ebc07040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020395,
+            "locality_id":421166731,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":421166731,
+    "wof:lastmodified":1527716101,
+    "wof:name":"Al Haram",
+    "wof:parent_id":1092020395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17278,
+    29.4075,
+    31.17278,
+    29.4075
+],
+  "geometry": {"coordinates":[31.17278,29.4075],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310310953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85232,29.14003,30.85232,29.14003",
+    "geom:latitude":29.14003,
+    "geom:longitude":30.85232,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shaqluf",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434729,
+    "gn:latitude":29.14003,
+    "gn:longitude":30.85232,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Shaql\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434729
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e37f674db802e58b88a5fca70c7472fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022937,
+            "locality_id":1310310953,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1310310953,
+    "wof:lastmodified":1536700275,
+    "wof:name":"Shaqluf",
+    "wof:parent_id":1092022937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85232,
+    29.14003,
+    30.85232,
+    29.14003
+],
+  "geometry": {"coordinates":[30.85232,29.14003],"type":"Point"}
+}

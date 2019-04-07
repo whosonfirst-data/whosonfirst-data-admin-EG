@@ -1,0 +1,92 @@
+{
+  "id": 1092020039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.020174,
+    "geom:area_square_m":214855769.760914,
+    "geom:bbox":"31.754936,30.460765,32.07393,30.586251",
+    "geom:latitude":30.535693,
+    "geom:longitude":31.896974,
+    "iso:country":"EG",
+    "lbl:latitude":30.514654,
+    "lbl:longitude":31.872797,
+    "meso:admin_1":"Ismailia",
+    "meso:diss_me":"El-Tal El-KebeerIsmailia",
+    "meso:gadm_admin":"At-Tall al-Kabir",
+    "meso:gadm_hasc2":"EG.IS.TE",
+    "meso:gaul_admin":"Tal al-Kabir, al-",
+    "meso:mps_x":31.872797,
+    "meso:mps_y":30.514654,
+    "meso:name_en":"El-Tal El-Kebeer",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Merkz",
+    "mps:latitude":30.514654,
+    "mps:longitude":31.872797,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "At-Tall al-Kabir"
+    ],
+    "name:eng_x_variant":[
+        "Tal al-Kabir, al-",
+        "At-Tall al-Kabir"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.IS",
+    "statoids:name":"At-Tall al-Kabir",
+    "statoids:population":"152204",
+    "statoids:statoid":"EG.IS.TE",
+    "statoids:timezone":"+2~",
+    "statoids:type":"markaz",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.IS.TE"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897346,
+    "wof:geomhash":"38ec30e6502891202e7f32574ee3839d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020039,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1092020039,
+    "wof:lastmodified":1536615088,
+    "wof:name":"El-Tal El-Kebeer",
+    "wof:parent_id":85670989,
+    "wof:placetype":"county",
+    "wof:placetype_local":"markaz",
+    "wof:population":152204,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"TE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.754936,
+    30.460765,
+    32.07393,
+    30.586251
+],
+  "geometry": {"coordinates":[[[32.073735,30.566552],[32.073872,30.565653],[32.07393,30.556914],[32.072892,30.553216],[32.071854,30.549976],[32.071854,30.549868],[32.069072,30.549577],[32.062183,30.548075],[32.059002,30.547558],[32.055825,30.546583],[32.048943,30.54416],[32.047348,30.54459],[32.043626,30.545443],[32.037789,30.545339],[32.027183,30.544225],[32.018702,30.542693],[32.015497,30.545391],[31.997964,30.547829],[31.994779,30.547771],[31.993206,30.545442],[31.992195,30.538987],[31.991689,30.535762],[31.990651,30.532984],[31.990127,30.532055],[31.98907,30.531575],[31.987478,30.531547],[31.944984,30.531629],[31.943128,30.504515],[31.926704,30.501907],[31.920023,30.476954],[31.896816,30.46226],[31.870814,30.464056],[31.869224,30.464025],[31.868172,30.463084],[31.867132,30.460765],[31.822462,30.47368],[31.819168,30.495446],[31.824311,30.503347],[31.819051,30.513996],[31.822948,30.521403],[31.821396,30.524132],[31.816319,30.523833],[31.811348,30.532294],[31.795445,30.528659],[31.767821,30.526057],[31.758713,30.533671],[31.756634,30.562396],[31.754936,30.565817],[31.765997,30.574327],[31.773985,30.581456],[31.782079,30.581776],[31.78924,30.580931],[31.793546,30.579499],[31.79999,30.577959],[31.809504,30.575687],[31.837826,30.56837],[31.868698,30.564564],[31.891673,30.569189],[31.942028,30.578133],[31.96941,30.582415],[31.9796,30.586251],[31.989264,30.584006],[32.023586,30.580318],[32.068899,30.575134],[32.073316,30.569321],[32.073735,30.566552]]],"type":"Polygon"}
+}

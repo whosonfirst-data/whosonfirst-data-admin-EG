@@ -1,0 +1,75 @@
+{
+  "id": 1326613669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.36338,30.74209,31.36338,30.74209",
+    "geom:latitude":30.74209,
+    "geom:longitude":31.36338,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hissat ar Ruhban",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355862,
+    "gn:latitude":30.74209,
+    "gn:longitude":31.36338,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28i\u015f\u015fat ar Ruhb\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0629 \u0627\u0644\u0631\u0647\u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e24i\u1e63\u1e63et el-Ruhb\u00e2n",
+        "\u1e24i\u1e63\u1e63et el-Rubb\u00e2n",
+        "\u1e28i\u015f\u015fat ar Ruhb\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355862
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d45449fe88718fb66c93d35d364a0080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022277,
+            "locality_id":1326613669,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1326613669,
+    "wof:lastmodified":1537620774,
+    "wof:name":"Hissat ar Ruhban",
+    "wof:parent_id":1092022277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.36338,
+    30.74209,
+    31.36338,
+    30.74209
+],
+  "geometry": {"coordinates":[31.36338,30.74209],"type":"Point"}
+}

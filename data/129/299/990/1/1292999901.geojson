@@ -1,0 +1,71 @@
+{
+  "id": 1292999901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9655,30.88322,30.9655,30.88322",
+    "geom:latitude":30.88322,
+    "geom:longitude":30.9655,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mahallat Minuf",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353125,
+    "gn:latitude":30.88322,
+    "gn:longitude":30.9655,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ma\u1e29allat Min\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u1e25allet Min\u00fbf",
+        "Ma\u1e29allat Min\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353125
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b2d6a27aa930cdcee0f0dc86c8d3a146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1292999901,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1292999901,
+    "wof:lastmodified":1537620665,
+    "wof:name":"Mahallat Minuf",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9655,
+    30.88322,
+    30.9655,
+    30.88322
+],
+  "geometry": {"coordinates":[30.9655,30.88322],"type":"Point"}
+}

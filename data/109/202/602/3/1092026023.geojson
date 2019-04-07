@@ -1,0 +1,74 @@
+{
+  "id": 1092026023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000924,
+    "geom:area_square_m":9859903.852713,
+    "geom:bbox":"30.156269,30.29301,30.493508,30.473979",
+    "geom:latitude":30.377517,
+    "geom:longitude":30.365405,
+    "iso:country":"EG",
+    "lbl:latitude":30.31765,
+    "lbl:longitude":30.435844,
+    "meso:admin_1":"Behera",
+    "meso:diss_me":"Wady El-NatroonBehera",
+    "meso:gadm_admin":"Unorganized in Al Buhayrah",
+    "meso:gadm_hasc2":"EG.IK.UO",
+    "meso:gaul_admin":"Zemam Out",
+    "meso:mps_x":30.435844,
+    "meso:mps_y":30.31765,
+    "meso:name_en":"Wady El-Natroon",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Merkz",
+    "mps:latitude":30.31765,
+    "mps:longitude":30.435844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Zemam Out",
+        "Unorganized in Al Buhayrah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.IK.UO"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897563,
+    "wof:geomhash":"8b01a84b1be8d2be7096160fb3f6a749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092026023,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1092026023,
+    "wof:lastmodified":1536615094,
+    "wof:name":"Wady El-Natroon",
+    "wof:parent_id":85671035,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"UO",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.156269,
+    30.29301,
+    30.493508,
+    30.473979
+],
+  "geometry": {"coordinates":[[[[30.360907,30.392154],[30.349626,30.398737],[30.350637,30.402063],[30.364686,30.398095],[30.37254,30.395826],[30.374456,30.394473],[30.379256,30.388622],[30.375137,30.385175],[30.360907,30.392154]]],[[[30.315923,30.415059],[30.31416,30.426219],[30.327769,30.42753],[30.330427,30.41828],[30.315923,30.415059]]],[[[30.157752,30.463439],[30.156269,30.472013],[30.169809,30.473979],[30.171072,30.466012],[30.157752,30.463439]]],[[[30.487076,30.29301],[30.484903,30.29705],[30.487679,30.300166],[30.493508,30.299567],[30.492676,30.293575],[30.487076,30.29301]]],[[[30.429153,30.322587],[30.428868,30.334253],[30.433462,30.33256],[30.439859,30.321187],[30.445076,30.316459],[30.450839,30.313636],[30.456457,30.307986],[30.431203,30.312893],[30.429153,30.322587]]],[[[30.388462,30.369852],[30.386656,30.372231],[30.387138,30.37446],[30.389045,30.377003],[30.392008,30.376832],[30.394059,30.377198],[30.396754,30.377594],[30.401632,30.37479],[30.403146,30.369814],[30.401365,30.367478],[30.394761,30.363732],[30.392532,30.364123],[30.391089,30.364858],[30.390254,30.367453],[30.388462,30.369852]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293269305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21923,30.20678,31.21923,30.20678",
+    "geom:latitude":30.20678,
+    "geom:longitude":31.21923,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr Abu Jum`ah",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354827,
+    "gn:latitude":30.20678,
+    "gn:longitude":31.21923,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ab\u016b Jum\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0623\u0628\u0648 \u062c\u0645\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr Ab\u00fb Guni\u2018a",
+        "Kafr Abu Gum\u2018a",
+        "Kafr Ab\u016b Jum\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092023447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354827
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3f4aed81db086ccd1a421fa1ab211dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023447,
+            "locality_id":1293269305,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1293269305,
+    "wof:lastmodified":1537620748,
+    "wof:name":"Kafr Abu Jum`ah",
+    "wof:parent_id":1092023447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21923,
+    30.20678,
+    31.21923,
+    30.20678
+],
+  "geometry": {"coordinates":[31.21923,30.20678],"type":"Point"}
+}

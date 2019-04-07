@@ -1,0 +1,137 @@
+{
+  "id": 421187721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00347,26.23568,32.00347,26.23568",
+    "geom:latitude":26.23568,
+    "geom:longitude":32.00347,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u064a\u0646\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Balyan\u0101"
+    ],
+    "name:dut_x_preferred":[
+        "Balyana"
+    ],
+    "name:eng_x_preferred":[
+        "El-Balyana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06cc\u0646\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "El-Balyana"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10d0\u10da\u10e3\u10d0\u10dc\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "al-Balyana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30eb\u30fb\u30d0\u30eb\u30e4\u30ca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10d0\u10da\u10e3\u10d0\u10dc\u10d0"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0644\u06cc\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Baljana"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0430\u043b\u044c\u044f\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "El-Balyana"
+    ],
+    "name:swe_x_preferred":[
+        "Al Balyan\u0101"
+    ],
+    "name:unk_x_variant":[
+        "Balyana"
+    ],
+    "name:vie_x_preferred":[
+        "Balyana"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":361435,
+    "qs:gn_pop":48801,
+    "qs:name":"El Balyana",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0633\u0648\u0647\u0627\u062c",
+    "qs:photos":92,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":92,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":7485,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1522936,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:elevation":75.0,
+    "wd:latitude":26.232928,
+    "wd:longitude":31.999261,
+    "wd:population":46997,
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092017143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361435,
+        "gp:id":1522936,
+        "qs:id":7485,
+        "wd:id":"Q2210877",
+        "wk:page":"El-Balyana"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009522,
+    "wof:geomhash":"8b6c85da4958b8a7ba135a60b368924d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017143,
+            "locality_id":421187721,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":421187721,
+    "wof:lastmodified":1527716252,
+    "wof:name":"El Balyana",
+    "wof:parent_id":1092017143,
+    "wof:placetype":"locality",
+    "wof:population":46997,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00347,
+    26.23568,
+    32.00347,
+    26.23568
+],
+  "geometry": {"coordinates":[32.00347,26.23568],"type":"Point"}
+}

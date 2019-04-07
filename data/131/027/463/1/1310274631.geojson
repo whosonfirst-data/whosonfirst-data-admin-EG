@@ -1,0 +1,67 @@
+{
+  "id": 1310274631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96667,24.41667,32.96667,24.41667",
+    "geom:latitude":24.41667,
+    "geom:longitude":32.96667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"`Ezbet el Busa",
+    "gn:country_code":"EG",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357526,
+    "gn:latitude":24.41667,
+    "gn:longitude":32.96667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet el B\u00fbsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092021927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357526
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0183253cc9ee4a42ee22bca78f74b035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021927,
+            "locality_id":1310274631,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1310274631,
+    "wof:lastmodified":1536752482,
+    "wof:name":"`Ezbet el Busa",
+    "wof:parent_id":1092021927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96667,
+    24.41667,
+    32.96667,
+    24.41667
+],
+  "geometry": {"coordinates":[32.96667,24.41667],"type":"Point"}
+}

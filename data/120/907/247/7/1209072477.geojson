@@ -1,0 +1,67 @@
+{
+  "id": 1209072477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,28.8,30.75,28.8",
+    "geom:latitude":28.8,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Naj` `Arab Mahdi al Ahzam",
+    "gn:country_code":"EG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351457,
+    "gn:latitude":28.8,
+    "gn:longitude":30.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 \u2018Arab Mahd\u012b al A\u1e29zam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qab\u012blat ar Rim\u0101\u1e29",
+        "El Rima",
+        "Nag\u2018 \u2018Arab Mahdi el A\u1e25zam",
+        "Naj\u2018 \u2018Arab Mahd\u012b al A\u1e29zam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351457
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a545ad6a44010ce1526d2fdb02a5ac4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209072477
+        }
+    ],
+    "wof:id":1209072477,
+    "wof:lastmodified":1537620622,
+    "wof:name":"Naj` `Arab Mahdi al Ahzam",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    28.8,
+    30.75,
+    28.8
+],
+  "geometry": {"coordinates":[30.75,28.8],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309680355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78333,26.31667,31.78333,26.31667",
+    "geom:latitude":26.31667,
+    "geom:longitude":31.78333,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Naj` as Sarawirah",
+    "gn:country_code":"EG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351441,
+    "gn:latitude":26.31667,
+    "gn:longitude":31.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 as Sar\u0101wirah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit Khall\u00e2f",
+        "Naj\u2018 as Sar\u0101wirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092021127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351441,
+        "wk:page":"Beit_Khallaf"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"91eab3fdefdf706f99b7ede7c012c768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021127,
+            "locality_id":1309680355,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1309680355,
+    "wof:lastmodified":1537620621,
+    "wof:name":"Naj` as Sarawirah",
+    "wof:parent_id":1092021127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78333,
+    26.31667,
+    31.78333,
+    26.31667
+],
+  "geometry": {"coordinates":[31.78333,26.31667],"type":"Point"}
+}

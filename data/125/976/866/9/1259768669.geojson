@@ -1,0 +1,71 @@
+{
+  "id": 1259768669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2325,30.11917,31.2325,30.11917",
+    "geom:latitude":30.11917,
+    "geom:longitude":31.2325,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Damanhur Shubra",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358444,
+    "gn:latitude":30.11917,
+    "gn:longitude":31.2325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Damanh\u016br Shubr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Damanh\u00fbr",
+        "Damanh\u016br Shubr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092020349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358444
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ec9286be55e607d6ff258dfe8933fd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020349,
+            "locality_id":1259768669,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1259768669,
+    "wof:lastmodified":1537620815,
+    "wof:name":"Damanhur Shubra",
+    "wof:parent_id":1092020349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2325,
+    30.11917,
+    31.2325,
+    30.11917
+],
+  "geometry": {"coordinates":[31.2325,30.11917],"type":"Point"}
+}

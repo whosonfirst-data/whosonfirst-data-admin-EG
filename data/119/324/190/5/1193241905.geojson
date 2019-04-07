@@ -1,0 +1,73 @@
+{
+  "id": 1193241905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86667,27.45,30.86667,27.45",
+    "geom:latitude":27.45,
+    "geom:longitude":30.86667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Qusayr",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360530,
+    "gn:latitude":27.45,
+    "gn:longitude":30.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qu\u015fayr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet G\u00fbde",
+        "El Qu\u1e63eir",
+        "Al Qu\u015fayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360530
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"af82b165e81bd1573d9f4c4b8d27a3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1193241905,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1193241905,
+    "wof:lastmodified":1537620881,
+    "wof:name":"Al Qusayr",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86667000000001,
+    27.45,
+    30.86667000000001,
+    27.45
+],
+  "geometry": {"coordinates":[30.86667000000001,27.45],"type":"Point"}
+}

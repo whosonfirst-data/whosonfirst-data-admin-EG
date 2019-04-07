@@ -1,0 +1,72 @@
+{
+  "id": 1344033859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8564,27.31959,30.8564,27.31959",
+    "geom:latitude":27.31959,
+    "geom:longitude":30.8564,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bani Sha`ran",
+    "gn:country_code":"EG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359182,
+    "gn:latitude":27.31959,
+    "gn:longitude":30.8564,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b Sha\u2018r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Sha\u2018r\u0101m",
+        "Beni Sha\u2018ran",
+        "Ban\u012b Sha\u2018r\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092019229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359182
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0479d151e052f3453831fa9c1015f082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019229,
+            "locality_id":1344033859,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1344033859,
+    "wof:lastmodified":1537620829,
+    "wof:name":"Bani Sha`ran",
+    "wof:parent_id":1092019229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8564,
+    27.31959,
+    30.8564,
+    27.31959
+],
+  "geometry": {"coordinates":[30.8564,27.31959],"type":"Point"}
+}

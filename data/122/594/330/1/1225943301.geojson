@@ -1,0 +1,76 @@
+{
+  "id": 1225943301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19583,30.97268,31.19583,30.97268",
+    "geom:latitude":30.97268,
+    "geom:longitude":31.19583,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mahallat Abu `Ali al Qantarah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353145,
+    "gn:latitude":30.97268,
+    "gn:longitude":31.19583,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Ma\u1e29allat Ab\u016b \u2018Al\u012b al Qan\u0163arah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644\u0629 \u0623\u0628\u0648 \u0639\u0644\u064a \u0627\u0644\u0642\u0646\u0637\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mehallet Abu Ali",
+        "Ma\u1e25allet Abu \u2018Ali el-Qan\u1e6dara",
+        "Ma\u1e29allat Ab\u016b \u2018Al\u012b al Qan\u0163arah",
+        "Ma\u1e25allat Ab\u016b \u2018Al\u012b al-Qan\u1e6darah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353145
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"146c0c141e72d84fb37a2fe5c3876f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1225943301,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1225943301,
+    "wof:lastmodified":1537620667,
+    "wof:name":"Mahallat Abu `Ali al Qantarah",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19583,
+    30.97268,
+    31.19583,
+    30.97268
+],
+  "geometry": {"coordinates":[31.19583,30.97268],"type":"Point"}
+}

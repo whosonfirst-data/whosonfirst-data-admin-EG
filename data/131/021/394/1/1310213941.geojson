@@ -1,0 +1,67 @@
+{
+  "id": 1310213941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94629,24.69291,32.94629,24.69291",
+    "geom:latitude":24.69291,
+    "geom:longitude":32.94629,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nag` el-Shibeika",
+    "gn:country_code":"EG",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351586,
+    "gn:latitude":24.69291,
+    "gn:longitude":32.94629,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Nag\u2018 el-Shibeika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092022915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351586
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"12c53b10f4d320c186e3bfac1201a6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022915,
+            "locality_id":1310213941,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1310213941,
+    "wof:lastmodified":1536838961,
+    "wof:name":"Nag` el-Shibeika",
+    "wof:parent_id":1092022915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94629,
+    24.69291,
+    32.94629,
+    24.69291
+],
+  "geometry": {"coordinates":[32.94629,24.69291],"type":"Point"}
+}

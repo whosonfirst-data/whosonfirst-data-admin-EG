@@ -1,0 +1,71 @@
+{
+  "id": 1259607265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81517,29.28619,30.81517,29.28619",
+    "geom:latitude":29.28619,
+    "geom:longitude":30.81517,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Abjij",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362978,
+    "gn:latitude":29.28619,
+    "gn:longitude":30.81517,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abj\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abgig",
+        "Abj\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362978
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3753cfca87b7af47b4dea84ba5d10e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1259607265,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1259607265,
+    "wof:lastmodified":1537620964,
+    "wof:name":"Abjij",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81517,
+    29.28619,
+    30.81517,
+    29.28619
+],
+  "geometry": {"coordinates":[30.81517,29.28619],"type":"Point"}
+}

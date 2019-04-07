@@ -1,0 +1,74 @@
+{
+  "id": 1276885131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.50959,31.03559,30.50959,31.03559",
+    "geom:latitude":31.03559,
+    "geom:longitude":30.50959,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat as Sayyid Sulayman Makram",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415886,
+    "gn:latitude":31.03559,
+    "gn:longitude":30.50959,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"\u2018Izbat as Sayyid Sulaym\u0101n Makram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0633\u064a\u062f \u0633\u0644\u064a\u0645\u0627\u0646 \u0645\u0643\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat as Sayyid Sulaym\u0101n Makram",
+        "\u2018Izbat as- Sayyid Sulaym\u0101n Makram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092015921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415886
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ffe649e5b3e1777aa706a1d74b45682d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015921,
+            "locality_id":1276885131,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276885131,
+    "wof:lastmodified":1537621002,
+    "wof:name":"`Izbat as Sayyid Sulayman Makram",
+    "wof:parent_id":1092015921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.50959000000001,
+    31.03559000000001,
+    30.50959000000001,
+    31.03559000000001
+],
+  "geometry": {"coordinates":[30.50959000000001,31.03559000000001],"type":"Point"}
+}

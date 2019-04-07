@@ -1,0 +1,67 @@
+{
+  "id": 1259791045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.15208,30.67615,30.15208,30.67615",
+    "geom:latitude":30.67615,
+    "geom:longitude":30.15208,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ahmad Shawqi",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408917,
+    "gn:latitude":30.67615,
+    "gn:longitude":30.15208,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"A\u1e29mad Shawq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408917
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7b85f78b2245c194cd31a8692fab5483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1259791045,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259791045,
+    "wof:lastmodified":1536912618,
+    "wof:name":"Ahmad Shawqi",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.15208,
+    30.67615,
+    30.15208,
+    30.67615
+],
+  "geometry": {"coordinates":[30.15208,30.67615],"type":"Point"}
+}

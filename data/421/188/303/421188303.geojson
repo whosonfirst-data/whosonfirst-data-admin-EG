@@ -1,0 +1,111 @@
+{
+  "id": 421188303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.43466,26.90802,31.43466,26.90802",
+    "geom:latitude":26.90802,
+    "geom:longitude":31.43466,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0637\u0645\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Tima"
+    ],
+    "name:eng_x_preferred":[
+        "Tima"
+    ],
+    "name:fre_x_preferred":[
+        "Tima"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e2\u10d8\u10db\u10d0"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03af\u03bc\u03b1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30a3\u30de"
+    ],
+    "name:per_x_preferred":[
+        "\u0637\u0645\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Tima"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "\u0162im\u0101"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":347296,
+    "qs:gn_pop":0,
+    "qs:name":"\u0637\u0645\u0627",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0633\u0648\u0647\u0627\u062c",
+    "qs:photos":12,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1092994,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1526517,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092025329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347296,
+        "gp:id":1526517,
+        "qs:id":1092994,
+        "wd:id":"Q2511670",
+        "wk:page":"Tima, Egypt"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009541,
+    "wof:geomhash":"e31a4f74ad8e0d22a4a05c8be57db2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025329,
+            "locality_id":421188303,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":421188303,
+    "wof:lastmodified":1513956729,
+    "wof:name":"\u0637\u0645\u0627",
+    "wof:parent_id":1092025329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.43466,
+    26.90802,
+    31.43466,
+    26.90802
+],
+  "geometry": {"coordinates":[31.43466,26.90802],"type":"Point"}
+}

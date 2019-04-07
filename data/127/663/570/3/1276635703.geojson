@@ -1,0 +1,71 @@
+{
+  "id": 1276635703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16667,30.23333,31.16667,30.23333",
+    "geom:latitude":30.23333,
+    "geom:longitude":31.16667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Khalwat al Baradi`ah",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353737,
+    "gn:latitude":30.23333,
+    "gn:longitude":31.16667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khalwat al Bar\u0101di\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khilwet el Bar\u00e2d\u2018a",
+        "Khalwat al Bar\u0101di\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092018935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353737
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3d4b55e2d67ab35f19e63fd30617412c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018935,
+            "locality_id":1276635703,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1276635703,
+    "wof:lastmodified":1537620674,
+    "wof:name":"Khalwat al Baradi`ah",
+    "wof:parent_id":1092018935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16667,
+    30.23333,
+    31.16667,
+    30.23333
+],
+  "geometry": {"coordinates":[31.16667,30.23333],"type":"Point"}
+}

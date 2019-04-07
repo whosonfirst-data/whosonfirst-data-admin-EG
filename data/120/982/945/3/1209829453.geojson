@@ -1,0 +1,74 @@
+{
+  "id": 1209829453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78457,31.2393,31.78457,31.2393",
+    "geom:latitude":31.2393,
+    "geom:longitude":31.78457,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Raqam ath Thaniyah `Ashar",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547630,
+    "gn:latitude":31.2393,
+    "gn:longitude":31.78457,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Raqam ath Th\u0101niyah \u2018Ashar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0642\u0645 \u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0639\u0634\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Raqam ath Th\u0101niyah \u2018Ashar",
+        "\u2018Izbat Number Twelve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547630
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"457c0e3ffdcd528b5ee7152c567cf1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022325,
+            "locality_id":1209829453,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1209829453,
+    "wof:lastmodified":1537621285,
+    "wof:name":"`Izbat Raqam ath Thaniyah `Ashar",
+    "wof:parent_id":1092022325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78457,
+    31.2393,
+    31.78457,
+    31.2393
+],
+  "geometry": {"coordinates":[31.78457,31.2393],"type":"Point"}
+}

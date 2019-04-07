@@ -1,0 +1,75 @@
+{
+  "id": 1309805455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67406,31.09606,30.67406,31.09606",
+    "geom:latitude":31.09606,
+    "geom:longitude":30.67406,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Murqus",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352738,
+    "gn:latitude":31.09606,
+    "gn:longitude":30.67406,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Murqu\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0642\u0635"
+    ],
+    "name:und_x_variant":[
+        "Marqa\u015f",
+        "Murqu\u015f",
+        "Murqu\u1e63"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352738
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"deb82f5a872ce81b8857980fc915e771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019273,
+            "locality_id":1309805455,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1309805455,
+    "wof:lastmodified":1537620658,
+    "wof:name":"Murqus",
+    "wof:parent_id":1092019273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67406,
+    31.09606,
+    30.67406,
+    31.09606
+],
+  "geometry": {"coordinates":[30.67406,31.09606],"type":"Point"}
+}

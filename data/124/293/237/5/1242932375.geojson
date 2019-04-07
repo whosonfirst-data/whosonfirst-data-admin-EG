@@ -1,0 +1,77 @@
+{
+  "id": 1242932375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21589,31.47133,31.21589,31.47133",
+    "geom:latitude":31.47133,
+    "geom:longitude":31.21589,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Qaryah Raqm Tis`ah wa Khamsun",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7758679,
+    "gn:latitude":31.47133,
+    "gn:longitude":31.21589,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qaryah Raqm Tis\u2018ah wa Khams\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 \u0665\u0669"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 59"
+    ],
+    "name:und_x_variant":[
+        "Qaryah Raqm Tis\u2018ah wa Khams\u016bn",
+        "Qaryah Raqm 59"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7758679
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c296aa87fec2e88ca54babcbd7e7eee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1242932375,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1242932375,
+    "wof:lastmodified":1537621136,
+    "wof:name":"Qaryah Raqm Tis`ah wa Khamsun",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21589,
+    31.47133,
+    31.21589,
+    31.47133
+],
+  "geometry": {"coordinates":[31.21589,31.47133],"type":"Point"}
+}

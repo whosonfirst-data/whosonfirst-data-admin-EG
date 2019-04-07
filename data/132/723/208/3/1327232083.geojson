@@ -1,0 +1,67 @@
+{
+  "id": 1327232083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00157,29.51232,31.00157,29.51232",
+    "geom:latitude":29.51232,
+    "geom:longitude":31.00157,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Ezbet Nashid Morqos",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357170,
+    "gn:latitude":29.51232,
+    "gn:longitude":31.00157,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Ezbet N\u00e2shid Morqos",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092025417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357170
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"754537a4040115c3639ee546abc01560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025417,
+            "locality_id":1327232083,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1327232083,
+    "wof:lastmodified":1536969723,
+    "wof:name":"`Ezbet Nashid Morqos",
+    "wof:parent_id":1092025417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00157,
+    29.51232000000001,
+    31.00157,
+    29.51232000000001
+],
+  "geometry": {"coordinates":[31.00157,29.51232000000001],"type":"Point"}
+}

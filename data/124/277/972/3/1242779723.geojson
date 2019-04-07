@@ -1,0 +1,67 @@
+{
+  "id": 1242779723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.60213,30.6438,30.60213,30.6438",
+    "geom:latitude":30.6438,
+    "geom:longitude":30.60213,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat `Ayn Jalut",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421618,
+    "gn:latitude":30.6438,
+    "gn:longitude":30.60213,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Qaryat \u2018Ayn J\u0101l\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421618
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"46117ce0cdd34120d8763dd4a0feb039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1242779723,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242779723,
+    "wof:lastmodified":1536773164,
+    "wof:name":"Qaryat `Ayn Jalut",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.60213,
+    30.6438,
+    30.60213,
+    30.6438
+],
+  "geometry": {"coordinates":[30.60213,30.6438],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226037655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.95242,31.15077,29.95242,31.15077",
+    "geom:latitude":31.15077,
+    "geom:longitude":29.95242,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Qaryah Thalathah/Sab`ah",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8361001,
+    "gn:latitude":31.15077,
+    "gn:longitude":29.95242,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Qaryah Thal\u0101thah/Sab\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0667/\u0663"
+    ],
+    "name:und_x_variant":[
+        "Qaryah Thal\u0101thah/Sab\u2018ah",
+        "Qaryah 3/7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361001
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4bad8290924dbdf886264aee376e5465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":1226037655,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1226037655,
+    "wof:lastmodified":1537621191,
+    "wof:name":"Qaryah Thalathah/Sab`ah",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.95242,
+    31.15077,
+    29.95242,
+    31.15077
+],
+  "geometry": {"coordinates":[29.95242,31.15077],"type":"Point"}
+}

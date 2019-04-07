@@ -1,0 +1,72 @@
+{
+  "id": 1276775967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6,27.35,31.6,27.35",
+    "geom:latitude":27.35,
+    "geom:longitude":31.6,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Marakib Saq",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352776,
+    "gn:latitude":27.35,
+    "gn:longitude":31.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mar\u0101kib S\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marakib Sag",
+        "Mar\u0101kib S\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352776
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"05572f358d0d68b363427f18624789a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1276775967,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1276775967,
+    "wof:lastmodified":1537620658,
+    "wof:name":"Marakib Saq",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6,
+    27.35,
+    31.6,
+    27.35
+],
+  "geometry": {"coordinates":[31.6,27.35],"type":"Point"}
+}

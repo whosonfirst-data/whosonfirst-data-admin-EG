@@ -1,0 +1,74 @@
+{
+  "id": 1343939027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28115,29.75047,31.28115,29.75047",
+    "geom:latitude":29.75047,
+    "geom:longitude":31.28115,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ash Shawbak ash Sharq",
+    "gn:country_code":"EG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360007,
+    "gn:latitude":29.75047,
+    "gn:longitude":31.28115,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shawbak ash Sharq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mohafazat El Sharqiya",
+        "Shobak esh Sharqi",
+        "El-Sh\u00f4bak el-Sharqi",
+        "Esh-Sh\u00f4bak esh-Sharqi",
+        "Ash Shawbak ash Sharq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092019453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360007
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6311c34c62195043769c2ababe2fd508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019453,
+            "locality_id":1343939027,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1343939027,
+    "wof:lastmodified":1537620862,
+    "wof:name":"Ash Shawbak ash Sharq",
+    "wof:parent_id":1092019453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28115,
+    29.75047,
+    31.28115,
+    29.75047
+],
+  "geometry": {"coordinates":[31.28115,29.75047],"type":"Point"}
+}

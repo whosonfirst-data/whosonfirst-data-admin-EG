@@ -1,0 +1,304 @@
+{
+  "id": 1126019237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.30499,27.85183,34.30499,27.85183",
+    "geom:latitude":27.85183,
+    "geom:longitude":34.30499,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12000,
+    "gn:population":12000,
+    "iso:country":"EG",
+    "lbl:latitude":27.85183,
+    "lbl:longitude":34.30499,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_historical":[
+        "Awf\u012br"
+    ],
+    "name:ara_x_preferred":[
+        "Awf\u012br"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0631\u0645 \u0627\u0644\u0634\u064a\u062e"
+    ],
+    "name:arm_x_preferred":[
+        "\u0547\u0561\u0580\u0574 \u0567\u056c \u0547\u0565\u0575\u056d"
+    ],
+    "name:arz_x_preferred":[
+        "\u0634\u0631\u0645 \u0627\u0644\u0634\u064a\u062e"
+    ],
+    "name:ava_x_preferred":[
+        "\u0428\u0430\u0440\u0430\u043c \u0430\u0448-\u0428\u0430\u0439\u0445"
+    ],
+    "name:aze_x_preferred":[
+        "\u015earm \u0259\u015f-\u015eeyx"
+    ],
+    "name:baq_x_preferred":[
+        "Xarm el-Xeikh"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09b0\u09cd\u09ae \u098f\u09b2-\u09b6\u09c7\u0987\u0996"
+    ],
+    "name:bul_x_preferred":[
+        "\u0428\u0430\u0440\u043c \u0435\u043b-\u0428\u0435\u0439\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "Xarm al xeic"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0430\u0440\u043c-\u044d\u0448-\u0428\u0435\u0439\u0445"
+    ],
+    "name:chi_x_preferred":[
+        "\u6c99\u59c6\u6c99\u4f0a\u8d6b"
+    ],
+    "name:cze_x_preferred":[
+        "\u0160arm a\u0161-\u0160ajch"
+    ],
+    "name:dan_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:deu_x_preferred":[
+        "Sharm el Sheikh"
+    ],
+    "name:dut_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:eng_x_preferred":[
+        "Sharm el Sheikh"
+    ],
+    "name:epo_x_preferred":[
+        "\u015carm el \u015cei\u0125"
+    ],
+    "name:est_x_preferred":[
+        "Sharm ash-Shaykh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u0645\u200c\u0627\u0644\u0634\u06cc\u062e"
+    ],
+    "name:fin_x_preferred":[
+        "\u0160arm al-\u0160aikh"
+    ],
+    "name:fra_x_preferred":[
+        "Charm el-Cheikh"
+    ],
+    "name:fre_x_preferred":[
+        "Charm el-Cheikh"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e8\u10d0\u10e0\u10db-\u10d4\u10da-\u10e8\u10d4\u10d8\u10ee\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Scharm asch-Schaich"
+    ],
+    "name:gle_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03bc \u03b5\u03bb-\u03a3\u03b5\u03af\u03c7"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab6\u0ab0\u0acd\u0aae \u0a85\u0ab2-\u0ab6\u0ac7\u0a96"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05e8\u05dd \u05d0-\u05e9\u05d9\u05d9\u05d7'"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u0930\u094d\u092e \u0905\u0932 \u0936\u0947\u0916"
+    ],
+    "name:hrv_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:hun_x_preferred":[
+        "Sarm es-Sejk"
+    ],
+    "name:ind_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:ita_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30eb\u30e0\u30fb\u30a8\u30eb\u30fb\u30b7\u30a7\u30a4\u30af"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb6\u0cb0\u0ccd\u0cae\u0ccd \u0c8e\u0cb2\u0ccd-\u0cb6\u0cc7\u0c96\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0430\u0440\u043c-\u044d\u0448-\u0428\u0435\u0439\u0445 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0e4\ub984\uc5d8\uc170\uc774\ud06c"
+    ],
+    "name:ksh_x_preferred":[
+        "Scharm-\u00c4l-Sch\u00e4sch"
+    ],
+    "name:lav_x_preferred":[
+        "\u0160arm e\u0161 \u0160eiha"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160arm el \u0160eichas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0428\u0430\u0440\u043c \u0435\u043b-\u0428\u0435\u0438\u043a"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u0930\u094d\u092e \u0905\u0932-\u0936\u0947\u0916"
+    ],
+    "name:may_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0428\u0430\u0440\u043c-\u044d\u043b\u044c-\u0428\u0435\u0439\u0445"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0930\u094d\u092e \u0905\u0932-\u0938\u0947\u0916"
+    ],
+    "name:nno_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:nob_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:nor_x_preferred":[
+        "Sharm el Sheikh"
+    ],
+    "name:oci_x_preferred":[
+        "Charm el-Cheikh"
+    ],
+    "name:per_x_preferred":[
+        "\u0634\u0631\u0645\u200c\u0627\u0644\u0634\u06cc\u062e"
+    ],
+    "name:pol_x_preferred":[
+        "Szarm el-Szejk"
+    ],
+    "name:por_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:rum_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u043c-\u044d\u043b\u044c-\u0428\u0435\u0439\u0445"
+    ],
+    "name:sco_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0dbb\u0dca\u0db8\u0dca \u0d91\u0dbd\u0dca \u0dc1\u0dd3\u0d9a\u0dca"
+    ],
+    "name:slo_x_preferred":[
+        "\u0160arm a\u0161-\u0160ajch"
+    ],
+    "name:slv_x_preferred":[
+        "Sharm El-Sheikh"
+    ],
+    "name:spa_x_preferred":[
+        "Sharm el-Sheij"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u043c \u0435\u043b \u0428\u0435\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Sharm el Sheikh"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0bb0\u0bcd\u0bae\u0bcd \u0b8e\u0bb2\u0bcd-\u0b9a\u0bc6\u0baf\u0bbf\u0b95\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c37\u0c30\u0c4d\u0c2e\u0c4d \u0c0e\u0c32\u0c4d-\u0c37\u0c47\u0c15\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e32\u0e23\u0e4c\u0e21 \u0e40\u0e2d\u0e25-\u0e0a\u0e35\u0e04"
+    ],
+    "name:tur_x_preferred":[
+        "\u015earm El-\u015eeyh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0440\u043c-\u0435\u0448-\u0428\u0435\u0439\u0445"
+    ],
+    "name:unk_x_variant":[
+        "Cherm"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0631\u0645 \u0627\u0644\u0634\u06cc\u062e"
+    ],
+    "name:vie_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e8\u10d0\u10e0\u10db-\u10d4\u10da-\u10e8\u10d4\u10d8\u10ee\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e9\u05d0\u05e8\u05dd \u05d0\u05dc \u05e9\u05d9\u05d9\u05da"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c99\u59c6\u6c99\u4f0a\u8d6b"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u59c6\u6c99\u4f0a\u8d6b"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":349340,
+    "qs_pg:gn_pop":12000,
+    "qs_pg:name":"Sharm ash Shaykh",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":309702,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671089,
+        1092024505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349340,
+        "qs_pg:id":309702,
+        "wd:id":"Q644"
+    },
+    "wof:country":"EG",
+    "wof:created":1497300730,
+    "wof:geomhash":"2cc4da685a18297170014ce023e3468a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024505,
+            "locality_id":1126019237,
+            "region_id":85671089
+        }
+    ],
+    "wof:id":1126019237,
+    "wof:lastmodified":1513956714,
+    "wof:name":"Sharm ash Shaykh",
+    "wof:parent_id":1092024505,
+    "wof:placetype":"locality",
+    "wof:population":12000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.30499,
+    27.85183,
+    34.30499,
+    27.85183
+],
+  "geometry": {"coordinates":[34.30499,27.85183],"type":"Point"}
+}

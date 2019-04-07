@@ -1,0 +1,77 @@
+{
+  "id": 1327236411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96323,30.76453,30.96323,30.76453",
+    "geom:latitude":30.76453,
+    "geom:longitude":30.96323,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Fisha Salim",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":356843,
+    "gn:latitude":30.76453,
+    "gn:longitude":30.96323,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"F\u012bsh\u0101 Sal\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0634\u0627 \u0633\u0644\u064a\u0645"
+    ],
+    "name:ara_x_variant":[
+        "Fish\u0101 Sil\u012bm"
+    ],
+    "name:und_x_variant":[
+        "F\u00eesha Sil\u00eem",
+        "F\u012bsh\u0101 Sal\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356843
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f16f676b8c3bc1e56f0f81fe22c1c9c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1327236411,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1327236411,
+    "wof:lastmodified":1537620779,
+    "wof:name":"Fisha Salim",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96323,
+    30.76453,
+    30.96323,
+    30.76453
+],
+  "geometry": {"coordinates":[30.96323,30.76453],"type":"Point"}
+}

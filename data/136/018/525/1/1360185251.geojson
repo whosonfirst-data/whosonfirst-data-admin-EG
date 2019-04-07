@@ -1,0 +1,67 @@
+{
+  "id": 1360185251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95,29.33333,30.95,29.33333",
+    "geom:latitude":29.33333,
+    "geom:longitude":30.95,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Ezab Husein Mustata",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357702,
+    "gn:latitude":29.33333,
+    "gn:longitude":30.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezab \u1e24usein Mu\u1e63\u1e6data",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357702
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f7383a25e318051acdf768b1cb053d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1360185251,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1360185251,
+    "wof:lastmodified":1536801173,
+    "wof:name":"`Ezab Husein Mustata",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95,
+    29.33333,
+    30.95,
+    29.33333
+],
+  "geometry": {"coordinates":[30.95,29.33333],"type":"Point"}
+}

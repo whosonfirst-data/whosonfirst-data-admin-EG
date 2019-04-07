@@ -1,0 +1,71 @@
+{
+  "id": 1343763813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69306,30.69944,30.69306,30.69944",
+    "geom:latitude":30.69944,
+    "geom:longitude":30.69306,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Az Za`farani",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359505,
+    "gn:latitude":30.69944,
+    "gn:longitude":30.69306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Az Za\u2018far\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Za\u2018far\u00e2ni",
+        "Az Za\u2018far\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359505
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fc3e1684ea8b88de9e1ce6a8ff354562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1343763813,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343763813,
+    "wof:lastmodified":1537620840,
+    "wof:name":"Az Za`farani",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69306,
+    30.69944000000001,
+    30.69306,
+    30.69944000000001
+],
+  "geometry": {"coordinates":[30.69306,30.69944000000001],"type":"Point"}
+}

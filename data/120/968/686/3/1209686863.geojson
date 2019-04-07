@@ -1,0 +1,72 @@
+{
+  "id": 1209686863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.88582,30.54478,31.88582,30.54478",
+    "geom:latitude":30.54478,
+    "geom:longitude":31.88582,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Ba`alwah as Saghirah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361481,
+    "gn:latitude":30.54478,
+    "gn:longitude":31.88582,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al Ba\u2018\u0101lwah a\u015f \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0639\u0627\u0644\u0648\u0629 \u0627\u0644\u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Ba\u2018\u00e2lwa el-\u1e62aghira",
+        "El-Ha\u2018\u00e2twa el-\u1e62agh\u00eera",
+        "El-Ba\u2018\u00e2lwa el-Ged\u00eeda",
+        "Al Ba\u2018\u0101liwah a\u015f \u015eagh\u012brah",
+        "Al Ba\u2018\u0101lwah a\u015f \u015eagh\u012brah",
+        "Al-Ba\u2018\u0101lwah a\u1e63-\u1e62agh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361481
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2db72658ff72d2c7f0ece8bc0a0673b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209686863
+        }
+    ],
+    "wof:id":1209686863,
+    "wof:lastmodified":1537620938,
+    "wof:name":"Al Ba`alwah as Saghirah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.88582,
+    30.54478,
+    31.88582,
+    30.54478
+],
+  "geometry": {"coordinates":[31.88582,30.54478],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193120611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61374,30.44993,31.61374,30.44993",
+    "geom:latitude":30.44993,
+    "geom:longitude":31.61374,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"An Nazlah al Jadidah",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360335,
+    "gn:latitude":30.44993,
+    "gn:longitude":31.61374,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An Nazlah al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u0644\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Nazla el-Gid\u00eeda",
+        "El Nazla el Gad\u00eeda",
+        "An Nazlah al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360335
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"178adb935ce7b7fcbbee009c912329e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015569,
+            "locality_id":1193120611,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1193120611,
+    "wof:lastmodified":1537620874,
+    "wof:name":"An Nazlah al Jadidah",
+    "wof:parent_id":1092015569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61374,
+    30.44993,
+    31.61374,
+    30.44993
+],
+  "geometry": {"coordinates":[31.61374,30.44993],"type":"Point"}
+}

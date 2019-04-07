@@ -1,0 +1,61 @@
+{
+  "id": 1209077615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91565,27.3264,30.91565,27.3264",
+    "geom:latitude":27.3264,
+    "geom:longitude":30.91565,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nazzat Qarar",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351056,
+    "gn:latitude":27.3264,
+    "gn:longitude":30.91565,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nazzat Qar\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351056
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"42937342694d4e068cfa9d30ea4dcc1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209077615
+        }
+    ],
+    "wof:id":1209077615,
+    "wof:lastmodified":1536298443,
+    "wof:name":"Nazzat Qarar",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91565,
+    27.3264,
+    30.91565,
+    27.3264
+],
+  "geometry": {"coordinates":[30.91565,27.3264],"type":"Point"}
+}

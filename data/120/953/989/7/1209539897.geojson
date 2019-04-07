@@ -1,0 +1,61 @@
+{
+  "id": 1209539897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76713,29.21677,30.76713,29.21677",
+    "geom:latitude":29.21677,
+    "geom:longitude":30.76713,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat ad Daw",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434735,
+    "gn:latitude":29.21677,
+    "gn:longitude":30.76713,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat a\u1e11 \u1e10aw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434735
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"09ba9e78057a13802904e1add67731f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209539897
+        }
+    ],
+    "wof:id":1209539897,
+    "wof:lastmodified":1536284019,
+    "wof:name":"`Izbat ad Daw",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76713,
+    29.21677,
+    30.76713,
+    29.21677
+],
+  "geometry": {"coordinates":[30.76713,29.21677],"type":"Point"}
+}

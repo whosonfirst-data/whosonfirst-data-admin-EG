@@ -1,0 +1,75 @@
+{
+  "id": 1193033747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30206,30.9864,31.30206,30.9864",
+    "geom:latitude":30.9864,
+    "geom:longitude":31.30206,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nawasa al Bahr",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351268,
+    "gn:latitude":30.9864,
+    "gn:longitude":31.30206,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Nawas\u0101 al Ba\u1e29r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0633\u0627 \u0627\u0644\u0628\u062d\u0631"
+    ],
+    "name:und_x_variant":[
+        "Nawasa el-Ba\u1e25r",
+        "Nawas\u0101 al Ba\u1e29r",
+        "Nawas\u0101 al-Ba\u1e25r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351268
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b110cdf104ae6c653bdaa0d2e8f89e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014439,
+            "locality_id":1193033747,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1193033747,
+    "wof:lastmodified":1537620617,
+    "wof:name":"Nawasa al Bahr",
+    "wof:parent_id":1092014439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30206,
+    30.9864,
+    31.30206,
+    30.9864
+],
+  "geometry": {"coordinates":[31.30206,30.9864],"type":"Point"}
+}

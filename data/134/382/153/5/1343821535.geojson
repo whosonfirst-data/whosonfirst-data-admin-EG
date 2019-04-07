@@ -1,0 +1,74 @@
+{
+  "id": 1343821535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.34283,27.06333,31.34283,27.06333",
+    "geom:latitude":27.06333,
+    "geom:longitude":31.34283,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"As Sahil",
+    "gn:country_code":"EG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359892,
+    "gn:latitude":27.06333,
+    "gn:longitude":31.34283,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"As S\u0101\u1e29il",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El S\u00e2hil",
+        "Es S\u0101hil",
+        "Sahil Siliim",
+        "As S\u0101\u1e29il"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092024123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359892,
+        "wk:page":"Sahel_Selim"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9d6408d0ee36c0831dfb3baee4273374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024123,
+            "locality_id":1343821535,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1343821535,
+    "wof:lastmodified":1537620856,
+    "wof:name":"As Sahil",
+    "wof:parent_id":1092024123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.34283,
+    27.06333,
+    31.34283,
+    27.06333
+],
+  "geometry": {"coordinates":[31.34283,27.06333],"type":"Point"}
+}

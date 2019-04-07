@@ -1,0 +1,65 @@
+{
+  "id": 1209693155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28908,30.41098,31.28908,30.41098",
+    "geom:latitude":30.41098,
+    "geom:longitude":31.28908,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nazlat Salman Za'id",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351089,
+    "gn:latitude":30.41098,
+    "gn:longitude":31.28908,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat Salm\u0101n Z\u0101\u2019id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet Salm\u00e2n Z\u00e2yid",
+        "Nazlat Salm\u0101n Z\u0101\u2019id"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351089
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8813021b79bcc99b8ed04a136caaa433",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209693155
+        }
+    ],
+    "wof:id":1209693155,
+    "wof:lastmodified":1537620606,
+    "wof:name":"Nazlat Salman Za'id",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28908,
+    30.41098,
+    31.28908,
+    30.41098
+],
+  "geometry": {"coordinates":[31.28908,30.41098],"type":"Point"}
+}

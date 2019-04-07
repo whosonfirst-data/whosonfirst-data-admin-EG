@@ -1,0 +1,75 @@
+{
+  "id": 1309964799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.99566,31.19347,30.99566,31.19347",
+    "geom:latitude":31.19347,
+    "geom:longitude":30.99566,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Sharikat al `Ittihad al Jadidah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416079,
+    "gn:latitude":31.19347,
+    "gn:longitude":30.99566,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Sharikat al \u2018Itti\u1e29\u0101d al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0634\u0631\u0643\u0629 \u0627\u0644\u0625\u062a\u062d\u0627\u062f \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Sharikat al \u2018Itti\u1e29\u0101d al Jad\u012bdah",
+        "\u2018Izbat Sharikat al Itti\u1e29\u0101d al Jad\u012bdah",
+        "\u2018Izbat Sharikat al-\u2018Itti\u1e25\u0101d al-Jadidah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416079
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f7dde408ca0b74a9b8bf1a889d2e7908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1309964799,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1309964799,
+    "wof:lastmodified":1537621011,
+    "wof:name":"`Izbat Sharikat al `Ittihad al Jadidah",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.99566,
+    31.19347,
+    30.99566,
+    31.19347
+],
+  "geometry": {"coordinates":[30.99566,31.19347],"type":"Point"}
+}

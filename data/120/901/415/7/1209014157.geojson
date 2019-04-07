@@ -1,0 +1,68 @@
+{
+  "id": 1209014157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53693,30.91777,31.53693,30.91777",
+    "geom:latitude":30.91777,
+    "geom:longitude":31.53693,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Abu as Sir",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362835,
+    "gn:latitude":30.91777,
+    "gn:longitude":31.53693,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b a\u015f \u015e\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0635\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Abu el-\u1e62\u00eer",
+        "Ab\u016b a\u015f \u015e\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362835
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b1405ed691557046572f26fe27c76319",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209014157
+        }
+    ],
+    "wof:id":1209014157,
+    "wof:lastmodified":1537620962,
+    "wof:name":"Abu as Sir",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53693,
+    30.91777,
+    31.53693,
+    30.91777
+],
+  "geometry": {"coordinates":[31.53693,30.91777],"type":"Point"}
+}

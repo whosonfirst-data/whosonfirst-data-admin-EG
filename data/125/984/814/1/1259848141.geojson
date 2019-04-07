@@ -1,0 +1,67 @@
+{
+  "id": 1259848141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73333,25.81667,32.73333,25.81667",
+    "geom:latitude":25.81667,
+    "geom:longitude":32.73333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"El-Ausat Qamula",
+    "gn:country_code":"EG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357938,
+    "gn:latitude":25.81667,
+    "gn:longitude":32.73333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"El-Ausat Qam\u00fbla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092022739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357938
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"24c3b47709ab90125b65f5deef223746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022739,
+            "locality_id":1259848141,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1259848141,
+    "wof:lastmodified":1536829192,
+    "wof:name":"El-Ausat Qamula",
+    "wof:parent_id":1092022739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73333,
+    25.81667,
+    32.73333,
+    25.81667
+],
+  "geometry": {"coordinates":[32.73333,25.81667],"type":"Point"}
+}

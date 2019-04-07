@@ -1,0 +1,66 @@
+{
+  "id": 1209517195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72958,30.92955,30.72958,30.92955",
+    "geom:latitude":30.92955,
+    "geom:longitude":30.72958,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zahr at Timsah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346186,
+    "gn:latitude":30.92955,
+    "gn:longitude":30.72958,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0327ahr at Tims\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e94ahr el-Tims\u00e2\u1e25",
+        "\u1e94ahr et-Tims\u00e2\u1e25",
+        "Z\u0327ahr at Tims\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346186
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2a250898d0b217694fbf2b9ee0ff48e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209517195
+        }
+    ],
+    "wof:id":1209517195,
+    "wof:lastmodified":1537620549,
+    "wof:name":"Zahr at Timsah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72958,
+    30.92955,
+    30.72958,
+    30.92955
+],
+  "geometry": {"coordinates":[30.72958,30.92955],"type":"Point"}
+}

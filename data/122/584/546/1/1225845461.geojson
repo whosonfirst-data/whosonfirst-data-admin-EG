@@ -1,0 +1,72 @@
+{
+  "id": 1225845461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66902,29.35386,30.66902,29.35386",
+    "geom:latitude":29.35386,
+    "geom:longitude":30.66902,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Abu Junshu",
+    "gn:country_code":"EG",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362497,
+    "gn:latitude":29.35386,
+    "gn:longitude":30.66902,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Junsh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu Ginshu",
+        "Ab\u016b Jinsh\u016b",
+        "Ab\u016b Junsh\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362497
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4b8853542801b602323510ea5c0fe46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1225845461,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1225845461,
+    "wof:lastmodified":1537620960,
+    "wof:name":"Abu Junshu",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66902,
+    29.35386,
+    30.66902,
+    29.35386
+],
+  "geometry": {"coordinates":[30.66902,29.35386],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243526045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86932,27.49364,30.86932,27.49364",
+    "geom:latitude":27.49364,
+    "geom:longitude":30.86932,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nazlat al Muqata`ah",
+    "gn:country_code":"EG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434374,
+    "gn:latitude":27.49364,
+    "gn:longitude":30.86932,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nazlat al Muq\u0101\u0163a\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434374
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4af7cd3eea3cc9bfe0521b124218cf52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1243526045,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1243526045,
+    "wof:lastmodified":1536691036,
+    "wof:name":"Nazlat al Muqata`ah",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86932,
+    27.49364000000001,
+    30.86932,
+    27.49364000000001
+],
+  "geometry": {"coordinates":[30.86932,27.49364000000001],"type":"Point"}
+}

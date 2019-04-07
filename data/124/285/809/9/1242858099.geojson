@@ -1,0 +1,71 @@
+{
+  "id": 1242858099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71728,28.59485,30.71728,28.59485",
+    "geom:latitude":28.59485,
+    "geom:longitude":30.71728,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Jarnus",
+    "gn:country_code":"EG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361016,
+    "gn:latitude":28.59485,
+    "gn:longitude":30.71728,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jarn\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Garn\u00fbs",
+        "Al Jarn\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092021965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361016
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0cce9c6a9c247f44d6967bc0846f3547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021965,
+            "locality_id":1242858099,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1242858099,
+    "wof:lastmodified":1537620911,
+    "wof:name":"Al Jarnus",
+    "wof:parent_id":1092021965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71728,
+    28.59485,
+    30.71728,
+    28.59485
+],
+  "geometry": {"coordinates":[30.71728,28.59485],"type":"Point"}
+}

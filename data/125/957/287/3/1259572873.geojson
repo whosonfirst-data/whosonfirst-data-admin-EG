@@ -1,0 +1,71 @@
+{
+  "id": 1259572873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93247,30.63924,30.93247,30.63924",
+    "geom:latitude":30.63924,
+    "geom:longitude":30.93247,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zurqan",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345964,
+    "gn:latitude":30.63924,
+    "gn:longitude":30.93247,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zurq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zurg\u00e2n",
+        "Zurq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092025145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345964
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"13994d0c1be18730be078042f0d1870a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025145,
+            "locality_id":1259572873,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1259572873,
+    "wof:lastmodified":1537620543,
+    "wof:name":"Zurqan",
+    "wof:parent_id":1092025145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93247,
+    30.63924,
+    30.93247,
+    30.63924
+],
+  "geometry": {"coordinates":[30.93247,30.63924],"type":"Point"}
+}

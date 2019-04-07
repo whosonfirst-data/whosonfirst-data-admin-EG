@@ -1,0 +1,75 @@
+{
+  "id": 1242576565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2347,30.88165,31.2347,30.88165",
+    "geom:latitude":30.88165,
+    "geom:longitude":31.2347,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bana Abu Sir",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359299,
+    "gn:latitude":30.88165,
+    "gn:longitude":31.2347,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Ban\u0101 Ab\u016b \u015e\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0627 \u0623\u0628\u0648 \u0635\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bana Abu \u1e62\u00eer",
+        "Ban\u0101 Ab\u016b \u015e\u012br",
+        "Ban\u0101 Ab\u016b \u1e62\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092024253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359299
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"93d2aae0f955d340f8f10dc978ea9ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024253,
+            "locality_id":1242576565,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1242576565,
+    "wof:lastmodified":1537620835,
+    "wof:name":"Bana Abu Sir",
+    "wof:parent_id":1092024253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2347,
+    30.88165,
+    31.2347,
+    30.88165
+],
+  "geometry": {"coordinates":[31.2347,30.88165],"type":"Point"}
+}

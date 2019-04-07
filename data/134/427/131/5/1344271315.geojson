@@ -1,0 +1,67 @@
+{
+  "id": 1344271315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80655,31.43302,31.80655,31.43302",
+    "geom:latitude":31.43302,
+    "geom:longitude":31.80655,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Ezbet el-Labbana",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413306,
+    "gn:latitude":31.43302,
+    "gn:longitude":31.80655,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Ezbet el-Labb\u00e2na",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413306
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fa450e4581d43b7806bdcfd3549a8081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":1344271315,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1344271315,
+    "wof:lastmodified":1537065495,
+    "wof:name":"`Ezbet el-Labbana",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80655,
+    31.43302000000001,
+    31.80655,
+    31.43302000000001
+],
+  "geometry": {"coordinates":[31.80655,31.43302000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310608483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68451,30.76148,30.68451,30.76148",
+    "geom:latitude":30.76148,
+    "geom:longitude":30.68451,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zawiyat Furayj",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346089,
+    "gn:latitude":30.76148,
+    "gn:longitude":30.68451,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat Furayj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyet Fureig",
+        "Z\u00e2wyet Fireig",
+        "Z\u0101wiyat Furayj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346089
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d7cd550ebd334487437b01b7be7e9f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1310608483,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310608483,
+    "wof:lastmodified":1537620546,
+    "wof:name":"Zawiyat Furayj",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68451,
+    30.76148,
+    30.68451,
+    30.76148
+],
+  "geometry": {"coordinates":[30.68451,30.76148],"type":"Point"}
+}

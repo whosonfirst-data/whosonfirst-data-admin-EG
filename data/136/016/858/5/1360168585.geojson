@@ -1,0 +1,71 @@
+{
+  "id": 1360168585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78175,27.98897,30.78175,27.98897",
+    "geom:latitude":27.98897,
+    "geom:longitude":30.78175,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kawm al Mahras al Bahri",
+    "gn:country_code":"EG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353876,
+    "gn:latitude":27.98897,
+    "gn:longitude":30.78175,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm al Ma\u1e29ra\u015f al Ba\u1e29r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f4m el Mahra\u1e63",
+        "Kawm al Ma\u1e29ra\u015f al Ba\u1e29r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092014221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353876
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"adcaae3e0de8eb6520a5978cc5e57c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014221,
+            "locality_id":1360168585,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1360168585,
+    "wof:lastmodified":1537620678,
+    "wof:name":"Kawm al Mahras al Bahri",
+    "wof:parent_id":1092014221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78175,
+    27.98897,
+    30.78175,
+    27.98897
+],
+  "geometry": {"coordinates":[30.78175,27.98897],"type":"Point"}
+}

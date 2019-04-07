@@ -1,0 +1,71 @@
+{
+  "id": 1243524223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.89829,24.13233,32.89829,24.13233",
+    "geom:latitude":24.13233,
+    "geom:longitude":32.89829,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Naj` ash Shalabab",
+    "gn:country_code":"EG",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351449,
+    "gn:latitude":24.13233,
+    "gn:longitude":32.89829,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 ash Shal\u0101b\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagag\u2018 el Shal\u00e2b\u00e2b",
+        "Naj\u2018 ash Shal\u0101b\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092014635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351449
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3dde0b893ef06ba0ceae7fd34db992f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014635,
+            "locality_id":1243524223,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1243524223,
+    "wof:lastmodified":1537620622,
+    "wof:name":"Naj` ash Shalabab",
+    "wof:parent_id":1092014635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.89829,
+    24.13233,
+    32.89829,
+    24.13233
+],
+  "geometry": {"coordinates":[32.89829,24.13233],"type":"Point"}
+}

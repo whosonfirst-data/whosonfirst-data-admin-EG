@@ -1,0 +1,74 @@
+{
+  "id": 1225908661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.928,31.11263,30.928,31.11263",
+    "geom:latitude":31.11263,
+    "geom:longitude":30.928,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Minsha'at Nasir",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547581,
+    "gn:latitude":31.11263,
+    "gn:longitude":30.928,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Minsha\u2019\u0101t N\u0101\u015fir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u0646\u0627\u0635\u0631"
+    ],
+    "name:und_x_variant":[
+        "Minsha\u2019\u0101t N\u0101\u015fir",
+        "Minsh\u0101t N\u0101\u1e63ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547581
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b85857e26ff869290a1d737cf519a099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1225908661,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1225908661,
+    "wof:lastmodified":1537621282,
+    "wof:name":"Minsha'at Nasir",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.928,
+    31.11263,
+    30.928,
+    31.11263
+],
+  "geometry": {"coordinates":[30.928,31.11263],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193003785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25472,29.67833,31.25472,29.67833",
+    "geom:latitude":29.67833,
+    "geom:longitude":31.25472,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bidsah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358861,
+    "gn:latitude":29.67833,
+    "gn:longitude":31.25472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bidsah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bidsa",
+        "Bidsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092016893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358861
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dd4eb9fab21d7acc794761ec0ee42569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016893,
+            "locality_id":1193003785,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1193003785,
+    "wof:lastmodified":1537620823,
+    "wof:name":"Bidsah",
+    "wof:parent_id":1092016893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25472,
+    29.67833,
+    31.25472,
+    29.67833
+],
+  "geometry": {"coordinates":[31.25472,29.67833],"type":"Point"}
+}

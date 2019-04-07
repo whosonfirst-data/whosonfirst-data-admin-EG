@@ -1,0 +1,73 @@
+{
+  "id": 1260053845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59914,30.81314,31.59914,30.81314",
+    "geom:latitude":30.81314,
+    "geom:longitude":31.59914,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tilal Abu al Hayyat",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433809,
+    "gn:latitude":30.81314,
+    "gn:longitude":31.59914,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Til\u0101l Ab\u016b al \u1e28ayy\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0627\u0644 \u0623\u0628\u0648 \u0627\u0644\u062d\u064a\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Til\u0101l Ab\u016b al \u1e28ayy\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433809
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e85a13cc21237042cdd0e04bace9f90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1260053845,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1260053845,
+    "wof:lastmodified":1537621127,
+    "wof:name":"Tilal Abu al Hayyat",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59914,
+    30.81314,
+    31.59914,
+    30.81314
+],
+  "geometry": {"coordinates":[31.59914,30.81314],"type":"Point"}
+}

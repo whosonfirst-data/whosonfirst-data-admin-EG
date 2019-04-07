@@ -1,0 +1,74 @@
+{
+  "id": 1293742679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9394,31.27254,30.9394,31.27254",
+    "geom:latitude":31.27254,
+    "geom:longitude":30.9394,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Faraj ash Shami",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357356,
+    "gn:latitude":31.27254,
+    "gn:longitude":30.9394,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbat Faraj ash Sh\u0101m\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0641\u0631\u062c \u0627\u0644\u0634\u0627\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Farag el-Sh\u00e2mi",
+        "\u2018Izbat Faraj ash Sh\u0101m\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357356
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6630e12e9381ebf9ae824dfa0f117be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1293742679,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1293742679,
+    "wof:lastmodified":1537620790,
+    "wof:name":"`Izbat Faraj ash Shami",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9394,
+    31.27254000000001,
+    30.9394,
+    31.27254000000001
+],
+  "geometry": {"coordinates":[30.9394,31.27254000000001],"type":"Point"}
+}

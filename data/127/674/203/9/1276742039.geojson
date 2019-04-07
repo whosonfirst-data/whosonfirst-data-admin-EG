@@ -1,0 +1,72 @@
+{
+  "id": 1276742039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85,30.73333,31.85,30.73333",
+    "geom:latitude":30.73333,
+    "geom:longitude":31.85,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr ash Shabaniyah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354518,
+    "gn:latitude":30.73333,
+    "gn:longitude":31.85,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr ash Shab\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Shab\u00e2n\u00eeya",
+        "Kafr ash Shab\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354518
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1d51cbb4cf307ab9bdb3012e3b659911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1276742039,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276742039,
+    "wof:lastmodified":1537620720,
+    "wof:name":"Kafr ash Shabaniyah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85,
+    30.73333,
+    31.85,
+    30.73333
+],
+  "geometry": {"coordinates":[31.85,30.73333],"type":"Point"}
+}

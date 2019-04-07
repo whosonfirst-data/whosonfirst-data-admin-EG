@@ -1,0 +1,71 @@
+{
+  "id": 1226144901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52909,30.80482,30.52909,30.80482",
+    "geom:latitude":30.80482,
+    "geom:longitude":30.52909,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zawiyat Abu Shushah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346115,
+    "gn:latitude":30.80482,
+    "gn:longitude":30.52909,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat Ab\u016b Sh\u016bshah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyet Abu Sh\u00fbsha",
+        "Z\u0101wiyat Ab\u016b Sh\u016bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346115
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ce161bd6adfb15dc1dcde7e92462f5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1226144901,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226144901,
+    "wof:lastmodified":1537620548,
+    "wof:name":"Zawiyat Abu Shushah",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52909,
+    30.80482,
+    30.52909,
+    30.80482
+],
+  "geometry": {"coordinates":[30.52909,30.80482],"type":"Point"}
+}

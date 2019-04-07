@@ -1,0 +1,155 @@
+{
+  "id": 85902967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3922926.761842,
+    "geom:bbox":"29.934092,31.218462,29.934092,31.218462",
+    "geom:latitude":31.218462,
+    "geom:longitude":29.934092,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":31.22365,
+    "gn:longitude":29.94156,
+    "iso:country":"EG",
+    "lbl:latitude":31.218462,
+    "lbl:longitude":29.934092,
+    "mps:latitude":31.219056,
+    "mps:longitude":29.930802,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u062f\u064a \u062c\u0627\u0628\u0631",
+        "\u0642\u0633\u0645 \u0633\u064a\u062f\u064a \u062c\u0627\u0628\u0631",
+        "Qism S\u012bd\u012b J\u0101bir",
+        "\u062d\u064a \u0633\u064a\u062f\u064a \u062c\u0627\u0628\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631"
+    ],
+    "name:eng_x_colloquial":[
+        "Sidi Jabir",
+        "Sidi Gabir"
+    ],
+    "name:eng_x_preferred":[
+        "S\u012bd\u012b J\u0101bir"
+    ],
+    "name:eng_x_variant":[
+        "Sidi Gaber",
+        "S\u012bd\u012b J\u0101bir",
+        "S\u00eedi G\u00e2bir"
+    ],
+    "name:unk_x_variant":[
+        "S\u00eedi G\u00e2bir",
+        "\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631"
+    ],
+    "qs:gn_adm0_cc":"EG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"06",
+    "qs:gn_name":"S\u012bd\u012b J\u0101bir",
+    "qs:local_max":1580,
+    "qs:local_sum":9759,
+    "qs:localhoods":18,
+    "qs:name":"\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:name_en":"S\u012bd\u012b J\u0101bir",
+    "qs:name_local":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs:photo_max":97,
+    "qs:photo_sum":797,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424802,
+    "qs:woe_adm1":2345228,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1522006,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":348403,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631",
+    "qs_pg:name_adm0":"\u0645\u0635\u0631",
+    "qs_pg:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs_pg:photos":803,
+    "qs_pg:photos_1k":163,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":803,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1081058,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424802,
+    "qs_pg:woe_id":1526359,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85671041,
+        102191573,
+        85632581,
+        1092024943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":348403,
+        "gp:id":1526359,
+        "qs:id":1081058,
+        "qs_pg:id":1081058,
+        "wd:id":"Q2169497"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3127ba4091dc8d296a286b98a39b6557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024943,
+            "locality_id":-1,
+            "neighbourhood_id":85902967,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":85902967,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1534379294,
+    "wof:name":"\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126089649
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.934092,
+    31.218462,
+    29.934092,
+    31.218462
+],
+  "geometry": {"coordinates":[29.934092,31.218462],"type":"Point"}
+}

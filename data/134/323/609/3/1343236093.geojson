@@ -1,0 +1,73 @@
+{
+  "id": 1343236093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2697,31.29743,31.2697,31.29743",
+    "geom:latitude":31.29743,
+    "geom:longitude":31.2697,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Rajab",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419959,
+    "gn:latitude":31.29743,
+    "gn:longitude":31.2697,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Rajab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u062c\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Rajab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419959
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bd73766b3d47c8a5c449ee4192788f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1343236093,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1343236093,
+    "wof:lastmodified":1537621068,
+    "wof:name":"`Izbat Rajab",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2697,
+    31.29743,
+    31.2697,
+    31.29743
+],
+  "geometry": {"coordinates":[31.2697,31.29743],"type":"Point"}
+}

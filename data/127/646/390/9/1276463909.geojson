@@ -1,0 +1,71 @@
+{
+  "id": 1276463909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9,30.33333,30.9,30.33333",
+    "geom:latitude":30.33333,
+    "geom:longitude":30.9,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Taftish al Amir `Umar Tusun Basha",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347667,
+    "gn:latitude":30.33333,
+    "gn:longitude":30.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taft\u012bsh al Am\u012br \u2018Umar \u0162\u016bs\u016bn B\u0101sh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taft\u00eesh el-Am\u00eer \u2018Omar Pasha \u1e6c\u00fbs\u00fbn",
+        "Taft\u012bsh al Am\u012br \u2018Umar \u0162\u016bs\u016bn B\u0101sh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092020631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347667
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"22814d058b15ea47e261ef323eb72cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020631,
+            "locality_id":1276463909,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1276463909,
+    "wof:lastmodified":1537620564,
+    "wof:name":"Taftish al Amir `Umar Tusun Basha",
+    "wof:parent_id":1092020631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9,
+    30.33333,
+    30.9,
+    30.33333
+],
+  "geometry": {"coordinates":[30.9,30.33333],"type":"Point"}
+}

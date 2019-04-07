@@ -1,0 +1,71 @@
+{
+  "id": 1327210283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52782,25.34021,30.52782,25.34021",
+    "geom:latitude":25.34021,
+    "geom:longitude":30.52782,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Jinah",
+    "gn:country_code":"EG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355041,
+    "gn:latitude":25.34021,
+    "gn:longitude":30.52782,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jin\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gin\u0101h",
+        "Jin\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355041
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6c74ec9af1dd9066cdec1cc6087e9b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020223,
+            "locality_id":1327210283,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1327210283,
+    "wof:lastmodified":1537620753,
+    "wof:name":"Jinah",
+    "wof:parent_id":1092020223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52782,
+    25.34021,
+    30.52782,
+    25.34021
+],
+  "geometry": {"coordinates":[30.52782,25.34021],"type":"Point"}
+}

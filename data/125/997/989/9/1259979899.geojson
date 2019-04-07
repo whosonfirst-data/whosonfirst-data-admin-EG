@@ -1,0 +1,71 @@
+{
+  "id": 1259979899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6804,29.21283,30.6804,29.21283",
+    "geom:latitude":29.21283,
+    "geom:longitude":30.6804,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Minshat Sayf an Nasr",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352366,
+    "gn:latitude":29.21283,
+    "gn:longitude":30.6804,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Minsh\u0101t Sayf an Na\u015fr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minsh\u00e2t Seif el-Na\u015fr",
+        "Minsh\u0101t Sayf an Na\u015fr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352366
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f6c95392dbc30c5eaf678cec305b5833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1259979899,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1259979899,
+    "wof:lastmodified":1537620649,
+    "wof:name":"Minshat Sayf an Nasr",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6804,
+    29.21283,
+    30.6804,
+    29.21283
+],
+  "geometry": {"coordinates":[30.6804,29.21283],"type":"Point"}
+}

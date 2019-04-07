@@ -1,0 +1,74 @@
+{
+  "id": 1293304443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46249,31.20544,30.46249,31.20544",
+    "geom:latitude":31.20544,
+    "geom:longitude":30.46249,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat `Abd al Hafiz",
+    "gn:country_code":"EG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415147,
+    "gn:latitude":31.20544,
+    "gn:longitude":30.46249,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u2018Izbat \u2018Abd al \u1e28af\u012bz\u0327",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0639\u0628\u062f \u0627\u0644\u062d\u0641\u064a\u0638"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u2018Abd al \u1e28af\u012bz\u0327",
+        "\u2018Izbat \u2018Abd al-\u1e24af\u012b\u1e93"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415147
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"98f6f570eff43e6310f3bd0eab165b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1293304443,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1293304443,
+    "wof:lastmodified":1537620982,
+    "wof:name":"`Izbat `Abd al Hafiz",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46249000000001,
+    31.20544000000001,
+    30.46249000000001,
+    31.20544000000001
+],
+  "geometry": {"coordinates":[30.46249000000001,31.20544000000001],"type":"Point"}
+}

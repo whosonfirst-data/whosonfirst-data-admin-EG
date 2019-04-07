@@ -1,0 +1,71 @@
+{
+  "id": 1310189637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80477,30.66457,30.80477,30.66457",
+    "geom:latitude":30.66457,
+    "geom:longitude":30.80477,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Amrus",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360407,
+    "gn:latitude":30.66457,
+    "gn:longitude":30.80477,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Amr\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Amr\u00fbs",
+        "\u2018Amr\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092019949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360407
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"228b7a38268b3d5a501fc1397c5d1918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019949,
+            "locality_id":1310189637,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1310189637,
+    "wof:lastmodified":1537620877,
+    "wof:name":"`Amrus",
+    "wof:parent_id":1092019949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80477,
+    30.66457,
+    30.80477,
+    30.66457
+],
+  "geometry": {"coordinates":[30.80477,30.66457],"type":"Point"}
+}

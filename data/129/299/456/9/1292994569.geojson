@@ -1,0 +1,67 @@
+{
+  "id": 1292994569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73333,28.23333,30.73333,28.23333",
+    "geom:latitude":28.23333,
+    "geom:longitude":30.73333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Ezbet `Omar Sultan",
+    "gn:country_code":"EG",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357162,
+    "gn:latitude":28.23333,
+    "gn:longitude":30.73333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet \u2018Omar Sul\u1e6d\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092024217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357162
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4537dc43f86587f45f47752f39207d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024217,
+            "locality_id":1292994569,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1292994569,
+    "wof:lastmodified":1536999933,
+    "wof:name":"`Ezbet `Omar Sultan",
+    "wof:parent_id":1092024217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73333,
+    28.23333,
+    30.73333,
+    28.23333
+],
+  "geometry": {"coordinates":[30.73333,28.23333],"type":"Point"}
+}

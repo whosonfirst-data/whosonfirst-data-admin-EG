@@ -1,0 +1,71 @@
+{
+  "id": 1243234685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9,30.55,31.9,30.55",
+    "geom:latitude":30.55,
+    "geom:longitude":31.9,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Hawa'inah as Saghirah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361180,
+    "gn:latitude":30.55,
+    "gn:longitude":31.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Haw\u0101\u2019inah a\u015f \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Hawayna el-\u1e62agh\u00eera",
+        "Al Haw\u0101\u2019inah a\u015f \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361180
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"eb578b91200df06b83aed7909a307508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020039,
+            "locality_id":1243234685,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1243234685,
+    "wof:lastmodified":1537620919,
+    "wof:name":"Al Hawa'inah as Saghirah",
+    "wof:parent_id":1092020039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9,
+    30.55,
+    31.9,
+    30.55
+],
+  "geometry": {"coordinates":[31.9,30.55],"type":"Point"}
+}

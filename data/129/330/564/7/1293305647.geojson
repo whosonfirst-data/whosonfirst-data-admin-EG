@@ -1,0 +1,67 @@
+{
+  "id": 1293305647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4475,23.95806,35.4475,23.95806",
+    "geom:latitude":23.95806,
+    "geom:longitude":35.4475,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ras Banas",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350213,
+    "gn:latitude":23.95806,
+    "gn:longitude":35.4475,
+    "gn:modification_date":"1998-03-25",
+    "gn:name":"R\u00e2s Ban\u00e2s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092019787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350213
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ea7c7d3b7a57bd558cc96208fdd6cacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019787,
+            "locality_id":1293305647,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1293305647,
+    "wof:lastmodified":1537047129,
+    "wof:name":"Ras Banas",
+    "wof:parent_id":1092019787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4475,
+    23.95806,
+    35.4475,
+    23.95806
+],
+  "geometry": {"coordinates":[35.4475,23.95806],"type":"Point"}
+}

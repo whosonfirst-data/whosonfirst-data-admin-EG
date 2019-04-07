@@ -1,0 +1,74 @@
+{
+  "id": 890438269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55018,31.20291,30.55018,31.20291",
+    "geom:latitude":31.20291,
+    "geom:longitude":30.55018,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":63310,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Fuwa"
+    ],
+    "qs:name":"Fuwah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356806,
+        "gp:id":1523692,
+        "qs:id":547871,
+        "wk:page":"Fuwah"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052187,
+    "wof:geomhash":"05cf8c38ce9c6e1c53dcbc874911912b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021045,
+            "locality_id":890438269,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":890438269,
+    "wof:lastmodified":1527735422,
+    "wof:name":"Fuwah",
+    "wof:parent_id":1092021045,
+    "wof:placetype":"locality",
+    "wof:population":63310,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55018,
+    31.20291,
+    30.55018,
+    31.20291
+],
+  "geometry": {"coordinates":[30.55018,31.20291],"type":"Point"}
+}

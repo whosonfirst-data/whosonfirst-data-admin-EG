@@ -1,0 +1,68 @@
+{
+  "id": 1209638069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15286,30.84724,31.15286,30.84724",
+    "geom:latitude":30.84724,
+    "geom:longitude":31.15286,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat al Bahr",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560867,
+    "gn:latitude":30.84724,
+    "gn:longitude":31.15286,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat al Ba\u1e29r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u062d\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Ba\u1e29r",
+        "\u2018Izbat al-Ba\u1e25r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560867
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b41397f863e79e6c3a2d6f11ce31a4dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209638069
+        }
+    ],
+    "wof:id":1209638069,
+    "wof:lastmodified":1537621212,
+    "wof:name":"`Izbat al Bahr",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15286,
+    30.84724000000001,
+    31.15286,
+    30.84724000000001
+],
+  "geometry": {"coordinates":[31.15286,30.84724000000001],"type":"Point"}
+}

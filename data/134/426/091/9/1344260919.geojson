@@ -1,0 +1,75 @@
+{
+  "id": 1344260919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33078,31.12675,31.33078,31.12675",
+    "geom:latitude":31.12675,
+    "geom:longitude":31.33078,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ad Dirwatayn",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361824,
+    "gn:latitude":31.12675,
+    "gn:longitude":31.33078,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ad Dirwatayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u0648\u062a\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "El-Dirwatein",
+        "Ad Dirwatayn",
+        "Ad-Dirwatayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361824
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7255f79d65aa2f4330f2da9ceee60cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1344260919,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1344260919,
+    "wof:lastmodified":1537620952,
+    "wof:name":"Ad Dirwatayn",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33078,
+    31.12675,
+    31.33078,
+    31.12675
+],
+  "geometry": {"coordinates":[31.33078,31.12675],"type":"Point"}
+}

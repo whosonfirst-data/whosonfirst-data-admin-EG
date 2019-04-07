@@ -1,0 +1,75 @@
+{
+  "id": 1344121283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79526,31.1545,30.79526,31.1545",
+    "geom:latitude":31.1545,
+    "geom:longitude":30.79526,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Himaydah `Abbud",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416192,
+    "gn:latitude":31.1545,
+    "gn:longitude":30.79526,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat \u1e28imaydah \u2018Abb\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062d\u0645\u064a\u062f\u0629 \u0639\u0628\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u1e28imaydah \u2018Abb\u016bd",
+        "\u2018Izbat \u1e28umaydah \u2018Abb\u016bd",
+        "\u2018Izbat \u1e24imaydah \u2018Abb\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416192
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f190f83492f6d10f728ad1d0a859c441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1344121283,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1344121283,
+    "wof:lastmodified":1537621021,
+    "wof:name":"`Izbat Himaydah `Abbud",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79526,
+    31.1545,
+    30.79526,
+    31.1545
+],
+  "geometry": {"coordinates":[30.79526,31.1545],"type":"Point"}
+}

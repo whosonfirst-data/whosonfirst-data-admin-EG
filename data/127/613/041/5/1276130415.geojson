@@ -1,0 +1,72 @@
+{
+  "id": 1276130415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55,30.88333,30.55,30.88333",
+    "geom:latitude":30.88333,
+    "geom:longitude":30.55,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jabaris al Bahriyah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355277,
+    "gn:latitude":30.88333,
+    "gn:longitude":30.55,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jab\u0101ris al Ba\u1e29r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gab\u00e2ris el-Ba\u1e25ar\u00eeya",
+        "Jab\u0101ris al Ba\u1e29r\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355277
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"26342cc27531e51fbfc9813ed8095fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1276130415,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276130415,
+    "wof:lastmodified":1537620757,
+    "wof:name":"Jabaris al Bahriyah",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55,
+    30.88333,
+    30.55,
+    30.88333
+],
+  "geometry": {"coordinates":[30.55,30.88333],"type":"Point"}
+}

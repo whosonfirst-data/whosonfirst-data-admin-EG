@@ -1,0 +1,70 @@
+{
+  "id": 1209928399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41599,31.02247,31.41599,31.02247",
+    "geom:latitude":31.02247,
+    "geom:longitude":31.41599,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sallant",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349746,
+    "gn:latitude":31.02247,
+    "gn:longitude":31.41599,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Sallant",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0644\u0646\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349746
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5ec202a8c2d753e5e142c32fb63bd53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1209928399,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1209928399,
+    "wof:lastmodified":1537620586,
+    "wof:name":"Sallant",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41599,
+    31.02247,
+    31.41599,
+    31.02247
+],
+  "geometry": {"coordinates":[31.41599,31.02247],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276130433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46806,31.35139,30.46806,31.35139",
+    "geom:latitude":31.35139,
+    "geom:longitude":30.46806,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Ezbet el-Tawil",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357370,
+    "gn:latitude":31.35139,
+    "gn:longitude":30.46806,
+    "gn:modification_date":"1997-09-25",
+    "gn:name":"\u2018Ezbet el-\u1e6caw\u00eel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357370
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"442aa6eb7e672f1061ed02e8bc291c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1276130433,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276130433,
+    "wof:lastmodified":1537048394,
+    "wof:name":"`Ezbet el-Tawil",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46806,
+    31.35139,
+    30.46806,
+    31.35139
+],
+  "geometry": {"coordinates":[30.46806,31.35139],"type":"Point"}
+}

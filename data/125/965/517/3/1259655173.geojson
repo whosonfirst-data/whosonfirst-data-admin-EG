@@ -1,0 +1,73 @@
+{
+  "id": 1259655173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44394,26.98168,31.44394,26.98168",
+    "geom:latitude":26.98168,
+    "geom:longitude":31.44394,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al `Iqal al Bahri",
+    "gn:country_code":"EG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361068,
+    "gn:latitude":26.98168,
+    "gn:longitude":31.44394,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Iq\u0101l al Ba\u1e29r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zim\u0101m al \u2018Iq\u0101l Ba\u1e29r\u012b",
+        "El \u2018Iq\u0101l Bahari",
+        "El \u2018Iq\u0101l Bahri",
+        "Al \u2018Iq\u0101l al Ba\u1e29r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361068
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"534d2dd985204464c13cbc57be984db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1259655173,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1259655173,
+    "wof:lastmodified":1537620913,
+    "wof:name":"Al `Iqal al Bahri",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44394,
+    26.98168,
+    31.44394,
+    26.98168
+],
+  "geometry": {"coordinates":[31.44394,26.98168],"type":"Point"}
+}

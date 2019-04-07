@@ -1,0 +1,67 @@
+{
+  "id": 1327100759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.87347,28.9829,30.87347,28.9829",
+    "geom:latitude":28.9829,
+    "geom:longitude":30.87347,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dashtut",
+    "gn:country_code":"EG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358363,
+    "gn:latitude":28.9829,
+    "gn:longitude":30.87347,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Dash\u0163\u016b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092024299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358363
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6a36dd8354d65a5a66fa94447e71fc71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024299,
+            "locality_id":1327100759,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1327100759,
+    "wof:lastmodified":1536661945,
+    "wof:name":"Dashtut",
+    "wof:parent_id":1092024299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.87347,
+    28.9829,
+    30.87347,
+    28.9829
+],
+  "geometry": {"coordinates":[30.87347,28.9829],"type":"Point"}
+}

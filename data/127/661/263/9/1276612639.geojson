@@ -1,0 +1,76 @@
+{
+  "id": 1276612639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98489,31.08737,30.98489,31.08737",
+    "geom:latitude":31.08737,
+    "geom:longitude":30.98489,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kafr at Tayifah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354404,
+    "gn:latitude":31.08737,
+    "gn:longitude":30.98489,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kafr a\u0163 \u0162\u0101yifah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0637\u0627\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-\u1e6c\u00e2yfa",
+        "Kafr a\u0163 \u0162\u0101\u2019ifah",
+        "Kafr a\u0163 \u0162\u0101yifah",
+        "Kafr a\u1e6d-\u1e6c\u0101yifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354404
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4e408677e45a180f259e1fa6c92c7326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1276612639,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276612639,
+    "wof:lastmodified":1537620710,
+    "wof:name":"Kafr at Tayifah",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98489,
+    31.08737,
+    30.98489,
+    31.08737
+],
+  "geometry": {"coordinates":[30.98489,31.08737],"type":"Point"}
+}

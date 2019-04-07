@@ -1,0 +1,71 @@
+{
+  "id": 1343931553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91383,30.82805,31.91383,30.82805",
+    "geom:latitude":30.82805,
+    "geom:longitude":31.91383,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Malakiyin",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360801,
+    "gn:latitude":30.82805,
+    "gn:longitude":31.91383,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al Malak\u012by\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Malak\u00eey\u00een el-Ba\u1e25ar\u00eeya",
+        "\u2018Izbat al Malak\u012by\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360801
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3f31562399dafe8c92c4cf870b2f1a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1343931553,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343931553,
+    "wof:lastmodified":1537620898,
+    "wof:name":"`Izbat al Malakiyin",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91383,
+    30.82805,
+    31.91383,
+    30.82805
+],
+  "geometry": {"coordinates":[31.91383,30.82805],"type":"Point"}
+}

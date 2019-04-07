@@ -1,0 +1,74 @@
+{
+  "id": 1293014369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42826,31.09855,31.42826,31.09855",
+    "geom:latitude":31.09855,
+    "geom:longitude":31.42826,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Baddalah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361477,
+    "gn:latitude":31.09855,
+    "gn:longitude":31.42826,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Al Badd\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u062f\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Badd\u00e2la",
+        "Al Badd\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361477
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a922712c0e99bbbe9749ed033e19547f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1293014369,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1293014369,
+    "wof:lastmodified":1537620938,
+    "wof:name":"Al Baddalah",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42826,
+    31.09855,
+    31.42826,
+    31.09855
+],
+  "geometry": {"coordinates":[31.42826,31.09855],"type":"Point"}
+}

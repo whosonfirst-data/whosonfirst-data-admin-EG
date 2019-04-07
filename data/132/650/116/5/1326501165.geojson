@@ -1,0 +1,73 @@
+{
+  "id": 1326501165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7435,30.97214,31.7435,30.97214",
+    "geom:latitude":30.97214,
+    "geom:longitude":31.7435,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Shalabi",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356389,
+    "gn:latitude":30.97214,
+    "gn:longitude":31.7435,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"\u2018Izbat Shalab\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0634\u0644\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Shalab\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356389
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7797acc25aeb1cd59534a181d38c5b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015105,
+            "locality_id":1326501165,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1326501165,
+    "wof:lastmodified":1537621190,
+    "wof:name":"`Izbat Shalabi",
+    "wof:parent_id":1092015105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7435,
+    30.97214,
+    31.7435,
+    30.97214
+],
+  "geometry": {"coordinates":[31.7435,30.97214],"type":"Point"}
+}

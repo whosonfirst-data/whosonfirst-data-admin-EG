@@ -1,0 +1,61 @@
+{
+  "id": 1209078767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,22.21667,31.51667,22.21667",
+    "geom:latitude":22.21667,
+    "geom:longitude":31.51667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Naj` Kibdi",
+    "gn:country_code":"EG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351414,
+    "gn:latitude":22.21667,
+    "gn:longitude":31.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Naj\u2018 Kibd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351414
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7b97afddb5ee970d064c0490bd3f0136",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209078767
+        }
+    ],
+    "wof:id":1209078767,
+    "wof:lastmodified":1536298408,
+    "wof:name":"Naj` Kibdi",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    22.21667,
+    31.51667,
+    22.21667
+],
+  "geometry": {"coordinates":[31.51667,22.21667],"type":"Point"}
+}

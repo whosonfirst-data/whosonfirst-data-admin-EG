@@ -1,0 +1,74 @@
+{
+  "id": 1327249041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38403,30.95211,31.38403,30.95211",
+    "geom:latitude":30.95211,
+    "geom:longitude":31.38403,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Rizq Allah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8594958,
+    "gn:latitude":30.95211,
+    "gn:longitude":31.38403,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"\u2018Izbat Rizq Allah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0632\u0642 \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Rizq Allah",
+        "\u2018Iz. Rizq Allah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594958
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f60523cfbebd232fc7d3b0cc320d031e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014439,
+            "locality_id":1327249041,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1327249041,
+    "wof:lastmodified":1537621214,
+    "wof:name":"`Izbat Rizq Allah",
+    "wof:parent_id":1092014439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38403,
+    30.95211,
+    31.38403,
+    30.95211
+],
+  "geometry": {"coordinates":[31.38403,30.95211],"type":"Point"}
+}

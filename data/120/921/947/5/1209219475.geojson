@@ -1,0 +1,66 @@
+{
+  "id": 1209219475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88897,30.90201,30.88897,30.90201",
+    "geom:latitude":30.90201,
+    "geom:longitude":30.88897,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Shifa wa Qurun",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349151,
+    "gn:latitude":30.90201,
+    "gn:longitude":30.88897,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shif\u0101 wa Qur\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shifa wa Qur\u00fbn",
+        "Shifa and Qur\u00fbn",
+        "Shif\u0101 wa Qur\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349151
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b7a1727de280bee0af1320334b7c1259",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209219475
+        }
+    ],
+    "wof:id":1209219475,
+    "wof:lastmodified":1537620576,
+    "wof:name":"Shifa wa Qurun",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88897,
+    30.90201,
+    30.88897,
+    30.90201
+],
+  "geometry": {"coordinates":[30.88897,30.90201],"type":"Point"}
+}

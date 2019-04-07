@@ -1,0 +1,75 @@
+{
+  "id": 1293609167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26667,29.85,31.26667,29.85",
+    "geom:latitude":29.85,
+    "geom:longitude":31.26667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Badrashayn",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361473,
+    "gn:latitude":29.85,
+    "gn:longitude":31.26667,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Al Badrashayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Badrshein",
+        "Badrash\u00ean",
+        "Al Badrashayn",
+        "El Badrashein"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092017019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361473,
+        "wk:page":"El_Badrashein"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7792319e7aede7b9dd73b1c5a4eb9580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017019,
+            "locality_id":1293609167,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1293609167,
+    "wof:lastmodified":1537620938,
+    "wof:name":"Al Badrashayn",
+    "wof:parent_id":1092017019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26667,
+    29.85,
+    31.26667,
+    29.85
+],
+  "geometry": {"coordinates":[31.26667,29.85],"type":"Point"}
+}

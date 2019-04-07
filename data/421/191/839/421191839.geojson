@@ -1,0 +1,135 @@
+{
+  "id": 421191839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25899,30.71459,31.25899,30.71459",
+    "geom:latitude":30.71459,
+    "geom:longitude":31.25899,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u063a\u0645\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u062a \u063a\u0645\u0631"
+    ],
+    "name:chi_x_preferred":[
+        "\u7c73\u7279\u52a0\u7a46\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Mit Ghamr"
+    ],
+    "name:eng_x_preferred":[
+        "Mit Ghamr"
+    ],
+    "name:fre_x_preferred":[
+        "Mit Ghamr"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d8\u10d7-\u10d2\u10d0\u10db\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Mit Ghamr"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b9\u03c4 \u0393\u03b1\u03bc\u03c1"
+    ],
+    "name:ita_x_preferred":[
+        "Mit Ghamr"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0442-\u0413\u0430\u043c\u0440"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u062a \u063a\u0645\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Mit Ghamr"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0442-\u0413\u0430\u043c\u0440"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0442 \u0413\u0430\u043c\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Mit Ghamr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0442-\u0413\u0430\u043c\u0440"
+    ],
+    "name:unk_x_variant":[
+        "M\u00eet Ghamr and Kafr el-Ba\u1e6dal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062a \u063a\u0645\u0631"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":352181,
+    "qs:gn_pop":0,
+    "qs:name":"\u0645\u064a\u062a \u063a\u0645\u0631",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u062f\u0642\u0647\u0644\u064a\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1158080,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1525350,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352181,
+        "gp:id":1525350,
+        "qs:id":1158080,
+        "wd:id":"Q337123",
+        "wk:page":"Mit Ghamr"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009711,
+    "wof:geomhash":"0b62cad8e932293c320d4a88786d01ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022277,
+            "locality_id":421191839,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":421191839,
+    "wof:lastmodified":1513956732,
+    "wof:name":"\u0645\u064a\u062a \u063a\u0645\u0631",
+    "wof:parent_id":1092022277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25899,
+    30.71459,
+    31.25899,
+    30.71459
+],
+  "geometry": {"coordinates":[31.25899,30.71459],"type":"Point"}
+}

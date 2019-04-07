@@ -1,0 +1,71 @@
+{
+  "id": 1309903813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.68333,30.9,29.68333,30.9",
+    "geom:latitude":30.9,
+    "geom:longitude":29.68333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dawwar Abu al `Asi",
+    "gn:country_code":"EG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358333,
+    "gn:latitude":30.9,
+    "gn:longitude":29.68333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Daww\u0101r Ab\u016b al \u2018\u0100\u015f\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dauw\u00e2r Abu el-\u2018\u00c2\u1e63i",
+        "Daww\u0101r Ab\u016b al \u2018\u0100\u015f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358333
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c2393adfd485bfc0cb51c8319cecd746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015739,
+            "locality_id":1309903813,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1309903813,
+    "wof:lastmodified":1537620813,
+    "wof:name":"Dawwar Abu al `Asi",
+    "wof:parent_id":1092015739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.68333,
+    30.9,
+    29.68333,
+    30.9
+],
+  "geometry": {"coordinates":[29.68333,30.9],"type":"Point"}
+}

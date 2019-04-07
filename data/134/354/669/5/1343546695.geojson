@@ -1,0 +1,67 @@
+{
+  "id": 1343546695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31111,29.74833,31.31111,29.74833",
+    "geom:latitude":29.74833,
+    "geom:longitude":31.31111,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Arab Abu Sa`id",
+    "gn:country_code":"EG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360260,
+    "gn:latitude":29.74833,
+    "gn:longitude":31.31111,
+    "gn:modification_date":"2001-07-18",
+    "gn:name":"\u2018Arab Ab\u016b S\u0101\u2018id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092019453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360260
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c5d9e1d4f84b5e7b66ff7969d2b6626a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019453,
+            "locality_id":1343546695,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1343546695,
+    "wof:lastmodified":1536619698,
+    "wof:name":"`Arab Abu Sa`id",
+    "wof:parent_id":1092019453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31111,
+    29.74833,
+    31.31111,
+    29.74833
+],
+  "geometry": {"coordinates":[31.31111,29.74833],"type":"Point"}
+}

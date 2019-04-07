@@ -1,0 +1,84 @@
+{
+  "id": 421187559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.23694,31.28778,34.23694,31.28778",
+    "geom:latitude":31.28778,
+    "geom:longitude":34.23694,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0641\u062d"
+    ],
+    "name:unk_x_variant":[
+        "Er Rafa"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":350350,
+    "qs:gn_pop":0,
+    "qs:name":"Raf\u012bah",
+    "qs:name_adm0":"Palestine",
+    "qs:name_adm1":"Gaza",
+    "qs:photos":404,
+    "qs:photos_1k":82,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":404,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083645,
+    "qs:woe_adm0":28289408,
+    "qs:woe_id":1979609,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092023763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350350,
+        "gp:id":1979609,
+        "qs:id":1083645,
+        "wd:id":"Q2457100",
+        "wk:page":"Rafah, Egypt"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009517,
+    "wof:geomhash":"5d9847555bc8725aee2cccb9616b4ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023763,
+            "locality_id":421187559,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":421187559,
+    "wof:lastmodified":1501214124,
+    "wof:name":"Raf\u012bah",
+    "wof:parent_id":1092023763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.23694,
+    31.28778,
+    34.23694,
+    31.28778
+],
+  "geometry": {"coordinates":[34.23694,31.28778],"type":"Point"}
+}

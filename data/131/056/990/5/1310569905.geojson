@@ -1,0 +1,71 @@
+{
+  "id": 1310569905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98541,26.13797,31.98541,26.13797",
+    "geom:latitude":26.13797,
+    "geom:longitude":31.98541,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` al `Amrah",
+    "gn:country_code":"EG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351606,
+    "gn:latitude":26.13797,
+    "gn:longitude":31.98541,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 al \u2018Amrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 el-Qamara",
+        "Naj\u2018 al \u2018Amrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351606
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"20253c14e44e06a921f879ae06062756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020223,
+            "locality_id":1310569905,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1310569905,
+    "wof:lastmodified":1537620628,
+    "wof:name":"Naj` al `Amrah",
+    "wof:parent_id":1092020223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98541,
+    26.13797000000001,
+    31.98541,
+    26.13797000000001
+],
+  "geometry": {"coordinates":[31.98541,26.13797000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226531199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83424,27.84635,30.83424,27.84635",
+    "geom:latitude":27.84635,
+    "geom:longitude":30.83424,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nazlat Hamzawi",
+    "gn:country_code":"EG",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351128,
+    "gn:latitude":27.84635,
+    "gn:longitude":30.83424,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat \u1e28amz\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet \u1e24amz\u00e2wi",
+        "Nazlat \u1e28amz\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092023043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351128
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b7dca9fafe44fa7b514c329f857f8872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023043,
+            "locality_id":1226531199,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1226531199,
+    "wof:lastmodified":1537620608,
+    "wof:name":"Nazlat Hamzawi",
+    "wof:parent_id":1092023043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83424,
+    27.84635,
+    30.83424,
+    27.84635
+],
+  "geometry": {"coordinates":[30.83424,27.84635],"type":"Point"}
+}

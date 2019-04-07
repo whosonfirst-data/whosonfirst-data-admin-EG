@@ -1,0 +1,72 @@
+{
+  "id": 1277047047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23333,27.21667,31.23333,27.21667",
+    "geom:latitude":27.21667,
+    "geom:longitude":31.23333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nazlat Awlad Siraj",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351150,
+    "gn:latitude":27.21667,
+    "gn:longitude":31.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat Awl\u0101d Sir\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet A\u00fbl\u00e2d Sir\u00e2g",
+        "Nazlat Awl\u0101d Sir\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092017669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351150
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a735438322bd27d434b5fbcf59ac2a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017669,
+            "locality_id":1277047047,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1277047047,
+    "wof:lastmodified":1537620610,
+    "wof:name":"Nazlat Awlad Siraj",
+    "wof:parent_id":1092017669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23333,
+    27.21667,
+    31.23333,
+    27.21667
+],
+  "geometry": {"coordinates":[31.23333,27.21667],"type":"Point"}
+}

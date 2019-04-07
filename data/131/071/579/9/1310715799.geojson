@@ -1,0 +1,74 @@
+{
+  "id": 1310715799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.72248,31.23174,31.72248,31.23174",
+    "geom:latitude":31.23174,
+    "geom:longitude":31.72248,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat `Ata Allah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419411,
+    "gn:latitude":31.23174,
+    "gn:longitude":31.72248,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"\u2018Izbat \u2018A\u0163\u0101 All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0639\u0637\u0627 \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u2018A\u0163\u0101 All\u0101h",
+        "\u2018Iz. \u2018At\u0101 Allah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092020509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419411
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1065df21873a900eb99319584892de2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020509,
+            "locality_id":1310715799,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1310715799,
+    "wof:lastmodified":1537621050,
+    "wof:name":"`Izbat `Ata Allah",
+    "wof:parent_id":1092020509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.72248,
+    31.23174,
+    31.72248,
+    31.23174
+],
+  "geometry": {"coordinates":[31.72248,31.23174],"type":"Point"}
+}

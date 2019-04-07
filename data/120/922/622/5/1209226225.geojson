@@ -1,0 +1,68 @@
+{
+  "id": 1209226225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31163,31.0028,30.31163,31.0028",
+    "geom:latitude":31.0028,
+    "geom:longitude":30.31163,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Kawm Rizq",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353810,
+    "gn:latitude":31.0028,
+    "gn:longitude":30.31163,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u2018Izbat Kawm Rizq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0643\u0648\u0645 \u0631\u0632\u0642"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet K\u00f4m Rizq",
+        "\u2018Izbat Kawm Rizq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353810
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"161f79f2441e1cb301a019bfbf137b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209226225
+        }
+    ],
+    "wof:id":1209226225,
+    "wof:lastmodified":1537620675,
+    "wof:name":"`Izbat Kawm Rizq",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31163,
+    31.0028,
+    30.31163,
+    31.0028
+],
+  "geometry": {"coordinates":[30.31163,31.0028],"type":"Point"}
+}

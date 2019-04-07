@@ -1,0 +1,72 @@
+{
+  "id": 1343941493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66667,28.45,30.66667,28.45",
+    "geom:latitude":28.45,
+    "geom:longitude":30.66667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ibjaj al Hatab",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355707,
+    "gn:latitude":28.45,
+    "gn:longitude":30.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ibj\u0101j al \u1e28a\u0163ab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibg\u00e2g el \u1e24a\u1e6dab",
+        "Ibj\u0101j al \u1e28a\u0163ab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355707
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1452edf0ef5b046b223fb2b756287754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022239,
+            "locality_id":1343941493,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1343941493,
+    "wof:lastmodified":1537620773,
+    "wof:name":"Ibjaj al Hatab",
+    "wof:parent_id":1092022239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66667,
+    28.45,
+    30.66667,
+    28.45
+],
+  "geometry": {"coordinates":[30.66667,28.45],"type":"Point"}
+}

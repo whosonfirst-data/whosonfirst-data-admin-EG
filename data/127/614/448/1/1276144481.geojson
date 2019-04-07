@@ -1,0 +1,73 @@
+{
+  "id": 1276144481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.92322,31.07926,29.92322,31.07926",
+    "geom:latitude":31.07926,
+    "geom:longitude":29.92322,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"`Ilwat al Hajj Hamad",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8365048,
+    "gn:latitude":31.07926,
+    "gn:longitude":29.92322,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"\u2018Ilwat al \u1e28\u0101jj \u1e28amad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0648\u0629 \u0627\u0644\u062d\u0627\u062c \u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ilwat al \u1e28\u0101jj \u1e28amad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8365048
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3836e1905ea7d9d8bf9b89e8aa844871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":1276144481,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1276144481,
+    "wof:lastmodified":1537621195,
+    "wof:name":"`Ilwat al Hajj Hamad",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.92322,
+    31.07926,
+    29.92322,
+    31.07926
+],
+  "geometry": {"coordinates":[29.92322,31.07926],"type":"Point"}
+}

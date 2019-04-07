@@ -1,0 +1,75 @@
+{
+  "id": 1226052147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00834,31.18134,32.00834,31.18134",
+    "geom:latitude":31.18134,
+    "geom:longitude":32.00834,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat al Jamamilah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361028,
+    "gn:latitude":31.18134,
+    "gn:longitude":32.00834,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"\u2018Izbat al Jam\u0101milah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062c\u0645\u0627\u0645\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Gam\u00e2mla",
+        "Al Jam\u0101milah",
+        "\u2018Izbat al Jam\u0101milah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361028
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0082a52f0ee92dbadfe788f0dc8f09e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018397,
+            "locality_id":1226052147,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1226052147,
+    "wof:lastmodified":1537620911,
+    "wof:name":"`Izbat al Jamamilah",
+    "wof:parent_id":1092018397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00834,
+    31.18134,
+    32.00834,
+    31.18134
+],
+  "geometry": {"coordinates":[32.00834,31.18134],"type":"Point"}
+}

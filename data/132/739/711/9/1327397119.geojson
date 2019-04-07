@@ -1,0 +1,72 @@
+{
+  "id": 1327397119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97947,29.10307,30.97947,29.10307",
+    "geom:latitude":29.10307,
+    "geom:longitude":30.97947,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"An Nuwayrah",
+    "gn:country_code":"EG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360316,
+    "gn:latitude":29.10307,
+    "gn:longitude":30.97947,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"An Nuwayrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "En Nuweira",
+        "El Nuweira",
+        "An Nuwayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092014481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360316
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"07a5d39a1f51a6e5e81ae4c6e9ecafbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014481,
+            "locality_id":1327397119,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1327397119,
+    "wof:lastmodified":1537620873,
+    "wof:name":"An Nuwayrah",
+    "wof:parent_id":1092014481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97947000000001,
+    29.10307,
+    30.97947000000001,
+    29.10307
+],
+  "geometry": {"coordinates":[30.97947000000001,29.10307],"type":"Point"}
+}

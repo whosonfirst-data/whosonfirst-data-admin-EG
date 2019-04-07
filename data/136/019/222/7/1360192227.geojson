@@ -1,0 +1,67 @@
+{
+  "id": 1360192227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6493,30.78028,30.6493,30.78028",
+    "geom:latitude":30.78028,
+    "geom:longitude":30.6493,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Jala'",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433060,
+    "gn:latitude":30.78028,
+    "gn:longitude":30.6493,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat al Jal\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433060
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e2de5aaf6efe1a0938697c6c6f9ba153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1360192227,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1360192227,
+    "wof:lastmodified":1536791402,
+    "wof:name":"`Izbat al Jala'",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6493,
+    30.78028,
+    30.6493,
+    30.78028
+],
+  "geometry": {"coordinates":[30.6493,30.78028],"type":"Point"}
+}

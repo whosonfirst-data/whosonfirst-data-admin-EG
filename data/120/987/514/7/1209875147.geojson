@@ -1,0 +1,75 @@
+{
+  "id": 1209875147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57445,31.20117,30.57445,31.20117",
+    "geom:latitude":31.20117,
+    "geom:longitude":30.57445,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Minyat al Ashraf",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352349,
+    "gn:latitude":31.20117,
+    "gn:longitude":30.57445,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Minyat al Ashr\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u064a\u0629 \u0627\u0644\u0623\u0634\u0631\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Minyet el-Ashr\u00e2f",
+        "Minyat al Ashr\u0101f",
+        "Minyat al-Ashraf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352349
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f4a989e2d46a72302387aa980a0f1294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021045,
+            "locality_id":1209875147,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1209875147,
+    "wof:lastmodified":1537620648,
+    "wof:name":"Minyat al Ashraf",
+    "wof:parent_id":1092021045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57445,
+    31.20117,
+    30.57445,
+    31.20117
+],
+  "geometry": {"coordinates":[30.57445,31.20117],"type":"Point"}
+}

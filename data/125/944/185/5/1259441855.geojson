@@ -1,0 +1,77 @@
+{
+  "id": 1259441855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01694,31.58466,31.01694,31.58466",
+    "geom:latitude":31.58466,
+    "geom:longitude":31.01694,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Hasayinah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361191,
+    "gn:latitude":31.58466,
+    "gn:longitude":31.01694,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Al \u1e28a\u015f\u0101yinah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u0627\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e24a\u1e63\u00e2yna",
+        "Al \u1e28a\u015f\u0101\u2019inah",
+        "Al \u1e28a\u015f\u0101yinah",
+        "Al-\u1e24as\u0101ynah",
+        "Al \u1e28a\u015f\u0101ynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361191
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"eb16370ad403c0355ce81454b4cfbfd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017189,
+            "locality_id":1259441855,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1259441855,
+    "wof:lastmodified":1537620920,
+    "wof:name":"Al Hasayinah",
+    "wof:parent_id":1092017189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01694,
+    31.58466,
+    31.01694,
+    31.58466
+],
+  "geometry": {"coordinates":[31.01694,31.58466],"type":"Point"}
+}

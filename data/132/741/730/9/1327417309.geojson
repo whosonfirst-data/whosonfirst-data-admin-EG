@@ -1,0 +1,74 @@
+{
+  "id": 1327417309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63824,30.19378,31.63824,30.19378",
+    "geom:latitude":30.19378,
+    "geom:longitude":31.63824,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Madinat at Tala'i`",
+    "gn:country_code":"EG",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415624,
+    "gn:latitude":30.19378,
+    "gn:longitude":31.63824,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mad\u012bnat a\u0163 \u0162al\u0101\u2019i\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0637\u0644\u0627\u0626\u0639"
+    ],
+    "name:und_x_variant":[
+        "Mad\u012bnat a\u0163 \u0162al\u0101\u2019i\u2018",
+        "Mad\u012bnat a\u1e6d-\u1e6cal\u0101\u2019i\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092022997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415624
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ca666c136a59ad813a61fcf297d59e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022997,
+            "locality_id":1327417309,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1327417309,
+    "wof:lastmodified":1537620988,
+    "wof:name":"Madinat at Tala'i`",
+    "wof:parent_id":1092022997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63824,
+    30.19378,
+    31.63824,
+    30.19378
+],
+  "geometry": {"coordinates":[31.63824,30.19378],"type":"Point"}
+}

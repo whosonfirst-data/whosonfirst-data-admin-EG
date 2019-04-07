@@ -1,0 +1,71 @@
+{
+  "id": 1276316641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3978,30.48395,31.3978,30.48395",
+    "geom:latitude":30.48395,
+    "geom:longitude":31.3978,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Sha`ban `Abd as Salam al Badawi",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354097,
+    "gn:latitude":30.48395,
+    "gn:longitude":31.3978,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Sha\u2018b\u0101n \u2018Abd as Sal\u0101m al Badaw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Sha\u2018b\u00e2n \u2018Abd el Sal\u00e2m el-Badawi",
+        "Kafr Sha\u2018b\u0101n \u2018Abd as Sal\u0101m al Badaw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354097
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f9380532448ab2ebb45e82421ed10a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1276316641,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276316641,
+    "wof:lastmodified":1537620689,
+    "wof:name":"Kafr Sha`ban `Abd as Salam al Badawi",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3978,
+    30.48395,
+    31.3978,
+    30.48395
+],
+  "geometry": {"coordinates":[31.3978,30.48395],"type":"Point"}
+}

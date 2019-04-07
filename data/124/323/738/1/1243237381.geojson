@@ -1,0 +1,75 @@
+{
+  "id": 1243237381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67875,30.53766,31.67875,30.53766",
+    "geom:latitude":30.53766,
+    "geom:longitude":31.67875,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Abu Hammad",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362615,
+    "gn:latitude":30.53766,
+    "gn:longitude":31.67875,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b \u1e28amm\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062d\u0645\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u1e28amm\u0101d al Ma\u1e29a\u0163\u0163ah",
+        "Abu Hammad el Mahatta",
+        "Ab\u016b \u1e28amm\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362615
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"41bec597d148ce35b7213c1db9e83e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014103,
+            "locality_id":1243237381,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1243237381,
+    "wof:lastmodified":1537620961,
+    "wof:name":"Abu Hammad",
+    "wof:parent_id":1092014103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67875,
+    30.53766,
+    31.67875,
+    30.53766
+],
+  "geometry": {"coordinates":[31.67875,30.53766],"type":"Point"}
+}

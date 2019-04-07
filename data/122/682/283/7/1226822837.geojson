@@ -1,0 +1,71 @@
+{
+  "id": 1226822837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41703,30.43943,31.41703,30.43943",
+    "geom:latitude":30.43943,
+    "geom:longitude":31.41703,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr `Uthman `Iffat",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354017,
+    "gn:latitude":30.43943,
+    "gn:longitude":31.41703,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u2018Uthm\u0101n \u2018Iffat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr \u2018Osm\u00e2n \u2018Iffat",
+        "Kafr \u2018Uthm\u0101n \u2018Iffat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354017
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"68501ec9c16ee13797de1fe03375b527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1226822837,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226822837,
+    "wof:lastmodified":1537620682,
+    "wof:name":"Kafr `Uthman `Iffat",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41703,
+    30.43943,
+    31.41703,
+    30.43943
+],
+  "geometry": {"coordinates":[31.41703,30.43943],"type":"Point"}
+}

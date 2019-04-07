@@ -1,0 +1,75 @@
+{
+  "id": 1293277957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17341,30.03492,31.17341,30.03492",
+    "geom:latitude":30.03492,
+    "geom:longitude":31.17341,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zunayn",
+    "gn:country_code":"EG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":345978,
+    "gn:latitude":30.03492,
+    "gn:longitude":31.17341,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zunayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0646\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zinein",
+        "Zunein",
+        "Zunayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092020631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":345978
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"276f6fda34f3c7c94737d4eb16576b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020631,
+            "locality_id":1293277957,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1293277957,
+    "wof:lastmodified":1537620543,
+    "wof:name":"Zunayn",
+    "wof:parent_id":1092020631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17341,
+    30.03492,
+    31.17341,
+    30.03492
+],
+  "geometry": {"coordinates":[31.17341,30.03492],"type":"Point"}
+}

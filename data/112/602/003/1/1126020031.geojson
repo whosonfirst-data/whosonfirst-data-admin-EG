@@ -1,0 +1,243 @@
+{
+  "id": 1126020031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.79844,31.13159,33.79844,31.13159",
+    "geom:latitude":31.13159,
+    "geom:longitude":33.79844,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPLA",
+    "gn:gn_pop":128855,
+    "gn:population":128855,
+    "iso:country":"EG",
+    "lbl:latitude":31.13159,
+    "lbl:longitude":33.79844,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Arish"
+    ],
+    "name:ara_x_preferred":[
+        "El-\u2018Ar\u00eesh"
+    ],
+    "name:ara_x_variant":[
+        "Al \u2018Ar\u012bsh",
+        "\u0627\u0644\u0639\u0631\u064a\u0634"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u064a\u0634"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0438\u0448"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Arix"
+    ],
+    "name:ces_x_preferred":[
+        "Ar\u00ed\u0161"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u91cc\u4ec0"
+    ],
+    "name:cze_x_preferred":[
+        "Al-Ari\u0161"
+    ],
+    "name:dan_x_preferred":[
+        "Al-Arish"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Arisch"
+    ],
+    "name:dut_x_preferred":[
+        "El Arish"
+    ],
+    "name:eng_x_historical":[
+        "City of Cut Noses"
+    ],
+    "name:eng_x_preferred":[
+        "City of Cut Noses"
+    ],
+    "name:eng_x_variant":[
+        "Arish",
+        "Al \u2018Ar\u012bsh"
+    ],
+    "name:epo_x_preferred":[
+        "El Ari\u015d"
+    ],
+    "name:est_x_preferred":[
+        "Al-\u2018Ar\u012bsh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0631\u06cc\u0634"
+    ],
+    "name:fin_x_preferred":[
+        "Arish"
+    ],
+    "name:fra_x_preferred":[
+        "El-Arich"
+    ],
+    "name:fre_x_preferred":[
+        "El-Arich"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d0\u10e0\u10d8\u10e8\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Al-Arisch"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c1\u03af\u03c2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05e2\u05e8\u05d9\u05e9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u0940\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "El-Ar\u00eds"
+    ],
+    "name:ind_x_preferred":[
+        "El Arish"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Arish"
+    ],
+    "name:jav_x_preferred":[
+        "Al Arish"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ea\u30fc\u30b7\u30e5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d0\u10e0\u10d8\u10e8\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u043b\u044c-\u0410\u0440\u0438\u0448"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub9ac\uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Ari\u0161as"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0440\u0438\u0448"
+    ],
+    "name:may_x_preferred":[
+        "Arish"
+    ],
+    "name:nld_x_preferred":[
+        "El Arish"
+    ],
+    "name:nob_x_preferred":[
+        "Al-Arish"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u0631\u06cc\u0634"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Arisz"
+    ],
+    "name:por_x_preferred":[
+        "Alarixe"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0410\u0440\u0438\u0448"
+    ],
+    "name:sco_x_preferred":[
+        "Arish"
+    ],
+    "name:spa_x_preferred":[
+        "El Arish"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0440\u0438\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Arish"
+    ],
+    "name:tur_x_preferred":[
+        "El Ari\u015f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0410\u0440\u0456\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Rhinocolura"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0631\u06cc\u0634"
+    ],
+    "name:war_x_preferred":[
+        "Arish"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e2\u05dc \u05d0\u05e8\u05d9\u05e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u91cc\u4ec0"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":361546,
+    "qs_pg:gn_pop":128855,
+    "qs_pg:name":"Al \u2018Ar\u012bsh",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":310268,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092025189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361546,
+        "qs_pg:id":310268,
+        "wd:id":"Q238452"
+    },
+    "wof:country":"EG",
+    "wof:created":1497300777,
+    "wof:geomhash":"e490eb29dc0e3de77ddfb95781f56bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025189,
+            "locality_id":1126020031,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1126020031,
+    "wof:lastmodified":1513956658,
+    "wof:name":"Al \u2018Ar\u012bsh",
+    "wof:parent_id":1092025189,
+    "wof:placetype":"locality",
+    "wof:population":128855,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.79844,
+    31.13159,
+    33.79844,
+    31.13159
+],
+  "geometry": {"coordinates":[33.79844,31.13159],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209521437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97228,29.54761,30.97228,29.54761",
+    "geom:latitude":29.54761,
+    "geom:longitude":30.97228,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Isma`il Badr",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434367,
+    "gn:latitude":29.54761,
+    "gn:longitude":30.97228,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat Ism\u0101\u2018\u012bl Badr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434367
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b8bad5d93b2a23d7f2626b13c95889ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209521437
+        }
+    ],
+    "wof:id":1209521437,
+    "wof:lastmodified":1536284567,
+    "wof:name":"`Izbat Isma`il Badr",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97228,
+    29.54761,
+    30.97228,
+    29.54761
+],
+  "geometry": {"coordinates":[30.97228,29.54761],"type":"Point"}
+}

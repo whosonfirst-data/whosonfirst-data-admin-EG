@@ -1,0 +1,71 @@
+{
+  "id": 1226313781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08146,30.55538,32.08146,30.55538",
+    "geom:latitude":30.55538,
+    "geom:longitude":32.08146,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Ibrahim Jurish",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357299,
+    "gn:latitude":30.55538,
+    "gn:longitude":32.08146,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Ibr\u0101h\u012bm Jur\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Ibr\u00e2h\u00eem Gur\u00eesh",
+        "\u2018Izbat Ibr\u0101h\u012bm Jur\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092017535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357299
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"03e6a95244fa558b0ddedf60578a57f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017535,
+            "locality_id":1226313781,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1226313781,
+    "wof:lastmodified":1537620789,
+    "wof:name":"`Izbat Ibrahim Jurish",
+    "wof:parent_id":1092017535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08146,
+    30.55538,
+    32.08146,
+    30.55538
+],
+  "geometry": {"coordinates":[32.08146,30.55538],"type":"Point"}
+}

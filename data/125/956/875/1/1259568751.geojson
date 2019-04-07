@@ -1,0 +1,98 @@
+{
+  "id": 1259568751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23333,29.75,31.23333,29.75",
+    "geom:latitude":29.75,
+    "geom:longitude":31.23333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dahshur",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358483,
+    "gn:latitude":29.75,
+    "gn:longitude":31.23333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dahsh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dashur"
+    ],
+    "name:deu_x_preferred":[
+        "Dahschur"
+    ],
+    "name:eng_x_preferred":[
+        "Dahshur"
+    ],
+    "name:fra_x_preferred":[
+        "Dahchour"
+    ],
+    "name:ita_x_preferred":[
+        "Dahshur"
+    ],
+    "name:pol_x_preferred":[
+        "Dahszur"
+    ],
+    "name:por_x_preferred":[
+        "Dahchur"
+    ],
+    "name:spa_x_preferred":[
+        "Dahshur"
+    ],
+    "name:swe_x_preferred":[
+        "Dahshur"
+    ],
+    "name:und_x_variant":[
+        "Dahsh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092017019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358483,
+        "wk:page":"Dahshur"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"20902967b72f1cea04e4a254317e597e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017019,
+            "locality_id":1259568751,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1259568751,
+    "wof:lastmodified":1537620816,
+    "wof:name":"Dahshur",
+    "wof:parent_id":1092017019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23333,
+    29.75,
+    31.23333,
+    29.75
+],
+  "geometry": {"coordinates":[31.23333,29.75],"type":"Point"}
+}

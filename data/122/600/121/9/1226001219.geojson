@@ -1,0 +1,72 @@
+{
+  "id": 1226001219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6,30.91667,29.6,30.91667",
+    "geom:latitude":30.91667,
+    "geom:longitude":29.6,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Zawiyat al `Asilah",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346111,
+    "gn:latitude":30.91667,
+    "gn:longitude":29.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat al \u2018As\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u00e2wyet el \u2018As\u00eela",
+        "Z\u00e2wyet el \u2018Iseila",
+        "Z\u0101wiyat al \u2018As\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346111
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0e722cb78e1d36fa83507c6690cc41c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015739,
+            "locality_id":1226001219,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1226001219,
+    "wof:lastmodified":1537620547,
+    "wof:name":"Zawiyat al `Asilah",
+    "wof:parent_id":1092015739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6,
+    30.91667,
+    29.6,
+    30.91667
+],
+  "geometry": {"coordinates":[29.6,30.91667],"type":"Point"}
+}

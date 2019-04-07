@@ -1,0 +1,74 @@
+{
+  "id": 1242679495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82784,30.37057,30.82784,30.37057",
+    "geom:latitude":30.37057,
+    "geom:longitude":30.82784,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Minsha'at al Khatatibah",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545556,
+    "gn:latitude":30.37057,
+    "gn:longitude":30.82784,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Minsha\u2019\u0101t al Kha\u0163\u0101\u0163ibah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u0627\u0644\u062e\u0637\u0627\u0637\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Minsha\u2019\u0101t al Kha\u0163\u0101\u0163ibah",
+        "Minsh\u0101t al-Kha\u1e6d\u0101\u1e6dbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545556
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"76db3575a6073e2031379c0e03b30ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019405,
+            "locality_id":1242679495,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242679495,
+    "wof:lastmodified":1537621263,
+    "wof:name":"Minsha'at al Khatatibah",
+    "wof:parent_id":1092019405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82784,
+    30.37057,
+    30.82784,
+    30.37057
+],
+  "geometry": {"coordinates":[30.82784,30.37057],"type":"Point"}
+}

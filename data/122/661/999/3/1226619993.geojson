@@ -1,0 +1,73 @@
+{
+  "id": 1226619993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51729,30.49849,31.51729,30.49849",
+    "geom:latitude":30.49849,
+    "geom:longitude":31.51729,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Asha`ir",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415700,
+    "gn:latitude":30.49849,
+    "gn:longitude":31.51729,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al Ash\u0101\u2018ir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0623\u0634\u0627\u0639\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Ash\u0101\u2018ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415700
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ad6501bdb64ac41b676e0c72b3349d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1226619993,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226619993,
+    "wof:lastmodified":1537620993,
+    "wof:name":"`Izbat al Asha`ir",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51729000000001,
+    30.49849,
+    31.51729000000001,
+    30.49849
+],
+  "geometry": {"coordinates":[31.51729000000001,30.49849],"type":"Point"}
+}

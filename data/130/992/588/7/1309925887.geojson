@@ -1,0 +1,74 @@
+{
+  "id": 1309925887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19893,30.11129,31.19893,30.11129",
+    "geom:latitude":30.11129,
+    "geom:longitude":31.19893,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jazirat Muhammad",
+    "gn:country_code":"EG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355091,
+    "gn:latitude":30.11129,
+    "gn:longitude":31.19893,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaz\u012brat Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Gez\u00eeret Mu\u1e25ammad",
+        "Jaz\u012brat Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092020349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355091
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"616d5676e04e145721fc8463ed767a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020349,
+            "locality_id":1309925887,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1309925887,
+    "wof:lastmodified":1537620754,
+    "wof:name":"Jazirat Muhammad",
+    "wof:parent_id":1092020349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19893,
+    30.11129,
+    31.19893,
+    30.11129
+],
+  "geometry": {"coordinates":[31.19893,30.11129],"type":"Point"}
+}

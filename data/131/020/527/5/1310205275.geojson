@@ -1,0 +1,67 @@
+{
+  "id": 1310205275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57077,29.39937,30.57077,29.39937",
+    "geom:latitude":29.39937,
+    "geom:longitude":30.57077,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat al Misharrak",
+    "gn:country_code":"EG",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434842,
+    "gn:latitude":29.39937,
+    "gn:longitude":30.57077,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat al Misharrak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434842
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"36996afb6dbd25d8555d41e933ed971a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1310205275,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1310205275,
+    "wof:lastmodified":1536851494,
+    "wof:name":"`Izbat al Misharrak",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57077,
+    29.39937,
+    30.57077,
+    29.39937
+],
+  "geometry": {"coordinates":[30.57077,29.39937],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343279499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61893,31.04492,31.61893,31.04492",
+    "geom:latitude":31.04492,
+    "geom:longitude":31.61893,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mit Suwayd wa Tubayl",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352116,
+    "gn:latitude":31.04492,
+    "gn:longitude":31.61893,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"M\u012bt Suwayd wa \u0162ubayl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0633\u0648\u064a\u062f \u0648\u0637\u0628\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet Suweid and \u1e6cubeil",
+        "M\u012bt Suwayd wa \u0162ubayl",
+        "M\u012bt Suwayd & \u1e6cubayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092016227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352116
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"29c11cedc3597ad9df14e458eb254553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016227,
+            "locality_id":1343279499,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343279499,
+    "wof:lastmodified":1537620633,
+    "wof:name":"Mit Suwayd wa Tubayl",
+    "wof:parent_id":1092016227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61893,
+    31.04492,
+    31.61893,
+    31.04492
+],
+  "geometry": {"coordinates":[31.61893,31.04492],"type":"Point"}
+}

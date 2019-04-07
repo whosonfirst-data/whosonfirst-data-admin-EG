@@ -1,0 +1,74 @@
+{
+  "id": 1310001857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92097,30.31798,30.92097,30.31798",
+    "geom:latitude":30.31798,
+    "geom:longitude":30.92097,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Jurays wa `Izbatuha",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354936,
+    "gn:latitude":30.31798,
+    "gn:longitude":30.92097,
+    "gn:modification_date":"2017-07-16",
+    "gn:name":"Jurays wa \u2018Izbatuh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Gireis",
+        "Jurays wa \u2018Izbatuh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354936
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fec41b03bcc13052fecfb0ad29bb0154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1310001857,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1310001857,
+    "wof:lastmodified":1537620752,
+    "wof:name":"Jurays wa `Izbatuha",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92097,
+    30.31798,
+    30.92097,
+    30.31798
+],
+  "geometry": {"coordinates":[30.92097,30.31798],"type":"Point"}
+}

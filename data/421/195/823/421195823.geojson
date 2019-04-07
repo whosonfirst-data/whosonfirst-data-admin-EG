@@ -1,0 +1,102 @@
+{
+  "id": 421195823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94292,30.68025,30.94292,30.68025",
+    "geom:latitude":30.68025,
+    "geom:longitude":30.94292,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Tala"
+    ],
+    "name:eng_x_preferred":[
+        "Tala"
+    ],
+    "name:pol_x_preferred":[
+        "Tala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Tal\u0101"
+    ],
+    "name:unk_x_variant":[
+        "Talla"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":347612,
+    "qs:gn_pop":51498,
+    "qs:name":"\u0645\u0631\u0643\u0632 \u062a\u0644\u0627",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":124300,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1526448,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092025145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347612,
+        "gp:id":1526448,
+        "qs:id":124300,
+        "wd:id":"Q7678737",
+        "wk:page":"Tala, Egypt"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009860,
+    "wof:geomhash":"967bd83a759dcf9eab515c9ce4155774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025145,
+            "locality_id":421195823,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":421195823,
+    "wof:lastmodified":1553816383,
+    "wof:name":"\u0645\u0631\u0643\u0632 \u062a\u0644\u0627",
+    "wof:parent_id":1092025145,
+    "wof:placetype":"locality",
+    "wof:population":51498,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94292,
+    30.68025,
+    30.94292,
+    30.68025
+],
+  "geometry": {"coordinates":[30.94292,30.68025],"type":"Point"}
+}

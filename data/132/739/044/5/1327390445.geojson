@@ -1,0 +1,91 @@
+{
+  "id": 1327390445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15793,31.55371,25.15793,31.55371",
+    "geom:latitude":31.55371,
+    "geom:longitude":25.15793,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"As Sallum",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359867,
+    "gn:latitude":31.55371,
+    "gn:longitude":25.15793,
+    "gn:modification_date":"2017-11-10",
+    "gn:name":"As Sall\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0648\u0645"
+    ],
+    "name:eng_x_historical":[
+        "Sollum"
+    ],
+    "name:eng_x_preferred":[
+        "Sollum"
+    ],
+    "name:und_x_variant":[
+        "Panormus",
+        "Al-Salum",
+        "El Sollum",
+        "Catabathmus Magna",
+        "Es Soll\u016bm",
+        "Solum",
+        "Es Sallum",
+        "Sal\u00fbm",
+        "El Sell\u00fbm",
+        "Sallum",
+        "Sellum",
+        "As Sall\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092019621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359867,
+        "wk:page":"Sallum"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"85e46ccd96269ccbd7d3ea20f8366d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019621,
+            "locality_id":1327390445,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1327390445,
+    "wof:lastmodified":1537620854,
+    "wof:name":"As Sallum",
+    "wof:parent_id":1092019621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15793,
+    31.55371,
+    25.15793,
+    31.55371
+],
+  "geometry": {"coordinates":[25.15793,31.55371],"type":"Point"}
+}

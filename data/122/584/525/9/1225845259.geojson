@@ -1,0 +1,71 @@
+{
+  "id": 1225845259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80367,29.26227,30.80367,29.26227",
+    "geom:latitude":29.26227,
+    "geom:longitude":30.80367,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ma`sarat `Arafah",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352704,
+    "gn:latitude":29.26227,
+    "gn:longitude":30.80367,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ma\u2018\u015farat \u2018Arafah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u2018saret \u2018Arafa",
+        "Ma\u2018\u015farat \u2018Arafah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352704
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d9fc16b01f72285d1e8245e9ca6bd78e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1225845259,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1225845259,
+    "wof:lastmodified":1537620658,
+    "wof:name":"Ma`sarat `Arafah",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80367,
+    29.26227,
+    30.80367,
+    29.26227
+],
+  "geometry": {"coordinates":[30.80367,29.26227],"type":"Point"}
+}

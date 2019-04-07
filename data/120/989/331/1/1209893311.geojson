@@ -1,0 +1,73 @@
+{
+  "id": 1209893311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.22843,30.25629,31.22843,30.25629",
+    "geom:latitude":30.25629,
+    "geom:longitude":31.22843,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Izbat Sharaf ad Din al Faramawi",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139093,
+    "gn:latitude":30.25629,
+    "gn:longitude":31.22843,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Sharaf ad D\u012bn al Faram\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0634\u0631\u0641 \u0627\u0644\u062f\u064a\u0646 \u0627\u0644\u0641\u0631\u0645\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Sharaf ad D\u012bn al Faram\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092023447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139093
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0894e72500ce7efc27169ce68408a691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023447,
+            "locality_id":1209893311,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1209893311,
+    "wof:lastmodified":1537621182,
+    "wof:name":"`Izbat Sharaf ad Din al Faramawi",
+    "wof:parent_id":1092023447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.22843,
+    30.25629,
+    31.22843,
+    30.25629
+],
+  "geometry": {"coordinates":[31.22843,30.25629],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209373815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14173,31.47237,31.14173,31.47237",
+    "geom:latitude":31.47237,
+    "geom:longitude":31.14173,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Hilmiyah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419296,
+    "gn:latitude":31.47237,
+    "gn:longitude":31.14173,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ilm\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ilm\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419296
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"041c156634cc8b0e358bdbd4060cbc35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209373815
+        }
+    ],
+    "wof:id":1209373815,
+    "wof:lastmodified":1537621047,
+    "wof:name":"Al Hilmiyah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14173,
+    31.47237,
+    31.14173,
+    31.47237
+],
+  "geometry": {"coordinates":[31.14173,31.47237],"type":"Point"}
+}

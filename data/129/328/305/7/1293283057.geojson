@@ -1,0 +1,72 @@
+{
+  "id": 1293283057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30194,29.72889,31.30194,29.72889",
+    "geom:latitude":29.72889,
+    "geom:longitude":31.30194,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ash Shurafa",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359945,
+    "gn:latitude":29.72889,
+    "gn:longitude":31.30194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shuraf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Shurafa",
+        "Ash Shuraf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092019453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359945
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3c53b117e012177b9a7675bacd1daf38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019453,
+            "locality_id":1293283057,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1293283057,
+    "wof:lastmodified":1537620858,
+    "wof:name":"Ash Shurafa",
+    "wof:parent_id":1092019453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30194,
+    29.72889,
+    31.30194,
+    29.72889
+],
+  "geometry": {"coordinates":[31.30194,29.72889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243271733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48333,31.35,30.48333,31.35",
+    "geom:latitude":31.35,
+    "geom:longitude":30.48333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Ezbet Muhammad el-Za`igi",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357203,
+    "gn:latitude":31.35,
+    "gn:longitude":30.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet Mu\u1e25ammad el-Za\u2018\u00eegi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357203
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2331db84708384b428e680490d60dd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1243271733,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1243271733,
+    "wof:lastmodified":1537054927,
+    "wof:name":"`Ezbet Muhammad el-Za`igi",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48333,
+    31.35,
+    30.48333,
+    31.35
+],
+  "geometry": {"coordinates":[30.48333,31.35],"type":"Point"}
+}

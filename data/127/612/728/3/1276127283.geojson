@@ -1,0 +1,67 @@
+{
+  "id": 1276127283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7726,25.14524,32.7726,25.14524",
+    "geom:latitude":25.14524,
+    "geom:longitude":32.7726,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ash Shaykh an Najjar Abu `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445093,
+    "gn:latitude":25.14524,
+    "gn:longitude":32.7726,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Ash Shaykh an Najj\u0101r Ab\u016b \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445093
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a0c73c9003abdcbd4a19b4f72ef48066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016437,
+            "locality_id":1276127283,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1276127283,
+    "wof:lastmodified":1537052397,
+    "wof:name":"Ash Shaykh an Najjar Abu `Ali",
+    "wof:parent_id":1092016437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7726,
+    25.14524,
+    32.7726,
+    25.14524
+],
+  "geometry": {"coordinates":[32.7726,25.14524],"type":"Point"}
+}

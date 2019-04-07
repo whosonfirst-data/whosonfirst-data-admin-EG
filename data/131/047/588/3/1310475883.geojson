@@ -1,0 +1,73 @@
+{
+  "id": 1310475883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83111,31.05111,30.83111,31.05111",
+    "geom:latitude":31.05111,
+    "geom:longitude":30.83111,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Taftish Awqaf Qallin",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347662,
+    "gn:latitude":31.05111,
+    "gn:longitude":30.83111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taft\u012bsh Awq\u0101f Qall\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taftish Auq\u00e2f Qall\u00een",
+        "Taft\u00eesh Auq\u00e2t Qall\u00een",
+        "Taft\u012bsh Awq\u0101f Qall\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347662
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"72b1ce18d86e8f0aa3fb708f28e2e838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021829,
+            "locality_id":1310475883,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1310475883,
+    "wof:lastmodified":1537620563,
+    "wof:name":"Taftish Awqaf Qallin",
+    "wof:parent_id":1092021829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83111,
+    31.05111,
+    30.83111,
+    31.05111
+],
+  "geometry": {"coordinates":[30.83111,31.05111],"type":"Point"}
+}

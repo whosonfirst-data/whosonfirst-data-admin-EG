@@ -1,0 +1,72 @@
+{
+  "id": 1327103225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.72463,25.90178,32.72463,25.90178",
+    "geom:latitude":25.90178,
+    "geom:longitude":32.72463,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naqadah",
+    "gn:country_code":"EG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351356,
+    "gn:latitude":25.90178,
+    "gn:longitude":32.72463,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naq\u0101dah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naq\u0101da",
+        "Naq\u0101dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092022739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351356,
+        "wk:page":"Naqada"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9877bdd5822c223226a5f1f1e94ed306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022739,
+            "locality_id":1327103225,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1327103225,
+    "wof:lastmodified":1537620617,
+    "wof:name":"Naqadah",
+    "wof:parent_id":1092022739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.72463,
+    25.90178,
+    32.72463,
+    25.90178
+],
+  "geometry": {"coordinates":[32.72463,25.90178],"type":"Point"}
+}

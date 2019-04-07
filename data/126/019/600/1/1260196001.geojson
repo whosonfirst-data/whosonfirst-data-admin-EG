@@ -1,0 +1,71 @@
+{
+  "id": 1260196001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02303,27.33743,31.02303,27.33743",
+    "geom:latitude":27.33743,
+    "geom:longitude":31.02303,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Ma`abidah",
+    "gn:country_code":"EG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360845,
+    "gn:latitude":27.33743,
+    "gn:longitude":31.02303,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ma\u2018\u0101bidah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ma\u2018\u00e2bda",
+        "Al Ma\u2018\u0101bidah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360845
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2676b997c3b238c41c6ac78ee1c202d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1260196001,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1260196001,
+    "wof:lastmodified":1537620900,
+    "wof:name":"Al Ma`abidah",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02303,
+    27.33743,
+    31.02303,
+    27.33743
+],
+  "geometry": {"coordinates":[31.02303,27.33743],"type":"Point"}
+}

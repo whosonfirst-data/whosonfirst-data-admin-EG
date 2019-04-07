@@ -1,0 +1,67 @@
+{
+  "id": 1226434891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.63973,30.85434,29.63973,30.85434",
+    "geom:latitude":30.85434,
+    "geom:longitude":29.63973,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"`Izbat Muhammad Farid",
+    "gn:country_code":"EG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434127,
+    "gn:latitude":30.85434,
+    "gn:longitude":29.63973,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"\u2018Izbat Mu\u1e29ammad Far\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434127
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3b36ec819ffab71aabd219c2d9067629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015695,
+            "locality_id":1226434891,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1226434891,
+    "wof:lastmodified":1536661191,
+    "wof:name":"`Izbat Muhammad Farid",
+    "wof:parent_id":1092015695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.63973,
+    30.85434,
+    29.63973,
+    30.85434
+],
+  "geometry": {"coordinates":[29.63973,30.85434],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243069761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28989,31.067,30.28989,31.067",
+    "geom:latitude":31.067,
+    "geom:longitude":30.28989,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"`Izbat `Umran",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346538,
+    "gn:latitude":31.067,
+    "gn:longitude":30.28989,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u2018Izbat \u2018Umr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0639\u0645\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet \u2018Emr\u00e2n",
+        "\u2018Ezbet \u2018Imr\u00e2n",
+        "\u2018Izbat \u2018Umr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346538
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9dd0926c8509e23e7264fc7ce450f384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1243069761,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243069761,
+    "wof:lastmodified":1537620552,
+    "wof:name":"`Izbat `Umran",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28989,
+    31.067,
+    30.28989,
+    31.067
+],
+  "geometry": {"coordinates":[30.28989,31.067],"type":"Point"}
+}

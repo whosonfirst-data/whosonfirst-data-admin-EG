@@ -1,0 +1,78 @@
+{
+  "id": 1242984703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48486,31.17818,31.48486,31.17818",
+    "geom:latitude":31.17818,
+    "geom:longitude":31.48486,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr al Hatabah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354661,
+    "gn:latitude":31.17818,
+    "gn:longitude":31.48486,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Kafr al \u1e28a\u0163abah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u062d\u0637\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-\u1e24a\u1e6dab",
+        "Kafr el \u1e24atabe",
+        "Kafr el \u1e24a\u1e6daba",
+        "Kafr al \u1e28a\u0163abah",
+        "Kafr al-\u1e24a\u1e6dabah",
+        "Kafr al-Ha\u1e6dabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354661
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"25fa60d2ab495b9655460a486b53a0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1242984703,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1242984703,
+    "wof:lastmodified":1537620733,
+    "wof:name":"Kafr al Hatabah",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48486,
+    31.17818,
+    31.48486,
+    31.17818
+],
+  "geometry": {"coordinates":[31.48486,31.17818],"type":"Point"}
+}

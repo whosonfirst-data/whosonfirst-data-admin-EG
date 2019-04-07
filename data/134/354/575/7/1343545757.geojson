@@ -1,0 +1,71 @@
+{
+  "id": 1343545757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88554,30.5744,30.88554,30.5744",
+    "geom:latitude":30.5744,
+    "geom:longitude":30.88554,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Salamun Bahri",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349781,
+    "gn:latitude":30.5744,
+    "gn:longitude":30.88554,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sal\u0101m\u016bn Ba\u1e29r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sal\u00e2m\u00fbn Ba\u1e25ari",
+        "Sal\u0101m\u016bn Ba\u1e29r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092019949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349781
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"26eb8b18207d2d3d72f3468130541473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019949,
+            "locality_id":1343545757,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1343545757,
+    "wof:lastmodified":1537620587,
+    "wof:name":"Salamun Bahri",
+    "wof:parent_id":1092019949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88554,
+    30.5744,
+    30.88554,
+    30.5744
+],
+  "geometry": {"coordinates":[30.88554,30.5744],"type":"Point"}
+}

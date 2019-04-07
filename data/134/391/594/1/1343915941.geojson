@@ -1,0 +1,67 @@
+{
+  "id": 1343915941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00139,27.5,31.00139,27.5",
+    "geom:latitude":27.5,
+    "geom:longitude":31.00139,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Kawamil",
+    "gn:country_code":"EG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445003,
+    "gn:latitude":27.5,
+    "gn:longitude":31.00139,
+    "gn:modification_date":"2002-03-13",
+    "gn:name":"Al Kaw\u0101mil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445003
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0c5873d14772645f341a3fe571c27eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1343915941,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1343915941,
+    "wof:lastmodified":1537081214,
+    "wof:name":"Al Kawamil",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00139,
+    27.5,
+    31.00139,
+    27.5
+],
+  "geometry": {"coordinates":[31.00139,27.5],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344080859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90428,29.36521,30.90428,29.36521",
+    "geom:latitude":29.36521,
+    "geom:longitude":30.90428,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Matir Taris",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352617,
+    "gn:latitude":29.36521,
+    "gn:longitude":30.90428,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Ma\u0163ir \u0162\u0101ris",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092024457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352617
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f6ea4520be57d3a42755e0e7b70a054d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024457,
+            "locality_id":1344080859,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1344080859,
+    "wof:lastmodified":1536845136,
+    "wof:name":"Matir Taris",
+    "wof:parent_id":1092024457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90428,
+    29.36521,
+    30.90428,
+    29.36521
+],
+  "geometry": {"coordinates":[30.90428,29.36521],"type":"Point"}
+}

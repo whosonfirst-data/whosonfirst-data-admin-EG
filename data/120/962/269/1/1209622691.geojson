@@ -1,0 +1,66 @@
+{
+  "id": 1209622691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.17536,30.9888,30.17536,30.9888",
+    "geom:latitude":30.9888,
+    "geom:longitude":30.17536,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Kawm al Qadah",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357259,
+    "gn:latitude":30.9888,
+    "gn:longitude":30.17536,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Kawm al Qada\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ezbet K\u00f4m \u2018elwet-Qadali",
+        "\u2018Ezbet K\u00f4m el-Qada\u1e25",
+        "\u2018Izbat Kawm al Qada\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357259
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0d3aafbf2ba66f719ddeb6528f405ec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209622691
+        }
+    ],
+    "wof:id":1209622691,
+    "wof:lastmodified":1537620787,
+    "wof:name":"`Izbat Kawm al Qadah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.17536,
+    30.9888,
+    30.17536,
+    30.9888
+],
+  "geometry": {"coordinates":[30.17536,30.9888],"type":"Point"}
+}

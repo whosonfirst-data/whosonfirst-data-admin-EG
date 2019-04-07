@@ -1,0 +1,75 @@
+{
+  "id": 1293373371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93942,31.06682,31.93942,31.06682",
+    "geom:latitude":31.06682,
+    "geom:longitude":31.93942,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Hajj Sa`id Mubarak",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421189,
+    "gn:latitude":31.06682,
+    "gn:longitude":31.93942,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat al \u1e28ajj Sa\u2018\u012bd Mub\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062d\u0627\u062c \u0633\u0639\u064a\u062f \u0645\u0628\u0627\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u1e28ajj Sa\u2018\u012bd Mub\u0101rak",
+        "\u2018Izbat al \u1e28\u0101jj Sa\u2018\u012bd Mub\u0101rak",
+        "\u2018Izbat al \u1e24ajj Sa\u2018\u012bd Mub\u0101rak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421189
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c4749b5130aee2f48b742ea9e6919b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1293373371,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293373371,
+    "wof:lastmodified":1537621102,
+    "wof:name":"`Izbat al Hajj Sa`id Mubarak",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93942,
+    31.06682,
+    31.93942,
+    31.06682
+],
+  "geometry": {"coordinates":[31.93942,31.06682],"type":"Point"}
+}

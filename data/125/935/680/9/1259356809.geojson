@@ -1,0 +1,71 @@
+{
+  "id": 1259356809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44382,30.4768,31.44382,30.4768",
+    "geom:latitude":30.4768,
+    "geom:longitude":31.44382,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr `Abd Allah `Azizah",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354869,
+    "gn:latitude":30.4768,
+    "gn:longitude":31.44382,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u2018Abd All\u0101h \u2018Az\u012bzah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr \u2018Abdalla \u2018Az\u00eeza",
+        "Kafr \u2018Abd All\u0101h \u2018Az\u012bzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354869
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"75d8bb2a20d5c4c26e484b82a304e085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1259356809,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259356809,
+    "wof:lastmodified":1537620751,
+    "wof:name":"Kafr `Abd Allah `Azizah",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44382,
+    30.4768,
+    31.44382,
+    30.4768
+],
+  "geometry": {"coordinates":[31.44382,30.4768],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327418349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15104,30.50335,31.15104,30.50335",
+    "geom:latitude":30.50335,
+    "geom:longitude":31.15104,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ajhur ar Raml",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361693,
+    "gn:latitude":30.50335,
+    "gn:longitude":31.15104,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Ajh\u016br ar Raml",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u062c\u0647\u0648\u0631 \u0627\u0644\u0631\u0645\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ag-h\u00fbr el-Raml",
+        "Ajh\u016br ar Raml"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092023671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361693
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9c0e373d386eb41dda878d5780572f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023671,
+            "locality_id":1327418349,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1327418349,
+    "wof:lastmodified":1537620950,
+    "wof:name":"Ajhur ar Raml",
+    "wof:parent_id":1092023671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15104,
+    30.50335,
+    31.15104,
+    30.50335
+],
+  "geometry": {"coordinates":[31.15104,30.50335],"type":"Point"}
+}

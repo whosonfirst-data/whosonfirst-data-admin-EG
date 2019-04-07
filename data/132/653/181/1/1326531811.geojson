@@ -1,0 +1,75 @@
+{
+  "id": 1326531811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.30161,31.05271,30.30161,31.05271",
+    "geom:latitude":31.05271,
+    "geom:longitude":30.30161,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Kawm Farshut",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353832,
+    "gn:latitude":31.05271,
+    "gn:longitude":30.30161,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u2018Izbat Kawm Farsh\u016b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0643\u0648\u0645 \u0641\u0631\u0634\u0648\u0637"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet K\u00f4m Farsh\u00fb\u1e6d",
+        "\u2018Izbat Kawm Farsh\u016b\u0163",
+        "\u2018Izbat Kawm Farsh\u016b\u1e6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353832
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7d17f61ccaa30c118c458c4f797f5c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1326531811,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1326531811,
+    "wof:lastmodified":1537620676,
+    "wof:name":"`Izbat Kawm Farshut",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.30161,
+    31.05271,
+    30.30161,
+    31.05271
+],
+  "geometry": {"coordinates":[30.30161,31.05271],"type":"Point"}
+}

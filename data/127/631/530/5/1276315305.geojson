@@ -1,0 +1,73 @@
+{
+  "id": 1276315305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73333,25.15,32.73333,25.15",
+    "geom:latitude":25.15,
+    "geom:longitude":32.73333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Al Hajz Bahri",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361247,
+    "gn:latitude":25.15,
+    "gn:longitude":32.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ajz Ba\u1e29r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zim\u0101m al Hajz Ba\u1e29r\u012b",
+        "El Higz Bahari",
+        "Al \u1e28ajz Ba\u1e29r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361247
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7af0cbae5728f8ee7b76c5fd4d1b5a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016437,
+            "locality_id":1276315305,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1276315305,
+    "wof:lastmodified":1537620924,
+    "wof:name":"Al Hajz Bahri",
+    "wof:parent_id":1092016437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73333,
+    25.15,
+    32.73333,
+    25.15
+],
+  "geometry": {"coordinates":[32.73333,25.15],"type":"Point"}
+}

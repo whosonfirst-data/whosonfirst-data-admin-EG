@@ -1,0 +1,70 @@
+{
+  "id": 1209011901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25653,31.14335,30.25653,31.14335",
+    "geom:latitude":31.14335,
+    "geom:longitude":30.25653,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kafr Nasr Allah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351293,
+    "gn:latitude":31.14335,
+    "gn:longitude":30.25653,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kafr Na\u015fr All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0646\u0635\u0631 \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Na\u1e63ralla \u2018Arif",
+        "\u2018Izbat Na\u015fr All\u0101h \u2018Ar\u012bf",
+        "Kafr Na\u015fr All\u0101h",
+        "Kafr Na\u1e63r Allah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351293
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e17c149d2ebbf46fc02b85717c66418e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209011901
+        }
+    ],
+    "wof:id":1209011901,
+    "wof:lastmodified":1537620617,
+    "wof:name":"Kafr Nasr Allah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25653,
+    31.14335,
+    30.25653,
+    31.14335
+],
+  "geometry": {"coordinates":[30.25653,31.14335],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276887985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37009,31.3086,31.37009,31.3086",
+    "geom:latitude":31.3086,
+    "geom:longitude":31.37009,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Khilalah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419949,
+    "gn:latitude":31.3086,
+    "gn:longitude":31.37009,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Khil\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Khil\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092015611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419949
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"98a6b3ec4845c659795e9cc66ce79446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015611,
+            "locality_id":1276887985,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1276887985,
+    "wof:lastmodified":1537621068,
+    "wof:name":"Al Khilalah",
+    "wof:parent_id":1092015611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37009,
+    31.3086,
+    31.37009,
+    31.3086
+],
+  "geometry": {"coordinates":[31.37009,31.3086],"type":"Point"}
+}

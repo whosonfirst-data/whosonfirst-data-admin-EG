@@ -1,0 +1,69 @@
+{
+  "id": 890418091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3776,30.36056,31.3776,30.36056",
+    "geom:latitude":30.36056,
+    "geom:longitude":31.3776,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":45798,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Masht\u00fbl el-S\u00fbq"
+    ],
+    "qs:name":"Masht\u016bl as S\u016bq",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352679,
+        "gp:id":56447518,
+        "qs:id":547861
+    },
+    "wof:country":"EG",
+    "wof:created":1469051234,
+    "wof:geomhash":"f42b322e6832727ea1bcfb5d1a837ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022165,
+            "locality_id":890418091,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":890418091,
+    "wof:lastmodified":1505343442,
+    "wof:name":"Masht\u016bl as S\u016bq",
+    "wof:parent_id":1092022165,
+    "wof:placetype":"locality",
+    "wof:population":45798,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3776,
+    30.36056,
+    31.3776,
+    30.36056
+],
+  "geometry": {"coordinates":[31.3776,30.36056],"type":"Point"}
+}

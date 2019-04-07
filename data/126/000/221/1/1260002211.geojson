@@ -1,0 +1,75 @@
+{
+  "id": 1260002211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01699,30.98713,31.01699,30.98713",
+    "geom:latitude":30.98713,
+    "geom:longitude":31.01699,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Muhammad wa `Abd al Mun`im Wahbi",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357219,
+    "gn:latitude":30.98713,
+    "gn:longitude":31.01699,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"\u2018Izbat Mu\u1e29ammad wa \u2018Abd al Mun\u2018im Wahb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u062d\u0645\u062f \u0648 \u0639\u0628\u062f \u0627\u0644\u0645\u0646\u0639\u0645 \u0648\u0647\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mu\u1e29ammad wa \u2018Abd al Mun\u2018im Wahb\u012b",
+        "\u2018Ezbet Muhammad",
+        "\u2018Izbat Mu\u1e25ammad & \u2018Abd al-Mun\u2018im Wahb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092023627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357219
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e5c72025468a88c94671c84583333d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023627,
+            "locality_id":1260002211,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1260002211,
+    "wof:lastmodified":1537620787,
+    "wof:name":"`Izbat Muhammad wa `Abd al Mun`im Wahbi",
+    "wof:parent_id":1092023627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01699,
+    30.98713,
+    31.01699,
+    30.98713
+],
+  "geometry": {"coordinates":[31.01699,30.98713],"type":"Point"}
+}

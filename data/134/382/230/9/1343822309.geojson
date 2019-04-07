@@ -1,0 +1,77 @@
+{
+  "id": 1343822309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21823,31.38791,31.21823,31.38791",
+    "geom:latitude":31.38791,
+    "geom:longitude":31.21823,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbah Raqm Wahid wa Arba`un",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7759574,
+    "gn:latitude":31.38791,
+    "gn:longitude":31.21823,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u2018Izbah Raqm W\u0101\u1e29id wa Arba\u2018\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0642\u0645 \u0664\u0661"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0632\u0628\u0629 \u0631\u0642\u0645 41"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbah Raqm W\u0101\u1e29id wa Arba\u2018\u016bn",
+        "\u2018Izbah Raqm 41"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7759574
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a7a580ebc1aee9622bc67fee21b34be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1343822309,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1343822309,
+    "wof:lastmodified":1537621137,
+    "wof:name":"`Izbah Raqm Wahid wa Arba`un",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21823,
+    31.38791,
+    31.21823,
+    31.38791
+],
+  "geometry": {"coordinates":[31.21823,31.38791],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327433551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37674,31.06697,30.37674,31.06697",
+    "geom:latitude":31.06697,
+    "geom:longitude":30.37674,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat at Tarzi",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10337241,
+    "gn:latitude":31.06697,
+    "gn:longitude":30.37674,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u2018Izbat at Tarz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062a\u0631\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat at Tarz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10337241
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b5277c182b8825f7c2a80a509f46b3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1327433551,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327433551,
+    "wof:lastmodified":1537621243,
+    "wof:name":"`Izbat at Tarzi",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37674,
+    31.06697,
+    30.37674,
+    31.06697
+],
+  "geometry": {"coordinates":[30.37674,31.06697],"type":"Point"}
+}

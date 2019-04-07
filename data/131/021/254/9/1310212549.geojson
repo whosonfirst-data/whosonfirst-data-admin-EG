@@ -1,0 +1,71 @@
+{
+  "id": 1310212549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.07582,30.7364,30.07582,30.7364",
+    "geom:latitude":30.7364,
+    "geom:longitude":30.07582,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Amal",
+    "gn:country_code":"EG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408928,
+    "gn:latitude":30.7364,
+    "gn:longitude":30.07582,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Amal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Amal",
+        "Al Amal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408928
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ba4f4698baa6eb0f8bd4ed8b33a322f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1310212549,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310212549,
+    "wof:lastmodified":1537620966,
+    "wof:name":"Al Amal",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.07582,
+    30.7364,
+    30.07582,
+    30.7364
+],
+  "geometry": {"coordinates":[30.07582,30.7364],"type":"Point"}
+}

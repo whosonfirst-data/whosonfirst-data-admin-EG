@@ -1,0 +1,74 @@
+{
+  "id": 1293373427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.72697,30.77586,31.72697,30.77586",
+    "geom:latitude":30.77586,
+    "geom:longitude":31.72697,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Haswah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361184,
+    "gn:latitude":30.77586,
+    "gn:longitude":31.72697,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28a\u015fwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e24a\u1e63wa",
+        "Al \u1e28a\u015fwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361184
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6b73eefbe40f59e9a584ebc86c7ab6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1293373427,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293373427,
+    "wof:lastmodified":1537620919,
+    "wof:name":"Al Haswah",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.72697,
+    30.77586,
+    31.72697,
+    30.77586
+],
+  "geometry": {"coordinates":[31.72697,30.77586],"type":"Point"}
+}

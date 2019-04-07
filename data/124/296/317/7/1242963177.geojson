@@ -1,0 +1,74 @@
+{
+  "id": 1242963177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91171,30.3811,30.91171,30.3811",
+    "geom:latitude":30.3811,
+    "geom:longitude":30.91171,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Shamma",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349393,
+    "gn:latitude":30.3811,
+    "gn:longitude":30.91171,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Shamm\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "Shamm\u0101",
+        "Shamma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349393
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"702c3682c38514a829f70c486f48552b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1242963177,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1242963177,
+    "wof:lastmodified":1537620580,
+    "wof:name":"Shamma",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91171,
+    30.3811,
+    30.91171,
+    30.3811
+],
+  "geometry": {"coordinates":[30.91171,30.3811],"type":"Point"}
+}

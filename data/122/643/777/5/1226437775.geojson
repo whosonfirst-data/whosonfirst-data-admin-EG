@@ -1,0 +1,67 @@
+{
+  "id": 1226437775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65657,28.41588,30.65657,28.41588",
+    "geom:latitude":28.41588,
+    "geom:longitude":30.65657,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Marzuq",
+    "gn:country_code":"EG",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352719,
+    "gn:latitude":28.41588,
+    "gn:longitude":30.65657,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Marz\u016bq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352719
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c5081f0c711d3f91484188a70d70989c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022239,
+            "locality_id":1226437775,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1226437775,
+    "wof:lastmodified":1536657116,
+    "wof:name":"Marzuq",
+    "wof:parent_id":1092022239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65657,
+    28.41588,
+    30.65657,
+    28.41588
+],
+  "geometry": {"coordinates":[30.65657,28.41588],"type":"Point"}
+}

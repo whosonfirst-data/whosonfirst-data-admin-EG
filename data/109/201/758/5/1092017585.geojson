@@ -1,0 +1,92 @@
+{
+  "id": 1092017585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":7.536667,
+    "geom:area_square_m":83044674330.788605,
+    "geom:bbox":"25.0,26.283844,30.759223,27.67669",
+    "geom:latitude":26.983504,
+    "geom:longitude":27.767309,
+    "iso:country":"EG",
+    "lbl:latitude":26.969359,
+    "lbl:longitude":27.767323,
+    "meso:admin_1":"New Valley",
+    "meso:diss_me":"El-FarafrahNew Valley",
+    "meso:gadm_admin":"Shurtah al-Farafirah",
+    "meso:gadm_hasc2":"EG.WJ.FA",
+    "meso:gaul_admin":"Al Farafra Oasis",
+    "meso:mps_x":27.767323,
+    "meso:mps_y":26.969359,
+    "meso:name_en":"El-Farafrah",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Merkz",
+    "mps:latitude":26.969359,
+    "mps:longitude":27.767323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Shurtah al-Farafirah"
+    ],
+    "name:eng_x_variant":[
+        "Al Farafra Oasis",
+        "Shurtah al-Farafirah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.WJ",
+    "statoids:name":"Shurtah al-Farafirah",
+    "statoids:population":"21930",
+    "statoids:statoid":"EG.WJ.FA",
+    "statoids:timezone":"+2~",
+    "statoids:type":"markaz",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.WJ.FA"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897248,
+    "wof:geomhash":"cfee3ab6fe0fbcf224141e3e0b788c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017585,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1092017585,
+    "wof:lastmodified":1536615085,
+    "wof:name":"El-Farafrah",
+    "wof:parent_id":85671071,
+    "wof:placetype":"county",
+    "wof:placetype_local":"markaz",
+    "wof:population":21930,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"FA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0,
+    26.283844,
+    30.759223,
+    27.67669
+],
+  "geometry": {"coordinates":[[[25.0,27.641235],[27.41771,27.644231],[28.466408,27.674431],[29.478134,27.675557],[30.496991,27.67669],[30.759223,27.161601],[30.714351,27.126456],[30.691932,27.105426],[30.675936,27.082911],[30.647136,27.045383],[30.589557,26.961334],[30.519143,26.875758],[30.487158,26.827732],[30.456784,26.776714],[30.440853,26.725728],[30.412081,26.676211],[30.386508,26.631197],[30.362501,26.602671],[30.346478,26.592144],[30.32564,26.581607],[30.312833,26.568091],[30.298459,26.538088],[30.27926,26.51257],[30.200795,26.438963],[30.131931,26.377366],[30.079087,26.327795],[30.072757,26.288819],[29.856115,26.288323],[29.321732,26.287099],[28.371713,26.286423],[27.899918,26.283844],[27.673644,26.284824],[27.45539,26.287321],[27.293306,26.288449],[26.893725,26.286035],[26.656218,26.28699],[26.442782,26.288],[26.274286,26.286116],[25.0,26.286715],[25.0,27.641235]]],"type":"Polygon"}
+}

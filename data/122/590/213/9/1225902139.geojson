@@ -1,0 +1,72 @@
+{
+  "id": 1225902139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.43333,26.78333,31.43333,26.78333",
+    "geom:latitude":26.78333,
+    "geom:longitude":31.43333,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Nazlat Hamid",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351131,
+    "gn:latitude":26.78333,
+    "gn:longitude":31.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat \u1e28\u0101mid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet \u1e24\u00e2mid",
+        "Nazlat \u1e28\u0101mid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092025101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351131
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fc1d701af4c21bd427d63deefa0ebb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025101,
+            "locality_id":1225902139,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1225902139,
+    "wof:lastmodified":1537620608,
+    "wof:name":"Nazlat Hamid",
+    "wof:parent_id":1092025101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.43333,
+    26.78333,
+    31.43333,
+    26.78333
+],
+  "geometry": {"coordinates":[31.43333,26.78333],"type":"Point"}
+}

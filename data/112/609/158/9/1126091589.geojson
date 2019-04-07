@@ -1,0 +1,110 @@
+{
+  "id": 1126091589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24081,30.02952,31.24081,30.02952",
+    "geom:latitude":30.02952,
+    "geom:longitude":31.24081,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":30.02951,
+    "gn:longitude":31.24081,
+    "iso:country":"EG",
+    "lbl:latitude":30.02952,
+    "lbl:longitude":31.24081,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u064a\u062f\u0629 \u0632\u064a\u0646\u0628"
+    ],
+    "name:eng_x_preferred":[
+        "As-sayyida Zainab"
+    ],
+    "name:fra_x_historical":[
+        "Sitty Zeynab"
+    ],
+    "name:fra_x_preferred":[
+        "Sitty Zeynab"
+    ],
+    "name:unk_x_variant":[
+        "Es Saiyida Zeinab",
+        "As-sayyida Zainab"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":359824,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"As-sayyida Zainab",
+    "qs_pg:name_adm0":"\u0645\u0635\u0631",
+    "qs_pg:name_adm1":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+    "qs_pg:photos":498,
+    "qs_pg:photos_1k":101,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":498,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1086002,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424802,
+    "qs_pg:woe_id":22724518,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424802,
+    "woe:name_adm0":"\u0645\u0635\u0631",
+    "woe:name_adm1":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670999,
+        102191573,
+        85632581,
+        1092019693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359824,
+        "gp:id":22724518,
+        "qs:id":1086002,
+        "qs_pg:id":1086002
+    },
+    "wof:country":"EG",
+    "wof:created":1497313955,
+    "wof:geomhash":"cbbb5f617676786d344588f38f569b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019693,
+            "locality_id":-1,
+            "neighbourhood_id":1126091589,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1126091589,
+    "wof:lastmodified":1534379294,
+    "wof:name":"As-sayyida Zainab",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85907005
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24081,
+    30.02952,
+    31.24081,
+    30.02952
+],
+  "geometry": {"coordinates":[31.24081,30.02952],"type":"Point"}
+}

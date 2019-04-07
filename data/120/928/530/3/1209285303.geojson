@@ -1,0 +1,61 @@
+{
+  "id": 1209285303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48056,30.36194,31.48056,30.36194",
+    "geom:latitude":30.36194,
+    "geom:longitude":31.48056,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Ezbet el-Isha",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408693,
+    "gn:latitude":30.36194,
+    "gn:longitude":31.48056,
+    "gn:modification_date":"1997-08-11",
+    "gn:name":"\u2018Ezbet el-Isha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408693
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b8b9ade6de990c6e50ccd8fdb89df1bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209285303
+        }
+    ],
+    "wof:id":1209285303,
+    "wof:lastmodified":1536291881,
+    "wof:name":"`Ezbet el-Isha",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48056,
+    30.36194,
+    31.48056,
+    30.36194
+],
+  "geometry": {"coordinates":[31.48056,30.36194],"type":"Point"}
+}

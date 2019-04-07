@@ -1,0 +1,76 @@
+{
+  "id": 1343279689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.43533,31.15026,31.43533,31.15026",
+    "geom:latitude":31.15026,
+    "geom:longitude":31.43533,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Diyast",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358093,
+    "gn:latitude":31.15026,
+    "gn:longitude":31.43533,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Diyas\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0633\u0637"
+    ],
+    "name:und_x_variant":[
+        "Dias\u1e6d",
+        "Diyas\u0163",
+        "Diyas\u1e6d",
+        "Diyast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358093
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"219bbb48b594ae3189fbbd25311ec89f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1343279689,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343279689,
+    "wof:lastmodified":1537620806,
+    "wof:name":"Diyast",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.43533,
+    31.15026,
+    31.43533,
+    31.15026
+],
+  "geometry": {"coordinates":[31.43533,31.15026],"type":"Point"}
+}

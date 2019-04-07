@@ -1,0 +1,71 @@
+{
+  "id": 1344215063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0853,26.23412,32.0853,26.23412",
+    "geom:latitude":26.23412,
+    "geom:longitude":32.0853,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Kushh",
+    "gn:country_code":"EG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360862,
+    "gn:latitude":26.23412,
+    "gn:longitude":32.0853,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Kush\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Kushh",
+        "Al Kush\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092015947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360862
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"79e65ad03cdfa48fdefdadceaec7708b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015947,
+            "locality_id":1344215063,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1344215063,
+    "wof:lastmodified":1537620901,
+    "wof:name":"Al Kushh",
+    "wof:parent_id":1092015947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0853,
+    26.23412,
+    32.0853,
+    26.23412
+],
+  "geometry": {"coordinates":[32.0853,26.23412],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310005001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.29291,30.99915,31.29291,30.99915",
+    "geom:latitude":30.99915,
+    "geom:longitude":31.29291,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mit `Assas",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352202,
+    "gn:latitude":30.99915,
+    "gn:longitude":31.29291,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"M\u012bt \u2018Ass\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u012bt \u2018Ass\u0101s"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u062a \u0639\u0633\u0627\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092024253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352202
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"80d46d81a8f6f2211aea24767f26413a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024253,
+            "locality_id":1310005001,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1310005001,
+    "wof:lastmodified":1537620640,
+    "wof:name":"Mit `Assas",
+    "wof:parent_id":1092024253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29291,
+    30.99915,
+    31.29291,
+    30.99915
+],
+  "geometry": {"coordinates":[31.29291,30.99915],"type":"Point"}
+}

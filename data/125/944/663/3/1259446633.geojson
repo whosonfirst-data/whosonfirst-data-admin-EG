@@ -1,0 +1,71 @@
+{
+  "id": 1259446633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30576,26.94057,31.30576,26.94057",
+    "geom:latitude":26.94057,
+    "geom:longitude":31.30576,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Dayr Abu Maqrufah",
+    "gn:country_code":"EG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358295,
+    "gn:latitude":26.94057,
+    "gn:longitude":31.30576,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dayr Ab\u016b Maqr\u016bfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deir Abu Maqr\u00fbf\u00e2",
+        "Dayr Ab\u016b Maqr\u016bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092024039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358295
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"44841b95cdc83b9389e33ee8f26e1c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024039,
+            "locality_id":1259446633,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1259446633,
+    "wof:lastmodified":1537620811,
+    "wof:name":"Dayr Abu Maqrufah",
+    "wof:parent_id":1092024039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30576,
+    26.94057,
+    31.30576,
+    26.94057
+],
+  "geometry": {"coordinates":[31.30576,26.94057],"type":"Point"}
+}

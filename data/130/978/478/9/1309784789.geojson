@@ -1,0 +1,73 @@
+{
+  "id": 1309784789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.40791,30.55393,31.40791,30.55393",
+    "geom:latitude":30.55393,
+    "geom:longitude":31.40791,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat as Santah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8061369,
+    "gn:latitude":30.55393,
+    "gn:longitude":31.40791,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat as San\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0633\u0646\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat as San\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8061369
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"82f985688b31e0c7f0d35027b7082dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022403,
+            "locality_id":1309784789,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309784789,
+    "wof:lastmodified":1537621158,
+    "wof:name":"`Izbat as Santah",
+    "wof:parent_id":1092022403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40791,
+    30.55393,
+    31.40791,
+    30.55393
+],
+  "geometry": {"coordinates":[31.40791,30.55393],"type":"Point"}
+}

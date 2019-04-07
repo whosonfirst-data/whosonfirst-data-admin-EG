@@ -1,0 +1,72 @@
+{
+  "id": 1209837881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26818,29.64477,31.26818,29.64477",
+    "geom:latitude":29.64477,
+    "geom:longitude":31.26818,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bahbit",
+    "gn:country_code":"EG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358859,
+    "gn:latitude":29.64477,
+    "gn:longitude":31.26818,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bahb\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bahbeit",
+        "Bihb\u012bt",
+        "Bahb\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092016893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358859
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6fbe09c3548f2d5b6b5738155eb93376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016893,
+            "locality_id":1209837881,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1209837881,
+    "wof:lastmodified":1537620823,
+    "wof:name":"Bahbit",
+    "wof:parent_id":1092016893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26818,
+    29.64477,
+    31.26818,
+    29.64477
+],
+  "geometry": {"coordinates":[31.26818,29.64477],"type":"Point"}
+}

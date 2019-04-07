@@ -1,0 +1,71 @@
+{
+  "id": 1310580113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71639,30.61722,31.71639,30.61722",
+    "geom:latitude":30.61722,
+    "geom:longitude":31.71639,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ash Shama'isah",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360030,
+    "gn:latitude":30.61722,
+    "gn:longitude":31.71639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Sham\u0101\u2019isah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sham\u00e2ysa",
+        "Ash Sham\u0101\u2019isah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360030
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"dc5bd7efee9d6c47e3753a5ae2d1415d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014103,
+            "locality_id":1310580113,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310580113,
+    "wof:lastmodified":1537620864,
+    "wof:name":"Ash Shama'isah",
+    "wof:parent_id":1092014103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71639,
+    30.61722,
+    31.71639,
+    30.61722
+],
+  "geometry": {"coordinates":[31.71639,30.61722],"type":"Point"}
+}

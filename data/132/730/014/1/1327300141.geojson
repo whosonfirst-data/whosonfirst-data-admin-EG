@@ -1,0 +1,71 @@
+{
+  "id": 1327300141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90247,28.98482,30.90247,28.98482",
+    "geom:latitude":28.98482,
+    "geom:longitude":30.90247,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bani Mu'minah",
+    "gn:country_code":"EG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359205,
+    "gn:latitude":28.98482,
+    "gn:longitude":30.90247,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b Mu\u2019minah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni Mumina",
+        "Ban\u012b Mu\u2019minah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359205
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fcf834a1d69a67394d45bc1a7256b5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015415,
+            "locality_id":1327300141,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1327300141,
+    "wof:lastmodified":1537620830,
+    "wof:name":"Bani Mu'minah",
+    "wof:parent_id":1092015415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90247,
+    28.98482000000001,
+    30.90247,
+    28.98482000000001
+],
+  "geometry": {"coordinates":[30.90247,28.98482000000001],"type":"Point"}
+}

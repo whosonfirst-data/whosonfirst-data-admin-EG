@@ -1,0 +1,76 @@
+{
+  "id": 1276424377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63587,30.7835,31.63587,30.7835",
+    "geom:latitude":30.7835,
+    "geom:longitude":31.63587,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buha al Mahattah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361371,
+    "gn:latitude":30.7835,
+    "gn:longitude":31.63587,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"B\u016bh\u0101 al Ma\u1e29a\u0163\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0647\u0627 \u0627\u0644\u0645\u062d\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-B\u00fbha",
+        "Al B\u016bhah",
+        "El B\u016bha",
+        "B\u016bh\u0101 al Ma\u1e29a\u0163\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361371
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4c1b676a2c0cac751c57c9cab0181393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1276424377,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276424377,
+    "wof:lastmodified":1537620931,
+    "wof:name":"Buha al Mahattah",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63587,
+    30.7835,
+    31.63587,
+    30.7835
+],
+  "geometry": {"coordinates":[31.63587,30.7835],"type":"Point"}
+}

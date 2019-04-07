@@ -1,0 +1,72 @@
+{
+  "id": 1259759523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3748,26.89865,31.3748,26.89865",
+    "geom:latitude":26.89865,
+    "geom:longitude":31.3748,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Barba",
+    "gn:country_code":"EG",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361417,
+    "gn:latitude":26.89865,
+    "gn:longitude":31.3748,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Barb\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Birba",
+        "Al Birb\u0101",
+        "Al Barb\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092024039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361417
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"28829c69365332cf4c153722ba701dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024039,
+            "locality_id":1259759523,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1259759523,
+    "wof:lastmodified":1537620934,
+    "wof:name":"Al Barba",
+    "wof:parent_id":1092024039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3748,
+    26.89865,
+    31.3748,
+    26.89865
+],
+  "geometry": {"coordinates":[31.3748,26.89865],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343537663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72486,27.46727,30.72486,27.46727",
+    "geom:latitude":27.46727,
+    "geom:longitude":30.72486,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Naj` Muhanni' Jum`ah",
+    "gn:country_code":"EG",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351402,
+    "gn:latitude":27.46727,
+    "gn:longitude":30.72486,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 Muhanni\u2019 Jum\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qabil el Gahma",
+        "\u2018Ezbet Mihanni Gum\u2018a",
+        "Nag\u2018 Mihanni Gum\u2018a",
+        "Naj\u2018 Muhanni\u2019 Jum\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092015987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351402
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6bb3a24c42103107fdbb5a2d76c63528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015987,
+            "locality_id":1343537663,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1343537663,
+    "wof:lastmodified":1537620619,
+    "wof:name":"Naj` Muhanni' Jum`ah",
+    "wof:parent_id":1092015987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72486,
+    27.46727000000001,
+    30.72486,
+    27.46727000000001
+],
+  "geometry": {"coordinates":[30.72486,27.46727000000001],"type":"Point"}
+}

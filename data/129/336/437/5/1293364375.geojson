@@ -1,0 +1,74 @@
+{
+  "id": 1293364375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14752,31.17391,31.14752,31.17391",
+    "geom:latitude":31.17391,
+    "geom:longitude":31.14752,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al `Izbah al Hamra'",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419268,
+    "gn:latitude":31.17391,
+    "gn:longitude":31.14752,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Al \u2018Izbah al \u1e28amr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u0628\u0629 \u0627\u0644\u062d\u0645\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Izbah al \u1e28amr\u0101\u2019",
+        "Al-\u2018Izbah al-\u1e24amr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419268
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6298d71474c9196c261bdf172f37dce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1293364375,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1293364375,
+    "wof:lastmodified":1537621045,
+    "wof:name":"Al `Izbah al Hamra'",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14752,
+    31.17391,
+    31.14752,
+    31.17391
+],
+  "geometry": {"coordinates":[31.14752,31.17391],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226366513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09194,29.25167,31.09194,29.25167",
+    "geom:latitude":29.25167,
+    "geom:longitude":31.09194,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Abu Sir al Malaq",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362066,
+    "gn:latitude":29.25167,
+    "gn:longitude":31.09194,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b \u015e\u012br al Malaq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu \u1e62\u00eer el Malaq",
+        "Ab\u016b \u015e\u012br al Malaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092020395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362066
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"603ded649e9e8eb7baaaa72961fea921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020395,
+            "locality_id":1226366513,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1226366513,
+    "wof:lastmodified":1537620957,
+    "wof:name":"Abu Sir al Malaq",
+    "wof:parent_id":1092020395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09194,
+    29.25167,
+    31.09194,
+    29.25167
+],
+  "geometry": {"coordinates":[31.09194,29.25167],"type":"Point"}
+}

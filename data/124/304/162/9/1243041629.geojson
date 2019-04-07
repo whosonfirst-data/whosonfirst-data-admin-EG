@@ -1,0 +1,72 @@
+{
+  "id": 1243041629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71667,30.81667,31.71667,30.81667",
+    "geom:latitude":30.81667,
+    "geom:longitude":31.71667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr an Nawwamin",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354530,
+    "gn:latitude":30.81667,
+    "gn:longitude":31.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr an Naww\u0101m\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Nauwamin el-Qazz\u00e2zin",
+        "Kafr an Naww\u0101m\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354530
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7c2fb56c98b8d43db7ea9f70be68d0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1243041629,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1243041629,
+    "wof:lastmodified":1537620722,
+    "wof:name":"Kafr an Nawwamin",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71667,
+    30.81667,
+    31.71667,
+    30.81667
+],
+  "geometry": {"coordinates":[31.71667,30.81667],"type":"Point"}
+}

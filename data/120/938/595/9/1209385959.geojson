@@ -1,0 +1,68 @@
+{
+  "id": 1209385959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06239,30.90238,32.06239,30.90238",
+    "geom:latitude":30.90238,
+    "geom:longitude":32.06239,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Hanun",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443395,
+    "gn:latitude":30.90238,
+    "gn:longitude":32.06239,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u2018Izbat H\u0101n\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0647\u0627\u0646\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat H\u0101n\u016bn",
+        "\u2018Izbat Han\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443395
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d59333806eb9e9be13dbcfa1d9fecd58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209385959
+        }
+    ],
+    "wof:id":1209385959,
+    "wof:lastmodified":1537621132,
+    "wof:name":"`Izbat Hanun",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06239,
+    30.90238,
+    32.06239,
+    30.90238
+],
+  "geometry": {"coordinates":[32.06239,30.90238],"type":"Point"}
+}

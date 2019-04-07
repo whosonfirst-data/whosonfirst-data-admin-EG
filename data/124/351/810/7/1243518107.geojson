@@ -1,0 +1,71 @@
+{
+  "id": 1243518107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8,27.6,30.8,27.6",
+    "geom:latitude":27.6,
+    "geom:longitude":30.8,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Naj` ash Shaykh Hasan Abu Sabir",
+    "gn:country_code":"EG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351446,
+    "gn:latitude":27.6,
+    "gn:longitude":30.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 ash Shaykh \u1e28asan Ab\u016b \u015e\u0101bir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 Hasan S\u00e2bir",
+        "Naj\u2018 ash Shaykh \u1e28asan Ab\u016b \u015e\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351446
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"67602e5c6bc800839553faf7d1d94867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1243518107,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1243518107,
+    "wof:lastmodified":1537620622,
+    "wof:name":"Naj` ash Shaykh Hasan Abu Sabir",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8,
+    27.6,
+    30.8,
+    27.6
+],
+  "geometry": {"coordinates":[30.8,27.6],"type":"Point"}
+}

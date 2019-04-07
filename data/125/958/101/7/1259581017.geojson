@@ -1,0 +1,74 @@
+{
+  "id": 1259581017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0365,30.18452,31.0365,30.18452",
+    "geom:latitude":30.18452,
+    "geom:longitude":31.0365,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jizzayah",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355014,
+    "gn:latitude":30.18452,
+    "gn:longitude":31.0365,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jizz\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Gizz\u00e2ya",
+        "Jizz\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092020631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355014
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c581866bc5cab9246cf783477fb260d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020631,
+            "locality_id":1259581017,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1259581017,
+    "wof:lastmodified":1537620753,
+    "wof:name":"Jizzayah",
+    "wof:parent_id":1092020631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0365,
+    30.18452000000001,
+    31.0365,
+    30.18452000000001
+],
+  "geometry": {"coordinates":[31.0365,30.18452000000001],"type":"Point"}
+}

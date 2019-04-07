@@ -1,0 +1,67 @@
+{
+  "id": 1259953957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.60806,31.28111,30.60806,31.28111",
+    "geom:latitude":31.28111,
+    "geom:longitude":30.60806,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Ezbet `Amr & el-Quni",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357606,
+    "gn:latitude":31.28111,
+    "gn:longitude":30.60806,
+    "gn:modification_date":"1997-10-15",
+    "gn:name":"\u2018Ezbet \u2018Amr & el-Quni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357606
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fd601607bea778412b99990428904dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1259953957,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1259953957,
+    "wof:lastmodified":1536677721,
+    "wof:name":"`Ezbet `Amr & el-Quni",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.60806,
+    31.28111,
+    30.60806,
+    31.28111
+],
+  "geometry": {"coordinates":[30.60806,31.28111],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209938485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.87846,30.84857,29.87846,30.84857",
+    "geom:latitude":30.84857,
+    "geom:longitude":29.87846,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Halab",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433901,
+    "gn:latitude":30.84857,
+    "gn:longitude":29.87846,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"\u1e28alab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433901
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a513d125da0cb49cc06a8617cda5a64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015695,
+            "locality_id":1209938485,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1209938485,
+    "wof:lastmodified":1536389548,
+    "wof:name":"Halab",
+    "wof:parent_id":1092015695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.87846,
+    30.84857,
+    29.87846,
+    30.84857
+],
+  "geometry": {"coordinates":[29.87846,30.84857],"type":"Point"}
+}

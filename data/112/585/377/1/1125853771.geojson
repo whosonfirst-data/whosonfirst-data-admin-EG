@@ -1,0 +1,81 @@
+{
+  "id": 1125853771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05,29.81667,31.05,29.81667",
+    "geom:latitude":29.81667,
+    "geom:longitude":31.05,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":41930,
+    "gn:population":41930,
+    "iso:country":"EG",
+    "lbl:latitude":29.81667,
+    "lbl:longitude":31.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "6 October City"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":353219,
+    "qs_pg:gn_pop":41930,
+    "qs_pg:name":"Mad\u012bnat Sittah Ukt\u016bbar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":206233,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092022885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353219,
+        "qs_pg:id":206233
+    },
+    "wof:country":"EG",
+    "wof:created":1497293524,
+    "wof:geomhash":"c9030427160cb5e47f84ae9c07d4511b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022885,
+            "locality_id":1125853771,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1125853771,
+    "wof:lastmodified":1509396102,
+    "wof:name":"Mad\u012bnat Sittah Ukt\u016bbar",
+    "wof:parent_id":1092022885,
+    "wof:placetype":"locality",
+    "wof:population":41930,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05,
+    29.81667,
+    31.05,
+    29.81667
+],
+  "geometry": {"coordinates":[31.05,29.81667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309718021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9606,29.40107,30.9606,29.40107",
+    "geom:latitude":29.40107,
+    "geom:longitude":30.9606,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Minshat Sirsina",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352363,
+    "gn:latitude":29.40107,
+    "gn:longitude":30.9606,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Minsh\u0101t Sirsin\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092025417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352363
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2e3ef66898182f8c410cece8603724e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025417,
+            "locality_id":1309718021,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1309718021,
+    "wof:lastmodified":1537055198,
+    "wof:name":"Minshat Sirsina",
+    "wof:parent_id":1092025417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9606,
+    29.40107,
+    30.9606,
+    29.40107
+],
+  "geometry": {"coordinates":[30.9606,29.40107],"type":"Point"}
+}

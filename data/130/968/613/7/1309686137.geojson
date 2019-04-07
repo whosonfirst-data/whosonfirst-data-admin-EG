@@ -1,0 +1,74 @@
+{
+  "id": 1309686137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81412,31.12873,30.81412,31.12873",
+    "geom:latitude":31.12873,
+    "geom:longitude":30.81412,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat at Tuwal",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416174,
+    "gn:latitude":31.12873,
+    "gn:longitude":30.81412,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat a\u0163 \u0162uw\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0637\u0648\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat a\u0163 \u0162uw\u0101l",
+        "\u2018Izbat a\u1e6d-\u1e6cuw\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416174
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5e516f77a9b46e27b9b89292aeea7d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021829,
+            "locality_id":1309686137,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1309686137,
+    "wof:lastmodified":1537621019,
+    "wof:name":"`Izbat at Tuwal",
+    "wof:parent_id":1092021829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81412000000001,
+    31.12873,
+    30.81412000000001,
+    31.12873
+],
+  "geometry": {"coordinates":[30.81412000000001,31.12873],"type":"Point"}
+}

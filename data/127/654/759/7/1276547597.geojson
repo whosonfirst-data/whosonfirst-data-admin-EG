@@ -1,0 +1,67 @@
+{
+  "id": 1276547597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86579,29.41345,30.86579,29.41345",
+    "geom:latitude":29.41345,
+    "geom:longitude":30.86579,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sinnuris",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347907,
+    "gn:latitude":29.41345,
+    "gn:longitude":30.86579,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Sinn\u016bris",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092024457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347907
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"132a09359782a6e592f74c0f12890cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024457,
+            "locality_id":1276547597,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1276547597,
+    "wof:lastmodified":1536988082,
+    "wof:name":"Sinnuris",
+    "wof:parent_id":1092024457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86579,
+    29.41345,
+    30.86579,
+    29.41345
+],
+  "geometry": {"coordinates":[30.86579,29.41345],"type":"Point"}
+}

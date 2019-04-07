@@ -1,0 +1,74 @@
+{
+  "id": 1243337329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56927,30.46961,31.56927,30.46961",
+    "geom:latitude":30.46961,
+    "geom:longitude":31.56927,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Awlad Sayf",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359664,
+    "gn:latitude":30.46961,
+    "gn:longitude":31.56927,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Awl\u0101d Sayf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644\u0627\u062f \u0633\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Aul\u00e2d Seif",
+        "Awl\u0101d Sayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359664
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"edc58c11e7610979f87af346814f2b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015569,
+            "locality_id":1243337329,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1243337329,
+    "wof:lastmodified":1537620844,
+    "wof:name":"Awlad Sayf",
+    "wof:parent_id":1092015569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56927,
+    30.46961,
+    31.56927,
+    30.46961
+],
+  "geometry": {"coordinates":[31.56927,30.46961],"type":"Point"}
+}

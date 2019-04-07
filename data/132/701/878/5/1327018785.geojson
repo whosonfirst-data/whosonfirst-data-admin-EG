@@ -1,0 +1,67 @@
+{
+  "id": 1327018785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74891,27.63917,30.74891,27.63917",
+    "geom:latitude":27.63917,
+    "geom:longitude":30.74891,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Awlad Sarhan",
+    "gn:country_code":"EG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434378,
+    "gn:latitude":27.63917,
+    "gn:longitude":30.74891,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Awl\u0101d Sar\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434378
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3a50d05396d7fca015d5564669b52f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016033,
+            "locality_id":1327018785,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1327018785,
+    "wof:lastmodified":1536780640,
+    "wof:name":"Awlad Sarhan",
+    "wof:parent_id":1092016033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74891,
+    27.63917,
+    30.74891,
+    27.63917
+],
+  "geometry": {"coordinates":[30.74891,27.63917],"type":"Point"}
+}

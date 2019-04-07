@@ -1,0 +1,71 @@
+{
+  "id": 1226617537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8198,27.51234,30.8198,27.51234",
+    "geom:latitude":27.51234,
+    "geom:longitude":30.8198,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Kawm Buha Bahri",
+    "gn:country_code":"EG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353838,
+    "gn:latitude":27.51234,
+    "gn:longitude":30.8198,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm B\u016bh\u0101 Ba\u1e29r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f4m Buha Bahari",
+        "Kawm B\u016bh\u0101 Ba\u1e29r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092015987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353838
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c01c2b9d680184047834964b93568da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015987,
+            "locality_id":1226617537,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1226617537,
+    "wof:lastmodified":1537620676,
+    "wof:name":"Kawm Buha Bahri",
+    "wof:parent_id":1092015987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8198,
+    27.51234,
+    30.8198,
+    27.51234
+],
+  "geometry": {"coordinates":[30.8198,27.51234],"type":"Point"}
+}

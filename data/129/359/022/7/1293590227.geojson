@@ -1,0 +1,71 @@
+{
+  "id": 1293590227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97047,29.53753,30.97047,29.53753",
+    "geom:latitude":29.53753,
+    "geom:longitude":30.97047,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fanus",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357000,
+    "gn:latitude":29.53753,
+    "gn:longitude":30.97047,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"F\u0101n\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaksh\u00fbk",
+        "F\u0101n\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092025417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357000
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5f838e48ced4df5088fbb0553f17fbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025417,
+            "locality_id":1293590227,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1293590227,
+    "wof:lastmodified":1537620781,
+    "wof:name":"Fanus",
+    "wof:parent_id":1092025417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97047,
+    29.53753,
+    30.97047,
+    29.53753
+],
+  "geometry": {"coordinates":[30.97047,29.53753],"type":"Point"}
+}

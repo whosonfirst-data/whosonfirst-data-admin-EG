@@ -1,0 +1,100 @@
+{
+  "id": 1327244443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.64679,22.22273,36.64679,22.22273",
+    "geom:latitude":22.22273,
+    "geom:longitude":36.64679,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hala'ib",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374290,
+    "gn:latitude":22.22273,
+    "gn:longitude":36.64679,
+    "gn:modification_date":"2014-08-28",
+    "gn:name":"Hala'ib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mersa",
+        "Haleib",
+        "Halla \u2019Ib",
+        "\u1e24alayib",
+        "\u1e24alayb",
+        "\u1e28al\u0101\u2019ib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092021349,
+        85632751,
+        85676867,
+        1091709471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374290,
+        "wk:page":"Hala%27ib"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3b1bb8390514bd6022cf2585e703b532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021349,
+            "locality_id":1327244443,
+            "region_id":85671085
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1092021349,
+            "locality_id":1327244443,
+            "region_id":85676867
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1091709471,
+            "locality_id":1327244443,
+            "region_id":85671085
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709471,
+            "locality_id":1327244443,
+            "region_id":85676867
+        }
+    ],
+    "wof:id":1327244443,
+    "wof:lastmodified":1537620966,
+    "wof:name":"Hala'ib",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.64679,
+    22.22273,
+    36.64679,
+    22.22273
+],
+  "geometry": {"coordinates":[36.64679,22.22273],"type":"Point"}
+}

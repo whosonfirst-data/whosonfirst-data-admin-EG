@@ -1,0 +1,71 @@
+{
+  "id": 1243420547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05,29.01667,31.05,29.01667",
+    "geom:latitude":29.01667,
+    "geom:longitude":31.05,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Nazlat Sa`id",
+    "gn:country_code":"EG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351092,
+    "gn:latitude":29.01667,
+    "gn:longitude":31.05,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet Sa\u2018\u00eed",
+        "Nazlat Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092015415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351092
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"de01dbacd4c0b64faf82fb550eed4821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015415,
+            "locality_id":1243420547,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1243420547,
+    "wof:lastmodified":1537620606,
+    "wof:name":"Nazlat Sa`id",
+    "wof:parent_id":1092015415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05,
+    29.01667,
+    31.05,
+    29.01667
+],
+  "geometry": {"coordinates":[31.05,29.01667],"type":"Point"}
+}

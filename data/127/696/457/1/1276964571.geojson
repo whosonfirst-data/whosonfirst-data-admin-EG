@@ -1,0 +1,71 @@
+{
+  "id": 1276964571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3,29.81667,31.3,29.81667",
+    "geom:latitude":29.81667,
+    "geom:longitude":31.3,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kafr al `Ilw",
+    "gn:country_code":"EG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354642,
+    "gn:latitude":29.81667,
+    "gn:longitude":31.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al \u2018Ilw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-\u2018Ilw",
+        "Kafr al \u2018Ilw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092021427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354642
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cc26e7e9429b60fe90f1d974a44c56fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021427,
+            "locality_id":1276964571,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1276964571,
+    "wof:lastmodified":1537620731,
+    "wof:name":"Kafr al `Ilw",
+    "wof:parent_id":1092021427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3,
+    29.81667,
+    31.3,
+    29.81667
+],
+  "geometry": {"coordinates":[31.3,29.81667],"type":"Point"}
+}

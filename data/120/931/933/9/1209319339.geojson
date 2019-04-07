@@ -1,0 +1,68 @@
+{
+  "id": 1209319339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.99712,31.01191,30.99712,31.01191",
+    "geom:latitude":31.01191,
+    "geom:longitude":30.99712,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Bishir Agha",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416121,
+    "gn:latitude":31.01191,
+    "gn:longitude":30.99712,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Bish\u012br Agh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0628\u0634\u064a\u0631 \u0623\u063a\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Bish\u012br Agh\u0101",
+        "\u2018Izbat Bash\u012br \u0100gh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416121
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8e30f351bf1b8385b36b9c538d261130",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209319339
+        }
+    ],
+    "wof:id":1209319339,
+    "wof:lastmodified":1537621015,
+    "wof:name":"`Izbat Bishir Agha",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.99712,
+    31.01191,
+    30.99712,
+    31.01191
+],
+  "geometry": {"coordinates":[30.99712,31.01191],"type":"Point"}
+}

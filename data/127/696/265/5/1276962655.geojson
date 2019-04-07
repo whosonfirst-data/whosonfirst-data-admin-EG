@@ -1,0 +1,71 @@
+{
+  "id": 1276962655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70378,28.17973,30.70378,28.17973",
+    "geom:latitude":28.17973,
+    "geom:longitude":30.70378,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nazlat al Fallahin",
+    "gn:country_code":"EG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351212,
+    "gn:latitude":28.17973,
+    "gn:longitude":30.70378,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat al Fall\u0101\u1e29\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet el Fall\u00e2\u1e25\u00een",
+        "Nazlat al Fall\u0101\u1e29\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092018557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351212
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"033499b3b65e729ee5121d01e7e7f455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018557,
+            "locality_id":1276962655,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1276962655,
+    "wof:lastmodified":1537620614,
+    "wof:name":"Nazlat al Fallahin",
+    "wof:parent_id":1092018557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70378,
+    28.17973,
+    30.70378,
+    28.17973
+],
+  "geometry": {"coordinates":[30.70378,28.17973],"type":"Point"}
+}

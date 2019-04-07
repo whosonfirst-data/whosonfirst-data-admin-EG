@@ -1,0 +1,74 @@
+{
+  "id": 1276948831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74427,30.6466,31.74427,30.6466",
+    "geom:latitude":30.6466,
+    "geom:longitude":31.74427,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Zaydan",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069615,
+    "gn:latitude":30.6466,
+    "gn:longitude":31.74427,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Zayd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0632\u064a\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Zayd\u0101n",
+        "\u2018Izbat Z\u012bd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069615
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6449357ba4d56999a78f294023b46657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1276948831,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276948831,
+    "wof:lastmodified":1537621173,
+    "wof:name":"`Izbat Zaydan",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74427,
+    30.6466,
+    31.74427,
+    30.6466
+],
+  "geometry": {"coordinates":[31.74427,30.6466],"type":"Point"}
+}

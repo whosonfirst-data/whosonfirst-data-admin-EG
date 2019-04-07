@@ -1,0 +1,76 @@
+{
+  "id": 1242695627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.62548,30.86216,31.62548,30.86216",
+    "geom:latitude":30.86216,
+    "geom:longitude":31.62548,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Munsha'at Yusuf Mansur",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352359,
+    "gn:latitude":30.86216,
+    "gn:longitude":31.62548,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Munsha\u2019at Y\u016bsuf Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u064a\u0648\u0633\u0641 \u0645\u0646\u0635\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kafr an Na\u015f\u0101r\u00e1",
+        "Minsh\u00e2t Y\u00fbsef Man\u1e63\u00fbr",
+        "Minsh\u0101t Y\u016bsuf Man\u015f\u016br",
+        "Munsha\u2019at Y\u016bsuf Man\u015f\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092019741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352359
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"77794e273e5b33fe9664abbc7d539b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019741,
+            "locality_id":1242695627,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1242695627,
+    "wof:lastmodified":1537620648,
+    "wof:name":"Munsha'at Yusuf Mansur",
+    "wof:parent_id":1092019741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.62548,
+    30.86216,
+    31.62548,
+    30.86216
+],
+  "geometry": {"coordinates":[31.62548,30.86216],"type":"Point"}
+}

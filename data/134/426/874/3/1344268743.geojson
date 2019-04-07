@@ -1,0 +1,67 @@
+{
+  "id": 1344268743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72149,30.59227,30.72149,30.59227",
+    "geom:latitude":30.59227,
+    "geom:longitude":30.72149,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat Salah ad Din",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421605,
+    "gn:latitude":30.59227,
+    "gn:longitude":30.72149,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Qaryat \u015eal\u0101\u1e29 ad D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421605
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c51df285db2910770402780d019ac644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1344268743,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1344268743,
+    "wof:lastmodified":1537069136,
+    "wof:name":"Qaryat Salah ad Din",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72149000000001,
+    30.59227000000001,
+    30.72149000000001,
+    30.59227000000001
+],
+  "geometry": {"coordinates":[30.72149000000001,30.59227000000001],"type":"Point"}
+}

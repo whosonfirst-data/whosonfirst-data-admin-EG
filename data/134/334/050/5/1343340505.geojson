@@ -1,0 +1,73 @@
+{
+  "id": 1343340505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79852,30.81839,31.79852,30.81839",
+    "geom:latitude":30.81839,
+    "geom:longitude":31.79852,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"As Sunaytah",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347745,
+    "gn:latitude":30.81839,
+    "gn:longitude":31.79852,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sunay\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sineitet el-Rif\u00e2\u2018\u00eeyin",
+        "Kafr el Sine\u00eeta",
+        "Sunay\u0163at ar Rif\u0101\u2018\u012by\u012bn",
+        "As Sunay\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347745
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bb4a7d3bfc04a6f2c47f44436611ee09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1343340505,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343340505,
+    "wof:lastmodified":1537620565,
+    "wof:name":"As Sunaytah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79852,
+    30.81839,
+    31.79852,
+    30.81839
+],
+  "geometry": {"coordinates":[31.79852,30.81839],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343659595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24528,29.40306,31.24528,29.40306",
+    "geom:latitude":29.40306,
+    "geom:longitude":31.24528,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kafr Halawah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357883,
+    "gn:latitude":29.40306,
+    "gn:longitude":31.24528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u1e28al\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Hilt Minsh\u00e2t Sul\u00eeman wa Kafr Hal\u00e2wa",
+        "Kafr \u1e28al\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092014653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357883
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"753570dec27b659befe365a223e9e003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014653,
+            "locality_id":1343659595,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1343659595,
+    "wof:lastmodified":1537620805,
+    "wof:name":"Kafr Halawah",
+    "wof:parent_id":1092014653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24528,
+    29.40306,
+    31.24528,
+    29.40306
+],
+  "geometry": {"coordinates":[31.24528,29.40306],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276130323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.11048,30.70808,30.11048,30.70808",
+    "geom:latitude":30.70808,
+    "geom:longitude":30.11048,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Abd al `Azim Abu al `Ata",
+    "gn:country_code":"EG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408922,
+    "gn:latitude":30.70808,
+    "gn:longitude":30.11048,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Abd al \u2018Az\u0327\u012bm Ab\u016b al \u2018A\u0163\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Abd el-\u2018Az\u00eem Abu el-\u2018A\u1e6da",
+        "\u2018Abd al \u2018Az\u0327\u012bm Ab\u016b al \u2018A\u0163\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408922
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c691919008ef44cd5670ac3f8b335725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1276130323,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276130323,
+    "wof:lastmodified":1537620966,
+    "wof:name":"`Abd al `Azim Abu al `Ata",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.11048,
+    30.70808,
+    30.11048,
+    30.70808
+],
+  "geometry": {"coordinates":[30.11048,30.70808],"type":"Point"}
+}

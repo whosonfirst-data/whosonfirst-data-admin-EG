@@ -1,0 +1,72 @@
+{
+  "id": 1242778303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65401,29.25768,30.65401,29.25768",
+    "geom:latitude":29.25768,
+    "geom:longitude":30.65401,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat al Wanaysah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360473,
+    "gn:latitude":29.25768,
+    "gn:longitude":30.65401,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al Wan\u0101ysah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Wan\u00e2ysa",
+        "Al Wan\u0101\u2019isah",
+        "\u2018Izbat al Wan\u0101ysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360473
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2506319b50d3fde931009d0c1d4c5372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1242778303,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1242778303,
+    "wof:lastmodified":1537620878,
+    "wof:name":"`Izbat al Wanaysah",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65401,
+    29.25768,
+    30.65401,
+    29.25768
+],
+  "geometry": {"coordinates":[30.65401,29.25768],"type":"Point"}
+}

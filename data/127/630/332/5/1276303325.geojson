@@ -1,0 +1,67 @@
+{
+  "id": 1276303325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.36225,30.37524,31.36225,30.37524",
+    "geom:latitude":30.37524,
+    "geom:longitude":31.36225,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nabtit",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351697,
+    "gn:latitude":30.37524,
+    "gn:longitude":31.36225,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nabt\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351697
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"900e8426b8daa59c28b01ca2ae215e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022165,
+            "locality_id":1276303325,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276303325,
+    "wof:lastmodified":1536818135,
+    "wof:name":"Nabtit",
+    "wof:parent_id":1092022165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.36225,
+    30.37524,
+    31.36225,
+    30.37524
+],
+  "geometry": {"coordinates":[31.36225,30.37524],"type":"Point"}
+}

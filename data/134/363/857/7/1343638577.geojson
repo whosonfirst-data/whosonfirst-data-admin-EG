@@ -1,0 +1,71 @@
+{
+  "id": 1343638577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35645,30.29898,31.35645,30.29898",
+    "geom:latitude":30.29898,
+    "geom:longitude":31.35645,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Arab Juhaynah wa as Sawalih",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360223,
+    "gn:latitude":30.29898,
+    "gn:longitude":31.35645,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Arab Juhaynah wa a\u015f \u015eaw\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Arab Giheina Wa el-Saw\u00e2li\u1e25",
+        "\u2018Arab Juhaynah wa a\u015f \u015eaw\u0101li\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092018143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360223
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7cc6307f8fea6ce6bf9ec7ffdc06314a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018143,
+            "locality_id":1343638577,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1343638577,
+    "wof:lastmodified":1537620871,
+    "wof:name":"`Arab Juhaynah wa as Sawalih",
+    "wof:parent_id":1092018143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35645,
+    30.29898,
+    31.35645,
+    30.29898
+],
+  "geometry": {"coordinates":[31.35645,30.29898],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226625137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47101,30.53407,31.47101,30.53407",
+    "geom:latitude":30.53407,
+    "geom:longitude":31.47101,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tarut",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347433,
+    "gn:latitude":30.53407,
+    "gn:longitude":31.47101,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162\u0101r\u016b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162\u0101r\u016b\u0163"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0627\u0631\u0648\u0637"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347433
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e7e5c01589d429b8694c3246268f2729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1226625137,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226625137,
+    "wof:lastmodified":1537620558,
+    "wof:name":"Tarut",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47101,
+    30.53407,
+    31.47101,
+    30.53407
+],
+  "geometry": {"coordinates":[31.47101,30.53407],"type":"Point"}
+}

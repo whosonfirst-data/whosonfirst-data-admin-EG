@@ -1,0 +1,67 @@
+{
+  "id": 1276228111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70883,29.17555,30.70883,29.17555",
+    "geom:latitude":29.17555,
+    "geom:longitude":30.70883,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Muhammadayn",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434262,
+    "gn:latitude":29.17555,
+    "gn:longitude":30.70883,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Mu\u1e29ammadayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434262
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"358dd5c9f9b75d9de433d0a81ee085cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1276228111,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1276228111,
+    "wof:lastmodified":1536920447,
+    "wof:name":"`Izbat Muhammadayn",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70883,
+    29.17555,
+    30.70883,
+    29.17555
+],
+  "geometry": {"coordinates":[30.70883,29.17555],"type":"Point"}
+}

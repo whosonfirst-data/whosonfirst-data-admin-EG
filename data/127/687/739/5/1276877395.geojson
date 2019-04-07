@@ -1,0 +1,74 @@
+{
+  "id": 1276877395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09736,30.95535,31.09736,30.95535",
+    "geom:latitude":30.95535,
+    "geom:longitude":31.09736,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dinushar",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358137,
+    "gn:latitude":30.95535,
+    "gn:longitude":31.09736,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Din\u016bshar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0646\u0648\u0634\u0631"
+    ],
+    "name:und_x_variant":[
+        "Din\u00fbshar",
+        "Din\u016bshar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358137
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"760b954b7f2c28a2c1ab0d95b9e703fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1276877395,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1276877395,
+    "wof:lastmodified":1537620808,
+    "wof:name":"Dinushar",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09736,
+    30.95535,
+    31.09736,
+    30.95535
+],
+  "geometry": {"coordinates":[31.09736,30.95535],"type":"Point"}
+}

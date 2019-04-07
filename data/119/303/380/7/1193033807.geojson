@@ -1,0 +1,72 @@
+{
+  "id": 1193033807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.39,30.89889,31.39,30.89889",
+    "geom:latitude":30.89889,
+    "geom:longitude":31.39,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr Mit Ghurab",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354177,
+    "gn:latitude":30.89889,
+    "gn:longitude":31.39,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr M\u012bt Ghur\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr M\u00eet Ghur\u00e2b",
+        "Kafr M\u012bt Ghur\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354177
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4526a6c69cf1e0aa1a376a7fa8bff600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014439,
+            "locality_id":1193033807,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1193033807,
+    "wof:lastmodified":1537620694,
+    "wof:name":"Kafr Mit Ghurab",
+    "wof:parent_id":1092014439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.39,
+    30.89889,
+    31.39,
+    30.89889
+],
+  "geometry": {"coordinates":[31.39,30.89889],"type":"Point"}
+}

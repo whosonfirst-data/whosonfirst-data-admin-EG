@@ -1,0 +1,74 @@
+{
+  "id": 1242679763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99528,31.10376,29.99528,31.10376",
+    "geom:latitude":31.10376,
+    "geom:longitude":29.99528,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryah Thalathah/Sittah",
+    "gn:country_code":"EG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8361212,
+    "gn:latitude":31.10376,
+    "gn:longitude":29.99528,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Qaryah Thal\u0101thah/Sittah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0666/\u0663"
+    ],
+    "name:und_x_variant":[
+        "Qaryah Thal\u0101thah/Sittah",
+        "Qaryah 3/6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361212
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"09bbebd226faf9f101031c0710f815d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1242679763,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242679763,
+    "wof:lastmodified":1537621193,
+    "wof:name":"Qaryah Thalathah/Sittah",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99528,
+    31.10376,
+    29.99528,
+    31.10376
+],
+  "geometry": {"coordinates":[29.99528,31.10376],"type":"Point"}
+}

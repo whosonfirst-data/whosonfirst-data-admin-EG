@@ -1,0 +1,71 @@
+{
+  "id": 1276846707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26819,27.15878,31.26819,27.15878",
+    "geom:latitude":27.15878,
+    "geom:longitude":31.26819,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Ash Shaghabah",
+    "gn:country_code":"EG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360037,
+    "gn:latitude":27.15878,
+    "gn:longitude":31.26819,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shaghabah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Shaghaba",
+        "Ash Shaghabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092017669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360037
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d152f18037d34d08250df18ae35d2ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017669,
+            "locality_id":1276846707,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1276846707,
+    "wof:lastmodified":1537620864,
+    "wof:name":"Ash Shaghabah",
+    "wof:parent_id":1092017669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26819,
+    27.15878,
+    31.26819,
+    27.15878
+],
+  "geometry": {"coordinates":[31.26819,27.15878],"type":"Point"}
+}

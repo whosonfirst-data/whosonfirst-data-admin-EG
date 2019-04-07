@@ -1,0 +1,88 @@
+{
+  "id": 890418011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14766,31.31146,31.14766,31.31146",
+    "geom:latitude":31.31146,
+    "geom:longitude":31.14766,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":45798,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u0101m\u016bl"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0627\u0645\u0648\u0644"
+    ],
+    "name:dut_x_preferred":[
+        "Al Hamool"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hamool"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u043c\u0443\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Markaz al \u1e28\u0101m\u016bl"
+    ],
+    "name:unk_x_variant":[
+        "El-\u1e24\u00e2m\u00fbl"
+    ],
+    "qs:name":"Al \u1e28\u0101m\u016bl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361213,
+        "gp:id":1522943,
+        "qs:id":547937,
+        "wd:id":"Q4703973"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051231,
+    "wof:geomhash":"56c4775313a0c67c63a001e23ed1bf8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017993,
+            "locality_id":890418011,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":890418011,
+    "wof:lastmodified":1513956657,
+    "wof:name":"Al \u1e28\u0101m\u016bl",
+    "wof:parent_id":1092017993,
+    "wof:placetype":"locality",
+    "wof:population":45798,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14766,
+    31.31146,
+    31.14766,
+    31.31146
+],
+  "geometry": {"coordinates":[31.14766,31.31146],"type":"Point"}
+}

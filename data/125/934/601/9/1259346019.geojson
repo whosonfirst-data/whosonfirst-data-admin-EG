@@ -1,0 +1,71 @@
+{
+  "id": 1259346019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96766,29.10784,30.96766,29.10784",
+    "geom:latitude":29.10784,
+    "geom:longitude":30.96766,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Sharahi",
+    "gn:country_code":"EG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349353,
+    "gn:latitude":29.10784,
+    "gn:longitude":30.96766,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sharah\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharh\u0101",
+        "Sharah\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092014481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349353
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0091b2a23901e05f8cf52cc8f1dba852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014481,
+            "locality_id":1259346019,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1259346019,
+    "wof:lastmodified":1537620579,
+    "wof:name":"Sharahi",
+    "wof:parent_id":1092014481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96766,
+    29.10784,
+    30.96766,
+    29.10784
+],
+  "geometry": {"coordinates":[30.96766,29.10784],"type":"Point"}
+}

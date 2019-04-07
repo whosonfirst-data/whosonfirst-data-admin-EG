@@ -1,0 +1,75 @@
+{
+  "id": 1344040909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.49524,30.80335,31.49524,30.80335",
+    "geom:latitude":30.80335,
+    "geom:longitude":31.49524,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"As Saniyah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359851,
+    "gn:latitude":30.80335,
+    "gn:longitude":31.49524,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"A\u015f \u015e\u0101niyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u0646\u0649\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e62\u00e2nya",
+        "A\u015f \u015e\u0101niyah",
+        "A\u1e63-\u1e62\u0101nyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359851
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"681573998c0f22d6cb84dc4cd9b55a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1344040909,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1344040909,
+    "wof:lastmodified":1537620852,
+    "wof:name":"As Saniyah",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.49524000000001,
+    30.80335,
+    31.49524000000001,
+    30.80335
+],
+  "geometry": {"coordinates":[31.49524000000001,30.80335],"type":"Point"}
+}

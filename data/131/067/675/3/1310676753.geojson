@@ -1,0 +1,71 @@
+{
+  "id": 1310676753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9069,29.05211,30.9069,29.05211",
+    "geom:latitude":29.05211,
+    "geom:longitude":30.9069,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Minshat al Hajj",
+    "gn:country_code":"EG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352433,
+    "gn:latitude":29.05211,
+    "gn:longitude":30.9069,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Minsh\u0101t al \u1e28\u0101jj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minsh\u00e2t el H\u00e2gg",
+        "Minsh\u0101t al \u1e28\u0101jj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092014481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352433
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"53e175456252a148a4585f3dc86f82e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014481,
+            "locality_id":1310676753,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1310676753,
+    "wof:lastmodified":1537620654,
+    "wof:name":"Minshat al Hajj",
+    "wof:parent_id":1092014481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9069,
+    29.05211,
+    30.9069,
+    29.05211
+],
+  "geometry": {"coordinates":[30.9069,29.05211],"type":"Point"}
+}

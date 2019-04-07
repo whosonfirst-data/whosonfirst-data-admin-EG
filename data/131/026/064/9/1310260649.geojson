@@ -1,0 +1,72 @@
+{
+  "id": 1310260649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00446,26.29452,32.00446,26.29452",
+    "geom:latitude":26.29452,
+    "geom:longitude":32.00446,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Mazatah Sharq",
+    "gn:country_code":"EG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352563,
+    "gn:latitude":26.29452,
+    "gn:longitude":32.00446,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maz\u0101tah Sharq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mas\u00e2ta",
+        "Maz\u00e2ta Sharq",
+        "Maz\u0101tah Sharq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092015947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352563
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"acc6b4dffba4a5c1f89c806d2f3db298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015947,
+            "locality_id":1310260649,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1310260649,
+    "wof:lastmodified":1537620656,
+    "wof:name":"Mazatah Sharq",
+    "wof:parent_id":1092015947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00445999999999,
+    26.29452,
+    32.00445999999999,
+    26.29452
+],
+  "geometry": {"coordinates":[32.00445999999999,26.29452],"type":"Point"}
+}

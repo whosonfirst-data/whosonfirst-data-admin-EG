@@ -1,0 +1,76 @@
+{
+  "id": 1327233407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46634,30.98519,30.46634,30.98519",
+    "geom:latitude":30.98519,
+    "geom:longitude":30.46634,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kafr Santis",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354052,
+    "gn:latitude":30.98519,
+    "gn:longitude":30.46634,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Kafr San\u0163\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0633\u0646\u0637\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kafr Sun\u1e6deis",
+        "Kafr Sun\u0163ays",
+        "Kafr San\u0163\u012bs",
+        "Kafr San\u1e6d\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092015921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354052
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3ab571d97098ed488f5d57a0ccd05be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015921,
+            "locality_id":1327233407,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327233407,
+    "wof:lastmodified":1537620685,
+    "wof:name":"Kafr Santis",
+    "wof:parent_id":1092015921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46634,
+    30.98519000000001,
+    30.46634,
+    30.98519000000001
+],
+  "geometry": {"coordinates":[30.46634,30.98519000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226723981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94986,31.1087,30.94986,31.1087",
+    "geom:latitude":31.1087,
+    "geom:longitude":30.94986,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Mit `Ilwan",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352165,
+    "gn:latitude":31.1087,
+    "gn:longitude":30.94986,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"M\u012bt \u2018Ilw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0639\u0644\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "M\u012bt \u2018Ilw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352165,
+        "wk:page":"Mit_Elwan"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"68f20d07e1cbe431c2f1c3e7afd4ea61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1226723981,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1226723981,
+    "wof:lastmodified":1537620637,
+    "wof:name":"Mit `Ilwan",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94986,
+    31.1087,
+    30.94986,
+    31.1087
+],
+  "geometry": {"coordinates":[30.94986,31.1087],"type":"Point"}
+}

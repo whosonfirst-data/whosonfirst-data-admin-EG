@@ -1,0 +1,65 @@
+{
+  "id": 1209177775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.89232,27.36036,30.89232,27.36036",
+    "geom:latitude":27.36036,
+    "geom:longitude":30.89232,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bani Rafi`",
+    "gn:country_code":"EG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359194,
+    "gn:latitude":27.36036,
+    "gn:longitude":30.89232,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ban\u012b R\u0101fi\u2018",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beni R\u00e2fi\u2018",
+        "Ban\u012b R\u0101fi\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359194
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3bab0b973b6caacfaa60465575c4a245",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209177775
+        }
+    ],
+    "wof:id":1209177775,
+    "wof:lastmodified":1537620829,
+    "wof:name":"Bani Rafi`",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89232,
+    27.36036,
+    30.89232,
+    27.36036
+],
+  "geometry": {"coordinates":[30.89232,27.36036],"type":"Point"}
+}

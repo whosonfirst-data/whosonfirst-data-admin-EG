@@ -1,0 +1,76 @@
+{
+  "id": 1310410743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.04533,31.03283,31.04533,31.03283",
+    "geom:latitude":31.03283,
+    "geom:longitude":31.04533,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr Quraytinah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354134,
+    "gn:latitude":31.03283,
+    "gn:longitude":31.04533,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Kafr Quray\u0163inah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0642\u0631\u064a\u0637\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr Qirei\u1e6dna",
+        "Kafr Quray\u0163inah",
+        "Kafr Qiray\u1e6dnah",
+        "Kafr Qiray\u0163nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354134
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"733ae23f4fc017f4c1eb2399050d7f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1310410743,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1310410743,
+    "wof:lastmodified":1537620691,
+    "wof:name":"Kafr Quraytinah",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04533,
+    31.03283,
+    31.04533,
+    31.03283
+],
+  "geometry": {"coordinates":[31.04533,31.03283],"type":"Point"}
+}

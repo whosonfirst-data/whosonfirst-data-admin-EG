@@ -1,0 +1,73 @@
+{
+  "id": 1243346825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.62453,30.65641,31.62453,30.65641",
+    "geom:latitude":30.65641,
+    "geom:longitude":31.62453,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Barhum",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069918,
+    "gn:latitude":30.65641,
+    "gn:longitude":31.62453,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Barh\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0628\u0631\u0647\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Barh\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069918
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8cff50efc3b52d54da13dbe5bec26769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021319,
+            "locality_id":1243346825,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1243346825,
+    "wof:lastmodified":1537621175,
+    "wof:name":"`Izbat Barhum",
+    "wof:parent_id":1092021319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.62453,
+    30.65641,
+    31.62453,
+    30.65641
+],
+  "geometry": {"coordinates":[31.62453,30.65641],"type":"Point"}
+}

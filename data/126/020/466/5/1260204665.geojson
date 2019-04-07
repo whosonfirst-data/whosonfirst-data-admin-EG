@@ -1,0 +1,67 @@
+{
+  "id": 1260204665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.95472,30.54,31.95472,30.54",
+    "geom:latitude":30.54,
+    "geom:longitude":31.95472,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"`Ezbet Abu el-Suba",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357669,
+    "gn:latitude":30.54,
+    "gn:longitude":31.95472,
+    "gn:modification_date":"1997-09-22",
+    "gn:name":"\u2018Ezbet Abu el-S\u00fbba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092020039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357669
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"588b25de0f4d5252a39bc971052f5b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020039,
+            "locality_id":1260204665,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1260204665,
+    "wof:lastmodified":1536818125,
+    "wof:name":"`Ezbet Abu el-Suba",
+    "wof:parent_id":1092020039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.95472,
+    30.54,
+    31.95472,
+    30.54
+],
+  "geometry": {"coordinates":[31.95472,30.54],"type":"Point"}
+}

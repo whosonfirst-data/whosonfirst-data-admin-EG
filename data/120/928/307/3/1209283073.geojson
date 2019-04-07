@@ -1,0 +1,65 @@
+{
+  "id": 1209283073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77918,25.94805,32.77918,25.94805",
+    "geom:latitude":25.94805,
+    "geom:longitude":32.77918,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Hirajiyah",
+    "gn:country_code":"EG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361144,
+    "gn:latitude":25.94805,
+    "gn:longitude":32.77918,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ir\u0101j\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El \u1e24iragiya",
+        "Al \u1e28ir\u0101j\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361144
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b527907b6cc935ebfd29ef4642d9e0db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209283073
+        }
+    ],
+    "wof:id":1209283073,
+    "wof:lastmodified":1537620917,
+    "wof:name":"Al Hirajiyah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77918,
+    25.94805,
+    32.77918,
+    25.94805
+],
+  "geometry": {"coordinates":[32.77918,25.94805],"type":"Point"}
+}

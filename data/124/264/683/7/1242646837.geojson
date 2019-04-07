@@ -1,0 +1,72 @@
+{
+  "id": 1242646837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9,24.4,32.9,24.4",
+    "geom:latitude":24.4,
+    "geom:longitude":32.9,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Nuju` ar Raqabah",
+    "gn:country_code":"EG",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350957,
+    "gn:latitude":24.4,
+    "gn:longitude":32.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nuj\u016b\u2018 ar Raqabah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naq\u00fb el Raqaba",
+        "Nug\u00fb\u2018 el-Raqaba",
+        "Nuj\u016b\u2018 ar Raqabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350957
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5770519c33fbabbf488e5d1bc2d88d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016115,
+            "locality_id":1242646837,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1242646837,
+    "wof:lastmodified":1537620601,
+    "wof:name":"Nuju` ar Raqabah",
+    "wof:parent_id":1092016115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9,
+    24.4,
+    32.9,
+    24.4
+],
+  "geometry": {"coordinates":[32.9,24.4],"type":"Point"}
+}

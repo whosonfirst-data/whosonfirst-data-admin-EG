@@ -1,0 +1,74 @@
+{
+  "id": 1327118849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.99459,30.4631,30.99459,30.4631",
+    "geom:latitude":30.4631,
+    "geom:longitude":30.99459,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mit Rabi`ah",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352134,
+    "gn:latitude":30.4631,
+    "gn:longitude":30.99459,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"M\u012bt Rab\u012b\u2018ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0631\u0628\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet Rab\u00ee\u2018a",
+        "M\u012bt Rab\u012b\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092022369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352134
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e14b7b5d13475b8b3957432053861cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022369,
+            "locality_id":1327118849,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1327118849,
+    "wof:lastmodified":1537620635,
+    "wof:name":"Mit Rabi`ah",
+    "wof:parent_id":1092022369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.99459,
+    30.4631,
+    30.99459,
+    30.4631
+],
+  "geometry": {"coordinates":[30.99459,30.4631],"type":"Point"}
+}

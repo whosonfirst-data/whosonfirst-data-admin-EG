@@ -1,0 +1,75 @@
+{
+  "id": 1310064725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79346,31.09793,30.79346,31.09793",
+    "geom:latitude":31.09793,
+    "geom:longitude":30.79346,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Shabas `Umayyir",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349472,
+    "gn:latitude":31.09793,
+    "gn:longitude":30.79346,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Shab\u0101s \u2018Umayyir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u0627\u0633 \u0639\u0645\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Shab\u0101s \u2018Umayr",
+        "Shab\u00e2s \u2018Imeir",
+        "Shab\u0101s \u2018Umayyir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349472
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8ddf0b33ac15825c346184a1a2dc6f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021829,
+            "locality_id":1310064725,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1310064725,
+    "wof:lastmodified":1537620581,
+    "wof:name":"Shabas `Umayyir",
+    "wof:parent_id":1092021829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79346,
+    31.09793,
+    30.79346,
+    31.09793
+],
+  "geometry": {"coordinates":[30.79346,31.09793],"type":"Point"}
+}

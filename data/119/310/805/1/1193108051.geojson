@@ -1,0 +1,75 @@
+{
+  "id": 1193108051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.69004,30.78394,31.69004,30.78394",
+    "geom:latitude":30.78394,
+    "geom:longitude":31.69004,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Munsha'at Radwan",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352373,
+    "gn:latitude":30.78394,
+    "gn:longitude":31.69004,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Munsha\u2019at Ra\u1e11w\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u0631\u0636\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Minsh\u00e2t Ra\u1e0dw\u00e2h",
+        "Minsh\u0101t Ri\u1e11w\u0101n",
+        "Munsha\u2019at Ra\u1e11w\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352373
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d7bc837ad2d08e3a1378f99b4be43bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014175,
+            "locality_id":1193108051,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1193108051,
+    "wof:lastmodified":1537620649,
+    "wof:name":"Munsha'at Radwan",
+    "wof:parent_id":1092014175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.69004,
+    30.78394,
+    31.69004,
+    30.78394
+],
+  "geometry": {"coordinates":[31.69004,30.78394],"type":"Point"}
+}

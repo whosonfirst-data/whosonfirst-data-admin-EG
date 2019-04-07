@@ -1,0 +1,79 @@
+{
+  "id": 1259884563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14127,30.89266,31.14127,30.89266",
+    "geom:latitude":30.89266,
+    "geom:longitude":31.14127,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat al Insha",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560854,
+    "gn:latitude":30.89266,
+    "gn:longitude":31.14127,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat al Insh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0627\u0646\u0634\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0636\u0627\u0631\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Insh\u0101",
+        "\u2018Izbat al-Insh\u0101",
+        "Al Kha\u1e11\u0101rwah",
+        "Al-Kha\u1e0d\u0101riwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560854
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ca054c4cb118c35031cebc5cd33a307e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1259884563,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1259884563,
+    "wof:lastmodified":1537621212,
+    "wof:name":"`Izbat al Insha",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14127,
+    30.89266,
+    31.14127,
+    30.89266
+],
+  "geometry": {"coordinates":[31.14127,30.89266],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276770543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28005,31.15164,30.28005,31.15164",
+    "geom:latitude":31.15164,
+    "geom:longitude":30.28005,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Basha",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361740,
+    "gn:latitude":31.15164,
+    "gn:longitude":30.28005,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u2018Izbat al B\u0101sh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u0627\u0634\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet A\u1e25mad Sulim\u00e2n Pasha el-Ba\u1e25ar\u00eeya",
+        "\u2018Izbat A\u1e29mad Sulaym\u0101n B\u0101sh\u0101 al Ba\u1e29r\u012byah",
+        "\u2018Izbat al B\u0101sh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361740
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b9948ff2874a457c7750db398cde2bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1276770543,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276770543,
+    "wof:lastmodified":1537620950,
+    "wof:name":"`Izbat al Basha",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28005,
+    31.15164,
+    30.28005,
+    31.15164
+],
+  "geometry": {"coordinates":[30.28005,31.15164],"type":"Point"}
+}

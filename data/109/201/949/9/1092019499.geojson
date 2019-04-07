@@ -1,0 +1,93 @@
+{
+  "id": 1092019499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000549,
+    "geom:area_square_m":5871402.763246,
+    "geom:bbox":"31.230103493,30.079675,31.257293,30.1083590007",
+    "geom:latitude":30.093245,
+    "geom:longitude":31.246187,
+    "iso:country":"EG",
+    "lbl:latitude":30.09325,
+    "lbl:longitude":31.246187,
+    "meso:admin_1":"Cairo",
+    "meso:diss_me":"El-SahelCairo",
+    "meso:gadm_admin":"As-Sajil",
+    "meso:gadm_hasc2":"EG.QH.SL",
+    "meso:gaul_admin":"Al Sahil",
+    "meso:mps_x":31.244396,
+    "meso:mps_y":30.094183,
+    "meso:name_en":"El-Sahel",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.09325,
+    "mps:longitude":31.246187,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "As-Sajil"
+    ],
+    "name:eng_x_variant":[
+        "Al Sahil",
+        "As-Sajil"
+    ],
+    "src:geom":"whosonfirst",
+    "src:geom_via":"meso",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.QH",
+    "statoids:name":"As-Sajil",
+    "statoids:population":"305322",
+    "statoids:statoid":"EG.QH.SL",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.QH.SL"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897326,
+    "wof:geomhash":"2bf9ea35dbc94c7345f7ccbce889c991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019499,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1092019499,
+    "wof:lastmodified":1541791496,
+    "wof:name":"El-Sahel",
+    "wof:parent_id":85670999,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":305322,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"SL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.230103492981147,
+    30.079675,
+    31.257293,
+    30.108359000742624
+],
+  "geometry": {"coordinates":[[[31.25711045802045,30.10835900074262],[31.257155,30.104851],[31.257215,30.102803],[31.25723,30.100769],[31.257293,30.098501],[31.257194,30.095867],[31.257158,30.090967],[31.25705,30.087959],[31.256482,30.083071],[31.256331,30.081785],[31.252664,30.082215],[31.252189,30.081187],[31.251289,30.080056],[31.250812,30.079675],[31.248254,30.080221],[31.246229,30.080595],[31.24561,30.080729],[31.237921,30.082392],[31.234559,30.083398],[31.235509,30.08527],[31.232367,30.086159],[31.231058,30.086383],[31.23010349298115,30.08655666913689],[31.23197245679902,30.09167459365517],[31.23650018106699,30.09826310447958],[31.23937436488835,30.10280896720436],[31.24120812521246,30.10466221269097],[31.24353781893301,30.10530166428359],[31.24831804457814,30.10637418845582],[31.25371362085066,30.1078960899735],[31.25711045802045,30.10835900074262]]],"type":"Polygon"}
+}

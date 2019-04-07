@@ -1,0 +1,71 @@
+{
+  "id": 1226417011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78593,31.41597,31.78593,31.41597",
+    "geom:latitude":31.41597,
+    "geom:longitude":31.78593,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"As Sinaniyah",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359817,
+    "gn:latitude":31.41597,
+    "gn:longitude":31.78593,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sin\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Sin\u00e2n\u00eeya",
+        "As Sin\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092021673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359817
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7d7d2f02efec6ddc20527dd546b25089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021673,
+            "locality_id":1226417011,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1226417011,
+    "wof:lastmodified":1537620850,
+    "wof:name":"As Sinaniyah",
+    "wof:parent_id":1092021673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78593,
+    31.41597,
+    31.78593,
+    31.41597
+],
+  "geometry": {"coordinates":[31.78593,31.41597],"type":"Point"}
+}

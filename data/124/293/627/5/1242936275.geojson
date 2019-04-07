@@ -1,0 +1,71 @@
+{
+  "id": 1242936275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93133,29.11804,30.93133,29.11804",
+    "geom:latitude":29.11804,
+    "geom:longitude":30.93133,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Minshat al Umara'",
+    "gn:country_code":"EG",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352424,
+    "gn:latitude":29.11804,
+    "gn:longitude":30.93133,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Minsh\u0101t al Umar\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minsh\u00e2t el Umara",
+        "Minsh\u0101t al Umar\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092014481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352424
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d6830ec06d1562e9816d0196d3272114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014481,
+            "locality_id":1242936275,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1242936275,
+    "wof:lastmodified":1537620653,
+    "wof:name":"Minshat al Umara'",
+    "wof:parent_id":1092014481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93133,
+    29.11804,
+    30.93133,
+    29.11804
+],
+  "geometry": {"coordinates":[30.93133,29.11804],"type":"Point"}
+}

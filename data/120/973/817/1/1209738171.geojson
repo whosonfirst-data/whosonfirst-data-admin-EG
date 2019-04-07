@@ -1,0 +1,76 @@
+{
+  "id": 1209738171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10254,30.99905,31.10254,30.99905",
+    "geom:latitude":30.99905,
+    "geom:longitude":31.10254,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat al Jabriyah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361038,
+    "gn:latitude":30.99905,
+    "gn:longitude":31.10254,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"\u2018Izbat al Jabr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062c\u0628\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-G\u00e2bir\u00eeya",
+        "Al J\u0101bir\u012byah",
+        "\u2018Izbat al Jabr\u012byah",
+        "\u2018Izbat al-Jabriyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361038
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"815f8c1a531186b0401f59ac1d637600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1209738171,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1209738171,
+    "wof:lastmodified":1537620912,
+    "wof:name":"`Izbat al Jabriyah",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.10254,
+    30.99905,
+    31.10254,
+    30.99905
+],
+  "geometry": {"coordinates":[31.10254,30.99905],"type":"Point"}
+}

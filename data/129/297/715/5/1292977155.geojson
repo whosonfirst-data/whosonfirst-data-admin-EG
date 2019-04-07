@@ -1,0 +1,72 @@
+{
+  "id": 1292977155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08333,27.2,31.08333,27.2",
+    "geom:latitude":27.2,
+    "geom:longitude":31.08333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Hadaya",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361266,
+    "gn:latitude":27.2,
+    "gn:longitude":31.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Had\u0101y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Had\u00e2ya",
+        "Al Had\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361266
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e76ab8534e9869a31c3a9d96d3662392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014633,
+            "locality_id":1292977155,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1292977155,
+    "wof:lastmodified":1537620926,
+    "wof:name":"Al Hadaya",
+    "wof:parent_id":1092014633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08333,
+    27.2,
+    31.08333,
+    27.2
+],
+  "geometry": {"coordinates":[31.08333,27.2],"type":"Point"}
+}

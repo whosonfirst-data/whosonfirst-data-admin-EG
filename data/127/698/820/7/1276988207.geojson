@@ -1,0 +1,76 @@
+{
+  "id": 1276988207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.10098,31.16886,30.10098,31.16886",
+    "geom:latitude":31.16886,
+    "geom:longitude":30.10098,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Abu Salih",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362170,
+    "gn:latitude":31.16886,
+    "gn:longitude":30.10098,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat Ab\u016b \u015e\u0101li\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0635\u0627\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Abu \u1e62ali\u1e25",
+        "\u2018Ezbet \u2018Ali Pasha Yi\u1e25ya",
+        "\u2018Izbat Ab\u016b \u015e\u0101li\u1e29",
+        "\u2018Izbat Ab\u016b \u1e62\u0101lih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362170
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9a908e6136ac962273459f7fb90fa81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1276988207,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276988207,
+    "wof:lastmodified":1537620958,
+    "wof:name":"`Izbat Abu Salih",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.10098,
+    31.16886,
+    30.10098,
+    31.16886
+],
+  "geometry": {"coordinates":[30.10098,31.16886],"type":"Point"}
+}

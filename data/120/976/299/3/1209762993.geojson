@@ -1,0 +1,80 @@
+{
+  "id": 1209762993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65432,25.71799,32.65432,25.71799",
+    "geom:latitude":25.71799,
+    "geom:longitude":32.65432,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Al Karnak",
+    "gn:country_code":"EG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360964,
+    "gn:latitude":25.71799,
+    "gn:longitude":32.65432,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Al Karnak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0646\u0643"
+    ],
+    "name:spa_x_preferred":[
+        "Karnak"
+    ],
+    "name:und_x_variant":[
+        "El Kharn\u00e2k",
+        "El Karnak",
+        "Al Karnak",
+        "Karnak",
+        "Al-Karnak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671097,
+        1092018839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360964
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"67e17741a12ad4d0184f16b5b329dd28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018839,
+            "locality_id":1209762993,
+            "region_id":85671097
+        }
+    ],
+    "wof:id":1209762993,
+    "wof:lastmodified":1537620907,
+    "wof:name":"Al Karnak",
+    "wof:parent_id":1092018839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65432,
+    25.71799,
+    32.65432,
+    25.71799
+],
+  "geometry": {"coordinates":[32.65432,25.71799],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343905597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.19227,31.04915,34.19227,31.04915",
+    "geom:latitude":31.04915,
+    "geom:longitude":34.19227,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Masafiq al `Izz",
+    "gn:country_code":"EG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6413241,
+    "gn:latitude":31.04915,
+    "gn:longitude":34.19227,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Ma\u015f\u0101fiq al \u2018Izz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u0627\u0641\u0642 \u0627\u0644\u0639\u0632"
+    ],
+    "name:und_x_variant":[
+        "Ma\u015f\u0101fiq al \u2018Izz",
+        "Ma\u015f\u0101faq al \u2018Az",
+        "Ma\u015f\u0101fig el \u2018Izz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092019921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6413241
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e16c4950512df9521e9fcd1d438a6aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019921,
+            "locality_id":1343905597,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1343905597,
+    "wof:lastmodified":1537621134,
+    "wof:name":"Masafiq al `Izz",
+    "wof:parent_id":1092019921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.19227,
+    31.04915,
+    34.19227,
+    31.04915
+],
+  "geometry": {"coordinates":[34.19227,31.04915],"type":"Point"}
+}

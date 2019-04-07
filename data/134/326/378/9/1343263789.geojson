@@ -1,0 +1,74 @@
+{
+  "id": 1343263789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.41885,31.2694,30.41885,31.2694",
+    "geom:latitude":31.2694,
+    "geom:longitude":30.41885,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Manshiyat al Ghani",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415073,
+    "gn:latitude":31.2694,
+    "gn:longitude":30.41885,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Mansh\u012byat al Ghan\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0627\u0644\u063a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Mansh\u012byat al Ghan\u012b",
+        "Manshiyyat al Ghan\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092023921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415073
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"840eb8dd7c685bf5fe956fcda0ee72e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023921,
+            "locality_id":1343263789,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343263789,
+    "wof:lastmodified":1537620978,
+    "wof:name":"Manshiyat al Ghani",
+    "wof:parent_id":1092023921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.41885,
+    31.2694,
+    30.41885,
+    31.2694
+],
+  "geometry": {"coordinates":[30.41885,31.2694],"type":"Point"}
+}

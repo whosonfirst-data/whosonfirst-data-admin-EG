@@ -1,0 +1,73 @@
+{
+  "id": 1292998267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.93683,31.08862,29.93683,31.08862",
+    "geom:latitude":31.08862,
+    "geom:longitude":29.93683,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"`Ilwat ash Shaykh Sa`id",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8365057,
+    "gn:latitude":31.08862,
+    "gn:longitude":29.93683,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"\u2018Ilwat ash Shaykh Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0648\u0629 \u0627\u0644\u0634\u064a\u062e \u0633\u0639\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ilwat ash Shaykh Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8365057
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5031aa8fec7ca9b29cd77e7fc05d181f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":1292998267,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1292998267,
+    "wof:lastmodified":1537621195,
+    "wof:name":"`Ilwat ash Shaykh Sa`id",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.93683,
+    31.08862,
+    29.93683,
+    31.08862
+],
+  "geometry": {"coordinates":[29.93683,31.08862],"type":"Point"}
+}

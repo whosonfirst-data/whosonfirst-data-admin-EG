@@ -1,0 +1,71 @@
+{
+  "id": 1293577487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3,29.9,31.3,29.9",
+    "geom:latitude":29.9,
+    "geom:longitude":31.3,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Al Ma`sarah al Mahattah",
+    "gn:country_code":"EG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360732,
+    "gn:latitude":29.9,
+    "gn:longitude":31.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Ma\u2018\u015farah al Ma\u1e29a\u0163\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ma\u2018\u1e63ara el-Ma\u1e25atta",
+        "Al Ma\u2018\u015farah al Ma\u1e29a\u0163\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092021427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360732
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"57208d86d1cb1369d03e67b67e43a841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021427,
+            "locality_id":1293577487,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1293577487,
+    "wof:lastmodified":1537620894,
+    "wof:name":"Al Ma`sarah al Mahattah",
+    "wof:parent_id":1092021427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3,
+    29.9,
+    31.3,
+    29.9
+],
+  "geometry": {"coordinates":[31.3,29.9],"type":"Point"}
+}

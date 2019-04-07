@@ -1,0 +1,67 @@
+{
+  "id": 1276853241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95,24.43333,32.95,24.43333",
+    "geom:latitude":24.43333,
+    "geom:longitude":32.95,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"`Ezbet el-Isma`iliya",
+    "gn:country_code":"EG",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357468,
+    "gn:latitude":24.43333,
+    "gn:longitude":32.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet el-Isma\u2018iliya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092021927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357468
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c64a58757fa15ffc6ad44f7ff9ea581d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021927,
+            "locality_id":1276853241,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1276853241,
+    "wof:lastmodified":1537073718,
+    "wof:name":"`Ezbet el-Isma`iliya",
+    "wof:parent_id":1092021927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95,
+    24.43333,
+    32.95,
+    24.43333
+],
+  "geometry": {"coordinates":[32.95,24.43333],"type":"Point"}
+}

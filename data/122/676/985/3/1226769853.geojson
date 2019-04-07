@@ -1,0 +1,75 @@
+{
+  "id": 1226769853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25,29.56667,31.25,29.56667",
+    "geom:latitude":29.56667,
+    "geom:longitude":31.25,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Jamalah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361030,
+    "gn:latitude":29.56667,
+    "gn:longitude":31.25,
+    "gn:modification_date":"2017-07-13",
+    "gn:name":"Al Jamalah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0645\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Gamala",
+        "Al Jamalah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092016893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361030
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3f1aaa56ccf9b616cdc639e3a840c829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016893,
+            "locality_id":1226769853,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1226769853,
+    "wof:lastmodified":1537620911,
+    "wof:name":"Al Jamalah",
+    "wof:parent_id":1092016893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25,
+    29.56667,
+    31.25,
+    29.56667
+],
+  "geometry": {"coordinates":[31.25,29.56667],"type":"Point"}
+}

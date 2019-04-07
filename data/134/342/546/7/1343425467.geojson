@@ -1,0 +1,73 @@
+{
+  "id": 1343425467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48986,31.36766,30.48986,31.36766",
+    "geom:latitude":31.36766,
+    "geom:longitude":30.48986,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat at Tababikhah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415015,
+    "gn:latitude":31.36766,
+    "gn:longitude":30.48986,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat a\u0163 \u0162ab\u0101bikhah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0637\u0628\u0627\u0628\u062e\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat a\u0163 \u0162ab\u0101bikhah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415015
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"58d3808a170f3d5dd3dd10881e74f00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1343425467,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1343425467,
+    "wof:lastmodified":1537620974,
+    "wof:name":"`Izbat at Tababikhah",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48986,
+    31.36766,
+    30.48986,
+    31.36766
+],
+  "geometry": {"coordinates":[30.48986,31.36766],"type":"Point"}
+}

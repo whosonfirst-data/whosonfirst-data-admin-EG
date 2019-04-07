@@ -1,0 +1,71 @@
+{
+  "id": 1226299055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38333,26.05,32.38333,26.05",
+    "geom:latitude":26.05,
+    "geom:longitude":32.38333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` ar Rasha'idah",
+    "gn:country_code":"EG",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351454,
+    "gn:latitude":26.05,
+    "gn:longitude":32.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 ar Rash\u0101\u2019idah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 el Rash\u00e2yda",
+        "Naj\u2018 ar Rash\u0101\u2019idah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092022653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351454
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"abf25624d895a108afe47214ca2a114c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022653,
+            "locality_id":1226299055,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1226299055,
+    "wof:lastmodified":1537620622,
+    "wof:name":"Naj` ar Rasha'idah",
+    "wof:parent_id":1092022653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38333,
+    26.05,
+    32.38333,
+    26.05
+],
+  "geometry": {"coordinates":[32.38333,26.05],"type":"Point"}
+}

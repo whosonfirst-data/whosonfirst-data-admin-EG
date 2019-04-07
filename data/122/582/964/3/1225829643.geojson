@@ -1,0 +1,75 @@
+{
+  "id": 1225829643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98789,30.32131,30.98789,30.32131",
+    "geom:latitude":30.32131,
+    "geom:longitude":30.98789,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr `Ata",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354414,
+    "gn:latitude":30.32131,
+    "gn:longitude":30.98789,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kafr \u2018A\u0163\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0639\u0637\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u2018A\u0163\u0101",
+        "Kafr \u2018A\u0163\u0101\u2019",
+        "Kafr \u2018A\u1e6d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354414
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c70b3f75f67ca3ff0a42dfda5555a843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1225829643,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1225829643,
+    "wof:lastmodified":1537620711,
+    "wof:name":"Kafr `Ata",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98789,
+    30.32131,
+    30.98789,
+    30.32131
+],
+  "geometry": {"coordinates":[30.98789,30.32131],"type":"Point"}
+}

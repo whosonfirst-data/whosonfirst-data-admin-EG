@@ -1,0 +1,73 @@
+{
+  "id": 1309815033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.41417,31.28011,30.41417,31.28011",
+    "geom:latitude":31.28011,
+    "geom:longitude":30.41417,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dabbun al Malik",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415060,
+    "gn:latitude":31.28011,
+    "gn:longitude":30.41417,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Dabb\u016bn al Malik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u0648\u0646 \u0627\u0644\u0645\u0644\u0643"
+    ],
+    "name:und_x_variant":[
+        "Dabb\u016bn al Malik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092023921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415060
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2a9a752f4ff8f68c84147deb46fe621a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023921,
+            "locality_id":1309815033,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1309815033,
+    "wof:lastmodified":1537620977,
+    "wof:name":"Dabbun al Malik",
+    "wof:parent_id":1092023921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.41417,
+    31.28011,
+    30.41417,
+    31.28011
+],
+  "geometry": {"coordinates":[30.41417,31.28011],"type":"Point"}
+}

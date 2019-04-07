@@ -1,0 +1,75 @@
+{
+  "id": 1292910949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13709,31.22041,30.13709,31.22041",
+    "geom:latitude":31.22041,
+    "geom:longitude":30.13709,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Ammurah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10495942,
+    "gn:latitude":31.22041,
+    "gn:longitude":30.13709,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"\u2018Amm\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Amm\u016brah",
+        "\u2018Im\u016brah",
+        "\u2018Um\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10495942
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fda60a3c6e0eb8c085b86da58af206bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1292910949,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1292910949,
+    "wof:lastmodified":1537621252,
+    "wof:name":"`Ammurah",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13709,
+    31.22041,
+    30.13709,
+    31.22041
+],
+  "geometry": {"coordinates":[30.13709,31.22041],"type":"Point"}
+}

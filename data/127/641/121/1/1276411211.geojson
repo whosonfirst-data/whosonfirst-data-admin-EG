@@ -1,0 +1,73 @@
+{
+  "id": 1276411211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74972,30.60028,31.74972,30.60028",
+    "geom:latitude":30.60028,
+    "geom:longitude":31.74972,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr al Qamamishah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354571,
+    "gn:latitude":30.60028,
+    "gn:longitude":31.74972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Qam\u0101mishah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el Qamenisha",
+        "Kafr el-Qam\u00e2msha",
+        "Kafr al Qam\u0101mishah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354571
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bf5017a9551e959b6eb70f497a1008e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1276411211,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276411211,
+    "wof:lastmodified":1537620725,
+    "wof:name":"Kafr al Qamamishah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74972,
+    30.60028,
+    31.74972,
+    30.60028
+],
+  "geometry": {"coordinates":[31.74972,30.60028],"type":"Point"}
+}

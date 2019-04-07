@@ -1,0 +1,71 @@
+{
+  "id": 1310656607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47653,26.71583,31.47653,26.71583",
+    "geom:latitude":26.71583,
+    "geom:longitude":31.47653,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Harafishah",
+    "gn:country_code":"EG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361208,
+    "gn:latitude":26.71583,
+    "gn:longitude":31.47653,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ar\u0101fishah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Har\u00e2fsha",
+        "Al \u1e28ar\u0101fishah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092021233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361208
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9ff9ed5af4c70c77f17280e02ccfc5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021233,
+            "locality_id":1310656607,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1310656607,
+    "wof:lastmodified":1537620921,
+    "wof:name":"Al Harafishah",
+    "wof:parent_id":1092021233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47653,
+    26.71583,
+    31.47653,
+    26.71583
+],
+  "geometry": {"coordinates":[31.47653,26.71583],"type":"Point"}
+}

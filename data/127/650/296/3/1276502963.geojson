@@ -1,0 +1,66 @@
+{
+  "id": 1276502963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2,31.56667,26.2,31.56667",
+    "geom:latitude":31.56667,
+    "geom:longitude":26.2,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Al Maktilah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360803,
+    "gn:latitude":31.56667,
+    "gn:longitude":26.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Makt\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Maktila",
+        "Al Makt\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360803
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"78f2331aad10bbff85990cee9595368d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276502963,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276502963,
+    "wof:lastmodified":1537620898,
+    "wof:name":"Al Maktilah",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2,
+    31.56667,
+    26.2,
+    31.56667
+],
+  "geometry": {"coordinates":[26.2,31.56667],"type":"Point"}
+}

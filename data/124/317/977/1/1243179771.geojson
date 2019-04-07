@@ -1,0 +1,67 @@
+{
+  "id": 1243179771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.17025,30.83956,30.17025,30.83956",
+    "geom:latitude":30.83956,
+    "geom:longitude":30.17025,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Naj` Sallam",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434216,
+    "gn:latitude":30.83956,
+    "gn:longitude":30.17025,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Naj\u2018 Sall\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434216
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a2ec1a3ab97fcb53d3dcecceb7ad68a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1243179771,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243179771,
+    "wof:lastmodified":1536693167,
+    "wof:name":"Naj` Sallam",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.17025,
+    30.83956,
+    30.17025,
+    30.83956
+],
+  "geometry": {"coordinates":[30.17025,30.83956],"type":"Point"}
+}

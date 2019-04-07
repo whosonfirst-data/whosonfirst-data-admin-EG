@@ -1,0 +1,72 @@
+{
+  "id": 1259366613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,28.08333,30.75,28.08333",
+    "geom:latitude":28.08333,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kafr al Mansurah al Qibli",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354587,
+    "gn:latitude":28.08333,
+    "gn:longitude":30.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al Man\u015f\u016brah al Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr al Mans\u00fbra el Qibli",
+        "Kafr al Man\u015f\u016brah al Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092018557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354587
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"73edc7c2a45d3e418090fb684f2217fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018557,
+            "locality_id":1259366613,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1259366613,
+    "wof:lastmodified":1537620726,
+    "wof:name":"Kafr al Mansurah al Qibli",
+    "wof:parent_id":1092018557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    28.08333,
+    30.75,
+    28.08333
+],
+  "geometry": {"coordinates":[30.75,28.08333],"type":"Point"}
+}

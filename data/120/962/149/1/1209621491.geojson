@@ -1,0 +1,61 @@
+{
+  "id": 1209621491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75644,29.20168,30.75644,29.20168",
+    "geom:latitude":29.20168,
+    "geom:longitude":30.75644,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shidmuh",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349153,
+    "gn:latitude":29.20168,
+    "gn:longitude":30.75644,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Shidm\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349153
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3f7039d96cadbd483180f023746dee17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209621491
+        }
+    ],
+    "wof:id":1209621491,
+    "wof:lastmodified":1536281503,
+    "wof:name":"Shidmuh",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75644,
+    29.20168,
+    30.75644,
+    29.20168
+],
+  "geometry": {"coordinates":[30.75644,29.20168],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276962349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76827,30.94861,31.76827,30.94861",
+    "geom:latitude":30.94861,
+    "geom:longitude":31.76827,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hawd al Khayr",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432882,
+    "gn:latitude":30.94861,
+    "gn:longitude":31.76827,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u1e28aw\u1e11 al Khayr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432882
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5e3c3e33baad28dff39474efe740912c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015105,
+            "locality_id":1276962349,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276962349,
+    "wof:lastmodified":1536931552,
+    "wof:name":"Hawd al Khayr",
+    "wof:parent_id":1092015105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76827,
+    30.94861,
+    31.76827,
+    30.94861
+],
+  "geometry": {"coordinates":[31.76827,30.94861],"type":"Point"}
+}

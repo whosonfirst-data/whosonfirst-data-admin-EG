@@ -1,0 +1,73 @@
+{
+  "id": 1209780143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43364,31.41441,30.43364,31.41441",
+    "geom:latitude":31.41441,
+    "geom:longitude":30.43364,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat as Sa`ayidah",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414960,
+    "gn:latitude":31.41441,
+    "gn:longitude":30.43364,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat a\u015f \u015ea\u2018\u0101yidah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0635\u0639\u0627\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat a\u015f \u015ea\u2018\u0101yidah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414960
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2f39db4e86864395deef27c4ad667d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1209780143,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1209780143,
+    "wof:lastmodified":1537620973,
+    "wof:name":"`Izbat as Sa`ayidah",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43364,
+    31.41441,
+    30.43364,
+    31.41441
+],
+  "geometry": {"coordinates":[30.43364,31.41441],"type":"Point"}
+}

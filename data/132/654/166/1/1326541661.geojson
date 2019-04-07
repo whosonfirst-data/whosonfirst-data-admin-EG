@@ -1,0 +1,77 @@
+{
+  "id": 1326541661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.09398,31.16245,30.09398,31.16245",
+    "geom:latitude":31.16245,
+    "geom:longitude":30.09398,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Bayda",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361387,
+    "gn:latitude":31.16245,
+    "gn:longitude":30.09398,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al Bay\u1e11\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0636\u0627"
+    ],
+    "name:und_x_variant":[
+        "El-Bei\u1e0da",
+        "Beida",
+        "Al Bay\u1e11\u0101\u2019",
+        "Al Bay\u1e11\u0101",
+        "Al-Bay\u1e0d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361387
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5cf38d26f28c7548f7837b8f74083220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1326541661,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1326541661,
+    "wof:lastmodified":1537620932,
+    "wof:name":"Al Bayda",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.09398,
+    31.16245,
+    30.09398,
+    31.16245
+],
+  "geometry": {"coordinates":[30.09398,31.16245],"type":"Point"}
+}

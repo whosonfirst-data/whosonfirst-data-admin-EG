@@ -1,0 +1,67 @@
+{
+  "id": 1276450393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23561,30.76154,30.23561,30.76154",
+    "geom:latitude":30.76154,
+    "geom:longitude":30.23561,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Tawfiq al Hakim",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434206,
+    "gn:latitude":30.76154,
+    "gn:longitude":30.23561,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat Tawf\u012bq al \u1e28ak\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434206
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fbc728bd47999d4a442a46396ac64467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1276450393,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276450393,
+    "wof:lastmodified":1536619620,
+    "wof:name":"`Izbat Tawfiq al Hakim",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23561,
+    30.76154,
+    30.23561,
+    30.76154
+],
+  "geometry": {"coordinates":[30.23561,30.76154],"type":"Point"}
+}

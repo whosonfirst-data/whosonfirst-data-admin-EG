@@ -1,0 +1,72 @@
+{
+  "id": 1309923433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38333,30.91667,31.38333,30.91667",
+    "geom:latitude":30.91667,
+    "geom:longitude":31.38333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr Shubra Hur",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354080,
+    "gn:latitude":30.91667,
+    "gn:longitude":31.38333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Shubr\u0101 H\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Shubra H\u00f4r",
+        "Kafr Shubr\u0101 H\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354080
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b4568143659ddd611e4a95ae7f957d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014439,
+            "locality_id":1309923433,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1309923433,
+    "wof:lastmodified":1537620687,
+    "wof:name":"Kafr Shubra Hur",
+    "wof:parent_id":1092014439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38333,
+    30.91667,
+    31.38333,
+    30.91667
+],
+  "geometry": {"coordinates":[31.38333,30.91667],"type":"Point"}
+}

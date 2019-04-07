@@ -1,0 +1,73 @@
+{
+  "id": 1327281421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70968,25.76582,32.70968,25.76582",
+    "geom:latitude":25.76582,
+    "geom:longitude":32.70968,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"As Sa`a'idah",
+    "gn:country_code":"EG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359917,
+    "gn:latitude":25.76582,
+    "gn:longitude":32.70968,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015f \u015ea\u2018\u0101\u2019idah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es Sa\u2018\u0101ida",
+        "As Sa\u2018\u0101yida",
+        "El Sa\u2018\u00e2yda",
+        "A\u015f \u015ea\u2018\u0101\u2019idah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671097,
+        1092018839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359917
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"df5519f938aa83daa48f675e62078e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018839,
+            "locality_id":1327281421,
+            "region_id":85671097
+        }
+    ],
+    "wof:id":1327281421,
+    "wof:lastmodified":1537620857,
+    "wof:name":"As Sa`a'idah",
+    "wof:parent_id":1092018839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70968,
+    25.76582,
+    32.70968,
+    25.76582
+],
+  "geometry": {"coordinates":[32.70968,25.76582],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209595607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33665,30.23502,31.33665,30.23502",
+    "geom:latitude":30.23502,
+    "geom:longitude":31.33665,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Nazlat Abu Darahim",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351244,
+    "gn:latitude":30.23502,
+    "gn:longitude":31.33665,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat Ab\u016b Dar\u0101him",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet Abu Dar\u00e2him",
+        "Nazlat Ab\u016b Dar\u0101him"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351244
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"03f185c4d715a981172adfa005791e98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209595607
+        }
+    ],
+    "wof:id":1209595607,
+    "wof:lastmodified":1537620616,
+    "wof:name":"Nazlat Abu Darahim",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33665,
+    30.23502,
+    31.33665,
+    30.23502
+],
+  "geometry": {"coordinates":[31.33665,30.23502],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310216703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57535,31.13851,30.57535,31.13851",
+    "geom:latitude":31.13851,
+    "geom:longitude":30.57535,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat ar Rawdah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415930,
+    "gn:latitude":31.13851,
+    "gn:longitude":30.57535,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u2018Izbat ar Raw\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0631\u0648\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ar Raw\u1e11ah",
+        "Ni\u1e95\u00e2ret el-R\u00f4\u1e0da",
+        "Niz\u0327\u0101rat ar Raw\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092018277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415930
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f2176136400bf7688874418f25734be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018277,
+            "locality_id":1310216703,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310216703,
+    "wof:lastmodified":1537621005,
+    "wof:name":"`Izbat ar Rawdah",
+    "wof:parent_id":1092018277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57535,
+    31.13851,
+    30.57535,
+    31.13851
+],
+  "geometry": {"coordinates":[30.57535,31.13851],"type":"Point"}
+}

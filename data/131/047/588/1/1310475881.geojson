@@ -1,0 +1,76 @@
+{
+  "id": 1310475881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94365,31.07708,30.94365,31.07708",
+    "geom:latitude":31.07708,
+    "geom:longitude":30.94365,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Hamrawi",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354666,
+    "gn:latitude":31.07708,
+    "gn:longitude":30.94365,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al \u1e28amr\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-\u1e24amr\u00e2wi",
+        "Kafr al \u1e28amr\u0101w\u012b",
+        "Al \u1e28amr\u0101w\u012b",
+        "Al \u1e24amr\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354666
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5a041649ddb8241ff4c437bcf5d89531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1310475881,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1310475881,
+    "wof:lastmodified":1537620734,
+    "wof:name":"Al Hamrawi",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94365,
+    31.07708,
+    30.94365,
+    31.07708
+],
+  "geometry": {"coordinates":[30.94365,31.07708],"type":"Point"}
+}

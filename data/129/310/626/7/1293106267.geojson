@@ -1,0 +1,75 @@
+{
+  "id": 1293106267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71493,31.02795,30.71493,31.02795",
+    "geom:latitude":31.02795,
+    "geom:longitude":30.71493,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shubrakhit",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349058,
+    "gn:latitude":31.02795,
+    "gn:longitude":30.71493,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Shubr\u0101kh\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u0631\u0627\u062e\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Shubra Kh\u00eat",
+        "Shubr\u0101 Kh\u012bt",
+        "Shubr\u0101kh\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092024849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349058
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"89b8502f2d6162d51d0b9f0bdfe20510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024849,
+            "locality_id":1293106267,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1293106267,
+    "wof:lastmodified":1537620572,
+    "wof:name":"Shubrakhit",
+    "wof:parent_id":1092024849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71493,
+    31.02795,
+    30.71493,
+    31.02795
+],
+  "geometry": {"coordinates":[30.71493,31.02795],"type":"Point"}
+}

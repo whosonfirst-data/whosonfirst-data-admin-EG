@@ -1,0 +1,73 @@
+{
+  "id": 1226141989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02386,30.90438,31.02386,30.90438",
+    "geom:latitude":30.90438,
+    "geom:longitude":31.02386,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat Abu Jabal",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560426,
+    "gn:latitude":30.90438,
+    "gn:longitude":31.02386,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat Ab\u016b Jabal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0628\u0648 \u062c\u0628\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b Jabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560426
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"41e19d4729c569b6bb528095e44615bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1226141989,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1226141989,
+    "wof:lastmodified":1537621207,
+    "wof:name":"`Izbat Abu Jabal",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02386,
+    30.90438,
+    31.02386,
+    30.90438
+],
+  "geometry": {"coordinates":[31.02386,30.90438],"type":"Point"}
+}

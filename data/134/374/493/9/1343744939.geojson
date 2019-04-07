@@ -1,0 +1,72 @@
+{
+  "id": 1343744939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.54322,30.04956,32.54322,30.04956",
+    "geom:latitude":30.04956,
+    "geom:longitude":32.54322,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Muhammad al `Askari",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352007,
+    "gn:latitude":30.04956,
+    "gn:longitude":32.54322,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mu\u1e29ammad al \u2018Askar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muh el-\u2019Askari",
+        "Mu\u1e29ammad al \u2018Askar\u012b",
+        "Mu\u1e29ammad el- \u2018Askari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671013,
+        1092017827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352007
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d73786cfe310d38cb553b3a733ab2421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017827,
+            "locality_id":1343744939,
+            "region_id":85671013
+        }
+    ],
+    "wof:id":1343744939,
+    "wof:lastmodified":1537620632,
+    "wof:name":"Muhammad al `Askari",
+    "wof:parent_id":1092017827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.54322,
+    30.04956,
+    32.54322,
+    30.04956
+],
+  "geometry": {"coordinates":[32.54322,30.04956],"type":"Point"}
+}

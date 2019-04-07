@@ -1,0 +1,67 @@
+{
+  "id": 1327212607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.09444,30.67639,32.09444,30.67639",
+    "geom:latitude":30.67639,
+    "geom:longitude":32.09444,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"As Salihiyah",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443387,
+    "gn:latitude":30.67639,
+    "gn:longitude":32.09444,
+    "gn:modification_date":"2001-03-19",
+    "gn:name":"A\u015f \u015e\u0101li\u1e29\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443387
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e562215a7f4c9ac671ec7c3dd0f9bfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1327212607,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1327212607,
+    "wof:lastmodified":1536997504,
+    "wof:name":"As Salihiyah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.09444000000001,
+    30.67639,
+    32.09444000000001,
+    30.67639
+],
+  "geometry": {"coordinates":[32.09444000000001,30.67639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193111251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9663,31.31762,30.9663,31.31762",
+    "geom:latitude":31.31762,
+    "geom:longitude":30.9663,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat al `Iryan",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416282,
+    "gn:latitude":31.31762,
+    "gn:longitude":30.9663,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbat al \u2018Iry\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u0631\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u2018Iry\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416282
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"55d77d18341d29be3e41c8ec3af0d152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1193111251,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1193111251,
+    "wof:lastmodified":1537621026,
+    "wof:name":"`Izbat al `Iryan",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9663,
+    31.31762,
+    30.9663,
+    31.31762
+],
+  "geometry": {"coordinates":[30.9663,31.31762],"type":"Point"}
+}

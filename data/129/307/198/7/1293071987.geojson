@@ -1,0 +1,73 @@
+{
+  "id": 1293071987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93514,30.73598,31.93514,30.73598",
+    "geom:latitude":30.73598,
+    "geom:longitude":31.93514,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al `Azlazi",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11545812,
+    "gn:latitude":30.73598,
+    "gn:longitude":31.93514,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Al \u2018Azlaz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u0644\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Azlaz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545812
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8ad1495eeada7d8ad8a897c329da3fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1293071987,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293071987,
+    "wof:lastmodified":1537621277,
+    "wof:name":"Al `Azlazi",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93514,
+    30.73598,
+    31.93514,
+    30.73598
+],
+  "geometry": {"coordinates":[31.93514,30.73598],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225856599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.47819,30.91022,30.47819,30.91022",
+    "geom:latitude":30.91022,
+    "geom:longitude":30.47819,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Naj` ad Duktur",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433999,
+    "gn:latitude":30.91022,
+    "gn:longitude":30.47819,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Naj\u2018 ad D\u016bkt\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433999
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2ae3c45ce34082bf8a3599eea85aece8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1225856599,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1225856599,
+    "wof:lastmodified":1536997213,
+    "wof:name":"Naj` ad Duktur",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.47819,
+    30.91022,
+    30.47819,
+    30.91022
+],
+  "geometry": {"coordinates":[30.47819,30.91022],"type":"Point"}
+}

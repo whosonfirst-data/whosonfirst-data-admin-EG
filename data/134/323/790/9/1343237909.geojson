@@ -1,0 +1,67 @@
+{
+  "id": 1343237909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01667,28.98333,30.01667,28.98333",
+    "geom:latitude":28.98333,
+    "geom:longitude":30.01667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kafr Mansur",
+    "gn:country_code":"EG",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354194,
+    "gn:latitude":28.98333,
+    "gn:longitude":30.01667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Kafr Man\u015f\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092022885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354194
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"38b4532eed255989e8fa97d19163e777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022885,
+            "locality_id":1343237909,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1343237909,
+    "wof:lastmodified":1537064715,
+    "wof:name":"Kafr Mansur",
+    "wof:parent_id":1092022885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01667,
+    28.98333,
+    30.01667,
+    28.98333
+],
+  "geometry": {"coordinates":[30.01667,28.98333],"type":"Point"}
+}

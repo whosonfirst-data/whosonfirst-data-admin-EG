@@ -1,0 +1,91 @@
+{
+  "id": 890430393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63554,31.20829,31.63554,31.20829",
+    "geom:latitude":31.20829,
+    "geom:longitude":31.63554,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":40010,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0642\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Az Zarqa"
+    ],
+    "name:eng_x_preferred":[
+        "El Zarqa"
+    ],
+    "name:fre_x_preferred":[
+        "Al-Zarqa"
+    ],
+    "name:ita_x_preferred":[
+        "Al Zarqa"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0631\u0642\u0627"
+    ],
+    "name:swe_x_preferred":[
+        "Az Zarq\u0101"
+    ],
+    "name:unk_x_variant":[
+        "Az-Zarq\u0101"
+    ],
+    "qs:name":"Az Zarq\u0101",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092020509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419435,
+        "gp:id":56446779,
+        "qs:id":124585,
+        "wd:id":"Q4119153"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051851,
+    "wof:geomhash":"170925e17a2becf34acacbcf5de59d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020509,
+            "locality_id":890430393,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":890430393,
+    "wof:lastmodified":1513956674,
+    "wof:name":"Az Zarq\u0101",
+    "wof:parent_id":1092020509,
+    "wof:placetype":"locality",
+    "wof:population":40010,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63554,
+    31.20829,
+    31.63554,
+    31.20829
+],
+  "geometry": {"coordinates":[31.63554,31.20829],"type":"Point"}
+}

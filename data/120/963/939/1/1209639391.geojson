@@ -1,0 +1,66 @@
+{
+  "id": 1209639391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61477,29.39719,30.61477,29.39719",
+    "geom:latitude":29.39719,
+    "geom:longitude":30.61477,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ar Rawashidiyah",
+    "gn:country_code":"EG",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360128,
+    "gn:latitude":29.39719,
+    "gn:longitude":30.61477,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar Raw\u0101shid\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el Kawashd\u00eeya",
+        "El Raw\u00e2shdiya",
+        "Ar Raw\u0101shid\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360128
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d06df4ba0268de6976b4f475f4528b3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209639391
+        }
+    ],
+    "wof:id":1209639391,
+    "wof:lastmodified":1537620867,
+    "wof:name":"Ar Rawashidiyah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61477,
+    29.39719,
+    30.61477,
+    29.39719
+],
+  "geometry": {"coordinates":[30.61477,29.39719],"type":"Point"}
+}

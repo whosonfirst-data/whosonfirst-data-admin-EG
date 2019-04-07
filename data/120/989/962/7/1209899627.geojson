@@ -1,0 +1,74 @@
+{
+  "id": 1209899627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56535,30.79571,31.56535,30.79571",
+    "geom:latitude":30.79571,
+    "geom:longitude":31.56535,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Hajarisah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361252,
+    "gn:latitude":30.79571,
+    "gn:longitude":31.56535,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Haj\u0101risah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u062c\u0627\u0631\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Hag\u00e2rsa",
+        "Al Haj\u0101risah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361252
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"13e27918012c4c979e3f278e2fa2371a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1209899627,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1209899627,
+    "wof:lastmodified":1537620925,
+    "wof:name":"Al Hajarisah",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56535,
+    30.79571,
+    31.56535,
+    30.79571
+],
+  "geometry": {"coordinates":[31.56535,30.79571],"type":"Point"}
+}

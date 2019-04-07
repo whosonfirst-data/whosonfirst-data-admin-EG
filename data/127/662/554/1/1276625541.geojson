@@ -1,0 +1,74 @@
+{
+  "id": 1276625541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.84226,30.69168,31.84226,30.69168",
+    "geom:latitude":30.69168,
+    "geom:longitude":31.84226,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat ash Shaghamiyah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545723,
+    "gn:latitude":30.69168,
+    "gn:longitude":31.84226,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat ash Shagh\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0634\u063a\u0627\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ash Shagh\u0101m\u012byah",
+        "\u2018Izbat ash-Shagh\u0101miyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545723
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2a0bc2f87b635a794c14b03793d5605e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1276625541,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276625541,
+    "wof:lastmodified":1537621271,
+    "wof:name":"`Izbat ash Shaghamiyah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.84226,
+    30.69168,
+    31.84226,
+    30.69168
+],
+  "geometry": {"coordinates":[31.84226,30.69168],"type":"Point"}
+}

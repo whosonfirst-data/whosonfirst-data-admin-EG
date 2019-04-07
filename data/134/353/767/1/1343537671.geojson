@@ -1,0 +1,67 @@
+{
+  "id": 1343537671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45,26.96667,31.45,26.96667",
+    "geom:latitude":26.96667,
+    "geom:longitude":31.45,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"`Ezbet el-Sheikh `Isa",
+    "gn:country_code":"EG",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357384,
+    "gn:latitude":26.96667,
+    "gn:longitude":31.45,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet el-She\u00eekh \u2018Isa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357384
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d3f7d03d67d02301d9303c32c48206c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1343537671,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1343537671,
+    "wof:lastmodified":1536633515,
+    "wof:name":"`Ezbet el-Sheikh `Isa",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45,
+    26.96667,
+    31.45,
+    26.96667
+],
+  "geometry": {"coordinates":[31.45,26.96667],"type":"Point"}
+}

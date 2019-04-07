@@ -1,0 +1,73 @@
+{
+  "id": 1243073963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84158,29.33394,30.84158,29.33394",
+    "geom:latitude":29.33394,
+    "geom:longitude":30.84158,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Minsha'at `Abd Allah",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352450,
+    "gn:latitude":29.33394,
+    "gn:longitude":30.84158,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Minsha\u2019at \u2018Abd Allah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manshiyet Abdalla",
+        "Minsh\u00e2t \u2018Abdalla",
+        "Minsh\u0101t \u2018Abd All\u0101h",
+        "Minsha\u2019at \u2018Abd Allah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352450
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c09d40beb720601145ea642cb314a5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1243073963,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1243073963,
+    "wof:lastmodified":1537620655,
+    "wof:name":"Minsha'at `Abd Allah",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84158,
+    29.33394,
+    30.84158,
+    29.33394
+],
+  "geometry": {"coordinates":[30.84158,29.33394],"type":"Point"}
+}

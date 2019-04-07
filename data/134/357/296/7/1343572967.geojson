@@ -1,0 +1,73 @@
+{
+  "id": 1343572967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0284,31.17854,30.0284,31.17854",
+    "geom:latitude":31.17854,
+    "geom:longitude":30.0284,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Qaryah al Ula",
+    "gn:country_code":"EG",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10495930,
+    "gn:latitude":31.17854,
+    "gn:longitude":30.0284,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Al Qaryah al \u016al\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0629 \u0627\u0644\u0627\u0648\u0644\u0649"
+    ],
+    "name:und_x_variant":[
+        "Al Qaryah al \u016al\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092019315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10495930
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"906d416b63ba960f9df4613d7fc70531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019315,
+            "locality_id":1343572967,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1343572967,
+    "wof:lastmodified":1537621251,
+    "wof:name":"Al Qaryah al Ula",
+    "wof:parent_id":1092019315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0284,
+    31.17854,
+    30.0284,
+    31.17854
+],
+  "geometry": {"coordinates":[30.0284,31.17854],"type":"Point"}
+}

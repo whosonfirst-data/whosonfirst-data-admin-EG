@@ -1,0 +1,86 @@
+{
+  "id": 1343716703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.65238,28.97391,34.65238,28.97391",
+    "geom:latitude":28.97391,
+    "geom:longitude":34.65238,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Nueibaa Mezeina",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350892,
+    "gn:latitude":28.97391,
+    "gn:longitude":34.65238,
+    "gn:modification_date":"2016-04-03",
+    "gn:name":"Nueibaa Mezeina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nuwaibaa"
+    ],
+    "name:eng_x_preferred":[
+        "Nuweibaa"
+    ],
+    "name:eng_x_variant":[
+        "Nueiba"
+    ],
+    "name:swe_x_preferred":[
+        "Nuweibaa"
+    ],
+    "name:und_x_variant":[
+        "Nuwaybi\u2018 al Muzayyinah",
+        "Noueibaa",
+        "Nuweibaa\u2018 el Muzeinah",
+        "Nuweiba\u2018",
+        "Nuwaybi\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671089,
+        1092023241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350892
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f2ca86fc6c8c78dd1095147561289bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023241,
+            "locality_id":1343716703,
+            "region_id":85671089
+        }
+    ],
+    "wof:id":1343716703,
+    "wof:lastmodified":1537620600,
+    "wof:name":"Nueibaa Mezeina",
+    "wof:parent_id":1092023241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.65238,
+    28.97391,
+    34.65238,
+    28.97391
+],
+  "geometry": {"coordinates":[34.65238,28.97391],"type":"Point"}
+}

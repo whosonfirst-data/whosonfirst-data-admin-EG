@@ -1,0 +1,67 @@
+{
+  "id": 1293268119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79477,28.90252,30.79477,28.90252",
+    "geom:latitude":28.90252,
+    "geom:longitude":30.79477,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Naj` as Sa`aydah",
+    "gn:country_code":"EG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434401,
+    "gn:latitude":28.90252,
+    "gn:longitude":30.79477,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Naj\u2018 a\u015f \u015ea\u2018\u0101ydah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092024299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434401
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0212cd15f57c71739aa0a96f84cade65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024299,
+            "locality_id":1293268119,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1293268119,
+    "wof:lastmodified":1536603254,
+    "wof:name":"Naj` as Sa`aydah",
+    "wof:parent_id":1092024299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79477,
+    28.90252000000001,
+    30.79477,
+    28.90252000000001
+],
+  "geometry": {"coordinates":[30.79477,28.90252000000001],"type":"Point"}
+}

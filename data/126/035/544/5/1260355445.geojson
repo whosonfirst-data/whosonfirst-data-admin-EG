@@ -1,0 +1,71 @@
+{
+  "id": 1260355445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.90364,29.11052,30.90364,29.11052",
+    "geom:latitude":29.11052,
+    "geom:longitude":30.90364,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Idrasiyah",
+    "gn:country_code":"EG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355622,
+    "gn:latitude":29.11052,
+    "gn:longitude":30.90364,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Idr\u0101siyah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Idr\u00e2sya",
+        "Idr\u0101siyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092014481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355622
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cfc9e168450f73b4339d7c6d9c2283c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014481,
+            "locality_id":1260355445,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1260355445,
+    "wof:lastmodified":1537620771,
+    "wof:name":"Idrasiyah",
+    "wof:parent_id":1092014481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.90364000000001,
+    29.11052,
+    30.90364000000001,
+    29.11052
+],
+  "geometry": {"coordinates":[30.90364000000001,29.11052],"type":"Point"}
+}

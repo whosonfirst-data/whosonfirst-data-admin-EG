@@ -1,0 +1,67 @@
+{
+  "id": 1243211457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9952,31.18393,33.9952,31.18393",
+    "geom:latitude":31.18393,
+    "geom:longitude":33.9952,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Agalin",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449792,
+    "gn:latitude":31.18393,
+    "gn:longitude":33.9952,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Agalin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092019921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449792
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"710311e44fa3006d2d0ee375f8cda199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019921,
+            "locality_id":1243211457,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1243211457,
+    "wof:lastmodified":1536646901,
+    "wof:name":"Agalin",
+    "wof:parent_id":1092019921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9952,
+    31.18393,
+    33.9952,
+    31.18393
+],
+  "geometry": {"coordinates":[33.9952,31.18393],"type":"Point"}
+}

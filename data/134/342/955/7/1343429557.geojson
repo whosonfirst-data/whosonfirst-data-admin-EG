@@ -1,0 +1,67 @@
+{
+  "id": 1343429557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.49267,25.30873,32.49267,25.30873",
+    "geom:latitude":25.30873,
+    "geom:longitude":32.49267,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Wasta",
+    "gn:country_code":"EG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444495,
+    "gn:latitude":25.30873,
+    "gn:longitude":32.49267,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Al Was\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444495
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"faf7cc2b65fd515aafc89190178a293b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020223,
+            "locality_id":1343429557,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1343429557,
+    "wof:lastmodified":1536791331,
+    "wof:name":"Al Wasta",
+    "wof:parent_id":1092020223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.49267,
+    25.30873,
+    32.49267,
+    25.30873
+],
+  "geometry": {"coordinates":[32.49267,25.30873],"type":"Point"}
+}

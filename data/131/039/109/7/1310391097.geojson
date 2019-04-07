@@ -1,0 +1,75 @@
+{
+  "id": 1310391097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10731,30.16761,31.10731,30.16761",
+    "geom:latitude":30.16761,
+    "geom:longitude":31.10731,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Baharmis",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359409,
+    "gn:latitude":30.16761,
+    "gn:longitude":31.10731,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Baharmis",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0647\u0631\u0645\u0633"
+    ],
+    "name:und_x_variant":[
+        "Baharmis wa as Sab\u012bl",
+        "Baharmis and El-Sib\u00eel",
+        "Baharmis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092020631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359409
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"11e9f55942eef5a4120be6f4e88c5cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020631,
+            "locality_id":1310391097,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1310391097,
+    "wof:lastmodified":1537620837,
+    "wof:name":"Baharmis",
+    "wof:parent_id":1092020631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.10731,
+    30.16761,
+    31.10731,
+    30.16761
+],
+  "geometry": {"coordinates":[31.10731,30.16761],"type":"Point"}
+}

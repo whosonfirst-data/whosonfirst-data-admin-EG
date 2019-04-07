@@ -1,0 +1,75 @@
+{
+  "id": 1276546283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06556,30.76439,31.06556,30.76439",
+    "geom:latitude":30.76439,
+    "geom:longitude":31.06556,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr Tarnah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354037,
+    "gn:latitude":30.76439,
+    "gn:longitude":31.06556,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kafr \u0162arnah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0637\u0631\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u1e6carna",
+        "Kafr \u0162arnah",
+        "Kafr \u1e6carnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354037
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"182b2a8b5ea90f4d467f48cc9643c949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1276546283,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1276546283,
+    "wof:lastmodified":1537620684,
+    "wof:name":"Kafr Tarnah",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06556,
+    30.76439,
+    31.06556,
+    30.76439
+],
+  "geometry": {"coordinates":[31.06556,30.76439],"type":"Point"}
+}

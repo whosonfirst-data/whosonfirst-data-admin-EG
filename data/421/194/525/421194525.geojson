@@ -1,0 +1,123 @@
+{
+  "id": 421194525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37787,31.0539,31.37787,31.0539",
+    "geom:latitude":31.0539,
+    "geom:longitude":31.37787,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0637\u0644\u062e\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0637\u0644\u062e\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Talkha"
+    ],
+    "name:eng_x_preferred":[
+        "Talkha"
+    ],
+    "name:fre_x_preferred":[
+        "Talkha"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03ac\u03bb\u03c7\u03b1"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0430\u043b\u044c\u0445\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:per_x_preferred":[
+        "\u0637\u0644\u062e\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Talcha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u044c\u0445\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Talkha"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043b\u044c\u0445\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Talha"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u0644\u062e\u0627"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":347591,
+    "qs:gn_pop":157737,
+    "qs:name":"\u0645\u0631\u0643\u0632 \u0637\u0644\u062e\u0627",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u062f\u0642\u0647\u0644\u064a\u0629",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":1220061,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1526454,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347591,
+        "gp:id":1526454,
+        "qs:id":1220061,
+        "wd:id":"Q952118",
+        "wk:page":"Talkha"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009810,
+    "wof:geomhash":"5230ada0fa17a7def5d588c3d4525e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025681,
+            "locality_id":421194525,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":421194525,
+    "wof:lastmodified":1513956731,
+    "wof:name":"\u0645\u0631\u0643\u0632 \u0637\u0644\u062e\u0627",
+    "wof:parent_id":1092025681,
+    "wof:placetype":"locality",
+    "wof:population":157737,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37787,
+    31.0539,
+    31.37787,
+    31.0539
+],
+  "geometry": {"coordinates":[31.37787,31.0539],"type":"Point"}
+}

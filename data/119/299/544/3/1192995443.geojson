@@ -1,0 +1,73 @@
+{
+  "id": 1192995443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17022,30.2203,31.17022,30.2203",
+    "geom:latitude":30.2203,
+    "geom:longitude":31.17022,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Sanafir",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349661,
+    "gn:latitude":30.2203,
+    "gn:longitude":31.17022,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015ean\u0101f\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0646\u0627\u0641\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u015ean\u0101f\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092023447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349661
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1076c2943b7d6a19f422b15b5d44be2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023447,
+            "locality_id":1192995443,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1192995443,
+    "wof:lastmodified":1537620585,
+    "wof:name":"Sanafir",
+    "wof:parent_id":1092023447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17022,
+    30.2203,
+    31.17022,
+    30.2203
+],
+  "geometry": {"coordinates":[31.17022,30.2203],"type":"Point"}
+}

@@ -1,0 +1,175 @@
+{
+  "id": 890434721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16499,30.9745,31.16499,30.9745",
+    "geom:latitude":30.9745,
+    "geom:longitude":31.16499,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":431052,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0644\u0629 \u0627\u0644\u0643\u0628\u0631\u0649"
+    ],
+    "name:arm_x_preferred":[
+        "\u0561\u056c-\u0544\u0561\u0570\u0561\u056c\u056c\u0561 \u0561\u056c-\u0554\u0578\u0582\u0562\u0580\u0561"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0644\u0647 \u0627\u0644\u0643\u0628\u0631\u0649"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u043b\u044c-\u041c\u0430\u0445\u0430\u043b\u0430-\u044d\u043b\u044c-\u041a\u0443\u0431\u0440\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u043b-\u041c\u0430\u0445\u0430\u043b\u0430 \u0415\u043b-\u041a\u0443\u0431\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Mahalla al-Kubra"
+    ],
+    "name:chi_x_preferred":[
+        "\u5927\u9081\u54c8\u840a"
+    ],
+    "name:dut_x_preferred":[
+        "El-Mahalla El-Kubra"
+    ],
+    "name:eng_x_preferred":[
+        "El-Mahalla El-Kubra"
+    ],
+    "name:est_x_preferred":[
+        "Al-Ma\u1e29allah al-Kubr\u00e1"
+    ],
+    "name:fin_x_preferred":[
+        "Al-Mahalla al-Kubra"
+    ],
+    "name:fre_x_preferred":[
+        "El-Mahalla El-Koubra"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10db\u10d0\u10f0\u10d0\u10da\u10d0-\u10d4\u10da-\u10e5\u10e3\u10d1\u10e0\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Mahalla al-Kubra"
+    ],
+    "name:gle_x_preferred":[
+        "El-Mahalla El-Kubra"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u039c\u03b1\u03c7\u03ac\u03bb\u03b1 \u03b5\u03bb \u039a\u03bf\u03cd\u03bc\u03c0\u03c1\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05de\u05d0\u05d7\u05dc\u05d4 \u05d0\u05dc-\u05e7\u05d5\u05d1\u05e8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "El-Mahalla El-Kubra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\uff1d\u30de\u30cf\u30c3\u30e9\u30fb\u30a8\u30eb\uff1d\u30b3\u30d6\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud560\ub77c\uc54c\ucfe0\ube0c\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "Mahala el Kubra"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u0627\u0644\u06a9\u0628\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Mahalla al-Kubra"
+    ],
+    "name:por_x_preferred":[
+        "Al-Mahalla Al-Kubra"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041c\u0430\u0445\u0430\u043b\u043b\u0430-\u044d\u043b\u044c-\u041a\u0443\u0431\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "El-Mahalla El-Kubra"
+    ],
+    "name:spa_x_preferred":[
+        "El-Mahalla El-Kubra"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0445\u0430\u043b\u0430 \u0435\u043b \u041a\u0443\u0431\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Mahalla al-Kubra"
+    ],
+    "name:szl_x_preferred":[
+        "Al-Mahalla al-Kubra"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25\u0e21\u0e30\u0e2e\u0e31\u0e25\u0e25\u0e30\u0e15\u0e38\u0e25\u0e01\u0e38\u0e1a\u0e23\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "Mahallet\u00fc'l-K\u00fcbra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041c\u0430\u0445\u0430\u043b\u043b\u0430-\u0435\u043b\u044c-\u041a\u0443\u0431\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "El-Ma\u1e25alla el-Kubra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0644\u06c1 \u0627\u0644\u06a9\u0628\u0631\u06cc"
+    ],
+    "name:war_x_preferred":[
+        "El-Mahalla El-Kubra"
+    ],
+    "qs:name":"Al Ma\u1e29allah al Kubr\u00e1",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360829,
+        "gp:id":56447346,
+        "qs:id":348467,
+        "wd:id":"Q312723"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052037,
+    "wof:geomhash":"ebd376caa139453b1f7be8b1571b4121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025637,
+            "locality_id":890434721,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":890434721,
+    "wof:lastmodified":1513956640,
+    "wof:name":"Al Ma\u1e29allah al Kubr\u00e1",
+    "wof:parent_id":1092025637,
+    "wof:placetype":"locality",
+    "wof:population":431052,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16499,
+    30.9745,
+    31.16499,
+    30.9745
+],
+  "geometry": {"coordinates":[31.16499,30.9745],"type":"Point"}
+}

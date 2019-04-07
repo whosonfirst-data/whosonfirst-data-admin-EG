@@ -1,0 +1,73 @@
+{
+  "id": 1310206769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.47558,31.29897,30.47558,31.29897",
+    "geom:latitude":31.29897,
+    "geom:longitude":30.47558,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Ghabishah",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415093,
+    "gn:latitude":31.29897,
+    "gn:longitude":30.47558,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al Gh\u0101bishah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0627\u0628\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Gh\u0101bishah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092023921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415093
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0bedcf1ee4a548ed17be874b2ef82697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023921,
+            "locality_id":1310206769,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310206769,
+    "wof:lastmodified":1537620979,
+    "wof:name":"Al Ghabishah",
+    "wof:parent_id":1092023921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.47558,
+    31.29897,
+    30.47558,
+    31.29897
+],
+  "geometry": {"coordinates":[30.47558,31.29897],"type":"Point"}
+}

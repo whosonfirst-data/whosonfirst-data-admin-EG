@@ -1,0 +1,75 @@
+{
+  "id": 1310485127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78041,30.71046,31.78041,30.71046",
+    "geom:latitude":30.71046,
+    "geom:longitude":31.78041,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Awlad 'Abidin",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359640,
+    "gn:latitude":30.71046,
+    "gn:longitude":31.78041,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Awl\u0101d \u2019\u0100bid\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0648\u0644\u0627\u062f \u0639\u0627\u0628\u062f\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Aul\u00e2d \u2018\u00c2bd\u00een",
+        "Awl\u0101d \u2018\u0100bid\u012bn",
+        "\u2018Izbat Awl\u0101d \u2019\u0100bid\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359640
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ff3912a3c14b158341f5fcf0d6e6945f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1310485127,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310485127,
+    "wof:lastmodified":1537620844,
+    "wof:name":"`Izbat Awlad 'Abidin",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78041,
+    30.71046,
+    31.78041,
+    30.71046
+],
+  "geometry": {"coordinates":[31.78041,30.71046],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243141009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.12358,31.36311,27.12358,31.36311",
+    "geom:latitude":31.36311,
+    "geom:longitude":27.12358,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Qaryet el Qibashi",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350708,
+    "gn:latitude":31.36311,
+    "gn:longitude":27.12358,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Q\u00e2ryet el Qibashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092022115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350708
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"aa75140c996f40f053159c2570ca2bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022115,
+            "locality_id":1243141009,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1243141009,
+    "wof:lastmodified":1536748911,
+    "wof:name":"Qaryet el Qibashi",
+    "wof:parent_id":1092022115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.12358,
+    31.36311,
+    27.12358,
+    31.36311
+],
+  "geometry": {"coordinates":[27.12358,31.36311],"type":"Point"}
+}

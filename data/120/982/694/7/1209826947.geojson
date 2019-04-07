@@ -1,0 +1,73 @@
+{
+  "id": 1209826947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46591,31.25667,30.46591,31.25667",
+    "geom:latitude":31.25667,
+    "geom:longitude":30.46591,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Ghallab",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415069,
+    "gn:latitude":31.25667,
+    "gn:longitude":30.46591,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat Ghall\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u063a\u0644\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ghall\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092018277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415069
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d40671db9657ea7d4c0ac0a308639f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018277,
+            "locality_id":1209826947,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1209826947,
+    "wof:lastmodified":1537620977,
+    "wof:name":"`Izbat Ghallab",
+    "wof:parent_id":1092018277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46591,
+    31.25667,
+    30.46591,
+    31.25667
+],
+  "geometry": {"coordinates":[30.46591,31.25667],"type":"Point"}
+}

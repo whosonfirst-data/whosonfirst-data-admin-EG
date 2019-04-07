@@ -1,0 +1,67 @@
+{
+  "id": 1293156669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68333,26.66667,31.68333,26.66667",
+    "geom:latitude":26.66667,
+    "geom:longitude":31.68333,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Nag` el-Marawana & el-Misallamiya",
+    "gn:country_code":"EG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351614,
+    "gn:latitude":26.66667,
+    "gn:longitude":31.68333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2018 el-Maraw\u00e2na & el-Misallam\u00eeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092024379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351614
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"18ccaf7cfbd9119f2702564a049768a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024379,
+            "locality_id":1293156669,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1293156669,
+    "wof:lastmodified":1536767600,
+    "wof:name":"Nag` el-Marawana & el-Misallamiya",
+    "wof:parent_id":1092024379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68333,
+    26.66667,
+    31.68333,
+    26.66667
+],
+  "geometry": {"coordinates":[31.68333,26.66667],"type":"Point"}
+}

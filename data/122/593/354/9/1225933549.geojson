@@ -1,0 +1,77 @@
+{
+  "id": 1225933549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05681,30.4044,31.05681,30.4044",
+    "geom:latitude":30.4044,
+    "geom:longitude":31.05681,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abu Sunaytah",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362042,
+    "gn:latitude":30.4044,
+    "gn:longitude":31.05681,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ab\u016b Sunay\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0633\u0646\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sineita",
+        "Abu Saneita",
+        "Abu Sineita",
+        "Ab\u016b Snay\u0163ah",
+        "Ab\u016b Sunay\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092017065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362042
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"aa96b0900168b852f001ddcf23e23a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017065,
+            "locality_id":1225933549,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1225933549,
+    "wof:lastmodified":1537620957,
+    "wof:name":"Abu Sunaytah",
+    "wof:parent_id":1092017065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05681,
+    30.4044,
+    31.05681,
+    30.4044
+],
+  "geometry": {"coordinates":[31.05681,30.4044],"type":"Point"}
+}

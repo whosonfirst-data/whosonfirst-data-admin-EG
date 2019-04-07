@@ -1,0 +1,67 @@
+{
+  "id": 1344265643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66667,26.7,31.66667,26.7",
+    "geom:latitude":26.7,
+    "geom:longitude":31.66667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nugu' el-Rayagna",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350974,
+    "gn:latitude":26.7,
+    "gn:longitude":31.66667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nug\u00fb\u2019 el-Ray\u00e2gna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350974
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"80f7e015dfed97eb453d6a1fd0e9f138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023157,
+            "locality_id":1344265643,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1344265643,
+    "wof:lastmodified":1537073495,
+    "wof:name":"Nugu' el-Rayagna",
+    "wof:parent_id":1092023157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66667,
+    26.7,
+    31.66667,
+    26.7
+],
+  "geometry": {"coordinates":[31.66667,26.7],"type":"Point"}
+}

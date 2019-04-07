@@ -1,0 +1,67 @@
+{
+  "id": 1343359591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79593,29.32682,30.79593,29.32682",
+    "geom:latitude":29.32682,
+    "geom:longitude":30.79593,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nazlat Bashir",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434324,
+    "gn:latitude":29.32682,
+    "gn:longitude":30.79593,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Nazlat Bash\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434324
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"69738d365c1fe532960a8c899e013947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1343359591,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1343359591,
+    "wof:lastmodified":1536891428,
+    "wof:name":"Nazlat Bashir",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79593,
+    29.32682,
+    30.79593,
+    29.32682
+],
+  "geometry": {"coordinates":[30.79593,29.32682],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209008981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1476,30.77228,31.1476,30.77228",
+    "geom:latitude":30.77228,
+    "geom:longitude":31.1476,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Taj al `Ajam",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347621,
+    "gn:latitude":30.77228,
+    "gn:longitude":31.1476,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"T\u0101j al \u2018Ajam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u062c \u0627\u0644\u0639\u062c\u0645"
+    ],
+    "name:und_x_variant":[
+        "T\u00e2g el-\u2018Agam",
+        "T\u0101j al \u2018Ajam",
+        "T\u0101j al-\u2018Ajam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347621
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f9330d2ad881de44662ecb12bfa5ee4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209008981
+        }
+    ],
+    "wof:id":1209008981,
+    "wof:lastmodified":1537620562,
+    "wof:name":"Taj al `Ajam",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1476,
+    30.77228,
+    31.1476,
+    30.77228
+],
+  "geometry": {"coordinates":[31.1476,30.77228],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309969663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24744,27.01733,31.24744,27.01733",
+    "geom:latitude":27.01733,
+    "geom:longitude":31.24744,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Balayzah",
+    "gn:country_code":"EG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361445,
+    "gn:latitude":27.01733,
+    "gn:longitude":31.24744,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bal\u0101yzah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bal\u0101iza",
+        "Al Bal\u0101\u2019izah",
+        "El Balayza",
+        "Al Bal\u0101yzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361445
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3dad3f2683c28591946f58d607d951b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014313,
+            "locality_id":1309969663,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1309969663,
+    "wof:lastmodified":1537620936,
+    "wof:name":"Al Balayzah",
+    "wof:parent_id":1092014313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24744,
+    27.01733,
+    31.24744,
+    27.01733
+],
+  "geometry": {"coordinates":[31.24744,27.01733],"type":"Point"}
+}

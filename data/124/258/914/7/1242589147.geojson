@@ -1,0 +1,67 @@
+{
+  "id": 1242589147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53291,30.70828,30.53291,30.70828",
+    "geom:latitude":30.70828,
+    "geom:longitude":30.53291,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat as Sa`aydah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421658,
+    "gn:latitude":30.70828,
+    "gn:longitude":30.53291,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Qaryat a\u015f \u015ea\u2018\u0101ydah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421658
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a8b67155c4e510129e160102ba177659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1242589147,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242589147,
+    "wof:lastmodified":1537045084,
+    "wof:name":"Qaryat as Sa`aydah",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53291,
+    30.70828,
+    30.53291,
+    30.70828
+],
+  "geometry": {"coordinates":[30.53291,30.70828],"type":"Point"}
+}

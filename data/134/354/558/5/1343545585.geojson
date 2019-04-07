@@ -1,0 +1,74 @@
+{
+  "id": 1343545585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92393,30.48922,30.92393,30.48922",
+    "geom:latitude":30.48922,
+    "geom:longitude":30.92393,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Izbat al Bahariwah",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545517,
+    "gn:latitude":30.48922,
+    "gn:longitude":30.92393,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat al Ba\u1e29\u0101riwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u062d\u0627\u0631\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Ba\u1e29\u0101riwah",
+        "\u2018Izbat Ba\u1e25arwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092022369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545517
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"575c565ab57df6796561476e99234a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022369,
+            "locality_id":1343545585,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1343545585,
+    "wof:lastmodified":1537621260,
+    "wof:name":"`Izbat al Bahariwah",
+    "wof:parent_id":1092022369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92393,
+    30.48922,
+    30.92393,
+    30.48922
+],
+  "geometry": {"coordinates":[30.92393,30.48922],"type":"Point"}
+}

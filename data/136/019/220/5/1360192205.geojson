@@ -1,0 +1,71 @@
+{
+  "id": 1360192205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16139,31.19583,30.16139,31.19583",
+    "geom:latitude":31.19583,
+    "geom:longitude":30.16139,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Kawm Mazin",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355334,
+    "gn:latitude":31.19583,
+    "gn:longitude":30.16139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat Kawm M\u0101zin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet K\u00f4m M\u00e2zin",
+        "\u2018Izbat Kawm M\u0101zin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355334
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"36fc21de8cecd0d2d0db5c4cf6c34386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1360192205,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1360192205,
+    "wof:lastmodified":1537620761,
+    "wof:name":"`Izbat Kawm Mazin",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16139,
+    31.19583,
+    30.16139,
+    31.19583
+],
+  "geometry": {"coordinates":[30.16139,31.19583],"type":"Point"}
+}

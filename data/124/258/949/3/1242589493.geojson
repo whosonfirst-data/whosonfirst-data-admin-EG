@@ -1,0 +1,80 @@
+{
+  "id": 1242589493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.64135,31.10483,30.64135,31.10483",
+    "geom:latitude":31.10483,
+    "geom:longitude":30.64135,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ar Rahmaniyah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360150,
+    "gn:latitude":31.10483,
+    "gn:longitude":30.64135,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Ar Ra\u1e29m\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u0645\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Er-Rahm\u00e2n\u00eeyeh",
+        "Ar Rahmaniyyah",
+        "Er-Ra\u1e25m\u00e2n\u00eeya",
+        "Al Rahmaniyah",
+        "El-Ra\u1e25m\u00e2n\u00eeya",
+        "Ar Ra\u1e29m\u0101n\u012byah",
+        "Ar Ra\u1e25m\u0101niyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360150,
+        "wk:page":"El_Rahmaniya"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"41761d9d59f5ea74855377270a7bf863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019273,
+            "locality_id":1242589493,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242589493,
+    "wof:lastmodified":1537620869,
+    "wof:name":"Ar Rahmaniyah",
+    "wof:parent_id":1092019273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.64135,
+    31.10483,
+    30.64135,
+    31.10483
+],
+  "geometry": {"coordinates":[30.64135,31.10483],"type":"Point"}
+}

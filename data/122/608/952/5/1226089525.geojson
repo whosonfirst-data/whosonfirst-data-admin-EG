@@ -1,0 +1,73 @@
+{
+  "id": 1226089525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0796,31.05526,33.0796,31.05526",
+    "geom:latitude":31.05526,
+    "geom:longitude":33.0796,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Qaryat al Hurriyah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8623276,
+    "gn:latitude":31.05526,
+    "gn:longitude":33.0796,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Qaryat al \u1e28urr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0627\u0644\u062d\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al \u1e28urr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092015521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8623276
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"740bbf5c8971c832f856c2208d1166cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015521,
+            "locality_id":1226089525,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1226089525,
+    "wof:lastmodified":1537621215,
+    "wof:name":"Qaryat al Hurriyah",
+    "wof:parent_id":1092015521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0796,
+    31.05526,
+    33.0796,
+    31.05526
+],
+  "geometry": {"coordinates":[33.0796,31.05526],"type":"Point"}
+}

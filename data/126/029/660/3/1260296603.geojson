@@ -1,0 +1,78 @@
+{
+  "id": 1260296603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51752,31.07974,30.51752,31.07974",
+    "geom:latitude":31.07974,
+    "geom:longitude":30.51752,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al `Izbah al Bayda'",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8715704,
+    "gn:latitude":31.07974,
+    "gn:longitude":30.51752,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Al \u2018Izbah al Bay\u1e11\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u064a\u0635\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Izbah al Bay\u1e11\u0101\u2019",
+        "Al-\u2018Izbat Al-Bay\u1e0d\u0101\u2019",
+        "Al \u2018Izbah al Bay\u1e0d\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8715704
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d7ddaf83e38121802601474e395c6df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019273,
+            "locality_id":1260296603,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1260296603,
+    "wof:lastmodified":1537621219,
+    "wof:name":"Al `Izbah al Bayda'",
+    "wof:parent_id":1092019273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51752,
+    31.07974,
+    30.51752,
+    31.07974
+],
+  "geometry": {"coordinates":[30.51752,31.07974],"type":"Point"}
+}

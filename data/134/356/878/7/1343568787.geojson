@@ -1,0 +1,74 @@
+{
+  "id": 1343568787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2832,31.01542,30.2832,31.01542",
+    "geom:latitude":31.01542,
+    "geom:longitude":30.2832,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Zuwayrih",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10337194,
+    "gn:latitude":31.01542,
+    "gn:longitude":30.2832,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u2018Izbat Zuwayri\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0632\u0648\u064a\u0631\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Zuwayri\u1e29",
+        "\u2018Izbat Zuwayri\u1e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10337194
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"106b9d78c87368545c41bc1ebba3bca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1343568787,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343568787,
+    "wof:lastmodified":1537621239,
+    "wof:name":"`Izbat Zuwayrih",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2832,
+    31.01542,
+    30.2832,
+    31.01542
+],
+  "geometry": {"coordinates":[30.2832,31.01542],"type":"Point"}
+}

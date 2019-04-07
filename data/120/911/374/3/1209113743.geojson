@@ -1,0 +1,71 @@
+{
+  "id": 1209113743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1114,31.2099,30.1114,31.2099",
+    "geom:latitude":31.2099,
+    "geom:longitude":30.1114,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Musa`id",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414914,
+    "gn:latitude":31.2099,
+    "gn:longitude":30.1114,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat Mus\u0101\u2018id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u0633\u0627\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mus\u0101\u2018id",
+        "\u2018Izbat Mus\u0101\u2018id Balba\u2018",
+        "\u2018Ezbet Misa\u2018id Balba\u2018",
+        "\u2018Ezbet Mus\u00e2\u2018id Balba\u2018",
+        "\u2018Ezbet Mis\u00e2\u2018id Balba\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414914
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"eb0a9b74b5b3120c36c5c1461dd5e16a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209113743
+        }
+    ],
+    "wof:id":1209113743,
+    "wof:lastmodified":1537620971,
+    "wof:name":"`Izbat Musa`id",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1114,
+    31.2099,
+    30.1114,
+    31.2099
+],
+  "geometry": {"coordinates":[30.1114,31.2099],"type":"Point"}
+}

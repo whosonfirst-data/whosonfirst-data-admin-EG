@@ -1,0 +1,71 @@
+{
+  "id": 1293362873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9,24.36667,32.9,24.36667",
+    "geom:latitude":24.36667,
+    "geom:longitude":32.9,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Nuju` al Jazirah",
+    "gn:country_code":"EG",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350961,
+    "gn:latitude":24.36667,
+    "gn:longitude":32.9,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nuj\u016b\u2018 al Jaz\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nug\u00fb\u2018 el Gezira",
+        "Nuj\u016b\u2018 al Jaz\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350961
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a50ba0944c3b503b6e803b8413dd1113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016115,
+            "locality_id":1293362873,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1293362873,
+    "wof:lastmodified":1537620601,
+    "wof:name":"Nuju` al Jazirah",
+    "wof:parent_id":1092016115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9,
+    24.36667000000001,
+    32.9,
+    24.36667000000001
+],
+  "geometry": {"coordinates":[32.9,24.36667000000001],"type":"Point"}
+}

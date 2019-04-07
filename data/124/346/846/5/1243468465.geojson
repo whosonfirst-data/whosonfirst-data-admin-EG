@@ -1,0 +1,73 @@
+{
+  "id": 1243468465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3449,30.68352,31.3449,30.68352",
+    "geom:latitude":30.68352,
+    "geom:longitude":31.3449,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat al `Azab Salim",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":420588,
+    "gn:latitude":30.68352,
+    "gn:longitude":31.3449,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al \u2018Azab S\u0101lim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u0632\u0628 \u0633\u0627\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u2018Azab S\u0101lim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":420588
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"07432320bc9c6a85c687e0dbd6d64a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022277,
+            "locality_id":1243468465,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1243468465,
+    "wof:lastmodified":1537621079,
+    "wof:name":"`Izbat al `Azab Salim",
+    "wof:parent_id":1092022277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3449,
+    30.68352,
+    31.3449,
+    30.68352
+],
+  "geometry": {"coordinates":[31.3449,30.68352],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 890452817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.937,31.15815,31.937,31.15815",
+    "geom:latitude":31.15815,
+    "geom:longitude":31.937,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":67486,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0632\u0644\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Manzala"
+    ],
+    "name:eng_x_preferred":[
+        "Manzala"
+    ],
+    "name:fre_x_preferred":[
+        "Manzala"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0646\u0632\u0644\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Manzila"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041c\u0430\u043d\u0437\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Manzilah"
+    ],
+    "name:unk_x_variant":[
+        "El-Manzala"
+    ],
+    "qs:name":"Al Manzilah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360754,
+        "gp:id":56447312,
+        "qs:id":547928,
+        "wd:id":"Q3494688"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052831,
+    "wof:geomhash":"e16ce007f56986c7375b84d93c2704a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018397,
+            "locality_id":890452817,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":890452817,
+    "wof:lastmodified":1513956639,
+    "wof:name":"Al Manzilah",
+    "wof:parent_id":1092018397,
+    "wof:placetype":"locality",
+    "wof:population":67486,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.937,
+    31.15815,
+    31.937,
+    31.15815
+],
+  "geometry": {"coordinates":[31.937,31.15815],"type":"Point"}
+}

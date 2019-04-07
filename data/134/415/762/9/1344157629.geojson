@@ -1,0 +1,72 @@
+{
+  "id": 1344157629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72141,29.319,30.72141,29.319",
+    "geom:latitude":29.319,
+    "geom:longitude":30.72141,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kafr ash Shaykh Ahmad al Jabalawi",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354497,
+    "gn:latitude":29.319,
+    "gn:longitude":30.72141,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr ash Shaykh A\u1e29mad al Jabal\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el Gebal\u00e2mi",
+        "Kafr el-Sheikh A\u1e25mad el Gabal\u00e2wi",
+        "Kafr ash Shaykh A\u1e29mad al Jabal\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354497
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6548489bad4abb86b620e70abe2335b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1344157629,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1344157629,
+    "wof:lastmodified":1537620719,
+    "wof:name":"Kafr ash Shaykh Ahmad al Jabalawi",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72141,
+    29.31900000000001,
+    30.72141,
+    29.31900000000001
+],
+  "geometry": {"coordinates":[30.72141,29.31900000000001],"type":"Point"}
+}

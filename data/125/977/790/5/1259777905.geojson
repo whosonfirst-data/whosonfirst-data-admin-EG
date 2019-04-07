@@ -1,0 +1,73 @@
+{
+  "id": 1259777905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16865,30.59166,31.16865,30.59166",
+    "geom:latitude":30.59166,
+    "geom:longitude":31.16865,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Izbat Mikha'il Hana wa Ikhwati",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199992,
+    "gn:latitude":30.59166,
+    "gn:longitude":31.16865,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"\u2018Izbat Mikha\u2019\u012bl \u1e28an\u0101 wa Ikhwat\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u062e\u0627 \u0626\u064a\u0644 \u062d\u0646\u0627 \u0648 \u0627\u062c\u0648\u062a\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mikha\u2019\u012bl \u1e28an\u0101 wa Ikhwat\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092023671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199992
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c39bca5e67cebdbe44ed09bea0e1c53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023671,
+            "locality_id":1259777905,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1259777905,
+    "wof:lastmodified":1537621189,
+    "wof:name":"`Izbat Mikha'il Hana wa Ikhwati",
+    "wof:parent_id":1092023671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16865,
+    30.59166,
+    31.16865,
+    30.59166
+],
+  "geometry": {"coordinates":[31.16865,30.59166],"type":"Point"}
+}

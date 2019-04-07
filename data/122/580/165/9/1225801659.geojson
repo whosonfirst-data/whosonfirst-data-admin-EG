@@ -1,0 +1,67 @@
+{
+  "id": 1225801659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.42826,30.80655,29.42826,30.80655",
+    "geom:latitude":30.80655,
+    "geom:longitude":29.42826,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Zawyet el-Saiyid Idris el- Sinusi",
+    "gn:country_code":"EG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346064,
+    "gn:latitude":30.80655,
+    "gn:longitude":29.42826,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Zawyet el-Saiyid Idr\u00ees el- Sin\u00fbs\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346064
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f127ee1f97bedb28bf4ec73c35761449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015739,
+            "locality_id":1225801659,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1225801659,
+    "wof:lastmodified":1537074359,
+    "wof:name":"Zawyet el-Saiyid Idris el- Sinusi",
+    "wof:parent_id":1092015739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.42826,
+    30.80655,
+    29.42826,
+    30.80655
+],
+  "geometry": {"coordinates":[29.42826,30.80655],"type":"Point"}
+}

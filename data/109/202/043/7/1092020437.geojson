@@ -1,0 +1,92 @@
+{
+  "id": 1092020437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000346,
+    "geom:area_square_m":3701804.515664,
+    "geom:bbox":"31.214834,30.036419,31.2296390209,30.076754",
+    "geom:latitude":30.055682,
+    "geom:longitude":31.222671,
+    "iso:country":"EG",
+    "lbl:latitude":30.055098,
+    "lbl:longitude":31.222559,
+    "meso:admin_1":"Cairo",
+    "meso:diss_me":"El-ZamalekCairo",
+    "meso:gadm_admin":"Zamalik",
+    "meso:gadm_hasc2":"EG.QH.ZM",
+    "meso:gaul_admin":"Zamalik",
+    "meso:mps_x":31.221276,
+    "meso:mps_y":30.056224,
+    "meso:name_en":"El-Zamalek",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.055098,
+    "mps:longitude":31.222559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Az-Zamalik"
+    ],
+    "name:eng_x_variant":[
+        "Zamalik"
+    ],
+    "src:geom":"whosonfirst",
+    "src:geom_via":"meso",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.QH",
+    "statoids:name":"Az-Zamalik",
+    "statoids:population":"17365",
+    "statoids:statoid":"EG.QH.ZM",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.QH.ZM"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897360,
+    "wof:geomhash":"6a8864c892a121d10db0e2ae3e5ae33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020437,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1092020437,
+    "wof:lastmodified":1541791498,
+    "wof:name":"El-Zamalek",
+    "wof:parent_id":85670999,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":17365,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"ZM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.214834,
+    30.036419000000002,
+    31.229639020904855,
+    30.076753999999987
+],
+  "geometry": {"coordinates":[[[31.215087,30.067161],[31.215359,30.067715],[31.217033,30.06944],[31.218691,30.071096],[31.219277,30.071725],[31.220517,30.072876],[31.221689,30.073881],[31.22222,30.074335],[31.22439,30.07602199999999],[31.22538499999999,30.07675399999999],[31.2263574317959,30.07629854738843],[31.22516260219293,30.07302665541183],[31.22490991699135,30.07054408908227],[31.22496784818825,30.06832444002731],[31.22568784939074,30.06333485233418],[31.22876151286878,30.05091579920706],[31.22888211898425,30.05005255436897],[31.22963902090486,30.04463498766355],[31.22898190533498,30.03986699999999],[31.22777100000001,30.036419],[31.22301700701611,30.03800838247504],[31.22166426885306,30.03883583180371],[31.22097666810587,30.040051],[31.220453,30.041321],[31.220203,30.042432],[31.220085,30.043984],[31.219716,30.045514],[31.219006,30.047597],[31.218521,30.049682],[31.217933,30.052179],[31.217806,30.05278],[31.217706,30.053237],[31.217335,30.055182],[31.216899,30.057199],[31.216016,30.059739],[31.21577,30.06128],[31.215462,30.063272],[31.214834,30.065605],[31.214841,30.066659],[31.215087,30.067161]]],"type":"Polygon"}
+}

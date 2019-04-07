@@ -1,0 +1,71 @@
+{
+  "id": 1209379265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03784,31.20535,31.03784,31.20535",
+    "geom:latitude":31.20535,
+    "geom:longitude":31.03784,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Halafi al Kabir",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361241,
+    "gn:latitude":31.20535,
+    "gn:longitude":31.03784,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Al \u1e28al\u0101f\u012b al Kab\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u0627\u0641\u064a \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e24al\u00e2fi",
+        "Al \u1e28al\u0101f\u012b",
+        "Al \u1e28al\u0101f\u012b al Kab\u012br",
+        "Al-\u1e24alafi al-Kab\u012br",
+        "Al \u1e28alaf\u012b al Kab\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361241
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0f4c0dc6cf0921ae97174af94e271ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209379265
+        }
+    ],
+    "wof:id":1209379265,
+    "wof:lastmodified":1537620924,
+    "wof:name":"Al Halafi al Kabir",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03784000000001,
+    31.20535,
+    31.03784000000001,
+    31.20535
+],
+  "geometry": {"coordinates":[31.03784000000001,31.20535],"type":"Point"}
+}

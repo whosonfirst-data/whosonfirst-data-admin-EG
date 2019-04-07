@@ -1,0 +1,72 @@
+{
+  "id": 1276217507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.275,29.49111,31.275,29.49111",
+    "geom:latitude":29.49111,
+    "geom:longitude":31.275,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Widy wa Kafr ad Dismi",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357727,
+    "gn:latitude":29.49111,
+    "gn:longitude":31.275,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Widy wa Kafr ad Dism\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Widy wa Kafr el-Disam\u00ee",
+        "Al Widy wa Kafr ad Dism\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092019453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357727
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"80441c4423622a0b2f83dcb40156132e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019453,
+            "locality_id":1276217507,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1276217507,
+    "wof:lastmodified":1537620803,
+    "wof:name":"Al Widy wa Kafr ad Dismi",
+    "wof:parent_id":1092019453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.275,
+    29.49111,
+    31.275,
+    29.49111
+],
+  "geometry": {"coordinates":[31.275,29.49111],"type":"Point"}
+}

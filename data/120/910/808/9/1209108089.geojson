@@ -1,0 +1,65 @@
+{
+  "id": 1209108089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27173,30.70419,30.27173,30.70419",
+    "geom:latitude":30.70419,
+    "geom:longitude":30.27173,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ash Sha`rawi",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408934,
+    "gn:latitude":30.70419,
+    "gn:longitude":30.27173,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Sha\u2018r\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Shar\u00e2wi",
+        "Ash Sha\u2018r\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408934
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"810872d5f600899a439fc0739f73e66c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209108089
+        }
+    ],
+    "wof:id":1209108089,
+    "wof:lastmodified":1537620967,
+    "wof:name":"Ash Sha`rawi",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27173,
+    30.70419,
+    30.27173,
+    30.70419
+],
+  "geometry": {"coordinates":[30.27173,30.70419],"type":"Point"}
+}

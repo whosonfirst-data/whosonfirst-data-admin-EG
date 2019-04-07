@@ -1,0 +1,74 @@
+{
+  "id": 1276880573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56978,31.19227,30.56978,31.19227",
+    "geom:latitude":31.19227,
+    "geom:longitude":30.56978,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Surunbay",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347727,
+    "gn:latitude":31.19227,
+    "gn:longitude":30.56978,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Surunb\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0646\u0628\u0627\u064a"
+    ],
+    "name:und_x_variant":[
+        "Surumb\u00e2i",
+        "Surunb\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092018277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347727
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cae4af013553ce40fd23f664d116e81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018277,
+            "locality_id":1276880573,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276880573,
+    "wof:lastmodified":1537620564,
+    "wof:name":"Surunbay",
+    "wof:parent_id":1092018277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56978,
+    31.19227,
+    30.56978,
+    31.19227
+],
+  "geometry": {"coordinates":[30.56978,31.19227],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293266303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95183,31.26434,30.95183,31.26434",
+    "geom:latitude":31.26434,
+    "geom:longitude":30.95183,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Bilal",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357583,
+    "gn:latitude":31.26434,
+    "gn:longitude":30.95183,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbat Bil\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0628\u0644\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Bil\u00e2l",
+        "\u2018Izbat Bil\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357583
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8b58687605fb6465c85ec21895277211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1293266303,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1293266303,
+    "wof:lastmodified":1537620799,
+    "wof:name":"`Izbat Bilal",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95183,
+    31.26434,
+    30.95183,
+    31.26434
+],
+  "geometry": {"coordinates":[30.95183,31.26434],"type":"Point"}
+}

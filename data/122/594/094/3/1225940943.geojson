@@ -1,0 +1,74 @@
+{
+  "id": 1225940943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0476,30.69766,31.0476,30.69766",
+    "geom:latitude":30.69766,
+    "geom:longitude":31.0476,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abu Mashhur",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":362379,
+    "gn:latitude":30.69766,
+    "gn:longitude":31.0476,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ab\u016b Mashh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0645\u0634\u0647\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Abu Mashh\u00fbr",
+        "Ab\u016b Mashh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092015653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":362379
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7887722d764c7472b992511c1b9dc9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015653,
+            "locality_id":1225940943,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1225940943,
+    "wof:lastmodified":1537620959,
+    "wof:name":"Abu Mashhur",
+    "wof:parent_id":1092015653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0476,
+    30.69766,
+    31.0476,
+    30.69766
+],
+  "geometry": {"coordinates":[31.0476,30.69766],"type":"Point"}
+}

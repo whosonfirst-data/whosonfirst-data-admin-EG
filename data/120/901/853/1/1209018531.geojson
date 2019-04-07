@@ -1,0 +1,68 @@
+{
+  "id": 1209018531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35493,30.69959,31.35493,30.69959",
+    "geom:latitude":30.69959,
+    "geom:longitude":31.35493,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr Dawud Matar",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354326,
+    "gn:latitude":30.69959,
+    "gn:longitude":31.35493,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr D\u0101w\u016bd Ma\u0163ar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062f\u0627\u0648\u062f \u0645\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kafr D\u0101\u2019\u016bd Ma\u0163ar",
+        "Kafr D\u0101w\u016bd Ma\u0163ar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354326
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"be21df4faf7737d81a8c525190eaf955",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209018531
+        }
+    ],
+    "wof:id":1209018531,
+    "wof:lastmodified":1537620704,
+    "wof:name":"Kafr Dawud Matar",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35493,
+    30.69959,
+    31.35493,
+    30.69959
+],
+  "geometry": {"coordinates":[31.35493,30.69959],"type":"Point"}
+}

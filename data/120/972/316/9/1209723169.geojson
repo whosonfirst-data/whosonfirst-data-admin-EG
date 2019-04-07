@@ -1,0 +1,73 @@
+{
+  "id": 1209723169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69334,31.0849,30.69334,31.0849",
+    "geom:latitude":31.0849,
+    "geom:longitude":30.69334,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"As`ad",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415854,
+    "gn:latitude":31.0849,
+    "gn:longitude":30.69334,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"As\u2018ad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0633\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "As\u2018ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092019273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415854
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0fa38232a6fdc411b87a09540be7f47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019273,
+            "locality_id":1209723169,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1209723169,
+    "wof:lastmodified":1537621001,
+    "wof:name":"As`ad",
+    "wof:parent_id":1092019273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69334000000001,
+    31.0849,
+    30.69334000000001,
+    31.0849
+],
+  "geometry": {"coordinates":[30.69334000000001,31.0849],"type":"Point"}
+}

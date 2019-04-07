@@ -1,0 +1,74 @@
+{
+  "id": 1327053057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10819,30.67239,31.10819,30.67239",
+    "geom:latitude":30.67239,
+    "geom:longitude":31.10819,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kafr al Hajj Dawud",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354676,
+    "gn:latitude":30.67239,
+    "gn:longitude":31.10819,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kafr al \u1e28\u0101jj D\u0101wud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u062d\u0627\u062c \u062f\u0627\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kafr el-\u1e24\u00e2gg D\u00e2w\u00fbd",
+        "Kafr al \u1e28\u0101jj D\u0101wud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354676
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"929c6d56fe652138033f922aab0fa9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1327053057,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1327053057,
+    "wof:lastmodified":1537620735,
+    "wof:name":"Kafr al Hajj Dawud",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.10819,
+    30.67239,
+    31.10819,
+    30.67239
+],
+  "geometry": {"coordinates":[31.10819,30.67239],"type":"Point"}
+}

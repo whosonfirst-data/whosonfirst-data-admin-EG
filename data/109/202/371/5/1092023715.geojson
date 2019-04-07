@@ -1,0 +1,74 @@
+{
+  "id": 1092023715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.028857,
+    "geom:area_square_m":305687614.982905,
+    "geom:bbox":"33.806638,30.927456,33.968691,31.174338",
+    "geom:latitude":31.056337,
+    "geom:longitude":33.879318,
+    "iso:country":"EG",
+    "lbl:latitude":31.057936,
+    "lbl:longitude":33.880861,
+    "meso:admin_1":"North Sinai",
+    "meso:diss_me":"Rabe' El-AreeshNorth Sinai",
+    "meso:gadm_admin":"Sheikh Zawid",
+    "meso:gadm_hasc2":"EG.SS.SZ",
+    "meso:gaul_admin":"Shaykh Zuwayd",
+    "meso:mps_x":33.880861,
+    "meso:mps_y":31.057936,
+    "meso:name_en":"Rabe' El-Areesh",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":31.057936,
+    "mps:longitude":33.880861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Shaykh Zuwayd",
+        "Sheikh Zawid"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.SS.SZ"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897484,
+    "wof:geomhash":"4af4f9a7a88297f399acd3048d44cdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023715,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1092023715,
+    "wof:lastmodified":1536615092,
+    "wof:name":"Rabe' El-Areesh",
+    "wof:parent_id":85671093,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"SZ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.806638,
+    30.927456,
+    33.968691,
+    31.174338
+],
+  "geometry": {"coordinates":[[[33.91004,31.174338],[33.933426,31.154567],[33.968691,31.12181],[33.960271,31.102518],[33.950786,31.09094],[33.951828,31.079369],[33.952287,31.062977],[33.951088,31.047066],[33.948246,31.034529],[33.94154,31.024399],[33.933138,31.008482],[33.928618,30.993051],[33.925214,30.979066],[33.916812,30.96315],[33.899048,30.931809],[33.82434,30.927456],[33.806638,31.149385],[33.816373,31.151594],[33.827874,31.152965],[33.84781,31.155967],[33.864977,31.161176],[33.884839,31.167961],[33.91004,31.174338]]],"type":"Polygon"}
+}

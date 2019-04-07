@@ -1,0 +1,74 @@
+{
+  "id": 1193237261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26291,31.28266,31.26291,31.28266",
+    "geom:latitude":31.28266,
+    "geom:longitude":31.26291,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat ash Shutut",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355411,
+    "gn:latitude":31.28266,
+    "gn:longitude":31.26291,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"\u2018Izbat ash Shu\u0163\u016b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0634\u0637\u0648\u0637"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezab el-Shu\u1e6d\u00fb\u1e6d",
+        "\u2018Izbat ash Shu\u0163\u016b\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355411
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d20856ca3ae6b91cd699185370c2612c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1193237261,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1193237261,
+    "wof:lastmodified":1537620766,
+    "wof:name":"`Izbat ash Shutut",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26291,
+    31.28266,
+    31.26291,
+    31.28266
+],
+  "geometry": {"coordinates":[31.26291,31.28266],"type":"Point"}
+}

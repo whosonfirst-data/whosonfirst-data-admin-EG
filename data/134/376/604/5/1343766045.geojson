@@ -1,0 +1,76 @@
+{
+  "id": 1343766045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.99351,31.21191,31.99351,31.21191",
+    "geom:latitude":31.21191,
+    "geom:longitude":31.99351,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"An Nasaymah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360353,
+    "gn:latitude":31.21191,
+    "gn:longitude":31.99351,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"An Nas\u0101ymah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0633\u0627\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Nas\u00e2yma",
+        "An Nas\u0101\u2019imah",
+        "An Nas\u0101ymah",
+        "An-Nas\u0101ymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360353
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"58909689f889c4045813259fce0df54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018479,
+            "locality_id":1343766045,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343766045,
+    "wof:lastmodified":1537620876,
+    "wof:name":"An Nasaymah",
+    "wof:parent_id":1092018479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.99351,
+    31.21191,
+    31.99351,
+    31.21191
+],
+  "geometry": {"coordinates":[31.99351,31.21191],"type":"Point"}
+}

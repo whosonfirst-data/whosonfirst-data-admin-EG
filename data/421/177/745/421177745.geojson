@@ -1,0 +1,107 @@
+{
+  "id": 421177745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.84106,31.5084,31.84106,31.5084",
+    "geom:latitude":31.5084,
+    "geom:longitude":31.84106,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u0631\u062c"
+    ],
+    "name:dut_x_preferred":[
+        "Ezbet el-Borg"
+    ],
+    "name:eng_x_preferred":[
+        "Ezbet el-Burg"
+    ],
+    "name:fre_x_preferred":[
+        "Izbet el Bourdj"
+    ],
+    "name:ger_x_preferred":[
+        "Izbat al-Burdsch"
+    ],
+    "name:nor_x_preferred":[
+        "Ezbet el-Burg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0437\u0431\u0430\u0442-\u044d\u043b\u044c-\u0411\u0443\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "\u2018Izbat al Burj"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Ezbet el-Burg"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":355392,
+    "qs:gn_pop":37953,
+    "qs:name":"Izbat al Burj",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u062f\u0645\u064a\u0627\u0637",
+    "qs:photos":91,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":91,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1205942,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1523867,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355392,
+        "gp:id":1523867,
+        "qs:id":1205942,
+        "wd:id":"Q1010823"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009159,
+    "wof:geomhash":"03e613b0a73669aa75a832116afc2b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":421177745,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":421177745,
+    "wof:lastmodified":1513956692,
+    "wof:name":"Izbat al Burj",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:population":37953,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.84106,
+    31.5084,
+    31.84106,
+    31.5084
+],
+  "geometry": {"coordinates":[31.84106,31.5084],"type":"Point"}
+}

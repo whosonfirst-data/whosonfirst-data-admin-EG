@@ -1,0 +1,67 @@
+{
+  "id": 1242788241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88604,27.07365,33.88604,27.07365",
+    "geom:latitude":27.07365,
+    "geom:longitude":33.88604,
+    "gn:asciiname":"Sahl Hasheesh",
+    "gn:country_code":"EG",
+    "gn:dem":40,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11054346,
+    "gn:latitude":27.07365,
+    "gn:longitude":33.88604,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sahl Hasheesh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092021497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11054346
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f890add632605182245cb798ce8666d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021497,
+            "locality_id":1242788241,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1242788241,
+    "wof:lastmodified":1536760352,
+    "wof:name":"Sahl Hasheesh",
+    "wof:parent_id":1092021497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88604,
+    27.07365,
+    33.88604,
+    27.07365
+],
+  "geometry": {"coordinates":[33.88604,27.07365],"type":"Point"}
+}

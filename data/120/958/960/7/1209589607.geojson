@@ -1,0 +1,68 @@
+{
+  "id": 1209589607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78239,31.23516,30.78239,31.23516",
+    "geom:latitude":31.23516,
+    "geom:longitude":30.78239,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Abu `Itah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416230,
+    "gn:latitude":31.23516,
+    "gn:longitude":30.78239,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Ab\u016b \u2018\u012a\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0639\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b \u2018\u012a\u0163ah",
+        "\u2018Izbat Ab\u016b \u2018\u012a\u1e6dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416230
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5aa6e7745ae6fcf0f07f7c7a1903f74c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209589607
+        }
+    ],
+    "wof:id":1209589607,
+    "wof:lastmodified":1537621024,
+    "wof:name":"`Izbat Abu `Itah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78239,
+    31.23516,
+    30.78239,
+    31.23516
+],
+  "geometry": {"coordinates":[30.78239,31.23516],"type":"Point"}
+}

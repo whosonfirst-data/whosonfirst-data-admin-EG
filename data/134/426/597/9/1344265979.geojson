@@ -1,0 +1,73 @@
+{
+  "id": 1344265979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14164,27.31323,31.14164,27.31323",
+    "geom:latitude":27.31323,
+    "geom:longitude":31.14164,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"`Arab al Qadadih",
+    "gn:country_code":"EG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351186,
+    "gn:latitude":27.31323,
+    "gn:longitude":31.14164,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Arab al Qad\u0101d\u012b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlat al Qad\u0101d\u012b\u1e29",
+        "Nazlet el-Qad\u00e2d\u00ee\u1e25",
+        "Nazlet Qad\u00e2d\u00ee\u1e25",
+        "\u2018Arab al Qad\u0101d\u012b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092022905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351186
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a57eaca18beb955702d17a6bc74b6657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022905,
+            "locality_id":1344265979,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1344265979,
+    "wof:lastmodified":1537620612,
+    "wof:name":"`Arab al Qadadih",
+    "wof:parent_id":1092022905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14164,
+    27.31323,
+    31.14164,
+    27.31323
+],
+  "geometry": {"coordinates":[31.14164,27.31323],"type":"Point"}
+}

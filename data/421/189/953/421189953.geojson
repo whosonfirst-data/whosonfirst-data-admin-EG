@@ -1,0 +1,75 @@
+{
+  "id": 421189953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.228981,30.13711,31.228981,30.13711",
+    "geom:latitude":30.13711,
+    "geom:longitude":31.228981,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Warraq al Hadar wa Ambubah wa Mit an Nasara",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u062c\u064a\u0632\u0629",
+    "qs:photos":58,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":58,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118072,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1526609,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092018935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1526609,
+        "qs:id":1118072
+    },
+    "wof:country":"EG",
+    "wof:created":1459009641,
+    "wof:geomhash":"9bc65a187d77feff0dd688c7348b3637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018935,
+            "locality_id":421189953,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":421189953,
+    "wof:lastmodified":1500036728,
+    "wof:name":"Warraq al Hadar wa Ambubah wa Mit an Nasara",
+    "wof:parent_id":1092018935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.228981,
+    30.13711,
+    31.228981,
+    30.13711
+],
+  "geometry": {"coordinates":[31.228981,30.13711],"type":"Point"}
+}

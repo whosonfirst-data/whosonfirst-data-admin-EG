@@ -1,0 +1,75 @@
+{
+  "id": 1293906309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23633,30.8465,31.23633,30.8465",
+    "geom:latitude":30.8465,
+    "geom:longitude":31.23633,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mit Badr Halawah",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352194,
+    "gn:latitude":30.8465,
+    "gn:longitude":31.23633,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"M\u012bt Badr \u1e28al\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0628\u062f\u0631 \u062d\u0644\u0627\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet Badr \u1e24al\u00e2wa",
+        "M\u012bt Badr \u1e28al\u0101wah",
+        "M\u012bt Badr \u1e24al\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092024253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352194
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"13ff420f94e4449a0d5af7498f741eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024253,
+            "locality_id":1293906309,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1293906309,
+    "wof:lastmodified":1537620639,
+    "wof:name":"Mit Badr Halawah",
+    "wof:parent_id":1092024253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23633,
+    30.8465,
+    31.23633,
+    30.8465
+],
+  "geometry": {"coordinates":[31.23633,30.8465],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226603087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.75708,25.87026,32.75708,25.87026",
+    "geom:latitude":25.87026,
+    "geom:longitude":32.75708,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Jarajus",
+    "gn:country_code":"EG",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355174,
+    "gn:latitude":25.87026,
+    "gn:longitude":32.75708,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Jar\u0101j\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0627\u062c\u0648\u0633\u200e"
+    ],
+    "name:und_x_variant":[
+        "Garag\u00fbs",
+        "Karakos",
+        "Jar\u0101j\u016bs",
+        "Garagos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092023581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355174,
+        "wk:page":"Garagos,_Egypt"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fabb538b6e32cc1b539e1b23fe2358af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023581,
+            "locality_id":1226603087,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1226603087,
+    "wof:lastmodified":1537620756,
+    "wof:name":"Jarajus",
+    "wof:parent_id":1092023581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.75708,
+    25.87026,
+    32.75708,
+    25.87026
+],
+  "geometry": {"coordinates":[32.75708,25.87026],"type":"Point"}
+}

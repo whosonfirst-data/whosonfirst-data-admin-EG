@@ -1,0 +1,71 @@
+{
+  "id": 1327333755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52349,29.38624,30.52349,29.38624",
+    "geom:latitude":29.38624,
+    "geom:longitude":30.52349,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Waqim",
+    "gn:country_code":"EG",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357079,
+    "gn:latitude":29.38624,
+    "gn:longitude":30.52349,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat W\u0101q\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet Waq\u00eem",
+        "\u2018Izbat W\u0101q\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357079
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f0fada41e725090410c7900c0a17d335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1327333755,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1327333755,
+    "wof:lastmodified":1537620783,
+    "wof:name":"`Izbat Waqim",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52349,
+    29.38624,
+    30.52349,
+    29.38624
+],
+  "geometry": {"coordinates":[30.52349,29.38624],"type":"Point"}
+}

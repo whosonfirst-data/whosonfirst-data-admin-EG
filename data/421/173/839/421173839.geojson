@@ -1,0 +1,132 @@
+{
+  "id": 421173839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31671,29.60018,32.31671,29.60018",
+    "geom:latitude":29.60018,
+    "geom:longitude":32.31671,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0633\u062e\u0646\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0633\u062e\u0646\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09a8 \u09b8\u09c1\u0996\u09a8\u09be"
+    ],
+    "name:cze_x_preferred":[
+        "Ain Soukhna"
+    ],
+    "name:dut_x_preferred":[
+        "Ain Sukhna"
+    ],
+    "name:eng_x_preferred":[
+        "Ain Sukhna"
+    ],
+    "name:fre_x_preferred":[
+        "Ain Sukhna"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d8\u10dc-\u10e1\u10e3\u10ee\u10dc\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "al-Ain as-Suchna"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u0390\u03bd \u03a3\u03bf\u03cd\u03c7\u03bd\u03b1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30f3\u30fb\u30b9\u30af\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc778 \uc218\ud06c\ub098"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0639\u06cc\u0646 \u0627\u0644\u0633\u062e\u0646\u0629"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn Suchna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u0421\u0443\u0445\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ain Sokhna"
+    ],
+    "name:unk_x_variant":[
+        "Ain El Sukhna"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7521348,
+    "qs:gn_pop":45552,
+    "qs:name":"Ayn Sukhnah",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0633\u0648\u064a\u0633",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":542273,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":56120954,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671013,
+        1092023197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7521348,
+        "gp:id":56120954,
+        "qs:id":542273,
+        "wd:id":"Q405881",
+        "wk:page":"Whorouly"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009007,
+    "wof:geomhash":"f341bd3ed56192a5edffcda252f4bf26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023197,
+            "locality_id":421173839,
+            "region_id":85671013
+        }
+    ],
+    "wof:id":421173839,
+    "wof:lastmodified":1513956673,
+    "wof:name":"Ayn Sukhnah",
+    "wof:parent_id":1092023197,
+    "wof:placetype":"locality",
+    "wof:population":45552,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31671,
+    29.60018,
+    32.31671,
+    29.60018
+],
+  "geometry": {"coordinates":[32.31671,29.60018],"type":"Point"}
+}

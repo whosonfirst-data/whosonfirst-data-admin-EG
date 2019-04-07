@@ -1,0 +1,71 @@
+{
+  "id": 1327398335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08671,31.19867,31.08671,31.19867",
+    "geom:latitude":31.19867,
+    "geom:longitude":31.08671,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Ikhsas",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361084,
+    "gn:latitude":31.19867,
+    "gn:longitude":31.08671,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Al Ikh\u015f\u0101\u015f",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Ikh\u1e63\u00e2\u1e63",
+        "Al Ikh\u015f\u0101\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361084
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0c94bb30bce750e001c1965f15785cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1327398335,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1327398335,
+    "wof:lastmodified":1537620914,
+    "wof:name":"Al Ikhsas",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08671,
+    31.19867,
+    31.08671,
+    31.19867
+],
+  "geometry": {"coordinates":[31.08671,31.19867],"type":"Point"}
+}

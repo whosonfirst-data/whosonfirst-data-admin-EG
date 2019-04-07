@@ -1,0 +1,65 @@
+{
+  "id": 1209683941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55313,26.77143,31.55313,26.77143",
+    "geom:latitude":26.77143,
+    "geom:longitude":31.55313,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Nazlat al Haridi",
+    "gn:country_code":"EG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351207,
+    "gn:latitude":26.77143,
+    "gn:longitude":31.55313,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat al \u1e28ar\u012bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet el Har\u00eedi",
+        "Nazlat al \u1e28ar\u012bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351207
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"98fe2a77f328016597e0a2b4970b808b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209683941
+        }
+    ],
+    "wof:id":1209683941,
+    "wof:lastmodified":1537620613,
+    "wof:name":"Nazlat al Haridi",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55313,
+    26.77143,
+    31.55313,
+    26.77143
+],
+  "geometry": {"coordinates":[31.55313,26.77143],"type":"Point"}
+}

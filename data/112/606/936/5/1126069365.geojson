@@ -1,0 +1,117 @@
+{
+  "id": 1126069365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23866,30.08505,31.23866,30.08505",
+    "geom:latitude":30.08505,
+    "geom:longitude":31.23866,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":30.08505,
+    "gn:longitude":31.23867,
+    "iso:country":"EG",
+    "lbl:latitude":30.08505,
+    "lbl:longitude":31.23866,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0634\u0628\u0631\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Shubr\u0101"
+    ],
+    "name:eng_x_colloquial":[
+        "Shubra",
+        "Shubraa"
+    ],
+    "name:eng_x_preferred":[
+        "Shubr\u00e5"
+    ],
+    "name:eng_x_variant":[
+        "Shoubra",
+        "Shubr\u00e5"
+    ],
+    "name:unk_x_variant":[
+        "\u0634\u0628\u0631\u0627",
+        "Shoubra"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":349080,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u0634\u0628\u0631\u0627",
+    "qs_pg:name_adm0":"\u0645\u0635\u0631",
+    "qs_pg:name_adm1":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+    "qs_pg:photos":236,
+    "qs_pg:photos_1k":48,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":236,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":482537,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424802,
+    "qs_pg:woe_id":1526301,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424802,
+    "woe:name_adm0":"\u0645\u0635\u0631",
+    "woe:name_adm1":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670999,
+        102191573,
+        85632581,
+        1092019499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349080,
+        "gp:id":1526301,
+        "qs:id":482537,
+        "qs_pg:id":482537,
+        "wd:id":"Q2096164",
+        "wk:page":"Shubra"
+    },
+    "wof:country":"EG",
+    "wof:created":1497309563,
+    "wof:geomhash":"fb4b22b847040dbbe793b1c92a979c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019499,
+            "locality_id":-1,
+            "neighbourhood_id":1126069365,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1126069365,
+    "wof:lastmodified":1534379294,
+    "wof:name":"\u0634\u0628\u0631\u0627",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85902965
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23866,
+    30.08505,
+    31.23866,
+    30.08505
+],
+  "geometry": {"coordinates":[31.23866,30.08505],"type":"Point"}
+}

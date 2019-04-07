@@ -1,0 +1,68 @@
+{
+  "id": 1209080219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18152,31.19791,31.18152,31.19791",
+    "geom:latitude":31.19791,
+    "geom:longitude":31.18152,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat at Tahlah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520059,
+    "gn:latitude":31.19791,
+    "gn:longitude":31.18152,
+    "gn:modification_date":"2013-04-06",
+    "gn:name":"\u2018Izbat a\u0163 \u0162a\u1e29lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0637\u062d\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat a\u0163 \u0162a\u1e29lah",
+        "\u2018Izbat a\u1e6d \u1e6ca\u1e25lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520059
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3f5d98b993ccc2f31e4599068d8f13c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209080219
+        }
+    ],
+    "wof:id":1209080219,
+    "wof:lastmodified":1537621196,
+    "wof:name":"`Izbat at Tahlah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18152000000001,
+    31.19791,
+    31.18152000000001,
+    31.19791
+],
+  "geometry": {"coordinates":[31.18152000000001,31.19791],"type":"Point"}
+}

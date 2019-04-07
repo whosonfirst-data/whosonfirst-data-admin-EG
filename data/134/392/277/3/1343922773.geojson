@@ -1,0 +1,71 @@
+{
+  "id": 1343922773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77419,31.3375,31.77419,31.3375",
+    "geom:latitude":31.3375,
+    "geom:longitude":31.77419,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kafr al `Atawi",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354722,
+    "gn:latitude":31.3375,
+    "gn:longitude":31.77419,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al \u2018A\u0163aw\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el- \u2018A\u1e6dawi",
+        "Kafr al \u2018A\u0163aw\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092020865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354722
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d5712287c01fbeba40c814d472757f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020865,
+            "locality_id":1343922773,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1343922773,
+    "wof:lastmodified":1537620739,
+    "wof:name":"Kafr al `Atawi",
+    "wof:parent_id":1092020865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77419,
+    31.3375,
+    31.77419,
+    31.3375
+],
+  "geometry": {"coordinates":[31.77419,31.3375],"type":"Point"}
+}

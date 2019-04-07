@@ -1,0 +1,71 @@
+{
+  "id": 1260036141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08435,26.21014,32.08435,26.21014",
+    "geom:latitude":26.21014,
+    "geom:longitude":32.08435,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naqnaq",
+    "gn:country_code":"EG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351030,
+    "gn:latitude":26.21014,
+    "gn:longitude":32.08435,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naqnaq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niqniq",
+        "Naqnaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092015947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351030
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"77e156e91c504889f80afab301105637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015947,
+            "locality_id":1260036141,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1260036141,
+    "wof:lastmodified":1537620603,
+    "wof:name":"Naqnaq",
+    "wof:parent_id":1092015947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08435,
+    26.21014,
+    32.08435,
+    26.21014
+],
+  "geometry": {"coordinates":[32.08435,26.21014],"type":"Point"}
+}

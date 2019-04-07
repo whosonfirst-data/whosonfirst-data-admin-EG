@@ -1,0 +1,93 @@
+{
+  "id": 1092023995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00027,
+    "geom:area_square_m":2885845.744229,
+    "geom:bbox":"31.2263574318,30.063978,31.246229,30.0865566691",
+    "geom:latitude":30.075569,
+    "geom:longitude":31.237593,
+    "iso:country":"EG",
+    "lbl:latitude":30.075641,
+    "lbl:longitude":31.238398,
+    "meso:admin_1":"Cairo",
+    "meso:diss_me":"Roud El-FaragCairo",
+    "meso:gadm_admin":"Rud al-Faraj",
+    "meso:gadm_hasc2":"EG.QH.RF",
+    "meso:gaul_admin":"Rud Al-Farag",
+    "meso:mps_x":31.237954,
+    "meso:mps_y":30.075868,
+    "meso:name_en":"Roud El-Farag",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":30.075641,
+    "mps:longitude":31.238398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rud al-Faraj"
+    ],
+    "name:eng_x_variant":[
+        "Rud Al-Farag",
+        "Rud al-Faraj"
+    ],
+    "src:geom":"whosonfirst",
+    "src:geom_via":"meso",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.QH",
+    "statoids:name":"Rud al-Faraj",
+    "statoids:population":"144510",
+    "statoids:statoid":"EG.QH.RF",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.QH.RF"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897494,
+    "wof:geomhash":"02bb852a55c70a2dece81847ccb0c6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023995,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1092023995,
+    "wof:lastmodified":1541791498,
+    "wof:name":"Roud El-Farag",
+    "wof:parent_id":85670999,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":144510,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"RF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.22635743179591,
+    30.063978,
+    31.246229,
+    30.086556669136897
+],
+  "geometry": {"coordinates":[[[31.22635743179591,30.07629854738844],[31.23010349298115,30.0865566691369],[31.231058,30.086383],[31.232367,30.086159],[31.235509,30.08527],[31.234559,30.083398],[31.237921,30.082392],[31.24561,30.080729],[31.246229,30.080595],[31.24616,30.077587],[31.246063,30.074295],[31.246068,30.073693],[31.245973,30.070611],[31.245937,30.070033],[31.245765,30.064222],[31.245435,30.064134],[31.245079,30.064037],[31.243827,30.063978],[31.24337,30.06401],[31.242467,30.064627],[31.241241,30.065249],[31.240013,30.065778],[31.238253,30.066806],[31.237026,30.067475],[31.235745,30.068141],[31.234409,30.069269],[31.233498,30.070455],[31.23296,30.071693],[31.232678,30.072255],[31.231784,30.073242],[31.230501,30.074001],[31.229114,30.074803],[31.22635743179591,30.07629854738844]]],"type":"Polygon"}
+}

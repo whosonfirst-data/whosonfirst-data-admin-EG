@@ -1,0 +1,67 @@
+{
+  "id": 1209210581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85919,30.32503,30.85919,30.32503",
+    "geom:latitude":30.32503,
+    "geom:longitude":30.85919,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Izbat Abu Khalid",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545569,
+    "gn:latitude":30.32503,
+    "gn:longitude":30.85919,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Ab\u016b Kh\u0101lid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u062e\u0627\u0644\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b Kh\u0101lid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545569
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4effe996f2e25b5a8a8a833b0662824f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209210581
+        }
+    ],
+    "wof:id":1209210581,
+    "wof:lastmodified":1537621264,
+    "wof:name":"`Izbat Abu Khalid",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85919,
+    30.32503,
+    30.85919,
+    30.32503
+],
+  "geometry": {"coordinates":[30.85919,30.32503],"type":"Point"}
+}

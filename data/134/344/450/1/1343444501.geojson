@@ -1,0 +1,75 @@
+{
+  "id": 1343444501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4863,30.71833,31.4863,30.71833",
+    "geom:latitude":30.71833,
+    "geom:longitude":31.4863,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Junaydi",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354220,
+    "gn:latitude":30.71833,
+    "gn:longitude":31.4863,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Junayd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062c\u0646\u064a\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kafr Gineidi",
+        "Kafr Junayd\u012b",
+        "Kafr Jinayd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354220
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ff78ac56e96f512d87b3b8a3b7dc4d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1343444501,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343444501,
+    "wof:lastmodified":1537620697,
+    "wof:name":"Kafr Junaydi",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4863,
+    30.71833,
+    31.4863,
+    30.71833
+],
+  "geometry": {"coordinates":[31.4863,30.71833],"type":"Point"}
+}

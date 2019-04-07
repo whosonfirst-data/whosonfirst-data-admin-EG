@@ -1,0 +1,61 @@
+{
+  "id": 1209415447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.58344,29.39914,30.58344,29.39914",
+    "geom:latitude":29.39914,
+    "geom:longitude":30.58344,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat al `Uqayli",
+    "gn:country_code":"EG",
+    "gn:dem":-22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434841,
+    "gn:latitude":29.39914,
+    "gn:longitude":30.58344,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Izbat al \u2018Uqayl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434841
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f597bf44d4f412bb431913ce4e5bccee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209415447
+        }
+    ],
+    "wof:id":1209415447,
+    "wof:lastmodified":1536287703,
+    "wof:name":"`Izbat al `Uqayli",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.583440000000003,
+    29.399140000000006,
+    30.583440000000003,
+    29.399140000000006
+],
+  "geometry": {"coordinates":[30.58344,29.39914000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343969737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61129,30.74646,30.61129,30.74646",
+    "geom:latitude":30.74646,
+    "geom:longitude":30.61129,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Naj` al `Arab",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421644,
+    "gn:latitude":30.74646,
+    "gn:longitude":30.61129,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Naj\u2018 al \u2018Arab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421644
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5827ee640ed107204c32231b88cf959a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1343969737,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343969737,
+    "wof:lastmodified":1537005835,
+    "wof:name":"Naj` al `Arab",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61129,
+    30.74646,
+    30.61129,
+    30.74646
+],
+  "geometry": {"coordinates":[30.61129,30.74646],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243565957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63611,30.82778,30.63611,30.82778",
+    "geom:latitude":30.82778,
+    "geom:longitude":30.63611,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kafr Khalifah",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433100,
+    "gn:latitude":30.82778,
+    "gn:longitude":30.63611,
+    "gn:modification_date":"2001-05-04",
+    "gn:name":"Kafr Khal\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092020749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433100
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4b12c6648344c41ee0fbd891986f6338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020749,
+            "locality_id":1243565957,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243565957,
+    "wof:lastmodified":1536631756,
+    "wof:name":"Kafr Khalifah",
+    "wof:parent_id":1092020749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63611,
+    30.82778,
+    30.63611,
+    30.82778
+],
+  "geometry": {"coordinates":[30.63611,30.82778],"type":"Point"}
+}

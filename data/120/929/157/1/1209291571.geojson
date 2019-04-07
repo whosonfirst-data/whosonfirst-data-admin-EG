@@ -1,0 +1,65 @@
+{
+  "id": 1209291571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30422,30.29754,31.30422,30.29754",
+    "geom:latitude":30.29754,
+    "geom:longitude":31.30422,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kafr Shibin",
+    "gn:country_code":"EG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354085,
+    "gn:latitude":30.29754,
+    "gn:longitude":31.30422,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kafr Shib\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Shebeen",
+        "Kafr Shib\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354085
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d8299a97155579623c307e6c869d52fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209291571
+        }
+    ],
+    "wof:id":1209291571,
+    "wof:lastmodified":1537620688,
+    "wof:name":"Kafr Shibin",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30422,
+    30.29754,
+    31.30422,
+    30.29754
+],
+  "geometry": {"coordinates":[31.30422,30.29754],"type":"Point"}
+}

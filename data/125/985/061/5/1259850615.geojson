@@ -1,0 +1,73 @@
+{
+  "id": 1259850615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.57128,30.52211,31.57128,30.52211",
+    "geom:latitude":30.52211,
+    "geom:longitude":31.57128,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Abu Shushah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8070498,
+    "gn:latitude":30.52211,
+    "gn:longitude":31.57128,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Ab\u016b Sh\u016bshah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0634\u0648\u0634\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b Sh\u016bshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8070498
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8b72c96e6315597234f8215c43ef9135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1259850615,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259850615,
+    "wof:lastmodified":1537621178,
+    "wof:name":"`Izbat Abu Shushah",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.57128,
+    30.52211,
+    31.57128,
+    30.52211
+],
+  "geometry": {"coordinates":[31.57128,30.52211],"type":"Point"}
+}

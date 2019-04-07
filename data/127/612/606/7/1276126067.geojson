@@ -1,0 +1,71 @@
+{
+  "id": 1276126067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63052,30.73565,30.63052,30.73565",
+    "geom:latitude":30.73565,
+    "geom:longitude":30.63052,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Haddayn",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361263,
+    "gn:latitude":30.73565,
+    "gn:longitude":30.63052,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28addayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-\u1e24addein",
+        "Al \u1e28addayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361263
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d43503e9bc35c8558c50a23d2a0962cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1276126067,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276126067,
+    "wof:lastmodified":1537620926,
+    "wof:name":"Al Haddayn",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63052,
+    30.73565,
+    30.63052,
+    30.73565
+],
+  "geometry": {"coordinates":[30.63052,30.73565],"type":"Point"}
+}

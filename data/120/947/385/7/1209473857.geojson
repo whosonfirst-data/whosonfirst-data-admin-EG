@@ -1,0 +1,67 @@
+{
+  "id": 1209473857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96958,31.12836,30.96958,31.12836",
+    "geom:latitude":31.12836,
+    "geom:longitude":30.96958,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kafr `Askar",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354453,
+    "gn:latitude":31.12836,
+    "gn:longitude":30.96958,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kafr \u2018Askar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0639\u0633\u0643\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u2018Askar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354453
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bb8daa3a87814392516e06b1ed918227",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209473857
+        }
+    ],
+    "wof:id":1209473857,
+    "wof:lastmodified":1537620715,
+    "wof:name":"Kafr `Askar",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96958,
+    31.12836,
+    30.96958,
+    31.12836
+],
+  "geometry": {"coordinates":[30.96958,31.12836],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226127939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14244,30.11919,31.14244,30.11919",
+    "geom:latitude":30.11919,
+    "geom:longitude":31.14244,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zawiyat Nabit",
+    "gn:country_code":"EG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346080,
+    "gn:latitude":30.11919,
+    "gn:longitude":31.14244,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat N\u0101bit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0648\u064a\u0629 \u0646\u0627\u0628\u062a"
+    ],
+    "name:und_x_variant":[
+        "Z\u00e2wyet N\u00e2bit",
+        "Z\u0101wiyat N\u0101bit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092023283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346080
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5dbe5765f0ac24483bff9628ceed8cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023283,
+            "locality_id":1226127939,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1226127939,
+    "wof:lastmodified":1537620545,
+    "wof:name":"Zawiyat Nabit",
+    "wof:parent_id":1092023283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14244,
+    30.11919,
+    31.14244,
+    30.11919
+],
+  "geometry": {"coordinates":[31.14244,30.11919],"type":"Point"}
+}

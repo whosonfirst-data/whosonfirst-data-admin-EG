@@ -1,0 +1,73 @@
+{
+  "id": 1243513419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93623,31.20684,30.93623,31.20684",
+    "geom:latitude":31.20684,
+    "geom:longitude":30.93623,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat al Hajin",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416067,
+    "gn:latitude":31.20684,
+    "gn:longitude":30.93623,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat al Haj\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0647\u062c\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Haj\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416067
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"cb6a53f56ff936d2147335d8ab8fa5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1243513419,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1243513419,
+    "wof:lastmodified":1537621010,
+    "wof:name":"`Izbat al Hajin",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93623,
+    31.20684,
+    30.93623,
+    31.20684
+],
+  "geometry": {"coordinates":[30.93623,31.20684],"type":"Point"}
+}

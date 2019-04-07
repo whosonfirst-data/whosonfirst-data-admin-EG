@@ -1,0 +1,74 @@
+{
+  "id": 1310481849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19606,30.50041,31.19606,30.50041",
+    "geom:latitude":30.50041,
+    "geom:longitude":31.19606,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Damallu",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358451,
+    "gn:latitude":30.50041,
+    "gn:longitude":31.19606,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Damall\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Damall\u016b",
+        "Damallu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092015253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358451
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e886eaef47fc8f7c2613987f2eca69a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015253,
+            "locality_id":1310481849,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1310481849,
+    "wof:lastmodified":1537620815,
+    "wof:name":"Damallu",
+    "wof:parent_id":1092015253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19606,
+    30.50041,
+    31.19606,
+    30.50041
+],
+  "geometry": {"coordinates":[31.19606,30.50041],"type":"Point"}
+}

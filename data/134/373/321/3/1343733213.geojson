@@ -1,0 +1,71 @@
+{
+  "id": 1343733213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35162,30.40194,31.35162,30.40194",
+    "geom:latitude":30.40194,
+    "geom:longitude":31.35162,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Khushshah",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360892,
+    "gn:latitude":30.40194,
+    "gn:longitude":31.35162,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Khushshah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Khush-sha",
+        "Al Khushshah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360892
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0abf8470f22b672fdaa3c3d0b47ad420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022165,
+            "locality_id":1343733213,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1343733213,
+    "wof:lastmodified":1537620902,
+    "wof:name":"Al Khushshah",
+    "wof:parent_id":1092022165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35162,
+    30.40194,
+    31.35162,
+    30.40194
+],
+  "geometry": {"coordinates":[31.35162,30.40194],"type":"Point"}
+}

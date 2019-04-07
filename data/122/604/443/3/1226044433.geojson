@@ -1,0 +1,71 @@
+{
+  "id": 1226044433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78085,30.80283,30.78085,30.80283",
+    "geom:latitude":30.80283,
+    "geom:longitude":30.78085,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shabur",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349465,
+    "gn:latitude":30.80283,
+    "gn:longitude":30.78085,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u0101b\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u00e2b\u00fbr",
+        "Sh\u0101b\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349465
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2a1a393bdef08767c758d244e2f85212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1226044433,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226044433,
+    "wof:lastmodified":1537620580,
+    "wof:name":"Shabur",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78085,
+    30.80283,
+    30.78085,
+    30.80283
+],
+  "geometry": {"coordinates":[30.78085,30.80283],"type":"Point"}
+}

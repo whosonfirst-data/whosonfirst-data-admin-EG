@@ -1,0 +1,75 @@
+{
+  "id": 1310017321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48342,31.32593,30.48342,31.32593",
+    "geom:latitude":31.32593,
+    "geom:longitude":30.48342,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Malaqah Raqm Ithnan",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415035,
+    "gn:latitude":31.32593,
+    "gn:longitude":30.48342,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al Malaqah Raqm Ithn\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0642\u0647 \u0631\u0642\u0645 \u06f2"
+    ],
+    "name:und_x_variant":[
+        "Al Malaqah Raqm Ithn\u0101n",
+        "Al Malaqah Raqm 2",
+        "Al-Malaqah Number Two"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092023921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415035
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1fc02b704c3e0f04d832a1c64fde1ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023921,
+            "locality_id":1310017321,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310017321,
+    "wof:lastmodified":1537620975,
+    "wof:name":"Al Malaqah Raqm Ithnan",
+    "wof:parent_id":1092023921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48342,
+    31.32593,
+    30.48342,
+    31.32593
+],
+  "geometry": {"coordinates":[30.48342,31.32593],"type":"Point"}
+}

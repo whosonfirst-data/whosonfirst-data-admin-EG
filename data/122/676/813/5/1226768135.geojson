@@ -1,0 +1,67 @@
+{
+  "id": 1226768135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71168,28.62462,30.71168,28.62462",
+    "geom:latitude":28.62462,
+    "geom:longitude":30.71168,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Minshat Niyazi",
+    "gn:country_code":"EG",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433965,
+    "gn:latitude":28.62462,
+    "gn:longitude":30.71168,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Minsh\u0101t Niy\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092021965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433965
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"608aa011f15cb9a8d31e0f630ad33d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021965,
+            "locality_id":1226768135,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1226768135,
+    "wof:lastmodified":1536683310,
+    "wof:name":"Minshat Niyazi",
+    "wof:parent_id":1092021965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71168,
+    28.62462,
+    30.71168,
+    28.62462
+],
+  "geometry": {"coordinates":[30.71168,28.62462],"type":"Point"}
+}

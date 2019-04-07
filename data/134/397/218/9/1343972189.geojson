@@ -1,0 +1,75 @@
+{
+  "id": 1343972189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48296,30.97413,31.48296,30.97413",
+    "geom:latitude":30.97413,
+    "geom:longitude":31.48296,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Az Zammar",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359467,
+    "gn:latitude":30.97413,
+    "gn:longitude":31.48296,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Az Zamm\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "El-Zumm\u00e2r",
+        "Az Zamm\u0101r",
+        "As. Zamm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359467
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7272a2a12586c2d58e2c181bcecd5922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025381,
+            "locality_id":1343972189,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343972189,
+    "wof:lastmodified":1537620838,
+    "wof:name":"Az Zammar",
+    "wof:parent_id":1092025381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48296,
+    30.97413,
+    31.48296,
+    30.97413
+],
+  "geometry": {"coordinates":[31.48296,30.97413],"type":"Point"}
+}

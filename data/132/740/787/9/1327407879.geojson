@@ -1,0 +1,71 @@
+{
+  "id": 1327407879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0325,31.59167,31.0325,31.59167",
+    "geom:latitude":31.59167,
+    "geom:longitude":31.0325,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Khushu`i",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360891,
+    "gn:latitude":31.59167,
+    "gn:longitude":31.0325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Khush\u016b\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Khush\u00fb\u2018i",
+        "Al Khush\u016b\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360891
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9c3d9683525d71c4b191cad2b3319dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017189,
+            "locality_id":1327407879,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1327407879,
+    "wof:lastmodified":1537620902,
+    "wof:name":"Al Khushu`i",
+    "wof:parent_id":1092017189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0325,
+    31.59167,
+    31.0325,
+    31.59167
+],
+  "geometry": {"coordinates":[31.0325,31.59167],"type":"Point"}
+}

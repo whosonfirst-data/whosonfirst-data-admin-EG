@@ -1,0 +1,73 @@
+{
+  "id": 1276313259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14698,30.38038,31.14698,30.38038",
+    "geom:latitude":30.38038,
+    "geom:longitude":31.14698,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"As Safa",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432839,
+    "gn:latitude":30.38038,
+    "gn:longitude":31.14698,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015f \u015eaf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0627"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eaf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432839
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2c1ce1472897374d03e8bd19980b8757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1276313259,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1276313259,
+    "wof:lastmodified":1537621118,
+    "wof:name":"As Safa",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14698,
+    30.38038,
+    31.14698,
+    30.38038
+],
+  "geometry": {"coordinates":[31.14698,30.38038],"type":"Point"}
+}

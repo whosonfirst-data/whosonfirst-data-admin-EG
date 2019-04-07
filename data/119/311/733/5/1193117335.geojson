@@ -1,0 +1,74 @@
+{
+  "id": 1193117335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14019,30.26955,31.14019,30.26955",
+    "geom:latitude":30.26955,
+    "geom:longitude":31.14019,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ajhur as Sughra",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361692,
+    "gn:latitude":30.26955,
+    "gn:longitude":31.14019,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ajh\u016br a\u015f \u015eughr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u062c\u0647\u0648\u0631 \u0627\u0644\u0635\u063a\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Ag-h\u00fbr el-\u1e62ughra",
+        "Ajh\u016br a\u015f \u015eughr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092018935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361692
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"16a0b132029185a0f354d83d2911fa90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018935,
+            "locality_id":1193117335,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1193117335,
+    "wof:lastmodified":1537620950,
+    "wof:name":"Ajhur as Sughra",
+    "wof:parent_id":1092018935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14019,
+    30.26955,
+    31.14019,
+    30.26955
+],
+  "geometry": {"coordinates":[31.14019,30.26955],"type":"Point"}
+}

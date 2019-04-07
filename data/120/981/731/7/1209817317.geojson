@@ -1,0 +1,67 @@
+{
+  "id": 1209817317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75892,30.55231,30.75892,30.55231",
+    "geom:latitude":30.55231,
+    "geom:longitude":30.75892,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat `Umar Shahin",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415247,
+    "gn:latitude":30.55231,
+    "gn:longitude":30.75892,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Qaryat \u2018Umar Shah\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415247
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"437b19f5aaec5adb648f8457ebcb2889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1209817317,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1209817317,
+    "wof:lastmodified":1536382513,
+    "wof:name":"Qaryat `Umar Shahin",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75892,
+    30.55231,
+    30.75892,
+    30.55231
+],
+  "geometry": {"coordinates":[30.75892,30.55231],"type":"Point"}
+}

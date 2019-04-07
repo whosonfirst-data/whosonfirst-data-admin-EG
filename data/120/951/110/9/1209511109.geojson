@@ -1,0 +1,68 @@
+{
+  "id": 1209511109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19714,30.59424,31.19714,30.59424",
+    "geom:latitude":30.59424,
+    "geom:longitude":31.19714,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Damhuj",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358437,
+    "gn:latitude":30.59424,
+    "gn:longitude":31.19714,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Damh\u016bj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u0647\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "Damh\u00fbg",
+        "Damh\u016bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358437
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b1a80fad852871f1bb8db36131380552",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209511109
+        }
+    ],
+    "wof:id":1209511109,
+    "wof:lastmodified":1537620815,
+    "wof:name":"Damhuj",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19714,
+    30.59424000000001,
+    31.19714,
+    30.59424000000001
+],
+  "geometry": {"coordinates":[31.19714,30.59424000000001],"type":"Point"}
+}

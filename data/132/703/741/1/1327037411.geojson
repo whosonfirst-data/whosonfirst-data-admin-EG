@@ -1,0 +1,67 @@
+{
+  "id": 1327037411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65345,30.64409,30.65345,30.64409",
+    "geom:latitude":30.64409,
+    "geom:longitude":30.65345,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryat al Fath",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421617,
+    "gn:latitude":30.64409,
+    "gn:longitude":30.65345,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Qaryat al Fat\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421617
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"66a8791cb4ef6e6b2df77d38e05235e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021881,
+            "locality_id":1327037411,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327037411,
+    "wof:lastmodified":1536753106,
+    "wof:name":"Qaryat al Fath",
+    "wof:parent_id":1092021881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65345,
+    30.64409,
+    30.65345,
+    30.64409
+],
+  "geometry": {"coordinates":[30.65345,30.64409],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243036667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3,26.06667,32.3,26.06667",
+    "geom:latitude":26.06667,
+    "geom:longitude":32.3,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ad Dabbah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361868,
+    "gn:latitude":26.06667,
+    "gn:longitude":32.3,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ad D\u0101bbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El D\u00e2bba",
+        "Ed Dabba",
+        "Ad D\u0101bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092022653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361868
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6d99f788067e2998d55af713947c9cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022653,
+            "locality_id":1243036667,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1243036667,
+    "wof:lastmodified":1537620955,
+    "wof:name":"Ad Dabbah",
+    "wof:parent_id":1092022653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3,
+    26.06667,
+    32.3,
+    26.06667
+],
+  "geometry": {"coordinates":[32.3,26.06667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260164479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83333,30.7,31.83333,30.7",
+    "geom:latitude":30.7,
+    "geom:longitude":31.83333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr an Nawamisah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354531,
+    "gn:latitude":30.7,
+    "gn:longitude":31.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr an Naw\u0101misah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Naw\u00e2msa",
+        "Kafr an Naw\u0101misah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354531
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1124a3f79de498f8f3afaca6e97abc37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1260164479,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1260164479,
+    "wof:lastmodified":1537620722,
+    "wof:name":"Kafr an Nawamisah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83333,
+    30.7,
+    31.83333,
+    30.7
+],
+  "geometry": {"coordinates":[31.83333,30.7],"type":"Point"}
+}

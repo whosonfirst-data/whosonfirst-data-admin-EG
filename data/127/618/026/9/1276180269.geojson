@@ -1,0 +1,71 @@
+{
+  "id": 1276180269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00611,26.20434,32.00611,26.20434",
+    "geom:latitude":26.20434,
+    "geom:longitude":32.00611,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"As Samata",
+    "gn:country_code":"EG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359855,
+    "gn:latitude":26.20434,
+    "gn:longitude":32.00611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"As Sama\u0163\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Samata",
+        "As Sama\u0163\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092015947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359855
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e8d6e28a587bc13495d71f43654a6d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015947,
+            "locality_id":1276180269,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1276180269,
+    "wof:lastmodified":1537620853,
+    "wof:name":"As Samata",
+    "wof:parent_id":1092015947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00611,
+    26.20434,
+    32.00611,
+    26.20434
+],
+  "geometry": {"coordinates":[32.00611,26.20434],"type":"Point"}
+}

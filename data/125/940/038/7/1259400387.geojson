@@ -1,0 +1,76 @@
+{
+  "id": 1259400387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25484,30.88503,31.25484,30.88503",
+    "geom:latitude":30.88503,
+    "geom:longitude":31.25484,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mit Bizzu",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352189,
+    "gn:latitude":30.88503,
+    "gn:longitude":31.25484,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"M\u012bt Bizz\u016b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0628\u0632\u0648"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet Bizzu and Kafr \u2018Osm\u00e2n Sil\u00eem",
+        "M\u00eet Bizzu wa Osman Sil\u00eem",
+        "M\u012bt Bizz\u016b wa Kafr \u2018Uthm\u0101n Sal\u012bm",
+        "M\u012bt Bizz\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352189
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a0d43b09ad06c6bdcf3ed5a5b1209676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014439,
+            "locality_id":1259400387,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259400387,
+    "wof:lastmodified":1537620639,
+    "wof:name":"Mit Bizzu",
+    "wof:parent_id":1092014439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25484,
+    30.88503,
+    31.25484,
+    30.88503
+],
+  "geometry": {"coordinates":[31.25484,30.88503],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 890450053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03108,31.18287,32.03108,31.18287",
+    "geom:latitude":31.18287,
+    "geom:longitude":32.03108,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":99357,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0631\u064a\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "El Matareya"
+    ],
+    "name:eng_x_preferred":[
+        "El Matareya"
+    ],
+    "name:fre_x_preferred":[
+        "El Matareya"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03c4\u03b1\u03c1\u03af\u03b3\u03b9\u03b1"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0631\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Matarijja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0440\u0438\u0439\u044f"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0442\u0435\u0440\u0435\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Matariyya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0440\u0456\u0439\u044f"
+    ],
+    "name:unk_x_variant":[
+        "El-Ma\u1e6dar\u00eeya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0637\u0631\u06cc\u06c1\u060c \u0645\u0635\u0631"
+    ],
+    "qs:name":"Al Ma\u0163ar\u012byah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360716,
+        "gp:id":56447507,
+        "qs:id":80237,
+        "wd:id":"Q2562082"
+    },
+    "wof:country":"EG",
+    "wof:created":1469052722,
+    "wof:geomhash":"d894bef135651f956ac115f86daa1684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018479,
+            "locality_id":890450053,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":890450053,
+    "wof:lastmodified":1513956640,
+    "wof:name":"Al Ma\u0163ar\u012byah",
+    "wof:parent_id":1092018479,
+    "wof:placetype":"locality",
+    "wof:population":99357,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03108,
+    31.18287,
+    32.03108,
+    31.18287
+],
+  "geometry": {"coordinates":[32.03108,31.18287],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209200951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.85917,25.57786,28.85917,25.57786",
+    "geom:latitude":25.57786,
+    "geom:longitude":28.85917,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Jadidah",
+    "gn:country_code":"EG",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361037,
+    "gn:latitude":25.57786,
+    "gn:longitude":28.85917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Jad\u012bdah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Gid\u012bda",
+        "Al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361037
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"56d295cf4d1ac83ff326a94227467525",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209200951
+        }
+    ],
+    "wof:id":1209200951,
+    "wof:lastmodified":1537620912,
+    "wof:name":"Al Jadidah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.85917,
+    25.57786,
+    28.85917,
+    25.57786
+],
+  "geometry": {"coordinates":[28.85917,25.57786],"type":"Point"}
+}

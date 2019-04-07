@@ -1,0 +1,76 @@
+{
+  "id": 1344268795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4728,31.11114,30.4728,31.11114",
+    "geom:latitude":31.11114,
+    "geom:longitude":30.4728,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zarqun",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346138,
+    "gn:latitude":31.11114,
+    "gn:longitude":30.4728,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Zarq\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u0642\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "El Ba\u1e25ar\u00eeya",
+        "Al Ba\u1e29r\u012byah",
+        "Zarq\u00fbn",
+        "Zarq\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092015921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346138
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"05bfe5106b5721042994fc29cd34e47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015921,
+            "locality_id":1344268795,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1344268795,
+    "wof:lastmodified":1537620548,
+    "wof:name":"Zarqun",
+    "wof:parent_id":1092015921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4728,
+    31.11114,
+    30.4728,
+    31.11114
+],
+  "geometry": {"coordinates":[30.4728,31.11114],"type":"Point"}
+}

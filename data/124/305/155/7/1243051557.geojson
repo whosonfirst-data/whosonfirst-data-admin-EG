@@ -1,0 +1,67 @@
+{
+  "id": 1243051557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59944,30.73889,31.59944,30.73889",
+    "geom:latitude":30.73889,
+    "geom:longitude":31.59944,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Abu ad Dub",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433528,
+    "gn:latitude":30.73889,
+    "gn:longitude":31.59944,
+    "gn:modification_date":"2001-06-13",
+    "gn:name":"Kafr Ab\u016b ad D\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433528
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3b9362bf69b9877578d460a96738dd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018107,
+            "locality_id":1243051557,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1243051557,
+    "wof:lastmodified":1536876973,
+    "wof:name":"Kafr Abu ad Dub",
+    "wof:parent_id":1092018107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59944,
+    30.73889,
+    31.59944,
+    30.73889
+],
+  "geometry": {"coordinates":[31.59944,30.73889],"type":"Point"}
+}

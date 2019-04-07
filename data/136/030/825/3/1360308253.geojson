@@ -1,0 +1,74 @@
+{
+  "id": 1360308253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09677,30.90127,31.09677,30.90127",
+    "geom:latitude":30.90127,
+    "geom:longitude":31.09677,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat ash Shimi",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560701,
+    "gn:latitude":30.90127,
+    "gn:longitude":31.09677,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat ash Sh\u012bm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0634\u064a\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ash Sh\u012bm\u012b",
+        "\u2018Izbat ash-Sh\u012bm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560701
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"313fc3269cfe148de6e26c7fc8582c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1360308253,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1360308253,
+    "wof:lastmodified":1537621209,
+    "wof:name":"`Izbat ash Shimi",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09677000000001,
+    30.90127,
+    31.09677000000001,
+    30.90127
+],
+  "geometry": {"coordinates":[31.09677000000001,30.90127],"type":"Point"}
+}

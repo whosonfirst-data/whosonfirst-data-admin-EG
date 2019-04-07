@@ -1,0 +1,66 @@
+{
+  "id": 1209486833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8,27.6,30.8,27.6",
+    "geom:latitude":27.6,
+    "geom:longitude":30.8,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nazlat Sirqina",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351081,
+    "gn:latitude":27.6,
+    "gn:longitude":30.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat Sirqin\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet Sirqina",
+        "Nazlat Sirqin\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351081
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"67602e5c6bc800839553faf7d1d94867",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209486833
+        }
+    ],
+    "wof:id":1209486833,
+    "wof:lastmodified":1537620605,
+    "wof:name":"Nazlat Sirqina",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8,
+    27.6,
+    30.8,
+    27.6
+],
+  "geometry": {"coordinates":[30.8,27.6],"type":"Point"}
+}

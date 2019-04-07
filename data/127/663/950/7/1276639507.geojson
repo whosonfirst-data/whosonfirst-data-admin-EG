@@ -1,0 +1,71 @@
+{
+  "id": 1276639507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66994,28.10572,30.66994,28.10572",
+    "geom:latitude":28.10572,
+    "geom:longitude":30.66994,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tukh al Khayl",
+    "gn:country_code":"EG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347228,
+    "gn:latitude":28.10572,
+    "gn:longitude":30.66994,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162\u016bkh al Khayl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00fbkh el Kheil",
+        "\u0162\u016bkh al Khayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092018557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347228
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d25a553117109ff39c586467f1caac59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018557,
+            "locality_id":1276639507,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1276639507,
+    "wof:lastmodified":1537620556,
+    "wof:name":"Tukh al Khayl",
+    "wof:parent_id":1092018557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66994,
+    28.10572,
+    30.66994,
+    28.10572
+],
+  "geometry": {"coordinates":[30.66994,28.10572],"type":"Point"}
+}

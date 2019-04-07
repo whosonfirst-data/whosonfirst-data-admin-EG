@@ -1,0 +1,112 @@
+{
+  "id": 1126106537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.91667,31.2,29.91667,31.2",
+    "geom:latitude":31.2,
+    "geom:longitude":29.91667,
+    "gn:gn_country":"EG",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":31.20717,
+    "gn:longitude":29.91671,
+    "iso:country":"EG",
+    "lbl:latitude":31.2,
+    "lbl:longitude":29.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0627\u0637\u0628\u064a"
+    ],
+    "name:eng_x_colloquial":[
+        "Ash Shatibi"
+    ],
+    "name:eng_x_preferred":[
+        "Chatbi"
+    ],
+    "name:eng_x_variant":[
+        "Chatby",
+        "Ash Sh\u0101tib\u012b",
+        "Shatbi"
+    ],
+    "name:unk_x_variant":[
+        "Shatbi",
+        "Chatbi"
+    ],
+    "qs_pg:aaroncc":"EG",
+    "qs_pg:gn_country":"EG",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":360015,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Chatbi",
+    "qs_pg:name_adm0":"\u0645\u0635\u0631",
+    "qs_pg:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "qs_pg:photos":272,
+    "qs_pg:photos_1k":55,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":272,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1120441,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424802,
+    "qs_pg:woe_id":1522264,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424802,
+    "woe:name_adm0":"\u0645\u0635\u0631",
+    "woe:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85671041,
+        102191573,
+        85632581,
+        1092015183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360015,
+        "gp:id":1522264,
+        "qs:id":1120441,
+        "qs_pg:id":1120441
+    },
+    "wof:country":"EG",
+    "wof:created":1497317167,
+    "wof:geomhash":"7f6761c693476a6bb0f849b3bf97c13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015183,
+            "locality_id":-1,
+            "neighbourhood_id":1126106537,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1126106537,
+    "wof:lastmodified":1534379294,
+    "wof:name":"Chatbi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85902933
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.91667,
+    31.2,
+    29.91667,
+    31.2
+],
+  "geometry": {"coordinates":[29.91667,31.2],"type":"Point"}
+}

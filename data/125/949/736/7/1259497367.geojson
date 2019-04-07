@@ -1,0 +1,75 @@
+{
+  "id": 1259497367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.69861,31.1295,31.69861,31.1295",
+    "geom:latitude":31.1295,
+    "geom:longitude":31.69861,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr Abu Dhikri",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354840,
+    "gn:latitude":31.1295,
+    "gn:longitude":31.69861,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kafr Ab\u016b Dhikr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0623\u0628\u0648 \u0630\u0643\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kafr Abu Zikri",
+        "Kafr Ab\u016b Dhikr\u012b",
+        "Kafr Ab\u016b Zikr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354840
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c824ac17511b778f53e952db3ba632f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022451,
+            "locality_id":1259497367,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259497367,
+    "wof:lastmodified":1537620748,
+    "wof:name":"Kafr Abu Dhikri",
+    "wof:parent_id":1092022451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.69861,
+    31.1295,
+    31.69861,
+    31.1295
+],
+  "geometry": {"coordinates":[31.69861,31.1295],"type":"Point"}
+}

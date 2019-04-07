@@ -1,0 +1,67 @@
+{
+  "id": 1243026725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.56667,30.96667,29.56667,30.96667",
+    "geom:latitude":30.96667,
+    "geom:longitude":29.56667,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dawwar Halis",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358321,
+    "gn:latitude":30.96667,
+    "gn:longitude":29.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Daww\u0101r \u1e28al\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092015739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358321
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"055edfd068448f361041845ce95f9829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015739,
+            "locality_id":1243026725,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1243026725,
+    "wof:lastmodified":1536914162,
+    "wof:name":"Dawwar Halis",
+    "wof:parent_id":1092015739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.56667,
+    30.96667,
+    29.56667,
+    30.96667
+],
+  "geometry": {"coordinates":[29.56667,30.96667],"type":"Point"}
+}

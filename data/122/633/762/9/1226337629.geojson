@@ -1,0 +1,72 @@
+{
+  "id": 1226337629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,27.98333,30.75,27.98333",
+    "geom:latitude":27.98333,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Rayhanah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350162,
+    "gn:latitude":27.98333,
+    "gn:longitude":30.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ray\u1e29\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00ee\u1e25ana",
+        "Ray\u1e29\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092014221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350162
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3b61de2232c46f568c534e491bf6a7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014221,
+            "locality_id":1226337629,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1226337629,
+    "wof:lastmodified":1537620592,
+    "wof:name":"Rayhanah",
+    "wof:parent_id":1092014221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    27.98333,
+    30.75,
+    27.98333
+],
+  "geometry": {"coordinates":[30.75,27.98333],"type":"Point"}
+}

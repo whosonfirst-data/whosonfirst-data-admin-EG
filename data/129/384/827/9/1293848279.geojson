@@ -1,0 +1,73 @@
+{
+  "id": 1293848279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84416,31.34847,30.84416,31.34847",
+    "geom:latitude":31.34847,
+    "geom:longitude":30.84416,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat al `Ammar",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416344,
+    "gn:latitude":31.34847,
+    "gn:longitude":30.84416,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbat al \u2018Amm\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u2018Amm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416344
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"74fe7f48cc92eda6e311e6ae082951ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1293848279,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1293848279,
+    "wof:lastmodified":1537621029,
+    "wof:name":"`Izbat al `Ammar",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84416,
+    31.34847,
+    30.84416,
+    31.34847
+],
+  "geometry": {"coordinates":[30.84416,31.34847],"type":"Point"}
+}

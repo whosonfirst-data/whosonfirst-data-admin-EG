@@ -1,0 +1,71 @@
+{
+  "id": 1276192505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96778,29.26111,32.96778,29.26111",
+    "geom:latitude":29.26111,
+    "geom:longitude":32.96778,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Makman el Tiyaha",
+    "gn:country_code":"EG",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353015,
+    "gn:latitude":29.26111,
+    "gn:longitude":32.96778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Makman el Tiyaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makman",
+        "Makman el Tiyaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671089,
+        1092014403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353015
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"60f15f412e5fc9fb5013be5bfbcf0672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014403,
+            "locality_id":1276192505,
+            "region_id":85671089
+        }
+    ],
+    "wof:id":1276192505,
+    "wof:lastmodified":1537620663,
+    "wof:name":"Makman el Tiyaha",
+    "wof:parent_id":1092014403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96778,
+    29.26111,
+    32.96778,
+    29.26111
+],
+  "geometry": {"coordinates":[32.96778,29.26111],"type":"Point"}
+}

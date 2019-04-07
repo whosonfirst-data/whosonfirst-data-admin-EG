@@ -1,0 +1,73 @@
+{
+  "id": 1293202529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00045,31.09097,30.00045,31.09097",
+    "geom:latitude":31.09097,
+    "geom:longitude":30.00045,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Qaryah Sittah/Sittah",
+    "gn:country_code":"EG",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8361213,
+    "gn:latitude":31.09097,
+    "gn:longitude":30.00045,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Qaryah Sittah/Sittah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0629 \u0666/\u0666"
+    ],
+    "name:und_x_variant":[
+        "Qaryah 6/6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8361213
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"300b344f965c642545480bdcb0ff86d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1293202529,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1293202529,
+    "wof:lastmodified":1537621193,
+    "wof:name":"Qaryah Sittah/Sittah",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00045,
+    31.09097,
+    30.00045,
+    31.09097
+],
+  "geometry": {"coordinates":[30.00045,31.09097],"type":"Point"}
+}

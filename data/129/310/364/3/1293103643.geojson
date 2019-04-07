@@ -1,0 +1,74 @@
+{
+  "id": 1293103643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08222,30.76269,31.08222,30.76269",
+    "geom:latitude":30.76269,
+    "geom:longitude":31.08222,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat al Minshawi",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560813,
+    "gn:latitude":30.76269,
+    "gn:longitude":31.08222,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat al Minsh\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0645\u0646\u0634\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Minsh\u0101w\u012b",
+        "\u2018Izbat al-Minsh\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560813
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2bd7c60394fcf3f39ef3f6a6ce2cbfc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1293103643,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1293103643,
+    "wof:lastmodified":1537621210,
+    "wof:name":"`Izbat al Minshawi",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08222,
+    30.76269000000001,
+    31.08222,
+    30.76269000000001
+],
+  "geometry": {"coordinates":[31.08222,30.76269000000001],"type":"Point"}
+}

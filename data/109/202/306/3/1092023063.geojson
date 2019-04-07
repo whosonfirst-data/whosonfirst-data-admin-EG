@@ -1,0 +1,73 @@
+{
+  "id": 1092023063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012492,
+    "geom:area_square_m":133396610.194503,
+    "geom:bbox":"30.541114,30.228135,30.830167,30.356407",
+    "geom:latitude":30.294685,
+    "geom:longitude":30.702457,
+    "iso:country":"EG",
+    "lbl:latitude":30.277043,
+    "lbl:longitude":30.692603,
+    "meso:admin_1":"Menoufia",
+    "meso:diss_me":"NO DATAMenoufia",
+    "meso:gadm_admin":"Sadat City",
+    "meso:gadm_hasc2":"EG.MF.EC",
+    "meso:gaul_admin":"Sadat City",
+    "meso:mps_x":30.692603,
+    "meso:mps_y":30.277043,
+    "meso:name_en":"NO DATA",
+    "meso:patch":1,
+    "meso:source":"USAID",
+    "meso:type_en":"NO DATA",
+    "mps:latitude":30.277043,
+    "mps:longitude":30.692603,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Sadat City"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.MF.EC"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897462,
+    "wof:geomhash":"6e59ecd0ae82c6d9b2cf751502d42583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023063,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1092023063,
+    "wof:lastmodified":1536615092,
+    "wof:name":"",
+    "wof:parent_id":85671035,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"EC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.541114,
+    30.228135,
+    30.830167,
+    30.356407
+],
+  "geometry": {"coordinates":[[[30.830167,30.356407],[30.828352,30.355287],[30.827739,30.35421],[30.820957,30.342287],[30.808799,30.337614],[30.81072131470519,30.33221188130878],[30.699882,30.228135],[30.541114,30.32745],[30.581661,30.308303],[30.682755,30.318892],[30.830167,30.356407]]],"type":"Polygon"}
+}

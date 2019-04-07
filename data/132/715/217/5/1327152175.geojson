@@ -1,0 +1,73 @@
+{
+  "id": 1327152175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52511,30.85609,31.52511,30.85609",
+    "geom:latitude":30.85609,
+    "geom:longitude":31.52511,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Mazhar",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356408,
+    "gn:latitude":30.85609,
+    "gn:longitude":31.52511,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"\u2018Izbat Maz\u0327har",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u0638\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Maz\u0327har"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092019741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356408
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ee0c7e1cd36b0084ee4054adaf878b9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019741,
+            "locality_id":1327152175,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1327152175,
+    "wof:lastmodified":1537621190,
+    "wof:name":"`Izbat Mazhar",
+    "wof:parent_id":1092019741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52511,
+    30.85609,
+    31.52511,
+    30.85609
+],
+  "geometry": {"coordinates":[31.52511,30.85609],"type":"Point"}
+}

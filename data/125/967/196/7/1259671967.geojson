@@ -1,0 +1,74 @@
+{
+  "id": 1259671967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23768,30.06294,31.23768,30.06294",
+    "geom:latitude":30.06294,
+    "geom:longitude":31.23768,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"As Sabtiyah",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":425187,
+    "gn:latitude":30.06294,
+    "gn:longitude":31.23768,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"As Sabt\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u062a\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "As Sabt\u012byah",
+        "As Sabtiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999,
+        1092015839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":425187
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"62057257ac68b74750253e7b0c1f270a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015839,
+            "locality_id":1259671967,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1259671967,
+    "wof:lastmodified":1537621116,
+    "wof:name":"As Sabtiyah",
+    "wof:parent_id":1092015839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23768,
+    30.06294,
+    31.23768,
+    30.06294
+],
+  "geometry": {"coordinates":[31.23768,30.06294],"type":"Point"}
+}

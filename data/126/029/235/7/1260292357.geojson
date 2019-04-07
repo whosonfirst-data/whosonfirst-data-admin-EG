@@ -1,0 +1,73 @@
+{
+  "id": 1260292357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59182,31.17531,30.59182,31.17531",
+    "geom:latitude":31.17531,
+    "geom:longitude":30.59182,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat `Abd al Fattah `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415772,
+    "gn:latitude":31.17531,
+    "gn:longitude":30.59182,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u2018Izbat \u2018Abd al Fatt\u0101\u1e29 \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0639\u0628\u062f \u0627\u0644\u0641\u062a\u0627\u062d \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u2018Abd al Fatt\u0101\u1e29 \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092018277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415772
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c6260391028a3865cbfdc8fc8179153a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018277,
+            "locality_id":1260292357,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1260292357,
+    "wof:lastmodified":1537620996,
+    "wof:name":"`Izbat `Abd al Fattah `Ali",
+    "wof:parent_id":1092018277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59182,
+    31.17531,
+    30.59182,
+    31.17531
+],
+  "geometry": {"coordinates":[30.59182,31.17531],"type":"Point"}
+}

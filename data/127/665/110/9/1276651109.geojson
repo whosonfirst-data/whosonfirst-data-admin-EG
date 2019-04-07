@@ -1,0 +1,72 @@
+{
+  "id": 1276651109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93333,30.63333,30.93333,30.63333",
+    "geom:latitude":30.63333,
+    "geom:longitude":30.93333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El-Sukkariy",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357752,
+    "gn:latitude":30.63333,
+    "gn:longitude":30.93333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El-Sukkar\u00eey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Sukar\u00eeya",
+        "El-Sukkar\u00eey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092025145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357752
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"fb3d2012ef0a9e4ecef0883bfe7e8dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025145,
+            "locality_id":1276651109,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1276651109,
+    "wof:lastmodified":1537620803,
+    "wof:name":"El-Sukkariy",
+    "wof:parent_id":1092025145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93333,
+    30.63333,
+    30.93333,
+    30.63333
+],
+  "geometry": {"coordinates":[30.93333,30.63333],"type":"Point"}
+}

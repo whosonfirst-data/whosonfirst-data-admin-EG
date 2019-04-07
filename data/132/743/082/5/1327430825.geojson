@@ -1,0 +1,74 @@
+{
+  "id": 1327430825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20432,30.64249,31.20432,30.64249",
+    "geom:latitude":30.64249,
+    "geom:longitude":31.20432,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sinbu al Kubra",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347927,
+    "gn:latitude":30.64249,
+    "gn:longitude":31.20432,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sinb\u016b al Kubr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u0628\u0648 \u0627\u0644\u0643\u0628\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "Simbu el-Kubra",
+        "Sinb\u016b al Kubr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092026069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347927
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6e5745f9c317a3a62c38a2f5a201994e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092026069,
+            "locality_id":1327430825,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1327430825,
+    "wof:lastmodified":1537620568,
+    "wof:name":"Sinbu al Kubra",
+    "wof:parent_id":1092026069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20432000000001,
+    30.64249,
+    31.20432000000001,
+    30.64249
+],
+  "geometry": {"coordinates":[31.20432000000001,30.64249],"type":"Point"}
+}

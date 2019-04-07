@@ -1,0 +1,67 @@
+{
+  "id": 1226617013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0007,30.86311,32.0007,30.86311",
+    "geom:latitude":30.86311,
+    "geom:longitude":32.0007,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Munajah",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432871,
+    "gn:latitude":30.86311,
+    "gn:longitude":32.0007,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Al Mun\u0101j\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092018091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432871
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"874840d8dfdfea92410422f878e93c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018091,
+            "locality_id":1226617013,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226617013,
+    "wof:lastmodified":1536900742,
+    "wof:name":"Al Munajah",
+    "wof:parent_id":1092018091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0007,
+    30.86311,
+    32.0007,
+    30.86311
+],
+  "geometry": {"coordinates":[32.0007,30.86311],"type":"Point"}
+}

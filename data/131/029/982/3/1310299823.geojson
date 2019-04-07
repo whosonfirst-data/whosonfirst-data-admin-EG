@@ -1,0 +1,67 @@
+{
+  "id": 1310299823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97662,30.69309,30.97662,30.69309",
+    "geom:latitude":30.69309,
+    "geom:longitude":30.97662,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr Muhammad",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354173,
+    "gn:latitude":30.69309,
+    "gn:longitude":30.97662,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kafr Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092025145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354173
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5975ed80bf4e893d35920638804bc984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025145,
+            "locality_id":1310299823,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1310299823,
+    "wof:lastmodified":1536716465,
+    "wof:name":"Kafr Muhammad",
+    "wof:parent_id":1092025145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97662,
+    30.69309,
+    30.97662,
+    30.69309
+],
+  "geometry": {"coordinates":[30.97662,30.69309],"type":"Point"}
+}

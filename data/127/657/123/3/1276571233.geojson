@@ -1,0 +1,72 @@
+{
+  "id": 1276571233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2925,29.73833,31.2925,29.73833",
+    "geom:latitude":29.73833,
+    "geom:longitude":31.2925,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al `Atiyat",
+    "gn:country_code":"EG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360495,
+    "gn:latitude":29.73833,
+    "gn:longitude":31.2925,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Al \u2018A\u0163\u012by\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-\u2018U\u1e6daiy\u00e2t",
+        "Al \u2018U\u0163ayy\u0101t",
+        "Al \u2018A\u0163\u012by\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092019453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360495
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a2a02c3794be15f728f4fbf43f61bc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019453,
+            "locality_id":1276571233,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1276571233,
+    "wof:lastmodified":1537620879,
+    "wof:name":"Al `Atiyat",
+    "wof:parent_id":1092019453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2925,
+    29.73833,
+    31.2925,
+    29.73833
+],
+  "geometry": {"coordinates":[31.2925,29.73833],"type":"Point"}
+}

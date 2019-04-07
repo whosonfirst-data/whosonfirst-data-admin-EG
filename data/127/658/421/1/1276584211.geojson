@@ -1,0 +1,75 @@
+{
+  "id": 1276584211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19667,30.98525,31.19667,30.98525",
+    "geom:latitude":30.98525,
+    "geom:longitude":31.19667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Butaynah",
+    "gn:country_code":"EG",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358593,
+    "gn:latitude":30.98525,
+    "gn:longitude":31.19667,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Bu\u0163aynah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bi\u1e6deina",
+        "Bu\u0163aynah",
+        "Bu\u1e6daynah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358593
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"10de47e7d0bb3b0f502fd43112af7da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1276584211,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1276584211,
+    "wof:lastmodified":1537620816,
+    "wof:name":"Butaynah",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19667,
+    30.98525,
+    31.19667,
+    30.98525
+],
+  "geometry": {"coordinates":[31.19667,30.98525],"type":"Point"}
+}

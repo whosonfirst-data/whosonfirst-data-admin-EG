@@ -1,0 +1,72 @@
+{
+  "id": 1226619973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61639,30.60028,31.61639,30.60028",
+    "geom:latitude":30.60028,
+    "geom:longitude":31.61639,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Ibrahim Agha",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354246,
+    "gn:latitude":30.60028,
+    "gn:longitude":31.61639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Ibr\u0101h\u012bm \u0100gh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Ibr\u00e2h\u00eem \u00c2gha",
+        "Kafr Ibr\u0101h\u012bm \u0100gh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354246
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d01c639b13c720b26c4682e129a0da2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1226619973,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226619973,
+    "wof:lastmodified":1537620699,
+    "wof:name":"Kafr Ibrahim Agha",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61639000000001,
+    30.60028,
+    31.61639000000001,
+    30.60028
+],
+  "geometry": {"coordinates":[31.61639000000001,30.60028],"type":"Point"}
+}

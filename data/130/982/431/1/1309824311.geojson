@@ -1,0 +1,73 @@
+{
+  "id": 1309824311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71667,27.85,30.71667,27.85",
+    "geom:latitude":27.85,
+    "geom:longitude":30.71667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nazlat Tadrus",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351078,
+    "gn:latitude":27.85,
+    "gn:longitude":30.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat T\u0101drus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet T\u00e2drus",
+        "Nazlat F\u0101ris",
+        "Nazlat T\u0101drus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351078
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5509f39dc689405318a9fc7493c33536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022005,
+            "locality_id":1309824311,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1309824311,
+    "wof:lastmodified":1537620605,
+    "wof:name":"Nazlat Tadrus",
+    "wof:parent_id":1092022005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71667,
+    27.85,
+    30.71667,
+    27.85
+],
+  "geometry": {"coordinates":[30.71667,27.85],"type":"Point"}
+}

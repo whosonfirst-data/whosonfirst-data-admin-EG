@@ -1,0 +1,67 @@
+{
+  "id": 1360154373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9,24.45,32.9,24.45",
+    "geom:latitude":24.45,
+    "geom:longitude":32.9,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Umm Hamid",
+    "gn:country_code":"EG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346860,
+    "gn:latitude":24.45,
+    "gn:longitude":32.9,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Umm \u1e28\u0101mi\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346860
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"25fa775053e4ebfcac597324a975cc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016115,
+            "locality_id":1360154373,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":1360154373,
+    "wof:lastmodified":1536844757,
+    "wof:name":"Umm Hamid",
+    "wof:parent_id":1092016115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9,
+    24.45,
+    32.9,
+    24.45
+],
+  "geometry": {"coordinates":[32.9,24.45],"type":"Point"}
+}

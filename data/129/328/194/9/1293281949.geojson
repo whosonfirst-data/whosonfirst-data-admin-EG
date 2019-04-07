@@ -1,0 +1,74 @@
+{
+  "id": 1293281949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8672,30.48243,30.8672,30.48243",
+    "geom:latitude":30.48243,
+    "geom:longitude":30.8672,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"`Izbat `Abd al Fattah Khayr Allah",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11545512,
+    "gn:latitude":30.48243,
+    "gn:longitude":30.8672,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat \u2018Abd al Fatt\u0101\u1e29 Khayr All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0639\u0628\u062f \u0627\u0644\u0641\u062a\u0627\u062d \u062e\u064a\u0631 \u0627\u0644\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u2018Abd al Fatt\u0101\u1e29 Khayr All\u0101h",
+        "\u2018Izbat \u2018Abd al Fatt\u0101\u1e25 khayr All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092022369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11545512
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b64c7a7042bb21104e948f80348aeaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022369,
+            "locality_id":1293281949,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1293281949,
+    "wof:lastmodified":1537621260,
+    "wof:name":"`Izbat `Abd al Fattah Khayr Allah",
+    "wof:parent_id":1092022369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8672,
+    30.48243,
+    30.8672,
+    30.48243
+],
+  "geometry": {"coordinates":[30.8672,30.48243],"type":"Point"}
+}

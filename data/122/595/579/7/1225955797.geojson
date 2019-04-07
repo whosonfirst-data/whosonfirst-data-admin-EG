@@ -1,0 +1,75 @@
+{
+  "id": 1225955797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13281,31.25023,30.13281,31.25023",
+    "geom:latitude":31.25023,
+    "geom:longitude":30.13281,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Hamra",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":356196,
+    "gn:latitude":31.25023,
+    "gn:longitude":30.13281,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat al \u1e28amr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u062d\u0645\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Izbah al \u1e28amr\u0101\u2019",
+        "El-\u2018Ezba el-\u1e24amra",
+        "\u2018Izbat al \u1e28amr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356196
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0367e2fa3d4941be1c3641175f180823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1225955797,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1225955797,
+    "wof:lastmodified":1537620777,
+    "wof:name":"`Izbat al Hamra",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13281,
+    31.25023,
+    30.13281,
+    31.25023
+],
+  "geometry": {"coordinates":[30.13281,31.25023],"type":"Point"}
+}

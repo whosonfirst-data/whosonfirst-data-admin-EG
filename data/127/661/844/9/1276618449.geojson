@@ -1,0 +1,73 @@
+{
+  "id": 1276618449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49562,31.38399,30.49562,31.38399",
+    "geom:latitude":31.38399,
+    "geom:longitude":30.49562,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat an Nasara",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414971,
+    "gn:latitude":31.38399,
+    "gn:longitude":30.49562,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat an Na\u015f\u0101r\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0646\u0635\u0627\u0631\u0649"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat an Na\u015f\u0101r\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414971
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7ec11fedb1267b73d9c0f128303c090b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1276618449,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276618449,
+    "wof:lastmodified":1537620974,
+    "wof:name":"`Izbat an Nasara",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49562,
+    31.38399,
+    30.49562,
+    31.38399
+],
+  "geometry": {"coordinates":[30.49562,31.38399],"type":"Point"}
+}

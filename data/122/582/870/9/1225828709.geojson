@@ -1,0 +1,73 @@
+{
+  "id": 1225828709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.64229,30.66397,31.64229,30.66397",
+    "geom:latitude":30.66397,
+    "geom:longitude":31.64229,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Nazari",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068485,
+    "gn:latitude":30.66397,
+    "gn:longitude":31.64229,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Naz\u0327ar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0646\u0638\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Naz\u0327ar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068485
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0964995bdce6e41d5674508c2934592a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021319,
+            "locality_id":1225828709,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1225828709,
+    "wof:lastmodified":1537621165,
+    "wof:name":"`Izbat Nazari",
+    "wof:parent_id":1092021319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.64229000000001,
+    30.66397000000001,
+    31.64229000000001,
+    30.66397000000001
+],
+  "geometry": {"coordinates":[31.64229000000001,30.66397000000001],"type":"Point"}
+}

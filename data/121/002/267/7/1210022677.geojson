@@ -1,0 +1,72 @@
+{
+  "id": 1210022677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00387,29.43432,31.00387,29.43432",
+    "geom:latitude":29.43432,
+    "geom:longitude":31.00387,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ar Rubiyat",
+    "gn:country_code":"EG",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360094,
+    "gn:latitude":29.43432,
+    "gn:longitude":31.00387,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ar R\u016bb\u012by\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er R\u016bbiy\u0101t",
+        "El R\u00fbbiy\u00e2t",
+        "Ar R\u016bb\u012by\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092025417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360094
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6c6bbf5c4504d819a29ffef121301f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025417,
+            "locality_id":1210022677,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1210022677,
+    "wof:lastmodified":1537620865,
+    "wof:name":"Ar Rubiyat",
+    "wof:parent_id":1092025417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00387000000001,
+    29.43432,
+    31.00387000000001,
+    29.43432
+],
+  "geometry": {"coordinates":[31.00387000000001,29.43432],"type":"Point"}
+}

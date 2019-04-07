@@ -1,0 +1,74 @@
+{
+  "id": 1226054139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53064,31.18234,30.53064,31.18234",
+    "geom:latitude":31.18234,
+    "geom:longitude":30.53064,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat ash Shayyalin",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415761,
+    "gn:latitude":31.18234,
+    "gn:longitude":30.53064,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u2018Izbat ash Shayy\u0101l\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0634\u064a\u0627\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ash Shayy\u0101l\u012bn",
+        "\u2018Izbat ash Shayy\u0101lin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092018277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415761
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8bcc59177de583572d972090ebd36f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018277,
+            "locality_id":1226054139,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226054139,
+    "wof:lastmodified":1537620996,
+    "wof:name":"`Izbat ash Shayyalin",
+    "wof:parent_id":1092018277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53064,
+    31.18234,
+    30.53064,
+    31.18234
+],
+  "geometry": {"coordinates":[30.53064,31.18234],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293014989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67414,31.11987,31.67414,31.11987",
+    "geom:latitude":31.11987,
+    "geom:longitude":31.67414,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mit Hadid",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352174,
+    "gn:latitude":31.11987,
+    "gn:longitude":31.67414,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"M\u012bt \u1e28ad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u062d\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "M\u012bt \u1e28ad\u012bd",
+        "M\u00eet \u1e24ad\u00eed",
+        "M\u012bt \u1e24ad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352174
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"682ee416fb60b89fb1c3fa1be337cbc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022451,
+            "locality_id":1293014989,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1293014989,
+    "wof:lastmodified":1537620638,
+    "wof:name":"Mit Hadid",
+    "wof:parent_id":1092022451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67414,
+    31.11987,
+    31.67414,
+    31.11987
+],
+  "geometry": {"coordinates":[31.67414,31.11987],"type":"Point"}
+}

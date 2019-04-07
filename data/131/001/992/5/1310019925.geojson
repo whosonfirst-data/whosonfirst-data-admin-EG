@@ -1,0 +1,74 @@
+{
+  "id": 1310019925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.97261,31.15482,31.97261,31.15482",
+    "geom:latitude":31.15482,
+    "geom:longitude":31.97261,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat al Basaylah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421102,
+    "gn:latitude":31.15482,
+    "gn:longitude":31.97261,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat al Ba\u015f\u0101ylah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u0635\u0627\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Ba\u015f\u0101ylah",
+        "\u2018Izbat al-Ba\u1e63\u0101ylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421102
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9c2a15abe8fda875392c9fc469725c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018397,
+            "locality_id":1310019925,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1310019925,
+    "wof:lastmodified":1537621096,
+    "wof:name":"`Izbat al Basaylah",
+    "wof:parent_id":1092018397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.97261,
+    31.15482,
+    31.97261,
+    31.15482
+],
+  "geometry": {"coordinates":[31.97261,31.15482],"type":"Point"}
+}

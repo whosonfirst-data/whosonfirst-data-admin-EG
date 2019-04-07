@@ -1,0 +1,67 @@
+{
+  "id": 1276935191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.54539,25.44575,32.54539,25.44575",
+    "geom:latitude":25.44575,
+    "geom:longitude":32.54539,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` al Masa`id",
+    "gn:country_code":"EG",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445282,
+    "gn:latitude":25.44575,
+    "gn:longitude":32.54539,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Naj\u2018 al Mas\u0101\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445282
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8db552f987e7646b964e8e5fe2a427b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023115,
+            "locality_id":1276935191,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1276935191,
+    "wof:lastmodified":1536967011,
+    "wof:name":"Naj` al Masa`id",
+    "wof:parent_id":1092023115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.54539,
+    25.44575,
+    32.54539,
+    25.44575
+],
+  "geometry": {"coordinates":[32.54539,25.44575],"type":"Point"}
+}

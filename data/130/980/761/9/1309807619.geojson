@@ -1,0 +1,71 @@
+{
+  "id": 1309807619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77078,31.37732,31.77078,31.37732",
+    "geom:latitude":31.37732,
+    "geom:longitude":31.77078,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Awlad Hamam",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359623,
+    "gn:latitude":31.37732,
+    "gn:longitude":31.77078,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Awl\u0101d \u1e28am\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aul\u00e2d \u1e24am\u00e2m",
+        "Awl\u0101d \u1e28am\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092016349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359623
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e94506f0e4d9a8d8a413d92c9eb32b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016349,
+            "locality_id":1309807619,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1309807619,
+    "wof:lastmodified":1537620843,
+    "wof:name":"Awlad Hamam",
+    "wof:parent_id":1092016349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77078,
+    31.37732,
+    31.77078,
+    31.37732
+],
+  "geometry": {"coordinates":[31.77078,31.37732],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209124025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27823,30.88694,31.27823,30.88694",
+    "geom:latitude":30.88694,
+    "geom:longitude":31.27823,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"As Sunaytah",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347747,
+    "gn:latitude":30.88694,
+    "gn:longitude":31.27823,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"As Sunay\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0646\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sunay\u0163ah",
+        "Sineita",
+        "As Sinay\u0163ah",
+        "As Sunay\u0163ah",
+        "As-Sinay\u1e6dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347747
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a34e0eeaced075ce6dedbd50d580e48e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209124025
+        }
+    ],
+    "wof:id":1209124025,
+    "wof:lastmodified":1537620566,
+    "wof:name":"As Sunaytah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27823,
+    30.88694000000001,
+    31.27823,
+    30.88694000000001
+],
+  "geometry": {"coordinates":[31.27823,30.88694000000001],"type":"Point"}
+}

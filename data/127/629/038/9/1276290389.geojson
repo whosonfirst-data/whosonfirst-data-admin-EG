@@ -1,0 +1,74 @@
+{
+  "id": 1276290389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11934,31.1768,31.11934,31.1768",
+    "geom:latitude":31.1768,
+    "geom:longitude":31.11934,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat al `Ushb",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419266,
+    "gn:latitude":31.1768,
+    "gn:longitude":31.11934,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"\u2018Izbat al \u2018Ushb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u0634\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al \u2018Ushb",
+        "\u2018Izbat al-\u2018Ushb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419266
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"52a36e9740a6062d4939fbd8e54a05c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1276290389,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1276290389,
+    "wof:lastmodified":1537621045,
+    "wof:name":"`Izbat al `Ushb",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11934,
+    31.1768,
+    31.11934,
+    31.1768
+],
+  "geometry": {"coordinates":[31.11934,31.1768],"type":"Point"}
+}

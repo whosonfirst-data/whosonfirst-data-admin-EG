@@ -1,0 +1,72 @@
+{
+  "id": 1242843007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.18917,26.05977,32.18917,26.05977",
+    "geom:latitude":26.05977,
+    "geom:longitude":32.18917,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` al Qubibah",
+    "gn:country_code":"EG",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360556,
+    "gn:latitude":26.05977,
+    "gn:longitude":32.18917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 al Qub\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Qibeiba",
+        "Al Qubaybah",
+        "Naj\u2018 al Qub\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360556
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4829d5e894e81d8cb4b207903ce5b2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020903,
+            "locality_id":1242843007,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1242843007,
+    "wof:lastmodified":1537620883,
+    "wof:name":"Naj` al Qubibah",
+    "wof:parent_id":1092020903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.18917,
+    26.05977,
+    32.18917,
+    26.05977
+],
+  "geometry": {"coordinates":[32.18917,26.05977],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310278757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37543,30.34266,31.37543,30.34266",
+    "geom:latitude":30.34266,
+    "geom:longitude":31.37543,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr Yusuf Shihatah",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354007,
+    "gn:latitude":30.34266,
+    "gn:longitude":31.37543,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr Y\u016bsuf Shi\u1e29\u0101tah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Y\u00fbsef Shi\u1e25\u00e2ta",
+        "Kafr Y\u016bsuf Shi\u1e29\u0101tah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092022165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354007
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b694f1708a0689e3dc67cb3434076881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022165,
+            "locality_id":1310278757,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310278757,
+    "wof:lastmodified":1537620681,
+    "wof:name":"Kafr Yusuf Shihatah",
+    "wof:parent_id":1092022165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37543,
+    30.34266,
+    31.37543,
+    30.34266
+],
+  "geometry": {"coordinates":[31.37543,30.34266],"type":"Point"}
+}

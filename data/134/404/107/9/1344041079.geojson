@@ -1,0 +1,67 @@
+{
+  "id": 1344041079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83111,30.76222,31.83111,30.76222",
+    "geom:latitude":30.76222,
+    "geom:longitude":31.83111,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Ashkur",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357603,
+    "gn:latitude":30.76222,
+    "gn:longitude":31.83111,
+    "gn:modification_date":"2001-04-25",
+    "gn:name":"\u2018Izbat Ashkur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357603
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2bc6ca1db0511313a8a0fbc46eec0269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1344041079,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1344041079,
+    "wof:lastmodified":1536903777,
+    "wof:name":"`Izbat Ashkur",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83111,
+    30.76222000000001,
+    31.83111,
+    30.76222000000001
+],
+  "geometry": {"coordinates":[31.83111,30.76222000000001],"type":"Point"}
+}

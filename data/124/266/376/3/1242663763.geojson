@@ -1,0 +1,82 @@
+{
+  "id": 1242663763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.54635,25.45141,30.54635,25.45141",
+    "geom:latitude":25.45141,
+    "geom:longitude":30.54635,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Al Kharijah",
+    "gn:country_code":"EG",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":360923,
+    "gn:latitude":25.45141,
+    "gn:longitude":30.54635,
+    "gn:modification_date":"2017-04-11",
+    "gn:name":"Al Kh\u0101rijah",
+    "gn:population":67700,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0627\u0631\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Charge",
+        "Al-Kharga",
+        "El Kh\u00e2rga",
+        "Kharga",
+        "Al Kh\u0101rijah",
+        "Kharga Oasis"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360923,
+        "wk:page":"Al_Kharijah"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6bbb560f3767e5f5952c45d98b17c210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020223,
+            "locality_id":1242663763,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1242663763,
+    "wof:lastmodified":1537620904,
+    "wof:name":"Al Kharijah",
+    "wof:parent_id":1092020223,
+    "wof:placetype":"locality",
+    "wof:population":67700,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.54635,
+    25.45141,
+    30.54635,
+    25.45141
+],
+  "geometry": {"coordinates":[30.54635,25.45141],"type":"Point"}
+}

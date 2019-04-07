@@ -1,0 +1,67 @@
+{
+  "id": 1243566055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.22366,30.83075,30.22366,30.83075",
+    "geom:latitude":30.83075,
+    "geom:longitude":30.22366,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Bughus Nubar al Qibliyah",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434214,
+    "gn:latitude":30.83075,
+    "gn:longitude":30.22366,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat B\u016bgh\u016b\u015f N\u016bb\u0101r al Qibl\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434214
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0c80548f83cc47fcc8e2673d1bf442d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1243566055,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243566055,
+    "wof:lastmodified":1536631606,
+    "wof:name":"`Izbat Bughus Nubar al Qibliyah",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.22366,
+    30.83075,
+    30.22366,
+    30.83075
+],
+  "geometry": {"coordinates":[30.22366,30.83075],"type":"Point"}
+}

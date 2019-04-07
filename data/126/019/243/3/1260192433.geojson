@@ -1,0 +1,77 @@
+{
+  "id": 1260192433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5082,31.11371,31.5082,31.11371",
+    "geom:latitude":31.11371,
+    "geom:longitude":31.5082,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dimeshalt",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358155,
+    "gn:latitude":31.11371,
+    "gn:longitude":31.5082,
+    "gn:modification_date":"2014-11-04",
+    "gn:name":"Dimeshalt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0645\u0634\u0644\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Dimeshalt"
+    ],
+    "name:und_x_variant":[
+        "Dimgalat",
+        "Dimishshalt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092016227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358155
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a809c40dee5c9684db8ffbf05b6217f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016227,
+            "locality_id":1260192433,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1260192433,
+    "wof:lastmodified":1537620809,
+    "wof:name":"Dimeshalt",
+    "wof:parent_id":1092016227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5082,
+    31.11371,
+    31.5082,
+    31.11371
+],
+  "geometry": {"coordinates":[31.5082,31.11371],"type":"Point"}
+}

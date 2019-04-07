@@ -1,0 +1,74 @@
+{
+  "id": 1276457691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61098,31.20515,31.61098,31.20515",
+    "geom:latitude":31.20515,
+    "geom:longitude":31.61098,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Shata Haykal",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419432,
+    "gn:latitude":31.20515,
+    "gn:longitude":31.61098,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"\u2018Izbat Sha\u0163\u0101 Haykal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0634\u0637\u0627 \u0647\u064a\u0643\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Sha\u0163\u0101 Haykal",
+        "\u2018Iz. Sha\u1e6d\u0101 Haykal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092020509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419432
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b527b8e476b159625efb666eac8bfccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020509,
+            "locality_id":1276457691,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1276457691,
+    "wof:lastmodified":1537621050,
+    "wof:name":"`Izbat Shata Haykal",
+    "wof:parent_id":1092020509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61098,
+    31.20515,
+    31.61098,
+    31.20515
+],
+  "geometry": {"coordinates":[31.61098,31.20515],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193151241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.97296,31.15654,31.97296,31.15654",
+    "geom:latitude":31.15654,
+    "geom:longitude":31.97296,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat al `Amarnah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361594,
+    "gn:latitude":31.15654,
+    "gn:longitude":31.97296,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat al \u2018Am\u0101rnah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0639\u0645\u0627\u0631\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u2018Am\u00e2rna",
+        "El-\u2018Amarha",
+        "Al \u2018Am\u0101rinah",
+        "\u2018Izbat al \u2018Am\u0101rnah",
+        "\u2018Izbat al-\u2018Am\u0101rnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361594
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1c2eff39f70c6fce9b3c097d46474b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018397,
+            "locality_id":1193151241,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1193151241,
+    "wof:lastmodified":1537620946,
+    "wof:name":"`Izbat al `Amarnah",
+    "wof:parent_id":1092018397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.97296,
+    31.15654,
+    31.97296,
+    31.15654
+],
+  "geometry": {"coordinates":[31.97296,31.15654],"type":"Point"}
+}

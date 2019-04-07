@@ -1,0 +1,76 @@
+{
+  "id": 1259785175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.04592,31.10363,30.04592,31.10363",
+    "geom:latitude":31.10363,
+    "geom:longitude":30.04592,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Khattab",
+    "gn:country_code":"EG",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363030,
+    "gn:latitude":31.10363,
+    "gn:longitude":30.04592,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat Kha\u0163\u0163\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062e\u0637\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet Naffusa Bak\u00eer",
+        "\u2018Ezbet \u2018Abd el-Ra\u1e25m\u00e2n Kha\u1e6d\u1e6d\u00e2b",
+        "\u2018Izbat \u2018Abd ar Ra\u1e29m\u0101n Kha\u0163\u0163\u0101b",
+        "\u2018Izbat Kha\u0163\u0163\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363030
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6264bd19dd7c01deecf411c5ec428ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1259785175,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1259785175,
+    "wof:lastmodified":1537620964,
+    "wof:name":"`Izbat Khattab",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.04592,
+    31.10363,
+    30.04592,
+    31.10363
+],
+  "geometry": {"coordinates":[30.04592,31.10363],"type":"Point"}
+}

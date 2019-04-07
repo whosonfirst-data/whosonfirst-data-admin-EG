@@ -1,0 +1,71 @@
+{
+  "id": 1326641395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21774,30.72791,30.21774,30.72791",
+    "geom:latitude":30.72791,
+    "geom:longitude":30.21774,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Abbas al `Aqqad",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408925,
+    "gn:latitude":30.72791,
+    "gn:longitude":30.21774,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Abb\u0101s al \u2018Aqq\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Abb\u00e2s el-\u2018Aqq\u00e2d",
+        "\u2018Abb\u0101s al \u2018Aqq\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408925
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e66d1fcaa1938e4c5cfc5fcefb3a0c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1326641395,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1326641395,
+    "wof:lastmodified":1537620966,
+    "wof:name":"`Abbas al `Aqqad",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21774000000001,
+    30.72791,
+    30.21774000000001,
+    30.72791
+],
+  "geometry": {"coordinates":[30.21774000000001,30.72791],"type":"Point"}
+}

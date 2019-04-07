@@ -1,0 +1,104 @@
+{
+  "id": 890422277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.29901,31.30782,30.29901,31.30782",
+    "geom:latitude":31.30782,
+    "geom:longitude":30.29901,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":105599,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0625\u062f\u0643\u0648"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u5fb7\u5eab"
+    ],
+    "name:dut_x_preferred":[
+        "Idku"
+    ],
+    "name:eng_x_preferred":[
+        "Idku"
+    ],
+    "name:fre_x_preferred":[
+        "Idku"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0434\u043a\u0443"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u062f\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Idku"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0434\u043a\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Idku"
+    ],
+    "name:unk_x_variant":[
+        "Edkou"
+    ],
+    "qs:name":"Idk\u016b",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:latitude":"31.305833333",
+    "wd:longitude":"30.295555555",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092016481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355628,
+        "gp:id":1523797,
+        "qs:id":547866,
+        "wd:id":"Q2988951",
+        "wk:page":"Idku"
+    },
+    "wof:country":"EG",
+    "wof:created":1469051435,
+    "wof:geomhash":"e5e9392d8e6b4d0ec81e7a7a8906fa5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016481,
+            "locality_id":890422277,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":890422277,
+    "wof:lastmodified":1527727163,
+    "wof:name":"Idk\u016b",
+    "wof:parent_id":1092016481,
+    "wof:placetype":"locality",
+    "wof:population":105599,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.29901,
+    31.30782,
+    30.29901,
+    31.30782
+],
+  "geometry": {"coordinates":[30.29901,31.30782],"type":"Point"}
+}

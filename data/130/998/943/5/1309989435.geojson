@@ -1,0 +1,74 @@
+{
+  "id": 1309989435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51057,30.80592,31.51057,30.80592",
+    "geom:latitude":30.80592,
+    "geom:longitude":31.51057,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"As Suwayni",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359798,
+    "gn:latitude":30.80592,
+    "gn:longitude":31.51057,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015f \u015euwayn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0648\u064a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e62uweini",
+        "A\u015f \u015euwayn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359798
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"472a6bef81048489ce3dfcb4526a5bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1309989435,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309989435,
+    "wof:lastmodified":1537620848,
+    "wof:name":"As Suwayni",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51057,
+    30.80592,
+    31.51057,
+    30.80592
+],
+  "geometry": {"coordinates":[31.51057,30.80592],"type":"Point"}
+}

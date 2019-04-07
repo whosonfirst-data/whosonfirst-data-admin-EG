@@ -1,0 +1,74 @@
+{
+  "id": 1226498887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33333,30.86667,29.33333,30.86667",
+    "geom:latitude":30.86667,
+    "geom:longitude":29.33333,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dawwar Musadif Yunus",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358311,
+    "gn:latitude":30.86667,
+    "gn:longitude":29.33333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Daww\u0101r Mu\u015f\u0101dif Y\u016bnus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dauw\u00e2r Mis\u00e2dif Yunis",
+        "Daww\u00e2r Na\u015f\u015f\u0101r",
+        "Dauw\u00e2r Na\u1e63\u1e63\u00e2r",
+        "Daww\u0101r Mu\u015f\u0101dif Y\u016bnus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671031,
+        1092017953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358311
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4b841b9a3aeb1dad82b14af00ab53401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017953,
+            "locality_id":1226498887,
+            "region_id":85671031
+        }
+    ],
+    "wof:id":1226498887,
+    "wof:lastmodified":1537620812,
+    "wof:name":"Dawwar Musadif Yunus",
+    "wof:parent_id":1092017953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33333,
+    30.86667000000001,
+    29.33333,
+    30.86667000000001
+],
+  "geometry": {"coordinates":[29.33333,30.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310409723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25123,30.95797,31.25123,30.95797",
+    "geom:latitude":30.95797,
+    "geom:longitude":31.25123,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Minyat Samannud",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352330,
+    "gn:latitude":30.95797,
+    "gn:longitude":31.25123,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Minyat Samann\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u064a\u0629 \u0633\u0645\u0646\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Minyet Samann\u00fbd",
+        "Minyat Samann\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092014439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352330
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"26fc1c41be9b5054e54bbe01db62ae2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014439,
+            "locality_id":1310409723,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1310409723,
+    "wof:lastmodified":1537620646,
+    "wof:name":"Minyat Samannud",
+    "wof:parent_id":1092014439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25123,
+    30.95797,
+    31.25123,
+    30.95797
+],
+  "geometry": {"coordinates":[31.25123,30.95797],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226198629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.53722,25.26448,32.53722,25.26448",
+    "geom:latitude":25.26448,
+    "geom:longitude":32.53722,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` al Ma`allat",
+    "gn:country_code":"EG",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445263,
+    "gn:latitude":25.26448,
+    "gn:longitude":32.53722,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Naj\u2018 al Ma\u2018all\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445263
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3229356fd4f7cc484e9d0c3c13ff92ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020721,
+            "locality_id":1226198629,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1226198629,
+    "wof:lastmodified":1537000893,
+    "wof:name":"Naj` al Ma`allat",
+    "wof:parent_id":1092020721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.53722,
+    25.26448,
+    32.53722,
+    25.26448
+],
+  "geometry": {"coordinates":[32.53722,25.26448],"type":"Point"}
+}

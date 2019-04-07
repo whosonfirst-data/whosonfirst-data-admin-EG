@@ -1,0 +1,67 @@
+{
+  "id": 1260376273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28333,29.56667,31.28333,29.56667",
+    "geom:latitude":29.56667,
+    "geom:longitude":31.28333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Ezbet el-Markaz",
+    "gn:country_code":"EG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357450,
+    "gn:latitude":29.56667,
+    "gn:longitude":31.28333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet el-Markaz",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092019453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357450
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"721ea2ee53e96be71071aff2e6fafb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019453,
+            "locality_id":1260376273,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1260376273,
+    "wof:lastmodified":1537081478,
+    "wof:name":"`Ezbet el-Markaz",
+    "wof:parent_id":1092019453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28333,
+    29.56667,
+    31.28333,
+    29.56667
+],
+  "geometry": {"coordinates":[31.28333,29.56667],"type":"Point"}
+}

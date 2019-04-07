@@ -1,0 +1,73 @@
+{
+  "id": 1309689381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24032,30.3946,31.24032,30.3946",
+    "geom:latitude":30.3946,
+    "geom:longitude":31.24032,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Izbat Jubran Haddad",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139079,
+    "gn:latitude":30.3946,
+    "gn:longitude":31.24032,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat Jubr\u0101n \u1e28add\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062c\u0628\u0631\u0627\u0646 \u062d\u062f\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Jubr\u0101n \u1e28add\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139079
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f92f26adbdc5a379d5a10e00afadfc9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1309689381,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1309689381,
+    "wof:lastmodified":1537621182,
+    "wof:name":"`Izbat Jubran Haddad",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24032,
+    30.3946,
+    31.24032,
+    30.3946
+],
+  "geometry": {"coordinates":[31.24032,30.3946],"type":"Point"}
+}

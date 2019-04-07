@@ -1,0 +1,72 @@
+{
+  "id": 1242845959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35,27.06667,31.35,27.06667",
+    "geom:latitude":27.06667,
+    "geom:longitude":31.35,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Nazlat al Malik",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351189,
+    "gn:latitude":27.06667,
+    "gn:longitude":31.35,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat al Malik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet el Mlik",
+        "Nazlat al Malik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092024123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351189
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"35a4892272630bdff49590641a2d7cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024123,
+            "locality_id":1242845959,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1242845959,
+    "wof:lastmodified":1537620612,
+    "wof:name":"Nazlat al Malik",
+    "wof:parent_id":1092024123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35,
+    27.06667,
+    31.35,
+    27.06667
+],
+  "geometry": {"coordinates":[31.35,27.06667],"type":"Point"}
+}

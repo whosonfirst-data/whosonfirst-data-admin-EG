@@ -1,0 +1,76 @@
+{
+  "id": 1326547839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52456,31.18192,31.52456,31.18192",
+    "geom:latitude":31.18192,
+    "geom:longitude":31.52456,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mahallat Inshaq",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353132,
+    "gn:latitude":31.18192,
+    "gn:longitude":31.52456,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Ma\u1e29allat Insh\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0644\u0629 \u0625\u0646\u0634\u0627\u0642"
+    ],
+    "name:und_x_variant":[
+        "Mehallet Ing\u00e2q",
+        "Ma\u1e25allet Insh\u00e2q",
+        "Ma\u1e29allat Insh\u0101q",
+        "Ma\u1e25allat Insh\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092024759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353132
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0aba027ce1316cd258ad148e8c5d50c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024759,
+            "locality_id":1326547839,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1326547839,
+    "wof:lastmodified":1537620666,
+    "wof:name":"Mahallat Inshaq",
+    "wof:parent_id":1092024759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52456,
+    31.18192,
+    31.52456,
+    31.18192
+],
+  "geometry": {"coordinates":[31.52456,31.18192],"type":"Point"}
+}

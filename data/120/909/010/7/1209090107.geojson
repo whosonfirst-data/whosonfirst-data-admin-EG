@@ -1,0 +1,65 @@
+{
+  "id": 1209090107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76667,27.65,30.76667,27.65",
+    "geom:latitude":27.65,
+    "geom:longitude":30.76667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Naj` Muhammad Haridi",
+    "gn:country_code":"EG",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351405,
+    "gn:latitude":27.65,
+    "gn:longitude":30.76667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 Mu\u1e29ammad \u1e28ar\u012bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2018 Muhammad Haridi",
+        "Naj\u2018 Mu\u1e29ammad \u1e28ar\u012bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351405
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7da76b65a922c33056eca2a32fc6e404",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209090107
+        }
+    ],
+    "wof:id":1209090107,
+    "wof:lastmodified":1537620619,
+    "wof:name":"Naj` Muhammad Haridi",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76667,
+    27.65,
+    30.76667,
+    27.65
+],
+  "geometry": {"coordinates":[30.76667,27.65],"type":"Point"}
+}

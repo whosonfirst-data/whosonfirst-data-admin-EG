@@ -1,0 +1,77 @@
+{
+  "id": 1242685243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08843,31.07933,30.08843,31.07933",
+    "geom:latitude":31.07933,
+    "geom:longitude":30.08843,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Marsa",
+    "gn:country_code":"EG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":356951,
+    "gn:latitude":31.07933,
+    "gn:longitude":30.08843,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat al Mars\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0645\u0631\u0633\u0649"
+    ],
+    "name:und_x_variant":[
+        "Al Mars\u00e1",
+        "\u2018Ezbet Far\u00eed B\u00e2n\u00fbb",
+        "\u2018Azbat Far\u012bd B\u0101n\u016bb",
+        "\u2018Izbat Far\u012bd B\u0101n\u016bb",
+        "\u2018Izbat al Mars\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356951
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bba2b346461f27c712eabe03f8317584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1242685243,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1242685243,
+    "wof:lastmodified":1537620781,
+    "wof:name":"`Izbat al Marsa",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08843,
+    31.07933,
+    30.08843,
+    31.07933
+],
+  "geometry": {"coordinates":[30.08843,31.07933],"type":"Point"}
+}

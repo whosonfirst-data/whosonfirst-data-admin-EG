@@ -1,0 +1,67 @@
+{
+  "id": 1327243265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70959,30.97129,30.70959,30.97129",
+    "geom:latitude":30.97129,
+    "geom:longitude":30.70959,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Banul",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433278,
+    "gn:latitude":30.97129,
+    "gn:longitude":30.70959,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"B\u0101n\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092024849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433278
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2d084b8fe31bb4705177dffd55449b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024849,
+            "locality_id":1327243265,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327243265,
+    "wof:lastmodified":1536953902,
+    "wof:name":"Banul",
+    "wof:parent_id":1092024849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70959,
+    30.97129,
+    30.70959,
+    30.97129
+],
+  "geometry": {"coordinates":[30.70959,30.97129],"type":"Point"}
+}

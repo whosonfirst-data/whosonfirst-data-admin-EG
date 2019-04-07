@@ -1,0 +1,67 @@
+{
+  "id": 1276559403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.30062,30.80157,30.30062,30.80157",
+    "geom:latitude":30.80157,
+    "geom:longitude":30.30062,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Naj` ad Dumin",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433981,
+    "gn:latitude":30.80157,
+    "gn:longitude":30.30062,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Naj\u2018 ad D\u016bm\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433981
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8a8e6baec62b8d0c3d04c56ae778a8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021459,
+            "locality_id":1276559403,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276559403,
+    "wof:lastmodified":1536972714,
+    "wof:name":"Naj` ad Dumin",
+    "wof:parent_id":1092021459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.30062,
+    30.80157,
+    30.30062,
+    30.80157
+],
+  "geometry": {"coordinates":[30.30062,30.80157],"type":"Point"}
+}

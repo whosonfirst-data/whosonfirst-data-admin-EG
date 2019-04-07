@@ -1,0 +1,75 @@
+{
+  "id": 421189909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.562103,25.389857,32.562103,25.389857",
+    "geom:latitude":25.389857,
+    "geom:longitude":32.562103,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Asfun al Matainah",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0642\u0646\u0627",
+    "qs:photos":95,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":95,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118022,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1522243,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1522243,
+        "qs:id":1118022
+    },
+    "wof:country":"EG",
+    "wof:created":1459009640,
+    "wof:geomhash":"5f617a5ceb43f59fc39f3a874f8c9505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020721,
+            "locality_id":421189909,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":421189909,
+    "wof:lastmodified":1500036801,
+    "wof:name":"Asfun al Matainah",
+    "wof:parent_id":1092020721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.562103,
+    25.389857,
+    32.562103,
+    25.389857
+],
+  "geometry": {"coordinates":[32.562103,25.389857],"type":"Point"}
+}

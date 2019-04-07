@@ -1,0 +1,79 @@
+{
+  "id": 1293085459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0577,30.24809,31.0577,30.24809",
+    "geom:latitude":30.24809,
+    "geom:longitude":31.0577,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Hilwasi",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361149,
+    "gn:latitude":30.24809,
+    "gn:longitude":31.0577,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28ilw\u0101\u015f\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28ilw\u0101\u015f\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0644\u0648\u0627\u0635\u064a"
+    ],
+    "name:und_x_variant":[
+        "El-Hilw\u00e2\u015fi",
+        "Helw\u00e2si",
+        "El Helwasi",
+        "Al \u2019ilw\u0101\u015f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092014621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361149
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9de771815f855989b124d77714c99eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014621,
+            "locality_id":1293085459,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1293085459,
+    "wof:lastmodified":1537620917,
+    "wof:name":"Al Hilwasi",
+    "wof:parent_id":1092014621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0577,
+    30.24809,
+    31.0577,
+    30.24809
+],
+  "geometry": {"coordinates":[31.0577,30.24809],"type":"Point"}
+}

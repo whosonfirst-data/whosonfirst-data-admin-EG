@@ -1,0 +1,74 @@
+{
+  "id": 1259637809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16658,31.03493,33.16658,31.03493",
+    "geom:latitude":31.03493,
+    "geom:longitude":33.16658,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Misfaq",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410144,
+    "gn:latitude":31.03493,
+    "gn:longitude":33.16658,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Mi\u015ffaq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0635\u0641\u0642"
+    ],
+    "name:und_x_variant":[
+        "Mi\u015ffaq",
+        "Ma\u015ffaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092015521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410144
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"34f6f48879ece88e2ec8faeeb3c0cf3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015521,
+            "locality_id":1259637809,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1259637809,
+    "wof:lastmodified":1537620968,
+    "wof:name":"Misfaq",
+    "wof:parent_id":1092015521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16658,
+    31.03493,
+    33.16658,
+    31.03493
+],
+  "geometry": {"coordinates":[33.16658,31.03493],"type":"Point"}
+}

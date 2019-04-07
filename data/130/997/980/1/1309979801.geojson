@@ -1,0 +1,71 @@
+{
+  "id": 1309979801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44354,30.41601,31.44354,30.41601",
+    "geom:latitude":30.41601,
+    "geom:longitude":31.44354,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Qirimlah",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350525,
+    "gn:latitude":30.41601,
+    "gn:longitude":31.44354,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qirimlah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qirimla",
+        "Qirimlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350525
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c2fbce919830d3868689120f67a27b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015569,
+            "locality_id":1309979801,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309979801,
+    "wof:lastmodified":1537620595,
+    "wof:name":"Qirimlah",
+    "wof:parent_id":1092015569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44354,
+    30.41601,
+    31.44354,
+    30.41601
+],
+  "geometry": {"coordinates":[31.44354,30.41601],"type":"Point"}
+}

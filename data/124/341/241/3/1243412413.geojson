@@ -1,0 +1,67 @@
+{
+  "id": 1243412413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3875,26.18,32.3875,26.18",
+    "geom:latitude":26.18,
+    "geom:longitude":32.3875,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` al Miyat",
+    "gn:country_code":"EG",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434573,
+    "gn:latitude":26.18,
+    "gn:longitude":32.3875,
+    "gn:modification_date":"2002-02-21",
+    "gn:name":"Naj\u2018 al Miy\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434573
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0ca62f24b087d3b6f107ae0b5b4b297b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023115,
+            "locality_id":1243412413,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1243412413,
+    "wof:lastmodified":1536853545,
+    "wof:name":"Naj` al Miyat",
+    "wof:parent_id":1092023115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3875,
+    26.18,
+    32.3875,
+    26.18
+],
+  "geometry": {"coordinates":[32.3875,26.18],"type":"Point"}
+}

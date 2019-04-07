@@ -1,0 +1,75 @@
+{
+  "id": 1343972117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.39986,30.96627,31.39986,30.96627",
+    "geom:latitude":30.96627,
+    "geom:longitude":31.39986,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kafr Abu Shawarib",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354849,
+    "gn:latitude":30.96627,
+    "gn:longitude":31.39986,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Kafr Ab\u016b Shaw\u0101rib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0623\u0628\u0648 \u0634\u0648\u0627\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Kafr Ab\u016b ash Shaw\u0101rib",
+        "Kafr Abu el-Shaw\u00e2rib",
+        "Kafr Ab\u016b Shaw\u0101rib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354849
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e3d4c55c924063e79c366edf539f033e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1343972117,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1343972117,
+    "wof:lastmodified":1537620749,
+    "wof:name":"Kafr Abu Shawarib",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.39986,
+    30.96627,
+    31.39986,
+    30.96627
+],
+  "geometry": {"coordinates":[31.39986,30.96627],"type":"Point"}
+}

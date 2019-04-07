@@ -1,0 +1,67 @@
+{
+  "id": 1293547355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,26.73333,31.51667,26.73333",
+    "geom:latitude":26.73333,
+    "geom:longitude":31.51667,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Banhaw",
+    "gn:country_code":"EG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359278,
+    "gn:latitude":26.73333,
+    "gn:longitude":31.51667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Banhaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092025101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359278
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ca2029fddcb1d1b9dd9db9210fb7e8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025101,
+            "locality_id":1293547355,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1293547355,
+    "wof:lastmodified":1536701228,
+    "wof:name":"Banhaw",
+    "wof:parent_id":1092025101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    26.73333,
+    31.51667,
+    26.73333
+],
+  "geometry": {"coordinates":[31.51667,26.73333],"type":"Point"}
+}

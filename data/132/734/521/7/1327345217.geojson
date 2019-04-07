@@ -1,0 +1,71 @@
+{
+  "id": 1327345217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25,31.15,30.25,31.15",
+    "geom:latitude":31.15,
+    "geom:longitude":30.25,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat Ahmad Tu`aymah",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355395,
+    "gn:latitude":31.15,
+    "gn:longitude":30.25,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat A\u1e29mad \u0162u\u2018aymah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet A\u1e25mad \u1e6cu\u2018eima",
+        "\u2018Izbat A\u1e29mad \u0162u\u2018aymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355395
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8318a6b6eb6a27571851eaabfe495a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014133,
+            "locality_id":1327345217,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1327345217,
+    "wof:lastmodified":1537620765,
+    "wof:name":"`Izbat Ahmad Tu`aymah",
+    "wof:parent_id":1092014133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25,
+    31.15,
+    30.25,
+    31.15
+],
+  "geometry": {"coordinates":[30.25,31.15],"type":"Point"}
+}

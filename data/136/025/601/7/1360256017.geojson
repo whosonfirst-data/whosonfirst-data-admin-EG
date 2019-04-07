@@ -1,0 +1,74 @@
+{
+  "id": 1360256017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58966,30.65008,31.58966,30.65008",
+    "geom:latitude":30.65008,
+    "geom:longitude":31.58966,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Subayh",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347839,
+    "gn:latitude":30.65008,
+    "gn:longitude":31.58966,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015eubay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0628\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u1e62ubei\u1e25",
+        "\u015eubay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347839
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9c28cfe13df1bcfd033a75b402dd59fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021319,
+            "locality_id":1360256017,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1360256017,
+    "wof:lastmodified":1537620567,
+    "wof:name":"Subayh",
+    "wof:parent_id":1092021319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58966,
+    30.65008,
+    31.58966,
+    30.65008
+],
+  "geometry": {"coordinates":[31.58966,30.65008],"type":"Point"}
+}

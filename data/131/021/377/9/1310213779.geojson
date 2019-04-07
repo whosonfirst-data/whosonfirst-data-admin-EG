@@ -1,0 +1,72 @@
+{
+  "id": 1310213779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85014,28.59503,30.85014,28.59503",
+    "geom:latitude":28.59503,
+    "geom:longitude":30.85014,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sharunah",
+    "gn:country_code":"EG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349326,
+    "gn:latitude":28.59503,
+    "gn:longitude":30.85014,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u0101r\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101r\u016bna",
+        "Sh\u0101r\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092021965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349326,
+        "wk:page":"Sharuna"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7c51e4e7041cc356f366542b02b7d513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021965,
+            "locality_id":1310213779,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1310213779,
+    "wof:lastmodified":1537620578,
+    "wof:name":"Sharunah",
+    "wof:parent_id":1092021965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85014,
+    28.59503,
+    30.85014,
+    28.59503
+],
+  "geometry": {"coordinates":[30.85014,28.59503],"type":"Point"}
+}

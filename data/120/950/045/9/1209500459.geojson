@@ -1,0 +1,61 @@
+{
+  "id": 1209500459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23333,29.8,31.23333,29.8",
+    "geom:latitude":29.8,
+    "geom:longitude":31.23333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Minshat Dahshur",
+    "gn:country_code":"EG",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352403,
+    "gn:latitude":29.8,
+    "gn:longitude":31.23333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Minsh\u0101t Dahsh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352403
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d02dc9a621391ee53f33448301d5c471",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209500459
+        }
+    ],
+    "wof:id":1209500459,
+    "wof:lastmodified":1536285200,
+    "wof:name":"Minshat Dahshur",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23333,
+    29.8,
+    31.23333,
+    29.8
+],
+  "geometry": {"coordinates":[31.23333,29.8],"type":"Point"}
+}

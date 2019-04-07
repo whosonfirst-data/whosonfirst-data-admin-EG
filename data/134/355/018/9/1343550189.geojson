@@ -1,0 +1,72 @@
+{
+  "id": 1343550189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6955,28.63418,30.6955,28.63418",
+    "geom:latitude":28.63418,
+    "geom:longitude":30.6955,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Al Bila`izitayn",
+    "gn:country_code":"EG",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361441,
+    "gn:latitude":28.63418,
+    "gn:longitude":30.6955,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bil\u0101\u2018izitayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Bal\u00e2\u2018z\u00eetein",
+        "Al Bal\u0101\u2018zitayn",
+        "Al Bil\u0101\u2018izitayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361441
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"101c736ceb6df9f47730cdca84a9f2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016505,
+            "locality_id":1343550189,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1343550189,
+    "wof:lastmodified":1537620936,
+    "wof:name":"Al Bila`izitayn",
+    "wof:parent_id":1092016505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6955,
+    28.63418,
+    30.6955,
+    28.63418
+],
+  "geometry": {"coordinates":[30.6955,28.63418],"type":"Point"}
+}

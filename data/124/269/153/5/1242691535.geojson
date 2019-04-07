@@ -1,0 +1,75 @@
+{
+  "id": 1242691535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31323,31.14027,31.31323,31.14027",
+    "geom:latitude":31.14027,
+    "geom:longitude":31.31323,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tabanuha",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347693,
+    "gn:latitude":31.14027,
+    "gn:longitude":31.31323,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"\u0162ab\u0101n\u016bh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0628\u0627\u0646\u0648\u0647\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0162ab\u0101n\u016bh\u0101",
+        "\u1e6cab\u00e2n\u00fbha",
+        "\u1e6cab\u0101n\u016bh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092025265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347693
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0eb50af1087fed3b76b7f3c8adb5af2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025265,
+            "locality_id":1242691535,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1242691535,
+    "wof:lastmodified":1537620564,
+    "wof:name":"Tabanuha",
+    "wof:parent_id":1092025265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31323,
+    31.14027,
+    31.31323,
+    31.14027
+],
+  "geometry": {"coordinates":[31.31323,31.14027],"type":"Point"}
+}

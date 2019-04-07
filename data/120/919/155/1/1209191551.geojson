@@ -1,0 +1,66 @@
+{
+  "id": 1209191551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.34902,30.29,31.34902,30.29",
+    "geom:latitude":30.29,
+    "geom:longitude":31.34902,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Arab al `Aliqat",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360249,
+    "gn:latitude":30.29,
+    "gn:longitude":31.34902,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Arab al \u2018Al\u012bq\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Arab el- \u2018Al\u00eeq\u00e2t",
+        "\u2018Arab el \u2018Al\u00eeq\u00e2t el Ba\u1e25ar\u00eeya",
+        "\u2018Arab al \u2018Al\u012bq\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360249
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8025118614577aa5dafdec10ee291092",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209191551
+        }
+    ],
+    "wof:id":1209191551,
+    "wof:lastmodified":1537620872,
+    "wof:name":"`Arab al `Aliqat",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.34902,
+    30.29,
+    31.34902,
+    30.29
+],
+  "geometry": {"coordinates":[31.34902,30.29],"type":"Point"}
+}

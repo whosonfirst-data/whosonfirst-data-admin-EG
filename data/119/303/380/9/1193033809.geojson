@@ -1,0 +1,75 @@
+{
+  "id": 1193033809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48425,30.83403,31.48425,30.83403",
+    "geom:latitude":30.83403,
+    "geom:longitude":31.48425,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Bakkariyah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361451,
+    "gn:latitude":30.83403,
+    "gn:longitude":31.48425,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Al Bakk\u0101r\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0643\u0627\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Bakk\u00e2r\u00eeya",
+        "Al Bakk\u0101r\u012byah",
+        "Al-Bakk\u0101riyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092019741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361451
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2d8ef133a9a3303909aaaf21e8d0a907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019741,
+            "locality_id":1193033809,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1193033809,
+    "wof:lastmodified":1537620937,
+    "wof:name":"Al Bakkariyah",
+    "wof:parent_id":1092019741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48425,
+    30.83403,
+    31.48425,
+    30.83403
+],
+  "geometry": {"coordinates":[31.48425,30.83403],"type":"Point"}
+}

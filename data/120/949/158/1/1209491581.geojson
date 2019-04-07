@@ -1,0 +1,61 @@
+{
+  "id": 1209491581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08561,27.25995,31.08561,27.25995",
+    "geom:latitude":27.25995,
+    "geom:longitude":31.08561,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Naj` Thabit",
+    "gn:country_code":"EG",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":444204,
+    "gn:latitude":27.25995,
+    "gn:longitude":31.08561,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Naj\u2018 Th\u0101bit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":444204
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"95176e989d1ed7cc2d4b4986030ce3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209491581
+        }
+    ],
+    "wof:id":1209491581,
+    "wof:lastmodified":1536285469,
+    "wof:name":"Naj` Thabit",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08561,
+    27.25995,
+    31.08561,
+    27.25995
+],
+  "geometry": {"coordinates":[31.08561,27.25995],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310013461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.11667,31.08333,30.11667,31.08333",
+    "geom:latitude":31.08333,
+    "geom:longitude":30.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ezbet Muhammad `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357211,
+    "gn:latitude":31.08333,
+    "gn:longitude":30.11667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ezbet Mu\u1e25ammad \u2018Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357211
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"929e427b8f9235d71179b9c325a35731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1310013461,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310013461,
+    "wof:lastmodified":1536630126,
+    "wof:name":"Ezbet Muhammad `Ali",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.11667000000001,
+    31.08333,
+    30.11667000000001,
+    31.08333
+],
+  "geometry": {"coordinates":[30.11667000000001,31.08333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276502393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44894,26.90189,31.44894,26.90189",
+    "geom:latitude":26.90189,
+    "geom:longitude":31.44894,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ash Shawka",
+    "gn:country_code":"EG",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360013,
+    "gn:latitude":26.90189,
+    "gn:longitude":31.44894,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shawk\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Shawaka",
+        "Ash Shawak\u0101",
+        "Ash Shawk\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092025329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360013
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e0fb37144fc5c849ac2ca45f812f9c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025329,
+            "locality_id":1276502393,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1276502393,
+    "wof:lastmodified":1537620862,
+    "wof:name":"Ash Shawka",
+    "wof:parent_id":1092025329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44894,
+    26.90189,
+    31.44894,
+    26.90189
+],
+  "geometry": {"coordinates":[31.44894,26.90189],"type":"Point"}
+}

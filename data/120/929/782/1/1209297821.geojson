@@ -1,0 +1,61 @@
+{
+  "id": 1209297821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8,31.05,31.8,31.05",
+    "geom:latitude":31.05,
+    "geom:longitude":31.8,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ezbet Muhammad Ibrahim Nasir",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357197,
+    "gn:latitude":31.05,
+    "gn:longitude":31.8,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ezbet Mu\u1e25amma\u1e0d Ibr\u00e2h\u00eem Na\u1e63ir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357197
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6a0e21a73b764cf5baa645a7d9e249d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209297821
+        }
+    ],
+    "wof:id":1209297821,
+    "wof:lastmodified":1536291462,
+    "wof:name":"Ezbet Muhammad Ibrahim Nasir",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8,
+    31.05,
+    31.8,
+    31.05
+],
+  "geometry": {"coordinates":[31.8,31.05],"type":"Point"}
+}

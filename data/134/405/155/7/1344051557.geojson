@@ -1,0 +1,71 @@
+{
+  "id": 1344051557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86402,30.69391,30.86402,30.69391",
+    "geom:latitude":30.69391,
+    "geom:longitude":30.86402,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Saft Jidam",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349883,
+    "gn:latitude":30.69391,
+    "gn:longitude":30.86402,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u015eaf\u0163 Jid\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eaf\u0163 Judh\u0101m",
+        "\u015eaf\u0163 Jid\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092025145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349883
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c889345b421cb8863fcf4e085e18407d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025145,
+            "locality_id":1344051557,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1344051557,
+    "wof:lastmodified":1537620589,
+    "wof:name":"Saft Jidam",
+    "wof:parent_id":1092025145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86402,
+    30.69391,
+    30.86402,
+    30.69391
+],
+  "geometry": {"coordinates":[30.86402,30.69391],"type":"Point"}
+}

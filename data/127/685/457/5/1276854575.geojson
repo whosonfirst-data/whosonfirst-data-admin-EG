@@ -1,0 +1,73 @@
+{
+  "id": 1276854575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51869,30.76927,31.51869,30.76927",
+    "geom:latitude":30.76927,
+    "geom:longitude":31.51869,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr al Hamran",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433810,
+    "gn:latitude":30.76927,
+    "gn:longitude":31.51869,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr al \u1e28amr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u062d\u0645\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafr al \u1e28amr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092016079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433810
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2c63b5fb5dc7043b9feab4f1644316e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016079,
+            "locality_id":1276854575,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276854575,
+    "wof:lastmodified":1537621127,
+    "wof:name":"Kafr al Hamran",
+    "wof:parent_id":1092016079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51869000000001,
+    30.76927,
+    31.51869000000001,
+    30.76927
+],
+  "geometry": {"coordinates":[31.51869000000001,30.76927],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276555343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.19663,30.95262,30.19663,30.95262",
+    "geom:latitude":30.95262,
+    "geom:longitude":30.19663,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbet al Qibt",
+    "gn:country_code":"EG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434203,
+    "gn:latitude":30.95262,
+    "gn:longitude":30.19663,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbet al Qib\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434203
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"536488a8e69479af3de49f24e7370edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1276555343,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276555343,
+    "wof:lastmodified":1536977943,
+    "wof:name":"`Izbet al Qibt",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.19663,
+    30.95262,
+    30.19663,
+    30.95262
+],
+  "geometry": {"coordinates":[30.19663,30.95262],"type":"Point"}
+}

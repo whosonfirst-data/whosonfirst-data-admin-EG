@@ -1,0 +1,76 @@
+{
+  "id": 1226150729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.12053,31.11036,30.12053,31.11036",
+    "geom:latitude":31.11036,
+    "geom:longitude":30.12053,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Wastaniyah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360463,
+    "gn:latitude":31.11036,
+    "gn:longitude":30.12053,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al Was\u0163\u0101n\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0633\u0637\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Was\u1e6d\u00e2n\u00eeya",
+        "Al Was\u0163\u0101n\u012byah",
+        "Al Wus\u0163\u0101n\u012byah",
+        "Al-Wus\u1e6d\u0101niyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360463
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"39d8ac69b9ab5a5fcf3c65d9d55b5f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1226150729,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1226150729,
+    "wof:lastmodified":1537620878,
+    "wof:name":"Al Wastaniyah",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.12053,
+    31.11036,
+    30.12053,
+    31.11036
+],
+  "geometry": {"coordinates":[30.12053,31.11036],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343350497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68696,28.63112,30.68696,28.63112",
+    "geom:latitude":28.63112,
+    "geom:longitude":30.68696,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kawm al Hasil",
+    "gn:country_code":"EG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353880,
+    "gn:latitude":28.63112,
+    "gn:longitude":30.68696,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm al \u1e28\u0101\u015fil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f4m el H\u00e2sil",
+        "Kawm al \u1e28\u0101\u015fil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092016505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353880
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2cbdda57afd8cc015a65b673d425ba3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016505,
+            "locality_id":1343350497,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1343350497,
+    "wof:lastmodified":1537620678,
+    "wof:name":"Kawm al Hasil",
+    "wof:parent_id":1092016505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68696,
+    28.63112000000001,
+    30.68696,
+    28.63112000000001
+],
+  "geometry": {"coordinates":[30.68696,28.63112000000001],"type":"Point"}
+}

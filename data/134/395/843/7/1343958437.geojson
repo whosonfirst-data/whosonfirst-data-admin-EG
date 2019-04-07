@@ -1,0 +1,67 @@
+{
+  "id": 1343958437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62523,29.14194,30.62523,29.14194",
+    "geom:latitude":29.14194,
+    "geom:longitude":30.62523,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat ash Shal",
+    "gn:country_code":"EG",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434276,
+    "gn:latitude":29.14194,
+    "gn:longitude":30.62523,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat ash Sh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434276
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c059159abf9d14330041622135f8b8ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1343958437,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1343958437,
+    "wof:lastmodified":1537021956,
+    "wof:name":"`Izbat ash Shal",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62523,
+    29.14194,
+    30.62523,
+    29.14194
+],
+  "geometry": {"coordinates":[30.62523,29.14194],"type":"Point"}
+}

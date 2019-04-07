@@ -1,0 +1,76 @@
+{
+  "id": 1343962847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92887,31.01516,30.92887,31.01516",
+    "geom:latitude":31.01516,
+    "geom:longitude":30.92887,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Al `Atawah al Bahariyah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361525,
+    "gn:latitude":31.01516,
+    "gn:longitude":30.92887,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al \u2018Atawah al Ba\u1e29ar\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062a\u0648\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-\u2018Atawa el-Ba\u1e25ar\u00eeya",
+        "Al \u2018Atawah al Ba\u1e29r\u012byah",
+        "Al \u2018Atawah al Ba\u1e29ar\u012byah",
+        "Al-\u2018Atawah al-Ba\u1e25ariyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092023627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361525
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9eb0e9482a73143b1354e3a238845cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023627,
+            "locality_id":1343962847,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1343962847,
+    "wof:lastmodified":1537620941,
+    "wof:name":"Al `Atawah al Bahariyah",
+    "wof:parent_id":1092023627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92887,
+    31.01516,
+    30.92887,
+    31.01516
+],
+  "geometry": {"coordinates":[30.92887,31.01516],"type":"Point"}
+}

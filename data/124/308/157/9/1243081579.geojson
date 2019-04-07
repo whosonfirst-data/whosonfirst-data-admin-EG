@@ -1,0 +1,70 @@
+{
+  "id": 1243081579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83872,31.16161,31.83872,31.16161",
+    "geom:latitude":31.16161,
+    "geom:longitude":31.83872,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Al Qurmah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421097,
+    "gn:latitude":31.16161,
+    "gn:longitude":31.83872,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Al Qurmah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0645\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092017797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421097
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3cfbdb3cfe5dbe203900fe5c288abf45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017797,
+            "locality_id":1243081579,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1243081579,
+    "wof:lastmodified":1537621096,
+    "wof:name":"Al Qurmah",
+    "wof:parent_id":1092017797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83872,
+    31.16161,
+    31.83872,
+    31.16161
+],
+  "geometry": {"coordinates":[31.83872,31.16161],"type":"Point"}
+}

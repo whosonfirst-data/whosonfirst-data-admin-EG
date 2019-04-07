@@ -1,0 +1,67 @@
+{
+  "id": 1327158339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07569,29.22622,31.07569,29.22622",
+    "geom:latitude":29.22622,
+    "geom:longitude":31.07569,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat Hamidah Abu al Hasan",
+    "gn:country_code":"EG",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433449,
+    "gn:latitude":29.22622,
+    "gn:longitude":31.07569,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat \u1e28am\u012bdah Ab\u016b al \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092022779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433449
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7ed92a7d980052f4fe470c5201bb0d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022779,
+            "locality_id":1327158339,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1327158339,
+    "wof:lastmodified":1537073472,
+    "wof:name":"`Izbat Hamidah Abu al Hasan",
+    "wof:parent_id":1092022779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07569,
+    29.22622,
+    31.07569,
+    29.22622
+],
+  "geometry": {"coordinates":[31.07569,29.22622],"type":"Point"}
+}

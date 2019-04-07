@@ -1,0 +1,76 @@
+{
+  "id": 1260084293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48131,31.00789,31.48131,31.00789",
+    "geom:latitude":31.00789,
+    "geom:longitude":31.48131,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mit `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352232,
+    "gn:latitude":31.00789,
+    "gn:longitude":31.48131,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"M\u012bt \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u012bt \u2018Al\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u062a \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet \u2018Ali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092018395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352232
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"85f8173a94e06ae0440fc0afc8a0fe40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018395,
+            "locality_id":1260084293,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1260084293,
+    "wof:lastmodified":1537620643,
+    "wof:name":"Mit `Ali",
+    "wof:parent_id":1092018395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48131,
+    31.00789,
+    31.48131,
+    31.00789
+],
+  "geometry": {"coordinates":[31.48131,31.00789],"type":"Point"}
+}

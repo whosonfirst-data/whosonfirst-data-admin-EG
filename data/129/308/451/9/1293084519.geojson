@@ -1,0 +1,75 @@
+{
+  "id": 1293084519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.43456,30.59318,31.43456,30.59318",
+    "geom:latitude":30.59318,
+    "geom:longitude":31.43456,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tall Huwayn",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347568,
+    "gn:latitude":30.59318,
+    "gn:longitude":31.43456,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tall \u1e28uwayn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u062d\u0648\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tall \u1e28aw\u012bn",
+        "Tell \u1e24aw\u00een",
+        "Tall \u1e28uwayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347568
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d79f4be1983c1bb3993f71a6b7a15306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1293084519,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1293084519,
+    "wof:lastmodified":1537620561,
+    "wof:name":"Tall Huwayn",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.43456,
+    30.59318,
+    31.43456,
+    30.59318
+],
+  "geometry": {"coordinates":[31.43456,30.59318],"type":"Point"}
+}

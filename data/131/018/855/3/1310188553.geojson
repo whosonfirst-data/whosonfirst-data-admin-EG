@@ -1,0 +1,72 @@
+{
+  "id": 1310188553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78333,30.65,31.78333,30.65",
+    "geom:latitude":30.65,
+    "geom:longitude":31.78333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr `Ali Abu `Umayrah",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354647,
+    "gn:latitude":30.65,
+    "gn:longitude":31.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr \u2018Al\u012b Ab\u016b \u2018Umayrah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr \u2018Ali Abu \u2018Imeira",
+        "Kafr Abu \u2018Imeira",
+        "Kafr \u2018Al\u012b Ab\u016b \u2018Umayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354647
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7c862304f1eb0f3d05b0185350dc5113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1310188553,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310188553,
+    "wof:lastmodified":1537620732,
+    "wof:name":"Kafr `Ali Abu `Umayrah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78333,
+    30.65,
+    31.78333,
+    30.65
+],
+  "geometry": {"coordinates":[31.78333,30.65],"type":"Point"}
+}

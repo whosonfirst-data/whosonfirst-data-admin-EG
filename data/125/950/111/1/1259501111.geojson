@@ -1,0 +1,73 @@
+{
+  "id": 1259501111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83794,31.14251,31.83794,31.14251",
+    "geom:latitude":31.14251,
+    "geom:longitude":31.83794,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat al Kabritah",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421113,
+    "gn:latitude":31.14251,
+    "gn:longitude":31.83794,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat al Kabr\u012btah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0643\u0628\u0631\u064a\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Kabr\u012btah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092022325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421113
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"004df780a0adde080662291df3138abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022325,
+            "locality_id":1259501111,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259501111,
+    "wof:lastmodified":1537621097,
+    "wof:name":"`Izbat al Kabritah",
+    "wof:parent_id":1092022325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83794,
+    31.14251,
+    31.83794,
+    31.14251
+],
+  "geometry": {"coordinates":[31.83794,31.14251],"type":"Point"}
+}

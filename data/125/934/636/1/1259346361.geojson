@@ -1,0 +1,73 @@
+{
+  "id": 1259346361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11667,27.28333,31.11667,27.28333",
+    "geom:latitude":27.28333,
+    "geom:longitude":31.11667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Naj` Jazirat Bahij",
+    "gn:country_code":"EG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351418,
+    "gn:latitude":27.28333,
+    "gn:longitude":31.11667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 Jaz\u012brat Bah\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet el Khal\u00e2yfa",
+        "Naj\u2018 al Khal\u0101\u2019if",
+        "Nag\u2018 Gez\u00eeret Bah\u00eeg",
+        "Naj\u2018 Jaz\u012brat Bah\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351418
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3bf8418e6e8558b32440cad07e9f13b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014043,
+            "locality_id":1259346361,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1259346361,
+    "wof:lastmodified":1537620620,
+    "wof:name":"Naj` Jazirat Bahij",
+    "wof:parent_id":1092014043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11667000000001,
+    27.28333,
+    31.11667000000001,
+    27.28333
+],
+  "geometry": {"coordinates":[31.11667000000001,27.28333],"type":"Point"}
+}

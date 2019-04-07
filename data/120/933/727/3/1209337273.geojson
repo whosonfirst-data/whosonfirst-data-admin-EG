@@ -1,0 +1,68 @@
+{
+  "id": 1209337273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16561,31.13888,31.16561,31.13888",
+    "geom:latitude":31.13888,
+    "geom:longitude":31.16561,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat al Buhut",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419210,
+    "gn:latitude":31.13888,
+    "gn:longitude":31.16561,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"\u2018Izbat al Buh\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0628\u0647\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Buh\u016bt",
+        "\u2018Izbat al- Buh\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419210
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"358f4ef2702d72985ba4bae99e4b92e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209337273
+        }
+    ],
+    "wof:id":1209337273,
+    "wof:lastmodified":1537621042,
+    "wof:name":"`Izbat al Buhut",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16561,
+    31.13888,
+    31.16561,
+    31.13888
+],
+  "geometry": {"coordinates":[31.16561,31.13888],"type":"Point"}
+}

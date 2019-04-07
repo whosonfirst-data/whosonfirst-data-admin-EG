@@ -1,0 +1,67 @@
+{
+  "id": 1276720009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58351,25.28847,32.58351,25.28847",
+    "geom:latitude":25.28847,
+    "geom:longitude":32.58351,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` an Nafaydah",
+    "gn:country_code":"EG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":445267,
+    "gn:latitude":25.28847,
+    "gn:longitude":32.58351,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Naj\u2018 an Naf\u0101ydah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":445267
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2d52557dd45bd781aa8c83fa130bea24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020721,
+            "locality_id":1276720009,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1276720009,
+    "wof:lastmodified":1536757971,
+    "wof:name":"Naj` an Nafaydah",
+    "wof:parent_id":1092020721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58351,
+    25.28847,
+    32.58351,
+    25.28847
+],
+  "geometry": {"coordinates":[32.58351,25.28847],"type":"Point"}
+}

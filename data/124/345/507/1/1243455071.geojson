@@ -1,0 +1,67 @@
+{
+  "id": 1243455071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21667,29.38333,31.21667,29.38333",
+    "geom:latitude":29.38333,
+    "geom:longitude":31.21667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Ezbet Bakir",
+    "gn:country_code":"EG",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357590,
+    "gn:latitude":29.38333,
+    "gn:longitude":31.21667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet Bak\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092020395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357590
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3c3cfd8be709085b02a2cd16827cdb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020395,
+            "locality_id":1243455071,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1243455071,
+    "wof:lastmodified":1536793367,
+    "wof:name":"`Ezbet Bakir",
+    "wof:parent_id":1092020395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21667,
+    29.38333,
+    31.21667,
+    29.38333
+],
+  "geometry": {"coordinates":[31.21667,29.38333],"type":"Point"}
+}

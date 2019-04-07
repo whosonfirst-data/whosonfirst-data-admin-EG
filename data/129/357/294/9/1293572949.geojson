@@ -1,0 +1,72 @@
+{
+  "id": 1293572949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78333,27.93333,30.78333,27.93333",
+    "geom:latitude":27.93333,
+    "geom:longitude":30.78333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nazlat Awlad Juwaydah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351152,
+    "gn:latitude":27.93333,
+    "gn:longitude":30.78333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat Awl\u0101d Juwaydah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet Awl\u00e2d Guweid",
+        "Nazlat Awl\u0101d Juwaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092014221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351152
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8584eeee8d92db0876fd35ea77117249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014221,
+            "locality_id":1293572949,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1293572949,
+    "wof:lastmodified":1537620610,
+    "wof:name":"Nazlat Awlad Juwaydah",
+    "wof:parent_id":1092014221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78333,
+    27.93333,
+    30.78333,
+    27.93333
+],
+  "geometry": {"coordinates":[30.78333,27.93333],"type":"Point"}
+}

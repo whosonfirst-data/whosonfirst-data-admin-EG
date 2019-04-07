@@ -1,0 +1,68 @@
+{
+  "id": 1343914403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.43333,30.91667,29.43333,30.91667",
+    "geom:latitude":30.91667,
+    "geom:longitude":29.43333,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dawwar al Hajj Ahmad",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358327,
+    "gn:latitude":30.91667,
+    "gn:longitude":29.43333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Daww\u0101r al \u1e28ajj A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dauw\u00e2r el Hagg Ahmad",
+        "Daww\u0101r al \u1e28ajj A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358327
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"29a3f18518420d32dfdb20c0c7a6456f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1343914403,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343914403,
+    "wof:lastmodified":1537620813,
+    "wof:name":"Dawwar al Hajj Ahmad",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.43333,
+    30.91667,
+    29.43333,
+    30.91667
+],
+  "geometry": {"coordinates":[29.43333,30.91667],"type":"Point"}
+}

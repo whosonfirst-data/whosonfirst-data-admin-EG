@@ -1,0 +1,75 @@
+{
+  "id": 1360243915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11329,31.58894,31.11329,31.58894",
+    "geom:latitude":31.58894,
+    "geom:longitude":31.11329,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Abu Sulayman",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419315,
+    "gn:latitude":31.58894,
+    "gn:longitude":31.11329,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbat Ab\u016b Sulaym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0633\u0644\u064a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Ab\u016b Sulaym\u0101n",
+        "\u2018Izbat Ab\u016b Sulayman",
+        "\u2018Izbat Abu Sulayman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419315
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9df72e52dda490e620e854f415dfdddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017189,
+            "locality_id":1360243915,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1360243915,
+    "wof:lastmodified":1537621047,
+    "wof:name":"`Izbat Abu Sulayman",
+    "wof:parent_id":1092017189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11329000000001,
+    31.58894,
+    31.11329000000001,
+    31.58894
+],
+  "geometry": {"coordinates":[31.11329000000001,31.58894],"type":"Point"}
+}

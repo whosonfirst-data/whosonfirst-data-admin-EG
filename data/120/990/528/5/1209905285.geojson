@@ -1,0 +1,75 @@
+{
+  "id": 1209905285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76052,28.2322,30.76052,28.2322",
+    "geom:latitude":28.2322,
+    "geom:longitude":30.76052,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Jabal at Tayr",
+    "gn:country_code":"EG",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355286,
+    "gn:latitude":28.2322,
+    "gn:longitude":30.76052,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jabal a\u0163 \u0162ayr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al J\u0101mi\u2018",
+        "Gebel el-\u1e6ceir",
+        "El G\u00e2mi\u2018",
+        "Gebel et Teir",
+        "Gabal el Teir",
+        "Jabal a\u0163 \u0162ayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092023043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355286
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8885b569633a3a88f0a414e48d6818b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023043,
+            "locality_id":1209905285,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1209905285,
+    "wof:lastmodified":1537620757,
+    "wof:name":"Jabal at Tayr",
+    "wof:parent_id":1092023043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76052,
+    28.2322,
+    30.76052,
+    28.2322
+],
+  "geometry": {"coordinates":[30.76052,28.2322],"type":"Point"}
+}

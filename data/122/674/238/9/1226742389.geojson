@@ -1,0 +1,75 @@
+{
+  "id": 1226742389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.04863,31.24271,30.04863,31.24271",
+    "geom:latitude":31.24271,
+    "geom:longitude":30.04863,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"`Izbat Hawd `Asharah",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414894,
+    "gn:latitude":31.24271,
+    "gn:longitude":30.04863,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat \u1e28aw\u1e11 \u2018Asharah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062d\u0648\u0636 \u06f1\u06f0"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u1e28aw\u1e11 Nimrah 10",
+        "\u2018Izbat \u1e28aw\u1e11 \u2018Asharah",
+        "\u2018Izbat Haw\u1e0d Ten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092018649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414894
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f3e7daf3eb2991020275239b66b7dfe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018649,
+            "locality_id":1226742389,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1226742389,
+    "wof:lastmodified":1537620970,
+    "wof:name":"`Izbat Hawd `Asharah",
+    "wof:parent_id":1092018649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.04863,
+    31.24271,
+    30.04863,
+    31.24271
+],
+  "geometry": {"coordinates":[30.04863,31.24271],"type":"Point"}
+}

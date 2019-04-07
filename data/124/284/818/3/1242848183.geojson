@@ -1,0 +1,73 @@
+{
+  "id": 1242848183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59894,30.51021,31.59894,30.51021",
+    "geom:latitude":30.51021,
+    "geom:longitude":31.59894,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Hawd al `Arab",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538333,
+    "gn:latitude":30.51021,
+    "gn:longitude":31.59894,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"\u2018Izbat \u1e28aw\u1e11 al \u2018Arab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062d\u0648\u0636 \u0627\u0644\u0639\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u1e28aw\u1e11 al \u2018Arab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092014103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538333
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9931fb9fa6ef59e4e03b5a6f75f79480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014103,
+            "locality_id":1242848183,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1242848183,
+    "wof:lastmodified":1537621197,
+    "wof:name":"`Izbat Hawd al `Arab",
+    "wof:parent_id":1092014103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59894,
+    30.51021,
+    31.59894,
+    30.51021
+],
+  "geometry": {"coordinates":[31.59894,30.51021],"type":"Point"}
+}

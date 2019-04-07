@@ -1,0 +1,75 @@
+{
+  "id": 1309691107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67208,30.65076,31.67208,30.65076",
+    "geom:latitude":30.65076,
+    "geom:longitude":31.67208,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat al Manastirli",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352427,
+    "gn:latitude":30.65076,
+    "gn:longitude":31.67208,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Izbat al Man\u0101stirl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0645\u0646\u0627\u0633\u062a\u0631\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Minshat el Manastirli Pasha",
+        "Minsh\u0101t al Man\u0101stirl\u012b B\u0101sh\u0101",
+        "\u2018Izbat al Man\u0101stirl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352427
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"332b2b48cc1f69bc0ef10551427f7318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021319,
+            "locality_id":1309691107,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1309691107,
+    "wof:lastmodified":1537620653,
+    "wof:name":"`Izbat al Manastirli",
+    "wof:parent_id":1092021319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67208,
+    30.65076,
+    31.67208,
+    30.65076
+],
+  "geometry": {"coordinates":[31.67208,30.65076],"type":"Point"}
+}

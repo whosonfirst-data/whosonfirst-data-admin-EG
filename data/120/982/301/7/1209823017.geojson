@@ -1,0 +1,67 @@
+{
+  "id": 1209823017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70192,30.98823,30.70192,30.98823",
+    "geom:latitude":30.98823,
+    "geom:longitude":30.70192,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Ezbet Muhammad Sha`ban",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357186,
+    "gn:latitude":30.98823,
+    "gn:longitude":30.70192,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Ezbet Mu\u1e25ammad Sha\u2018b\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092024849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357186
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"93dd8b1006de92d435c1761649d5075e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024849,
+            "locality_id":1209823017,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1209823017,
+    "wof:lastmodified":1536376711,
+    "wof:name":"`Ezbet Muhammad Sha`ban",
+    "wof:parent_id":1092024849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70192,
+    30.98823,
+    30.70192,
+    30.98823
+],
+  "geometry": {"coordinates":[30.70192,30.98823],"type":"Point"}
+}

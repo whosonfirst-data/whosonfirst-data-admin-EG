@@ -1,0 +1,77 @@
+{
+  "id": 1226522533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17507,30.39277,31.17507,30.39277",
+    "geom:latitude":30.39277,
+    "geom:longitude":31.17507,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mujul",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351944,
+    "gn:latitude":30.39277,
+    "gn:longitude":31.17507,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Muj\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Muj\u016bl"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062c\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Mug\u00fbl",
+        "Muj\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092015253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351944
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"89943183b3f1032c8d037c5a868315be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015253,
+            "locality_id":1226522533,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1226522533,
+    "wof:lastmodified":1537620631,
+    "wof:name":"Mujul",
+    "wof:parent_id":1092015253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17507,
+    30.39277,
+    31.17507,
+    30.39277
+],
+  "geometry": {"coordinates":[31.17507,30.39277],"type":"Point"}
+}

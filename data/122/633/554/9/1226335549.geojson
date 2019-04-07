@@ -1,0 +1,68 @@
+{
+  "id": 1226335549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21556,30.05222,31.21556,30.05222",
+    "geom:latitude":30.05222,
+    "geom:longitude":31.21556,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Agouza",
+    "gn:country_code":"EG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205041,
+    "gn:latitude":30.05222,
+    "gn:longitude":31.21556,
+    "gn:modification_date":"2018-04-04",
+    "gn:name":"Agouza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092016545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205041,
+        "wk:page":"Agouza"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"40bf1ed8117cc717ad42034118d8e7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016545,
+            "locality_id":1226335549,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1226335549,
+    "wof:lastmodified":1537562635,
+    "wof:name":"Agouza",
+    "wof:parent_id":1092016545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21556,
+    30.05222,
+    31.21556,
+    30.05222
+],
+  "geometry": {"coordinates":[31.21556,30.05222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209016131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40791,31.36143,30.40791,31.36143",
+    "geom:latitude":31.36143,
+    "geom:longitude":30.40791,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Muwazanah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":415021,
+    "gn:latitude":31.36143,
+    "gn:longitude":30.40791,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat al Muw\u0101zanah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0645\u0648\u0627\u0632\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Muw\u0101zanah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":415021
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7cc739ca45dc145d24fa25b4e9d9367b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209016131
+        }
+    ],
+    "wof:id":1209016131,
+    "wof:lastmodified":1537620975,
+    "wof:name":"`Izbat al Muwazanah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40791,
+    31.36143,
+    30.40791,
+    31.36143
+],
+  "geometry": {"coordinates":[30.40791,31.36143],"type":"Point"}
+}

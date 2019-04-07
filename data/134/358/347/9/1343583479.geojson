@@ -1,0 +1,67 @@
+{
+  "id": 1343583479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76545,30.97795,29.76545,30.97795",
+    "geom:latitude":30.97795,
+    "geom:longitude":29.76545,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Naj` Abu Bisisah",
+    "gn:country_code":"EG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433934,
+    "gn:latitude":30.97795,
+    "gn:longitude":29.76545,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Naj\u2018 Ab\u016b Bis\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092016715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433934
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"37ac79db5eb595cad32fe1002459abc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016715,
+            "locality_id":1343583479,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1343583479,
+    "wof:lastmodified":1537063478,
+    "wof:name":"Naj` Abu Bisisah",
+    "wof:parent_id":1092016715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76545,
+    30.97795,
+    29.76545,
+    30.97795
+],
+  "geometry": {"coordinates":[29.76545,30.97795],"type":"Point"}
+}

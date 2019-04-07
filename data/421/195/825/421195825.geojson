@@ -1,0 +1,101 @@
+{
+  "id": 421195825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78665,31.27105,30.78665,31.27105",
+    "geom:latitude":31.27105,
+    "geom:longitude":30.78665,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f\u064a \u0633\u0627\u0644\u0645"
+    ],
+    "name:dut_x_preferred":[
+        "Sidi Salem"
+    ],
+    "name:eng_x_preferred":[
+        "Sidi Salem"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0633\u0627\u0644\u0645"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434\u0438-\u0421\u0430\u043b\u0438\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Markaz S\u012bd\u012b S\u0101lim"
+    ],
+    "name:unk_x_variant":[
+        "S\u012bd\u012b S\u0101lim"
+    ],
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":348112,
+    "qs:gn_pop":47998,
+    "qs:name":"\u0645\u0631\u0643\u0632 \u0633\u064a\u062f\u064a \u0633\u0627\u0644\u0645",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0643\u0641\u0631 \u0627\u0644\u0634\u064a\u062e",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":124302,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1526360,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092024971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":348112,
+        "gp:id":1526360,
+        "qs:id":124302,
+        "wd:id":"Q12217667"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009860,
+    "wof:geomhash":"ffb94f3a8acfd3e3321e828615cccfd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024971,
+            "locality_id":421195825,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":421195825,
+    "wof:lastmodified":1513956731,
+    "wof:name":"\u0645\u0631\u0643\u0632 \u0633\u064a\u062f\u064a \u0633\u0627\u0644\u0645",
+    "wof:parent_id":1092024971,
+    "wof:placetype":"locality",
+    "wof:population":47998,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78665,
+    31.27105,
+    30.78665,
+    31.27105
+],
+  "geometry": {"coordinates":[30.78665,31.27105],"type":"Point"}
+}

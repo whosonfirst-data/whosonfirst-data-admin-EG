@@ -1,0 +1,71 @@
+{
+  "id": 1226013091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82785,26.44444,31.82785,26.44444",
+    "geom:latitude":26.44444,
+    "geom:longitude":31.82785,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Naj` al Ahaywah",
+    "gn:country_code":"EG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351660,
+    "gn:latitude":26.44444,
+    "gn:longitude":31.82785,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naj\u2018 al A\u1e29\u0101ywah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nag\u2019 el-Ah\u00e2ywa",
+        "Naj\u2018 al A\u1e29\u0101ywah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671085,
+        1092023157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351660
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1c1bd1226ae8eb0cc84453e8f0e68ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023157,
+            "locality_id":1226013091,
+            "region_id":85671085
+        }
+    ],
+    "wof:id":1226013091,
+    "wof:lastmodified":1537620629,
+    "wof:name":"Naj` al Ahaywah",
+    "wof:parent_id":1092023157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82785,
+    26.44444,
+    31.82785,
+    26.44444
+],
+  "geometry": {"coordinates":[31.82785,26.44444],"type":"Point"}
+}

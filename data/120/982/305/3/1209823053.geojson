@@ -1,0 +1,74 @@
+{
+  "id": 1209823053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1002,31.18164,30.1002,31.18164",
+    "geom:latitude":31.18164,
+    "geom:longitude":30.1002,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Qasr al Abyad",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355365,
+    "gn:latitude":31.18164,
+    "gn:longitude":30.1002,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat al Qa\u015fr al Abya\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0642\u0635\u0631 \u0627\u0644\u0627\u0628\u064a\u0636"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet el-Qa\u1e63r el-Abya\u1e0d",
+        "\u2018Izbat al Qa\u015fr al Abya\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355365
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"68885d33d55b1c5207fb4e0a6c4c5e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1209823053,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1209823053,
+    "wof:lastmodified":1537620763,
+    "wof:name":"`Izbat al Qasr al Abyad",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1002,
+    31.18164,
+    30.1002,
+    31.18164
+],
+  "geometry": {"coordinates":[30.1002,31.18164],"type":"Point"}
+}

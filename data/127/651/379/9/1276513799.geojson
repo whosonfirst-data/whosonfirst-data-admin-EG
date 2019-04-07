@@ -1,0 +1,70 @@
+{
+  "id": 1276513799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.90748,31.00916,32.90748,31.00916",
+    "geom:latitude":31.00916,
+    "geom:longitude":32.90748,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Abu Saht",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410504,
+    "gn:latitude":31.00916,
+    "gn:longitude":32.90748,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abu Saht",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b Sa\u1e29t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092015521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410504
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"77777101fe4ba747cbd7a0118124113a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015521,
+            "locality_id":1276513799,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1276513799,
+    "wof:lastmodified":1537620969,
+    "wof:name":"Abu Saht",
+    "wof:parent_id":1092015521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.90748,
+    31.00916,
+    32.90748,
+    31.00916
+],
+  "geometry": {"coordinates":[32.90748,31.00916],"type":"Point"}
+}

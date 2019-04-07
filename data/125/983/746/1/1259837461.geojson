@@ -1,0 +1,71 @@
+{
+  "id": 1259837461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56978,26.63179,31.56978,26.63179",
+    "geom:latitude":26.63179,
+    "geom:longitude":31.56978,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Al Butakh",
+    "gn:country_code":"EG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361352,
+    "gn:latitude":26.63179,
+    "gn:longitude":31.56978,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Bu\u0163\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El But\u00e2kh",
+        "Al Bu\u0163\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092018399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361352
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5b7ef7229de20243adad5bb684d659be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018399,
+            "locality_id":1259837461,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1259837461,
+    "wof:lastmodified":1537620930,
+    "wof:name":"Al Butakh",
+    "wof:parent_id":1092018399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56978,
+    26.63179,
+    31.56978,
+    26.63179
+],
+  "geometry": {"coordinates":[31.56978,26.63179],"type":"Point"}
+}

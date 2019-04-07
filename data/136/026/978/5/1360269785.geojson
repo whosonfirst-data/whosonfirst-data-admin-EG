@@ -1,0 +1,67 @@
+{
+  "id": 1360269785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06667,30.36667,31.06667,30.36667",
+    "geom:latitude":30.36667,
+    "geom:longitude":31.06667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafr el- Dawwar Ikyad",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354312,
+    "gn:latitude":30.36667,
+    "gn:longitude":31.06667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Kafr el- Dawwar Iky\u00e2d",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092025939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354312
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e70da572db509f2edd74931a17a7be01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025939,
+            "locality_id":1360269785,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1360269785,
+    "wof:lastmodified":1536679221,
+    "wof:name":"Kafr el- Dawwar Ikyad",
+    "wof:parent_id":1092025939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06667,
+    30.36667000000001,
+    31.06667,
+    30.36667000000001
+],
+  "geometry": {"coordinates":[31.06667,30.36667000000001],"type":"Point"}
+}

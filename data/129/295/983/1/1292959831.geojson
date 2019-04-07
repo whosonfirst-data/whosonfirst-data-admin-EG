@@ -1,0 +1,76 @@
+{
+  "id": 1292959831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0888,31.19995,31.0888,31.19995",
+    "geom:latitude":31.19995,
+    "geom:longitude":31.0888,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Kawm at Tawil",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360942,
+    "gn:latitude":31.19995,
+    "gn:longitude":31.0888,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Al Kawm a\u0163 \u0162aw\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u0645 \u0627\u0644\u0637\u0648\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "El-K\u00f4m el-\u1e6caw\u00eel",
+        "El K\u014dm et Taw\u012bl",
+        "Al Kawm a\u0163 \u0162aw\u012bl",
+        "Al-Kawm a\u1e6d-\u1e6caw\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092015463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360942
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"899acb4acfdbc108de6b04a80d6c4821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015463,
+            "locality_id":1292959831,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1292959831,
+    "wof:lastmodified":1537620905,
+    "wof:name":"Al Kawm at Tawil",
+    "wof:parent_id":1092015463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0888,
+    31.19995,
+    31.0888,
+    31.19995
+],
+  "geometry": {"coordinates":[31.0888,31.19995],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193139109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59456,30.851,30.59456,30.851",
+    "geom:latitude":30.851,
+    "geom:longitude":30.59456,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jaza'ir `Isa",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355127,
+    "gn:latitude":30.851,
+    "gn:longitude":30.59456,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaz\u0101\u2019ir \u2018\u012as\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaz\u00e2yir \u2018\u00cesa",
+        "Jaz\u0101\u2019ir \u2018\u012as\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092017317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355127
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b54ef2c57ca11ffb93411bf67fac0b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017317,
+            "locality_id":1193139109,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1193139109,
+    "wof:lastmodified":1537620755,
+    "wof:name":"Jaza'ir `Isa",
+    "wof:parent_id":1092017317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59456,
+    30.851,
+    30.59456,
+    30.851
+],
+  "geometry": {"coordinates":[30.59456,30.851],"type":"Point"}
+}

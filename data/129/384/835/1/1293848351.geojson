@@ -1,0 +1,73 @@
+{
+  "id": 1293848351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8922,31.33464,30.8922,31.33464",
+    "geom:latitude":31.33464,
+    "geom:longitude":30.8922,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat ash Shaykhah Nafisah",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416333,
+    "gn:latitude":31.33464,
+    "gn:longitude":30.8922,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u2018Izbat ash Shaykhah Naf\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0634\u064a\u062e\u0629 \u0646\u0641\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat ash Shaykhah Naf\u012bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416333
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"57bf737319e21675cdbedaa45eebc5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1293848351,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1293848351,
+    "wof:lastmodified":1537621029,
+    "wof:name":"`Izbat ash Shaykhah Nafisah",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8922,
+    31.33464,
+    30.8922,
+    31.33464
+],
+  "geometry": {"coordinates":[30.8922,31.33464],"type":"Point"}
+}

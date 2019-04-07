@@ -1,0 +1,67 @@
+{
+  "id": 1242931665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.75273,26.04461,32.75273,26.04461",
+    "geom:latitude":26.04461,
+    "geom:longitude":32.75273,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naj` as Sabil",
+    "gn:country_code":"EG",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434500,
+    "gn:latitude":26.04461,
+    "gn:longitude":32.75273,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Naj\u2018 as Sab\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092023527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434500
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d6cfc70bd691ad2c881b623504ae0cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023527,
+            "locality_id":1242931665,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1242931665,
+    "wof:lastmodified":1537048809,
+    "wof:name":"Naj` as Sabil",
+    "wof:parent_id":1092023527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.75273,
+    26.04461,
+    32.75273,
+    26.04461
+],
+  "geometry": {"coordinates":[32.75273,26.04461],"type":"Point"}
+}

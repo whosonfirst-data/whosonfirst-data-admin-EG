@@ -1,0 +1,75 @@
+{
+  "id": 1243041929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92423,31.21293,30.92423,31.21293",
+    "geom:latitude":31.21293,
+    "geom:longitude":30.92423,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Minsha'at Salamah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352369,
+    "gn:latitude":31.21293,
+    "gn:longitude":30.92423,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Minsha\u2019\u0101t Sal\u0101mah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u0633\u0644\u0627\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Minsh\u00e2t Sal\u00e2ma",
+        "Minsha\u2019\u0101t Sal\u0101mah",
+        "Minsh\u0101t Sal\u0101mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092019361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352369
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6e440ae508c97faf55a0a8069530bb07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019361,
+            "locality_id":1243041929,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1243041929,
+    "wof:lastmodified":1537620649,
+    "wof:name":"Minsha'at Salamah",
+    "wof:parent_id":1092019361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92423,
+    31.21293,
+    30.92423,
+    31.21293
+],
+  "geometry": {"coordinates":[30.92423,31.21293],"type":"Point"}
+}

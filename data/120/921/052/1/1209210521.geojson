@@ -1,0 +1,65 @@
+{
+  "id": 1209210521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15904,29.97189,31.15904,29.97189",
+    "geom:latitude":29.97189,
+    "geom:longitude":31.15904,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nazlat al Batran",
+    "gn:country_code":"EG",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351213,
+    "gn:latitude":29.97189,
+    "gn:longitude":31.15904,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat al Ba\u0163r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet el-Ba\u1e6dr\u00e2n",
+        "Nazlat al Ba\u0163r\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351213
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"93f5624d0d0d957b1a1f88ba352d14ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209210521
+        }
+    ],
+    "wof:id":1209210521,
+    "wof:lastmodified":1537620614,
+    "wof:name":"Nazlat al Batran",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15904,
+    29.97189,
+    31.15904,
+    29.97189
+],
+  "geometry": {"coordinates":[31.15904,29.97189],"type":"Point"}
+}

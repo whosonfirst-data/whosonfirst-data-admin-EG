@@ -1,0 +1,73 @@
+{
+  "id": 1326504143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00322,31.09081,31.00322,31.09081",
+    "geom:latitude":31.09081,
+    "geom:longitude":31.00322,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Khamis",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416099,
+    "gn:latitude":31.09081,
+    "gn:longitude":31.00322,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"\u2018Izbat Kham\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062e\u0645\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Kham\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416099
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e12a69b9b545f921f4a392bf3d8ba222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1326504143,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1326504143,
+    "wof:lastmodified":1537621013,
+    "wof:name":"`Izbat Khamis",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00322,
+    31.09081,
+    31.00322,
+    31.09081
+],
+  "geometry": {"coordinates":[31.00322,31.09081],"type":"Point"}
+}

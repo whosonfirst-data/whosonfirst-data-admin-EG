@@ -1,0 +1,72 @@
+{
+  "id": 1259667257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8,30.81667,31.8,30.81667",
+    "geom:latitude":30.81667,
+    "geom:longitude":31.8,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kafr at Tamarizah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":354402,
+    "gn:latitude":30.81667,
+    "gn:longitude":31.8,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafr at Tam\u0101rizah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr el-Tam\u00e2rza",
+        "Kafr at Tam\u0101rizah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":354402
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b8b577be92fe5aaefba5d2c4a8fabf6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1259667257,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1259667257,
+    "wof:lastmodified":1537620710,
+    "wof:name":"Kafr at Tamarizah",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8,
+    30.81667,
+    31.8,
+    30.81667
+],
+  "geometry": {"coordinates":[31.8,30.81667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209685469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85,24.9,32.85,24.9",
+    "geom:latitude":24.9,
+    "geom:longitude":32.85,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Nag` el-Nusrab",
+    "gn:country_code":"EG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351609,
+    "gn:latitude":24.9,
+    "gn:longitude":32.85,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Nag\u2018 el-Nusr\u00e2b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351609
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"239066cf93a24662f3bc3ddd16829abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209685469
+        }
+    ],
+    "wof:id":1209685469,
+    "wof:lastmodified":1536279426,
+    "wof:name":"Nag` el-Nusrab",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85,
+    24.9,
+    32.85,
+    24.9
+],
+  "geometry": {"coordinates":[32.85,24.9],"type":"Point"}
+}

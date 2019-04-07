@@ -1,0 +1,76 @@
+{
+  "id": 1243069817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08328,31.18374,30.08328,31.18374",
+    "geom:latitude":31.18374,
+    "geom:longitude":30.08328,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Khadrah",
+    "gn:country_code":"EG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355375,
+    "gn:latitude":31.18374,
+    "gn:longitude":30.08328,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Al Kha\u1e11rah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0636\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Kha\u1e11r\u0101\u2019",
+        "\u2018Ezbet el-Kha\u1e0dra",
+        "Al Kha\u1e11rah",
+        "Al-Kha\u1e0drah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355375
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"f1f92ad92c197fef81895f47af7da173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1243069817,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1243069817,
+    "wof:lastmodified":1537620764,
+    "wof:name":"Al Khadrah",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08328,
+    31.18374,
+    30.08328,
+    31.18374
+],
+  "geometry": {"coordinates":[30.08328,31.18374],"type":"Point"}
+}

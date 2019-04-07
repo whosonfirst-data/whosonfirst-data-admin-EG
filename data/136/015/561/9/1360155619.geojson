@@ -1,0 +1,74 @@
+{
+  "id": 1360155619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63878,30.80352,31.63878,30.80352",
+    "geom:latitude":30.80352,
+    "geom:longitude":31.63878,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Naturah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351275,
+    "gn:latitude":30.80352,
+    "gn:longitude":31.63878,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u0101\u0163\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0637\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "N\u00e2\u1e6d\u00fbra",
+        "N\u0101\u0163\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351275
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"131421e3bbb17012d22c3fa6918ce6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1360155619,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1360155619,
+    "wof:lastmodified":1537620617,
+    "wof:name":"Naturah",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63878,
+    30.80352,
+    31.63878,
+    30.80352
+],
+  "geometry": {"coordinates":[31.63878,30.80352],"type":"Point"}
+}

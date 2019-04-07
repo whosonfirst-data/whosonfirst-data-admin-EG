@@ -1,0 +1,67 @@
+{
+  "id": 1310658569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59068,26.59699,31.59068,26.59699",
+    "geom:latitude":26.59699,
+    "geom:longitude":31.59068,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"El `Araba bi Sohag",
+    "gn:country_code":"EG",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357947,
+    "gn:latitude":26.59699,
+    "gn:longitude":31.59068,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"El \u2018Araba bi Soh\u00e2g",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092018399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357947
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"32d9a5ae0933db9f205b76a6d11f6060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018399,
+            "locality_id":1310658569,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1310658569,
+    "wof:lastmodified":1536696415,
+    "wof:name":"El `Araba bi Sohag",
+    "wof:parent_id":1092018399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59068,
+    26.59699,
+    31.59068,
+    26.59699
+],
+  "geometry": {"coordinates":[31.59068,26.59699],"type":"Point"}
+}

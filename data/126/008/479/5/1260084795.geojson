@@ -1,0 +1,74 @@
+{
+  "id": 1260084795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88417,30.79194,30.88417,30.79194",
+    "geom:latitude":30.79194,
+    "geom:longitude":30.88417,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Shubra an Namlah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349073,
+    "gn:latitude":30.79194,
+    "gn:longitude":30.88417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shubr\u0101 an Namlah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shubra en Namba",
+        "Shubra en Namla",
+        "Shubra el-Namla",
+        "Shubr\u0101 an Namlah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092025465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349073
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4ad3c083a84c290da72d4f8be6abe7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025465,
+            "locality_id":1260084795,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1260084795,
+    "wof:lastmodified":1537620573,
+    "wof:name":"Shubra an Namlah",
+    "wof:parent_id":1092025465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88417,
+    30.79194,
+    30.88417,
+    30.79194
+],
+  "geometry": {"coordinates":[30.88417,30.79194],"type":"Point"}
+}

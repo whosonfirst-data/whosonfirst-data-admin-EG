@@ -1,0 +1,68 @@
+{
+  "id": 1209392051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13957,30.441,31.13957,30.441",
+    "geom:latitude":30.441,
+    "geom:longitude":31.13957,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mit al `Attar",
+    "gn:country_code":"EG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352239,
+    "gn:latitude":30.441,
+    "gn:longitude":31.13957,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"M\u012bt al \u2018A\u0163\u0163\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u0627\u0644\u0639\u0637\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet el-\u2018A\u1e6d\u1e6d\u00e2r",
+        "M\u012bt al \u2018A\u0163\u0163\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352239
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b2582eb096a5c26ad8999e97dfdc42b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209392051
+        }
+    ],
+    "wof:id":1209392051,
+    "wof:lastmodified":1537620644,
+    "wof:name":"Mit al `Attar",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13957000000001,
+    30.441,
+    31.13957000000001,
+    30.441
+],
+  "geometry": {"coordinates":[31.13957000000001,30.441],"type":"Point"}
+}

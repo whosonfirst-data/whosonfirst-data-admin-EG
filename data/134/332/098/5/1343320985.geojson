@@ -1,0 +1,75 @@
+{
+  "id": 1343320985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38635,31.4503,30.38635,31.4503",
+    "geom:latitude":31.4503,
+    "geom:longitude":30.38635,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Burj Mughayzil",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358629,
+    "gn:latitude":31.4503,
+    "gn:longitude":30.38635,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Burj Mughayzil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062c \u0645\u063a\u064a\u0632\u0644"
+    ],
+    "name:und_x_variant":[
+        "Burg Migheizil",
+        "Burj Mughayzil",
+        "Burj Mighayzil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092022617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358629
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"b391c12c7b34fffcd7b5092edeb4ceb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022617,
+            "locality_id":1343320985,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1343320985,
+    "wof:lastmodified":1537620817,
+    "wof:name":"Burj Mughayzil",
+    "wof:parent_id":1092022617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38635,
+    31.4503,
+    30.38635,
+    31.4503
+],
+  "geometry": {"coordinates":[30.38635,31.4503],"type":"Point"}
+}

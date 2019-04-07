@@ -1,0 +1,67 @@
+{
+  "id": 1326730627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03333,29.36667,31.03333,29.36667",
+    "geom:latitude":29.36667,
+    "geom:longitude":31.03333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Ezbet George `Eid",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357344,
+    "gn:latitude":29.36667,
+    "gn:longitude":31.03333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet George \u2018E\u00eed",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092017705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357344
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4f4affe7508d8ebfa249df48f5af59e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017705,
+            "locality_id":1326730627,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1326730627,
+    "wof:lastmodified":1536698317,
+    "wof:name":"`Ezbet George `Eid",
+    "wof:parent_id":1092017705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03333,
+    29.36667000000001,
+    31.03333,
+    29.36667000000001
+],
+  "geometry": {"coordinates":[31.03333,29.36667000000001],"type":"Point"}
+}

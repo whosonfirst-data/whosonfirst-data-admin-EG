@@ -1,0 +1,67 @@
+{
+  "id": 1277160855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61667,30.43333,31.61667,30.43333",
+    "geom:latitude":30.43333,
+    "geom:longitude":31.61667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Ezbet `Abd el-Nabl el-Naggar",
+    "gn:country_code":"EG",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357685,
+    "gn:latitude":30.43333,
+    "gn:longitude":31.61667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Ezbet \u2018Abd el-Nabl el-Nagg\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092015569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357685
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d401ef9a76bdfb27c7b6dc0f06072ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015569,
+            "locality_id":1277160855,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1277160855,
+    "wof:lastmodified":1536655114,
+    "wof:name":"`Ezbet `Abd el-Nabl el-Naggar",
+    "wof:parent_id":1092015569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61667000000001,
+    30.43333,
+    31.61667000000001,
+    30.43333
+],
+  "geometry": {"coordinates":[31.61667000000001,30.43333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276844033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.84047,30.84776,31.84047,30.84776",
+    "geom:latitude":30.84776,
+    "geom:longitude":31.84047,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Jazirat Umm `Ajram",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347063,
+    "gn:latitude":30.84776,
+    "gn:longitude":31.84047,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jaz\u012brat Umm \u2018Ajram",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0623\u0645 \u0639\u062c\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Gez\u00eeret Umm Agram",
+        "Jaz\u012brat Umm \u2018Ajram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347063
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5b1f6a91f9c03e72d72959129c43dfd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020833,
+            "locality_id":1276844033,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1276844033,
+    "wof:lastmodified":1537620552,
+    "wof:name":"Jazirat Umm `Ajram",
+    "wof:parent_id":1092020833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.84047,
+    30.84776,
+    31.84047,
+    30.84776
+],
+  "geometry": {"coordinates":[31.84047,30.84776],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343585247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95,29.55,30.95,29.55",
+    "geom:latitude":29.55,
+    "geom:longitude":30.95,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Ezbet Ibrahim `Abd el-Sami",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357304,
+    "gn:latitude":29.55,
+    "gn:longitude":30.95,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"\u2018Ezbet Ibr\u00e2h\u00eem \u2018Abd el-S\u00e2mi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092025417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357304
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a53e3a5918800072e576e7f401192c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025417,
+            "locality_id":1343585247,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1343585247,
+    "wof:lastmodified":1537061000,
+    "wof:name":"`Ezbet Ibrahim `Abd el-Sami",
+    "wof:parent_id":1092025417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95,
+    29.55,
+    30.95,
+    29.55
+],
+  "geometry": {"coordinates":[30.95,29.55],"type":"Point"}
+}

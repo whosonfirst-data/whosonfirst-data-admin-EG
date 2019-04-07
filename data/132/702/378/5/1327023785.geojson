@@ -1,0 +1,67 @@
+{
+  "id": 1327023785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66528,28.5827,30.66528,28.5827",
+    "geom:latitude":28.5827,
+    "geom:longitude":30.66528,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qaryat at Tahrir",
+    "gn:country_code":"EG",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433959,
+    "gn:latitude":28.5827,
+    "gn:longitude":30.66528,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Qaryat at Ta\u1e29r\u012br",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092021965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433959
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ba04d57b021d3494e6e26f61c32307aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021965,
+            "locality_id":1327023785,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1327023785,
+    "wof:lastmodified":1536773555,
+    "wof:name":"Qaryat at Tahrir",
+    "wof:parent_id":1092021965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66528,
+    28.5827,
+    30.66528,
+    28.5827
+],
+  "geometry": {"coordinates":[30.66528,28.5827],"type":"Point"}
+}

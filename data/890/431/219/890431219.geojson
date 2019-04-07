@@ -1,0 +1,68 @@
+{
+  "id": 890431219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16329,26.05494,32.16329,26.05494",
+    "geom:latitude":26.05494,
+    "geom:longitude":32.16329,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
+    "gn:pop":53851,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Farshuut"
+    ],
+    "qs:name":"Farsh\u016b\u0163",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092020903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":356933,
+        "qs:id":274904
+    },
+    "wof:country":"EG",
+    "wof:created":1469051882,
+    "wof:geomhash":"4996e4002758802dfc0a933bc58ef0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020903,
+            "locality_id":890431219,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":890431219,
+    "wof:lastmodified":1505343522,
+    "wof:name":"Farsh\u016b\u0163",
+    "wof:parent_id":1092020903,
+    "wof:placetype":"locality",
+    "wof:population":53851,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16329,
+    26.05494,
+    32.16329,
+    26.05494
+],
+  "geometry": {"coordinates":[32.16329,26.05494],"type":"Point"}
+}

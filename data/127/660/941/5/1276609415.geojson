@@ -1,0 +1,72 @@
+{
+  "id": 1276609415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66667,26.55,31.66667,26.55",
+    "geom:latitude":26.55,
+    "geom:longitude":31.66667,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Khuss al Busah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353530,
+    "gn:latitude":26.55,
+    "gn:longitude":31.66667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khu\u015f\u015f al B\u016b\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuss el B\u00fbsa",
+        "Khu\u015f\u015f al B\u016b\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092025063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353530
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d51b63f1c0b669a30006630992114aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025063,
+            "locality_id":1276609415,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1276609415,
+    "wof:lastmodified":1537620672,
+    "wof:name":"Khuss al Busah",
+    "wof:parent_id":1092025063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66667,
+    26.55,
+    31.66667,
+    26.55
+],
+  "geometry": {"coordinates":[31.66667,26.55],"type":"Point"}
+}

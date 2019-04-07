@@ -1,0 +1,75 @@
+{
+  "id": 1277066441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93708,30.74156,30.93708,30.74156",
+    "geom:latitude":30.74156,
+    "geom:longitude":30.93708,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Qashtukh",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350688,
+    "gn:latitude":30.74156,
+    "gn:longitude":30.93708,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Qash\u0163\u016bkh",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0634\u0637\u0648\u062e"
+    ],
+    "name:und_x_variant":[
+        "Qash\u1e6d\u00fbkh",
+        "Qasht\u00fbkli",
+        "Qash\u0163\u016bkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092025145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350688
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6fb37be4e4953992d3638bc9217fa2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092025145,
+            "locality_id":1277066441,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1277066441,
+    "wof:lastmodified":1537620597,
+    "wof:name":"Qashtukh",
+    "wof:parent_id":1092025145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93708,
+    30.74156,
+    30.93708,
+    30.74156
+],
+  "geometry": {"coordinates":[30.93708,30.74156],"type":"Point"}
+}

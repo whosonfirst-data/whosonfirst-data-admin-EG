@@ -1,0 +1,73 @@
+{
+  "id": 1226107131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65503,31.35493,31.65503,31.35493",
+    "geom:latitude":31.35493,
+    "geom:longitude":31.65503,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Hayy al `Urubah",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":421328,
+    "gn:latitude":31.35493,
+    "gn:longitude":31.65503,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28ayy al \u2018Ur\u016bbah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0627\u0644\u0639\u0631\u0648\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayy al \u2018Ur\u016bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092021673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":421328
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5afca9f2b9bf5d343f529c3486bcd390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021673,
+            "locality_id":1226107131,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1226107131,
+    "wof:lastmodified":1537621109,
+    "wof:name":"Hayy al `Urubah",
+    "wof:parent_id":1092021673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65503,
+    31.35493,
+    31.65503,
+    31.35493
+],
+  "geometry": {"coordinates":[31.65503,31.35493],"type":"Point"}
+}

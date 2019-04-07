@@ -1,0 +1,92 @@
+{
+  "id": 1092020201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":21.042836,
+    "geom:area_square_m":237362581081.583252,
+    "geom:bbox":"25.0,22.0,30.196317,26.288819",
+    "geom:latitude":24.153939,
+    "geom:longitude":27.455035,
+    "iso:country":"EG",
+    "lbl:latitude":24.14366,
+    "lbl:longitude":27.455545,
+    "meso:admin_1":"New Valley",
+    "meso:diss_me":"El-Wahat El-DakhlahNew Valley",
+    "meso:gadm_admin":"Shurtah al-Dakhlah",
+    "meso:gadm_hasc2":"EG.WJ.WD",
+    "meso:gaul_admin":"A-Dakhla Oasis",
+    "meso:mps_x":27.455545,
+    "meso:mps_y":24.14366,
+    "meso:name_en":"El-Wahat El-Dakhlah",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Merkz",
+    "mps:latitude":24.14366,
+    "mps:longitude":27.455545,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Shurtah al-Dakhlah"
+    ],
+    "name:eng_x_variant":[
+        "A-Dakhla Oasis",
+        "Shurtah al-Dakhlah"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.WJ",
+    "statoids:name":"Shurtah al-Dakhlah",
+    "statoids:population":"80228",
+    "statoids:statoid":"EG.WJ.WD",
+    "statoids:timezone":"+2~",
+    "statoids:type":"markaz",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.WJ.WD"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897351,
+    "wof:geomhash":"3896baf2ef78e6f3fad914b0a07982b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020201,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1092020201,
+    "wof:lastmodified":1536615088,
+    "wof:name":"El-Wahat El-Dakhlah",
+    "wof:parent_id":85671071,
+    "wof:placetype":"county",
+    "wof:placetype_local":"markaz",
+    "wof:population":80228,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"WD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0,
+    22.0,
+    30.196317,
+    26.288819
+],
+  "geometry": {"coordinates":[[[25.0,26.286715],[26.274286,26.286116],[26.442782,26.288],[26.656218,26.28699],[26.893725,26.286035],[27.293306,26.288449],[27.45539,26.287321],[27.673644,26.284824],[27.899918,26.283844],[28.371713,26.286423],[29.321732,26.287099],[29.856115,26.288323],[30.072757,26.288819],[30.058431,26.237837],[30.052118,26.191369],[30.052197,26.156903],[30.037823,26.1269],[30.017026,26.098381],[29.986584,26.077332],[29.946544,26.042774],[29.924129,26.020245],[29.972879,25.755121],[29.993953,25.662262],[30.054982,25.641422],[30.196317,25.590797],[30.148305,25.533743],[30.015439,25.389582],[29.880979,25.240922],[29.869777,25.22741],[29.871728,25.076065],[29.872335,24.81083],[29.874324,24.643001],[29.873785,24.176964],[29.873912,23.420217],[29.877139,23.412732],[29.878991,23.304843],[29.878545,22.798346],[29.878912,22.638007],[29.877619,22.501639],[29.877979,22.344297],[29.878514,22.110531],[29.879304,22.0],[25.0,22.0],[25.0,26.286715]]],"type":"Polygon"}
+}

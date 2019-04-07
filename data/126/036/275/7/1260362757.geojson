@@ -1,0 +1,74 @@
+{
+  "id": 1260362757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.47499,30.23276,32.47499,30.23276",
+    "geom:latitude":30.23276,
+    "geom:longitude":32.47499,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"`Izbat al Kibrit",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7318788,
+    "gn:latitude":30.23276,
+    "gn:longitude":32.47499,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"\u2018Izbat al Kibr\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0643\u0628\u0631\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Kibr\u012bt",
+        "\u2018Izbat al Kabr\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671013,
+        1092017827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7318788
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d5050bf577d897adfe003ca80fbf8af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017827,
+            "locality_id":1260362757,
+            "region_id":85671013
+        }
+    ],
+    "wof:id":1260362757,
+    "wof:lastmodified":1537621135,
+    "wof:name":"`Izbat al Kibrit",
+    "wof:parent_id":1092017827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.47499000000001,
+    30.23276,
+    32.47499000000001,
+    30.23276
+],
+  "geometry": {"coordinates":[32.47499000000001,30.23276],"type":"Point"}
+}

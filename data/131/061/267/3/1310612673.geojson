@@ -1,0 +1,75 @@
+{
+  "id": 1310612673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.22172,31.16654,30.22172,31.16654",
+    "geom:latitude":31.16654,
+    "geom:longitude":30.22172,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"`Izbat al Kudwah",
+    "gn:country_code":"EG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353455,
+    "gn:latitude":31.16654,
+    "gn:longitude":30.22172,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat al Kudwah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0643\u062f\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet el-Kidwa",
+        "\u2018Izbat al Kudwah",
+        "\u2018Izbat al Kidwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092021541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353455
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7e70965a319af580733df1c7e949a173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021541,
+            "locality_id":1310612673,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310612673,
+    "wof:lastmodified":1537620671,
+    "wof:name":"`Izbat al Kudwah",
+    "wof:parent_id":1092021541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.22172,
+    31.16654,
+    30.22172,
+    31.16654
+],
+  "geometry": {"coordinates":[30.22172,31.16654],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226635789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03562,30.54652,31.03562,30.54652",
+    "geom:latitude":30.54652,
+    "geom:longitude":31.03562,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Musaylihah",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360644,
+    "gn:latitude":30.54652,
+    "gn:longitude":31.03562,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Al Mu\u015fayli\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u064a\u0644\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Mu\u1e63eil\u1e25a",
+        "Kafr Museilha",
+        "Al Mu\u015fayli\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092024543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360644
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"75c99a285e9d4b3340804bc527e2369f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024543,
+            "locality_id":1226635789,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1226635789,
+    "wof:lastmodified":1537620888,
+    "wof:name":"Al Musaylihah",
+    "wof:parent_id":1092024543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03562,
+    30.54652,
+    31.03562,
+    30.54652
+],
+  "geometry": {"coordinates":[31.03562,30.54652],"type":"Point"}
+}

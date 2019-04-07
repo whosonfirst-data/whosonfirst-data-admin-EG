@@ -1,0 +1,67 @@
+{
+  "id": 1243196275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72401,29.24781,30.72401,29.24781",
+    "geom:latitude":29.24781,
+    "geom:longitude":30.72401,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat al Migharbin",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434268,
+    "gn:latitude":29.24781,
+    "gn:longitude":30.72401,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat al Migharb\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092014683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434268
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2928fa4edd86c21a88f1eadc8e45eec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014683,
+            "locality_id":1243196275,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1243196275,
+    "wof:lastmodified":1536669212,
+    "wof:name":"`Izbat al Migharbin",
+    "wof:parent_id":1092014683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72401,
+    29.24781,
+    30.72401,
+    29.24781
+],
+  "geometry": {"coordinates":[30.72401,29.24781],"type":"Point"}
+}

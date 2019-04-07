@@ -1,0 +1,72 @@
+{
+  "id": 1276454801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.15278,30.95944,30.15278,30.95944",
+    "geom:latitude":30.95944,
+    "geom:longitude":30.15278,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kom Turuga",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357257,
+    "gn:latitude":30.95944,
+    "gn:longitude":30.15278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"K\u00f4m Tur\u00fbga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ezbet K\u00f4m Tur\u00fbga",
+        "K\u00f4m Tur\u00fbga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357257
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"af5140629e7bf1f32f2aea837932e4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1276454801,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1276454801,
+    "wof:lastmodified":1537620787,
+    "wof:name":"Kom Turuga",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.15278,
+    30.95944,
+    30.15278,
+    30.95944
+],
+  "geometry": {"coordinates":[30.15278,30.95944],"type":"Point"}
+}

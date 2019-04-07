@@ -1,0 +1,75 @@
+{
+  "id": 1276226535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10762,30.78867,31.10762,30.78867",
+    "geom:latitude":30.78867,
+    "geom:longitude":31.10762,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mit Hiway",
+    "gn:country_code":"EG",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352168,
+    "gn:latitude":30.78867,
+    "gn:longitude":31.10762,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"M\u012bt \u1e28iw\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u062d\u0648\u0627\u064a"
+    ],
+    "name:und_x_variant":[
+        "M\u00eet Hiw\u00e2i",
+        "M\u012bt \u1e28iw\u0101y",
+        "M\u012bt \u1e24iw\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352168
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bf3e5abbb0e87d868e3b4d561f18613d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1276226535,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1276226535,
+    "wof:lastmodified":1537620637,
+    "wof:name":"Mit Hiway",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.10762,
+    30.78867,
+    31.10762,
+    30.78867
+],
+  "geometry": {"coordinates":[31.10762,30.78867],"type":"Point"}
+}

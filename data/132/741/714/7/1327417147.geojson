@@ -1,0 +1,73 @@
+{
+  "id": 1327417147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.64375,30.77605,31.64375,30.77605",
+    "geom:latitude":30.77605,
+    "geom:longitude":31.64375,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Buha al Balad",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7779477,
+    "gn:latitude":30.77605,
+    "gn:longitude":31.64375,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"B\u016bh\u0101 al Balad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0647\u0627 \u0627\u0644\u0628\u0644\u062f"
+    ],
+    "name:und_x_variant":[
+        "B\u016bh\u0101 al Balad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7779477
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c5af2037b0f79d4c1a0840b8bfe5405d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1327417147,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1327417147,
+    "wof:lastmodified":1537621147,
+    "wof:name":"Buha al Balad",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.64375,
+    30.77605,
+    31.64375,
+    30.77605
+],
+  "geometry": {"coordinates":[31.64375,30.77605],"type":"Point"}
+}

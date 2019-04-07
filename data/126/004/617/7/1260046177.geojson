@@ -1,0 +1,71 @@
+{
+  "id": 1260046177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19811,29.32141,31.19811,29.32141",
+    "geom:latitude":29.32141,
+    "geom:longitude":31.19811,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Zawiyat al Maslub",
+    "gn:country_code":"EG",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":346102,
+    "gn:latitude":29.32141,
+    "gn:longitude":31.19811,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Z\u0101wiyat al Ma\u015fl\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zawyet el Ma\u1e63l\u00fbb",
+        "Z\u0101wiyat al Ma\u015fl\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092020395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":346102
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"afdcc319b0655e3ee889a3836f7ee227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020395,
+            "locality_id":1260046177,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1260046177,
+    "wof:lastmodified":1537620547,
+    "wof:name":"Zawiyat al Maslub",
+    "wof:parent_id":1092020395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19811,
+    29.32141,
+    31.19811,
+    29.32141
+],
+  "geometry": {"coordinates":[31.19811,29.32141],"type":"Point"}
+}

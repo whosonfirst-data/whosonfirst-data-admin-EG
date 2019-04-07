@@ -1,0 +1,67 @@
+{
+  "id": 1343625167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09871,27.19833,31.09871,27.19833",
+    "geom:latitude":27.19833,
+    "geom:longitude":31.09871,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"`Ilwan",
+    "gn:country_code":"EG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355563,
+    "gn:latitude":27.19833,
+    "gn:longitude":31.09871,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Ilw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355563
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8ac5583a7b590bd330d21d5683db3f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014633,
+            "locality_id":1343625167,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1343625167,
+    "wof:lastmodified":1537005336,
+    "wof:name":"`Ilwan",
+    "wof:parent_id":1092014633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09871,
+    27.19833,
+    31.09871,
+    27.19833
+],
+  "geometry": {"coordinates":[31.09871,27.19833],"type":"Point"}
+}

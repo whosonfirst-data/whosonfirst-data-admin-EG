@@ -1,0 +1,72 @@
+{
+  "id": 1276397359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.20733,26.0867,32.20733,26.0867",
+    "geom:latitude":26.0867,
+    "geom:longitude":32.20733,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Awlad Nijm Bahjurah",
+    "gn:country_code":"EG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359605,
+    "gn:latitude":26.0867,
+    "gn:longitude":32.20733,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Awl\u0101d Nijm Bahj\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aul\u0101d Nigm Bahg\u016bra",
+        "Awl\u0101d Najm Bahjur\u0101h",
+        "Awl\u0101d Nijm Bahj\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092022653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359605
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1a4c4b05a7ff86a2dd49bd6d9670dddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022653,
+            "locality_id":1276397359,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1276397359,
+    "wof:lastmodified":1537620842,
+    "wof:name":"Awlad Nijm Bahjurah",
+    "wof:parent_id":1092022653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.20733,
+    26.0867,
+    32.20733,
+    26.0867
+],
+  "geometry": {"coordinates":[32.20733,26.0867],"type":"Point"}
+}

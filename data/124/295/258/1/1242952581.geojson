@@ -1,0 +1,67 @@
+{
+  "id": 1242952581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.50418,25.40259,30.50418,25.40259",
+    "geom:latitude":25.40259,
+    "geom:longitude":30.50418,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"`Ezbet Dib Waer",
+    "gn:country_code":"EG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357562,
+    "gn:latitude":25.40259,
+    "gn:longitude":30.50418,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"\u2018Ezbet Dib Waer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357562
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"4a573e8ae533863e8760ab9efc302f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020223,
+            "locality_id":1242952581,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1242952581,
+    "wof:lastmodified":1537019772,
+    "wof:name":"`Ezbet Dib Waer",
+    "wof:parent_id":1092020223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.50418,
+    25.40259,
+    30.50418,
+    25.40259
+],
+  "geometry": {"coordinates":[30.50418,25.40259],"type":"Point"}
+}

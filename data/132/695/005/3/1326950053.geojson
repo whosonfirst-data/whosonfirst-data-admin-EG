@@ -1,0 +1,71 @@
+{
+  "id": 1326950053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2113,30.03823,31.2113,30.03823",
+    "geom:latitude":30.03823,
+    "geom:longitude":31.2113,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dokki",
+    "gn:country_code":"EG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7910354,
+    "gn:latitude":30.03823,
+    "gn:longitude":31.2113,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Dokki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0642\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092017489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7910354,
+        "wk:page":"Dokki"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"2f264827c53c60d1139eb976a863660f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017489,
+            "locality_id":1326950053,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1326950053,
+    "wof:lastmodified":1537562624,
+    "wof:name":"Dokki",
+    "wof:parent_id":1092017489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2113,
+    30.03823,
+    31.2113,
+    30.03823
+],
+  "geometry": {"coordinates":[31.2113,30.03823],"type":"Point"}
+}

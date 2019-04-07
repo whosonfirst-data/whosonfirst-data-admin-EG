@@ -1,0 +1,71 @@
+{
+  "id": 1259371871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76893,28.13637,30.76893,28.13637",
+    "geom:latitude":28.13637,
+    "geom:longitude":30.76893,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nazlat Husayn `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351123,
+    "gn:latitude":28.13637,
+    "gn:longitude":30.76893,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nazlat \u1e28usayn \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlet \u1e24usein \u2018Ali",
+        "Nazlat \u1e28usayn \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092023043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351123
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8810683a7fe594aa1706d9486f061042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023043,
+            "locality_id":1259371871,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1259371871,
+    "wof:lastmodified":1537620608,
+    "wof:name":"Nazlat Husayn `Ali",
+    "wof:parent_id":1092023043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76893,
+    28.13637,
+    30.76893,
+    28.13637
+],
+  "geometry": {"coordinates":[30.76893,28.13637],"type":"Point"}
+}

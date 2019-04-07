@@ -1,0 +1,77 @@
+{
+  "id": 1344154811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.04185,31.24302,30.04185,31.24302",
+    "geom:latitude":31.24302,
+    "geom:longitude":30.04185,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"`Izbat Karamillah",
+    "gn:country_code":"EG",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":350449,
+    "gn:latitude":31.24302,
+    "gn:longitude":30.04185,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u2018Izbat Karamillah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0643\u0631\u0645\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ezbet el-Qurashi",
+        "\u2018Ezbet Karamilli",
+        "\u2018Izbat al Qurash\u012b",
+        "\u2018Izbat Karamall\u012b",
+        "\u2018Izbat Karamillah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671041,
+        1092018649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":350449
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"746c7a340aa2d8b7404a8d7fcfc24dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018649,
+            "locality_id":1344154811,
+            "region_id":85671041
+        }
+    ],
+    "wof:id":1344154811,
+    "wof:lastmodified":1537620594,
+    "wof:name":"`Izbat Karamillah",
+    "wof:parent_id":1092018649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.04185,
+    31.24302,
+    30.04185,
+    31.24302
+],
+  "geometry": {"coordinates":[30.04185,31.24302],"type":"Point"}
+}

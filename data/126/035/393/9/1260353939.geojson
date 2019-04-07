@@ -1,0 +1,78 @@
+{
+  "id": 1260353939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59641,31.18967,31.59641,31.18967",
+    "geom:latitude":31.18967,
+    "geom:longitude":31.59641,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Shirimsah",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349110,
+    "gn:latitude":31.18967,
+    "gn:longitude":31.59641,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Shirims\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Shirims\u0101\u1e29"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0631\u0645\u0633\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Shirims\u00e2\u1e25",
+        "Shirims\u0101\u1e25"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092020509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349110,
+        "wk:page":"Sheremsah"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6d634e397b6666e3b0d8309e4b704a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020509,
+            "locality_id":1260353939,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1260353939,
+    "wof:lastmodified":1537620575,
+    "wof:name":"Shirimsah",
+    "wof:parent_id":1092020509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59641,
+    31.18967,
+    31.59641,
+    31.18967
+],
+  "geometry": {"coordinates":[31.59641,31.18967],"type":"Point"}
+}

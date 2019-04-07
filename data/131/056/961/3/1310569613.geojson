@@ -1,0 +1,71 @@
+{
+  "id": 1310569613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63077,26.63909,31.63077,26.63909",
+    "geom:latitude":26.63909,
+    "geom:longitude":31.63077,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ash Shaykh Yusuf",
+    "gn:country_code":"EG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359969,
+    "gn:latitude":26.63909,
+    "gn:longitude":31.63077,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ash Shaykh Y\u016bsuf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Sheikh Y\u00fbsef",
+        "Ash Shaykh Y\u016bsuf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671079,
+        1092018399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359969
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"df524649287730e2db717ed3d57c0588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018399,
+            "locality_id":1310569613,
+            "region_id":85671079
+        }
+    ],
+    "wof:id":1310569613,
+    "wof:lastmodified":1537620860,
+    "wof:name":"Ash Shaykh Yusuf",
+    "wof:parent_id":1092018399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63077,
+    26.63909,
+    31.63077,
+    26.63909
+],
+  "geometry": {"coordinates":[31.63077,26.63909],"type":"Point"}
+}

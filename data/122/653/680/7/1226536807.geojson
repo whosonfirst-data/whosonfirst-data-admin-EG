@@ -1,0 +1,73 @@
+{
+  "id": 1226536807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.24849,30.75953,32.24849,30.75953",
+    "geom:latitude":30.75953,
+    "geom:longitude":32.24849,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Abu Khalifah",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443391,
+    "gn:latitude":30.75953,
+    "gn:longitude":32.24849,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ab\u016b Khal\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u062e\u0644\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Khal\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670989,
+        1092019071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443391
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a5d026b3cc9f1e5d0ce61cf3267a39f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019071,
+            "locality_id":1226536807,
+            "region_id":85670989
+        }
+    ],
+    "wof:id":1226536807,
+    "wof:lastmodified":1537621131,
+    "wof:name":"Abu Khalifah",
+    "wof:parent_id":1092019071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.24849,
+    30.75953,
+    32.24849,
+    30.75953
+],
+  "geometry": {"coordinates":[32.24849,30.75953],"type":"Point"}
+}

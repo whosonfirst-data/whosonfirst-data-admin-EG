@@ -1,0 +1,82 @@
+{
+  "id": 1243138759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.24163,31.14867,34.24163,31.14867",
+    "geom:latitude":31.14867,
+    "geom:longitude":34.24163,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Naj` Shabbanah",
+    "gn:country_code":"EG",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":449783,
+    "gn:latitude":31.14867,
+    "gn:longitude":34.24163,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Naj\u2018 Shabb\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062c\u0639 \u0634\u0628\u0627\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u062c\u0639 \u0634\u064a\u0628\u0627\u0646\u0629",
+        "\u0642\u0631\u064a\u0629 \u0646\u062c\u0639 \u0634\u064a\u0628\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shabana",
+        "Naja\u2018 Shabb\u0101nah",
+        "Naj\u2018 Shabb\u0101nah",
+        "Nag\u2018 Shabana",
+        "Naj\u2018 Shayb\u0101nah",
+        "Qaryat Naj\u2018 Shayb\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671093,
+        1092023763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":449783
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"eff56420f14def830ab8366642f59f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023763,
+            "locality_id":1243138759,
+            "region_id":85671093
+        }
+    ],
+    "wof:id":1243138759,
+    "wof:lastmodified":1537621133,
+    "wof:name":"Naj` Shabbanah",
+    "wof:parent_id":1092023763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.24163,
+    31.14867000000001,
+    34.24163,
+    31.14867000000001
+],
+  "geometry": {"coordinates":[34.24163,31.14867000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327322641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.75,28.41667,30.75,28.41667",
+    "geom:latitude":28.41667,
+    "geom:longitude":30.75,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Awlad ash Shaykh `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359630,
+    "gn:latitude":28.41667,
+    "gn:longitude":30.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Awl\u0101d ash Shaykh \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nazlat Awl\u0101d ash Shaykh",
+        "Aul\u00e2d el Sheikh \u2018Ali",
+        "Awl\u0101d ash Shaykh \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092022239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359630
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5a8cd6bd71bb4d0417aa723b361bac54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022239,
+            "locality_id":1327322641,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1327322641,
+    "wof:lastmodified":1537620843,
+    "wof:name":"Awlad ash Shaykh `Ali",
+    "wof:parent_id":1092022239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.75,
+    28.41667,
+    30.75,
+    28.41667
+],
+  "geometry": {"coordinates":[30.75,28.41667],"type":"Point"}
+}

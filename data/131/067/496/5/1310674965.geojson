@@ -1,0 +1,74 @@
+{
+  "id": 1310674965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92474,31.14064,30.92474,31.14064",
+    "geom:latitude":31.14064,
+    "geom:longitude":30.92474,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Manshiyat Mubarak",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547577,
+    "gn:latitude":31.14064,
+    "gn:longitude":30.92474,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Mansh\u012byat Mub\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0645\u0628\u0627\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "Mansh\u012byat Mub\u0101rak",
+        "Manshiyyat Mub\u0101rak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547577
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"89bd10ff373c924d4affd87d23907bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1310674965,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1310674965,
+    "wof:lastmodified":1537621282,
+    "wof:name":"Manshiyat Mubarak",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92474,
+    31.14064,
+    30.92474,
+    31.14064
+],
+  "geometry": {"coordinates":[30.92474,31.14064],"type":"Point"}
+}

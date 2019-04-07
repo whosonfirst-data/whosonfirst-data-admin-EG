@@ -1,0 +1,71 @@
+{
+  "id": 1193161157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56725,29.38406,30.56725,29.38406",
+    "geom:latitude":29.38406,
+    "geom:longitude":30.56725,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Al Musharrak Qibli",
+    "gn:country_code":"EG",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360643,
+    "gn:latitude":29.38406,
+    "gn:longitude":30.56725,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Musharrak Qibl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Misharrak Qibli",
+        "Al Musharrak Qibl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671037,
+        1092016391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360643
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"279194dca00fb99648611df1add23aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016391,
+            "locality_id":1193161157,
+            "region_id":85671037
+        }
+    ],
+    "wof:id":1193161157,
+    "wof:lastmodified":1537620888,
+    "wof:name":"Al Musharrak Qibli",
+    "wof:parent_id":1092016391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56725,
+    29.38406,
+    30.56725,
+    29.38406
+],
+  "geometry": {"coordinates":[30.56725,29.38406],"type":"Point"}
+}

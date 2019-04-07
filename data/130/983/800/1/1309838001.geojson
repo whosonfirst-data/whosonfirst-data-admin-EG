@@ -1,0 +1,74 @@
+{
+  "id": 1309838001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1436,30.87671,31.1436,30.87671",
+    "geom:latitude":30.87671,
+    "geom:longitude":31.1436,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"`Izbat al Qashlan",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560862,
+    "gn:latitude":30.87671,
+    "gn:longitude":31.1436,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"\u2018Izbat al Qashl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0642\u0634\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat al Qashl\u0101n",
+        "\u2018Izbat al-Qashl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092019649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560862
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"0f2ae539c3a69502e1d1bce261aea9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092019649,
+            "locality_id":1309838001,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1309838001,
+    "wof:lastmodified":1537621212,
+    "wof:name":"`Izbat al Qashlan",
+    "wof:parent_id":1092019649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1436,
+    30.87671,
+    31.1436,
+    30.87671
+],
+  "geometry": {"coordinates":[31.1436,30.87671],"type":"Point"}
+}

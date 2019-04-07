@@ -1,0 +1,73 @@
+{
+  "id": 1360243889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84048,31.09335,30.84048,31.09335",
+    "geom:latitude":31.09335,
+    "geom:longitude":30.84048,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Shahin",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416169,
+    "gn:latitude":31.09335,
+    "gn:longitude":30.84048,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat Sh\u0101h\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0634\u0627\u0647\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Sh\u0101h\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416169
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c7d49c1d7a80afbafb74504c9624c19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021829,
+            "locality_id":1360243889,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1360243889,
+    "wof:lastmodified":1537621019,
+    "wof:name":"`Izbat Shahin",
+    "wof:parent_id":1092021829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84048,
+    31.09335,
+    30.84048,
+    31.09335
+],
+  "geometry": {"coordinates":[30.84048,31.09335],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310709301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52448,31.18352,30.52448,31.18352",
+    "geom:latitude":31.18352,
+    "geom:longitude":30.52448,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Al Mahmudiyah",
+    "gn:country_code":"EG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360819,
+    "gn:latitude":31.18352,
+    "gn:longitude":30.52448,
+    "gn:modification_date":"2018-03-15",
+    "gn:name":"Al Ma\u1e29m\u016bd\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062d\u0645\u0648\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Ma\u1e25m\u00fbd\u00eeya",
+        "Al Ma\u1e29m\u016bd\u012byah",
+        "Al-Ma\u1e25m\u016bdiyyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092018277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360819,
+        "wk:page":"El_Mahmoudiyah"
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c1ee377cd3d3244aa1712559af92e9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018277,
+            "locality_id":1310709301,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1310709301,
+    "wof:lastmodified":1537620899,
+    "wof:name":"Al Mahmudiyah",
+    "wof:parent_id":1092018277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52448,
+    31.18352,
+    30.52448,
+    31.18352
+],
+  "geometry": {"coordinates":[30.52448,31.18352],"type":"Point"}
+}

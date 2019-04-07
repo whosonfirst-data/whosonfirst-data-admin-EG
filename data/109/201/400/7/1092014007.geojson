@@ -1,0 +1,92 @@
+{
+  "id": 1092014007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001843,
+    "geom:area_square_m":19763819.458121,
+    "geom:bbox":"31.336037,29.80785,31.382001,29.879779",
+    "geom:latitude":29.845635,
+    "geom:longitude":31.357065,
+    "iso:country":"EG",
+    "lbl:latitude":29.862382,
+    "lbl:longitude":31.355498,
+    "meso:admin_1":"Helwan",
+    "meso:diss_me":"15 MayoHelwan",
+    "meso:gadm_admin":"Helwan",
+    "meso:gadm_hasc2":"EG.QH.HW",
+    "meso:gaul_admin":"15 Mayu",
+    "meso:mps_x":31.355498,
+    "meso:mps_y":29.862382,
+    "meso:name_en":"15 Mayo",
+    "meso:patch":0,
+    "meso:source":"USAID",
+    "meso:type_en":"Kism",
+    "mps:latitude":29.862382,
+    "mps:longitude":31.355498,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Fifteenth of May City"
+    ],
+    "name:eng_x_variant":[
+        "15 Mayu",
+        "Helwan"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-11-11",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"2006-11-11",
+    "statoids:capital":"",
+    "statoids:country":"EG",
+    "statoids:hasc":"EG.QH",
+    "statoids:name":"Fifteenth of May City",
+    "statoids:population":"90740",
+    "statoids:statoid":"EG.QH.FM",
+    "statoids:timezone":"+2~",
+    "statoids:type":"kism",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"EG.QH.FM"
+    },
+    "wof:country":"EG",
+    "wof:created":1473897111,
+    "wof:geomhash":"810b705b483d95fc43d13a99e601111c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014007,
+            "region_id":85670999
+        }
+    ],
+    "wof:id":1092014007,
+    "wof:lastmodified":1536615081,
+    "wof:name":"15 Mayo",
+    "wof:parent_id":85670999,
+    "wof:placetype":"county",
+    "wof:placetype_local":"kism",
+    "wof:population":90740,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:shortcode":"FM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.336037,
+    29.80785,
+    31.382001,
+    29.879779
+],
+  "geometry": {"coordinates":[[[31.345336,29.818068],[31.349821,29.821633],[31.34438,29.8288],[31.339791,29.834907],[31.339332,29.835296],[31.338853,29.835981],[31.338206,29.8374],[31.344169,29.837401],[31.350522,29.837558],[31.349576,29.842778],[31.348415,29.850512],[31.342742,29.85117],[31.343175,29.854705],[31.339949,29.857489],[31.336037,29.877189],[31.349201,29.875037],[31.357918,29.879779],[31.36989,29.877365],[31.369742,29.857796],[31.369612,29.840726],[31.382001,29.839392],[31.380295,29.832554],[31.369968,29.833187],[31.369648,29.818277],[31.362763,29.809422],[31.347051,29.80785],[31.345336,29.818068]]],"type":"Polygon"}
+}

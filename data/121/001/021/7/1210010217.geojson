@@ -1,0 +1,71 @@
+{
+  "id": 1210010217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80525,28.67525,30.80525,28.67525",
+    "geom:latitude":28.67525,
+    "geom:longitude":30.80525,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bilhasah",
+    "gn:country_code":"EG",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358835,
+    "gn:latitude":28.67525,
+    "gn:longitude":30.80525,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bilh\u0101sah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilh\u00e2sa",
+        "Bilh\u0101sah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092021965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358835
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"a495cc61e93c5ba68f9e3d201c3b8051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021965,
+            "locality_id":1210010217,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1210010217,
+    "wof:lastmodified":1537620822,
+    "wof:name":"Bilhasah",
+    "wof:parent_id":1092021965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80525,
+    28.67525,
+    30.80525,
+    28.67525
+],
+  "geometry": {"coordinates":[30.80525,28.67525],"type":"Point"}
+}

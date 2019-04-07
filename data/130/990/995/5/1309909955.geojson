@@ -1,0 +1,67 @@
+{
+  "id": 1309909955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37444,31.405,31.37444,31.405",
+    "geom:latitude":31.405,
+    "geom:longitude":31.37444,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Ezbet `Abd el-`Aziz Diyasil",
+    "gn:country_code":"EG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357691,
+    "gn:latitude":31.405,
+    "gn:longitude":31.37444,
+    "gn:modification_date":"1998-08-19",
+    "gn:name":"\u2018Ezbet \u2018Abd el-\u2018Aziz Diyasil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092015611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357691
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"8086ac5ff31a5149c005bb2a9a351753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015611,
+            "locality_id":1309909955,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1309909955,
+    "wof:lastmodified":1536781416,
+    "wof:name":"`Ezbet `Abd el-`Aziz Diyasil",
+    "wof:parent_id":1092015611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37444,
+    31.405,
+    31.37444,
+    31.405
+],
+  "geometry": {"coordinates":[31.37444,31.405],"type":"Point"}
+}

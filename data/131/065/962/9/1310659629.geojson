@@ -1,0 +1,76 @@
+{
+  "id": 1310659629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88848,31.07298,30.88848,31.07298",
+    "geom:latitude":31.07298,
+    "geom:longitude":30.88848,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat ar Rawdah",
+    "gn:country_code":"EG",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363137,
+    "gn:latitude":31.07298,
+    "gn:longitude":30.88848,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"\u2018Izbat ar Raw\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0627\u0644\u0631\u0648\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ab\u2018\u00e2d\u00eeyet el-R\u00f4\u1e0da",
+        "Ab\u2018\u0101d\u012byat ar Raw\u1e11ah",
+        "\u2018Izbat ar Raw\u1e11ah",
+        "\u2018Izbat ar-Raw\u1e0dah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092021581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363137
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"9e753bc0bb4f20dcd69bc776b8fa8c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021581,
+            "locality_id":1310659629,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1310659629,
+    "wof:lastmodified":1537620966,
+    "wof:name":"`Izbat ar Rawdah",
+    "wof:parent_id":1092021581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88848,
+    31.07298,
+    30.88848,
+    31.07298
+],
+  "geometry": {"coordinates":[30.88848,31.07298],"type":"Point"}
+}

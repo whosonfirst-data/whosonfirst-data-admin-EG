@@ -1,0 +1,73 @@
+{
+  "id": 1326688937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02763,31.57942,31.02763,31.57942",
+    "geom:latitude":31.57942,
+    "geom:longitude":31.02763,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kafr ash Shurafa",
+    "gn:country_code":"EG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":419316,
+    "gn:latitude":31.57942,
+    "gn:longitude":31.02763,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Kafr ash Shuraf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u0634\u0631\u0641\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafr ash Shuraf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092017189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":419316
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d5eef35f8cae6bc351bc21f19b5b63f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092017189,
+            "locality_id":1326688937,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1326688937,
+    "wof:lastmodified":1537621047,
+    "wof:name":"Kafr ash Shurafa",
+    "wof:parent_id":1092017189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02763,
+    31.57942,
+    31.02763,
+    31.57942
+],
+  "geometry": {"coordinates":[31.02763,31.57942],"type":"Point"}
+}

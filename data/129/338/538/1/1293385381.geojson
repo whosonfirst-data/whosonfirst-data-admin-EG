@@ -1,0 +1,74 @@
+{
+  "id": 1293385381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.04962,30.1757,31.04962,30.1757",
+    "geom:latitude":30.1757,
+    "geom:longitude":31.04962,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Niklah",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351038,
+    "gn:latitude":30.1757,
+    "gn:longitude":31.04962,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Niklah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0643\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nikla",
+        "Niklah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671047,
+        1092020631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351038
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5f95743bccda8f7827702ae5d4b6cbd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020631,
+            "locality_id":1293385381,
+            "region_id":85671047
+        }
+    ],
+    "wof:id":1293385381,
+    "wof:lastmodified":1537620603,
+    "wof:name":"Niklah",
+    "wof:parent_id":1092020631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04962,
+    30.1757,
+    31.04962,
+    30.1757
+],
+  "geometry": {"coordinates":[31.04962,30.1757],"type":"Point"}
+}

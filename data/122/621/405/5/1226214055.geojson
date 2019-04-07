@@ -1,0 +1,71 @@
+{
+  "id": 1226214055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01903,27.32082,31.01903,27.32082",
+    "geom:latitude":27.32082,
+    "geom:longitude":31.01903,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Shaqalqil",
+    "gn:country_code":"EG",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349116,
+    "gn:latitude":27.32082,
+    "gn:longitude":31.01903,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Shaqalq\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shiqilq\u012bl",
+        "Shaqalq\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671069,
+        1092014043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349116
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"ddbe3ae5efc9cbb9b548cdf0fe5605d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014043,
+            "locality_id":1226214055,
+            "region_id":85671069
+        }
+    ],
+    "wof:id":1226214055,
+    "wof:lastmodified":1537620575,
+    "wof:name":"Shaqalqil",
+    "wof:parent_id":1092014043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01903,
+    27.32082,
+    31.01903,
+    27.32082
+],
+  "geometry": {"coordinates":[31.01903,27.32082],"type":"Point"}
+}

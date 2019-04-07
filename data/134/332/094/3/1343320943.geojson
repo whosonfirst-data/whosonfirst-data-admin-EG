@@ -1,0 +1,74 @@
+{
+  "id": 1343320943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79552,31.21296,30.79552,31.21296",
+    "geom:latitude":31.21296,
+    "geom:longitude":30.79552,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Izbat Mukhtar `Abd al Latif",
+    "gn:country_code":"EG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547521,
+    "gn:latitude":31.21296,
+    "gn:longitude":30.79552,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"\u2018Izbat Mukht\u0101r \u2018Abd al La\u0163\u012bf",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u062e\u062a\u0627\u0631 \u0639\u0628\u062f \u0627\u0644\u0644\u0637\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat Mukht\u0101r \u2018Abd al La\u0163\u012bf",
+        "\u2018Izbat Mukht\u0101r \u2018Abd al-Lat\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092016203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547521
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"e8eb2f62e5753c17966fb1dcb8b2bb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016203,
+            "locality_id":1343320943,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1343320943,
+    "wof:lastmodified":1537621278,
+    "wof:name":"`Izbat Mukhtar `Abd al Latif",
+    "wof:parent_id":1092016203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79552,
+    31.21296,
+    30.79552,
+    31.21296
+],
+  "geometry": {"coordinates":[30.79552,31.21296],"type":"Point"}
+}

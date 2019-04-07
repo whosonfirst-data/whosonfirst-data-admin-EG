@@ -1,0 +1,74 @@
+{
+  "id": 1327124067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88663,30.4636,30.88663,30.4636",
+    "geom:latitude":30.4636,
+    "geom:longitude":30.88663,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bilmisht",
+    "gn:country_code":"EG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":358825,
+    "gn:latitude":30.4636,
+    "gn:longitude":30.88663,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Bilmish\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0645\u0634\u0637"
+    ],
+    "name:und_x_variant":[
+        "Bilmish\u0163",
+        "Bilmish\u1e6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670995,
+        1092022369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358825
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"74ceb06e697cc707ef61e6b423a49dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022369,
+            "locality_id":1327124067,
+            "region_id":85670995
+        }
+    ],
+    "wof:id":1327124067,
+    "wof:lastmodified":1537620822,
+    "wof:name":"Bilmisht",
+    "wof:parent_id":1092022369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88663,
+    30.4636,
+    30.88663,
+    30.4636
+],
+  "geometry": {"coordinates":[30.88663,30.4636],"type":"Point"}
+}

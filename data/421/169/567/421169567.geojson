@@ -1,0 +1,76 @@
+{
+  "id": 421169567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87777,24.44265,32.87777,24.44265",
+    "geom:latitude":24.44265,
+    "geom:longitude":32.87777,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"EG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":358812,
+    "qs:gn_pop":0,
+    "qs:name":"Bimban",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0633\u0648\u0627\u0646",
+    "qs:photos":206,
+    "qs:photos_1k":42,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":206,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211611,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1522695,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":358812,
+        "gp:id":1522695,
+        "qs:id":211611
+    },
+    "wof:country":"EG",
+    "wof:created":1459008815,
+    "wof:geomhash":"0ac281d14971e2a5c6d478af4d5ae1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016115,
+            "locality_id":421169567,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":421169567,
+    "wof:lastmodified":1500036784,
+    "wof:name":"Bimban",
+    "wof:parent_id":1092016115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87777,
+    24.44265,
+    32.87777,
+    24.44265
+],
+  "geometry": {"coordinates":[32.87777,24.44265],"type":"Point"}
+}

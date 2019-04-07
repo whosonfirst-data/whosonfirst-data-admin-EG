@@ -1,0 +1,76 @@
+{
+  "id": 1293685963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09363,31.12714,31.09363,31.12714",
+    "geom:latitude":31.12714,
+    "geom:longitude":31.09363,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ash Shahidi",
+    "gn:country_code":"EG",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360035,
+    "gn:latitude":31.12714,
+    "gn:longitude":31.09363,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Ash Shah\u012bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0647\u064a\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "El Shih\u00eedi",
+        "El-Shah\u00eedi",
+        "Ash Shah\u012bd\u012b",
+        "Ash-Shah\u012bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85670985,
+        1092018245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360035
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"1a50f32fad2d62f02f2f4a492e48c67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092018245,
+            "locality_id":1293685963,
+            "region_id":85670985
+        }
+    ],
+    "wof:id":1293685963,
+    "wof:lastmodified":1537620864,
+    "wof:name":"Ash Shahidi",
+    "wof:parent_id":1092018245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09363,
+    31.12714,
+    31.09363,
+    31.12714
+],
+  "geometry": {"coordinates":[31.09363,31.12714],"type":"Point"}
+}

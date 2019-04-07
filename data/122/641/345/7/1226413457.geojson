@@ -1,0 +1,78 @@
+{
+  "id": 1226413457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.70715,30.82851,31.70715,30.82851",
+    "geom:latitude":30.82851,
+    "geom:longitude":31.70715,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Qudah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360552,
+    "gn:latitude":30.82851,
+    "gn:longitude":31.70715,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qu\u1e11\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Qu\u1e11\u0101h"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0648\u0636\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Qu\u1e0d\u00e2h",
+        "El Qudah",
+        "Al Qu\u1e11\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360552
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c4708f7c179fb377c05d068effc2ff89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1226413457,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1226413457,
+    "wof:lastmodified":1537620882,
+    "wof:name":"Al Qudah",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.70715,
+    30.82851,
+    31.70715,
+    30.82851
+],
+  "geometry": {"coordinates":[31.70715,30.82851],"type":"Point"}
+}

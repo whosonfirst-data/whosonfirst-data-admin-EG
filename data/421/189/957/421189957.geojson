@@ -1,0 +1,77 @@
+{
+  "id": 421189957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.924652,24.7423095,32.924652,24.7423095",
+    "geom:latitude":24.74231,
+    "geom:longitude":32.924652,
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Silwa Bahari",
+    "qs:name_adm0":"\u0645\u0635\u0631",
+    "qs:name_adm1":"\u0627\u0633\u0648\u0627\u0646",
+    "qs:photos":232,
+    "qs:photos_1k":47,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":232,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1118075,
+    "qs:woe_adm0":23424802,
+    "qs:woe_id":1526370,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":375,
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671061,
+        1092016437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1526370,
+        "qs:id":1118075,
+        "wd:id":"Q22936441"
+    },
+    "wof:country":"EG",
+    "wof:created":1459009642,
+    "wof:geomhash":"59beb8dd40fb9322eb0e44359a6d495e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092016437,
+            "locality_id":421189957,
+            "region_id":85671061
+        }
+    ],
+    "wof:id":421189957,
+    "wof:lastmodified":1527716268,
+    "wof:name":"Silwa Bahari",
+    "wof:parent_id":1092016437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.924652,
+    24.7423095,
+    32.924652,
+    24.7423095
+],
+  "geometry": {"coordinates":[32.924652,24.7423095],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242956557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56943,30.53268,31.56943,30.53268",
+    "geom:latitude":30.53268,
+    "geom:longitude":31.56943,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tahrat Humayd",
+    "gn:country_code":"EG",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433499,
+    "gn:latitude":30.53268,
+    "gn:longitude":31.56943,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162ahrat \u1e28umayd",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0647\u0631\u0629 \u062d\u0645\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0162ahrat \u1e28umayd",
+        "\u0162ahrit \u1e28imayd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433499
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"012e34f4504a0cab7199a90d3428aa45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1242956557,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1242956557,
+    "wof:lastmodified":1537621119,
+    "wof:name":"Tahrat Humayd",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56943,
+    30.53268,
+    31.56943,
+    30.53268
+],
+  "geometry": {"coordinates":[31.56943,30.53268],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209595571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38333,30.21667,31.38333,30.21667",
+    "geom:latitude":30.21667,
+    "geom:longitude":31.38333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Ezbet el-Dank",
+    "gn:country_code":"EG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":357522,
+    "gn:latitude":30.21667,
+    "gn:longitude":31.38333,
+    "gn:modification_date":"1997-08-11",
+    "gn:name":"\u2018Ezbet el-Dank",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":357522
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"bec6f1f2fd6bdf005018e6d5ba5b8a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209595571
+        }
+    ],
+    "wof:id":1209595571,
+    "wof:lastmodified":1536282335,
+    "wof:name":"`Ezbet el-Dank",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38333,
+    30.21667,
+    31.38333,
+    30.21667
+],
+  "geometry": {"coordinates":[31.38333,30.21667],"type":"Point"}
+}

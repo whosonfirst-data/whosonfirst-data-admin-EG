@@ -1,0 +1,77 @@
+{
+  "id": 1293254039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73639,31.37654,31.73639,31.37654",
+    "geom:latitude":31.37654,
+    "geom:longitude":31.73639,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Al Hurani",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":361168,
+    "gn:latitude":31.37654,
+    "gn:longitude":31.73639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u1e28\u016br\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u1e28\u016br\u0101n\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0648\u0631\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "El-\u1e24\u00fbr\u00e2ni",
+        "Al \u1e28awr\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671025,
+        1092020865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":361168
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"26f3a0601aeb2e5fb4499ee65e20f031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020865,
+            "locality_id":1293254039,
+            "region_id":85671025
+        }
+    ],
+    "wof:id":1293254039,
+    "wof:lastmodified":1537620918,
+    "wof:name":"Al Hurani",
+    "wof:parent_id":1092020865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73639,
+    31.37654,
+    31.73639,
+    31.37654
+],
+  "geometry": {"coordinates":[31.73639,31.37654],"type":"Point"}
+}

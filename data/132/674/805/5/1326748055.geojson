@@ -1,0 +1,74 @@
+{
+  "id": 1326748055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48545,31.23703,31.48545,31.23703",
+    "geom:latitude":31.23703,
+    "geom:longitude":31.48545,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Musa `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8544080,
+    "gn:latitude":31.23703,
+    "gn:longitude":31.48545,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"\u2018Izbat M\u016bs\u00e1 \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u0645\u0648\u0633\u0649 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat M\u016bs\u00e1 \u2018Al\u012b",
+        "\u2018Izbat M\u016bsa\u2019 \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092015611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8544080
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"3e77a992e01a23a8484646b2235ffae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015611,
+            "locality_id":1326748055,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1326748055,
+    "wof:lastmodified":1537621202,
+    "wof:name":"`Izbat Musa `Ali",
+    "wof:parent_id":1092015611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48545,
+    31.23703,
+    31.48545,
+    31.23703
+],
+  "geometry": {"coordinates":[31.48545,31.23703],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260164417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.54597,30.62756,31.54597,30.62756",
+    "geom:latitude":30.62756,
+    "geom:longitude":31.54597,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Izbat Hasan Fahmi",
+    "gn:country_code":"EG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8067827,
+    "gn:latitude":30.62756,
+    "gn:longitude":31.54597,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"\u2018Izbat \u1e28asan Fahm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062d\u0633\u0646 \u0641\u0647\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u1e28asan Fahm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092020479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8067827
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"7d99dcc5d2d8bbcdbbdd96689bceb086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020479,
+            "locality_id":1260164417,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1260164417,
+    "wof:lastmodified":1537621162,
+    "wof:name":"`Izbat Hasan Fahmi",
+    "wof:parent_id":1092020479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.54597,
+    30.62756,
+    31.54597,
+    30.62756
+],
+  "geometry": {"coordinates":[31.54597,30.62756],"type":"Point"}
+}

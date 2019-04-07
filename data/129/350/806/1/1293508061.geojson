@@ -1,0 +1,71 @@
+{
+  "id": 1293508061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80502,27.8948,30.80502,27.8948",
+    "geom:latitude":27.8948,
+    "geom:longitude":30.80502,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Safay",
+    "gn:country_code":"EG",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":349911,
+    "gn:latitude":27.8948,
+    "gn:longitude":30.80502,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saf\u0101y",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saf\u00e2i",
+        "Saf\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671049,
+        1092014221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":349911
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d5389bfc6d6e9148ed0551f010cd8dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014221,
+            "locality_id":1293508061,
+            "region_id":85671049
+        }
+    ],
+    "wof:id":1293508061,
+    "wof:lastmodified":1537620590,
+    "wof:name":"Safay",
+    "wof:parent_id":1092014221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80502000000001,
+    27.8948,
+    30.80502000000001,
+    27.8948
+],
+  "geometry": {"coordinates":[30.80502000000001,27.8948],"type":"Point"}
+}

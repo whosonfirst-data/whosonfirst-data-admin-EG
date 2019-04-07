@@ -1,0 +1,66 @@
+{
+  "id": 1209497293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73333,23.05,32.73333,23.05",
+    "geom:latitude":23.05,
+    "geom:longitude":32.73333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Muharraqah",
+    "gn:cc2":"EG",
+    "gn:country_code":"EG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":351967,
+    "gn:latitude":23.05,
+    "gn:longitude":32.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mu\u1e29arraqah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mi\u1e25arraqa",
+        "Mu\u1e29arraqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":351967
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"5dec27a885d085b57b5f9adbe850a697",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209497293
+        }
+    ],
+    "wof:id":1209497293,
+    "wof:lastmodified":1537620631,
+    "wof:name":"Muharraqah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73333,
+    23.05,
+    32.73333,
+    23.05
+],
+  "geometry": {"coordinates":[32.73333,23.05],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293760003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.06667,25.53333,29.06667,25.53333",
+    "geom:latitude":25.53333,
+    "geom:longitude":29.06667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ismant",
+    "gn:country_code":"EG",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":355453,
+    "gn:latitude":25.53333,
+    "gn:longitude":29.06667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Ismant",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671071,
+        1092020201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":355453
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d95b2310a2de359d53144cf14f8014a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020201,
+            "locality_id":1293760003,
+            "region_id":85671071
+        }
+    ],
+    "wof:id":1293760003,
+    "wof:lastmodified":1536890996,
+    "wof:name":"Ismant",
+    "wof:parent_id":1092020201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.06667,
+    25.53333,
+    29.06667,
+    25.53333
+],
+  "geometry": {"coordinates":[29.06667,25.53333],"type":"Point"}
+}

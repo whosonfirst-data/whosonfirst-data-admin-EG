@@ -1,0 +1,74 @@
+{
+  "id": 1293251271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82454,31.26517,30.82454,31.26517",
+    "geom:latitude":31.26517,
+    "geom:longitude":30.82454,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Munsha'at Abu `Ali",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":352443,
+    "gn:latitude":31.26517,
+    "gn:longitude":30.82454,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Munsha\u2019at Ab\u016b \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u0623\u0629 \u0623\u0628\u0648 \u0639\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Munsha\u2019at Ab\u016b \u2018Al\u012b",
+        "Minsh\u0101t Ab\u016b \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671057,
+        1092024971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":352443
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"6b5595e21f6aa6b9511928aa7d537ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092024971,
+            "locality_id":1293251271,
+            "region_id":85671057
+        }
+    ],
+    "wof:id":1293251271,
+    "wof:lastmodified":1537620655,
+    "wof:name":"Munsha'at Abu `Ali",
+    "wof:parent_id":1092024971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82454,
+    31.26517,
+    30.82454,
+    31.26517
+],
+  "geometry": {"coordinates":[30.82454,31.26517],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276943729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13674,29.32964,31.13674,29.32964",
+    "geom:latitude":29.32964,
+    "geom:longitude":31.13674,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kawm Abu Radi",
+    "gn:country_code":"EG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":353901,
+    "gn:latitude":29.32964,
+    "gn:longitude":31.13674,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kawm Ab\u016b R\u0101\u1e11\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kn\u0308m Abu R\u0101di",
+        "Kawm Ab\u016b R\u0101\u1e11\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092020395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":353901
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"d796fc58ba36004eb6ec69c782321a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092020395,
+            "locality_id":1276943729,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1276943729,
+    "wof:lastmodified":1537620679,
+    "wof:name":"Kawm Abu Radi",
+    "wof:parent_id":1092020395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13674,
+    29.32964,
+    31.13674,
+    29.32964
+],
+  "geometry": {"coordinates":[31.13674,29.32964],"type":"Point"}
+}

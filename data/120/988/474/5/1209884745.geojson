@@ -1,0 +1,76 @@
+{
+  "id": 1209884745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26874,26.06937,32.26874,26.06937",
+    "geom:latitude":26.06937,
+    "geom:longitude":32.26874,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"As Salamiyah al Ha'it",
+    "gn:country_code":"EG",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":359879,
+    "gn:latitude":26.06937,
+    "gn:longitude":32.26874,
+    "gn:modification_date":"2017-07-14",
+    "gn:name":"As Salam\u012byah al \u1e28\u0101\u2019i\u0163",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u064a\u0645\u0629 \u0627\u0644\u062d\u0627\u064a\u0637"
+    ],
+    "name:und_x_variant":[
+        "El Salam\u00eeya el \u1e24\u00e2\u2019i\u1e6d",
+        "Es Salam\u012bya el H\u0101it",
+        "El Salamiya",
+        "As Salam\u012byah al \u1e28\u0101\u2019i\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671075,
+        1092022653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":359879
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"66f1d3b4b8d17b1d23e9fe23503a72da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092022653,
+            "locality_id":1209884745,
+            "region_id":85671075
+        }
+    ],
+    "wof:id":1209884745,
+    "wof:lastmodified":1537620855,
+    "wof:name":"As Salamiyah al Ha'it",
+    "wof:parent_id":1092022653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26874,
+    26.06937000000001,
+    32.26874,
+    26.06937000000001
+],
+  "geometry": {"coordinates":[32.26874,26.06937000000001],"type":"Point"}
+}

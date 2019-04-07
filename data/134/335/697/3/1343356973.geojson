@@ -1,0 +1,67 @@
+{
+  "id": 1343356973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8936,30.90646,29.8936,30.90646",
+    "geom:latitude":30.90646,
+    "geom:longitude":29.8936,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Az Zafir",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433918,
+    "gn:latitude":30.90646,
+    "gn:longitude":29.8936,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Az\u0327 Z\u0327\u0101fir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671035,
+        1092014061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433918
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"c019f395a2a82eac1ffb55c492551981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014061,
+            "locality_id":1343356973,
+            "region_id":85671035
+        }
+    ],
+    "wof:id":1343356973,
+    "wof:lastmodified":1536895382,
+    "wof:name":"Az Zafir",
+    "wof:parent_id":1092014061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8936,
+    30.90646,
+    29.8936,
+    30.90646
+],
+  "geometry": {"coordinates":[29.8936,30.90646],"type":"Point"}
+}

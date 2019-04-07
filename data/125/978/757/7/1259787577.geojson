@@ -1,0 +1,74 @@
+{
+  "id": 1259787577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.43006,31.20758,31.43006,31.20758",
+    "geom:latitude":31.20758,
+    "geom:longitude":31.43006,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"`Izbat Handusah",
+    "gn:country_code":"EG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543791,
+    "gn:latitude":31.20758,
+    "gn:longitude":31.43006,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"\u2018Izbat \u1e28and\u016bsah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0632\u0628\u0629 \u062d\u0646\u062f\u0648\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Izbat \u1e28and\u016bsah",
+        "\u2018Izbat \u1e24and\u016bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671017,
+        1092015611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543791
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"28c9d463b194f76670909f54a7efec1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092015611,
+            "locality_id":1259787577,
+            "region_id":85671017
+        }
+    ],
+    "wof:id":1259787577,
+    "wof:lastmodified":1537621200,
+    "wof:name":"`Izbat Handusah",
+    "wof:parent_id":1092015611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.43006,
+    31.20758,
+    31.43006,
+    31.20758
+],
+  "geometry": {"coordinates":[31.43006,31.20758],"type":"Point"}
+}

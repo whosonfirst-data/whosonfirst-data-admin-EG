@@ -1,0 +1,73 @@
+{
+  "id": 1259570033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24436,30.24356,31.24436,30.24356",
+    "geom:latitude":30.24356,
+    "geom:longitude":31.24436,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tanan",
+    "gn:country_code":"EG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":347521,
+    "gn:latitude":30.24356,
+    "gn:longitude":31.24436,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162an\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0646\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0162an\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671003,
+        1092023447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":347521
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"027f4e41bd94ba2db98db47e24dc1a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092023447,
+            "locality_id":1259570033,
+            "region_id":85671003
+        }
+    ],
+    "wof:id":1259570033,
+    "wof:lastmodified":1537620559,
+    "wof:name":"Tanan",
+    "wof:parent_id":1092023447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24436,
+    30.24356,
+    31.24436,
+    30.24356
+],
+  "geometry": {"coordinates":[31.24436,30.24356],"type":"Point"}
+}

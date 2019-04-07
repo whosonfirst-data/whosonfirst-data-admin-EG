@@ -1,0 +1,61 @@
+{
+  "id": 1209618519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.59861,26.21667,32.59861,26.21667",
+    "geom:latitude":26.21667,
+    "geom:longitude":32.59861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wadi al Fawiyah",
+    "gn:country_code":"EG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434556,
+    "gn:latitude":26.21667,
+    "gn:longitude":32.59861,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"W\u0101d\u012b al F\u0101w\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434556
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"408311004d2c921ae0863dc94b18f8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632581,
+            "locality_id":1209618519
+        }
+    ],
+    "wof:id":1209618519,
+    "wof:lastmodified":1536281602,
+    "wof:name":"Wadi al Fawiyah",
+    "wof:parent_id":85632581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.59861,
+    26.21667,
+    32.59861,
+    26.21667
+],
+  "geometry": {"coordinates":[32.59861,26.21667],"type":"Point"}
+}

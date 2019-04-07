@@ -1,0 +1,75 @@
+{
+  "id": 1310384289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71724,30.81732,31.71724,30.81732",
+    "geom:latitude":30.81732,
+    "geom:longitude":31.71724,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Masha`lah",
+    "gn:country_code":"EG",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":360730,
+    "gn:latitude":30.81732,
+    "gn:longitude":31.71724,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Mash\u0101\u2018lah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0627\u0639\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Mash\u00e2\u2018la",
+        "Al Mash\u0101\u2018ilah",
+        "Al Mash\u0101\u2018lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671007,
+        1092021715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":360730
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"51afb287a2b8595094953be5c2a2c311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092021715,
+            "locality_id":1310384289,
+            "region_id":85671007
+        }
+    ],
+    "wof:id":1310384289,
+    "wof:lastmodified":1537620894,
+    "wof:name":"Al Masha`lah",
+    "wof:parent_id":1092021715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71724,
+    30.81732,
+    31.71724,
+    30.81732
+],
+  "geometry": {"coordinates":[31.71724,30.81732],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292909613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94817,29.16364,30.94817,29.16364",
+    "geom:latitude":29.16364,
+    "geom:longitude":30.94817,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"`Izbat `Abd al Jawad Ahmad",
+    "gn:country_code":"EG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434758,
+    "gn:latitude":29.16364,
+    "gn:longitude":30.94817,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u2018Izbat \u2018Abd al Jaw\u0101d A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Africa/Cairo",
+    "iso:country":"EG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632581,
+        85671053,
+        1092014481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434758
+    },
+    "wof:country":"EG",
+    "wof:geomhash":"12c9ad9a2ed8701efdc88d8ca2ac3480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632581,
+            "county_id":1092014481,
+            "locality_id":1292909613,
+            "region_id":85671053
+        }
+    ],
+    "wof:id":1292909613,
+    "wof:lastmodified":1536624025,
+    "wof:name":"`Izbat `Abd al Jawad Ahmad",
+    "wof:parent_id":1092014481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-eg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94817,
+    29.16364,
+    30.94817,
+    29.16364
+],
+  "geometry": {"coordinates":[30.94817,29.16364],"type":"Point"}
+}
