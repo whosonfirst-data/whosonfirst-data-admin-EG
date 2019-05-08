@@ -10,6 +10,12 @@
     "geom:latitude":27.527725,
     "geom:longitude":30.77573,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Dayroot Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":27.520351,
     "lbl:longitude":30.774226,
     "meso:admin_1":"Assiut",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092015987,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718036,
     "wof:name":"Dayroot",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

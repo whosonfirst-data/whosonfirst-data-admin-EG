@@ -10,6 +10,12 @@
     "geom:latitude":30.052232,
     "geom:longitude":31.252342,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Mosky Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.051405,
     "lbl:longitude":31.252441,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018679,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Mosky",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

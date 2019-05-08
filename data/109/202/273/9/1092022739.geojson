@@ -10,6 +10,12 @@
     "geom:latitude":25.885627,
     "geom:longitude":32.731029,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Naqadah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":25.840252,
     "lbl:longitude":32.719792,
     "meso:admin_1":"Qena",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092022739,
-    "wof:lastmodified":1536615091,
+    "wof:lastmodified":1553718044,
     "wof:name":"Naqadah",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

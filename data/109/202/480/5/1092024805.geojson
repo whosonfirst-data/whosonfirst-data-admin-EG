@@ -10,6 +10,12 @@
     "geom:latitude":30.073811,
     "geom:longitude":31.250511,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Shobra Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.074183,
     "lbl:longitude":31.250613,
     "meso:admin_1":"Cairo",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1092024805,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718045,
     "wof:name":"Shobra",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

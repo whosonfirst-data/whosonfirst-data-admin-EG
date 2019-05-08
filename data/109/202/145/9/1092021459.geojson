@@ -10,6 +10,12 @@
     "geom:latitude":30.874313,
     "geom:longitude":30.318339,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Housh Eisa Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.845569,
     "lbl:longitude":30.31038,
     "meso:admin_1":"Behera",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092021459,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718043,
     "wof:name":"Housh Eisa",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

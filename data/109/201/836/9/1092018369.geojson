@@ -10,6 +10,12 @@
     "geom:latitude":31.196061,
     "geom:longitude":29.889006,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Mansheyah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.19619,
     "lbl:longitude":29.889088,
     "meso:admin_1":"Alexandria",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018369,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Mansheyah",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

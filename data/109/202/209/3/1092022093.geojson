@@ -10,6 +10,12 @@
     "geom:latitude":24.562918,
     "geom:longitude":34.283961,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Marsa Alam Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":24.597757,
     "lbl:longitude":34.283376,
     "meso:admin_1":"Red Sea",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092022093,
-    "wof:lastmodified":1536615090,
+    "wof:lastmodified":1553718043,
     "wof:name":"Marsa Alam",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

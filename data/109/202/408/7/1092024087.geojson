@@ -10,6 +10,12 @@
     "geom:latitude":26.509437,
     "geom:longitude":33.649608,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Safaga Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":26.531137,
     "lbl:longitude":33.659457,
     "meso:admin_1":"Red Sea",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092024087,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718046,
     "wof:name":"Safaga",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":28.283177,
     "geom:longitude":30.664059,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Samaloot Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":28.278094,
     "lbl:longitude":30.665898,
     "meso:admin_1":"Menia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092024217,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718045,
     "wof:name":"Samaloot",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

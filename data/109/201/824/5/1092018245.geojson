@@ -10,6 +10,12 @@
     "geom:latitude":31.029903,
     "geom:longitude":31.134865,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Mahallah El-Kobra Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.070553,
     "lbl:longitude":31.127031,
     "meso:admin_1":"Gharbia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018245,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Mahallah El-Kobra",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

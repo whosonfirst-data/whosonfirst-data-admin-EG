@@ -10,6 +10,12 @@
     "geom:latitude":31.287393,
     "geom:longitude":30.331298,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Edku Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.297177,
     "lbl:longitude":30.352833,
     "meso:admin_1":"Behera",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092016481,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718037,
     "wof:name":"Edku",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

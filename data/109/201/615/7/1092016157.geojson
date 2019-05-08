@@ -10,6 +10,12 @@
     "geom:latitude":26.140785,
     "geom:longitude":32.447878,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Deshna New City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "new city"
+    ],
     "lbl:latitude":26.147675,
     "lbl:longitude":32.486341,
     "meso:admin_1":"Qena",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092016157,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718035,
     "wof:name":"Deshna",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

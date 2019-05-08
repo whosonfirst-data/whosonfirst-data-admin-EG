@@ -10,6 +10,12 @@
     "geom:latitude":29.303423,
     "geom:longitude":30.908368,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Fayoum Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":29.291877,
     "lbl:longitude":30.939269,
     "meso:admin_1":"Fayoum",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092017705,
-    "wof:lastmodified":1536615085,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Fayoum",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

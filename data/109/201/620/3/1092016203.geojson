@@ -10,6 +10,12 @@
     "geom:latitude":31.162997,
     "geom:longitude":30.718588,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Desooq Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.166605,
     "lbl:longitude":30.700337,
     "meso:admin_1":"Kafr Sheikh",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092016203,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718035,
     "wof:name":"Desooq",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

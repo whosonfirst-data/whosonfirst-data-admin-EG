@@ -10,6 +10,12 @@
     "geom:latitude":29.78017,
     "geom:longitude":31.305594,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Tebeen Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":29.780798,
     "lbl:longitude":31.305939,
     "meso:admin_1":"Helwan",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020075,
-    "wof:lastmodified":1536615088,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Tebeen",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

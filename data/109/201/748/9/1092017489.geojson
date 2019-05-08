@@ -10,6 +10,12 @@
     "geom:latitude":30.040674,
     "geom:longitude":31.208173,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Dokky Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.039789,
     "lbl:longitude":31.205575,
     "meso:admin_1":"Giza",
@@ -60,7 +66,7 @@
     },
     "wof:country":"EG",
     "wof:created":1473897245,
-    "wof:geomhash":"ec561dee35563e0ea152ba27f752e937",
+    "wof:geomhash":"b39044916c06fba23030ad46baa3da87",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1092017489,
-    "wof:lastmodified":1541791498,
+    "wof:lastmodified":1553718041,
     "wof:name":"El-Dokky",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

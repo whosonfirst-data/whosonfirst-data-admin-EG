@@ -10,6 +10,12 @@
     "geom:latitude":30.101079,
     "geom:longitude":31.269688,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Zawyah El-Hamra Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.100992,
     "lbl:longitude":31.269487,
     "meso:admin_1":"Cairo",
@@ -59,7 +65,7 @@
     },
     "wof:country":"EG",
     "wof:created":1473897364,
-    "wof:geomhash":"dad9177d5750b60a2baa44deaffcf004",
+    "wof:geomhash":"1404c48cdccb037cabd23731e91df05f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020551,
-    "wof:lastmodified":1541791498,
+    "wof:lastmodified":1553718042,
     "wof:name":"El-Zawyah El-Hamra",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

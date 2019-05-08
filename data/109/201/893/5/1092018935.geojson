@@ -10,6 +10,12 @@
     "geom:latitude":30.218425,
     "geom:longitude":31.149799,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Qanater El-Khaireyah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.250985,
     "lbl:longitude":31.143709,
     "meso:admin_1":"Qaluobia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018935,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718039,
     "wof:name":"El-Qanater El-Khaireyah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

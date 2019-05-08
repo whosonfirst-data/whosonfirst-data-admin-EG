@@ -10,6 +10,12 @@
     "geom:latitude":29.969991,
     "geom:longitude":32.568632,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Suez Port Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":29.958242,
     "lbl:longitude":32.565301,
     "meso:admin_1":"Suez",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092023331,
-    "wof:lastmodified":1536615092,
+    "wof:lastmodified":1555092024,
     "wof:name":"Police staion of Suez Port",
     "wof:parent_id":85671013,
     "wof:placetype":"county",

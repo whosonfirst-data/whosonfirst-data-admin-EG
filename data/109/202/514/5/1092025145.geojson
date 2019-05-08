@@ -10,6 +10,12 @@
     "geom:latitude":30.680153,
     "geom:longitude":30.921274,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tala Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.681192,
     "lbl:longitude":30.932685,
     "meso:admin_1":"Menoufia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092025145,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1553718047,
     "wof:name":"Tala",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

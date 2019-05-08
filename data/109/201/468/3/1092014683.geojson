@@ -10,6 +10,12 @@
     "geom:latitude":29.181336,
     "geom:longitude":30.71936,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Atsa Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":29.191195,
     "lbl:longitude":30.747888,
     "meso:admin_1":"Fayoum",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092014683,
-    "wof:lastmodified":1536615082,
+    "wof:lastmodified":1553718036,
     "wof:name":"Atsa",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

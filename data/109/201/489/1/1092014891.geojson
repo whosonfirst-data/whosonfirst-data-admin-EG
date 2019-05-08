@@ -10,6 +10,12 @@
     "geom:latitude":30.95985,
     "geom:longitude":31.160757,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Awel El-Mahallah El-Kobra Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.961411,
     "lbl:longitude":31.160318,
     "meso:admin_1":"Gharbia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092014891,
-    "wof:lastmodified":1536615083,
+    "wof:lastmodified":1553718036,
     "wof:name":"Awel El-Mahallah El-Kobra",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

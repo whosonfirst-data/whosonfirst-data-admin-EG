@@ -10,6 +10,12 @@
     "geom:latitude":30.820139,
     "geom:longitude":30.980231,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tanta Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.838228,
     "lbl:longitude":30.939692,
     "meso:admin_1":"Gharbia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092025465,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1553718047,
     "wof:name":"Tanta",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

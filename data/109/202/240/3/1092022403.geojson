@@ -10,6 +10,12 @@
     "geom:latitude":30.506026,
     "geom:longitude":31.367671,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Menya El-Qamh Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.51253,
     "lbl:longitude":31.360071,
     "meso:admin_1":"Sharkia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092022403,
-    "wof:lastmodified":1536615090,
+    "wof:lastmodified":1553718043,
     "wof:name":"Menya El-Qamh",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

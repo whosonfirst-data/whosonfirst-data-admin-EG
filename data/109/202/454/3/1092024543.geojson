@@ -10,6 +10,12 @@
     "geom:latitude":30.561717,
     "geom:longitude":31.011242,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Shebeen El-Koum Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.560879,
     "lbl:longitude":31.011265,
     "meso:admin_1":"Menoufia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092024543,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718046,
     "wof:name":"Shebeen El-Koum",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

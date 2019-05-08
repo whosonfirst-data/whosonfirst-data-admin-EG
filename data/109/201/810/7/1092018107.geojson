@@ -10,6 +10,12 @@
     "geom:latitude":30.738985,
     "geom:longitude":31.563393,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Ibrahimeyah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.732788,
     "lbl:longitude":31.551111,
     "meso:admin_1":"Sharkia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018107,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718037,
     "wof:name":"El-Ibrahimeyah",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

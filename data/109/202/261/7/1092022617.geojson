@@ -10,6 +10,12 @@
     "geom:latitude":31.377521,
     "geom:longitude":30.514573,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Motobas Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.404774,
     "lbl:longitude":30.478412,
     "meso:admin_1":"Kafr Sheikh",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092022617,
-    "wof:lastmodified":1536615091,
+    "wof:lastmodified":1553718044,
     "wof:name":"Motobas",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

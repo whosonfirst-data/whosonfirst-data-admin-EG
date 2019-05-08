@@ -10,6 +10,12 @@
     "geom:latitude":30.535693,
     "geom:longitude":31.896974,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Tal El-Kebeer Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.514654,
     "lbl:longitude":31.872797,
     "meso:admin_1":"Ismailia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020039,
-    "wof:lastmodified":1536615088,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Tal El-Kebeer",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":30.059846,
     "geom:longitude":31.203534,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Agouzah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.063664,
     "lbl:longitude":31.203534,
     "meso:admin_1":"Giza",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092016545,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718037,
     "wof:name":"El-Agouzah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

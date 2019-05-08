@@ -10,6 +10,12 @@
     "geom:latitude":29.625433,
     "geom:longitude":31.294391,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Saf Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":29.621095,
     "lbl:longitude":31.298663,
     "meso:admin_1":"Helwan",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092019453,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718041,
     "wof:name":"El-Saf",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

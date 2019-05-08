@@ -10,6 +10,12 @@
     "geom:latitude":31.293465,
     "geom:longitude":32.197106,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Manakh Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.330999,
     "lbl:longitude":32.126446,
     "meso:admin_1":"Port Said",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018325,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Manakh",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

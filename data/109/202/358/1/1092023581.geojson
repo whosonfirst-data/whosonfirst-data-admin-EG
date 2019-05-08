@@ -10,6 +10,12 @@
     "geom:latitude":25.879229,
     "geom:longitude":32.781865,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Qoos Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":25.886672,
     "lbl:longitude":32.780916,
     "meso:admin_1":"Qena",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092023581,
-    "wof:lastmodified":1536615092,
+    "wof:lastmodified":1553718045,
     "wof:name":"Qoos",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

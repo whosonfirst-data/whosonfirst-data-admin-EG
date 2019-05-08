@@ -10,6 +10,12 @@
     "geom:latitude":30.341407,
     "geom:longitude":31.195795,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tookh Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.337035,
     "lbl:longitude":31.204072,
     "meso:admin_1":"Qaluobia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092025939,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1553718047,
     "wof:name":"Tookh",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

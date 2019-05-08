@@ -10,6 +10,12 @@
     "geom:latitude":29.463076,
     "geom:longitude":30.976327,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tamyah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":29.468025,
     "lbl:longitude":30.978392,
     "meso:admin_1":"Fayoum",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1092025417,
-    "wof:lastmodified":1541791495,
+    "wof:lastmodified":1553718047,
     "wof:name":"Tamyah",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

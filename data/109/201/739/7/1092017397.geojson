@@ -10,6 +10,12 @@
     "geom:latitude":31.102808,
     "geom:longitude":32.22294,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Dawahy Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.109233,
     "lbl:longitude":32.242721,
     "meso:admin_1":"Port Said",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092017397,
-    "wof:lastmodified":1536615085,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Dawahy",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

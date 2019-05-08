@@ -10,6 +10,12 @@
     "geom:latitude":31.177899,
     "geom:longitude":29.918697,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Moharam Bek Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.178661,
     "lbl:longitude":29.920237,
     "meso:admin_1":"Alexandria",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092022525,
-    "wof:lastmodified":1536615091,
+    "wof:lastmodified":1553718043,
     "wof:name":"Moharam Bek",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

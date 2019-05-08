@@ -10,6 +10,12 @@
     "geom:latitude":28.412605,
     "geom:longitude":30.716159,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Matay Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":28.407242,
     "lbl:longitude":30.723954,
     "meso:admin_1":"Menia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092022239,
-    "wof:lastmodified":1536615090,
+    "wof:lastmodified":1553718043,
     "wof:name":"Matay",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

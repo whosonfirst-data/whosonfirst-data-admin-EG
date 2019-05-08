@@ -10,6 +10,12 @@
     "geom:latitude":25.015708,
     "geom:longitude":32.828234,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Edfu Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":24.969102,
     "lbl:longitude":32.879258,
     "meso:admin_1":"Aswan",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092016437,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718036,
     "wof:name":"Edfu",
     "wof:parent_id":85671061,
     "wof:placetype":"county",

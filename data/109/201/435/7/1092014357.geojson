@@ -10,6 +10,12 @@
     "geom:latitude":26.128177,
     "geom:longitude":32.084324,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Abu Tesht Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":26.130058,
     "lbl:longitude":32.082808,
     "meso:admin_1":"Qena",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092014357,
-    "wof:lastmodified":1536615082,
+    "wof:lastmodified":1553718032,
     "wof:name":"Abu Tesht",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":27.288966,
     "geom:longitude":30.938527,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Manfalout Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":27.271641,
     "lbl:longitude":30.947172,
     "meso:admin_1":"Assiut",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092022045,
-    "wof:lastmodified":1536615090,
+    "wof:lastmodified":1553718044,
     "wof:name":"Manfalout",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

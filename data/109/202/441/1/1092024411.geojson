@@ -10,6 +10,12 @@
     "geom:latitude":30.440833,
     "geom:longitude":30.971455,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Sars El-Layanah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.440355,
     "lbl:longitude":30.970975,
     "meso:admin_1":"Menoufia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092024411,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718046,
     "wof:name":"Sars El-Layanah",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

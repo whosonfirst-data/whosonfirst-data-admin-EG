@@ -10,6 +10,12 @@
     "geom:latitude":26.30987,
     "geom:longitude":31.848807,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Gerga Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":26.318161,
     "lbl:longitude":31.834386,
     "meso:admin_1":"Sohag",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092021127,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718043,
     "wof:name":"Gerga",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":30.149408,
     "geom:longitude":32.526451,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Ganayen Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.137029,
     "lbl:longitude":32.528076,
     "meso:admin_1":"Suez",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092017827,
-    "wof:lastmodified":1536615085,
+    "wof:lastmodified":1553718041,
     "wof:name":"El-Ganayen",
     "wof:parent_id":85671013,
     "wof:placetype":"county",

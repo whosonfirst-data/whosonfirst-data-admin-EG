@@ -10,6 +10,12 @@
     "geom:latitude":26.856914,
     "geom:longitude":31.415455,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tama Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":26.861609,
     "lbl:longitude":31.423563,
     "meso:admin_1":"Sohag",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092025329,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1553718047,
     "wof:name":"Tama",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

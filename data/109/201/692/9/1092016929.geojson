@@ -10,6 +10,12 @@
     "geom:latitude":30.060072,
     "geom:longitude":31.246331,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Azbakeyah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.060042,
     "lbl:longitude":31.245522,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092016929,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Azbakeyah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

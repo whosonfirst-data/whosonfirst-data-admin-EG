@@ -10,6 +10,12 @@
     "geom:latitude":30.045099,
     "geom:longitude":31.281746,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Monshaet Naser Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.045866,
     "lbl:longitude":31.282009,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092022571,
-    "wof:lastmodified":1536615091,
+    "wof:lastmodified":1553718044,
     "wof:name":"Monshaet Naser",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

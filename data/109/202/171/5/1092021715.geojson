@@ -10,6 +10,12 @@
     "geom:latitude":30.839373,
     "geom:longitude":31.664357,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Kafr Saqr Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.838839,
     "lbl:longitude":31.675072,
     "meso:admin_1":"Sharkia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092021715,
-    "wof:lastmodified":1536615090,
+    "wof:lastmodified":1553718043,
     "wof:name":"Kafr Saqr",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

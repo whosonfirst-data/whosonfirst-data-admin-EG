@@ -10,6 +10,12 @@
     "geom:latitude":30.801736,
     "geom:longitude":30.82938,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Kafr El-Zayyat Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.777152,
     "lbl:longitude":30.836541,
     "meso:admin_1":"Gharbia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092021623,
-    "wof:lastmodified":1536615090,
+    "wof:lastmodified":1553718043,
     "wof:name":"Kafr El-Zayyat",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":30.752994,
     "geom:longitude":31.855981,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Faqoos Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.751501,
     "lbl:longitude":31.844352,
     "meso:admin_1":"Sharkia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092020833,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718042,
     "wof:name":"Faqoos",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

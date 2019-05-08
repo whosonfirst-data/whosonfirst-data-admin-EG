@@ -10,6 +10,12 @@
     "geom:latitude":31.313969,
     "geom:longitude":31.743828,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Farasko Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.304107,
     "lbl:longitude":31.736645,
     "meso:admin_1":"Domiat",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020865,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718042,
     "wof:name":"Farasko",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

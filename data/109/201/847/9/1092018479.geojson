@@ -10,6 +10,12 @@
     "geom:latitude":31.200333,
     "geom:longitude":32.01655,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Matareyah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.205855,
     "lbl:longitude":32.013756,
     "meso:admin_1":"Dakahlia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018479,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Matareyah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

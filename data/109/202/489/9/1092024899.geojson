@@ -10,6 +10,12 @@
     "geom:latitude":30.348377,
     "geom:longitude":25.94153,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Sidy Barrany Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.347656,
     "lbl:longitude":25.931851,
     "meso:admin_1":"Marsa Matrooh",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092024899,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718045,
     "wof:name":"Sidy Barrany",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

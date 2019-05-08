@@ -10,6 +10,12 @@
     "geom:latitude":31.206439,
     "geom:longitude":32.320825,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Fouad Port Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.215985,
     "lbl:longitude":32.322207,
     "meso:admin_1":"Port Said",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092021001,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718043,
     "wof:name":"Fouad Port",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

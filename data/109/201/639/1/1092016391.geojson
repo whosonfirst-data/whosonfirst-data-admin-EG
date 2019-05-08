@@ -10,6 +10,12 @@
     "geom:latitude":29.359091,
     "geom:longitude":30.620337,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Ebshoway Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":29.342637,
     "lbl:longitude":30.633827,
     "meso:admin_1":"Fayoum",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092016391,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718039,
     "wof:name":"Ebshoway",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

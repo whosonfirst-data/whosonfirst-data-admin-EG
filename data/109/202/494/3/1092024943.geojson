@@ -10,6 +10,12 @@
     "geom:latitude":31.203111,
     "geom:longitude":29.945223,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Sidy Gaber Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.199463,
     "lbl:longitude":29.947484,
     "meso:admin_1":"Alexandria",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092024943,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718046,
     "wof:name":"Sidy Gaber",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

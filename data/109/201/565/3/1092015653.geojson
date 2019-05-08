@@ -10,6 +10,12 @@
     "geom:latitude":30.64787,
     "geom:longitude":31.089353,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Berket El-Sab' Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.636226,
     "lbl:longitude":31.09569,
     "meso:admin_1":"Menoufia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092015653,
-    "wof:lastmodified":1536615083,
+    "wof:lastmodified":1553718036,
     "wof:name":"Berket El-Sab'",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":30.893316,
     "geom:longitude":29.536286,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Borg El-Arab Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.887286,
     "lbl:longitude":29.539041,
     "meso:admin_1":"Alexandria",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092015739,
-    "wof:lastmodified":1536615083,
+    "wof:lastmodified":1553718035,
     "wof:name":"Borg El-Arab",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

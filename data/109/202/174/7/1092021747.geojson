@@ -10,6 +10,12 @@
     "geom:latitude":30.555969,
     "geom:longitude":31.277611,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Kafr Shokr Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.558232,
     "lbl:longitude":31.278588,
     "meso:admin_1":"Qaluobia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092021747,
-    "wof:lastmodified":1536615090,
+    "wof:lastmodified":1553718043,
     "wof:name":"Kafr Shokr",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

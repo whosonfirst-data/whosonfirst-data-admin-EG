@@ -10,6 +10,12 @@
     "geom:latitude":29.975625,
     "geom:longitude":34.00309,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Nakhl Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":29.981944,
     "lbl:longitude":34.10736,
     "meso:admin_1":"North Sinai",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092022697,
-    "wof:lastmodified":1536615091,
+    "wof:lastmodified":1553718044,
     "wof:name":"Nakhl",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

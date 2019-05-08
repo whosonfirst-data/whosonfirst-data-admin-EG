@@ -10,6 +10,12 @@
     "geom:latitude":30.042426,
     "geom:longitude":31.258862,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Darb El-Ahmar Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.043259,
     "lbl:longitude":31.257908,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092017359,
-    "wof:lastmodified":1536615085,
+    "wof:lastmodified":1553718039,
     "wof:name":"El-Darb El-Ahmar",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

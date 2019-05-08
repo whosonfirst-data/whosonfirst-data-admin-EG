@@ -10,6 +10,12 @@
     "geom:latitude":27.025213,
     "geom:longitude":31.280538,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Abu Teeg Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":27.019936,
     "lbl:longitude":31.275813,
     "meso:admin_1":"Assiut",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092014313,
-    "wof:lastmodified":1536615082,
+    "wof:lastmodified":1553718030,
     "wof:name":"Abu Teeg",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

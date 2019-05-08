@@ -10,6 +10,12 @@
     "geom:latitude":28.939043,
     "geom:longitude":30.850377,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Samasta Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":28.952515,
     "lbl:longitude":30.855201,
     "meso:admin_1":"Bani Swif",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092024299,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718045,
     "wof:name":"Samasta",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

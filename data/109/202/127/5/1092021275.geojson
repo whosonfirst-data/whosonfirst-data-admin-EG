@@ -10,6 +10,12 @@
     "geom:latitude":30.090817,
     "geom:longitude":31.281813,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Hadayeq El-Qobbah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.090165,
     "lbl:longitude":31.283202,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092021275,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718043,
     "wof:name":"Hadayeq El-Qobbah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":24.518759,
     "geom:longitude":33.008547,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Nasr Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":24.581018,
     "lbl:longitude":32.979249,
     "meso:admin_1":"Aswan",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092022867,
-    "wof:lastmodified":1536615091,
+    "wof:lastmodified":1553718044,
     "wof:name":"Nasr",
     "wof:parent_id":85671061,
     "wof:placetype":"county",

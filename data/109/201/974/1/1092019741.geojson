@@ -10,6 +10,12 @@
     "geom:latitude":30.880406,
     "geom:longitude":31.488339,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Senbelawein Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.888338,
     "lbl:longitude":31.461076,
     "meso:admin_1":"Dakahlia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092019741,
-    "wof:lastmodified":1536615088,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Senbelawein",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

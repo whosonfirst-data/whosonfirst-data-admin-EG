@@ -10,6 +10,12 @@
     "geom:latitude":31.320672,
     "geom:longitude":30.925639,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Reyad Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.354912,
     "lbl:longitude":30.904597,
     "meso:admin_1":"Kafr Sheikh",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092019361,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718039,
     "wof:name":"El-Reyad",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

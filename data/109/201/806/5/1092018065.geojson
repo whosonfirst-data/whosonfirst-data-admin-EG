@@ -10,6 +10,12 @@
     "geom:latitude":29.903596,
     "geom:longitude":31.25964,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Hawamdeyah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":29.904447,
     "lbl:longitude":31.261738,
     "meso:admin_1":"6th of October",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018065,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718037,
     "wof:name":"El-Hawamdeyah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

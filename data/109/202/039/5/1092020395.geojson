@@ -10,6 +10,12 @@
     "geom:latitude":29.300167,
     "geom:longitude":31.1614,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Wasty Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":29.290123,
     "lbl:longitude":31.162852,
     "meso:admin_1":"Bani Swif",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020395,
-    "wof:lastmodified":1536615088,
+    "wof:lastmodified":1553718042,
     "wof:name":"El-Wasty",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

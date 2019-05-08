@@ -10,6 +10,12 @@
     "geom:latitude":27.929599,
     "geom:longitude":30.769992,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Abu Qorqas Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":27.925517,
     "lbl:longitude":30.788382,
     "meso:admin_1":"Menia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092014221,
-    "wof:lastmodified":1536615082,
+    "wof:lastmodified":1553718031,
     "wof:name":"Abu Qorqas",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

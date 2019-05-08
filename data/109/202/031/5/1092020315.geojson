@@ -10,6 +10,12 @@
     "geom:latitude":26.089199,
     "geom:longitude":32.447891,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Waqf Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":26.092324,
     "lbl:longitude":32.449403,
     "meso:admin_1":"Qena",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020315,
-    "wof:lastmodified":1536615088,
+    "wof:lastmodified":1553718041,
     "wof:name":"El-Waqf",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

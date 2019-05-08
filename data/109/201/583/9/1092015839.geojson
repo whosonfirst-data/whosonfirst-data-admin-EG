@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":2950664.617365,
+    "geom:area_square_m":2950664.617362,
     "geom:bbox":"31.224909917,30.049746,31.24337,30.0762985474",
     "geom:latitude":30.062133,
     "geom:longitude":31.232214,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Boulaq Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.062508,
     "lbl:longitude":31.232354,
     "meso:admin_1":"Cairo",
@@ -59,7 +65,7 @@
     },
     "wof:country":"EG",
     "wof:created":1473897187,
-    "wof:geomhash":"07dfb15d32752c456ec0f8628589a7e2",
+    "wof:geomhash":"6fe865c17c64c546156b5ff2ac160d87",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092015839,
-    "wof:lastmodified":1541791498,
+    "wof:lastmodified":1553718040,
     "wof:name":"Boulaq",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

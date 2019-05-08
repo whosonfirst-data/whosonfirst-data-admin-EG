@@ -10,6 +10,12 @@
     "geom:latitude":30.420252,
     "geom:longitude":31.056637,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Bagoor Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.420664,
     "lbl:longitude":31.046141,
     "meso:admin_1":"Menoufia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092017065,
-    "wof:lastmodified":1536615085,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Bagoor",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

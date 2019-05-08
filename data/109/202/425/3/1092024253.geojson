@@ -10,6 +10,12 @@
     "geom:latitude":30.962724,
     "geom:longitude":31.241548,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Samanoud Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.013372,
     "lbl:longitude":31.269105,
     "meso:admin_1":"Gharbia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092024253,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718045,
     "wof:name":"Samanoud",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

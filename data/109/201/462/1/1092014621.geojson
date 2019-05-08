@@ -10,6 +10,12 @@
     "geom:latitude":30.302495,
     "geom:longitude":30.993887,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Ashmoon Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.274336,
     "lbl:longitude":31.028506,
     "meso:admin_1":"Menoufia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092014621,
-    "wof:lastmodified":1536615082,
+    "wof:lastmodified":1553718035,
     "wof:name":"Ashmoon",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

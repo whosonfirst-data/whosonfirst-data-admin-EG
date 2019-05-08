@@ -10,6 +10,12 @@
     "geom:latitude":31.043659,
     "geom:longitude":31.475518,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Mansourah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.038018,
     "lbl:longitude":31.490373,
     "meso:admin_1":"Dakahlia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018395,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718041,
     "wof:name":"El-Mansourah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

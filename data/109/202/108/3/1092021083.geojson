@@ -10,6 +10,12 @@
     "geom:latitude":26.33965,
     "geom:longitude":31.884702,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Gerga City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":26.336856,
     "lbl:longitude":31.886048,
     "meso:admin_1":"Sohag",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092021083,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1555092024,
     "wof:name":"Gerga City",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

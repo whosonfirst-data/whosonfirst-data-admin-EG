@@ -10,6 +10,12 @@
     "geom:latitude":28.083561,
     "geom:longitude":30.705901,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Menya Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":28.076932,
     "lbl:longitude":30.704177,
     "meso:admin_1":"Menia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018557,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Menya",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

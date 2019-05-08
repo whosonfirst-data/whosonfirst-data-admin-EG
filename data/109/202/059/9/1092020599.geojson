@@ -10,6 +10,12 @@
     "geom:latitude":30.104348,
     "geom:longitude":31.302853,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Zaytoon Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.103678,
     "lbl:longitude":31.303165,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020599,
-    "wof:lastmodified":1536615088,
+    "wof:lastmodified":1553718042,
     "wof:name":"El-Zaytoon",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":30.027488,
     "geom:longitude":31.187715,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Boulaq El-Dakroor Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.023748,
     "lbl:longitude":31.189319,
     "meso:admin_1":"Giza",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092015787,
-    "wof:lastmodified":1536615083,
+    "wof:lastmodified":1553718036,
     "wof:name":"Boulaq El-Dakroor",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

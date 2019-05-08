@@ -10,6 +10,12 @@
     "geom:latitude":29.993369,
     "geom:longitude":31.180647,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Omraneyah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":29.99115,
     "lbl:longitude":31.18003,
     "meso:admin_1":"Giza",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018891,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718039,
     "wof:name":"El-Omraneyah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":30.007993,
     "geom:longitude":28.089028,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Dab'ah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.01652,
     "lbl:longitude":28.079876,
     "meso:admin_1":"Marsa Matrooh",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092017227,
-    "wof:lastmodified":1536615085,
+    "wof:lastmodified":1553718039,
     "wof:name":"El-Dab'ah",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

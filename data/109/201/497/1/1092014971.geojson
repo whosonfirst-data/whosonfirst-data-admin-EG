@@ -10,6 +10,12 @@
     "geom:latitude":30.593069,
     "geom:longitude":31.505801,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Awel El-Zaqazeeq Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.599396,
     "lbl:longitude":31.500871,
     "meso:admin_1":"Sharkia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092014971,
-    "wof:lastmodified":1536615083,
+    "wof:lastmodified":1553718037,
     "wof:name":"Awel El-Zaqazeeq",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

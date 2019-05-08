@@ -10,6 +10,12 @@
     "geom:latitude":31.226457,
     "geom:longitude":30.579152,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Fowah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.228495,
     "lbl:longitude":30.572046,
     "meso:admin_1":"Kafr Sheikh",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092021045,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718043,
     "wof:name":"Fowah",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

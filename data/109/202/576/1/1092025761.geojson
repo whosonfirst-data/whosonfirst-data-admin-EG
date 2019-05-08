@@ -10,6 +10,12 @@
     "geom:latitude":30.046346,
     "geom:longitude":31.313662,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tany Nasr City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.057311,
     "lbl:longitude":31.309136,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092025761,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1555092024,
     "wof:name":"Tany Nasr City",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

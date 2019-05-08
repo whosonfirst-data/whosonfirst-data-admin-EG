@@ -10,6 +10,12 @@
     "geom:latitude":30.596605,
     "geom:longitude":32.280793,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Awel El-Esmailiah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.593356,
     "lbl:longitude":32.299374,
     "meso:admin_1":"Ismailia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092014845,
-    "wof:lastmodified":1536615083,
+    "wof:lastmodified":1553718039,
     "wof:name":"Awel El-Esmailiah",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

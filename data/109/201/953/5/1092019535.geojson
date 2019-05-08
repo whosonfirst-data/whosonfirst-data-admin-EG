@@ -10,6 +10,12 @@
     "geom:latitude":30.167781,
     "geom:longitude":31.415219,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Salam Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.170658,
     "lbl:longitude":31.420465,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092019535,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718039,
     "wof:name":"El-Salam",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

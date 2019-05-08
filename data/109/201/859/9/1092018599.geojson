@@ -10,6 +10,12 @@
     "geom:latitude":26.44031,
     "geom:longitude":31.772766,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Monshaeh Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":26.434696,
     "lbl:longitude":31.758885,
     "meso:admin_1":"Sohag",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018599,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Monshaeh",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

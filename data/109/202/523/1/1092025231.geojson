@@ -10,6 +10,12 @@
     "geom:latitude":30.612599,
     "geom:longitude":32.283719,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Talet El-Esmailiah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.610346,
     "lbl:longitude":32.285631,
     "meso:admin_1":"Ismailia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092025231,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1553718046,
     "wof:name":"Talet El-Esmailiah",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

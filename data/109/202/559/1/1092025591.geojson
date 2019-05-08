@@ -10,6 +10,12 @@
     "geom:latitude":30.622371,
     "geom:longitude":32.277254,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tany El-Esmailiah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.603972,
     "lbl:longitude":32.261472,
     "meso:admin_1":"Ismailia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092025591,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1553718046,
     "wof:name":"Tany El-Esmailiah",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

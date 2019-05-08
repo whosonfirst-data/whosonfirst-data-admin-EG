@@ -10,6 +10,12 @@
     "geom:latitude":30.598084,
     "geom:longitude":30.864176,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Shohada Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.59651,
     "lbl:longitude":30.876804,
     "meso:admin_1":"Menoufia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092019949,
-    "wof:lastmodified":1536615088,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Shohada",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

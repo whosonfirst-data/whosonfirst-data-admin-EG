@@ -10,6 +10,12 @@
     "geom:latitude":31.081417,
     "geom:longitude":31.67273,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Dokornos Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.048848,
     "lbl:longitude":31.657463,
     "meso:admin_1":"Dakahlia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092016227,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718036,
     "wof:name":"Dokornos",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

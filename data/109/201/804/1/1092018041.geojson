@@ -10,6 +10,12 @@
     "geom:latitude":30.524266,
     "geom:longitude":33.535633,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Hasanah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.528831,
     "lbl:longitude":33.447305,
     "meso:admin_1":"North Sinai",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018041,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718037,
     "wof:name":"El-Hasanah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

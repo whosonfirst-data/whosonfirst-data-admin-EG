@@ -10,6 +10,12 @@
     "geom:latitude":30.379333,
     "geom:longitude":32.328471,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Fayed Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.428185,
     "lbl:longitude":32.328481,
     "meso:admin_1":"Ismailia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020945,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718042,
     "wof:name":"Fayed",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

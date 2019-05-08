@@ -10,6 +10,12 @@
     "geom:latitude":30.954593,
     "geom:longitude":30.829974,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Basyoun Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.949481,
     "lbl:longitude":30.836315,
     "meso:admin_1":"Gharbia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092015375,
-    "wof:lastmodified":1536615083,
+    "wof:lastmodified":1553718036,
     "wof:name":"Basyoun",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

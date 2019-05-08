@@ -10,6 +10,12 @@
     "geom:latitude":31.07052,
     "geom:longitude":32.414037,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Mubarak - Sharq at-Tafri'tah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.064697,
     "lbl:longitude":32.41623,
     "meso:admin_1":"Port Said",
@@ -69,8 +75,8 @@
         }
     ],
     "wof:id":1092023075,
-    "wof:lastmodified":1536615092,
-    "wof:name":"",
+    "wof:lastmodified":1555092024,
+    "wof:name":"Mubarak - Sharq at-Tafri'tah",
     "wof:parent_id":85671021,
     "wof:placetype":"county",
     "wof:placetype_local":"kism",

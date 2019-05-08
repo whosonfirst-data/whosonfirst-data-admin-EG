@@ -10,6 +10,12 @@
     "geom:latitude":29.940141,
     "geom:longitude":31.303819,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Torah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":29.938962,
     "lbl:longitude":31.307228,
     "meso:admin_1":"Helwan",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092025987,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1553718047,
     "wof:name":"Torah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

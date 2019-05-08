@@ -10,6 +10,12 @@
     "geom:latitude":29.980556,
     "geom:longitude":31.257976,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Basateen Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":29.9806,
     "lbl:longitude":31.263665,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092017101,
-    "wof:lastmodified":1536615085,
+    "wof:lastmodified":1553718041,
     "wof:name":"El-Basateen",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

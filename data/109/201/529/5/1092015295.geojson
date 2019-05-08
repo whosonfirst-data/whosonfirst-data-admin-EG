@@ -10,6 +10,12 @@
     "geom:latitude":28.5052,
     "geom:longitude":30.751507,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Bany Mazar Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":28.502609,
     "lbl:longitude":30.724553,
     "meso:admin_1":"Menia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092015295,
-    "wof:lastmodified":1536615083,
+    "wof:lastmodified":1553718035,
     "wof:name":"Bany Mazar",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":30.538725,
     "geom:longitude":32.196912,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Esmailiah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.542746,
     "lbl:longitude":32.185827,
     "meso:admin_1":"Ismailia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092017535,
-    "wof:lastmodified":1536615085,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Esmailiah",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

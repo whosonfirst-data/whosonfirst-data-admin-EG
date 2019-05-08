@@ -10,6 +10,12 @@
     "geom:latitude":31.440419,
     "geom:longitude":31.706088,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Domiat El-Gedidah City Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.441609,
     "lbl:longitude":31.706096,
     "meso:admin_1":"Domiat",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092016271,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718036,
     "wof:name":"Domiat El-Gedidah City",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

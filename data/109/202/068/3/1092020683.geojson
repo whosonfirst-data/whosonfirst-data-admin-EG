@@ -10,6 +10,12 @@
     "geom:latitude":30.078633,
     "geom:longitude":31.20647,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Embabah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.079269,
     "lbl:longitude":31.210726,
     "meso:admin_1":"Giza",
@@ -60,7 +66,7 @@
     },
     "wof:country":"EG",
     "wof:created":1473897369,
-    "wof:geomhash":"f276b8d533fd4eb694e981057d3d1529",
+    "wof:geomhash":"1f2c1823ad1830f237fb09b247b2388a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1092020683,
-    "wof:lastmodified":1541791498,
+    "wof:lastmodified":1553718042,
     "wof:name":"Embabah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

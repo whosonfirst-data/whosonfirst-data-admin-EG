@@ -10,6 +10,12 @@
     "geom:latitude":31.11304,
     "geom:longitude":30.095811,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Kafr El-Dawwar Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.119484,
     "lbl:longitude":30.110842,
     "meso:admin_1":"Behera",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092021541,
-    "wof:lastmodified":1536615090,
+    "wof:lastmodified":1553718043,
     "wof:name":"Kafr El-Dawwar",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

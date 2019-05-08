@@ -10,6 +10,12 @@
     "geom:latitude":30.779407,
     "geom:longitude":30.999012,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tany Tanta Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.777781,
     "lbl:longitude":30.999559,
     "meso:admin_1":"Gharbia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092025893,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1553718047,
     "wof:name":"Tany Tanta",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

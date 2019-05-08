@@ -10,6 +10,12 @@
     "geom:latitude":30.13822,
     "geom:longitude":31.282289,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tany Shobra El-Kheimah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.141718,
     "lbl:longitude":31.280198,
     "meso:admin_1":"Qaluobia",
@@ -60,7 +66,7 @@
     },
     "wof:country":"EG",
     "wof:created":1473897556,
-    "wof:geomhash":"6ba698439983e839b628fbed83679fa6",
+    "wof:geomhash":"97d967fc165eb25cfa1a08f095d2a652",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1092025807,
-    "wof:lastmodified":1541791497,
+    "wof:lastmodified":1553718047,
     "wof:name":"Tany Shobra El-Kheimah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",
@@ -85,7 +91,7 @@
 },
   "bbox": [
     31.26066,
-    30.109058999330873,
+    30.10905899933087,
     31.312182,
     30.161813
 ],

@@ -10,6 +10,12 @@
     "geom:latitude":30.977627,
     "geom:longitude":31.786194,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Awlad Saqr Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.981639,
     "lbl:longitude":31.784097,
     "meso:admin_1":"Sharkia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092015105,
-    "wof:lastmodified":1536615083,
+    "wof:lastmodified":1553718035,
     "wof:name":"Awlad Saqr",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":30.622642,
     "geom:longitude":31.747594,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Qareen Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.623298,
     "lbl:longitude":31.748172,
     "meso:admin_1":"Sharkia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092019105,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Qareen",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

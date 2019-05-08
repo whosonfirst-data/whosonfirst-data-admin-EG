@@ -10,6 +10,12 @@
     "geom:latitude":29.418256,
     "geom:longitude":30.824495,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Senorus Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":29.418099,
     "lbl:longitude":30.824494,
     "meso:admin_1":"Fayoum",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092024457,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718046,
     "wof:name":"Senorus",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

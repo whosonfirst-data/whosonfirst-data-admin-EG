@@ -10,6 +10,12 @@
     "geom:latitude":30.756638,
     "geom:longitude":32.244893,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Qantarah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.756927,
     "lbl:longitude":32.244883,
     "meso:admin_1":"Ismailia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092019071,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Qantarah",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

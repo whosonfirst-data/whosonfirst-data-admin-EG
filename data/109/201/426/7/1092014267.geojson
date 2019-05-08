@@ -10,6 +10,12 @@
     "geom:latitude":28.740967,
     "geom:longitude":33.489884,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Abu Redeis Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":28.718511,
     "lbl:longitude":33.493902,
     "meso:admin_1":"South Sinai",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092014267,
-    "wof:lastmodified":1536615082,
+    "wof:lastmodified":1553718030,
     "wof:name":"Abu Redeis",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

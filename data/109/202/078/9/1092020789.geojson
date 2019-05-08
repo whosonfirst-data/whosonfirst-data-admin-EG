@@ -10,6 +10,12 @@
     "geom:latitude":26.000577,
     "geom:longitude":32.812271,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Faqat Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":26.001954,
     "lbl:longitude":32.807946,
     "meso:admin_1":"Qena",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092020789,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718042,
     "wof:name":"Faqat",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

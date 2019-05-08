@@ -10,6 +10,12 @@
     "geom:latitude":31.118514,
     "geom:longitude":34.240827,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Rafah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.103734,
     "lbl:longitude":34.248869,
     "meso:admin_1":"North Sinai",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092023763,
-    "wof:lastmodified":1536615092,
+    "wof:lastmodified":1553718045,
     "wof:name":"Rafah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

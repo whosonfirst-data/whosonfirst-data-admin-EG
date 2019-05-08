@@ -10,6 +10,12 @@
     "geom:latitude":27.064223,
     "geom:longitude":31.343017,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Sahel Seleem Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":27.057802,
     "lbl:longitude":31.342027,
     "meso:admin_1":"Assiut",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092024123,
-    "wof:lastmodified":1536615093,
+    "wof:lastmodified":1553718045,
     "wof:name":"Sahel Seleem",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

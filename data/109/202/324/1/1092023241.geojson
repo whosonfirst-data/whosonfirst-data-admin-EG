@@ -10,6 +10,12 @@
     "geom:latitude":29.273866,
     "geom:longitude":34.411174,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Noweiba' Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":29.298729,
     "lbl:longitude":34.46178,
     "meso:admin_1":"South Sinai",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092023241,
-    "wof:lastmodified":1536615092,
+    "wof:lastmodified":1553718045,
     "wof:name":"Noweiba'",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

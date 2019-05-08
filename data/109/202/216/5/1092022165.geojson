@@ -10,6 +10,12 @@
     "geom:latitude":30.374697,
     "geom:longitude":31.378658,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Mashtool El-Sooq Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.367092,
     "lbl:longitude":31.377924,
     "meso:admin_1":"Sharkia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092022165,
-    "wof:lastmodified":1536615090,
+    "wof:lastmodified":1553718043,
     "wof:name":"Mashtool El-Sooq",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

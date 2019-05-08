@@ -10,6 +10,12 @@
     "geom:latitude":27.636314,
     "geom:longitude":30.781715,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Deir Mowas Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":27.631482,
     "lbl:longitude":30.814542,
     "meso:admin_1":"Menia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092016033,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718036,
     "wof:name":"Deir Mowas",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

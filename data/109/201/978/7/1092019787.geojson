@@ -10,6 +10,12 @@
     "geom:latitude":22.931636,
     "geom:longitude":34.719853,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Shalateen Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":23.031119,
     "lbl:longitude":34.578488,
     "meso:admin_1":"Red Sea",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092019787,
-    "wof:lastmodified":1536615088,
+    "wof:lastmodified":1553718041,
     "wof:name":"El-Shalateen",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

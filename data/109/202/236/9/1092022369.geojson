@@ -10,6 +10,12 @@
     "geom:latitude":30.460979,
     "geom:longitude":30.912992,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Menoof Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.471625,
     "lbl:longitude":30.9024,
     "meso:admin_1":"Menoufia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092022369,
-    "wof:lastmodified":1536615090,
+    "wof:lastmodified":1553718044,
     "wof:name":"Menoof",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":30.954459,
     "geom:longitude":31.594581,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tamy El-Amdeed Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.952781,
     "lbl:longitude":31.601993,
     "meso:admin_1":"Dakahlia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092025381,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1553718047,
     "wof:name":"Tamy El-Amdeed",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

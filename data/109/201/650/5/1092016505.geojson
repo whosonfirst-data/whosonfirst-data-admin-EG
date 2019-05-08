@@ -10,6 +10,12 @@
     "geom:latitude":28.689577,
     "geom:longitude":30.738757,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Adwah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":28.694904,
     "lbl:longitude":30.746767,
     "meso:admin_1":"Menia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092016505,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718037,
     "wof:name":"El-Adwah",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

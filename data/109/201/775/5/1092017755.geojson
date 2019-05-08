@@ -10,6 +10,12 @@
     "geom:latitude":30.052868,
     "geom:longitude":31.266264,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Gamaleyah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.051726,
     "lbl:longitude":31.266429,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092017755,
-    "wof:lastmodified":1536615085,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Gamaleyah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

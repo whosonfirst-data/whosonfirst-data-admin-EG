@@ -10,6 +10,12 @@
     "geom:latitude":30.114816,
     "geom:longitude":31.365242,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Nozhah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.115319,
     "lbl:longitude":31.36135,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018795,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Nozhah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

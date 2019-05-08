@@ -10,6 +10,12 @@
     "geom:latitude":27.39727,
     "geom:longitude":30.807666,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Qoweisah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":27.391986,
     "lbl:longitude":30.801515,
     "meso:admin_1":"Assiut",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092019229,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Qoweisah",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

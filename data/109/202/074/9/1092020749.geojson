@@ -10,6 +10,12 @@
     "geom:latitude":30.884829,
     "geom:longitude":30.66173,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Etay El-Barood Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":30.884715,
     "lbl:longitude":30.650605,
     "meso:admin_1":"Behera",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020749,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718042,
     "wof:name":"Etay El-Barood",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

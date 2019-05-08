@@ -10,6 +10,12 @@
     "geom:latitude":30.520818,
     "geom:longitude":32.381917,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Qantarah Sharq Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.53938,
     "lbl:longitude":32.352511,
     "meso:admin_1":"Ismailia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092019027,
-    "wof:lastmodified":1536615087,
+    "wof:lastmodified":1553718039,
     "wof:name":"El-Qantarah Sharq",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

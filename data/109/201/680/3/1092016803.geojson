@@ -10,6 +10,12 @@
     "geom:latitude":29.981265,
     "geom:longitude":32.519101,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Arbe'in Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":29.977865,
     "lbl:longitude":32.522387,
     "meso:admin_1":"Suez",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092016803,
-    "wof:lastmodified":1536615084,
+    "wof:lastmodified":1553718037,
     "wof:name":"El-Arbe'in",
     "wof:parent_id":85671013,
     "wof:placetype":"county",

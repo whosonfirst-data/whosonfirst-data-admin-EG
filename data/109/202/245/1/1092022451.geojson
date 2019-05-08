@@ -10,6 +10,12 @@
     "geom:latitude":31.1653,
     "geom:longitude":31.709644,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Menyet El-Nasr Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":31.170338,
     "lbl:longitude":31.692729,
     "meso:admin_1":"Dakahlia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092022451,
-    "wof:lastmodified":1536615091,
+    "wof:lastmodified":1553718044,
     "wof:name":"Menyet El-Nasr",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

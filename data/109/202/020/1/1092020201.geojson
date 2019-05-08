@@ -10,6 +10,12 @@
     "geom:latitude":24.153939,
     "geom:longitude":27.455035,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Wahat El-Dakhlah Markaz"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "markaz"
+    ],
     "lbl:latitude":24.14366,
     "lbl:longitude":27.455545,
     "meso:admin_1":"New Valley",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020201,
-    "wof:lastmodified":1536615088,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Wahat El-Dakhlah",
     "wof:parent_id":85671071,
     "wof:placetype":"county",

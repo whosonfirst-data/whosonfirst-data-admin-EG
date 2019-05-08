@@ -10,6 +10,12 @@
     "geom:latitude":30.048384,
     "geom:longitude":32.492731,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Feisal Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.045786,
     "lbl:longitude":32.48936,
     "meso:admin_1":"Suez",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020979,
-    "wof:lastmodified":1536615089,
+    "wof:lastmodified":1553718042,
     "wof:name":"Feisal",
     "wof:parent_id":85671013,
     "wof:placetype":"county",

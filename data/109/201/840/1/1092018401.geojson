@@ -10,6 +10,12 @@
     "geom:latitude":30.151653,
     "geom:longitude":31.345717,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Marg Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.153873,
     "lbl:longitude":31.342566,
     "meso:admin_1":"Cairo",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092018401,
-    "wof:lastmodified":1536615086,
+    "wof:lastmodified":1553718038,
     "wof:name":"El-Marg",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

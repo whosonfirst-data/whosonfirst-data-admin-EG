@@ -10,6 +10,12 @@
     "geom:latitude":30.987505,
     "geom:longitude":31.161307,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Tany El-Mahallah El-Kobra Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.985372,
     "lbl:longitude":31.160863,
     "meso:admin_1":"Gharbia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092025637,
-    "wof:lastmodified":1536615094,
+    "wof:lastmodified":1553718047,
     "wof:name":"Tany El-Mahallah El-Kobra",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

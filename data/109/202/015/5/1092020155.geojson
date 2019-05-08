@@ -10,6 +10,12 @@
     "geom:latitude":28.442395,
     "geom:longitude":28.856477,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "El-Wahat El-Bahareyah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":28.407211,
     "lbl:longitude":28.805362,
     "meso:admin_1":"6th of October",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1092020155,
-    "wof:lastmodified":1536615088,
+    "wof:lastmodified":1553718040,
     "wof:name":"El-Wahat El-Bahareyah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

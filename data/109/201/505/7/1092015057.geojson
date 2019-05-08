@@ -10,6 +10,12 @@
     "geom:latitude":30.802032,
     "geom:longitude":31.002561,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Awel Tanta Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.802168,
     "lbl:longitude":31.004494,
     "meso:admin_1":"Gharbia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092015057,
-    "wof:lastmodified":1536615083,
+    "wof:lastmodified":1553718036,
     "wof:name":"Awel Tanta",
     "wof:parent_id":85670985,
     "wof:placetype":"county",
