@@ -10,6 +10,15 @@
     "geom:latitude":30.059846,
     "geom:longitude":31.203534,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "El-Agouzah Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "El-Agouzah Kism"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092016545,
-    "wof:lastmodified":1553718037,
+    "wof:lastmodified":1560969125,
     "wof:name":"El-Agouzah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

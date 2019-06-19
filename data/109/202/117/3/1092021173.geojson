@@ -10,11 +10,20 @@
     "geom:latitude":29.943031,
     "geom:longitude":31.208916,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Giza Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "Giza Kism"
+        "Giza District"
     ],
     "label:eng_x_preferred_placetype":[
-        "kism"
+        "district"
     ],
     "lbl:latitude":29.943336,
     "lbl:longitude":31.208916,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092021173,
-    "wof:lastmodified":1553718043,
+    "wof:lastmodified":1560969117,
     "wof:name":"Giza",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

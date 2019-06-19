@@ -10,6 +10,15 @@
     "geom:latitude":30.13822,
     "geom:longitude":31.282289,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Tany Shobra El-Kheimah Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Tany Shobra El-Kheimah Kism"
     ],
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1092025807,
-    "wof:lastmodified":1553718047,
+    "wof:lastmodified":1560969117,
     "wof:name":"Tany Shobra El-Kheimah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

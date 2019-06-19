@@ -10,11 +10,20 @@
     "geom:latitude":31.178652,
     "geom:longitude":30.500119,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "El-Mahmoudeyah Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "El-Mahmoudeyah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":31.168011,
     "lbl:longitude":30.485611,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092018277,
-    "wof:lastmodified":1553718038,
+    "wof:lastmodified":1560969121,
     "wof:name":"El-Mahmoudeyah",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

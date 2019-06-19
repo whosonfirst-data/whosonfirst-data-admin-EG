@@ -10,11 +10,20 @@
     "geom:latitude":24.153939,
     "geom:longitude":27.455035,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "El-Wahat El-Dakhlah Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "El-Wahat El-Dakhlah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":24.14366,
     "lbl:longitude":27.455545,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092020201,
-    "wof:lastmodified":1553718040,
+    "wof:lastmodified":1560969118,
     "wof:name":"El-Wahat El-Dakhlah",
     "wof:parent_id":85671071,
     "wof:placetype":"county",

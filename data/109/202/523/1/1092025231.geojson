@@ -10,6 +10,15 @@
     "geom:latitude":30.612599,
     "geom:longitude":32.283719,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Talet El-Esmailiah Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Talet El-Esmailiah Kism"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092025231,
-    "wof:lastmodified":1553718046,
+    "wof:lastmodified":1560969120,
     "wof:name":"Talet El-Esmailiah",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

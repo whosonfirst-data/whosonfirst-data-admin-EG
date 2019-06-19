@@ -10,6 +10,21 @@
     "geom:latitude":31.183494,
     "geom:longitude":29.887399,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "El-Labban Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
+    "label:eng_x_preferred_longname":[
+        "El-Labban Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.18336,
     "lbl:longitude":29.886286,
     "meso:admin_1":"Alexandria",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1092018161,
-    "wof:lastmodified":1555047464,
+    "wof:lastmodified":1560969121,
     "wof:name":"El-Labban",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

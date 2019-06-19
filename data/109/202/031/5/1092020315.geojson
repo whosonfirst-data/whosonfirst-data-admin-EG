@@ -10,11 +10,20 @@
     "geom:latitude":26.089199,
     "geom:longitude":32.447891,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "El-Waqf Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "El-Waqf District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":26.092324,
     "lbl:longitude":32.449403,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092020315,
-    "wof:lastmodified":1553718041,
+    "wof:lastmodified":1560969116,
     "wof:name":"El-Waqf",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

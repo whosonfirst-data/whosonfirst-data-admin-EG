@@ -10,6 +10,15 @@
     "geom:latitude":30.045099,
     "geom:longitude":31.281746,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Monshaet Naser Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Monshaet Naser Kism"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092022571,
-    "wof:lastmodified":1553718044,
+    "wof:lastmodified":1560969116,
     "wof:name":"Monshaet Naser",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

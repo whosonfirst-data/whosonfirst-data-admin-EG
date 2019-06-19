@@ -10,6 +10,15 @@
     "geom:latitude":30.893316,
     "geom:longitude":29.536286,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Borg El-Arab Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Borg El-Arab Kism"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092015739,
-    "wof:lastmodified":1553718035,
+    "wof:lastmodified":1560969123,
     "wof:name":"Borg El-Arab",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

@@ -10,11 +10,20 @@
     "geom:latitude":30.499252,
     "geom:longitude":25.194534,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "El-Saloom Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "El-Saloom Kism"
+        "El-Saloom District"
     ],
     "label:eng_x_preferred_placetype":[
-        "kism"
+        "district"
     ],
     "lbl:latitude":30.177982,
     "lbl:longitude":25.140316,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092019621,
-    "wof:lastmodified":1553718039,
+    "wof:lastmodified":1560969121,
     "wof:name":"El-Saloom",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

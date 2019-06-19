@@ -10,11 +10,20 @@
     "geom:latitude":30.052868,
     "geom:longitude":31.266264,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "El-Gamaleyah Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
-        "El-Gamaleyah Markaz"
+        "El-Gamaleyah Kism"
     ],
     "label:eng_x_preferred_placetype":[
-        "markaz"
+        "kism"
     ],
     "lbl:latitude":30.051726,
     "lbl:longitude":31.266429,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092017755,
-    "wof:lastmodified":1553718040,
+    "wof:lastmodified":1560969126,
     "wof:name":"El-Gamaleyah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

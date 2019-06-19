@@ -10,11 +10,20 @@
     "geom:latitude":30.506026,
     "geom:longitude":31.367671,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Menya El-Qamh Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Menya El-Qamh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":30.51253,
     "lbl:longitude":31.360071,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092022403,
-    "wof:lastmodified":1553718043,
+    "wof:lastmodified":1560969119,
     "wof:name":"Menya El-Qamh",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

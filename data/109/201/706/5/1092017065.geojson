@@ -10,11 +10,20 @@
     "geom:latitude":30.420252,
     "geom:longitude":31.056637,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "El-Bagoor Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "El-Bagoor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":30.420664,
     "lbl:longitude":31.046141,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092017065,
-    "wof:lastmodified":1553718038,
+    "wof:lastmodified":1560969121,
     "wof:name":"El-Bagoor",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

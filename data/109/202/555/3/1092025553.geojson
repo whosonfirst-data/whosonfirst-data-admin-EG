@@ -10,6 +10,21 @@
     "geom:latitude":31.018586,
     "geom:longitude":33.656166,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Tany El-Areesh Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Tany El-Areesh Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.018447,
     "lbl:longitude":33.656166,
     "meso:admin_1":"North Sinai",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1092025553,
-    "wof:lastmodified":1555047465,
+    "wof:lastmodified":1560969118,
     "wof:name":"Tany El-Areesh",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

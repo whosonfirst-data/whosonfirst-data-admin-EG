@@ -10,6 +10,15 @@
     "geom:latitude":28.490199,
     "geom:longitude":34.38647,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Dahab Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Dahab Kism"
     ],
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092015881,
-    "wof:lastmodified":1553718035,
+    "wof:lastmodified":1560969123,
     "wof:name":"Dahab",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

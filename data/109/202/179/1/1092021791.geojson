@@ -10,6 +10,21 @@
     "geom:latitude":31.168227,
     "geom:longitude":29.89981,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Karmooz Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Karmooz Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.166372,
     "lbl:longitude":29.896937,
     "meso:admin_1":"Alexandria",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1092021791,
-    "wof:lastmodified":1555047465,
+    "wof:lastmodified":1560969120,
     "wof:name":"Karmooz",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

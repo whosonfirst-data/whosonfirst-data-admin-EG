@@ -10,11 +10,20 @@
     "geom:latitude":30.752994,
     "geom:longitude":31.855981,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Faqoos Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
-        "Faqoos Markaz"
+        "Faqoos Kism"
     ],
     "label:eng_x_preferred_placetype":[
-        "markaz"
+        "kism"
     ],
     "lbl:latitude":30.751501,
     "lbl:longitude":31.844352,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092020833,
-    "wof:lastmodified":1553718042,
+    "wof:lastmodified":1560969116,
     "wof:name":"Faqoos",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

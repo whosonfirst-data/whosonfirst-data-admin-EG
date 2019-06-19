@@ -10,6 +10,15 @@
     "geom:latitude":30.440833,
     "geom:longitude":30.971455,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Sars El-Layanah Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Sars El-Layanah Kism"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092024411,
-    "wof:lastmodified":1553718046,
+    "wof:lastmodified":1560969116,
     "wof:name":"Sars El-Layanah",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

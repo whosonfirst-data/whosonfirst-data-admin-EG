@@ -10,11 +10,20 @@
     "geom:latitude":27.025213,
     "geom:longitude":31.280538,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Abu Teeg Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Abu Teeg District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":27.019936,
     "lbl:longitude":31.275813,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092014313,
-    "wof:lastmodified":1553718030,
+    "wof:lastmodified":1560969122,
     "wof:name":"Abu Teeg",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

@@ -10,6 +10,21 @@
     "geom:latitude":31.068148,
     "geom:longitude":31.423514,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Awel El-Mansourah Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Awel El-Mansourah Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.070114,
     "lbl:longitude":31.42317,
     "meso:admin_1":"Dakahlia",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1092014935,
-    "wof:lastmodified":1555047464,
+    "wof:lastmodified":1560969125,
     "wof:name":"Awel El-Mansourah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

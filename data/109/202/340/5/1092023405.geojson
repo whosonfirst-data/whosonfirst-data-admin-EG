@@ -10,6 +10,21 @@
     "geom:latitude":31.257136,
     "geom:longitude":32.304567,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Police station of Port Said  Port Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Police station of Port Said  Port Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.250568,
     "lbl:longitude":32.299923,
     "meso:admin_1":"Port Said",
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1092023405,
-    "wof:lastmodified":1536615092,
+    "wof:lastmodified":1560969117,
     "wof:name":"Police station of Port Said  Port",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

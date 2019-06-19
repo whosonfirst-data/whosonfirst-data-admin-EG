@@ -10,11 +10,20 @@
     "geom:latitude":31.081417,
     "geom:longitude":31.67273,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Dokornos Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Dokornos District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":31.048848,
     "lbl:longitude":31.657463,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092016227,
-    "wof:lastmodified":1553718036,
+    "wof:lastmodified":1560969124,
     "wof:name":"Dokornos",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

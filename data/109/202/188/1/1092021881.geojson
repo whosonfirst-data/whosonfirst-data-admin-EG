@@ -10,6 +10,21 @@
     "geom:latitude":30.625431,
     "geom:longitude":30.579736,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Koum Hamadah Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Koum Hamadah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":30.630644,
     "lbl:longitude":30.662688,
     "meso:admin_1":"Behera",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1092021881,
-    "wof:lastmodified":1555047465,
+    "wof:lastmodified":1560969117,
     "wof:name":"Koum Hamadah",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

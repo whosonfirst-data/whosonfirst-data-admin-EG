@@ -10,11 +10,20 @@
     "geom:latitude":31.11304,
     "geom:longitude":30.095811,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Kafr El-Dawwar Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
-        "Kafr El-Dawwar Markaz"
+        "Kafr El-Dawwar Kism"
     ],
     "label:eng_x_preferred_placetype":[
-        "markaz"
+        "kism"
     ],
     "lbl:latitude":31.119484,
     "lbl:longitude":30.110842,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092021541,
-    "wof:lastmodified":1553718043,
+    "wof:lastmodified":1560969118,
     "wof:name":"Kafr El-Dawwar",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

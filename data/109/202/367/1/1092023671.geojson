@@ -10,11 +10,20 @@
     "geom:latitude":30.556004,
     "geom:longitude":31.153369,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Qoweisna Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Qoweisna District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":30.542552,
     "lbl:longitude":31.134275,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092023671,
-    "wof:lastmodified":1553718046,
+    "wof:lastmodified":1560969118,
     "wof:name":"Qoweisna",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

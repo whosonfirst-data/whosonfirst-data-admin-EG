@@ -10,6 +10,15 @@
     "geom:latitude":22.931636,
     "geom:longitude":34.719853,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "El-Shalateen Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "El-Shalateen Kism"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092019787,
-    "wof:lastmodified":1553718041,
+    "wof:lastmodified":1560969123,
     "wof:name":"El-Shalateen",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

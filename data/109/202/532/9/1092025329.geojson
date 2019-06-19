@@ -10,11 +10,20 @@
     "geom:latitude":26.856914,
     "geom:longitude":31.415455,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Tama Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Tama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":26.861609,
     "lbl:longitude":31.423563,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092025329,
-    "wof:lastmodified":1553718047,
+    "wof:lastmodified":1560969115,
     "wof:name":"Tama",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

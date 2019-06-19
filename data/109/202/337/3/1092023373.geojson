@@ -10,6 +10,21 @@
     "geom:latitude":31.185279,
     "geom:longitude":29.874037,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Police station of Alexandria Port Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Police station of Alexandria Port Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.185134,
     "lbl:longitude":29.874035,
     "meso:admin_1":"Alexandria",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1092023373,
-    "wof:lastmodified":1536615092,
+    "wof:lastmodified":1560969115,
     "wof:name":"Police station of Alexandria Port",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

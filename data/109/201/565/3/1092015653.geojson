@@ -10,11 +10,20 @@
     "geom:latitude":30.64787,
     "geom:longitude":31.089353,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Berket El-Sab' Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Berket El-Sab' District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":30.636226,
     "lbl:longitude":31.09569,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092015653,
-    "wof:lastmodified":1553718036,
+    "wof:lastmodified":1560969124,
     "wof:name":"Berket El-Sab'",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

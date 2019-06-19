@@ -10,11 +10,20 @@
     "geom:latitude":29.975625,
     "geom:longitude":34.00309,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Nakhl Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "Nakhl Kism"
+        "Nakhl District"
     ],
     "label:eng_x_preferred_placetype":[
-        "kism"
+        "district"
     ],
     "lbl:latitude":29.981944,
     "lbl:longitude":34.10736,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092022697,
-    "wof:lastmodified":1553718044,
+    "wof:lastmodified":1560969117,
     "wof:name":"Nakhl",
     "wof:parent_id":85671093,
     "wof:placetype":"county",
