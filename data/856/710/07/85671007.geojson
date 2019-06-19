@@ -11,6 +11,18 @@
     "geom:longitude":31.753846,
     "gn:id":"",
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Ash Sharqiyah Mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_x_preferred_longname":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629"
+    ],
     "label:eng_x_preferred_longname":[
         "Ash Sharqiyah Governorate"
     ],
@@ -323,7 +335,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550340,
+    "wof:lastmodified":1560967936,
     "wof:name":"Ash Sharqiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

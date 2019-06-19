@@ -11,6 +11,18 @@
     "geom:longitude":32.318856,
     "gn:id":"",
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Al Isma`iliyah Mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_x_preferred_longname":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0627\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629"
+    ],
     "label:eng_x_preferred_longname":[
         "Al Isma`iliyah Governorate"
     ],
@@ -318,7 +330,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550382,
+    "wof:lastmodified":1560967935,
     "wof:name":"Al Isma`iliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -11,6 +11,18 @@
     "geom:longitude":28.559904,
     "gn:id":"",
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Al Wadi at Jadid Mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_x_preferred_longname":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0648\u0627\u062f\u064a \u0627\u0644\u062c\u062f\u064a\u062f"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629"
+    ],
     "label:eng_x_preferred_longname":[
         "Al Wadi at Jadid Governorate"
     ],
@@ -319,7 +331,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550341,
+    "wof:lastmodified":1560967937,
     "wof:name":"Al Wadi at Jadid",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

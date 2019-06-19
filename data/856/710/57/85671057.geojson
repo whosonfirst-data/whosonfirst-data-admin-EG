@@ -11,6 +11,18 @@
     "geom:longitude":30.902975,
     "gn:id":"",
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Kafr ash Shaykh Mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "mu\u1e25\u0101fa\u1e93ah"
+    ],
+    "label:ara_x_preferred_longname":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0641\u0631 \u0627\u0644\u0634\u064a\u062e"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629"
+    ],
     "label:eng_x_preferred_longname":[
         "Kafr ash Shaykh Governorate"
     ],
@@ -313,7 +325,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550338,
+    "wof:lastmodified":1560967935,
     "wof:name":"Kafr ash Shaykh",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
