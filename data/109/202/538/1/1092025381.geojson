@@ -10,11 +10,20 @@
     "geom:latitude":30.954459,
     "geom:longitude":31.594581,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Tamy El-Amdeed Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Tamy El-Amdeed District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":30.952781,
     "lbl:longitude":31.601993,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092025381,
-    "wof:lastmodified":1553718047,
+    "wof:lastmodified":1560969118,
     "wof:name":"Tamy El-Amdeed",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

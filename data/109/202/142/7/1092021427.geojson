@@ -10,6 +10,15 @@
     "geom:latitude":29.859512,
     "geom:longitude":31.310512,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Helwan Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Helwan Kism"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092021427,
-    "wof:lastmodified":1553718043,
+    "wof:lastmodified":1560969117,
     "wof:name":"Helwan",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -10,11 +10,20 @@
     "geom:latitude":31.33954,
     "geom:longitude":30.74767,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Sidy Salem Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Sidy Salem District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":31.330402,
     "lbl:longitude":30.776434,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092024971,
-    "wof:lastmodified":1553718046,
+    "wof:lastmodified":1560969116,
     "wof:name":"Sidy Salem",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

@@ -10,11 +10,20 @@
     "geom:latitude":27.064223,
     "geom:longitude":31.343017,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Sahel Seleem Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Sahel Seleem District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":27.057802,
     "lbl:longitude":31.342027,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092024123,
-    "wof:lastmodified":1553718045,
+    "wof:lastmodified":1560969116,
     "wof:name":"Sahel Seleem",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

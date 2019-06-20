@@ -10,11 +10,20 @@
     "geom:latitude":30.555969,
     "geom:longitude":31.277611,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Kafr Shokr Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Kafr Shokr District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":30.558232,
     "lbl:longitude":31.278588,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092021747,
-    "wof:lastmodified":1553718043,
+    "wof:lastmodified":1560969117,
     "wof:name":"Kafr Shokr",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

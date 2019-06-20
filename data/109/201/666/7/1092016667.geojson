@@ -10,6 +10,21 @@
     "geom:latitude":30.001637,
     "geom:longitude":31.781454,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "El-Amal Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
+    "label:eng_x_preferred_longname":[
+        "El-Amal Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.001825,
     "lbl:longitude":31.781234,
     "meso:admin_1":"Helwan",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1092016667,
-    "wof:lastmodified":1555047464,
+    "wof:lastmodified":1560969123,
     "wof:name":"El-Amal",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

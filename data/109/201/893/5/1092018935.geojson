@@ -10,11 +10,20 @@
     "geom:latitude":30.218425,
     "geom:longitude":31.149799,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "El-Qanater El-Khaireyah Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "El-Qanater El-Khaireyah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":30.250985,
     "lbl:longitude":31.143709,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092018935,
-    "wof:lastmodified":1553718039,
+    "wof:lastmodified":1560969123,
     "wof:name":"El-Qanater El-Khaireyah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

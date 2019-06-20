@@ -10,11 +10,20 @@
     "geom:latitude":26.140785,
     "geom:longitude":32.447878,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Deshna Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "Deshna New City"
+        "Deshna District"
     ],
     "label:eng_x_preferred_placetype":[
-        "new city"
+        "district"
     ],
     "lbl:latitude":26.147675,
     "lbl:longitude":32.486341,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092016157,
-    "wof:lastmodified":1553718035,
+    "wof:lastmodified":1560969125,
     "wof:name":"Deshna",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

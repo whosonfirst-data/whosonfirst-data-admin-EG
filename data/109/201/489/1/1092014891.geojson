@@ -10,6 +10,15 @@
     "geom:latitude":30.95985,
     "geom:longitude":31.160757,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Awel El-Mahallah El-Kobra Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Awel El-Mahallah El-Kobra Kism"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092014891,
-    "wof:lastmodified":1553718036,
+    "wof:lastmodified":1560969125,
     "wof:name":"Awel El-Mahallah El-Kobra",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

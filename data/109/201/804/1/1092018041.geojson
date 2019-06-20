@@ -10,11 +10,20 @@
     "geom:latitude":30.524266,
     "geom:longitude":33.535633,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "El-Hasanah Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "El-Hasanah Kism"
+        "El-Hasanah District"
     ],
     "label:eng_x_preferred_placetype":[
-        "kism"
+        "district"
     ],
     "lbl:latitude":30.528831,
     "lbl:longitude":33.447305,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092018041,
-    "wof:lastmodified":1553718037,
+    "wof:lastmodified":1560969122,
     "wof:name":"El-Hasanah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

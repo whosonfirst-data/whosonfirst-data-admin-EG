@@ -10,6 +10,15 @@
     "geom:latitude":30.075569,
     "geom:longitude":31.237593,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Roud El-Farag Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Roud El-Farag Kism"
     ],
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1092023995,
-    "wof:lastmodified":1553718045,
+    "wof:lastmodified":1560969115,
     "wof:name":"Roud El-Farag",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -10,11 +10,20 @@
     "geom:latitude":30.449201,
     "geom:longitude":31.20466,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Banha Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "Banha Kism"
+        "Banha District"
     ],
     "label:eng_x_preferred_placetype":[
-        "kism"
+        "district"
     ],
     "lbl:latitude":30.45481,
     "lbl:longitude":31.212021,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092015253,
-    "wof:lastmodified":1553718035,
+    "wof:lastmodified":1560969126,
     "wof:name":"Banha",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

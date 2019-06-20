@@ -10,11 +10,20 @@
     "geom:latitude":30.460979,
     "geom:longitude":30.912992,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Menoof Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "Menoof Kism"
+        "Menoof District"
     ],
     "label:eng_x_preferred_placetype":[
-        "kism"
+        "district"
     ],
     "lbl:latitude":30.471625,
     "lbl:longitude":30.9024,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092022369,
-    "wof:lastmodified":1553718044,
+    "wof:lastmodified":1560969119,
     "wof:name":"Menoof",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

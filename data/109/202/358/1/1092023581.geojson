@@ -10,11 +10,20 @@
     "geom:latitude":25.879229,
     "geom:longitude":32.781865,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Qoos Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Qoos District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":25.886672,
     "lbl:longitude":32.780916,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092023581,
-    "wof:lastmodified":1553718045,
+    "wof:lastmodified":1560969118,
     "wof:name":"Qoos",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

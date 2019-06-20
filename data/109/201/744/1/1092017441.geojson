@@ -10,6 +10,15 @@
     "geom:latitude":31.110857,
     "geom:longitude":29.78988,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "El-Dekheilah Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "El-Dekheilah Kism"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092017441,
-    "wof:lastmodified":1553718042,
+    "wof:lastmodified":1560969126,
     "wof:name":"El-Dekheilah",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

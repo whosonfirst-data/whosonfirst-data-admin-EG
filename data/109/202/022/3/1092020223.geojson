@@ -10,11 +10,20 @@
     "geom:latitude":24.405636,
     "geom:longitude":31.13675,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "El-Wahat El-Khargah Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "El-Wahat El-Khargah Kism"
+        "El-Wahat El-Khargah District"
     ],
     "label:eng_x_preferred_placetype":[
-        "kism"
+        "district"
     ],
     "lbl:latitude":24.445214,
     "lbl:longitude":31.164193,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092020223,
-    "wof:lastmodified":1553718042,
+    "wof:lastmodified":1560969116,
     "wof:name":"El-Wahat El-Khargah",
     "wof:parent_id":85671071,
     "wof:placetype":"county",

@@ -10,11 +10,20 @@
     "geom:latitude":31.118514,
     "geom:longitude":34.240827,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Rafah Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "Rafah Kism"
+        "Rafah District"
     ],
     "label:eng_x_preferred_placetype":[
-        "kism"
+        "district"
     ],
     "lbl:latitude":31.103734,
     "lbl:longitude":34.248869,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092023763,
-    "wof:lastmodified":1553718045,
+    "wof:lastmodified":1560969117,
     "wof:name":"Rafah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

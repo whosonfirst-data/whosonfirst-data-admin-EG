@@ -10,6 +10,21 @@
     "geom:latitude":30.132249,
     "geom:longitude":31.733954,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Badr City Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Badr City Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":30.132437,
     "lbl:longitude":31.733734,
     "meso:admin_1":"Helwan",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1092015229,
-    "wof:lastmodified":1555047464,
+    "wof:lastmodified":1560969126,
     "wof:name":"Badr City",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -10,11 +10,20 @@
     "geom:latitude":30.76843,
     "geom:longitude":31.114099,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "El-Santah Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "El-Santah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":30.769457,
     "lbl:longitude":31.119982,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092019649,
-    "wof:lastmodified":1553718041,
+    "wof:lastmodified":1560969121,
     "wof:name":"El-Santah",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

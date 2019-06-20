@@ -10,6 +10,15 @@
     "geom:latitude":30.596605,
     "geom:longitude":32.280793,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Awel El-Esmailiah Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Awel El-Esmailiah Kism"
     ],
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092014845,
-    "wof:lastmodified":1553718039,
+    "wof:lastmodified":1560969122,
     "wof:name":"Awel El-Esmailiah",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

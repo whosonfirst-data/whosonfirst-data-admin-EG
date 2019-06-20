@@ -10,6 +10,21 @@
     "geom:latitude":31.26112,
     "geom:longitude":32.301958,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "El-Sharq Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
+    "label:eng_x_preferred_longname":[
+        "El-Sharq Kism"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "kism"
+    ],
     "lbl:latitude":31.266797,
     "lbl:longitude":32.307779,
     "meso:admin_1":"Port Said",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1092019877,
-    "wof:lastmodified":1555047465,
+    "wof:lastmodified":1560969126,
     "wof:name":"El-Sharq",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

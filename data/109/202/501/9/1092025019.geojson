@@ -10,11 +10,20 @@
     "geom:latitude":28.464772,
     "geom:longitude":26.318028,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Siwah Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "Siwah Kism"
+        "Siwah District"
     ],
     "label:eng_x_preferred_placetype":[
-        "kism"
+        "district"
     ],
     "lbl:latitude":28.391819,
     "lbl:longitude":26.28796,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092025019,
-    "wof:lastmodified":1553718045,
+    "wof:lastmodified":1560969118,
     "wof:name":"Siwah",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

@@ -10,11 +10,20 @@
     "geom:latitude":29.181336,
     "geom:longitude":30.71936,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Atsa Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Atsa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":29.191195,
     "lbl:longitude":30.747888,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092014683,
-    "wof:lastmodified":1553718036,
+    "wof:lastmodified":1560969125,
     "wof:name":"Atsa",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

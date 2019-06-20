@@ -10,11 +10,20 @@
     "geom:latitude":26.551318,
     "geom:longitude":31.676857,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Sohag Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Sohag District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":26.584002,
     "lbl:longitude":31.650291,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092025063,
-    "wof:lastmodified":1553718046,
+    "wof:lastmodified":1560969118,
     "wof:name":"Sohag",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

@@ -10,11 +10,20 @@
     "geom:latitude":26.30987,
     "geom:longitude":31.848807,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longname":[
+        "Gerga Markaz"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
     "label:eng_x_preferred_longname":[
-        "Gerga Kism"
+        "Gerga District"
     ],
     "label:eng_x_preferred_placetype":[
-        "kism"
+        "district"
     ],
     "lbl:latitude":26.318161,
     "lbl:longitude":31.834386,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092021127,
-    "wof:lastmodified":1553718043,
+    "wof:lastmodified":1560969120,
     "wof:name":"Gerga",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

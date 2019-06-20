@@ -10,11 +10,20 @@
     "geom:latitude":30.370796,
     "geom:longitude":30.703079,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "El-Sadat City Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "El-Sadat City District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":30.382223,
     "lbl:longitude":30.755883,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092019405,
-    "wof:lastmodified":1553718039,
+    "wof:lastmodified":1560969123,
     "wof:name":"El-Sadat City",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

@@ -10,11 +10,20 @@
     "geom:latitude":27.154458,
     "geom:longitude":31.156959,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
+    "label:ara_latn_x_preferred_longname":[
         "Asiut Markaz"
     ],
-    "label:eng_x_preferred_placetype":[
+    "label:ara_latn_x_preferred_placetype":[
         "markaz"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0645\u0631\u0643\u0632"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Asiut District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":27.115817,
     "lbl:longitude":31.214729,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1092014633,
-    "wof:lastmodified":1553718033,
+    "wof:lastmodified":1560969122,
     "wof:name":"Asiut",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

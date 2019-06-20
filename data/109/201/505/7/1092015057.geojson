@@ -10,6 +10,15 @@
     "geom:latitude":30.802032,
     "geom:longitude":31.002561,
     "iso:country":"EG",
+    "label:ara_latn_x_preferred_longnamee":[
+        "Awel Tanta Aqsam"
+    ],
+    "label:ara_latn_x_preferred_placetype":[
+        "aqsam"
+    ],
+    "label:ara_x_preferred_placetype":[
+        "\u0642\u0633\u0645"
+    ],
     "label:eng_x_preferred_longname":[
         "Awel Tanta Kism"
     ],
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1092015057,
-    "wof:lastmodified":1553718036,
+    "wof:lastmodified":1560969121,
     "wof:name":"Awel Tanta",
     "wof:parent_id":85670985,
     "wof:placetype":"county",
