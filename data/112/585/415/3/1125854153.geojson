@@ -31,19 +31,13 @@
     "name:aze_x_preferred":[
         "safaga haqqinda"
     ],
-    "name:baq_x_preferred":[
-        "Safaga"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ab\u09be\u099c\u09be"
     ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u0442 \u0421\u0430\u0444\u0430\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u6cd5\u6770"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Safaga"
     ],
     "name:dan_x_preferred":[
@@ -52,14 +46,17 @@
     "name:deu_x_preferred":[
         "Safaga"
     ],
-    "name:dut_x_preferred":[
-        "Port Safaga"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c6\u03ac\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Port Safaga"
     ],
     "name:est_x_preferred":[
         "B\u016br Saf\u0101jah"
+    ],
+    "name:eus_x_preferred":[
+        "Safaga"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0641\u0627\u062c\u0627"
@@ -69,18 +66,6 @@
     ],
     "name:fra_x_preferred":[
         "Port Safaga"
-    ],
-    "name:fre_x_preferred":[
-        "Port Safaga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e0-\u10e1\u10d0\u10e4\u10d0\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Safaga"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03c6\u03ac\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aab\u0abe\u0a97\u0abe"
@@ -103,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cab\u0cbe\u0c97"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e0-\u10e1\u10d0\u10e4\u10d0\u10d2\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u0444\u0430\u0433\u0430 \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
@@ -118,8 +106,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u092b\u093e\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Safaga"
+    ],
+    "name:nld_x_preferred":[
+        "Port Safaga"
     ],
     "name:nob_x_preferred":[
         "Safaga"
@@ -127,16 +118,13 @@
     "name:nor_x_preferred":[
         "Safaga"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0641\u0627\u062c\u0627"
-    ],
     "name:pol_x_preferred":[
         "Safad\u017ca"
     ],
     "name:por_x_preferred":[
         "Safaga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Port Safaga"
     ],
     "name:rus_x_preferred":[
@@ -220,7 +208,7 @@
         }
     ],
     "wof:id":1125854153,
-    "wof:lastmodified":1513956682,
+    "wof:lastmodified":1561827077,
     "wof:name":"B\u016br Saf\u0101jah",
     "wof:parent_id":1092024087,
     "wof:placetype":"locality",

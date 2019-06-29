@@ -27,9 +27,6 @@
     "name:aka_x_preferred":[
         "Cairo"
     ],
-    "name:alb_x_preferred":[
-        "Kajro"
-    ],
     "name:als_x_preferred":[
         "Kairo"
     ],
@@ -41,9 +38,6 @@
     ],
     "name:arg_x_preferred":[
         "O Caire"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0570\u056b\u0580\u0565"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0642\u0627\u0647\u0631\u0647"
@@ -62,9 +56,6 @@
     ],
     "name:bak_x_preferred":[
         "\u04a0\u04d9\u04bb\u0438\u0440"
-    ],
-    "name:baq_x_preferred":[
-        "Kairo"
     ],
     "name:bcl_x_preferred":[
         "Cairo"
@@ -90,9 +81,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0439\u0440\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u102d\u102f\u1004\u103a\u101b\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u041a\u0430\u0438\u0440"
     ],
@@ -111,9 +99,6 @@
     "name:che_x_preferred":[
         "\u041a\u044a\u0430\u0445\u04c0\u0438\u0440\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u958b\u7f85"
-    ],
     "name:chv_x_preferred":[
         "\u041a\u0430\u0438\u0440"
     ],
@@ -126,8 +111,8 @@
     "name:csb_x_preferred":[
         "Kairo"
     ],
-    "name:cze_x_preferred":[
-        "K\u00e1hira"
+    "name:cym_x_preferred":[
+        "Cairo"
     ],
     "name:dan_x_preferred":[
         "Kairo"
@@ -143,9 +128,6 @@
     ],
     "name:dty_x_preferred":[
         "\u0915\u093e\u0907\u0930\u094b"
-    ],
-    "name:dut_x_preferred":[
-        "Ca\u00efro"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03b9\u03c1\u03bf"
@@ -177,9 +159,6 @@
     "name:fra_x_preferred":[
         "Le Caire"
     ],
-    "name:fre_x_preferred":[
-        "Le Caire"
-    ],
     "name:frp_x_preferred":[
         "Lo Cayiro"
     ],
@@ -187,12 +166,6 @@
         "Kairo"
     ],
     "name:fry_x_preferred":[
-        "Kairo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10d8\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Kairo"
     ],
     "name:gla_x_preferred":[
@@ -206,9 +179,6 @@
     ],
     "name:glv_x_preferred":[
         "Cairo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03b9\u03c1\u03bf"
     ],
     "name:gsw_x_preferred":[
         "Kairo"
@@ -246,8 +216,8 @@
     "name:hun_x_preferred":[
         "Kair\u00f3"
     ],
-    "name:ice_x_preferred":[
-        "Ka\u00edr\u00f3"
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0570\u056b\u0580\u0565"
     ],
     "name:ido_x_preferred":[
         "Kairo"
@@ -290,6 +260,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e5\u10d0\u10d8\u10e0\u10dd"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10d0\u10d8\u10e0\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u04d8\u043b-\u049a\u0430\u04bb\u0438\u0440\u0430"
@@ -348,9 +321,6 @@
     "name:ltz_x_preferred":[
         "Kairo"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0438\u0440\u043e"
-    ],
     "name:mai_x_preferred":[
         "\u0915\u093e\u0907\u0930\u094b"
     ],
@@ -359,9 +329,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0915\u0948\u0930\u094b"
-    ],
-    "name:may_x_preferred":[
-        "Kaherah"
     ],
     "name:mdf_x_preferred":[
         "\u041a\u0430\u0438\u0440"
@@ -389,6 +356,9 @@
     ],
     "name:mwl_x_preferred":[
         "Cairo"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u102d\u102f\u1004\u103a\u101b\u102d\u102f\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:mzn_x_preferred":[
         "\u0642\u0627\u0647\u0631\u0647"
@@ -447,9 +417,6 @@
     "name:pap_x_preferred":[
         "Kairo"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0627\u0647\u0631\u0647"
-    ],
     "name:pih_x_preferred":[
         "Cairo"
     ],
@@ -486,9 +453,6 @@
     "name:rue_x_preferred":[
         "\u041a\u0430\u0433\u0456\u0440\u0430"
     ],
-    "name:rum_x_preferred":[
-        "Cairo"
-    ],
     "name:rup_x_preferred":[
         "Cairo"
     ],
@@ -513,9 +477,6 @@
     "name:slk_x_preferred":[
         "K\u00e1hira"
     ],
-    "name:slo_x_preferred":[
-        "K\u00e1hira"
-    ],
     "name:slv_x_preferred":[
         "Kairo"
     ],
@@ -533,6 +494,9 @@
     ],
     "name:spa_x_variant":[
         "Cairo"
+    ],
+    "name:sqi_x_preferred":[
+        "Kajro"
     ],
     "name:srd_x_preferred":[
         "Cairo"
@@ -572,9 +536,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e04\u0e42\u0e23"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0f0b\u0f61\u0f72\u0f0b\u0f62\u0f7c"
     ],
     "name:tpi_x_preferred":[
         "Kairo"
@@ -631,9 +592,6 @@
     "name:war_x_preferred":[
         "Cairo"
     ],
-    "name:wel_x_preferred":[
-        "Cairo"
-    ],
     "name:wln_x_preferred":[
         "El Caire"
     ],
@@ -660,6 +618,9 @@
     ],
     "name:zea_x_preferred":[
         "Ca\u00efro"
+    ],
+    "name:zho_x_preferred":[
+        "\u958b\u7f85"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Egypt",
@@ -806,7 +767,7 @@
         }
     ],
     "wof:id":421174399,
-    "wof:lastmodified":1553278388,
+    "wof:lastmodified":1561827072,
     "wof:name":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
     "wof:parent_id":1092016929,
     "wof:placetype":"locality",

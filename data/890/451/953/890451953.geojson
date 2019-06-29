@@ -19,14 +19,8 @@
     "name:ara_x_preferred":[
         "\u0637\u0646\u0637\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u0576\u057f\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0637\u0646\u0637\u0627"
-    ],
-    "name:baq_x_preferred":[
-        "Tanta"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u043d\u0442\u0430"
@@ -40,10 +34,7 @@
     "name:cat_x_preferred":[
         "Tant\u0101"
     ],
-    "name:chi_x_preferred":[
-        "\u5766\u5854"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tanta"
     ],
     "name:dan_x_preferred":[
@@ -52,8 +43,8 @@
     "name:deu_x_preferred":[
         "Tanta"
     ],
-    "name:dut_x_preferred":[
-        "Tanta"
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tanta"
@@ -61,23 +52,20 @@
     "name:est_x_preferred":[
         "\u0162an\u0163\u0101"
     ],
+    "name:eus_x_preferred":[
+        "Tanta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0646\u0637\u0627"
+    ],
     "name:fin_x_preferred":[
         "Tanta"
     ],
-    "name:fre_x_preferred":[
-        "Tanta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10dc\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tanta"
     ],
     "name:gle_x_preferred":[
         "Tanta"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0a82\u0aa4\u0abe"
@@ -94,6 +82,9 @@
     "name:hun_x_preferred":[
         "Tanta"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0576\u057f\u0561"
+    ],
     "name:ind_x_preferred":[
         "Tanta"
     ],
@@ -109,6 +100,9 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0c82\u0ca4\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10dc\u10e2\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud0c4\ud0c0"
     ],
@@ -121,7 +115,7 @@
     "name:mar_x_preferred":[
         "\u0924\u0902\u0924\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tanta"
     ],
     "name:nld_x_preferred":[
@@ -132,9 +126,6 @@
     ],
     "name:nob_x_preferred":[
         "Tanta"
-    ],
-    "name:per_x_preferred":[
-        "\u0637\u0646\u0637\u0627"
     ],
     "name:pol_x_preferred":[
         "Tanta"
@@ -192,6 +183,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e2\u10d0\u10dc\u10e2\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5766\u5854"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -318,7 +312,7 @@
         }
     ],
     "wof:id":890451953,
-    "wof:lastmodified":1527792935,
+    "wof:lastmodified":1561827076,
     "wof:name":"Tanda",
     "wof:parent_id":1092025893,
     "wof:placetype":"locality",

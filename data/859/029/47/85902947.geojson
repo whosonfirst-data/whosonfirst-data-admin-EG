@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28518147.847542,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.300876,31.259837,32.300876,31.259837",
     "geom:latitude":31.259837,
     "geom:longitude":32.300876,
@@ -39,6 +39,9 @@
     "name:deu_x_preferred":[
         "Port Said"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u039f\u03a1\u03a4\u03a3\u0391\u03aa\u039d\u03a4"
+    ],
     "name:eng_x_colloquial":[
         "Bor Said",
         "Bur Said",
@@ -63,9 +66,6 @@
     ],
     "name:fra_x_preferred":[
         "Port-Sa\u00efd"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u039f\u03a1\u03a4\u03a3\u0391\u03aa\u039d\u03a4"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e8\u05d8 \u05e1\u05e2\u05d9\u05d3"
@@ -144,10 +144,10 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
+        85671021,
         102191573,
         85632581,
-        1092019877,
-        85671021
+        1092019877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +175,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935965,
+    "wof:lastmodified":1561827034,
     "wof:name":"B\u016br Sa\u2019\u012bd",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

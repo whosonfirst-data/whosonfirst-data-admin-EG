@@ -22,19 +22,13 @@
     "name:arz_x_preferred":[
         "\u0647\u0644\u064a\u0648\u0628\u0648\u0644\u064a\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Heliopolis"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u0435\u043b\u0456\u0451\u043f\u0430\u043b\u044c"
     ],
     "name:cat_x_preferred":[
         "Heli\u00f2polis"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u91cc\u5965\u6ce2\u91cc\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Iunu"
     ],
     "name:dan_x_preferred":[
@@ -43,8 +37,8 @@
     "name:deu_x_preferred":[
         "Heliopolis"
     ],
-    "name:dut_x_preferred":[
-        "Heliopolis"
+    "name:ell_x_preferred":[
+        "\u0397\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b9\u03c2"
     ],
     "name:eng_x_preferred":[
         "Heliopolis"
@@ -52,29 +46,23 @@
     "name:epo_x_preferred":[
         "Heliopolo"
     ],
+    "name:eus_x_preferred":[
+        "Heliopolis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0644\u06cc\u0648\u067e\u0644\u06cc\u0633"
+    ],
     "name:fin_x_preferred":[
         "Heliopolis"
     ],
     "name:fra_x_preferred":[
         "H\u00e9liopolis"
     ],
-    "name:fre_x_preferred":[
-        "H\u00e9liopolis"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d4\u10da\u10d8\u10dd\u10de\u10dd\u10da\u10d8\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Heliopolis"
-    ],
     "name:glg_x_preferred":[
         "Heli\u00f3polis"
     ],
     "name:grc_x_preferred":[
         "\u1f29\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b9\u03c2"
-    ],
-    "name:gre_x_preferred":[
-        "\u0397\u03bb\u03b9\u03bf\u03cd\u03c0\u03bf\u03bb\u03b9\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05df"
@@ -85,17 +73,20 @@
     "name:hun_x_preferred":[
         "H\u00e9liopolisz"
     ],
-    "name:ice_x_preferred":[
-        "Hel\u00ed\u00f3p\u00f3lis"
-    ],
     "name:ind_x_preferred":[
         "Heliopolis"
+    ],
+    "name:isl_x_preferred":[
+        "Hel\u00ed\u00f3p\u00f3lis"
     ],
     "name:ita_x_preferred":[
         "Eliopoli"
     ],
     "name:jpn_x_preferred":[
         "\u30d8\u30ea\u30aa\u30dd\u30ea\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d4\u10da\u10d8\u10dd\u10de\u10dd\u10da\u10d8\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4"
@@ -112,22 +103,19 @@
     "name:oci_x_preferred":[
         "Iono"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0644\u06cc\u0648\u067e\u0644\u06cc\u0633"
-    ],
     "name:pol_x_preferred":[
         "Heliopolis"
     ],
     "name:por_x_preferred":[
         "Heli\u00f3polis"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Heliopolis"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u043b\u0438\u043e\u043f\u043e\u043b\u044c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Iunu"
     ],
     "name:slv_x_preferred":[
@@ -156,6 +144,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0639\u064a\u0646 \u0634\u0645\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u91cc\u5965\u6ce2\u91cc\u65af"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -203,7 +194,7 @@
         }
     ],
     "wof:id":421170481,
-    "wof:lastmodified":1527716469,
+    "wof:lastmodified":1561827074,
     "wof:name":"Heliopolis",
     "wof:parent_id":1092021387,
     "wof:placetype":"locality",

@@ -25,10 +25,7 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0431\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u5df4"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Taba"
     ],
     "name:dan_x_preferred":[
@@ -37,25 +34,16 @@
     "name:deu_x_preferred":[
         "Taba"
     ],
-    "name:dut_x_preferred":[
-        "Taba"
-    ],
     "name:eng_x_preferred":[
         "Taba"
     ],
     "name:epo_x_preferred":[
         "Taba"
     ],
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0628\u0627"
+    ],
     "name:fra_x_preferred":[
-        "Taba"
-    ],
-    "name:fre_x_preferred":[
-        "Taba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Taba"
     ],
     "name:gle_x_preferred":[
@@ -69,6 +57,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30d0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10d1\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud0c0\ubc14"
@@ -85,9 +76,6 @@
     "name:nor_x_preferred":[
         "Taba"
     ],
-    "name:per_x_preferred":[
-        "\u0637\u0627\u0628\u0627"
-    ],
     "name:pol_x_preferred":[
         "Taba"
     ],
@@ -97,7 +85,7 @@
     "name:sco_x_preferred":[
         "Taba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Taba"
     ],
     "name:swe_x_preferred":[
@@ -108,6 +96,9 @@
     ],
     "name:unk_x_variant":[
         "\u0162\u0101bah"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5df4"
     ],
     "qs:gn_country":"EG",
     "qs:gn_fcode":"PPL",
@@ -154,7 +145,7 @@
         }
     ],
     "wof:id":421174879,
-    "wof:lastmodified":1513956717,
+    "wof:lastmodified":1561827072,
     "wof:name":"Taba",
     "wof:parent_id":85672531,
     "wof:placetype":"locality",

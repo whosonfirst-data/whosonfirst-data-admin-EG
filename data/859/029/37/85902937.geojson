@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":935249.602662,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.236117,30.049449,31.236117,30.049449",
     "geom:latitude":30.049449,
     "geom:longitude":31.236117,
@@ -30,6 +30,9 @@
     "name:arz_x_preferred":[
         "\u0628\u0627\u0628 \u0627\u0644\u0644\u0648\u0642"
     ],
+    "name:deu_x_preferred":[
+        "Bab el-Louk"
+    ],
     "name:eng_x_colloquial":[
         "Baab al Loeq",
         "Baab el Loeq",
@@ -47,11 +50,8 @@
         "B\u00e5b el L\u00f8q",
         "Bab al-Louq"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bab El Louk"
-    ],
-    "name:ger_x_preferred":[
-        "Bab el-Louk"
     ],
     "name:gle_x_preferred":[
         "Bab al-Louq"
@@ -86,10 +86,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85670999,
         102191573,
         85632581,
-        1092023493,
-        85670999
+        1092023493
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +114,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531935962,
+    "wof:lastmodified":1561827034,
     "wof:name":"\u0628\u0627\u0628 \u0627\u0644\u0644\u0648\u0642",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

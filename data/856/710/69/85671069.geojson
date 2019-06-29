@@ -70,10 +70,7 @@
     "name:ceb_x_preferred":[
         "Asy\u016b\u0163"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u65af\u5c24\u7279\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Asij\u00fat"
     ],
     "name:dan_x_preferred":[
@@ -82,11 +79,11 @@
     "name:deu_x_preferred":[
         "Asyut"
     ],
-    "name:dut_x_preferred":[
-        "Assioet"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03b9\u03bf\u03cd\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0391\u03c3\u03b9\u03bf\u03cd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Asyout"
@@ -107,26 +104,20 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u06cc\u0648\u0637"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u06cc\u0648\u0637"
+    ],
     "name:fin_x_preferred":[
         "Asyut"
     ],
     "name:fra_x_preferred":[
         "Assiout"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat d'Assiout"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e1\u10d8\u10e3\u10e2\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Asyut"
     ],
     "name:gle_x_preferred":[
         "Asyut"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0391\u03c3\u03b9\u03bf\u03cd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab8\u0acd\u0aaf\u0ac1\u0aa4 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -158,6 +149,9 @@
     "name:kat_x_preferred":[
         "\u10d0\u10e1\u10d8\u10e3\u10e2\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d0\u10e1\u10d8\u10e3\u10e2\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc2dc\uc6b0\ud2b8"
     ],
@@ -173,11 +167,11 @@
     "name:mar_x_preferred":[
         "\u0905\u0938\u094d\u092f\u0941\u0924 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
-        "Asyut Governorate"
-    ],
     "name:msa_x_preferred":[
         "Asyut"
+    ],
+    "name:msa_x_variant":[
+        "Asyut Governorate"
     ],
     "name:nld_x_preferred":[
         "Assioet"
@@ -191,9 +185,6 @@
     "name:nor_x_preferred":[
         "Asyut"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u06cc\u0648\u0637"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0633\u06cc\u0648\u062a"
     ],
@@ -206,7 +197,7 @@
     "name:ron_x_preferred":[
         "Assiut"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Guvernoratul Asyut"
     ],
     "name:rus_x_preferred":[
@@ -265,6 +256,9 @@
     ],
     "name:zho_x_preferred":[
         "\u827e\u65af\u5c24\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u827e\u65af\u5c24\u7279\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -393,7 +387,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967935,
+    "wof:lastmodified":1561827037,
     "wof:name":"Asyut",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

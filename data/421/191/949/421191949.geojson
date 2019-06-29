@@ -19,26 +19,20 @@
     "name:arz_x_preferred":[
         "\u0633\u062e\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Xois"
-    ],
     "name:cat_x_preferred":[
         "Xois"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u4f0a\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Xois"
+    "name:deu_x_preferred":[
+        "Sacha"
     ],
     "name:eng_x_preferred":[
         "Xois"
     ],
-    "name:fre_x_preferred":[
-        "Xo\u00efs"
+    "name:eus_x_preferred":[
+        "Xois"
     ],
-    "name:ger_x_preferred":[
-        "Sacha"
+    "name:fra_x_preferred":[
+        "Xo\u00efs"
     ],
     "name:grc_x_preferred":[
         "\u039e\u03cc\u03b9\u03c2"
@@ -55,7 +49,10 @@
     "name:lit_x_preferred":[
         "Hoisas"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Xois"
+    ],
+    "name:slk_x_preferred":[
         "Chasut"
     ],
     "name:spa_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Xo\u00efs"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u4f0a\u65af"
     ],
     "qs:gn_country":"EG",
     "qs:gn_fcode":"PPL",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":421191949,
-    "wof:lastmodified":1513956728,
+    "wof:lastmodified":1561827074,
     "wof:name":"\u0633\u062e\u0627",
     "wof:parent_id":1092021581,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:arz_x_preferred":[
         "\u0633\u0642\u0627\u0631\u0647"
     ],
-    "name:baq_x_preferred":[
-        "Saqqara"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043a\u0430\u0440\u0430"
     ],
@@ -40,20 +37,11 @@
     "name:ces_x_preferred":[
         "Sakk\u00e1ra"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u5361\u62c9"
-    ],
-    "name:cze_x_preferred":[
-        "Sakk\u00e1ra"
-    ],
     "name:dan_x_preferred":[
         "Sakkara"
     ],
     "name:deu_x_preferred":[
         "Sakkara"
-    ],
-    "name:dut_x_preferred":[
-        "Saqqara"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03ba\u03ba\u03ac\u03c1\u03b1"
@@ -67,6 +55,9 @@
     "name:eus_x_preferred":[
         "Sakkara"
     ],
+    "name:eus_x_variant":[
+        "Saqqara"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0642\u0627\u0631\u0647"
     ],
@@ -76,20 +67,11 @@
     "name:fra_x_preferred":[
         "Saqqarah"
     ],
-    "name:fre_x_preferred":[
-        "Saqqarah"
-    ],
-    "name:ger_x_preferred":[
-        "Sakkara"
-    ],
     "name:gle_x_preferred":[
         "Sac\u00e1ra"
     ],
     "name:glg_x_preferred":[
         "Saqqara"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03ba\u03ba\u03ac\u03c1\u03b1"
     ],
     "name:hbs_x_preferred":[
         "Saqqara"
@@ -102,9 +84,6 @@
     ],
     "name:hun_x_preferred":[
         "Szakkara"
-    ],
-    "name:ice_x_preferred":[
-        "Sakkara"
     ],
     "name:ind_x_preferred":[
         "Saqqara"
@@ -142,9 +121,6 @@
     "name:oci_x_preferred":[
         "Saqqara"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0642\u0627\u0631\u0647"
-    ],
     "name:pol_x_preferred":[
         "Sakkara"
     ],
@@ -165,9 +141,6 @@
         "Saqqara"
     ],
     "name:slk_x_preferred":[
-        "Sakk\u00e1ra"
-    ],
-    "name:slo_x_preferred":[
         "Sakk\u00e1ra"
     ],
     "name:slv_x_preferred":[
@@ -247,7 +220,7 @@
         }
     ],
     "wof:id":421187135,
-    "wof:lastmodified":1527716243,
+    "wof:lastmodified":1561827073,
     "wof:name":"Saqqarah",
     "wof:parent_id":1092017019,
     "wof:placetype":"locality",

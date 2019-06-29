@@ -19,23 +19,17 @@
     "name:cat_x_preferred":[
         "Al-Qusiya"
     ],
-    "name:dut_x_preferred":[
-        "Cusae"
+    "name:deu_x_preferred":[
+        "Al-Qusiyya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c3\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Cusae"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cusae"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10e3\u10d6\u10d4\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Al-Qusiyya"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03c3\u03ac\u03b9"
     ],
     "name:hrv_x_preferred":[
         "Kis"
@@ -43,8 +37,14 @@
     "name:ita_x_preferred":[
         "Cusae"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10e3\u10d6\u10d4\u10d0"
+    ],
     "name:lit_x_preferred":[
         "Kusai"
+    ],
+    "name:nld_x_preferred":[
+        "Cusae"
     ],
     "name:pol_x_preferred":[
         "Al-Kusijja"
@@ -52,7 +52,7 @@
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u041a\u0443\u0441\u0438\u044f"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cusae"
     ],
     "name:spa_x_preferred":[
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421174337,
-    "wof:lastmodified":1513956652,
+    "wof:lastmodified":1561827072,
     "wof:name":"Al Qusiyah",
     "wof:parent_id":1092019229,
     "wof:placetype":"locality",

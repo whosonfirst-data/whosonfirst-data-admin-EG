@@ -653,9 +653,6 @@
     "name:rue_x_preferred":[
         "\u0415\u0491\u0456\u043f\u0435\u0442"
     ],
-    "name:rum_x_preferred":[
-        "Egipt"
-    ],
     "name:run_x_preferred":[
         "Misiri"
     ],
@@ -1033,7 +1030,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1544059262,
+    "wof:lastmodified":1561827035,
     "wof:name":"Egypt",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

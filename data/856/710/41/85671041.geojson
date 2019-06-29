@@ -48,9 +48,6 @@
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
         "\u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0565\u0584\u057d\u0561\u0576\u0564\u0580\u056b\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0647"
     ],
@@ -72,17 +69,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 d'Alexandria"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u6b77\u5c71\u5927\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Alexandrie"
     ],
     "name:dan_x_preferred":[
         "Alexandria"
     ],
-    "name:dut_x_preferred":[
-        "Alexandri\u00eb"
+    "name:deu_x_preferred":[
+        "al-Iskandariyya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03b5\u03b9\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Alexandria"
@@ -97,26 +94,23 @@
     "name:est_x_preferred":[
         "Aleksandria kubernerkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u06a9\u0646\u062f\u0631\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Al-Iskandariyyan kuvernoraatti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "gouvernorat d'Alexandrie"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10d4\u10e5\u10e1\u10d0\u10dc\u10d3\u10e0\u10d8\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "al-Iskandariyya"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03b5\u03b9\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab2\u0ac7\u0a95\u0acd\u0a9d\u0abe\u0aa8\u0acd\u0aa1\u0acd\u0ab0\u0abf\u0aaf\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u0915\u0928\u094d\u0926\u0930\u093f\u092f\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0565\u0584\u057d\u0561\u0576\u0564\u0580\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Al Iskandariyah"
@@ -133,6 +127,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cb2\u0cc6\u0c95\u0ccd\u0cb8\u0cbe\u0c82\u0ca1\u0ccd\u0cb0\u0cbf\u0caf\u0cbe \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d4\u10e5\u10e1\u10d0\u10dc\u10d3\u10e0\u10d8\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\ub809\uc0b0\ub4dc\ub9ac\uc544 \uc8fc"
     ],
@@ -148,14 +145,14 @@
     "name:mar_x_preferred":[
         "\u0905\u0932\u0947\u0917\u094d\u091c\u093c\u0945\u0902\u0921\u094d\u0930\u093f\u092f\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Alexandria Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Alexandri\u00eb"
     ],
     "name:nob_x_preferred":[
         "Guvernementet Al Iskandariyah"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u06a9\u0646\u062f\u0631\u06cc\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0633\u06a9\u0646\u062f\u0631\u06cc\u06c1"
@@ -166,7 +163,7 @@
     "name:por_x_preferred":[
         "Alexandria"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Al Iskandariyah"
     ],
     "name:rus_x_preferred":[
@@ -219,6 +216,9 @@
     ],
     "name:war_x_preferred":[
         "Alexandria"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u6b77\u5c71\u5927\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -342,7 +342,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967936,
+    "wof:lastmodified":1561827038,
     "wof:name":"Al Iskandariyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

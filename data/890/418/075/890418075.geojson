@@ -19,17 +19,17 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0641\u0631\u0627\u0641\u0631\u0629"
     ],
-    "name:dut_x_preferred":[
-        "Farafra town"
+    "name:deu_x_preferred":[
+        "al-Farafra"
     ],
     "name:eng_x_preferred":[
         "Farafra town"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Farafra town"
     ],
-    "name:ger_x_preferred":[
-        "al-Farafra"
+    "name:nld_x_preferred":[
+        "Farafra town"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0430\u0440\u0430\u0444\u0440\u0430"
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":890418075,
-    "wof:lastmodified":1513956707,
+    "wof:lastmodified":1561827075,
     "wof:name":"Qa\u015fr al Far\u0101firah",
     "wof:parent_id":1092017585,
     "wof:placetype":"locality",

@@ -61,17 +61,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Luxor"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u514b\u7d22\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Luxor"
     ],
     "name:dan_x_preferred":[
         "Luxor"
     ],
-    "name:dut_x_preferred":[
-        "Luxor"
+    "name:deu_x_preferred":[
+        "al-Uqsur"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039b\u03bf\u03cd\u03be\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Luxor"
@@ -86,20 +86,14 @@
     "name:est_x_preferred":[
         "Luxori kubernerkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0642\u0635\u0631"
+    ],
     "name:fin_x_preferred":[
         "Luxorin kuvernoraatti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat de Louxor"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10e3\u10e5\u10e1\u10dd\u10e0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "al-Uqsur"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039b\u03bf\u03cd\u03be\u03bf\u03c1"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0915\u094d\u0938\u0930 \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
@@ -110,6 +104,9 @@
     "name:jpn_x_preferred":[
         "\u30eb\u30af\u30bd\u30fc\u30eb\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10e3\u10e5\u10e1\u10dd\u10e0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub8e9\uc18c\ub974 \uc8fc"
     ],
@@ -119,11 +116,11 @@
     "name:lit_x_preferred":[
         "Luksoro muchafaza"
     ],
+    "name:nld_x_preferred":[
+        "Luxor"
+    ],
     "name:nob_x_preferred":[
         "Guvernementet Luxor"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0642\u0635\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0644\u06a9\u0633\u0631"
@@ -134,7 +131,7 @@
     "name:por_x_preferred":[
         "Luxor"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Luxor"
     ],
     "name:rus_x_preferred":[
@@ -172,6 +169,9 @@
     ],
     "name:war_x_preferred":[
         "Luxor"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u514b\u7d22\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -295,7 +295,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967936,
+    "wof:lastmodified":1561827037,
     "wof:name":"Luxor",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

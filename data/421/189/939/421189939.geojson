@@ -28,17 +28,14 @@
     "name:ces_x_preferred":[
         "Nuweiba"
     ],
-    "name:cze_x_preferred":[
-        "Nuweiba"
-    ],
     "name:dan_x_preferred":[
         "Nuweiba"
     ],
     "name:deu_x_preferred":[
         "Nuwaiba"
     ],
-    "name:dut_x_preferred":[
-        "Nuweiba"
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c5\u03b3\u03ad\u03b9\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nuweiba"
@@ -55,20 +52,8 @@
     "name:fra_x_preferred":[
         "Nuweiba"
     ],
-    "name:fre_x_preferred":[
-        "Nuweiba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10e3\u10d5\u10d0\u10d8\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Nuwaiba"
-    ],
     "name:gle_x_preferred":[
         "Nuweiba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03c5\u03b3\u03ad\u03b9\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac1\u0ab5\u0ac7\u0a87\u0aac\u0abe"
@@ -106,7 +91,7 @@
     "name:mar_x_preferred":[
         "\u0928\u0941\u0935\u0947\u0907\u092c\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nuweiba"
     ],
     "name:nld_x_preferred":[
@@ -114,9 +99,6 @@
     ],
     "name:nob_x_preferred":[
         "Nuweiba"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u06cc\u0628\u0639"
     ],
     "name:pol_x_preferred":[
         "Nuwajbi"
@@ -198,7 +180,7 @@
         }
     ],
     "wof:id":421189939,
-    "wof:lastmodified":1527716263,
+    "wof:lastmodified":1561827073,
     "wof:name":"Nuwaiba",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

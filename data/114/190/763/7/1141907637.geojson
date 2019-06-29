@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0633\u0648\u064a\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0576\u056b \u054d\u0578\u0582\u0565\u0575\u0586"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043d\u0456-\u0421\u0443\u044d\u0439\u0444"
     ],
@@ -32,17 +29,17 @@
     "name:cat_x_preferred":[
         "Bani Suwayf"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u5c3c\u8607\u97cb\u592b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "B\u00e1n\u00ed Suvajf"
     ],
     "name:dan_x_preferred":[
         "Beni Suef"
     ],
-    "name:dut_x_preferred":[
-        "Beni Suef"
+    "name:deu_x_preferred":[
+        "Bani Suwaif"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03bd\u03b9 \u03a3\u03bf\u03c5\u03ad\u03c6"
     ],
     "name:eng_x_preferred":[
         "Beni Suef"
@@ -50,23 +47,17 @@
     "name:est_x_preferred":[
         "Ban\u012b Suwayf"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06cc \u0633\u0648\u06cc\u0641"
+    ],
     "name:fin_x_preferred":[
         "Beni Suef"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Beni Suef"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d8-\u10e1\u10e3\u10d0\u10e4\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bani Suwaif"
     ],
     "name:gle_x_preferred":[
         "Beni Suef"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03bd\u03b9 \u03a3\u03bf\u03c5\u03ad\u03c6"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8\u0ac0 \u0ab8\u0ac1\u0a87\u0aab"
@@ -79,6 +70,9 @@
     ],
     "name:hun_x_preferred":[
         "Bani Szuvajf"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0576\u056b \u054d\u0578\u0582\u0565\u0575\u0586"
     ],
     "name:ind_x_preferred":[
         "Beni Suef"
@@ -95,6 +89,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc6\u0ca8\u0cbf \u0cb8\u0ccd\u0caf\u0cc2\u0cab\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d8-\u10e1\u10e3\u10d0\u10e4\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubca0\ub2c8\uc218\uc5d0\ud504"
     ],
@@ -107,14 +104,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0928\u0940 \u0938\u0941\u090f\u092b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Beni Suef"
+    ],
+    "name:nld_x_preferred":[
         "Beni Suef"
     ],
     "name:nob_x_preferred":[
         "Beni Suef"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0646\u06cc \u0633\u0648\u06cc\u0641"
     ],
     "name:pol_x_preferred":[
         "Bani Suwajf"
@@ -166,6 +163,9 @@
     ],
     "name:war_x_preferred":[
         "Beni Suef"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u5c3c\u8607\u97cb\u592b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -286,7 +286,7 @@
         }
     ],
     "wof:id":1141907637,
-    "wof:lastmodified":1513956679,
+    "wof:lastmodified":1561827095,
     "wof:name":"Beni Suef",
     "wof:parent_id":1092015341,
     "wof:placetype":"locality",

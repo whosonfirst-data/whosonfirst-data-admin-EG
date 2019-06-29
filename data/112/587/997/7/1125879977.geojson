@@ -22,8 +22,11 @@
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c \u0645\u0643\u0627\u062f\u064a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Makadi Bay"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03b7\u03c2 \u039c\u03b1\u03ba\u03b1\u03bd\u03c4\u03af"
     ],
     "name:eng_x_preferred":[
         "Makady"
@@ -31,14 +34,11 @@
     "name:eng_x_variant":[
         "Makadi Bay"
     ],
-    "name:ger_x_preferred":[
-        "Makadi Bay"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03bb\u03c0\u03bf\u03c2 \u03c4\u03b7\u03c2 \u039c\u03b1\u03ba\u03b1\u03bd\u03c4\u03af"
-    ],
     "name:lit_x_preferred":[
         "Makadi Bei"
+    ],
+    "name:nld_x_preferred":[
+        "Makadi Bay"
     ],
     "name:pol_x_preferred":[
         "makadi bay"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125879977,
-    "wof:lastmodified":1513956701,
+    "wof:lastmodified":1561827076,
     "wof:name":"Makadi Bay",
     "wof:parent_id":1092021497,
     "wof:placetype":"locality",

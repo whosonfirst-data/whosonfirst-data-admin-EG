@@ -31,38 +31,32 @@
     "name:cat_x_preferred":[
         "Banha"
     ],
-    "name:chi_x_preferred":[
-        "\u672c\u54c8"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Banha"
     ],
     "name:dan_x_preferred":[
         "Banha"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Banha"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03bd\u03c7\u03b1"
     ],
     "name:eng_x_preferred":[
         "Banha"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u0647\u0627"
+    ],
     "name:fin_x_preferred":[
         "Banha"
     ],
-    "name:fre_x_preferred":[
-        "Banha"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10f0\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Banha"
     ],
     "name:gle_x_preferred":[
         "Banha"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03bd\u03c7\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa8\u0acd\u0ab9\u0abe"
@@ -82,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cbe\u0ca8\u0ccd\u0cb9"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10f0\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u0435\u043d\u0445\u0430"
     ],
@@ -97,14 +94,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0945\u0928\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Banha"
+    ],
+    "name:nld_x_preferred":[
         "Banha"
     ],
     "name:nob_x_preferred":[
         "Banha"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0646\u0647\u0627"
     ],
     "name:pol_x_preferred":[
         "Banha"
@@ -157,6 +154,9 @@
     "name:war_x_preferred":[
         "Banha"
     ],
+    "name:zho_x_preferred":[
+        "\u672c\u54c8"
+    ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
     "qs_pg:gn_fcode":"PPLA",
@@ -196,7 +196,7 @@
         }
     ],
     "wof:id":1125854249,
-    "wof:lastmodified":1513956674,
+    "wof:lastmodified":1561827077,
     "wof:name":"Banh\u0101",
     "wof:parent_id":1092015253,
     "wof:placetype":"locality",
