@@ -18,10 +18,10 @@
     "name:ara_x_preferred":[
         "\u0623\u0634\u0645\u0648\u0646"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Ashmoun"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Ashmoun"
     ],
     "name:pol_x_preferred":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":890422285,
-    "wof:lastmodified":1513956665,
+    "wof:lastmodified":1561827074,
     "wof:name":"Ashm\u016bn",
     "wof:parent_id":1092014621,
     "wof:placetype":"locality",

@@ -22,8 +22,8 @@
     "name:dan_x_preferred":[
         "New Cairo"
     ],
-    "name:dut_x_preferred":[
-        "New Cairo"
+    "name:deu_x_preferred":[
+        "Neu-Kairo"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03ad\u03bf \u039a\u03ac\u03b9\u03c1\u03bf"
@@ -39,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Nouveau Caire"
-    ],
-    "name:fre_x_preferred":[
-        "Nouveau Caire"
-    ],
-    "name:ger_x_preferred":[
-        "Neu-Kairo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03ad\u03bf \u039a\u03ac\u03b9\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acd\u0aaf\u0ac2 \u0a95\u0ac8\u0ab0\u0acb"
@@ -79,14 +70,14 @@
     "name:mar_x_preferred":[
         "\u0928\u094d\u092f\u0942 \u0915\u0945\u0930\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "New Cairo"
+    ],
+    "name:nld_x_preferred":[
         "New Cairo"
     ],
     "name:nob_x_preferred":[
         "Nye Cairo"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0627\u0647\u0631\u0647 \u062c\u062f\u06cc\u062f"
     ],
     "name:pol_x_preferred":[
         "Al-Q\u0101hera el-Ged\u012bda"
@@ -179,7 +170,7 @@
         }
     ],
     "wof:id":421175733,
-    "wof:lastmodified":1527716341,
+    "wof:lastmodified":1561827074,
     "wof:name":"New Cairo",
     "wof:parent_id":1092022997,
     "wof:placetype":"locality",

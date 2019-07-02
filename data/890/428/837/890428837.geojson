@@ -21,23 +21,14 @@
     "name:arz_x_preferred":[
         "\u0631\u0634\u064a\u062f"
     ],
-    "name:baq_x_preferred":[
-        "Rosetta"
-    ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u0437\u0435\u0442\u0430"
     ],
     "name:cat_x_preferred":[
         "Rosetta"
     ],
-    "name:chi_x_preferred":[
-        "\u7f85\u585e\u5854"
-    ],
     "name:deu_x_preferred":[
         "Rosette"
-    ],
-    "name:dut_x_preferred":[
-        "Rosetta"
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03bf\u03b6\u03ad\u03c4\u03b1"
@@ -51,23 +42,17 @@
     "name:est_x_preferred":[
         "Rash\u012bd"
     ],
+    "name:eus_x_preferred":[
+        "Rosetta"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0634\u06cc\u062f"
     ],
     "name:fra_x_preferred":[
         "Rachid"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Rosette"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10e8\u10d8\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rosette"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03bf\u03b6\u03ad\u03c4\u03b1"
     ],
     "name:hbs_x_preferred":[
         "Ra\u0161id"
@@ -108,9 +93,6 @@
     "name:nob_x_preferred":[
         "Rosetta"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0634\u06cc\u062f"
-    ],
     "name:pol_x_preferred":[
         "Rosetta"
     ],
@@ -121,9 +103,6 @@
         "\u0420\u0430\u0448\u0438\u0434"
     ],
     "name:slk_x_preferred":[
-        "Ar-Ra\u0161\u00edd"
-    ],
-    "name:slo_x_preferred":[
         "Ar-Ra\u0161\u00edd"
     ],
     "name:slv_x_preferred":[
@@ -187,7 +166,7 @@
         }
     ],
     "wof:id":890428837,
-    "wof:lastmodified":1527782118,
+    "wof:lastmodified":1561827075,
     "wof:name":"Rosetta",
     "wof:parent_id":1092023921,
     "wof:placetype":"locality",

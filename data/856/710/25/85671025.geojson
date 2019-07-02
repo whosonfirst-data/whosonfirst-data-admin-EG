@@ -45,9 +45,6 @@
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0645\u064a\u0627\u0637",
         "Dumy\u0101\u0163"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0582\u0574\u0575\u0561\u0569"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u0443\u043c'\u044f\u0442"
     ],
@@ -63,10 +60,7 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Damietta"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u59c6\u4e9e\u7279\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Dimj\u00e1t"
     ],
     "name:dan_x_preferred":[
@@ -75,8 +69,8 @@
     "name:deu_x_preferred":[
         "Dumyat"
     ],
-    "name:dut_x_preferred":[
-        "Damietta"
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0394\u03b1\u03bc\u03b9\u03ad\u03c4\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Dumiat"
@@ -90,26 +84,23 @@
     "name:epo_x_preferred":[
         "Provinco Dumjat"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0645\u06cc\u0627\u0637"
+    ],
     "name:fin_x_preferred":[
         "Dumjatin kuvernoraatti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat de Damiette"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10db\u10d8\u10d0\u10e2\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Dumyat"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0394\u03b1\u03bc\u03b9\u03ad\u03c4\u03b7\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aae\u0abf\u0a8f\u0a9f\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0941\u092e\u092f\u093e\u0924 \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0582\u0574\u0575\u0561\u0569"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Dumyat"
@@ -122,6 +113,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca1\u0cbe\u0cae\u0cbf\u0ca4\u0cbe \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10db\u10d8\u10d0\u10e2\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ub2e4\ubbf8\uc5d0\ud0c0 \uc8fc"
@@ -138,17 +132,17 @@
     "name:mar_x_preferred":[
         "\u0921\u0945\u092e\u093f\u090f\u091f\u091f\u093e \u0917\u0935\u094d\u0939\u0930\u0928\u0947\u091f\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Damietta Governorate"
     ],
     "name:nld_x_preferred":[
         "Dumyat"
     ],
+    "name:nld_x_variant":[
+        "Damietta"
+    ],
     "name:nob_x_preferred":[
         "Guvernementet Dumyat"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0645\u06cc\u0627\u0637"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062f\u0645\u06cc\u0627\u0637"
@@ -159,7 +153,7 @@
     "name:por_x_preferred":[
         "Damieta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dumyat"
     ],
     "name:rus_x_preferred":[
@@ -212,6 +206,9 @@
     ],
     "name:war_x_preferred":[
         "Damietta"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u59c6\u4e9e\u7279\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -336,7 +333,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967937,
+    "wof:lastmodified":1561827039,
     "wof:name":"Dumyat",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -16,10 +16,10 @@
     "name:ara_x_preferred":[
         "\u062a\u0644\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Tala"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Tala"
     ],
     "name:pol_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421195823,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561827072,
     "wof:name":"\u0645\u0631\u0643\u0632 \u062a\u0644\u0627",
     "wof:parent_id":1092025145,
     "wof:placetype":"locality",

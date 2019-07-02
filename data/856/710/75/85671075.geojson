@@ -63,17 +63,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Qena"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u7d0d\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ken\u00e1"
     ],
     "name:dan_x_preferred":[
         "Qina"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Qina"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039a\u03ad\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Qena"
@@ -88,20 +88,14 @@
     "name:est_x_preferred":[
         "Qin\u0101 kubernerkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Qinan kuvernoraatti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "gouvernorat de Qena"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d4\u10dc\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Qina"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039a\u03ad\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0ac7\u0aa8\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -121,6 +115,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0caf\u0cc2\u0ca8\u0cbe \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10dc\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ucf00\ub098 \uc8fc"
     ],
@@ -136,14 +133,14 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u092f\u0926\u0947 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Qena Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Qina"
     ],
     "name:nob_x_preferred":[
         "Guvernementet Qina"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0646\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0642\u0646\u0627"
@@ -154,7 +151,7 @@
     "name:por_x_preferred":[
         "Qina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Qena"
     ],
     "name:rus_x_preferred":[
@@ -207,6 +204,9 @@
     ],
     "name:war_x_preferred":[
         "Qena"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7d0d\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -332,7 +332,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967936,
+    "wof:lastmodified":1561827037,
     "wof:name":"Qina",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

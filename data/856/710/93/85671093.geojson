@@ -44,9 +44,6 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0645\u0627\u0644 \u0633\u064a\u0646\u0627\u0621"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u054d\u056b\u0576\u0561\u0575"
-    ],
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0645\u0627\u0644 \u0633\u064a\u0646\u0627"
     ],
@@ -62,17 +59,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 del Sina\u00ed del Nord"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u897f\u5948\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Severn\u00ed Sinaj"
     ],
     "name:dan_x_preferred":[
         "Shamal Sina'"
     ],
-    "name:dut_x_preferred":[
-        "Noord-Sina\u00ef"
+    "name:deu_x_preferred":[
+        "Schimal Sina"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03a3\u03b9\u03bd\u03ac"
     ],
     "name:eng_x_preferred":[
         "North Sinai"
@@ -87,20 +84,14 @@
     "name:est_x_preferred":[
         "P\u00f5hja-Siinai kubernerkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "\u0160amal Sina'"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat du Sina\u00ef Nord"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7 \u10e1\u10d8\u10dc\u10d0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Schimal Sina"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0392\u03bf\u03c1\u03b5\u03af\u03bf\u03c5 \u03a3\u03b9\u03bd\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa5 \u0ab8\u0abf\u0aa8\u0abe\u0a87 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -110,6 +101,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0938\u0940\u0928\u093e\u0908 \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0575\u0578\u0582\u057d\u056b\u057d\u0561\u0575\u056b\u0576 \u054d\u056b\u0576\u0561\u0575"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Syamal Sina'"
@@ -123,6 +117,9 @@
     "name:kan_x_preferred":[
         "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0cb8\u0cbf\u0ca8\u0cc8 \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7 \u10e1\u10d8\u10dc\u10d0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc0e4\ub9d0\uc2dc\ub098 \uc8fc"
     ],
@@ -135,20 +132,20 @@
     "name:lit_x_preferred":[
         "\u0160iaur\u0117s Sinajaus muchafaza"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0421\u0438\u043d\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0949\u0930\u094d\u0925 \u0938\u093f\u0928\u093e\u0908 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0421\u0438\u043d\u0430\u0458"
+    ],
+    "name:msa_x_preferred":[
         "North Sinai Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Noord-Sina\u00ef"
     ],
     "name:nob_x_preferred":[
         "Guvernementet Shamal Sina'"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u062a\u0644\u0627 \u0633\u06cc\u0646\u0627\u0626\u06cc"
@@ -159,7 +156,7 @@
     "name:por_x_preferred":[
         "Sinai do Norte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Shamal Sina'"
     ],
     "name:rus_x_preferred":[
@@ -212,6 +209,9 @@
     ],
     "name:war_x_preferred":[
         "Amihanan nga Sinai"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u897f\u5948\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -335,7 +335,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967935,
+    "wof:lastmodified":1561827037,
     "wof:name":"Shamal Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

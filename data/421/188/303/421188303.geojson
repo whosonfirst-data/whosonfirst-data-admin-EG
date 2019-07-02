@@ -16,26 +16,26 @@
     "name:ara_x_preferred":[
         "\u0637\u0645\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Tima"
+    "name:ell_x_preferred":[
+        "\u03a4\u03af\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tima"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0637\u0645\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Tima"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d8\u10db\u10d0"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03af\u03bc\u03b1"
     ],
     "name:jpn_x_preferred":[
         "\u30c6\u30a3\u30de"
     ],
-    "name:per_x_preferred":[
-        "\u0637\u0645\u0627"
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10db\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Tima"
     ],
     "name:pol_x_preferred":[
         "Tima"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":421188303,
-    "wof:lastmodified":1513956729,
+    "wof:lastmodified":1561827073,
     "wof:name":"\u0637\u0645\u0627",
     "wof:parent_id":1092025329,
     "wof:placetype":"locality",

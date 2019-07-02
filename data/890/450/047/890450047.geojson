@@ -18,9 +18,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u064a\u0648\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Basyoun"
-    ],
     "name:eng_x_preferred":[
         "Basyoun"
     ],
@@ -29,6 +26,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0441\u044c\u044e\u043d \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:nld_x_preferred":[
+        "Basyoun"
     ],
     "name:pol_x_preferred":[
         "Basjun"
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":890450047,
-    "wof:lastmodified":1513956678,
+    "wof:lastmodified":1561827076,
     "wof:name":"Basy\u016bn",
     "wof:parent_id":1092015375,
     "wof:placetype":"locality",

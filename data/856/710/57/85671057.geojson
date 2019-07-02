@@ -59,17 +59,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Kafr al-Sheikh"
     ],
-    "name:chi_x_preferred":[
-        "\u8b1d\u8d6b\u6751\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Kafr a\u0161-\u0160ajch"
     ],
     "name:dan_x_preferred":[
         "Kafr ash Shaykh"
     ],
-    "name:dut_x_preferred":[
-        "Kafr el Sheikh"
+    "name:deu_x_preferred":[
+        "Kafr asch-Schaich"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039a\u03b1\u03c6\u03c1 \u03b5\u03bb \u03a3\u03b5\u0390\u03c7"
     ],
     "name:eng_x_preferred":[
         "Kafr El Sheikh"
@@ -83,20 +83,14 @@
     "name:epo_x_preferred":[
         "Provinco Kafr a\u015d-\u015cej\u0125"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0641\u0631\u0627\u0644\u0634\u06cc\u062e"
+    ],
     "name:fin_x_preferred":[
         "Kafr al-\u0160aykh"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat de Kafr el-Cheik"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10d0\u10e4\u10e0-\u10d4\u10da-\u10e8\u10d0\u10d8\u10ee\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Kafr asch-Schaich"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039a\u03b1\u03c6\u03c1 \u03b5\u03bb \u03a3\u03b5\u0390\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aab\u0ab0 \u0a85\u0ab2-\u0ab6\u0ac7\u0a96 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -116,6 +110,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cbe\u0cab\u0ccd\u0cb0\u0ccd \u0c8e\u0cb2\u0ccd-\u0cb6\u0cc7\u0c96\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10e4\u10e0-\u10d4\u10da-\u10e8\u10d0\u10d8\u10ee\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ud504\ub974\uc5d8\uc170\uc774\ud06c \uc8fc"
     ],
@@ -131,14 +128,14 @@
     "name:mar_x_preferred":[
         "\u0915\u092b\u0930 \u090f\u0932-\u0936\u0947\u0916 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kafr el-Sheikh Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Kafr el Sheikh"
     ],
     "name:nob_x_preferred":[
         "Kafr ash Shaykh"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0641\u0631\u0627\u0644\u0634\u06cc\u062e"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0641\u0631\u0627\u0644\u0634\u06cc\u062e"
@@ -149,7 +146,7 @@
     "name:por_x_preferred":[
         "Kafr el-Sheikh"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Kafr el-Sheikh"
     ],
     "name:rus_x_preferred":[
@@ -161,7 +158,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dc6\u0dca\u0dbb\u0dca \u0d91\u0dbd\u0dca-\u0dc2\u0dd9\u0dba\u0dd2\u0d9a\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kafr a\u0161-\u0160ajch"
     ],
     "name:spa_x_preferred":[
@@ -202,6 +199,9 @@
     ],
     "name:war_x_preferred":[
         "Kafr el-Sheikh"
+    ],
+    "name:zho_x_preferred":[
+        "\u8b1d\u8d6b\u6751\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -325,7 +325,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967935,
+    "wof:lastmodified":1561827036,
     "wof:name":"Kafr ash Shaykh",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

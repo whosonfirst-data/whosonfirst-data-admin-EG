@@ -61,17 +61,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Sohag"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u54c8\u5091\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Suhag"
     ],
     "name:dan_x_preferred":[
         "Sohag Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Suhaj"
+    "name:deu_x_preferred":[
+        "Sauhadsch"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03a3\u03bf\u03c7\u03ac\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Sohag"
@@ -83,20 +83,14 @@
     "name:epo_x_preferred":[
         "Provinco Sa\u016dha\u011d"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u0647\u0627\u062c"
+    ],
     "name:fin_x_preferred":[
         "Suhaj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat de Sohag"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10f0\u10d0\u10d2\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Sauhadsch"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03a3\u03bf\u03c7\u03ac\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0ab9\u0a97 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -119,6 +113,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cca\u0cb9\u0cbe\u0c97\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10f0\u10d0\u10d2\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc18c\ud558\uadf8 \uc8fc"
     ],
@@ -134,14 +131,14 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0939\u093e\u0917 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sohag Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Suhaj"
     ],
     "name:nob_x_preferred":[
         "Suhaj"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u0647\u0627\u062c"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0648\u06c1\u0627\u062c"
@@ -152,7 +149,7 @@
     "name:por_x_preferred":[
         "Sohag"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Sohag"
     ],
     "name:rus_x_preferred":[
@@ -164,7 +161,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0ddc\u0dc4\u0dcf\u0d9c\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sawh\u00e1d\u017e"
     ],
     "name:spa_x_preferred":[
@@ -211,6 +208,9 @@
     ],
     "name:war_x_preferred":[
         "Sohag"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u54c8\u5091\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -334,7 +334,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967936,
+    "wof:lastmodified":1561827037,
     "wof:name":"Suhaj",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

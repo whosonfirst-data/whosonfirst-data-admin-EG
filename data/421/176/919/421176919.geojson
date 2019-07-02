@@ -23,14 +23,8 @@
     "name:ara_x_variant":[
         "\u062f\u0645\u064a\u0627\u0637"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0561\u0574\u056b\u0565\u057f\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u062f\u0645\u064a\u0627\u0637"
-    ],
-    "name:baq_x_preferred":[
-        "Damietta"
     ],
     "name:bel_x_preferred":[
         "\u0414\u0443\u043c'\u044f\u0442"
@@ -44,20 +38,11 @@
     "name:ces_x_preferred":[
         "Damietta"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u59c6\u4e9a\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Damietta"
-    ],
     "name:dan_x_preferred":[
         "Damietta"
     ],
     "name:deu_x_preferred":[
         "Damiette"
-    ],
-    "name:dut_x_preferred":[
-        "Damietta"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b1\u03bc\u03b9\u03ad\u03c4\u03b7"
@@ -68,6 +53,9 @@
     "name:epo_x_preferred":[
         "Damiato"
     ],
+    "name:eus_x_preferred":[
+        "Damietta"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0645\u06cc\u0627\u0637"
     ],
@@ -76,18 +64,6 @@
     ],
     "name:fra_x_preferred":[
         "Damiette"
-    ],
-    "name:fre_x_preferred":[
-        "Damiette"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10db\u10d8\u10d0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Damiette"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b1\u03bc\u03b9\u03ad\u03c4\u03b7"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05de\u05d9\u05d0\u05d8"
@@ -131,9 +107,6 @@
     "name:pan_x_preferred":[
         "\u0a26\u0a2e\u0a40\u0a06\u0a24"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0645\u06cc\u0627\u0637"
-    ],
     "name:pol_x_preferred":[
         "Damietta"
     ],
@@ -147,9 +120,6 @@
         "Damietta"
     ],
     "name:slk_x_preferred":[
-        "Dumj\u00e1t"
-    ],
-    "name:slo_x_preferred":[
         "Dumj\u00e1t"
     ],
     "name:spa_x_preferred":[
@@ -327,7 +297,7 @@
         }
     ],
     "wof:id":421176919,
-    "wof:lastmodified":1513956688,
+    "wof:lastmodified":1561827074,
     "wof:name":"Dumyat",
     "wof:parent_id":1092016349,
     "wof:placetype":"locality",

@@ -24,7 +24,7 @@
     "name:ben_x_preferred":[
         "\u09a8\u09cb\u09ad\u09c7\u0987\u09ac\u09be"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Nuweiba"
     ],
     "name:dan_x_preferred":[
@@ -33,8 +33,8 @@
     "name:deu_x_preferred":[
         "Nuwaiba"
     ],
-    "name:dut_x_preferred":[
-        "Nuweiba"
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c5\u03b3\u03ad\u03b9\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nueiba"
@@ -45,23 +45,17 @@
     "name:est_x_preferred":[
         "Nuwaybi\u2018"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06cc\u0628\u0639"
+    ],
     "name:fin_x_preferred":[
         "Nuweiba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nuweiba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10e3\u10d5\u10d0\u10d8\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Nuwaiba"
     ],
     "name:gle_x_preferred":[
         "Nuweiba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03c5\u03b3\u03ad\u03b9\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac1\u0ab5\u0ac7\u0a87\u0aac\u0abe"
@@ -84,6 +78,9 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cc1\u0cb5\u0cbf\u0cac\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10d5\u10d0\u10d8\u10d1\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub204\uc6e8\uc774\ubc14"
     ],
@@ -96,14 +93,14 @@
     "name:mar_x_preferred":[
         "\u0928\u0941\u0935\u0947\u0907\u092c\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Nuweiba"
+    ],
+    "name:nld_x_preferred":[
         "Nuweiba"
     ],
     "name:nob_x_preferred":[
         "Nuweiba"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u06cc\u0628\u0639"
     ],
     "name:pol_x_preferred":[
         "Nuwajbi"
@@ -173,7 +170,7 @@
         }
     ],
     "wof:id":890451967,
-    "wof:lastmodified":1513956706,
+    "wof:lastmodified":1561827076,
     "wof:name":"Nuwaybi\u2018a",
     "wof:parent_id":85671089,
     "wof:placetype":"locality",

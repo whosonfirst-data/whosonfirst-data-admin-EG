@@ -59,17 +59,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Matruh"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7279\u9b6f\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Matr\u00fah"
     ],
     "name:dan_x_preferred":[
         "Matruh"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Matruh"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039c\u03b1\u03c4\u03c1\u03bf\u03cd\u03c7"
     ],
     "name:eng_x_preferred":[
         "Matrouh"
@@ -83,20 +83,14 @@
     "name:epo_x_preferred":[
         "Provinco Matruh"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0637\u0631\u0648\u062d"
+    ],
     "name:fin_x_preferred":[
         "Matruhin kuvernoraatti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat de Marsa-Matruh"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e2\u10e0\u10e3\u10f0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Matruh"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039c\u03b1\u03c4\u03c1\u03bf\u03cd\u03c7"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0a9f\u0acd\u0ab0\u0acb\u0ab9 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -122,6 +116,9 @@
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e2\u10e0\u10e3\u10f0\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10db\u10d0\u10e2\u10e0\u10e3\u10f0\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ud2b8\ub8e8 \uc8fc"
     ],
@@ -134,20 +131,20 @@
     "name:lit_x_preferred":[
         "Matruho muchafaza"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u0442\u0440\u0443\u0445"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u0945\u091f\u0930\u092b \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0442\u0440\u0443\u0445"
+    ],
+    "name:msa_x_preferred":[
         "Matrouh Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Matruh"
     ],
     "name:nob_x_preferred":[
         "Guvernementet Matruh"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0637\u0631\u0648\u062d"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u0637\u0631\u0648\u062d"
@@ -158,7 +155,7 @@
     "name:por_x_preferred":[
         "Matruh"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Matruh"
     ],
     "name:rus_x_preferred":[
@@ -211,6 +208,9 @@
     ],
     "name:war_x_preferred":[
         "Matruh"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7279\u9b6f\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -335,7 +335,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967936,
+    "wof:lastmodified":1561827037,
     "wof:name":"Matruh",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

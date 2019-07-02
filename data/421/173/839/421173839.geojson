@@ -22,35 +22,35 @@
     "name:ben_x_preferred":[
         "\u0986\u0987\u09a8 \u09b8\u09c1\u0996\u09a8\u09be"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ain Soukhna"
     ],
-    "name:dut_x_preferred":[
-        "Ain Sukhna"
+    "name:deu_x_preferred":[
+        "al-Ain as-Suchna"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u0390\u03bd \u03a3\u03bf\u03cd\u03c7\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ain Sukhna"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0639\u06cc\u0646 \u0627\u0644\u0633\u062e\u0646\u0629"
+    ],
+    "name:fra_x_preferred":[
         "Ain Sukhna"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d8\u10dc-\u10e1\u10e3\u10ee\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "al-Ain as-Suchna"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u0390\u03bd \u03a3\u03bf\u03cd\u03c7\u03bd\u03b1"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30a4\u30f3\u30fb\u30b9\u30af\u30ca"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10dc-\u10e1\u10e3\u10ee\u10dc\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc778 \uc218\ud06c\ub098"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0639\u06cc\u0646 \u0627\u0644\u0633\u062e\u0646\u0629"
+    "name:nld_x_preferred":[
+        "Ain Sukhna"
     ],
     "name:pol_x_preferred":[
         "Ajn Suchna"
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421173839,
-    "wof:lastmodified":1513956673,
+    "wof:lastmodified":1561827073,
     "wof:name":"Ayn Sukhnah",
     "wof:parent_id":1092023197,
     "wof:placetype":"locality",

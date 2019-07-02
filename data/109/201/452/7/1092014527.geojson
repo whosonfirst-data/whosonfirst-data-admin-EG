@@ -48,10 +48,7 @@
     "name:cat_x_preferred":[
         "Ayn Shams"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u56e0\u6c99\u59c6\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ain Shams"
     ],
     "name:eng_x_preferred":[
@@ -61,17 +58,17 @@
         "Ain Shams",
         "'Ain Schams"
     ],
-    "name:fre_x_preferred":[
-        "Ain Shams"
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0634\u0645\u0633"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ain Shams"
     ],
     "name:gle_x_preferred":[
         "Ain Shams"
     ],
-    "name:per_x_preferred":[
-        "\u0639\u06cc\u0646 \u0634\u0645\u0633"
+    "name:nld_x_preferred":[
+        "Ain Shams"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u043d-\u0428\u0430\u043c\u0441"
@@ -81,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0439\u043d-\u0428\u0430\u043c\u0441"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u56e0\u6c99\u59c6\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":1092014527,
-    "wof:lastmodified":1560969122,
+    "wof:lastmodified":1561827068,
     "wof:name":"Ain Shams",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

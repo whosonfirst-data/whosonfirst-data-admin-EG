@@ -19,9 +19,6 @@
     "name:arz_x_preferred":[
         "\u0642\u0641\u0637"
     ],
-    "name:baq_x_preferred":[
-        "Koptos"
-    ],
     "name:bel_x_preferred":[
         "\u041a\u043e\u043f\u0442\u0430\u0441"
     ],
@@ -31,8 +28,11 @@
     "name:deu_x_preferred":[
         "Koptos"
     ],
-    "name:dut_x_preferred":[
-        "Koptos"
+    "name:deu_x_variant":[
+        "Qift"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c0\u03c4\u03cc\u03c2"
     ],
     "name:eng_x_preferred":[
         "Qift"
@@ -45,15 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Coptos"
-    ],
-    "name:fre_x_preferred":[
-        "Coptos"
-    ],
-    "name:ger_x_preferred":[
-        "Qift"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c0\u03c4\u03cc\u03c2"
     ],
     "name:hbs_x_preferred":[
         "Qift"
@@ -69,9 +60,6 @@
     ],
     "name:nld_x_preferred":[
         "Koptos"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0641\u0637"
     ],
     "name:pol_x_preferred":[
         "Koptos"
@@ -152,7 +140,7 @@
         }
     ],
     "wof:id":421183509,
-    "wof:lastmodified":1527717694,
+    "wof:lastmodified":1561827074,
     "wof:name":"Qift",
     "wof:parent_id":1092020789,
     "wof:placetype":"locality",

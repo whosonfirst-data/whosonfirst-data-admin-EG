@@ -68,23 +68,17 @@
     "name:ces_x_preferred":[
         "B\u00e1n\u00ed Suvajf"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u5c3c\u82cf\u97e6\u592b\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "B\u00e1n\u00ed Suvajf"
-    ],
     "name:dan_x_preferred":[
         "Bani Suwayf"
     ],
     "name:deu_x_preferred":[
         "Bani Suwaif"
     ],
-    "name:dut_x_preferred":[
-        "Beni Suef"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ad\u03bd\u03b9 \u03a3\u03bf\u03c5\u03ad\u03c6"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039c\u03c0\u03ad\u03bd\u03b9 \u03a3\u03bf\u03c5\u03ad\u03c6"
     ],
     "name:eng_x_preferred":[
         "Bani Sueif"
@@ -106,26 +100,20 @@
     "name:fas_x_preferred":[
         "\u0628\u0646\u06cc \u0633\u0648\u06cc\u0641"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0646\u06cc\u200c\u0633\u0648\u06cc\u0641"
+    ],
     "name:fin_x_preferred":[
         "Bani Suwaifin kuvernoraatti"
     ],
     "name:fra_x_preferred":[
         "Beni Suef"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat de Beni Souef"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d8-\u10e1\u10e3\u10d0\u10e4\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bani Suwaif"
     ],
     "name:gle_x_preferred":[
         "Beni Suef"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039c\u03c0\u03ad\u03bd\u03b9 \u03a3\u03bf\u03c5\u03ad\u03c6"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8\u0ac0 \u0ab8\u0ac1\u0a8f\u0aab \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -160,6 +148,9 @@
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10dc\u10d8-\u10e1\u10e3\u10d0\u10e4\u10d8"
     ],
+    "name:kat_x_variant":[
+        "\u10d1\u10d0\u10dc\u10d8-\u10e1\u10e3\u10d0\u10e4\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubca0\ub2c8\uc218\uc5d0\ud504"
     ],
@@ -175,11 +166,11 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0928\u0940 \u0938\u0941\u090f\u092b \u0917\u0935\u094d\u0939\u0930\u0928\u0947\u091f\u0947\u091f"
     ],
-    "name:may_x_preferred":[
-        "Beni Suef Governorate"
-    ],
     "name:msa_x_preferred":[
         "Beni Suef"
+    ],
+    "name:msa_x_variant":[
+        "Beni Suef Governorate"
     ],
     "name:nld_x_preferred":[
         "Beni Suef"
@@ -190,9 +181,6 @@
     "name:nor_x_preferred":[
         "Beni Suef"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0646\u06cc\u200c\u0633\u0648\u06cc\u0641"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0646\u06cc \u0633\u06cc\u0648\u0641"
     ],
@@ -202,7 +190,7 @@
     "name:por_x_preferred":[
         "Beni Suef"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bani Suwayf"
     ],
     "name:rus_x_preferred":[
@@ -258,6 +246,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u5c3c\u8607\u97cb\u592b"
+    ],
+    "name:zho_x_variant":[
+        "\u8d1d\u5c3c\u82cf\u97e6\u592b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -386,7 +377,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967936,
+    "wof:lastmodified":1561827037,
     "wof:name":"Bani Suwayf",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

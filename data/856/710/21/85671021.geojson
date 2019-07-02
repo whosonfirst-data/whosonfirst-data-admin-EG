@@ -63,17 +63,17 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Port Sa\u00efd"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u5f97\u6e2f\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Port Said"
     ],
     "name:dan_x_preferred":[
         "Bur Sa'id"
     ],
-    "name:dut_x_preferred":[
-        "Port Said"
+    "name:deu_x_preferred":[
+        "Bur Sa\u02bfid"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03a0\u03bf\u03c1\u03c4 \u03a3\u03ac\u03b9\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Port Said"
@@ -86,20 +86,14 @@
     "name:epo_x_preferred":[
         "Provinco Port Said"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0648\u0631\u062a\u200c\u0633\u0639\u06cc\u062f"
+    ],
     "name:fin_x_preferred":[
         "Bur Sa\u2019idin kuvernoraatti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat de Port-Sa\u00efd"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e0\u10e2-\u10e1\u10d0\u10d8\u10d3\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bur Sa\u02bfid"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03a0\u03bf\u03c1\u03c4 \u03a3\u03ac\u03b9\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0acd\u0a9f \u0ab8\u0ac7\u0aa1 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -119,6 +113,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd \u0cb8\u0cc7\u0ca1\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e0\u10e2-\u10e1\u10d0\u10d8\u10d3\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ud3ec\ud2b8\uc0ac\uc774\ub4dc \uc8fc"
     ],
@@ -134,14 +131,14 @@
     "name:mar_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f \u0938\u0947\u0921 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Port Said Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Port Said"
     ],
     "name:nob_x_preferred":[
         "Bur Sa'id"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0648\u0631\u062a\u200c\u0633\u0639\u06cc\u062f"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u0648\u0631\u0679 \u0633\u0639\u06cc\u062f"
@@ -152,7 +149,7 @@
     "name:por_x_preferred":[
         "Governamento de Porto Said"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bur Sa'id"
     ],
     "name:rus_x_preferred":[
@@ -205,6 +202,9 @@
     ],
     "name:war_x_preferred":[
         "Port Said"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5f97\u6e2f\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -329,7 +329,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967935,
+    "wof:lastmodified":1561827037,
     "wof:name":"Bur Sa`id",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

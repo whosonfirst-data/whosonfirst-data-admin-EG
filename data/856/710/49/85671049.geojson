@@ -45,9 +45,6 @@
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0646\u064a\u0627",
         "Al Miny\u0101"
     ],
-    "name:arm_x_preferred":[
-        "\u0537\u056c \u0544\u056b\u0576\u0575\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u0646\u064a\u0627"
     ],
@@ -66,10 +63,7 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 d'Al-Minya"
     ],
-    "name:chi_x_preferred":[
-        "\u660e\u4e9e\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Minj\u00e1"
     ],
     "name:dan_x_preferred":[
@@ -78,8 +72,11 @@
     "name:deu_x_preferred":[
         "Minya"
     ],
-    "name:dut_x_preferred":[
-        "Minya"
+    "name:deu_x_variant":[
+        "al-Minya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039c\u03af\u03bd\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Menia"
@@ -93,20 +90,14 @@
     "name:epo_x_preferred":[
         "Provinco Minja"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0646\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Al-Minyan kuvernoraatti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gouvernorat de Minya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10db\u10d8\u10dc\u10d8\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "al-Minya"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039c\u03af\u03bd\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0aa8\u0acd\u0aaf\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -116,6 +107,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u093f\u0928\u094d\u092f\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u0544\u056b\u0576\u0575\u0561"
     ],
     "name:ind_x_preferred":[
         "Al Minya"
@@ -131,6 +125,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0ca8\u0ccd\u0caf \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10db\u10d8\u10dc\u10d8\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
     ],
     "name:kir_x_preferred":[
         "\u041c\u0438\u043d\u044c\u044f"
@@ -150,17 +147,17 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0928\u093f\u092f\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Al Minya"
+    ],
+    "name:nld_x_preferred":[
+        "Minya"
     ],
     "name:nno_x_preferred":[
         "Guvernementet Al-Minya"
     ],
     "name:nob_x_preferred":[
         "Guvernementet Al Minya"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0646\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u0646\u06cc\u0627"
@@ -171,7 +168,7 @@
     "name:por_x_preferred":[
         "Minya"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Al Minya"
     ],
     "name:rus_x_preferred":[
@@ -224,6 +221,9 @@
     ],
     "name:war_x_preferred":[
         "Minya"
+    ],
+    "name:zho_x_preferred":[
+        "\u660e\u4e9e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -346,7 +346,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967937,
+    "wof:lastmodified":1561827038,
     "wof:name":"Al Minya",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -34,17 +34,14 @@
     "name:ces_x_preferred":[
         "Dahab"
     ],
-    "name:cze_x_preferred":[
-        "Dahab"
-    ],
     "name:dan_x_preferred":[
         "Dahab"
     ],
     "name:deu_x_preferred":[
         "Dahab"
     ],
-    "name:dut_x_preferred":[
-        "Dahab"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03c7\u03ac\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Dahab"
@@ -67,20 +64,8 @@
     "name:fra_x_preferred":[
         "Dahab"
     ],
-    "name:fre_x_preferred":[
-        "Dahab"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10f0\u10d0\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dahab"
-    ],
     "name:gle_x_preferred":[
         "Dahab"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03c7\u03ac\u03bc\u03c0"
     ],
     "name:gsw_x_preferred":[
         "Dahab"
@@ -124,7 +109,7 @@
     "name:mar_x_preferred":[
         "\u0926\u093e\u0939\u093e\u092c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dahab"
     ],
     "name:nld_x_preferred":[
@@ -135,9 +120,6 @@
     ],
     "name:nor_x_preferred":[
         "Dahab"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0647\u0628"
     ],
     "name:pol_x_preferred":[
         "Dahab"
@@ -232,7 +214,7 @@
         }
     ],
     "wof:id":421187717,
-    "wof:lastmodified":1527716252,
+    "wof:lastmodified":1561827073,
     "wof:name":"Dhahab",
     "wof:parent_id":1092015881,
     "wof:placetype":"locality",

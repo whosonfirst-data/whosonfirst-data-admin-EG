@@ -73,23 +73,20 @@
     "name:ces_x_preferred":[
         "Asu\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u65af\u65fa\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Asu\u00e1n"
-    ],
     "name:dan_x_preferred":[
         "Aswan"
     ],
     "name:deu_x_preferred":[
         "Assuan"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Aswan"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03c3\u03bf\u03c5\u03ac\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0391\u03c3\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Aswan"
@@ -109,29 +106,23 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u0648\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u0648\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Assuan"
     ],
     "name:fra_x_preferred":[
         "Assouan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Gouvernorat d'Assouan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e1\u10e3\u10d0\u10dc\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Aswan"
     ],
     "name:gle_x_preferred":[
         "Aswan"
     ],
     "name:glg_x_preferred":[
         "Asu\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0391\u03c3\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e1\u05d5\u05d0\u05df"
@@ -165,6 +156,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10e1\u10e3\u10d0\u10dc\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10d0\u10e1\u10e3\u10d0\u10dc\u10d8\u10e1 \u10db\u10e3\u10f0\u10d0\u10e4\u10d0\u10d6\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0441\u0443\u0430\u043d"
@@ -205,9 +199,6 @@
     "name:nor_x_preferred":[
         "Aswan"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u0648\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0627\u0633\u0648\u0627\u0646"
     ],
@@ -220,7 +211,7 @@
     "name:ron_x_preferred":[
         "Assuan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Guvernoratul Aswan"
     ],
     "name:rus_x_preferred":[
@@ -278,7 +269,8 @@
         "\u963f\u65af\u65fa"
     ],
     "name:zho_x_variant":[
-        "\u4e9e\u65af\u6587"
+        "\u4e9e\u65af\u6587",
+        "\u963f\u65af\u65fa\u7701"
     ],
     "name:zho_yue_x_preferred":[
         "\u963f\u65af\u65fa"
@@ -412,7 +404,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1560967935,
+    "wof:lastmodified":1561827036,
     "wof:name":"Aswan",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
