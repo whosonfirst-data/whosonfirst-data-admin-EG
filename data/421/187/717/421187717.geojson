@@ -106,6 +106,9 @@
     "name:lit_x_preferred":[
         "Dahabas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d26\u0d3e\u0d39\u0d2c\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u0926\u093e\u0939\u093e\u092c"
     ],
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":421187717,
-    "wof:lastmodified":1561827073,
+    "wof:lastmodified":1563236164,
     "wof:name":"Dhahab",
     "wof:parent_id":1092015881,
     "wof:placetype":"locality",

@@ -20,10 +20,16 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0632\u0642\u0627\u0632\u064a\u0642"
     ],
+    "name:azb_x_preferred":[
+        "\u0632\u0642\u0627\u0632\u06cc\u0642"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0430\u043a\u0430\u0437\u0438\u043a"
     ],
     "name:cat_x_preferred":[
+        "Zagazig"
+    ],
+    "name:ceb_x_preferred":[
         "Zagazig"
     ],
     "name:ces_x_preferred":[
@@ -63,6 +69,9 @@
         "Zag\u00e1z\u00edg"
     ],
     "name:hye_x_preferred":[
+        "\u0536\u0561\u056f\u0561\u0566\u056b\u056f"
+    ],
+    "name:hyw_x_preferred":[
         "\u0536\u0561\u056f\u0561\u0566\u056b\u056f"
     ],
     "name:ind_x_preferred":[
@@ -121,6 +130,9 @@
     ],
     "name:swe_x_preferred":[
         "Zagazig"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e0b\u0e0b\u0e30\u0e01\u0e2d\u0e0b\u0e35\u0e01"
     ],
     "name:tur_x_preferred":[
         "Zagazig"
@@ -259,7 +271,7 @@
         }
     ],
     "wof:id":1141906109,
-    "wof:lastmodified":1561827095,
+    "wof:lastmodified":1563236639,
     "wof:name":"Zagazig",
     "wof:parent_id":1092020479,
     "wof:placetype":"locality",

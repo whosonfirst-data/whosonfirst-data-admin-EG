@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8661796.401489,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.953976,31.214781,29.953976,31.214781",
     "geom:latitude":31.214781,
     "geom:longitude":29.953976,
@@ -30,8 +30,17 @@
     "name:arz_x_preferred":[
         "\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03bd\u03c4\u03b9 \u0393\u03ba\u03ac\u03bc\u03c0\u03b5\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Sidi Gaber District"
+    ],
+    "name:eng_x_variant":[
+        "Sidi Gaber"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u062c\u0627\u0628\u0631"
     ],
     "name:unk_x_variant":[
         "Sidi Gaber District"
@@ -65,10 +74,10 @@
     "wk:longitude":29.9381,
     "wk:wordcount":185,
     "wof:belongsto":[
+        85671041,
         102191573,
         85632581,
-        1092024943,
-        85671041
+        1092024943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936436,
+    "wof:lastmodified":1563235281,
     "wof:name":"Sidi Gaber District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

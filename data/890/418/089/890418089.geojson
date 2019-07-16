@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0637\u0627\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Markaz Ma\u0163\u0101y"
+    ],
     "name:deu_x_preferred":[
         "Ma\u1e6d\u0101i"
     ],
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890418089,
-    "wof:lastmodified":1561827075,
+    "wof:lastmodified":1563236196,
     "wof:name":"Ma\u0163\u0101y",
     "wof:parent_id":1092022239,
     "wof:placetype":"locality",

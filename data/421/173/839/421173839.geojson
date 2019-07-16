@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u0986\u0987\u09a8 \u09b8\u09c1\u0996\u09a8\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Ain Sukhna"
+    ],
     "name:ces_x_preferred":[
         "Ain Soukhna"
     ],
@@ -58,8 +61,17 @@
     "name:rus_x_preferred":[
         "\u0410\u0439\u043d-\u0421\u0443\u0445\u043d\u0430"
     ],
+    "name:slv_x_preferred":[
+        "Ain Suhna"
+    ],
+    "name:spa_x_preferred":[
+        "Ain Sujna"
+    ],
     "name:swe_x_preferred":[
         "Ain Sokhna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0433\u0430\u0431"
     ],
     "name:unk_x_variant":[
         "Ain El Sukhna"
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":421173839,
-    "wof:lastmodified":1561827073,
+    "wof:lastmodified":1563236164,
     "wof:name":"Ayn Sukhnah",
     "wof:parent_id":1092023197,
     "wof:placetype":"locality",

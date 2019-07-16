@@ -25,8 +25,17 @@
     "name:arz_x_preferred":[
         "\u0645\u0631\u0633\u0649 \u0645\u0637\u0631\u0648\u062d"
     ],
+    "name:ast_x_preferred":[
+        "Marsa Matruh"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u0633\u06cc \u0645\u0637\u0631\u0648\u062d"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0441\u0430 \u041c\u0430\u0442\u0440\u0443\u0445"
+    ],
+    "name:ceb_x_preferred":[
+        "Mersa Matruh"
     ],
     "name:dan_x_preferred":[
         "Marsa Matruh"
@@ -61,6 +70,9 @@
     "name:hun_x_preferred":[
         "Marsza Matr\u00fah"
     ],
+    "name:ind_x_preferred":[
+        "Mersa Matruh"
+    ],
     "name:ita_x_preferred":[
         "Marsa Matruh"
     ],
@@ -94,6 +106,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0441\u0430-\u041c\u0430\u0442\u0440\u0443\u0445"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0435\u0440\u0441\u0430-\u041c\u0430\u0442\u0440\u0443\u0445"
+    ],
     "name:sco_x_preferred":[
         "Mersa Matruh"
     ],
@@ -105,6 +120,9 @@
     ],
     "name:swe_x_preferred":[
         "Mersa Matruh"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e31\u0e23\u0e0b\u0e32\u0e21\u0e31\u0e0f\u0e23\u0e39\u0e2b\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Mersa Matruh"
@@ -163,7 +181,7 @@
         }
     ],
     "wof:id":1126019585,
-    "wof:lastmodified":1561827077,
+    "wof:lastmodified":1563236212,
     "wof:name":"Mars\u00e1 Ma\u0163r\u016b\u1e29",
     "wof:parent_id":1092022115,
     "wof:placetype":"locality",

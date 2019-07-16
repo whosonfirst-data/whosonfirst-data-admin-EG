@@ -26,8 +26,17 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0633\u0648\u064a\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0626\u0632"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u04af\u04d9\u0439\u0441"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0443\u044d\u0446"
+    ],
+    "name:bel_x_variant":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0443\u044d\u0446"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09af\u09bc\u09c7\u099c"
@@ -39,6 +48,9 @@
         "\u0421\u0443\u0435\u0446"
     ],
     "name:cat_x_preferred":[
+        "Suez"
+    ],
+    "name:ceb_x_preferred":[
         "Suez"
     ],
     "name:ces_x_preferred":[
@@ -106,6 +118,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054d\u0578\u0582\u0565\u0566"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0578\u0582\u0567\u0566"
     ],
     "name:ilo_x_preferred":[
         "Suez"
@@ -206,8 +221,14 @@
     "name:swe_x_preferred":[
         "Suez"
     ],
+    "name:szl_x_preferred":[
+        "Suez"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc1\u0bb5\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u04af\u04d9\u0435\u0448"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c42\u0c2f\u0c1c\u0c4d"
@@ -235,6 +256,9 @@
     ],
     "name:yue_x_preferred":[
         "\u8607\u4f0a\u58eb"
+    ],
+    "name:yue_x_variant":[
+        "Suez"
     ],
     "name:zho_x_preferred":[
         "\u82cf\u4f0a\u58eb"
@@ -378,7 +402,7 @@
         }
     ],
     "wof:id":421168705,
-    "wof:lastmodified":1561827071,
+    "wof:lastmodified":1563236139,
     "wof:name":"\u0627\u0644\u0633\u0648\u064a\u0633",
     "wof:parent_id":1092016803,
     "wof:placetype":"locality",

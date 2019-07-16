@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Flemeng"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0644\u0645\u0646\u062c"
+    ],
     "name:unk_x_variant":[
         "Flaminj"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421194135,
-    "wof:lastmodified":1513956729,
+    "wof:lastmodified":1563236145,
     "wof:name":"\u0641\u0644\u0645\u0646\u062c",
     "wof:parent_id":1092019315,
     "wof:placetype":"locality",

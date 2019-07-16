@@ -21,6 +21,12 @@
     "name:arz_x_preferred":[
         "\u0627\u0628\u0648 \u0642\u0631\u0642\u0627\u0635"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648 \u0642\u0631\u0642\u0627\u0635"
+    ],
+    "name:ceb_x_preferred":[
+        "Markaz Ab\u016b Qurq\u0101\u015f"
+    ],
     "name:deu_x_preferred":[
         "Ab\u016b Qurq\u0101\u1e63"
     ],
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":890433319,
-    "wof:lastmodified":1561827076,
+    "wof:lastmodified":1563236204,
     "wof:name":"Ab\u016b Qurq\u0101\u015f",
     "wof:parent_id":1092014221,
     "wof:placetype":"locality",

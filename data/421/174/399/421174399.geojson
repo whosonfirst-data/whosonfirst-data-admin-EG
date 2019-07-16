@@ -87,11 +87,17 @@
     "name:cat_x_preferred":[
         "El Caire"
     ],
+    "name:cat_x_variant":[
+        "el Caire"
+    ],
     "name:cdo_x_preferred":[
         "Cairo"
     ],
     "name:ceb_x_preferred":[
         "Caire"
+    ],
+    "name:ceb_x_variant":[
+        "Cairo"
     ],
     "name:ces_x_preferred":[
         "K\u00e1hira"
@@ -107,6 +113,9 @@
     ],
     "name:cor_x_preferred":[
         "Cairo"
+    ],
+    "name:crh_x_preferred":[
+        "Qaire"
     ],
     "name:csb_x_preferred":[
         "Kairo"
@@ -177,6 +186,9 @@
     "name:glg_x_preferred":[
         "Cairo - \u0627\u0644\u0642\u0627\u0647\u0631\u0629"
     ],
+    "name:glg_x_variant":[
+        "O Cairo"
+    ],
     "name:glv_x_preferred":[
         "Cairo"
     ],
@@ -219,6 +231,9 @@
     "name:hye_x_preferred":[
         "\u053f\u0561\u0570\u056b\u0580\u0565"
     ],
+    "name:hyw_x_preferred":[
+        "\u0533\u0561\u0570\u056b\u0580\u0567"
+    ],
     "name:ido_x_preferred":[
         "Kairo"
     ],
@@ -233,6 +248,9 @@
     ],
     "name:ind_x_preferred":[
         "Kairo"
+    ],
+    "name:inh_x_preferred":[
+        "\u041a\u0430\u0438\u0440"
     ],
     "name:isl_x_preferred":[
         "Ka\u00edr\u00f3"
@@ -299,6 +317,9 @@
     ],
     "name:lez_x_preferred":[
         "\u041a\u0430\u0438\u0440"
+    ],
+    "name:lfn_x_preferred":[
+        "Qahira"
     ],
     "name:lij_x_preferred":[
         "O Cairo"
@@ -374,6 +395,9 @@
     ],
     "name:nau_x_preferred":[
         "Cairo"
+    ],
+    "name:nds_x_preferred":[
+        "Kairo"
     ],
     "name:nep_x_preferred":[
         "\u0915\u093e\u092f\u0930\u094b"
@@ -462,6 +486,9 @@
     "name:sah_x_preferred":[
         "\u041a\u0430\u0438\u0440"
     ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c5f\u1c6d\u1c68\u1c5a"
+    ],
     "name:scn_x_preferred":[
         "Cairu"
     ],
@@ -518,6 +545,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc6\u0baf\u0bcd\u0bb0\u0bcb"
+    ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbe\u0b95\u0bbf\u0bb1\u0bbe"
     ],
     "name:tat_x_preferred":[
         "\u041a\u0430\u04bb\u0438\u0440\u04d9"
@@ -767,7 +797,7 @@
         }
     ],
     "wof:id":421174399,
-    "wof:lastmodified":1561827072,
+    "wof:lastmodified":1563236157,
     "wof:name":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
     "wof:parent_id":1092016929,
     "wof:placetype":"locality",

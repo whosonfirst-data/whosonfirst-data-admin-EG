@@ -23,6 +23,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0639\u0644\u0645\u064a\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0639\u0644\u0645\u06cc\u0646"
+    ],
     "name:aze_x_preferred":[
         "\u018fl-\u018flameyn"
     ],
@@ -59,6 +62,9 @@
     "name:eng_x_preferred":[
         "El Alamein"
     ],
+    "name:epo_x_preferred":[
+        "El Alamein"
+    ],
     "name:est_x_preferred":[
         "Al-\u2018Alamayn"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:fra_x_preferred":[
         "El-Alamein"
+    ],
+    "name:gle_x_preferred":[
+        "El Alamein"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0a85\u0ab2\u0aae\u0ac7\u0a88\u0aa8"
@@ -184,6 +193,9 @@
     ],
     "name:tur_x_preferred":[
         "El-Alameyn"
+    ],
+    "name:tur_x_variant":[
+        "El Alameyn"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0410\u043b\u0430\u043c\u0435\u0439\u043d"
@@ -344,7 +356,7 @@
         }
     ],
     "wof:id":421198061,
-    "wof:lastmodified":1561827074,
+    "wof:lastmodified":1563236174,
     "wof:name":"Al Alamayn",
     "wof:parent_id":1092016623,
     "wof:placetype":"locality",

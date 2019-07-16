@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1696283.525571,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.97345,31.215151,29.97345,31.215151",
     "geom:latitude":31.215151,
     "geom:longitude":29.97345,
@@ -30,8 +30,17 @@
     "name:arz_x_preferred":[
         "\u0645\u062d\u0637\u0629 \u0627\u0644\u0631\u0645\u0644"
     ],
+    "name:deu_x_preferred":[
+        "Mahattat ar-Raml"
+    ],
     "name:eng_x_preferred":[
         "El Raml District"
+    ],
+    "name:eng_x_variant":[
+        "Mahatet El Raml"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0637\u0647 \u0627\u0644\u0631\u0645\u0644"
     ],
     "name:unk_x_variant":[
         "El Raml District"
@@ -65,10 +74,10 @@
     "wk:longitude":29.901,
     "wk:wordcount":132,
     "wof:belongsto":[
+        85671041,
         102191573,
         85632581,
-        1092019315,
-        85671041
+        1092019315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936437,
+    "wof:lastmodified":1563235280,
     "wof:name":"El Raml District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

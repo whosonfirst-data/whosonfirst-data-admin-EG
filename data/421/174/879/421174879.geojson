@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0431\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "\u0162\u0101b\u0101"
+    ],
     "name:ces_x_preferred":[
         "Taba"
     ],
@@ -88,6 +91,12 @@
     "name:slk_x_preferred":[
         "Taba"
     ],
+    "name:spa_x_preferred":[
+        "Taba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0431\u0430"
+    ],
     "name:swe_x_preferred":[
         "Taba"
     ],
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":421174879,
-    "wof:lastmodified":1561827072,
+    "wof:lastmodified":1563236158,
     "wof:name":"Taba",
     "wof:parent_id":85672531,
     "wof:placetype":"locality",

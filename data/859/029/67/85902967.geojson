@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3922926.761842,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.934092,31.218462,29.934092,31.218462",
     "geom:latitude":31.218462,
     "geom:longitude":29.934092,
@@ -40,6 +40,9 @@
     "name:arz_x_preferred":[
         "\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03af\u03bd\u03c4\u03b9 \u0393\u03ba\u03ac\u03bc\u03c0\u03b5\u03c1"
+    ],
     "name:eng_x_colloquial":[
         "Sidi Jabir",
         "Sidi Gabir"
@@ -49,8 +52,10 @@
     ],
     "name:eng_x_variant":[
         "Sidi Gaber",
-        "S\u012bd\u012b J\u0101bir",
         "S\u00eedi G\u00e2bir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u062c\u0627\u0628\u0631"
     ],
     "name:unk_x_variant":[
         "S\u00eedi G\u00e2bir",
@@ -134,7 +139,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379294,
+    "wof:lastmodified":1563235275,
     "wof:name":"\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

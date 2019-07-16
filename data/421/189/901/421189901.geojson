@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0633\u0645\u0628\u0644"
     ],
+    "name:arn_x_preferred":[
+        "abu simbel"
+    ],
+    "name:ceb_x_preferred":[
+        "Ab\u016b Sunbul"
+    ],
     "name:deu_x_preferred":[
         "Abu Simbel"
     ],
@@ -64,6 +70,12 @@
     "name:swe_x_preferred":[
         "Abu Simbel"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431\u0443-\u0421\u0456\u043c\u0431\u0435\u043b"
+    ],
+    "name:war_x_preferred":[
+        "Abu Simbel"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":421189901,
-    "wof:lastmodified":1561827073,
+    "wof:lastmodified":1563236165,
     "wof:name":"Abu Simbel",
     "wof:parent_id":1092022915,
     "wof:placetype":"locality",

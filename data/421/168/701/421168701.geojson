@@ -20,8 +20,14 @@
     "name:arz_x_preferred":[
         "\u0645\u0644\u0648\u0649"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0644\u0648\u06cc"
+    ],
     "name:cat_x_preferred":[
         "Mallawi"
+    ],
+    "name:ceb_x_preferred":[
+        "Markaz Mallaw\u012b"
     ],
     "name:deu_x_preferred":[
         "Mallaw\u012b"
@@ -40,6 +46,9 @@
     ],
     "name:ita_x_preferred":[
         "Mallawi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c3\u30e9\u30a6\u30a3\u30fc"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10da\u10d0\u10d5\u10d8"
@@ -222,7 +231,7 @@
         }
     ],
     "wof:id":421168701,
-    "wof:lastmodified":1561827071,
+    "wof:lastmodified":1563236137,
     "wof:name":"\u0645\u0644\u0648\u0649",
     "wof:parent_id":1092022005,
     "wof:placetype":"locality",

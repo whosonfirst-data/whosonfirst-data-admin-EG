@@ -13,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Al-Wasitah"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0648\u0633\u06cc\u062a\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644-\u0648\u0633\u06cc\u062a\u0627\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Al-Wasitah"
     ],
     "name:nno_x_preferred":[
         "Al-Wasitah"
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":421194113,
-    "wof:lastmodified":1527716137,
+    "wof:lastmodified":1563236146,
     "wof:name":"Al Wasitah",
     "wof:parent_id":1092020395,
     "wof:placetype":"locality",

@@ -20,11 +20,20 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0641\u064a\u0648\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0641\u064a\u0648\u0645"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u06cc\u0648\u0645"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u043b\u044c-\u0424\u0430\u044e\u043c"
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09be\u0987\u0987\u09af\u09bc\u09cb\u09ae"
+    ],
+    "name:bho_x_preferred":[
+        "\u092b\u092f\u094d\u092f\u0942\u092e"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u044e\u043c"
@@ -34,6 +43,9 @@
     ],
     "name:cat_x_variant":[
         "Madinat al-Fayyum"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Fayy\u016bm"
     ],
     "name:ces_x_preferred":[
         "Fajj\u00fam"
@@ -55,6 +67,9 @@
     ],
     "name:eng_x_preferred":[
         "Al Fayyum"
+    ],
+    "name:eng_x_variant":[
+        "Faiyum"
     ],
     "name:epo_x_preferred":[
         "Fajumo"
@@ -158,6 +173,9 @@
     "name:rus_x_preferred":[
         "\u0410\u043b\u044c-\u0424\u0430\u044e\u043c"
     ],
+    "name:rus_x_variant":[
+        "\u0424\u0430\u0439\u044e\u043c"
+    ],
     "name:sco_x_preferred":[
         "Faiyum"
     ],
@@ -167,8 +185,14 @@
     "name:slk_x_preferred":[
         "Fajj\u00fam"
     ],
+    "name:slv_x_preferred":[
+        "Fajum"
+    ],
     "name:spa_x_preferred":[
         "El-Fayum"
+    ],
+    "name:spa_x_variant":[
+        "Fay\u00fan"
     ],
     "name:srp_x_preferred":[
         "\u0424\u0430\u0458\u0443\u043c"
@@ -184,6 +208,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e1f\u0e22\u0e31\u0e21"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e1f\u0e31\u0e22\u0e22\u0e39\u0e21"
     ],
     "name:tur_x_preferred":[
         "Feyyum"
@@ -202,6 +229,9 @@
     ],
     "name:war_x_preferred":[
         "Faiyum"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6cd5\u5c24\u59c6"
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u5c24\u59c6"
@@ -346,7 +376,7 @@
         }
     ],
     "wof:id":421168711,
-    "wof:lastmodified":1561827071,
+    "wof:lastmodified":1563236142,
     "wof:name":"\u0627\u0644\u0641\u064a\u0648\u0645",
     "wof:parent_id":1092017705,
     "wof:placetype":"locality",

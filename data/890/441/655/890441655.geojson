@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0635\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0635\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u016bsh"
+    ],
     "name:deu_x_preferred":[
         "Nasir"
     ],
@@ -38,6 +44,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0441\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Nasser"
     ],
     "name:swe_x_preferred":[
         "B\u016bsh"
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890441655,
-    "wof:lastmodified":1561827075,
+    "wof:lastmodified":1563236188,
     "wof:name":"B\u016bsh",
     "wof:parent_id":1092022779,
     "wof:placetype":"locality",

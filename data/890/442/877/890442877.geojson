@@ -14,6 +14,63 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0633\u062e\u0646\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0639\u064a\u0646 \u0627\u0644\u0633\u062e\u0646\u0647"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09a8 \u09b8\u09c1\u0996\u09a8\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Ain Sukhna"
+    ],
+    "name:ces_x_preferred":[
+        "Ain Soukhna"
+    ],
+    "name:deu_x_preferred":[
+        "al-Ain as-Suchna"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u0390\u03bd \u03a3\u03bf\u03cd\u03c7\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ain Sukhna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0639\u06cc\u0646 \u0627\u0644\u0633\u062e\u0646\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Sukhna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30f3\u30fb\u30b9\u30af\u30ca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10dc-\u10e1\u10e3\u10ee\u10dc\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "Manfal\u016b\u0163"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc778 \uc218\ud06c\ub098"
+    ],
+    "name:nld_x_preferred":[
+        "Ain Sukhna"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn Suchna"
+    ],
+    "name:slv_x_preferred":[
+        "Ain Suhna"
+    ],
+    "name:spa_x_preferred":[
+        "Ain Sujna"
+    ],
+    "name:swe_x_preferred":[
+        "Ain Sokhna"
+    ],
     "qs:name":"Ein El Sokhna",
     "qs:name_adm0":"\u0645\u0635\u0631",
     "qs:name_adm1":"\u0627\u0644\u0633\u0648\u064a\u0633",
@@ -46,7 +103,7 @@
         }
     ],
     "wof:id":890442877,
-    "wof:lastmodified":1527792857,
+    "wof:lastmodified":1563236198,
     "wof:name":"Ein El Sokhna",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

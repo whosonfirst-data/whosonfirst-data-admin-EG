@@ -21,6 +21,9 @@
     "name:arz_x_preferred":[
         "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0642\u0646\u0627\u0637\u0631 \u0627\u0644\u062e\u064a\u0631\u064a\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u0646\u0627\u0637\u0631 \u062e\u06cc\u0631\u06cc\u0647"
+    ],
     "name:deu_x_preferred":[
         "al-Qanatir al-Chairiyya"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890443435,
-    "wof:lastmodified":1561827075,
+    "wof:lastmodified":1563236192,
     "wof:name":"Al Qan\u0101\u0163ir al Khayr\u012byah",
     "wof:parent_id":1092018935,
     "wof:placetype":"locality",

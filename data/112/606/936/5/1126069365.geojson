@@ -26,6 +26,12 @@
     "name:ara_x_variant":[
         "Shubr\u0101"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0628\u0631\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Shubra"
+    ],
     "name:eng_x_colloquial":[
         "Shubra",
         "Shubraa"
@@ -35,7 +41,25 @@
     ],
     "name:eng_x_variant":[
         "Shoubra",
-        "Shubr\u00e5"
+        "Shubra"
+    ],
+    "name:epo_x_preferred":[
+        "\u015cubra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0628\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Shoubra"
+    ],
+    "name:gle_x_preferred":[
+        "Shubra"
+    ],
+    "name:nld_x_preferred":[
+        "Shubra"
+    ],
+    "name:swe_x_preferred":[
+        "Shobra"
     ],
     "name:unk_x_variant":[
         "\u0634\u0628\u0631\u0627",
@@ -96,7 +120,7 @@
         }
     ],
     "wof:id":1126069365,
-    "wof:lastmodified":1534379294,
+    "wof:lastmodified":1563236210,
     "wof:name":"\u0634\u0628\u0631\u0627",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

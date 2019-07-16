@@ -67,6 +67,9 @@
     "name:lit_x_preferred":[
         "Naujasis Kairas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d4d\u0d2f\u0d42 \u0d15\u0d46\u0d2f\u0d4d\u0d31\u0d4b"
+    ],
     "name:mar_x_preferred":[
         "\u0928\u094d\u092f\u0942 \u0915\u0945\u0930\u094b"
     ],
@@ -88,6 +91,9 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dc0 \u0d9a\u0dba\u0dd2\u0dbb\u0ddd"
     ],
+    "name:spa_x_preferred":[
+        "New Cairo"
+    ],
     "name:swe_x_preferred":[
         "Nya Kairo"
     ],
@@ -100,6 +106,9 @@
     "name:tha_x_preferred":[
         "\u0e44\u0e04\u0e42\u0e23"
     ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e04\u0e42\u0e23(\u0e19\u0e34\u0e27\u0e22\u0e2d\u0e23\u0e4c\u0e01)"
+    ],
     "name:tur_x_preferred":[
         "New Cairo"
     ],
@@ -111,6 +120,9 @@
     ],
     "name:vie_x_preferred":[
         "New Cairo"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5f00\u7f57"
     ],
     "qs:gn_country":"EG",
     "qs:gn_fcode":"PPL",
@@ -170,7 +182,7 @@
         }
     ],
     "wof:id":421175733,
-    "wof:lastmodified":1561827074,
+    "wof:lastmodified":1563236173,
     "wof:name":"New Cairo",
     "wof:parent_id":1092022997,
     "wof:placetype":"locality",

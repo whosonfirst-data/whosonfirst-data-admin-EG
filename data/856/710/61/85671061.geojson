@@ -51,6 +51,15 @@
     "name:arz_x_preferred":[
         "\u0623\u0633\u0648\u0627\u0646"
     ],
+    "name:arz_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0633\u0648\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "gobernaci\u00f3n d'Aswan"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u0648\u0627\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0441\u0443\u0430\u043d"
     ],
@@ -67,8 +76,14 @@
     "name:cat_x_preferred":[
         "Assuan"
     ],
+    "name:cat_x_variant":[
+        "governaci\u00f3 d'Assuan"
+    ],
     "name:ceb_x_preferred":[
         "Markaz Asw\u0101n"
+    ],
+    "name:ceb_x_variant":[
+        "Mu\u1e29\u0101faz\u0327at Asw\u0101n"
     ],
     "name:ces_x_preferred":[
         "Asu\u00e1n"
@@ -97,8 +112,14 @@
     "name:epo_x_preferred":[
         "Asuano"
     ],
+    "name:epo_x_variant":[
+        "Provinco Asuano"
+    ],
     "name:est_x_preferred":[
         "Assuan"
+    ],
+    "name:est_x_variant":[
+        "Asw\u0101ni kubernerkond"
     ],
     "name:eus_x_preferred":[
         "Aswan"
@@ -111,6 +132,9 @@
     ],
     "name:fin_x_preferred":[
         "Assuan"
+    ],
+    "name:fin_x_variant":[
+        "Assuanin kuvernoraatti"
     ],
     "name:fra_x_preferred":[
         "Assouan"
@@ -136,17 +160,26 @@
     "name:hun_x_preferred":[
         "Asszu\u00e1n"
     ],
+    "name:hun_x_variant":[
+        "Asszu\u00e1n korm\u00e1nyz\u00f3s\u00e1g"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u057d\u0578\u0582\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Aswan"
     ],
+    "name:ind_x_variant":[
+        "Kegubernuran Aswan"
+    ],
     "name:ita_x_preferred":[
         "Assuan"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30b9\u30ef\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30b9\u30ef\u30f3\u770c"
     ],
     "name:kab_x_preferred":[
         "Aswan"
@@ -169,17 +202,26 @@
     "name:kor_x_preferred":[
         "\uc544\uc2a4\uc644"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc2a4\uc644\uc8fc"
+    ],
     "name:kur_x_preferred":[
         "Eswan"
     ],
     "name:lat_x_preferred":[
         "Syene"
     ],
+    "name:lat_x_variant":[
+        "Asw\u0101n"
+    ],
     "name:lav_x_preferred":[
         "Asu\u0101na"
     ],
     "name:lit_x_preferred":[
         "Asuanas"
+    ],
+    "name:lit_x_variant":[
+        "Asuano muchafaza"
     ],
     "name:mar_x_preferred":[
         "\u0906\u0938\u094d\u0935\u093e\u0928"
@@ -193,6 +235,9 @@
     "name:nno_x_preferred":[
         "Aswan"
     ],
+    "name:nno_x_variant":[
+        "Aswan guvernement"
+    ],
     "name:nob_x_preferred":[
         "Aswan"
     ],
@@ -201,6 +246,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0633\u0648\u0627\u0646"
+    ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u0633\u0648\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Asuan"
@@ -223,6 +271,9 @@
     "name:sco_x_preferred":[
         "Aswan"
     ],
+    "name:sco_x_variant":[
+        "Aswan Govrenorate"
+    ],
     "name:slk_x_preferred":[
         "Asw\u00e1n"
     ],
@@ -241,6 +292,12 @@
     "name:swe_x_preferred":[
         "Assuan"
     ],
+    "name:swe_x_variant":[
+        "Guvernementet Assuan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e2a\u0e27\u0e32\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Asvan"
     ],
@@ -255,6 +312,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0648\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0627\u0633\u0648\u0627\u0646"
     ],
     "name:uzb_x_preferred":[
         "Asvon"
@@ -404,7 +464,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827036,
+    "wof:lastmodified":1563235290,
     "wof:name":"Aswan",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

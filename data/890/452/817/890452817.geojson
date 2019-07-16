@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0646\u0632\u0644\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0632\u0644\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Manzilah"
+    ],
     "name:eng_x_preferred":[
         "Manzala"
     ],
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":890452817,
-    "wof:lastmodified":1561827075,
+    "wof:lastmodified":1563236189,
     "wof:name":"Al Manzilah",
     "wof:parent_id":1092018397,
     "wof:placetype":"locality",

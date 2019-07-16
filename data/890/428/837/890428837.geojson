@@ -15,6 +15,9 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Rosetta"
+    ],
     "name:ara_x_preferred":[
         "\u0631\u0634\u064a\u062f"
     ],
@@ -25,6 +28,9 @@
         "\u0420\u043e\u0437\u0435\u0442\u0430"
     ],
     "name:cat_x_preferred":[
+        "Rosetta"
+    ],
+    "name:ceb_x_preferred":[
         "Rosetta"
     ],
     "name:deu_x_preferred":[
@@ -68,6 +74,9 @@
     ],
     "name:ind_x_preferred":[
         "Rashid"
+    ],
+    "name:isl_x_preferred":[
+        "Rosetta"
     ],
     "name:ita_x_preferred":[
         "Rosetta"
@@ -166,7 +175,7 @@
         }
     ],
     "wof:id":890428837,
-    "wof:lastmodified":1561827075,
+    "wof:lastmodified":1563236192,
     "wof:name":"Rosetta",
     "wof:parent_id":1092023921,
     "wof:placetype":"locality",

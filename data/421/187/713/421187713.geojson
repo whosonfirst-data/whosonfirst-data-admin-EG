@@ -16,17 +16,26 @@
     "name:ara_x_preferred":[
         "\u062d\u0644\u0648\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u062d\u0644\u0648\u0627\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0435\u043b\u0443\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Helwan"
     ],
+    "name:ceb_x_preferred":[
+        "\u1e28alw\u0101n"
+    ],
     "name:ces_x_preferred":[
         "Helw\u00e1n"
     ],
     "name:deu_x_preferred":[
         "Helwan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03bb\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Helwan"
@@ -45,6 +54,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05dc\u05d5\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0947\u0932\u0935\u093e\u0928"
     ],
     "name:hrv_x_preferred":[
         "Helwan"
@@ -72,6 +84,9 @@
     ],
     "name:pol_x_preferred":[
         "Heluan"
+    ],
+    "name:por_x_preferred":[
+        "Helu\u00e3"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0435\u043b\u0443\u0430\u043d"
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":421187713,
-    "wof:lastmodified":1561827073,
+    "wof:lastmodified":1563236161,
     "wof:name":"\u062d\u0644\u0648\u0627\u0646",
     "wof:parent_id":1092021427,
     "wof:placetype":"locality",

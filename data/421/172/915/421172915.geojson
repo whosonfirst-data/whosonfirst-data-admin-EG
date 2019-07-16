@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Darau"
     ],
+    "name:spa_x_preferred":[
+        "Daraw"
+    ],
     "qs:gn_country":"EG",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":358388,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421172915,
-    "wof:lastmodified":1561827073,
+    "wof:lastmodified":1563236171,
     "wof:name":"Daraw",
     "wof:parent_id":1092021927,
     "wof:placetype":"locality",

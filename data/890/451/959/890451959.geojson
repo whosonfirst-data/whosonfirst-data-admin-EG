@@ -21,8 +21,17 @@
     "name:arz_x_preferred":[
         "\u0634\u0628\u064a\u0646 \u0627\u0644\u0643\u0648\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u0634\u0628\u06cc\u0646 \u0627\u0644\u06a9\u0648\u0645"
+    ],
     "name:bul_x_preferred":[
         "\u0428\u0438\u0431\u0438\u043d \u0435\u043b-\u041a\u043e\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Shib\u012bn al Kawm"
+    ],
+    "name:dan_x_preferred":[
+        "Shibin Al Kawm"
     ],
     "name:deu_x_preferred":[
         "Schibin al-Kaum"
@@ -75,6 +84,9 @@
     "name:swe_x_preferred":[
         "Shibin al-Kawm"
     ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e30\u0e1a\u0e35\u0e19\u0e38\u0e25\u0e01\u0e39\u0e21"
+    ],
     "name:tur_x_preferred":[
         "\u015eibin el-Kom"
     ],
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":890451959,
-    "wof:lastmodified":1561827076,
+    "wof:lastmodified":1563236201,
     "wof:name":"Shib\u012bn al Kawm",
     "wof:parent_id":1092024543,
     "wof:placetype":"locality",

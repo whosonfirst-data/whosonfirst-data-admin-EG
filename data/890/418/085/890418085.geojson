@@ -18,17 +18,29 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0648\u0641"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0648\u0641"
+    ],
+    "name:ceb_x_preferred":[
+        "Min\u016bf"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03bd\u03bf\u03cd\u03c6"
     ],
     "name:eng_x_preferred":[
         "Menouf"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0648\u0641"
+    ],
     "name:nld_x_preferred":[
         "Menouf"
     ],
     "name:pol_x_preferred":[
         "Minuf"
+    ],
+    "name:pol_x_variant":[
+        "Al Baw\u012b\u0163\u012b"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u0443\u0444"
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":890418085,
-    "wof:lastmodified":1561827075,
+    "wof:lastmodified":1563236196,
     "wof:name":"Min\u016bf",
     "wof:parent_id":1092022369,
     "wof:placetype":"locality",

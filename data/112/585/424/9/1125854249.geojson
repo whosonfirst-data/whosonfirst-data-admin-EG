@@ -25,11 +25,17 @@
     "name:arz_x_preferred":[
         "\u0628\u0646\u0647\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0646\u0647\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09be\u09a8\u09b9\u09be"
     ],
     "name:cat_x_preferred":[
         "Banha"
+    ],
+    "name:ceb_x_preferred":[
+        "Banh\u0101"
     ],
     "name:ces_x_preferred":[
         "Banha"
@@ -60,6 +66,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aa8\u0acd\u0ab9\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d4\u05d0"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0928\u094d\u0939\u093e"
@@ -136,6 +145,9 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e19\u0e2e\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e31\u0e19\u0e2e\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Benha"
     ],
@@ -196,7 +208,7 @@
         }
     ],
     "wof:id":1125854249,
-    "wof:lastmodified":1561827077,
+    "wof:lastmodified":1563236214,
     "wof:name":"Banh\u0101",
     "wof:parent_id":1092015253,
     "wof:placetype":"locality",

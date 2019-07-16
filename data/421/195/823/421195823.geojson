@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0644\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Tal\u0101"
+    ],
     "name:eng_x_preferred":[
         "Tala"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043b\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u043b\u0430"
     ],
     "name:swe_x_preferred":[
         "Tal\u0101"
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":421195823,
-    "wof:lastmodified":1561827072,
+    "wof:lastmodified":1563236145,
     "wof:name":"\u0645\u0631\u0643\u0632 \u062a\u0644\u0627",
     "wof:parent_id":1092025145,
     "wof:placetype":"locality",

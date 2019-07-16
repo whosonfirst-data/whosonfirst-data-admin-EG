@@ -16,11 +16,17 @@
     "name:ara_x_preferred":[
         "\u0639\u0648\u0641\u064a\u0631\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0639\u0648\u0641\u06cc\u0631\u0627"
+    ],
     "name:ces_x_preferred":[
         "Ofira"
     ],
     "name:eng_x_preferred":[
         "Ofira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0648\u0641\u06cc\u0631\u0627"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e4\u05d9\u05e8\u05d4"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":421182149,
-    "wof:lastmodified":1561827074,
+    "wof:lastmodified":1563236183,
     "wof:name":"Ofira",
     "wof:parent_id":1092024505,
     "wof:placetype":"locality",

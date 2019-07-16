@@ -19,6 +19,9 @@
     "name:arz_x_preferred":[
         "\u0632\u0641\u062a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Zift\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Zifta"
     ],
@@ -32,6 +35,12 @@
         "\u0632\u0641\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Zefta"
+    ],
+    "name:hun_x_preferred":[
+        "Zefta"
+    ],
+    "name:ita_x_preferred":[
         "Zefta"
     ],
     "name:kat_x_preferred":[
@@ -50,6 +59,9 @@
         "\u0417\u0438\u0444\u0442\u0430"
     ],
     "name:sco_x_preferred":[
+        "Zifta"
+    ],
+    "name:spa_x_preferred":[
         "Zifta"
     ],
     "name:swe_x_preferred":[
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":421199111,
-    "wof:lastmodified":1561827074,
+    "wof:lastmodified":1563236178,
     "wof:name":"\u0645\u0631\u0643\u0632 \u0632\u0641\u062a\u0649",
     "wof:parent_id":1092026069,
     "wof:placetype":"locality",

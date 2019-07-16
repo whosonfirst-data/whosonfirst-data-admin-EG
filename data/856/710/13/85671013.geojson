@@ -50,6 +50,12 @@
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0633\u0648\u064a\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0626\u0632 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:bak_x_preferred":[
+        "\u04d8\u0441-\u0421\u04af\u04d9\u0439\u0441"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09af\u09bc\u09c7\u099c \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Suez"
+    ],
+    "name:ceb_x_preferred":[
+        "As Suways"
     ],
     "name:ces_x_preferred":[
         "Suez"
@@ -94,6 +103,9 @@
     "name:fra_x_preferred":[
         "Gouvernorat de Suez"
     ],
+    "name:fra_x_variant":[
+        "Suez"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a8f\u0a9d \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -102,6 +114,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u0941\u090f\u091c\u093c \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u0565\u0566"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran As Suways"
@@ -120,6 +135,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc218\uc5d0\uc988 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc218\uc5d0\uc988\uc8fc"
     ],
     "name:lat_x_preferred":[
         "As-Suwais"
@@ -183,6 +201,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e01\u0e32\u0e23\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e0b\u0e31\u0e25\u0e0b\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2a\u0e38\u0e40\u0e2d\u0e0b"
     ],
     "name:tur_x_preferred":[
         "S\u00fcvey\u015f"
@@ -331,7 +352,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827039,
+    "wof:lastmodified":1563235302,
     "wof:name":"As Suways",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

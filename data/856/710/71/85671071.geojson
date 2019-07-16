@@ -47,6 +47,9 @@
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0648\u0627\u062f\u0649 \u0627\u0644\u062c\u062f\u064a\u062f"
     ],
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u062f\u06cc\u200c\u0627\u0644\u062c\u062f\u06cc\u062f \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0989 \u09ad\u09cd\u09af\u09be\u09b2\u09bf \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -59,6 +62,9 @@
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Wadi al Jadid"
     ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at al W\u0101d\u012b al Jad\u012bd"
+    ],
     "name:ces_x_preferred":[
         "Al-V\u00e1d\u00ed al-Gad\u00edd"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b9\u03bf\u03c5 \u0392\u03ac\u03bb\u03b5\u03ca"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u039d\u03ad\u03b1\u03c2 \u039a\u03bf\u03b9\u03bb\u03ac\u03b4\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "El Wadi El Gedeed"
@@ -94,11 +103,20 @@
     "name:fra_x_preferred":[
         "Gouvernorat de la Nouvelle-Vall\u00e9e"
     ],
+    "name:fra_x_variant":[
+        "la Nouvelle-Vall\u00e9e"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acd\u0aaf\u0ac2 \u0ab5\u0ac7\u0ab2\u0ac0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05dc-\u05d5\u05d0\u05d3\u05d9 \u05d0\u05dc-\u05d2'\u05d3\u05d9\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u0935\u093e\u0926\u0940 \u0905\u0932-\u091c\u0926\u0940\u0926 \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
+    ],
+    "name:hrv_x_preferred":[
+        "Al Wadi al Jadid"
     ],
     "name:ind_x_preferred":[
         "Al Wadi al Jadid"
@@ -331,7 +349,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827038,
+    "wof:lastmodified":1563235300,
     "wof:name":"Al Wadi at Jadid",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

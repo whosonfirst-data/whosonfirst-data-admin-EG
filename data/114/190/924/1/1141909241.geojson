@@ -23,6 +23,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0633\u064a\u0648\u0637"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u06cc\u0648\u0637"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0441\u044c\u044e\u0442"
     ],
@@ -35,8 +38,14 @@
     "name:cat_x_preferred":[
         "Asyut"
     ],
+    "name:ceb_x_preferred":[
+        "Asy\u016b\u0163"
+    ],
     "name:ces_x_preferred":[
         "Asj\u00fat"
+    ],
+    "name:cym_x_preferred":[
+        "Assiout"
     ],
     "name:dan_x_preferred":[
         "Asyut"
@@ -173,8 +182,14 @@
     "name:tel_x_preferred":[
         "\u0c05\u0c38\u0c4d\u0c2f\u0c42\u0c1f\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0441\u044e\u0442"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e2a\u0e0b\u0e34\u0e2d\u0e38\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e2a\u0e22\u0e39\u0e0f"
     ],
     "name:tur_x_preferred":[
         "Asyut"
@@ -184,6 +199,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u06cc\u0648\u0637"
+    ],
+    "name:uzb_x_preferred":[
+        "Asyut"
     ],
     "name:vie_x_preferred":[
         "Asyut"
@@ -313,7 +331,7 @@
         }
     ],
     "wof:id":1141909241,
-    "wof:lastmodified":1561827096,
+    "wof:lastmodified":1563236643,
     "wof:name":"Asyut",
     "wof:parent_id":1092017669,
     "wof:placetype":"locality",
