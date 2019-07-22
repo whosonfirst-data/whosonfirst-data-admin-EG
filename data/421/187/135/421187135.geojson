@@ -106,6 +106,12 @@
     "name:lit_x_preferred":[
         "Sakara"
     ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d15\u0d4d\u0d15\u0d3e\u0d31"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043a\u0430\u0440\u0430"
+    ],
     "name:nld_x_preferred":[
         "Saqqara"
     ],
@@ -167,6 +173,12 @@
     "name:unk_x_variant":[
         "\u1e62aqq\u00e2ra"
     ],
+    "name:vie_x_preferred":[
+        "Saqqara"
+    ],
+    "name:war_x_preferred":[
+        "Saqqara"
+    ],
     "name:zho_x_preferred":[
         "\u85a9\u5361\u62c9"
     ],
@@ -220,7 +232,7 @@
         }
     ],
     "wof:id":421187135,
-    "wof:lastmodified":1561827073,
+    "wof:lastmodified":1563236159,
     "wof:name":"Saqqarah",
     "wof:parent_id":1092017019,
     "wof:placetype":"locality",

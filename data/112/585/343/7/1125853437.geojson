@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0646\u062c\u0639 \u062d\u0645\u0627\u062f\u0649"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u062c\u0639 \u062d\u0645\u0627\u062f\u064a"
+    ],
     "name:arz_x_preferred":[
         "\u0646\u062c\u0639 \u062d\u0645\u0627\u062f\u0649"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Nag Hamm\u00e2di"
+    ],
+    "name:eng_x_variant":[
+        "Nag Hammadi"
     ],
     "name:epo_x_preferred":[
         "Nag-Hamado"
@@ -124,6 +130,9 @@
     "name:unk_x_variant":[
         "Gebel el Hagif"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u06af \u062d\u0645\u0627\u062f\u06cc"
+    ],
     "name:zho_x_preferred":[
         "\u62ff\u6208\u746a\u7b2c"
     ],
@@ -166,7 +175,7 @@
         }
     ],
     "wof:id":1125853437,
-    "wof:lastmodified":1561827077,
+    "wof:lastmodified":1563236217,
     "wof:name":"Naj\u2018 \u1e28amm\u0101d\u012b",
     "wof:parent_id":1092022653,
     "wof:placetype":"locality",

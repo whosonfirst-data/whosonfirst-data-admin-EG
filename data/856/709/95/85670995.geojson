@@ -47,6 +47,9 @@
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0645\u0646\u0648\u0641\u064a\u0647"
     ],
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0648\u0641\u06cc\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0456\u043d\u0443\u0444\u0456\u044f"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Menufeya"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at al Min\u016bf\u012byah"
     ],
     "name:ces_x_preferred":[
         "Min\u00fafija"
@@ -95,6 +101,9 @@
     "name:fra_x_preferred":[
         "Gouvernorat de Menufeya"
     ],
+    "name:fra_x_variant":[
+        "Menufeya"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0ac1\u0aab\u0abf\u0aaf\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -103,6 +112,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0928\u0942\u092b\u093c\u093f\u092f\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u0576\u0578\u0582\u0586\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Al Minufiyah"
@@ -121,6 +133,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubb34\ub204\ud53c\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubb34\ub204\ud53c\uc544\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Al-Minufiyya"
@@ -184,6 +199,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e21\u0e19\u0e39\u0e40\u0e1f\u0e35\u0e22 \u0e42\u0e01\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e25\u0e21\u0e38\u0e19\u0e39\u0e1f\u0e35\u0e22\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Minufiye"
@@ -329,7 +347,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827035,
+    "wof:lastmodified":1563235282,
     "wof:name":"Al Minufiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

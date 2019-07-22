@@ -39,7 +39,8 @@
         "Igyipt"
     ],
     "name:aka_x_variant":[
-        "Nisrim"
+        "Nisrim",
+        "Misrim"
     ],
     "name:als_x_preferred":[
         "\u00c4gypten"
@@ -78,8 +79,14 @@
     "name:ast_x_preferred":[
         "Exiptu"
     ],
+    "name:aym_x_preferred":[
+        "Iqiptu"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u06cc\u0635\u0631"
+    ],
+    "name:azb_x_variant":[
+        "\u0645\u0635\u0631"
     ],
     "name:aze_x_preferred":[
         "Misir"
@@ -107,6 +114,12 @@
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b6\u09b0"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0645\u06cc\u0633\u0631"
+    ],
+    "name:bho_x_preferred":[
+        "\u092e\u093f\u0938\u094d\u0930"
     ],
     "name:bjn_x_preferred":[
         "Mesir"
@@ -147,6 +160,9 @@
     "name:ces_x_preferred":[
         "Egypt"
     ],
+    "name:cha_x_preferred":[
+        "Ehiptu"
+    ],
     "name:che_x_preferred":[
         "\u041c\u0438\u0441\u0430\u0440"
     ],
@@ -164,6 +180,9 @@
     ],
     "name:cor_x_preferred":[
         "Ejyp"
+    ],
+    "name:cos_x_preferred":[
+        "Egittu"
     ],
     "name:crh_x_preferred":[
         "M\u0131s\u0131r"
@@ -199,6 +218,9 @@
     ],
     "name:dsb_x_preferred":[
         "Egyptojska"
+    ],
+    "name:dty_x_preferred":[
+        "\u0907\u091c\u093f\u092a\u094d\u091f"
     ],
     "name:dzo_x_preferred":[
         "\u0f68\u0f72\u0f0b\u0f47\u0f72\u0f54\u0f4a"
@@ -305,6 +327,12 @@
     "name:grn_x_preferred":[
         "Eh\u00edpto"
     ],
+    "name:grn_x_variant":[
+        "Ehipto"
+    ],
+    "name:gsw_x_preferred":[
+        "\u00c4gypte"
+    ],
     "name:guj_x_preferred":[
         "\u0a87\u0a9c\u0abf\u0aaa\u0acd\u0aa4"
     ],
@@ -350,6 +378,9 @@
     "name:hye_x_preferred":[
         "\u0535\u0563\u056b\u057a\u057f\u0578\u057d"
     ],
+    "name:hyw_x_preferred":[
+        "\u0535\u0563\u056b\u057a\u057f\u0578\u057d"
+    ],
     "name:ibo_x_preferred":[
         "Egypt"
     ],
@@ -370,6 +401,9 @@
     ],
     "name:ind_x_preferred":[
         "Mesir"
+    ],
+    "name:inh_x_preferred":[
+        "\u041c\u0438\u0441\u0430\u0440\u0435"
     ],
     "name:isl_x_preferred":[
         "Egyptaland"
@@ -415,6 +449,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041c\u044b\u0441\u044b\u0440"
+    ],
+    "name:kbp_x_preferred":[
+        "Egipiti"
     ],
     "name:khm_x_preferred":[
         "\u17a2\u17c1\u17a0\u17ca\u17d2\u179f\u17b8\u1794"
@@ -464,6 +501,9 @@
     "name:lez_x_preferred":[
         "\u041c\u0438\u0441\u0440\u0438"
     ],
+    "name:lfn_x_preferred":[
+        "Misre"
+    ],
     "name:lij_x_preferred":[
         "Egitto"
     ],
@@ -490,6 +530,15 @@
     ],
     "name:lug_x_preferred":[
         "Misiri"
+    ],
+    "name:lug_x_variant":[
+        "Egypt"
+    ],
+    "name:lzh_x_preferred":[
+        "\u57c3\u53ca"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u093f\u0938\u094d\u0930"
     ],
     "name:mal_x_preferred":[
         "\u0d08\u0d1c\u0d3f\u0d2a\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u200c"
@@ -538,6 +587,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0635\u0631"
+    ],
+    "name:nah_x_preferred":[
+        "Egipto"
+    ],
+    "name:nan_x_preferred":[
+        "Ai-ki\u030dp"
     ],
     "name:nap_x_preferred":[
         "Naggitto"
@@ -620,6 +675,9 @@
     "name:pih_x_preferred":[
         "Ejiipt"
     ],
+    "name:pli_x_preferred":[
+        "\u0908\u091c\u093f\u092a\u094d\u091f"
+    ],
     "name:pms_x_preferred":[
         "Egit"
     ],
@@ -644,6 +702,9 @@
     "name:que_x_preferred":[
         "Ihiptu"
     ],
+    "name:rmy_x_preferred":[
+        "M\u00easire"
+    ],
     "name:roh_x_preferred":[
         "Egipta"
     ],
@@ -655,6 +716,12 @@
     ],
     "name:run_x_preferred":[
         "Misiri"
+    ],
+    "name:run_x_variant":[
+        "Egipto"
+    ],
+    "name:rup_x_preferred":[
+        "Eghiptu"
     ],
     "name:rus_x_preferred":[
         "\u0415\u0433\u0438\u043f\u0435\u0442"
@@ -668,11 +735,17 @@
     "name:san_x_preferred":[
         "\u0908\u091c\u093f\u092a\u094d\u0924\u0926\u0947\u0936\u0903"
     ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c64\u1c65\u1c5a\u1c68"
+    ],
     "name:scn_x_preferred":[
         "Eggittu"
     ],
     "name:sco_x_preferred":[
         "Egyp"
+    ],
+    "name:sgs_x_preferred":[
+        "Eg\u0117pts"
     ],
     "name:sin_x_preferred":[
         "\u0d8a\u0da2\u0dd2\u0db4\u0dca\u0dad\u0dd4\u0dc0"
@@ -713,6 +786,9 @@
     "name:srd_x_preferred":[
         "Egitu"
     ],
+    "name:srd_x_variant":[
+        "Egittu"
+    ],
     "name:srn_x_preferred":[
         "Egiptakondre"
     ],
@@ -739,6 +815,9 @@
     ],
     "name:tah_x_preferred":[
         "\u2019Aifiti"
+    ],
+    "name:tah_x_variant":[
+        "Egipt"
     ],
     "name:tam_x_preferred":[
         "\u0b8e\u0b95\u0bbf\u0baa\u0bcd\u0ba4\u0bc1"
@@ -794,6 +873,9 @@
     "name:tyv_x_preferred":[
         "\u0415\u0433\u0438\u043f\u0435\u0442"
     ],
+    "name:udm_x_preferred":[
+        "\u0415\u0433\u0438\u043f\u0435\u0442"
+    ],
     "name:uig_x_preferred":[
         "\u0645\u0649\u0633\u0649\u0631"
     ],
@@ -832,6 +914,9 @@
     "name:vol_x_preferred":[
         "L\u00e4g\u00fcpt\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Eg\u00fcpt\u00fcs"
+    ],
     "name:war_x_preferred":[
         "Ehipto"
     ],
@@ -858,6 +943,9 @@
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de \u00c9g\u00edp\u00edt\u00ec"
+    ],
+    "name:yue_x_preferred":[
+        "\u57c3\u53ca"
     ],
     "name:zea_x_preferred":[
         "Ehypte"
@@ -1030,7 +1118,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827035,
+    "wof:lastmodified":1563235287,
     "wof:name":"Egypt",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

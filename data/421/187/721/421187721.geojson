@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0644\u064a\u0646\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u06cc\u0646\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Al Balyan\u0101"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421187721,
-    "wof:lastmodified":1561827073,
+    "wof:lastmodified":1563236163,
     "wof:name":"El Balyana",
     "wof:parent_id":1092017143,
     "wof:placetype":"locality",

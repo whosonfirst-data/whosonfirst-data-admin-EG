@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16243318.116133,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.307572,30.068808,31.307572,30.068808",
     "geom:latitude":30.068808,
     "geom:longitude":31.307572,
@@ -28,6 +28,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0646\u0635\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0646\u0635\u0631"
+    ],
+    "name:deu_x_preferred":[
+        "Nasr City"
+    ],
     "name:eng_x_colloquial":[
         "Madinat an Nasr"
     ],
@@ -40,9 +49,36 @@
         "Madinet Nasr",
         "El Nasr City"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0646\u0635\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Nasr City"
+    ],
+    "name:gle_x_preferred":[
+        "Nasr City"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05e1\u05e8 \u05e1\u05d9\u05d8\u05d9"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30b9\u30eb\u30fb\u30b7\u30c6\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Nasr City"
+    ],
+    "name:swe_x_preferred":[
+        "Nasser City"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0441\u0435\u0440-\u0421\u0456\u0442\u0456"
+    ],
     "name:unk_x_variant":[
         "Nasser City",
         "Mad\u012bnat an Na\u015fr"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u65af\u723e\u5e02"
     ],
     "qs:gn_adm0_cc":"EG",
     "qs:gn_fcode":"PPLX",
@@ -123,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379294,
+    "wof:lastmodified":1563235274,
     "wof:name":"Mad\u012bnat an Na\u015fr",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

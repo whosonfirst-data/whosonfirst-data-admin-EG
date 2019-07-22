@@ -19,6 +19,15 @@
     "name:ara_x_variant":[
         "\u0628\u0644\u0642\u0627\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0644\u0642\u0627\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0642\u0627\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Bilq\u0101s"
+    ],
     "name:eng_x_preferred":[
         "Belqas"
     ],
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":421193789,
-    "wof:lastmodified":1561827072,
+    "wof:lastmodified":1563236147,
     "wof:name":"Bilqas Qism Awwal",
     "wof:parent_id":1092015611,
     "wof:placetype":"locality",

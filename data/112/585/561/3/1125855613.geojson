@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Mansura"
     ],
+    "name:ceb_x_preferred":[
+        "Al Man\u015f\u016brah"
+    ],
     "name:ces_x_preferred":[
         "Al-Mansura"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:eng_x_preferred":[
         "Al Mansurah"
+    ],
+    "name:eng_x_variant":[
+        "Mansoura"
     ],
     "name:est_x_preferred":[
         "Al-Man\u015f\u016brah"
@@ -134,8 +140,14 @@
     "name:pol_x_preferred":[
         "Mansura"
     ],
+    "name:pol_x_variant":[
+        "Al-Mansura"
+    ],
     "name:por_x_preferred":[
         "Al-Mansurah"
+    ],
+    "name:por_x_variant":[
+        "Alman\u00e7ora"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u041c\u0430\u043d\u0441\u0443\u0440\u0430"
@@ -148,6 +160,9 @@
     ],
     "name:spa_x_preferred":[
         "El Mansura"
+    ],
+    "name:spa_x_variant":[
+        "El Mansur\u00e1"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043d\u0441\u0443\u0440\u0430"
@@ -164,8 +179,14 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e2d\u0e25\u0e41\u0e21\u0e19\u0e0b\u0e38\u0e23\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e25\u0e21\u0e31\u0e19\u0e28\u0e39\u0e40\u0e23\u0e32\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Mansura"
+    ],
+    "name:tur_x_variant":[
+        "Mansure"
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041c\u0430\u043d\u0441\u0443\u0440\u0430"
@@ -175,6 +196,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0646\u0635\u0648\u0631\u06c1\u060c \u0645\u0635\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0646\u0635\u0648\u0631\u06c1"
     ],
     "name:vie_x_preferred":[
         "El Mansoura"
@@ -224,7 +248,7 @@
         }
     ],
     "wof:id":1125855613,
-    "wof:lastmodified":1561827077,
+    "wof:lastmodified":1563236213,
     "wof:name":"Al Man\u015f\u016brah",
     "wof:parent_id":1092025681,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Bani Suwayf"
     ],
+    "name:ceb_x_preferred":[
+        "Ban\u012b Suwayf"
+    ],
     "name:ces_x_preferred":[
         "B\u00e1n\u00ed Suvajf"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u0576\u056b \u054d\u0578\u0582\u0565\u0575\u0586"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0565\u0576\u056b \u054d\u0578\u0582\u0567\u0575\u0586"
     ],
     "name:ind_x_preferred":[
         "Beni Suef"
@@ -154,6 +160,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e19\u0e34 \u0e0b\u0e39\u0e1f"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e30\u0e19\u0e35\u0e0b\u0e38\u0e27\u0e31\u0e22\u0e1f\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Beni S\u00fcveyf"
     ],
@@ -214,7 +223,7 @@
         }
     ],
     "wof:id":1126019909,
-    "wof:lastmodified":1561827077,
+    "wof:lastmodified":1563236211,
     "wof:name":"Ban\u012b Suwayf",
     "wof:parent_id":1092015341,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0635\u064a\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u06cc\u0631"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u043b\u044c-\u041a\u0443\u0441\u0435\u0439\u0440"
     ],
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421187719,
-    "wof:lastmodified":1561827073,
+    "wof:lastmodified":1563236162,
     "wof:name":"Al Qusayr",
     "wof:parent_id":1092019193,
     "wof:placetype":"locality",

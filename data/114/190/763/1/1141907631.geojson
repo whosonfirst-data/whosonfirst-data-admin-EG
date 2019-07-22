@@ -17,11 +17,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0636\u0628\u0639\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0636\u0628\u0639\u0647"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Dab'a"
+    ],
     "name:eng_x_preferred":[
         "El Dabaa"
     ],
     "name:epo_x_preferred":[
         "El Dabaa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0636\u0628\u0639\u0647"
     ],
     "name:fra_x_preferred":[
         "Projet de centrale nucl\u00e9aire d'El-Dabaa"
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":1141907631,
-    "wof:lastmodified":1561827095,
+    "wof:lastmodified":1563236635,
     "wof:name":"El Daba",
     "wof:parent_id":1092017227,
     "wof:placetype":"locality",

@@ -23,8 +23,14 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u0643\u0633"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03be"
+    ],
     "name:eng_x_preferred":[
         "Max"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u06a9\u0633"
     ],
     "name:unk_x_variant":[
         "Mex"
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421192679,
-    "wof:lastmodified":1513956639,
+    "wof:lastmodified":1563236144,
     "wof:name":"Al Maks",
     "wof:parent_id":1092022499,
     "wof:placetype":"locality",

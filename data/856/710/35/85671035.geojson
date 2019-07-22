@@ -50,6 +50,9 @@
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u062d\u064a\u0631\u0647"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u062d\u06cc\u0631\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0443\u0445\u0430\u0444\u0430\u0437\u0430 \u0411\u0443\u0445\u0435\u0439\u0440\u0430"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 de Buhayra"
+    ],
+    "name:ceb_x_preferred":[
+        "Beheira Governorate"
     ],
     "name:ces_x_preferred":[
         "Buhajra"
@@ -100,11 +106,23 @@
     "name:fra_x_preferred":[
         "Gouvernorat de Beheira"
     ],
+    "name:fra_x_variant":[
+        "Beheira"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac0\u0ab9\u0ac7\u0a87\u0ab0\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05dc-\u05d1\u05d7\u05d9\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0939\u0947\u0907\u0930\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
+    ],
+    "name:hrv_x_preferred":[
+        "Beheira"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0570\u0565\u0575\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Al Buhayrah"
@@ -189,6 +207,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e40\u0e2e\u0e22\u0e23\u0e32 \u0e42\u0e01\u0e40\u0e27\u0e2d\u0e42\u0e23\u0e40\u0e19\u0e17"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e25\u0e1a\u0e38\u0e2e\u0e31\u0e22\u0e40\u0e23\u0e32\u0e30\u0e2e\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Buheyre"
@@ -335,7 +356,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827036,
+    "wof:lastmodified":1563235291,
     "wof:name":"Al Buhayrah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

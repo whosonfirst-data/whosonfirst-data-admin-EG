@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0637\u0631\u064a\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0645\u0637\u0631\u06cc\u0647"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c4\u03b1\u03c1\u03af\u03b3\u03b9\u03b1"
     ],
@@ -54,6 +57,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0637\u0631\u06cc\u06c1\u060c \u0645\u0635\u0631"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0637\u0631\u06cc\u06c1"
+    ],
     "qs:name":"Al Ma\u0163ar\u012byah",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890450053,
-    "wof:lastmodified":1561827076,
+    "wof:lastmodified":1563236205,
     "wof:name":"Al Ma\u0163ar\u012byah",
     "wof:parent_id":1092018479,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Assuan"
     ],
+    "name:ceb_x_preferred":[
+        "Markaz Asw\u0101n"
+    ],
     "name:ces_x_preferred":[
         "Asu\u00e1n"
     ],
@@ -224,6 +227,9 @@
     "name:war_x_preferred":[
         "Aswan"
     ],
+    "name:wuu_x_preferred":[
+        "\u963f\u65af\u65fa"
+    ],
     "name:yue_x_preferred":[
         "\u963f\u65af\u65fa"
     ],
@@ -349,7 +355,7 @@
         }
     ],
     "wof:id":1141909239,
-    "wof:lastmodified":1561827096,
+    "wof:lastmodified":1563236644,
     "wof:name":"Aswan",
     "wof:parent_id":1092014635,
     "wof:placetype":"locality",

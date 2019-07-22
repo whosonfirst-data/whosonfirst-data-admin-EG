@@ -19,6 +19,9 @@
     "name:arz_x_preferred":[
         "\u0646\u0648\u064a\u0628\u0639"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u06cc\u0628\u0639"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09cb\u09ad\u09c7\u0987\u09ac\u09be"
     ],
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":421189939,
-    "wof:lastmodified":1561827073,
+    "wof:lastmodified":1563236166,
     "wof:name":"Nuwaiba",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

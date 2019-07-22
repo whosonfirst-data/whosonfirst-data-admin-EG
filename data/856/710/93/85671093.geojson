@@ -47,6 +47,12 @@
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0645\u0627\u0644 \u0633\u064a\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Sina\u00ed del Norte"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0632\u0626\u06cc \u0633\u06cc\u0646\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09cd\u09a5 \u09b8\u09bf\u09a8\u09be\u0987 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 del Sina\u00ed del Nord"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at Sham\u0101l S\u012bn\u0101'"
     ],
     "name:ces_x_preferred":[
         "Severn\u00ed Sinaj"
@@ -93,6 +102,9 @@
     "name:fra_x_preferred":[
         "Gouvernorat du Sina\u00ef Nord"
     ],
+    "name:fra_x_variant":[
+        "Sina\u00ef Nord"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa5 \u0ab8\u0abf\u0aa8\u0abe\u0a87 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -122,6 +134,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0e4\ub9d0\uc2dc\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0e4\ub9d0\uc2dc\ub098\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Sinai Septentrionalis"
@@ -188,6 +203,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e32\u0e21\u0e32\u0e25\u0e0b\u0e34\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e0a\u0e30\u0e21\u0e32\u0e25\u0e0b\u0e35\u0e19\u0e32\u0e2d\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Kuzey Sina"
@@ -335,7 +353,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827037,
+    "wof:lastmodified":1563235293,
     "wof:name":"Shamal Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

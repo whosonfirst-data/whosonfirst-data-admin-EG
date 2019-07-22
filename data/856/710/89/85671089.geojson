@@ -47,6 +47,12 @@
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0646\u0648\u0628 \u0633\u064a\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Sina\u00ed del Sur"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0646\u0648\u0628\u06cc \u0633\u06cc\u0646\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u0995\u09cd\u09b7\u09bf\u09a8 \u09b8\u09bf\u09a8\u09be\u0987 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 del Sina\u00ed del Sud"
+    ],
+    "name:ceb_x_preferred":[
+        "South Sinai Governorate"
     ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed Sinaj"
@@ -93,6 +102,9 @@
     "name:fra_x_preferred":[
         "Gouvernorat du Sina\u00ef Sud"
     ],
+    "name:fra_x_variant":[
+        "Sina\u00ef Sud"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5 \u0ab8\u0abf\u0aa8\u0abe\u0a87 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -125,6 +137,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc790\ub204\ube0c\uc2dc\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc790\ub204\ube0c\uc2dc\ub098\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Sinai Australis"
@@ -191,6 +206,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e14\u0e32\u0e42\u0e0a\u0e01\u0e38\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e0d\u0e30\u0e19\u0e39\u0e1a\u0e0b\u0e35\u0e19\u0e32\u0e2d\u0e4c"
     ],
     "name:tur_x_preferred":[
         "G\u00fcney Sina"
@@ -338,7 +356,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827037,
+    "wof:lastmodified":1563235293,
     "wof:name":"Janub Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

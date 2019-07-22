@@ -22,11 +22,17 @@
     "name:deu_x_preferred":[
         "Al-Amiriya"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c1\u03ad\u03c5\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Amreya"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0639\u0627\u0645\u0631\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Al Maks"
     ],
     "name:unk_x_variant":[
         "Mary\u016b\u0163"
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":421192405,
-    "wof:lastmodified":1527716114,
+    "wof:lastmodified":1563236144,
     "wof:name":"Al Amiriyah",
     "wof:parent_id":1092016715,
     "wof:placetype":"locality",

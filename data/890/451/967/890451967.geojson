@@ -21,8 +21,14 @@
     "name:arz_x_preferred":[
         "\u0646\u0648\u064a\u0628\u0639"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u06cc\u0628\u0639"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09cb\u09ad\u09c7\u0987\u09ac\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Nuwaybi\u2018a"
     ],
     "name:ces_x_preferred":[
         "Nuweiba"
@@ -117,6 +123,9 @@
     "name:swe_x_preferred":[
         "Nuweiba"
     ],
+    "name:swe_x_variant":[
+        "Nueiba"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bc1\u0bb5\u0bc6\u0baf\u0bcd\u0baa\u0bbe"
     ],
@@ -170,7 +179,7 @@
         }
     ],
     "wof:id":890451967,
-    "wof:lastmodified":1561827076,
+    "wof:lastmodified":1563236201,
     "wof:name":"Nuwaybi\u2018a",
     "wof:parent_id":85671089,
     "wof:placetype":"locality",

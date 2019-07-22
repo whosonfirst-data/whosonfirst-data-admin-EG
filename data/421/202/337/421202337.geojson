@@ -19,6 +19,9 @@
     "name:arz_x_preferred":[
         "\u0628\u0627\u0648\u064a\u0637"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0648\u06cc\u0637\u06cc"
+    ],
     "name:ceb_x_preferred":[
         "Al Baw\u012b\u0163\u012b"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421202337,
-    "wof:lastmodified":1561827072,
+    "wof:lastmodified":1563236152,
     "wof:name":"Bawiti",
     "wof:parent_id":1092022885,
     "wof:placetype":"locality",

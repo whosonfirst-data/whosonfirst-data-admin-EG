@@ -21,6 +21,12 @@
     "name:arz_x_preferred":[
         "\u062f\u064a\u0631\u0648\u0637"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0631\u0648\u0637"
+    ],
+    "name:ceb_x_preferred":[
+        "Dayr\u016b\u0163"
+    ],
     "name:eng_x_preferred":[
         "Dairut"
     ],
@@ -29,6 +35,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05d9\u05e8\u05d5\u05d8 \u05d0\u05dc-\u05e9\u05e8\u05d9\u05e3"
+    ],
+    "name:heb_x_variant":[
+        "\u05d3\u05d9\u05d9\u05e8\u05d5\u05d8"
     ],
     "name:ita_x_preferred":[
         "Dairut"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890431233,
-    "wof:lastmodified":1561827075,
+    "wof:lastmodified":1563236190,
     "wof:name":"Dayr\u016b\u0163",
     "wof:parent_id":1092015987,
     "wof:placetype":"locality",

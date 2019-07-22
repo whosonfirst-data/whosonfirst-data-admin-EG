@@ -13,6 +13,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u064a\u0644\u200e"
+    ],
+    "name:eng_x_preferred":[
+        "El Manial"
+    ],
+    "name:gle_x_preferred":[
+        "El-Manial"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\uff1d\u30de\u30cb\u30a2\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "El-Manial"
+    ],
+    "name:swe_x_preferred":[
+        "El-Manial"
+    ],
     "name:unk_x_variant":[
         "El-Manyal"
     ],
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":421187131,
-    "wof:lastmodified":1501214125,
+    "wof:lastmodified":1563236162,
     "wof:name":"Manyal Shihah",
     "wof:parent_id":1092021173,
     "wof:placetype":"locality",

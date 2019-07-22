@@ -48,6 +48,9 @@
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0627\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0647"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644\u06cc\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u09ae\u09be\u0987\u09b2\u09bf\u09af\u09bc\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -59,6 +62,12 @@
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 d'Ismailiyah"
+    ],
+    "name:cat_x_variant":[
+        "governaci\u00f3 d'Ismailiyah"
+    ],
+    "name:ceb_x_preferred":[
+        "Ismailia Governorate"
     ],
     "name:ces_x_preferred":[
         "Ism\u00e1'\u00edl\u00edja"
@@ -93,8 +102,14 @@
     "name:fra_x_preferred":[
         "Gouvernorat d'Isma\u00eflia"
     ],
+    "name:fra_x_variant":[
+        "Isma\u00eflia"
+    ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0acd\u0aae\u0abe\u0a87\u0ab2\u0abf\u0aaf\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6  \u05d0\u05dc-\u05d0\u05e1\u05de\u05d0\u05e2\u05d9\u05dc\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0907\u0938\u094d\u092e\u093e\u0908\u0932\u093f\u092f\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
@@ -119,6 +134,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\uc2a4\ub9c8\uc77c\ub9ac\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\uc2a4\ub9c8\uc77c\ub9ac\uc544\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Ismailia"
     ],
     "name:lat_x_preferred":[
         "Al-Isma\u02bfiliyya"
@@ -185,6 +206,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e2a\u0e21\u0e32\u0e40\u0e25\u0e35\u0e22 \u0e01\u0e2d\u0e1f\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e01\u0e32\u0e23\u0e2d\u0e34\u0e2a\u0e40\u0e21\u0e2d\u0e34\u0e25\u0e35\u0e2d\u0e32"
     ],
     "name:tur_x_preferred":[
         "\u0130smailiye"
@@ -330,7 +354,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561827035,
+    "wof:lastmodified":1563235282,
     "wof:name":"Al Isma`iliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

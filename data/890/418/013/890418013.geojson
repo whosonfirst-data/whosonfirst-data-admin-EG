@@ -18,8 +18,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0648\u064a\u0637\u0649"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0648\u064a\u0637\u064a"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0648\u064a\u0637"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0648\u06cc\u0637\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Baw\u012b\u0163\u012b"
     ],
     "name:deu_x_preferred":[
         "al-Bawiti"
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890418013,
-    "wof:lastmodified":1561827075,
+    "wof:lastmodified":1563236195,
     "wof:name":"Al Baw\u012b\u0163\u012b",
     "wof:parent_id":1092022885,
     "wof:placetype":"locality",

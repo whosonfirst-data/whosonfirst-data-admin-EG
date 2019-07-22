@@ -20,11 +20,17 @@
     "name:arz_x_preferred":[
         "\u062c\u0631\u062c\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062c\u0631\u062c\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0438\u0440\u0433\u0430"
     ],
     "name:cat_x_preferred":[
         "Girga"
+    ],
+    "name:ceb_x_preferred":[
+        "Markaz Jirj\u0101"
     ],
     "name:deu_x_preferred":[
         "Girga"
@@ -34,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Jirja"
+    ],
+    "name:eng_x_variant":[
+        "Girga"
     ],
     "name:eus_x_preferred":[
         "Girga"
@@ -237,7 +246,7 @@
         }
     ],
     "wof:id":421199105,
-    "wof:lastmodified":1561827074,
+    "wof:lastmodified":1563236178,
     "wof:name":"Jirja",
     "wof:parent_id":1092021083,
     "wof:placetype":"locality",

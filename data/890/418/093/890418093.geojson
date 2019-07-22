@@ -18,6 +18,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0641\u0644\u0648\u0637"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u0643\u0632 \u0645\u0646\u0641\u0644\u0648\u0637"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0641\u0644\u0648\u0637"
+    ],
+    "name:ceb_x_preferred":[
+        "Manfal\u016b\u0163"
+    ],
     "name:ces_x_preferred":[
         "Manfal\u00fat"
     ],
@@ -38,6 +47,9 @@
     ],
     "name:ita_x_preferred":[
         "Manfalut"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30d5\u30a1\u30eb\u30fc\u30c8"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10dc\u10e4\u10d0\u10da\u10e3\u10e2\u10d8"
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":890418093,
-    "wof:lastmodified":1561827075,
+    "wof:lastmodified":1563236198,
     "wof:name":"Manfal\u016b\u0163",
     "wof:parent_id":1092022045,
     "wof:placetype":"locality",
