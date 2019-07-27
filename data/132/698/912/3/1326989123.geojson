@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u062f\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0631\u062f\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u062f\u06cc"
+    ],
+    "name:kur_x_preferred":[
+        "El Kurd\u00ee"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Kurdi"
+    ],
     "name:und_x_variant":[
         "El-Kurdi",
         "El Khurdi",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1326989123,
-    "wof:lastmodified":1537620901,
+    "wof:lastmodified":1564207332,
     "wof:name":"Al Kurdi",
     "wof:parent_id":1092021829,
     "wof:placetype":"locality",

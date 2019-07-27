@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0645\u0627\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Samman"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u043c\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Samm\u0101n",
         "Simm\u00e2n",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1276866385,
-    "wof:lastmodified":1537620586,
+    "wof:lastmodified":1564207724,
     "wof:name":"Samman",
     "wof:parent_id":1092017065,
     "wof:placetype":"locality",

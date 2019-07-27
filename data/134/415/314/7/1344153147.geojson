@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u062a"
     ],
+    "name:deu_x_preferred":[
+        "Hitt"
+    ],
     "name:und_x_variant":[
         "Heif",
         "Heit",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1344153147,
-    "wof:lastmodified":1537620775,
+    "wof:lastmodified":1564207402,
     "wof:name":"Hitt",
     "wof:parent_id":1092022369,
     "wof:placetype":"locality",

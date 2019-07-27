@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0635\u064a\u0631\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Sirah"
+    ],
+    "name:deu_x_preferred":[
+        "Sirah"
+    ],
+    "name:swe_x_preferred":[
+        "Sirah"
+    ],
     "name:und_x_variant":[
         "\u2018Azbat a\u015f \u015e\u012brah",
         "\u2018Ezbet el-\u1e62\u00eera",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1242789353,
-    "wof:lastmodified":1537620758,
+    "wof:lastmodified":1564208616,
     "wof:name":"Sirah",
     "wof:parent_id":1092021541,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0645\u064a\u0631\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u062d\u0649 \u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c1\u03af\u03b3\u03b9\u03b1"
+    ],
     "name:und_x_variant":[
         "El-Am\u00eer\u00eeya",
         "Amiriya",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1293764779,
-    "wof:lastmodified":1537620945,
+    "wof:lastmodified":1564207607,
     "wof:name":"Al Amiriyah",
     "wof:parent_id":1092020599,
     "wof:placetype":"locality",

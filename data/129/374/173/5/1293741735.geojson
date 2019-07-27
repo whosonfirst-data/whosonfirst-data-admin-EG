@@ -25,6 +25,33 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0627\u063a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0631\u0627\u063a\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Mara\u011fa"
+    ],
+    "name:ceb_x_preferred":[
+        "Markaz al Mar\u0101ghah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0627\u063a\u0647"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10db\u10d0\u10e0\u10d0\u10f0\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Maragha"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041c\u0430\u0440\u0430\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Markaz al Mar\u0101ghah"
+    ],
     "name:und_x_variant":[
         "El Mar\u00e2gha",
         "Al Mar\u0101ghah"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1293741735,
-    "wof:lastmodified":1537620895,
+    "wof:lastmodified":1564207687,
     "wof:name":"Al Maraghah",
     "wof:parent_id":1092018399,
     "wof:placetype":"locality",

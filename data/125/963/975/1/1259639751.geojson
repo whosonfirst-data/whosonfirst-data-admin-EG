@@ -25,6 +25,9 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Khazam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259639751,
-    "wof:lastmodified":1536632278,
+    "wof:lastmodified":1564208688,
     "wof:name":"Khuzam",
     "wof:parent_id":1092023115,
     "wof:placetype":"locality",

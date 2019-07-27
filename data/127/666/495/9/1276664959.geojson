@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0627\u062f\u064a"
     ],
+    "name:deu_x_preferred":[
+        "Dubai Bawadi"
+    ],
     "name:und_x_variant":[
         "Baw\u0101d\u012b",
         "Bawad\u012b"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276664959,
-    "wof:lastmodified":1537621252,
+    "wof:lastmodified":1564207784,
     "wof:name":"Bawadi",
     "wof:parent_id":1092021541,
     "wof:placetype":"locality",

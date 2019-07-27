@@ -26,11 +26,20 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Temple d'Isis"
+    ],
+    "name:hun_x_preferred":[
+        "Denduri templom"
+    ],
     "name:und_x_variant":[
         "Naj\u2018 Dand\u016br",
         "Dend\u016br",
         "Nag\u2018 Dand\u00fbr",
         "Dand\u016br"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u94ce\u795e\u5e99"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1293173357,
-    "wof:lastmodified":1537620814,
+    "wof:lastmodified":1564207692,
     "wof:name":"Dandur",
     "wof:parent_id":1092022915,
     "wof:placetype":"locality",

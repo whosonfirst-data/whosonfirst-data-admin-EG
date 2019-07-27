@@ -25,6 +25,39 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0647\u0646\u0627 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0637\u0647\u0646\u0627 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Akoris"
+    ],
+    "name:deu_x_preferred":[
+        "Tihna al-Dschabal"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03ba\u03c9\u03c1\u03b9\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0647\u0646\u0627 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Akoris"
+    ],
+    "name:ita_x_preferred":[
+        "Akoris"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e5\u10dd\u10e0\u10d8\u10e1\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Tihna al-D\u017cabal"
+    ],
+    "name:spa_x_preferred":[
+        "Acoris"
+    ],
     "name:und_x_variant":[
         "Akoris",
         "Tihna el Gebel",
@@ -55,7 +88,7 @@
         }
     ],
     "wof:id":1310389161,
-    "wof:lastmodified":1537620557,
+    "wof:lastmodified":1564208197,
     "wof:name":"Tihna al Jabal",
     "wof:parent_id":1092023043,
     "wof:placetype":"locality",

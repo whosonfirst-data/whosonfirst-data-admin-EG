@@ -42,8 +42,50 @@
     "mps:longitude":36.606168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0627\u064a\u0628"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0438\u0431"
+    ],
+    "name:cat_x_preferred":[
+        "Halaib"
+    ],
+    "name:ces_x_preferred":[
+        "Halaib"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03bb\u03ac\u03b9\u03bc\u03c0"
+    ],
     "name:eng_x_preferred":[
         "Halayib"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0644\u0627\u06cc\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Hala'ib"
+    ],
+    "name:hun_x_preferred":[
+        "Hala\u2019ib"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30e9\u30a4\u30d6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10da\u10d0\u10d8\u10d1\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Hala\u2019ib"
+    ],
+    "name:ron_x_preferred":[
+        "Hala'ib"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0438\u0431"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0457\u0431"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +130,7 @@
         }
     ],
     "wof:id":1092021349,
-    "wof:lastmodified":1560969115,
+    "wof:lastmodified":1564208337,
     "wof:name":"Halayeb",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0637\u0644\u064a\u0627"
     ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cbe\u0cb3\u0ccd\u0caf"
+    ],
     "name:und_x_variant":[
         "\u0162aly\u0101",
         "\u1e6caly\u0101"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1242863835,
-    "wof:lastmodified":1537620560,
+    "wof:lastmodified":1564208524,
     "wof:name":"Talya",
     "wof:parent_id":1092014621,
     "wof:placetype":"locality",

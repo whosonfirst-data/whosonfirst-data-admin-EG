@@ -29,7 +29,14 @@
         "Insh\u0101\u015f"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0646\u0634\u0627\u0635"
+        "\u0627\u0646\u0634\u0627\u0635",
+        "\u0623\u0646\u0634\u0627\u0635 \u0627\u0644\u0631\u0645\u0644"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03bd\u03c3\u03c7\u03b1\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Inszas"
     ],
     "name:und_x_variant":[
         "Insh\u0101\u015f al Ba\u015fal",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1225816415,
-    "wof:lastmodified":1537620768,
+    "wof:lastmodified":1564208899,
     "wof:name":"Inshas",
     "wof:parent_id":1092020479,
     "wof:placetype":"locality",

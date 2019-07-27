@@ -25,6 +25,96 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0643\u0633\u064a\u0631\u064a\u0646\u062e\u0648\u0633"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u043a\u0441\u0438\u0440\u0438\u043d\u0445"
+    ],
+    "name:cat_x_preferred":[
+        "Oxirrinc"
+    ],
+    "name:ces_x_preferred":[
+        "Oxyrhynchos"
+    ],
+    "name:dan_x_preferred":[
+        "Oxyrhynchos"
+    ],
+    "name:deu_x_preferred":[
+        "Oxyrhynchos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03be\u03cd\u03c1\u03c1\u03c5\u03b3\u03c7\u03bf\u03c2 \u0386\u03bd\u03c9 \u0391\u03b9\u03b3\u03cd\u03c0\u03c4\u03bf\u03c5"
+    ],
+    "name:epo_x_preferred":[
+        "Oksirin\u0125o"
+    ],
+    "name:eus_x_preferred":[
+        "Oxirrinko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0633\u06cc\u0631\u06cc\u0646\u062e\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Oksyrhynkhos"
+    ],
+    "name:fra_x_preferred":[
+        "Oxyrhynque"
+    ],
+    "name:fry_x_preferred":[
+        "Oksyrynchus"
+    ],
+    "name:glg_x_preferred":[
+        "Oxyrhynchus"
+    ],
+    "name:ind_x_preferred":[
+        "Oksirinkos"
+    ],
+    "name:ita_x_preferred":[
+        "Ossirinco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30af\u30b7\u30ea\u30f3\u30b3\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e5\u10e1\u10d8\u10e0\u10d8\u10dc\u10f0\u10e3\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc625\uc2dc\ub9c1\ucfe0\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Oksirinkhosa"
+    ],
+    "name:nld_x_preferred":[
+        "Oxyrhynchus"
+    ],
+    "name:nor_x_preferred":[
+        "Oxyrhynchus"
+    ],
+    "name:pol_x_preferred":[
+        "Oksyrynchos"
+    ],
+    "name:por_x_preferred":[
+        "Oxirrinco"
+    ],
+    "name:ron_x_preferred":[
+        "Oxyrhynchos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0441\u0438\u0440\u0438\u043d\u0445"
+    ],
+    "name:slk_x_preferred":[
+        "Oxyrhynchos"
+    ],
+    "name:spa_x_preferred":[
+        "Oxirrinco"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043a\u0441\u0438\u0440\u0438\u043d\u0445\u0443\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Oxyrhynchus"
+    ],
     "name:und_x_variant":[
         "Oxyrynkhos",
         "Behnesa",
@@ -34,6 +124,12 @@
         "Behnessa",
         "El-Bahnasa",
         "Al Bahnas\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Oxyrhynchus"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fc4\u514b\u559c\u6797\u5eab\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +155,7 @@
         }
     ],
     "wof:id":1209899993,
-    "wof:lastmodified":1537620938,
+    "wof:lastmodified":1564208018,
     "wof:name":"Al Bahnasa",
     "wof:parent_id":1092015295,
     "wof:placetype":"locality",

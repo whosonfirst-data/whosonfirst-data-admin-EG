@@ -25,6 +25,45 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0633\u0627\u0633\u064a\u0641"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0642\u0627\u0628\u0631 \u0627\u0644\u0639\u0633\u0627\u0633\u064a\u0641"
+    ],
+    "name:cat_x_preferred":[
+        "Asasif"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Asasif"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb-\u0391\u03c3\u03b1\u03c3\u03af\u03c6"
+    ],
+    "name:fra_x_preferred":[
+        "El-Assasif"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932-\u0905\u0938\u0938\u0940\u092b"
+    ],
+    "name:ind_x_preferred":[
+        "El-Assasif"
+    ],
+    "name:ita_x_preferred":[
+        "El-Assasif"
+    ],
+    "name:pol_x_preferred":[
+        "El-Assasif"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0410\u0441\u0441\u0430\u0441\u0438\u0444"
+    ],
+    "name:spa_x_preferred":[
+        "Asasif"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0410\u0441\u0441\u0430\u0441\u0456\u0444"
+    ],
     "name:und_x_variant":[
         "El Asasif",
         "Asasif",
@@ -54,7 +93,7 @@
         }
     ],
     "wof:id":1343241555,
-    "wof:lastmodified":1537620943,
+    "wof:lastmodified":1564207428,
     "wof:name":"Al `Asasif",
     "wof:parent_id":1092018839,
     "wof:placetype":"locality",

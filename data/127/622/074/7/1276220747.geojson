@@ -25,6 +25,12 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0644\u062c\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Dald\u017ca"
+    ],
     "name:und_x_variant":[
         "Dalga",
         "Dalj\u0101\u2019"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276220747,
-    "wof:lastmodified":1537620815,
+    "wof:lastmodified":1564207811,
     "wof:name":"Dalja'",
     "wof:parent_id":1092016033,
     "wof:placetype":"locality",

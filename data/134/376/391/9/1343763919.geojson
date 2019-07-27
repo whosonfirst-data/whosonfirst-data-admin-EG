@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u062d\u0645\u0635"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648 \u062d\u0645\u0635"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03bf\u03cd \u03a7\u03bf\u03cd\u03bc\u03bf\u03c5\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u062d\u0645\u0635"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Hummus"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443-\u0425\u0443\u043c\u043c\u0443\u0441"
+    ],
     "name:und_x_variant":[
         "Abou Hommos",
         "Abu Humus",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1343763919,
-    "wof:lastmodified":1537620960,
+    "wof:lastmodified":1564207434,
     "wof:name":"Abu Hummus",
     "wof:parent_id":1092014133,
     "wof:placetype":"locality",

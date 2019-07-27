@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0634\u0645\u0648\u0646\u064a\u0646"
     ],
+    "name:cat_x_preferred":[
+        "Al-Baqliya"
+    ],
+    "name:eus_x_preferred":[
+        "Hermopolis Parva"
+    ],
+    "name:fra_x_preferred":[
+        "Hermopolis Parva"
+    ],
+    "name:spa_x_preferred":[
+        "Herm\u00f3polis Parva"
+    ],
     "name:und_x_variant":[
         "El Ashm\u016bnein",
         "Al Ashm\u016bnayn",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1360173559,
-    "wof:lastmodified":1537620942,
+    "wof:lastmodified":1564208320,
     "wof:name":"Al Ashmunin",
     "wof:parent_id":1092022005,
     "wof:placetype":"locality",

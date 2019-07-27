@@ -25,6 +25,42 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062e\u0644\u0627\u0641"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u062a \u062e\u0644\u0627\u0641"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Khallaf"
+    ],
+    "name:deu_x_preferred":[
+        "Bait Challaf"
+    ],
+    "name:eus_x_preferred":[
+        "Bet Khalaf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u062e\u0644\u0627\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Beit Khallaf"
+    ],
+    "name:ita_x_preferred":[
+        "Beit Khallaf"
+    ],
+    "name:por_x_preferred":[
+        "Beit Khallaf"
+    ],
+    "name:slv_x_preferred":[
+        "Beit Khallaf"
+    ],
+    "name:spa_x_preferred":[
+        "Bet Jalaf"
+    ],
+    "name:swe_x_preferred":[
+        "Beit Khallaf"
+    ],
     "name:und_x_variant":[
         "Beit Khall\u00e2f",
         "Naj\u2018 as Sar\u0101wirah"
@@ -53,7 +89,7 @@
         }
     ],
     "wof:id":1309680355,
-    "wof:lastmodified":1537620621,
+    "wof:lastmodified":1564208438,
     "wof:name":"Naj` as Sarawirah",
     "wof:parent_id":1092021127,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Dikla"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e7\u05dc\u05d4"
+    ],
     "name:und_x_variant":[
         "Dikla",
         "Na\u1e96al Diqla"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293456365,
-    "wof:lastmodified":1537620542,
+    "wof:lastmodified":1564207683,
     "wof:name":"Nahal Diqla",
     "wof:parent_id":1092019921,
     "wof:placetype":"locality",

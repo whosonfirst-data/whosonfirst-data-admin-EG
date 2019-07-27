@@ -42,11 +42,23 @@
     "mps:longitude":29.920237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0631\u0645 \u0628\u0643"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0631\u0645 \u0628\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u062d\u0631\u0645 \u0628\u06a9"
+    ],
     "name:eng_x_preferred":[
         "Muharam Bik"
     ],
     "name:eng_x_variant":[
         "Muharam Bik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0631\u0645 \u0628\u06a9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":1092022525,
-    "wof:lastmodified":1560969120,
+    "wof:lastmodified":1564208366,
     "wof:name":"Moharam Bek",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

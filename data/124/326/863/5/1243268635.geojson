@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0634\u0627\u0644"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e9\u05dc"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0448\u0430\u043b"
+    ],
     "name:und_x_variant":[
         "Mash\u00e2l",
         "Mash\u0101l"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243268635,
-    "wof:lastmodified":1537620657,
+    "wof:lastmodified":1564208663,
     "wof:name":"Mashal",
     "wof:parent_id":1092015375,
     "wof:placetype":"locality",

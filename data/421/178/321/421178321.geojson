@@ -16,6 +16,9 @@
     "name:gle_x_preferred":[
         "Al Mamoura"
     ],
+    "name:nno_x_preferred":[
+        "Al Mamoura"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":421178321,
-    "wof:lastmodified":1527717729,
+    "wof:lastmodified":1564208478,
     "wof:name":"Al Mamoura",
     "wof:parent_id":1092018649,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u0635\u0631\u0648\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0635\u0631\u0648\u0627\u062d"
+    ],
+    "name:ceb_x_preferred":[
+        "Sirwah"
+    ],
+    "name:deu_x_preferred":[
+        "Sirwah"
+    ],
+    "name:epo_x_preferred":[
+        "Siruah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0631\u0648\u0627\u062d"
+    ],
+    "name:fra_x_preferred":[
+        "Sirwah"
+    ],
+    "name:ita_x_preferred":[
+        "Sirwah"
+    ],
     "name:und_x_variant":[
         "\u1e62arawa",
         "\u015earawah",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1343822303,
-    "wof:lastmodified":1537620582,
+    "wof:lastmodified":1564207440,
     "wof:name":"Sirwah",
     "wof:parent_id":1092021829,
     "wof:placetype":"locality",

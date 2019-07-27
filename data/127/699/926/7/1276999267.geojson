@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0646\u0628\u0644\u0627\u0648\u064a\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0633\u0646\u0628\u0644\u0627\u0648\u064a\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0646\u0628\u0644\u0627\u0648\u06cc\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0628\u0644\u0627\u0648\u06cc\u0646"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e1\u10d0\u10dc\u10d1\u10d4\u10da\u10d0\u10d5\u10d4\u10dc\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "As-Sinbillawajn"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441-\u0421\u0438\u043c\u0431\u0438\u043b\u043b\u0430\u0432\u0435\u0439\u043d"
+    ],
     "name:und_x_variant":[
         "El-Simbill\u00e2wein",
         "As Sunbull\u0101wayn",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276999267,
-    "wof:lastmodified":1537620850,
+    "wof:lastmodified":1564207849,
     "wof:name":"As Sinbillawayn",
     "wof:parent_id":1092019741,
     "wof:placetype":"locality",

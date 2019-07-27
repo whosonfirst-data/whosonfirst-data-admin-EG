@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u0645\u0632\u0627\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Mazar"
+    ],
+    "name:deu_x_preferred":[
+        "Mazar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Mazar"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d6\u05e8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Mazar"
+    ],
     "name:und_x_variant":[
         "El-Maz\u00e2r",
         "Maz\u00e2r Station",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1276600451,
-    "wof:lastmodified":1537620892,
+    "wof:lastmodified":1564207773,
     "wof:name":"Mazar",
     "wof:parent_id":1092015521,
     "wof:placetype":"locality",

@@ -29,7 +29,59 @@
         "B\u016br Fu\u2019\u0101d"
     ],
     "name:ara_x_variant":[
+        "\u0628\u0648\u0631 \u0641\u0624\u0627\u062f",
+        "\u0628\u0648\u0631\u0641\u0624\u0627\u062f"
+    ],
+    "name:arz_x_preferred":[
         "\u0628\u0648\u0631 \u0641\u0624\u0627\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0641\u0624\u0627\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u016br Fu'\u0101d"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c1\u03c4 \u03a6\u03bf\u03c5\u03ac\u03bd\u03c4"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0641\u0624\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Port-Fouad"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05e4\u05d5\u05d0\u05d3"
+    ],
+    "name:hrv_x_preferred":[
+        "Port Fouad"
+    ],
+    "name:ita_x_preferred":[
+        "Porto Fuad"
+    ],
+    "name:nld_x_preferred":[
+        "Port Fouad"
+    ],
+    "name:nor_x_preferred":[
+        "Port Fouad"
+    ],
+    "name:pol_x_preferred":[
+        "Bur Fu\u2019ad"
+    ],
+    "name:por_x_preferred":[
+        "Porto Fuade"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442-\u0424\u0443\u0430\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Port Fuad"
+    ],
+    "name:swe_x_preferred":[
+        "Port Fouad"
+    ],
+    "name:tur_x_preferred":[
+        "Port Fuad"
     ],
     "name:und_x_variant":[
         "Port Fuad",
@@ -59,7 +111,7 @@
         }
     ],
     "wof:id":1360150305,
-    "wof:lastmodified":1537621228,
+    "wof:lastmodified":1564208290,
     "wof:name":"Bur Fu'ad",
     "wof:parent_id":1092021001,
     "wof:placetype":"locality",

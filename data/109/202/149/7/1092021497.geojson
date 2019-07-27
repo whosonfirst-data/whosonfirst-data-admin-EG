@@ -42,12 +42,177 @@
     "mps:longitude":33.245118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Hurghada"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0631\u062f\u0642\u0629"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u063a\u0631\u062f\u0642\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Hurgada"
+    ],
+    "name:azb_x_preferred":[
+        "\u063a\u0631\u062f\u0642\u0647"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0443\u0440\u0433\u0430\u0434\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u0440\u0433\u0430\u0434\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Hurghada"
+    ],
+    "name:ceb_x_preferred":[
+        "Hurghada"
+    ],
+    "name:ces_x_preferred":[
+        "Hurghada"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0647\u0647\u200c\u0631\u062f\u0647\u200c\u06af\u0647\u200c"
+    ],
+    "name:dan_x_preferred":[
+        "Hurghada"
+    ],
+    "name:deu_x_preferred":[
+        "Hurghada"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03c1\u03b3\u03ba\u03ac\u03bd\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Al-Ghurdaqah"
     ],
     "name:eng_x_variant":[
         "Hurghada 1",
         "Al-Ghurdaqah"
+    ],
+    "name:epo_x_preferred":[
+        "Hurghada"
+    ],
+    "name:est_x_preferred":[
+        "Hurghada"
+    ],
+    "name:eus_x_preferred":[
+        "Hurghada"
+    ],
+    "name:fas_x_preferred":[
+        "\u063a\u0631\u062f\u0642\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Hurghada"
+    ],
+    "name:fra_x_preferred":[
+        "Hurghada"
+    ],
+    "name:gle_x_preferred":[
+        "Hurghada"
+    ],
+    "name:hau_x_preferred":[
+        "Hurghada"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2'\u05e8\u05d3\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Gurdaka"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0582\u0580\u0563\u0561\u0564\u0561"
+    ],
+    "name:ile_x_preferred":[
+        "Hurghada"
+    ],
+    "name:ita_x_preferred":[
+        "Hurghada"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30eb\u30ac\u30c0"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10e3\u10e0\u10d2\u10d0\u10d3\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud6c4\ub974\uac00\ub2e4"
+    ],
+    "name:lav_x_preferred":[
+        "Hurgada"
+    ],
+    "name:lit_x_preferred":[
+        "Hurgada"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0425\u0443\u0440\u0433\u0430\u0434\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0443\u0440\u0433\u0430\u0434\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Hurghada"
+    ],
+    "name:nno_x_preferred":[
+        "Hurghada"
+    ],
+    "name:nor_x_preferred":[
+        "Hurghada"
+    ],
+    "name:pol_x_preferred":[
+        "Hurghada"
+    ],
+    "name:por_x_preferred":[
+        "Hurghada"
+    ],
+    "name:ron_x_preferred":[
+        "Hurghada"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0440\u0433\u0430\u0434\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Hurghada"
+    ],
+    "name:slk_x_preferred":[
+        "Hurgada"
+    ],
+    "name:spa_x_preferred":[
+        "Hurgada"
+    ],
+    "name:sqi_x_preferred":[
+        "Hurgada"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0443\u0440\u0433\u0430\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hurghada"
+    ],
+    "name:szl_x_preferred":[
+        "Hurghada"
+    ],
+    "name:tur_x_preferred":[
+        "Hurgada"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0440\u0433\u0430\u0434\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0631\u062f\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Hurghada"
+    ],
+    "name:war_x_preferred":[
+        "Hurghada"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10e3\u10e0\u10d2\u10d0\u10d3\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d2a\u52a0\u9054"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +249,7 @@
         }
     ],
     "wof:id":1092021497,
-    "wof:lastmodified":1560969120,
+    "wof:lastmodified":1564208371,
     "wof:name":"Hurghada",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

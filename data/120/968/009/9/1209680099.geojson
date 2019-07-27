@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0634\u0646\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u0646\u0648"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0646\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Shinu"
+    ],
     "name:und_x_variant":[
         "Shin\u016b",
         "Shinnu",
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209680099,
-    "wof:lastmodified":1537620575,
+    "wof:lastmodified":1564207967,
     "wof:name":"Shinu",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

@@ -28,6 +28,39 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0635\u064a\u0631 \u0628\u0646\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Busiris"
+    ],
+    "name:deu_x_preferred":[
+        "Abu Sir Bana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u0635\u06cc\u0631 \u0628\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Bousiris"
+    ],
+    "name:ita_x_preferred":[
+        "Busiri"
+    ],
+    "name:nld_x_preferred":[
+        "Busiris"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0441\u0438\u0440\u0438\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Perusir"
+    ],
+    "name:spa_x_preferred":[
+        "Busiris"
+    ],
+    "name:swe_x_preferred":[
+        "Busiris"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0441\u0456\u0440\u0456\u0441"
+    ],
     "name:und_x_variant":[
         "Abu \u1e62\u00eer Bana",
         "Ab\u016b \u015e\u012br Ban\u0101",
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1209009197,
-    "wof:lastmodified":1537620957,
+    "wof:lastmodified":1564207896,
     "wof:name":"Abu Sir Bana",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

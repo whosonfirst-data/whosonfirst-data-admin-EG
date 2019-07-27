@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0645\u064a\u0633"
     ],
+    "name:deu_x_preferred":[
+        "Khamis"
+    ],
     "name:und_x_variant":[
         "Kham\u012bs"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343520559,
-    "wof:lastmodified":1537621058,
+    "wof:lastmodified":1564207382,
     "wof:name":"Khamis",
     "wof:parent_id":1092017993,
     "wof:placetype":"locality",

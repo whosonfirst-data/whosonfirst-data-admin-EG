@@ -25,6 +25,24 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0641"
+    ],
+    "name:ceb_x_preferred":[
+        "Khalaf"
+    ],
+    "name:deu_x_preferred":[
+        "Khalaf"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u0641"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043b\u0430\u0444"
+    ],
+    "name:swe_x_preferred":[
+        "Khalaf"
+    ],
     "name:und_x_variant":[
         "\u2018Izbat Khalaf",
         "Khalaf"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1260207681,
-    "wof:lastmodified":1537620674,
+    "wof:lastmodified":1564208135,
     "wof:name":"Khalaf",
     "wof:parent_id":1092014683,
     "wof:placetype":"locality",

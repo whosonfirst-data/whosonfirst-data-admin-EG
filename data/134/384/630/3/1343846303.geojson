@@ -25,6 +25,9 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u03a3\u03bf\u03c1\u03bf\u03cd\u03ba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343846303,
-    "wof:lastmodified":1537562624,
+    "wof:lastmodified":1564207425,
     "wof:name":"El Shorouk",
     "wof:parent_id":1092022997,
     "wof:placetype":"locality",

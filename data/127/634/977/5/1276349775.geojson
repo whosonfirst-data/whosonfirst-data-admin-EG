@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u0648\u064a\u0644\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Al-Tawila"
+    ],
+    "name:ceb_x_preferred":[
+        "A\u0163 \u0162aw\u012blah"
+    ],
+    "name:deu_x_preferred":[
+        "At-Taw\u012bla"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u06cc\u0644\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "At Tawilah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442-\u0422\u0430\u0432\u0438\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Et Taw\u012bla",
         "El-\u1e6caw\u00eela",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1276349775,
-    "wof:lastmodified":1537620845,
+    "wof:lastmodified":1564207765,
     "wof:name":"At Tawilah",
     "wof:parent_id":1092025265,
     "wof:placetype":"locality",

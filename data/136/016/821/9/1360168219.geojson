@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0637\u064a\u0637"
     ],
+    "name:pol_x_preferred":[
+        "Bahtit"
+    ],
     "name:und_x_variant":[
         "Ba\u1e29\u0163\u012b\u0163"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360168219,
-    "wof:lastmodified":1537620836,
+    "wof:lastmodified":1564208314,
     "wof:name":"Bahtit",
     "wof:parent_id":1092014103,
     "wof:placetype":"locality",

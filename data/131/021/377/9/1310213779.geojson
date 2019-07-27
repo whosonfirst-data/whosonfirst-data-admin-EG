@@ -25,6 +25,30 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0631\u0648\u0646\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u0631\u0648\u0646\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Sharuna"
+    ],
+    "name:deu_x_preferred":[
+        "Hut-nesu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0631\u0648\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Hout Nesout"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160aruna"
+    ],
+    "name:nld_x_preferred":[
+        "Hoet-Nesoe"
+    ],
     "name:und_x_variant":[
         "Sh\u0101r\u016bna",
         "Sh\u0101r\u016bnah"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1310213779,
-    "wof:lastmodified":1537620578,
+    "wof:lastmodified":1564208254,
     "wof:name":"Sharunah",
     "wof:parent_id":1092021965,
     "wof:placetype":"locality",

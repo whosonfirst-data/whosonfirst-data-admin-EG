@@ -25,6 +25,129 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u0646\u0647\u0648\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u0645\u0646\u0647\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0645\u0646\u0647\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "D\u0259m\u0259nhur"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u043d\u0445\u0443\u0440"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u043d\u0445\u0443\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Damanh\u016br"
+    ],
+    "name:ceb_x_preferred":[
+        "Damanh\u016br"
+    ],
+    "name:ces_x_preferred":[
+        "Damanhur"
+    ],
+    "name:dan_x_preferred":[
+        "Damanhur"
+    ],
+    "name:deu_x_preferred":[
+        "Damanhur"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bc\u03b1\u03bd\u03c7\u03bf\u03cd\u03c1"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0645\u0646\u0647\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Damanhur"
+    ],
+    "name:fra_x_preferred":[
+        "Damanhur"
+    ],
+    "name:gla_x_preferred":[
+        "Damanh\u00f9r"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05de\u05e0\u05d4\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Damanhur"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0574\u0561\u0576\u0570\u0578\u0582\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Damanhur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30de\u30f3\u30d5\u30fc\u30eb"
+    ],
+    "name:kab_x_preferred":[
+        "Damanhur"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10db\u10d0\u10dc\u10f0\u10e3\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2e4\ub9cc\ud6c4\ub974"
+    ],
+    "name:lit_x_preferred":[
+        "Damanh\u016bras"
+    ],
+    "name:nld_x_preferred":[
+        "Damanhur"
+    ],
+    "name:nor_x_preferred":[
+        "Damanhur"
+    ],
+    "name:pol_x_preferred":[
+        "Damanhur"
+    ],
+    "name:por_x_preferred":[
+        "Damanhur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u043d\u0445\u0443\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Damanhur"
+    ],
+    "name:spa_x_preferred":[
+        "Damanhur"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u043d\u0445\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Damanhur"
+    ],
+    "name:szl_x_preferred":[
+        "Damanhur"
+    ],
+    "name:tur_x_preferred":[
+        "Demenhur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u043d\u0445\u0443\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0645\u0646\u06c1\u0648\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Damanxur"
+    ],
+    "name:war_x_preferred":[
+        "Damanhur"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u66fc\u80e1\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +171,7 @@
         }
     ],
     "wof:id":1226405977,
-    "wof:lastmodified":1536703208,
+    "wof:lastmodified":1564208931,
     "wof:name":"Damanhur",
     "wof:parent_id":1092022905,
     "wof:placetype":"locality",

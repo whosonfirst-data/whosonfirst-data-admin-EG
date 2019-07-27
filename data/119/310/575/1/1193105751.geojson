@@ -25,6 +25,24 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Di\u00f2spolis Parva"
+    ],
+    "name:deu_x_preferred":[
+        "Diospolis Parva"
+    ],
+    "name:eus_x_preferred":[
+        "Diospolis Parva"
+    ],
+    "name:fra_x_preferred":[
+        "Diospolis Parva"
+    ],
+    "name:slv_x_preferred":[
+        "Hu"
+    ],
+    "name:spa_x_preferred":[
+        "Di\u00f3spolis Parva"
+    ],
     "name:und_x_variant":[
         "Hiu",
         "Diospolis Mikra",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1193105751,
-    "wof:lastmodified":1537620774,
+    "wof:lastmodified":1564208100,
     "wof:name":"Hiw",
     "wof:parent_id":1092022653,
     "wof:placetype":"locality",

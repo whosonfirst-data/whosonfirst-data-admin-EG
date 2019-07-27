@@ -21,8 +21,20 @@
     "name:ara_x_variant":[
         "\u0637\u0648\u062e"
     ],
+    "name:ceb_x_preferred":[
+        "Toukh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0648\u062e"
+    ],
+    "name:pol_x_preferred":[
+        "Tuch"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Toukh"
     ],
     "name:unk_x_variant":[
         "T\u00fbkh"
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":890428251,
-    "wof:lastmodified":1505343504,
+    "wof:lastmodified":1564208481,
     "wof:name":"Toukh",
     "wof:parent_id":1092025939,
     "wof:placetype":"locality",

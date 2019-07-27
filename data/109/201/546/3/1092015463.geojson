@@ -49,6 +49,9 @@
         "Biyalu",
         "Biyala"
     ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a40\u0a32\u0a3e"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1092015463,
-    "wof:lastmodified":1560969126,
+    "wof:lastmodified":1564208401,
     "wof:name":"Beela",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

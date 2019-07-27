@@ -25,6 +25,30 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0647\u064a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0647\u0647\u06cc\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Hihy\u0101"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0647\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Hihja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0445\u044c\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Hihy\u0101"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0456\u0445\u044c\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1309696045,
-    "wof:lastmodified":1537086203,
+    "wof:lastmodified":1564208443,
     "wof:name":"Hihya",
     "wof:parent_id":1092018557,
     "wof:placetype":"locality",

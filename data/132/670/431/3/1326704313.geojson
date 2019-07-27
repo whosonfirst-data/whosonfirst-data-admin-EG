@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0633\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0635\u064a\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0635\u06cc\u0631"
+    ],
     "name:und_x_variant":[
         "Mis\u00eer",
         "Mas\u012br",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1326704313,
-    "wof:lastmodified":1537620657,
+    "wof:lastmodified":1564207304,
     "wof:name":"Masir",
     "wof:parent_id":1092021581,
     "wof:placetype":"locality",

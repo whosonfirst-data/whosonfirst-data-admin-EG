@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u0627\u064a\u062e"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0627\u06cc\u062e"
+    ],
+    "name:nno_x_preferred":[
+        "Al Mashayikh"
+    ],
     "name:und_x_variant":[
         "Al Mash\u0101yikh"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1192980247,
-    "wof:lastmodified":1537621107,
+    "wof:lastmodified":1564208088,
     "wof:name":"Al Mashayikh",
     "wof:parent_id":1092021673,
     "wof:placetype":"locality",

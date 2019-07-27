@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Fuwah"
+    ],
     "name:unk_x_variant":[
         "Fuwa"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":890438269,
-    "wof:lastmodified":1527735422,
+    "wof:lastmodified":1564208481,
     "wof:name":"Fuwah",
     "wof:parent_id":1092021045,
     "wof:placetype":"locality",

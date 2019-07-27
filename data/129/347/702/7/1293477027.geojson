@@ -28,6 +28,63 @@
     "name:ara_x_preferred":[
         "\u0628\u0637\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Bata"
+    ],
+    "name:cat_x_preferred":[
+        "Bata"
+    ],
+    "name:ceb_x_preferred":[
+        "Bata"
+    ],
+    "name:ces_x_preferred":[
+        "Bata"
+    ],
+    "name:deu_x_preferred":[
+        "Bata"
+    ],
+    "name:epo_x_preferred":[
+        "Bata"
+    ],
+    "name:fra_x_preferred":[
+        "Bata"
+    ],
+    "name:glg_x_preferred":[
+        "Bata"
+    ],
+    "name:hun_x_preferred":[
+        "Bata"
+    ],
+    "name:ind_x_preferred":[
+        "Bata"
+    ],
+    "name:ita_x_preferred":[
+        "Bata"
+    ],
+    "name:lit_x_preferred":[
+        "Bata"
+    ],
+    "name:nld_x_preferred":[
+        "Bata"
+    ],
+    "name:pol_x_preferred":[
+        "Bata"
+    ],
+    "name:por_x_preferred":[
+        "Bata"
+    ],
+    "name:ron_x_preferred":[
+        "Bata"
+    ],
+    "name:slk_x_preferred":[
+        "Bata"
+    ],
+    "name:spa_x_preferred":[
+        "Bata"
+    ],
+    "name:swe_x_preferred":[
+        "Bata"
+    ],
     "name:und_x_variant":[
         "Ba\u0163\u0101"
     ],
@@ -54,7 +111,7 @@
         }
     ],
     "wof:id":1293477027,
-    "wof:lastmodified":1537620824,
+    "wof:lastmodified":1564207616,
     "wof:name":"Bata",
     "wof:parent_id":1092015253,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0646\u0628\u0631\u0648\u0647"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0628\u0631\u0648\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0628\u0631\u0648\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Nabaruh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0431\u0430\u0440\u043e\u0445"
+    ],
     "name:und_x_variant":[
         "Nabar\u00f4h",
         "Nabar\u016bh"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1259983865,
-    "wof:lastmodified":1537620629,
+    "wof:lastmodified":1564208679,
     "wof:name":"Nabaruh",
     "wof:parent_id":1092025265,
     "wof:placetype":"locality",

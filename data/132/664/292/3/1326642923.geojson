@@ -25,6 +25,9 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0648\u0627\u0644\u062f"
+    ],
     "name:und_x_variant":[
         "El Khaw\u00e2lid",
         "Al Khaw\u0101lid"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326642923,
-    "wof:lastmodified":1537620903,
+    "wof:lastmodified":1564207319,
     "wof:name":"Al Khawalid",
     "wof:parent_id":1092022905,
     "wof:placetype":"locality",
