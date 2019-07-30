@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062f\u0627\u0645\u0648\u062f"
     ],
+    "name:cat_x_preferred":[
+        "Nag al-Madamud"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Madamud"
+    ],
+    "name:eus_x_preferred":[
+        "Medamud"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u0627\u0645\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e9damoud"
+    ],
+    "name:slv_x_preferred":[
+        "Medamud"
+    ],
+    "name:spa_x_preferred":[
+        "Medamud"
+    ],
     "name:und_x_variant":[
         "Medam\u00f4t",
         "Nag el Mad\u0101m\u016bd",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1293052055,
-    "wof:lastmodified":1537620625,
+    "wof:lastmodified":1564207654,
     "wof:name":"Al Madamud",
     "wof:parent_id":1092018839,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bakr"
+    ],
+    "name:ceb_x_preferred":[
+        "Bakr"
+    ],
+    "name:deu_x_preferred":[
+        "Bakr"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06a9\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Bakr"
+    ],
+    "name:ita_x_preferred":[
+        "Bakr"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276886535,
-    "wof:lastmodified":1537030833,
+    "wof:lastmodified":1564207731,
     "wof:name":"Bakr",
     "wof:parent_id":1092023825,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0645\u0627\u0645"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0627\u0645"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u043c\u043c\u0430\u043c"
+    ],
     "name:und_x_variant":[
         "El \u1e24amm\u00e2m",
         "Al \u1e28amm\u0101m"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1276408779,
-    "wof:lastmodified":1537620922,
+    "wof:lastmodified":1564207822,
     "wof:name":"Al Hammam",
     "wof:parent_id":1092015739,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0637\u0646\u0627\u062d"
     ],
+    "name:nld_x_preferred":[
+        "Tanah"
+    ],
     "name:und_x_variant":[
         "Tanna\u1e25",
         "\u1e6can\u00e2\u1e25",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209632919,
-    "wof:lastmodified":1537620560,
+    "wof:lastmodified":1564207917,
     "wof:name":"Tanah",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

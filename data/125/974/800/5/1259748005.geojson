@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u0645\u064a\u062a \u0623\u0628\u0648 \u063a\u0627\u0644\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u062a \u0623\u0628\u0648 \u063a\u0627\u0644\u0628"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u06cc\u062a \u0627\u0628\u0648\u063a\u0627\u0644\u0628"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062a \u0627\u0628\u0648\u063a\u0627\u0644\u0628"
+    ],
     "name:und_x_variant":[
         "M\u00eet Abu Gh\u00e2lib"
     ],
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1259748005,
-    "wof:lastmodified":1537620645,
+    "wof:lastmodified":1564208779,
     "wof:name":"Mit Abu Ghalib",
     "wof:parent_id":1092020865,
     "wof:placetype":"locality",

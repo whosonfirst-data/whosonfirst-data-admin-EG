@@ -28,6 +28,39 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u062e\u0644\u0627\u0641"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u062a \u062e\u0644\u0627\u0641"
+    ],
+    "name:cat_x_preferred":[
+        "Beit Khallaf"
+    ],
+    "name:deu_x_preferred":[
+        "Bait Challaf"
+    ],
+    "name:eus_x_preferred":[
+        "Bet Khalaf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u062e\u0644\u0627\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Beit Khallaf"
+    ],
+    "name:ita_x_preferred":[
+        "Beit Khallaf"
+    ],
+    "name:por_x_preferred":[
+        "Beit Khallaf"
+    ],
+    "name:slv_x_preferred":[
+        "Beit Khallaf"
+    ],
+    "name:spa_x_preferred":[
+        "Bet Jalaf"
+    ],
+    "name:swe_x_preferred":[
+        "Beit Khallaf"
+    ],
     "name:und_x_variant":[
         "Beit Khallaf",
         "Bayt Khall\u0101f"
@@ -56,7 +89,7 @@
         }
     ],
     "wof:id":1343429219,
-    "wof:lastmodified":1537620824,
+    "wof:lastmodified":1564207505,
     "wof:name":"Bayt Khallaf",
     "wof:parent_id":1092021127,
     "wof:placetype":"locality",

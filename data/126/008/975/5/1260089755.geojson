@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0638\u0641\u0631"
     ],
+    "name:deu_x_preferred":[
+        "Zafar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0638\u0641\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0444\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "\u1e94afar el-Qad\u00eema",
         "Z\u0327afar al Qad\u012bmah",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1260089755,
-    "wof:lastmodified":1537620549,
+    "wof:lastmodified":1564208128,
     "wof:name":"Zafar",
     "wof:parent_id":1092025381,
     "wof:placetype":"locality",

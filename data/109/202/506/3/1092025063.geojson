@@ -42,12 +42,117 @@
     "mps:longitude":31.650291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0647\u0627\u062c"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0647\u0627\u062c"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0647\u0627\u062c"
+    ],
+    "name:ces_x_preferred":[
+        "Suhag"
+    ],
+    "name:dan_x_preferred":[
+        "Sohag"
+    ],
+    "name:deu_x_preferred":[
+        "Sohag"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c7\u03ac\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Sawhaj"
     ],
     "name:eng_x_variant":[
         "Suhag",
         "Sawhaj"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0647\u0627\u062c"
+    ],
+    "name:fra_x_preferred":[
+        "Sohag"
+    ],
+    "name:gle_x_preferred":[
+        "Sohag"
+    ],
+    "name:glg_x_preferred":[
+        "Sohag"
+    ],
+    "name:hun_x_preferred":[
+        "Szoh\u00e1g"
+    ],
+    "name:ita_x_preferred":[
+        "Sohag"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30cf\u30fc\u30b0"
+    ],
+    "name:kab_x_preferred":[
+        "Suha\u01e7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10f0\u10d0\u10d2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc18c\ud558\uadf8"
+    ],
+    "name:lit_x_preferred":[
+        "Sohagas"
+    ],
+    "name:msa_x_preferred":[
+        "Suhaj"
+    ],
+    "name:nld_x_preferred":[
+        "Suhaj"
+    ],
+    "name:nor_x_preferred":[
+        "Sohag"
+    ],
+    "name:pol_x_preferred":[
+        "Sauhad\u017c"
+    ],
+    "name:por_x_preferred":[
+        "Sohag"
+    ],
+    "name:ron_x_preferred":[
+        "Suhaj"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0445\u0430\u0433"
+    ],
+    "name:sco_x_preferred":[
+        "Sohag"
+    ],
+    "name:spa_x_preferred":[
+        "Suhag"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u0445\u0430\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Sohag"
+    ],
+    "name:tur_x_preferred":[
+        "Sevhac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0433\u0430\u0491"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u06c1\u0627\u062c"
+    ],
+    "name:vie_x_preferred":[
+        "Sohag"
+    ],
+    "name:war_x_preferred":[
+        "Sohag"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u54c8\u5091"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -84,7 +189,7 @@
         }
     ],
     "wof:id":1092025063,
-    "wof:lastmodified":1560969118,
+    "wof:lastmodified":1564208355,
     "wof:name":"Sohag",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

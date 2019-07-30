@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0644\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bijala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u044f\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Biyal\u0101",
         "Biyala"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1242736909,
-    "wof:lastmodified":1537620819,
+    "wof:lastmodified":1564208515,
     "wof:name":"Biyala",
     "wof:parent_id":1092015463,
     "wof:placetype":"locality",

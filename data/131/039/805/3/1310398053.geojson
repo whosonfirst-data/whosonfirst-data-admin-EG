@@ -25,6 +25,36 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062c \u0627\u0644\u0639\u0631\u0628"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u062c \u0627\u0644\u0639\u0631\u0628"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u062c \u0627\u0644\u0639\u0631\u0628"
+    ],
+    "name:deu_x_preferred":[
+        "Borg El Arab"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c1\u03b3\u03ba \u0395\u03bb \u0391\u03c1\u03ac\u03bc\u03c0"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062c \u0627\u0644\u0639\u0631\u0628"
+    ],
+    "name:ita_x_preferred":[
+        "Borg El Arab"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ub974\uadf8\uc5d8\uc544\ub78d"
+    ],
+    "name:spa_x_preferred":[
+        "Borg El Arab"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u62c9\u4f2f\u5821"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1310398053,
-    "wof:lastmodified":1537562628,
+    "wof:lastmodified":1564208224,
     "wof:name":"Borg El Arab",
     "wof:parent_id":1092015739,
     "wof:placetype":"locality",

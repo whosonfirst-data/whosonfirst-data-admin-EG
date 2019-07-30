@@ -25,6 +25,24 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0628\u0646\u0627\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Ra's Ban\u0101s"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c2 \u039c\u03c0\u03b1\u03bd\u03ac\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "Ras Banas"
+    ],
+    "name:pol_x_preferred":[
+        "Ras Banas"
+    ],
+    "name:swe_x_preferred":[
+        "Ra's Ban\u0101s"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293305647,
-    "wof:lastmodified":1537047129,
+    "wof:lastmodified":1564207563,
     "wof:name":"Ras Banas",
     "wof:parent_id":1092019787,
     "wof:placetype":"locality",

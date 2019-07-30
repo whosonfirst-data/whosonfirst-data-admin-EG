@@ -25,6 +25,12 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u0627\u0639\u064a\u0629"
+    ],
+    "name:pol_x_preferred":[
+        "As-Siba\u2019ijja"
+    ],
     "name:und_x_variant":[
         "El Siba\u2018iya",
         "Es Sib\u0101\u2018\u012bya",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1226111853,
-    "wof:lastmodified":1537620850,
+    "wof:lastmodified":1564208856,
     "wof:name":"As Siba`iyah",
     "wof:parent_id":1092016437,
     "wof:placetype":"locality",

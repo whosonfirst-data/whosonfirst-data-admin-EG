@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0642\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u0648 \u0642\u064a\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648\u0642\u06cc\u0631"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0431\u0443 \u041a\u0438\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Abukir"
+    ],
+    "name:ces_x_preferred":[
+        "Ab\u00fakir"
+    ],
     "name:dan_x_preferred":[
         "Abukir"
     ],
@@ -37,20 +52,59 @@
     "name:eng_x_preferred":[
         "Abu Qir"
     ],
+    "name:est_x_preferred":[
+        "Ab\u016b Q\u012br"
+    ],
+    "name:eus_x_preferred":[
+        "Abukir"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648\u0642\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "Abukir"
     ],
     "name:fra_x_preferred":[
         "Aboukir"
     ],
+    "name:ita_x_preferred":[
+        "Abukir"
+    ],
+    "name:lit_x_preferred":[
+        "Abu Kiras"
+    ],
     "name:lmo_x_preferred":[
         "Abukir"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u092c\u0941 \u0915\u093f\u0930"
+    ],
+    "name:nno_x_preferred":[
+        "Abukir"
+    ],
+    "name:nor_x_preferred":[
+        "Abukir"
+    ],
+    "name:oci_x_preferred":[
+        "Abokir"
     ],
     "name:pol_x_preferred":[
         "Abukir"
     ],
+    "name:pol_x_variant":[
+        "Abu Kir"
+    ],
+    "name:por_x_preferred":[
+        "Abuquir"
+    ],
     "name:ron_x_preferred":[
         "Abukir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443-\u041a\u0438\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Ab\u00fa K\u00edr"
     ],
     "name:spa_x_preferred":[
         "Aboukir"
@@ -65,6 +119,9 @@
         "Abou Kir",
         "Abukir",
         "Ab\u016b Q\u012br"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5e03\u57fa\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +147,7 @@
         }
     ],
     "wof:id":1243552235,
-    "wof:lastmodified":1537620959,
+    "wof:lastmodified":1564208510,
     "wof:name":"Abu Qir",
     "wof:parent_id":1092018649,
     "wof:placetype":"locality",

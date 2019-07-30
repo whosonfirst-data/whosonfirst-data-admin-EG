@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u062c\u0646\u0632\u0648\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u062c\u0646\u0632\u0648\u0631"
+    ],
+    "name:deu_x_preferred":[
+        "Dschansur"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u0632\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Janzour"
+    ],
+    "name:ita_x_preferred":[
+        "Gianzur"
+    ],
+    "name:por_x_preferred":[
+        "Janzur"
+    ],
+    "name:tur_x_preferred":[
+        "Cenzur"
+    ],
     "name:und_x_variant":[
         "Ganzour",
         "Ganz\u00fbr",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1309990503,
-    "wof:lastmodified":1537620756,
+    "wof:lastmodified":1564208418,
     "wof:name":"Janzur",
     "wof:parent_id":1092015653,
     "wof:placetype":"locality",

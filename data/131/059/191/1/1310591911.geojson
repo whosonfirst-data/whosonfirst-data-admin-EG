@@ -25,9 +25,15 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tirsa"
+    ],
     "name:und_x_variant":[
         "Tersa",
         "Tirs\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Tirsa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310591911,
-    "wof:lastmodified":1537620556,
+    "wof:lastmodified":1564208260,
     "wof:name":"Tirsa",
     "wof:parent_id":1092021173,
     "wof:placetype":"locality",

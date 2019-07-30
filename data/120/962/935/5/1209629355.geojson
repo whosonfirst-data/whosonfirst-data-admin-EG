@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u0646\u0634\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Nisha"
+    ],
+    "name:deu_x_preferred":[
+        "Nisha"
+    ],
+    "name:swe_x_preferred":[
+        "Nisha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632581
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209629355,
-    "wof:lastmodified":1537620603,
+    "wof:lastmodified":1564207904,
     "wof:name":"Nisha",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

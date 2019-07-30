@@ -25,6 +25,12 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062f\u0647\u0631\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Ad Dahrah"
+    ],
     "name:und_x_variant":[
         "El-\u1e0cahra",
         "El-Dabra\u2019",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293062973,
-    "wof:lastmodified":1537620954,
+    "wof:lastmodified":1564207573,
     "wof:name":"Ad Dahrah",
     "wof:parent_id":1092020865,
     "wof:placetype":"locality",

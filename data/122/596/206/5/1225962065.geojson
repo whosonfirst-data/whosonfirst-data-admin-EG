@@ -28,6 +28,33 @@
     "name:ara_x_preferred":[
         "\u0647\u0644\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Hala"
+    ],
+    "name:deu_x_preferred":[
+        "Hala"
+    ],
+    "name:hsb_x_preferred":[
+        "Hala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30fc\u30e9"
+    ],
+    "name:pol_x_preferred":[
+        "Hala"
+    ],
+    "name:slk_x_preferred":[
+        "Hala"
+    ],
+    "name:slv_x_preferred":[
+        "Hala"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hala"
+    ],
     "name:und_x_variant":[
         "Hal\u0101"
     ],
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1225962065,
-    "wof:lastmodified":1537620778,
+    "wof:lastmodified":1564208907,
     "wof:name":"Hala",
     "wof:parent_id":1092022277,
     "wof:placetype":"locality",

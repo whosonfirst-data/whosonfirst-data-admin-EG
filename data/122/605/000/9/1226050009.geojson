@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u064a\u062d\u064a\u0649"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443 \u042f\u0445\u044c\u044f"
+    ],
     "name:und_x_variant":[
         "Abu Yi\u1e25ya",
         "Ab\u016b Ya\u1e29y\u00e1",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1226050009,
-    "wof:lastmodified":1537620956,
+    "wof:lastmodified":1564208866,
     "wof:name":"Abu Yahya",
     "wof:parent_id":1092024849,
     "wof:placetype":"locality",

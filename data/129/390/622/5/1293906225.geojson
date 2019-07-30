@@ -25,17 +25,47 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Sa\u00efs"
+    ],
     "name:ara_x_preferred":[
         "\u0635\u0627 \u0627\u0644\u062d\u062c\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0635\u0627 \u0627\u0644\u062d\u062c\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u0626\u06cc\u0633"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0456\u0441"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0438\u0441"
     ],
     "name:cat_x_preferred":[
         "Sais"
     ],
+    "name:ces_x_preferred":[
+        "Sau"
+    ],
     "name:deu_x_preferred":[
         "Sais"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03b9\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Sais"
+    ],
+    "name:epo_x_preferred":[
+        "Sais"
+    ],
+    "name:eus_x_preferred":[
+        "Sais"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0626\u06cc\u0633"
     ],
     "name:fin_x_preferred":[
         "Sais"
@@ -43,23 +73,80 @@
     "name:fra_x_preferred":[
         "Sa\u00efs"
     ],
+    "name:hun_x_preferred":[
+        "Szaisz"
+    ],
+    "name:ind_x_preferred":[
+        "Sais"
+    ],
     "name:ita_x_preferred":[
+        "Sais"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30a4\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d8\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uc774\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Saisas"
+    ],
+    "name:nld_x_preferred":[
+        "Sa\u00efs"
+    ],
+    "name:nor_x_preferred":[
+        "Sais"
+    ],
+    "name:oci_x_preferred":[
         "Sais"
     ],
     "name:pol_x_preferred":[
         "Sais"
     ],
+    "name:por_x_preferred":[
+        "Sa\u00eds"
+    ],
+    "name:ron_x_preferred":[
+        "Sais"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0438\u0441"
     ],
+    "name:slk_x_preferred":[
+        "Saj"
+    ],
+    "name:slv_x_preferred":[
+        "Sais"
+    ],
     "name:spa_x_preferred":[
         "Sais"
+    ],
+    "name:swe_x_preferred":[
+        "Sais"
+    ],
+    "name:tgl_x_preferred":[
+        "Sais"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e2d\u0e34\u0e2a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0457\u0441"
     ],
     "name:und_x_variant":[
         "Sais",
         "\u1e62a el-\u1e24agar",
         "\u1e62\u00e2n el-\u1e24agar",
         "\u015e\u0101 al \u1e28ajar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0627 \u0627\u0644\u062d\u062c\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Sais"
     ],
     "name:zho_x_preferred":[
         "\u585e\u6613\u65af"
@@ -88,7 +175,7 @@
         }
     ],
     "wof:id":1293906225,
-    "wof:lastmodified":1537620591,
+    "wof:lastmodified":1564207582,
     "wof:name":"Sa al Hajar",
     "wof:parent_id":1092015375,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0646\u0634\u0648\u0627\u064a"
+    ],
+    "name:pol_x_preferred":[
+        "Dinszawaj"
+    ],
     "name:und_x_variant":[
         "Denshawai",
         "Dinshaw\u00e2i",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360181267,
-    "wof:lastmodified":1537620808,
+    "wof:lastmodified":1564208312,
     "wof:name":"Dinshaway",
     "wof:parent_id":1092019949,
     "wof:placetype":"locality",

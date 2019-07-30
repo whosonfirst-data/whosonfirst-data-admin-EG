@@ -29,7 +29,8 @@
         "Isn\u012bt"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0633\u0646\u064a\u062a"
+        "\u0627\u0633\u0646\u064a\u062a",
+        "\u0625\u0633\u0646\u064a\u062a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1226119667,
-    "wof:lastmodified":1537620767,
+    "wof:lastmodified":1564208853,
     "wof:name":"Isnit",
     "wof:parent_id":1092021747,
     "wof:placetype":"locality",

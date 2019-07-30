@@ -28,6 +28,39 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u0629 \u0627\u0644\u062c\u0628\u0644\u200e"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0648\u0646\u0629 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0646\u0647 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0646\u0647 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Tuna al-Djebel"
+    ],
+    "name:deu_x_preferred":[
+        "Tuna el-Gebel"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0646\u0647 \u0627\u0644\u062c\u0628\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Tounah el-Gebel"
+    ],
+    "name:ita_x_preferred":[
+        "Tuna el-Gebel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30fc\u30ca\u30fb\u30a8\u30eb\u30fb\u30ac\u30d0\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Tuna al-D\u017cabal"
+    ],
+    "name:spa_x_preferred":[
+        "Tuna el-Yebel"
+    ],
     "name:und_x_variant":[
         "T\u00fbna el Gabal",
         "T\u016bnat al Jabal",
@@ -58,7 +91,7 @@
         }
     ],
     "wof:id":1310495417,
-    "wof:lastmodified":1537620555,
+    "wof:lastmodified":1564208186,
     "wof:name":"Tunah al Jabal",
     "wof:parent_id":1092022005,
     "wof:placetype":"locality",

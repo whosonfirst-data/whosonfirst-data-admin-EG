@@ -25,6 +25,24 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0634\u0643\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0641\u0631 \u0634\u06a9\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0641\u0631 \u0634\u06a9\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Kafr Szukr"
+    ],
+    "name:spa_x_preferred":[
+        "Kafr Shukr"
+    ],
+    "name:szl_x_preferred":[
+        "Kafr Szukr"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1226326915,
-    "wof:lastmodified":1537562582,
+    "wof:lastmodified":1564208886,
     "wof:name":"Kafr Shukr",
     "wof:parent_id":1092023671,
     "wof:placetype":"locality",

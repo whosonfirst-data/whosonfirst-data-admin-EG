@@ -26,6 +26,12 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u06cc\u0627\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Al Qurayyah"
+    ],
     "name:und_x_variant":[
         "El Qira\u00eeya",
         "Al Qurayyah"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259948131,
-    "wof:lastmodified":1537620881,
+    "wof:lastmodified":1564208767,
     "wof:name":"Al Qurayyah",
     "wof:parent_id":1092018399,
     "wof:placetype":"locality",

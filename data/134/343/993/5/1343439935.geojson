@@ -28,9 +28,48 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0628\u0629"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0642\u0628\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Qubbah"
+    ],
+    "name:deu_x_preferred":[
+        "Gubba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0642\u0628\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Gubba"
+    ],
+    "name:hun_x_preferred":[
+        "Al Kuba"
+    ],
+    "name:ita_x_preferred":[
+        "Gubba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e5\u10e3\u10d1\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Kubba"
+    ],
+    "name:por_x_preferred":[
+        "Guba"
+    ],
+    "name:spa_x_preferred":[
+        "Al Quba"
+    ],
+    "name:swe_x_preferred":[
+        "Al Qubbah"
+    ],
     "name:und_x_variant":[
         "El-Qubba",
         "Al Qubbah"
+    ],
+    "name:vol_x_preferred":[
+        "Kubb\u00e4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +94,7 @@
         }
     ],
     "wof:id":1343439935,
-    "wof:lastmodified":1537620882,
+    "wof:lastmodified":1564207532,
     "wof:name":"Al Qubbah",
     "wof:parent_id":1092022403,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0628\u0627\u0633\u064a"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0639\u0628\u0627\u0633\u06cc"
+    ],
+    "name:nno_x_preferred":[
+        "Al `Abbasi"
+    ],
     "name:und_x_variant":[
         "Al \u2018Abb\u0101s\u012b"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1260353507,
-    "wof:lastmodified":1537620987,
+    "wof:lastmodified":1564208160,
     "wof:name":"Al `Abbasi",
     "wof:parent_id":1092024971,
     "wof:placetype":"locality",

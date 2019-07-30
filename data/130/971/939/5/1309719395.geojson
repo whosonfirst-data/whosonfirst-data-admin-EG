@@ -25,6 +25,21 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0645\u0648\u062f \u0634\u0644\u062a\u0648\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0645\u0648\u062f \u0634\u0644\u062a\u0648\u062a"
+    ],
+    "name:deu_x_preferred":[
+        "Mahm\u016bd Schalt\u016bt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0645\u0648\u062f \u0634\u0644\u062a\u0648\u062a"
+    ],
+    "name:ita_x_preferred":[
+        "Mahmud Shaltut"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1309719395,
-    "wof:lastmodified":1537053312,
+    "wof:lastmodified":1564208429,
     "wof:name":"Mahmud Shaltut",
     "wof:parent_id":1092015695,
     "wof:placetype":"locality",

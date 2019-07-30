@@ -25,6 +25,27 @@
     "iso:country":"EG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0634\u0627\u0621"
+    ],
+    "name:epo_x_preferred":[
+        "Albar\u015da"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0634\u0627\u0621"
+    ],
+    "name:ind_x_preferred":[
+        "Al Barsha"
+    ],
+    "name:ita_x_preferred":[
+        "Al Barsha"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Barsza"
+    ],
+    "name:swe_x_preferred":[
+        "Barsha"
+    ],
     "name:und_x_variant":[
         "El Barsha",
         "Al Barsh\u0101"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1259377115,
-    "wof:lastmodified":1537620934,
+    "wof:lastmodified":1564208687,
     "wof:name":"Al Barsha",
     "wof:parent_id":1092023043,
     "wof:placetype":"locality",

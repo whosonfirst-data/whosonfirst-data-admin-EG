@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u064a\u0632\u0629"
     ],
+    "name:sco_x_preferred":[
+        "Al Jizah"
+    ],
+    "name:swe_x_preferred":[
+        "Al Jizah"
+    ],
     "name:und_x_variant":[
         "\u2018Ezbet K\u00f4m el-G\u00eeza",
         "\u2018Izbat Kawm al J\u012bzah",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1310713531,
-    "wof:lastmodified":1537620761,
+    "wof:lastmodified":1564208183,
     "wof:name":"Al Jizah",
     "wof:parent_id":1092021541,
     "wof:placetype":"locality",
