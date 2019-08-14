@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SW"
+    ],
     "lbl:latitude":29.962692,
     "lbl:longitude":32.188879,
     "meso:name_alt1":"Suez",
@@ -343,16 +346,13 @@
         }
     ],
     "wof:id":85671013,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235302,
+    "wof:lastmodified":1565673294,
     "wof:name":"As Suways",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

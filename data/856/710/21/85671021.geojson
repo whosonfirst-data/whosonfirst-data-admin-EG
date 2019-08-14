@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BS"
+    ],
     "lbl:latitude":31.077789,
     "lbl:longitude":32.331427,
     "meso:name_alt1":"Port Said",
@@ -339,16 +342,13 @@
         }
     ],
     "wof:id":85671021,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235294,
+    "wof:lastmodified":1565673292,
     "wof:name":"Bur Sa`id",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

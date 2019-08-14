@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":27.375142,
     "lbl:longitude":32.491862,
     "meso:name_alt1":"Red Sea",
@@ -344,16 +347,13 @@
         }
     ],
     "wof:id":85671085,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235300,
+    "wof:lastmodified":1565673293,
     "wof:name":"Al Bahr al Ahmar",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

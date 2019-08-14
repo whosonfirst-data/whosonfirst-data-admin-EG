@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BN"
+    ],
     "lbl:latitude":28.930767,
     "lbl:longitude":30.638519,
     "meso:name_alt1":"Beni Suef",
@@ -405,16 +408,13 @@
         }
     ],
     "wof:id":85671053,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235296,
+    "wof:lastmodified":1565673292,
     "wof:name":"Bani Suwayf",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

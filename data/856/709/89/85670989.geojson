@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IS"
+    ],
     "lbl:latitude":30.493114,
     "lbl:longitude":32.369244,
     "meso:name_alt1":"Ismailia",
@@ -345,16 +348,13 @@
         }
     ],
     "wof:id":85670989,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235282,
+    "wof:lastmodified":1565673289,
     "wof:name":"Al Isma`iliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

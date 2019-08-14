@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WJ"
+    ],
     "lbl:latitude":24.837267,
     "lbl:longitude":28.558935,
     "meso:name_alt1":"New Valley",
@@ -340,16 +343,13 @@
         }
     ],
     "wof:id":85671071,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235300,
+    "wof:lastmodified":1565673293,
     "wof:name":"Al Wadi at Jadid",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

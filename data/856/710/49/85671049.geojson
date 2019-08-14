@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MN"
+    ],
     "lbl:latitude":28.221692,
     "lbl:longitude":30.127598,
     "meso:name_alt1":"Minya",
@@ -364,16 +367,13 @@
         }
     ],
     "wof:id":85671049,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235301,
+    "wof:lastmodified":1565673293,
     "wof:name":"Al Minya",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

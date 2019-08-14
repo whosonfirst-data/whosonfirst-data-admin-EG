@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BH"
+    ],
     "lbl:latitude":30.520033,
     "lbl:longitude":30.391867,
     "meso:name_alt1":"Beheria",
@@ -347,16 +350,13 @@
         }
     ],
     "wof:id":85671035,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235291,
+    "wof:lastmodified":1565673291,
     "wof:name":"Al Buhayrah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

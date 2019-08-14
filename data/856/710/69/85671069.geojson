@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AT"
+    ],
     "lbl:latitude":27.242475,
     "lbl:longitude":31.079516,
     "meso:name_alt1":"Asyut",
@@ -447,16 +450,13 @@
         }
     ],
     "wof:id":85671069,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235292,
+    "wof:lastmodified":1565673292,
     "wof:name":"Asyut",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

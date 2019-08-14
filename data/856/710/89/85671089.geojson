@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JS"
+    ],
     "lbl:latitude":29.013082,
     "lbl:longitude":33.876231,
     "meso:name_alt1":"South Sinai",
@@ -347,16 +350,13 @@
         }
     ],
     "wof:id":85671089,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235293,
+    "wof:lastmodified":1565673292,
     "wof:name":"Janub Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

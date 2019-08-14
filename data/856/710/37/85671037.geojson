@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FY"
+    ],
     "lbl:latitude":29.314742,
     "lbl:longitude":30.741434,
     "meso:name_alt1":"Faiyum",
@@ -302,16 +305,13 @@
         }
     ],
     "wof:id":85671037,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235296,
+    "wof:lastmodified":1565673292,
     "wof:name":"Al Fayyum",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

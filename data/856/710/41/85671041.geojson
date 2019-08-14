@@ -30,6 +30,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IK"
+    ],
     "lbl:latitude":30.757644,
     "lbl:longitude":29.772709,
     "meso:name_alt1":"Alexandria",
@@ -363,16 +366,13 @@
         }
     ],
     "wof:id":85671041,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235299,
+    "wof:lastmodified":1565673293,
     "wof:name":"Al Iskandariyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

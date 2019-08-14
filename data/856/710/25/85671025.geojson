@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DT"
+    ],
     "lbl:latitude":31.369036,
     "lbl:longitude":31.696909,
     "meso:name_alt1":"Domiat",
@@ -339,16 +342,13 @@
         }
     ],
     "wof:id":85671025,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235302,
+    "wof:lastmodified":1565673294,
     "wof:name":"Dumyat",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

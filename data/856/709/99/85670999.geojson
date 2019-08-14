@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QH"
+    ],
     "lbl:latitude":29.671211,
     "lbl:longitude":31.604235,
     "meso:name_alt1":"Cairo",
@@ -368,16 +371,13 @@
         }
     ],
     "wof:id":85670999,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235283,
+    "wof:lastmodified":1565673289,
     "wof:name":"Al Qahirah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

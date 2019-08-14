@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":23.366827,
     "lbl:longitude":32.987972,
     "meso:name_alt1":"Aswan",
@@ -455,16 +458,13 @@
         }
     ],
     "wof:id":85671061,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235290,
+    "wof:lastmodified":1565673291,
     "wof:name":"Aswan",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

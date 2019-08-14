@@ -29,6 +29,9 @@
     "label:eng_x_preferred_placetype":[
         "governorate"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MF"
+    ],
     "lbl:latitude":30.52051,
     "lbl:longitude":30.994669,
     "meso:name_alt1":"Menoufia",
@@ -338,16 +341,13 @@
         }
     ],
     "wof:id":85670995,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563235282,
+    "wof:lastmodified":1565673289,
     "wof:name":"Al Minufiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
