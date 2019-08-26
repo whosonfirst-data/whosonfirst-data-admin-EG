@@ -11,8 +11,10 @@
     "geom:longitude":29.953976,
     "gn:id":"",
     "iso:country":"EG",
+    "lbl:bbox":"29.948976,31.209781,29.958976,31.219781",
     "lbl:latitude":31.214781,
     "lbl:longitude":29.953976,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.204441,
     "mps:longitude":29.953494,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     "name:fas_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u062c\u0627\u0628\u0631"
     ],
-    "name:unk_x_variant":[
-        "Sidi Gaber District"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":1580,
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wk:latitude":31.2212,
     "wk:longitude":29.9381,
     "wk:wordcount":185,
@@ -82,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724292,
-        "qs:id":1187497,
         "qs_pg:id":1187497,
         "wd:id":"Q2169497"
     },
@@ -102,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563235281,
+    "wof:lastmodified":1566585854,
     "wof:name":"Sidi Gaber District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

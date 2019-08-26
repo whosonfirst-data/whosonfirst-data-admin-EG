@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.79028,30.90083,31.83028,30.94083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gez\u00eeret Umm \u2018Im\u00e2ra",
         "Jaz\u012brat \u1e28ad\u012bd\u016bn",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209185129,
-    "wof:lastmodified":1537620753,
+    "wof:lastmodified":1566586218,
     "wof:name":"Jazirat Umm `Imarah",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

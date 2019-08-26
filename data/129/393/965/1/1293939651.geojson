@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.55957,26.15742,32.59957,26.19742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Ghawasa",
         "Al Ghawa\u015fah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293939651,
-    "wof:lastmodified":1537620927,
+    "wof:lastmodified":1566585947,
     "wof:name":"Al Ghawasah",
     "wof:parent_id":1092023527,
     "wof:placetype":"locality",

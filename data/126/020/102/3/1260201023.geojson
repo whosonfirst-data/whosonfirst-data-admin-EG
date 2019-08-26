@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.47208,31.2158,31.51208,31.2558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0631\u0649 \u0627\u0644\u062d\u0635\u0635"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260201023,
-    "wof:lastmodified":1537621249,
+    "wof:lastmodified":1566586306,
     "wof:name":"Maqra al Hisas",
     "wof:parent_id":1092024759,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.57542,25.25518,32.61542,25.29518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nag\u2018 el-Ab\u00e2bda",
         "Naj\u2018 al \u2018Ab\u0101bdah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259988457,
-    "wof:lastmodified":1537620629,
+    "wof:lastmodified":1566586715,
     "wof:name":"Naj` al `Ababdah",
     "wof:parent_id":1092020721,
     "wof:placetype":"locality",

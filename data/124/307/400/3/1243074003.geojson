@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.88188,29.37362,30.92188,29.41362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Ikh\u1e63\u00e2\u1e63",
         "Al Ikh\u015f\u0101\u015f"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243074003,
-    "wof:lastmodified":1537620914,
+    "wof:lastmodified":1566586587,
     "wof:name":"Al Ikhsas",
     "wof:parent_id":1092025417,
     "wof:placetype":"locality",

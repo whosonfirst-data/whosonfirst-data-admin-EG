@@ -34,6 +34,7 @@
     ],
     "lbl:latitude":23.366827,
     "lbl:longitude":32.987972,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Aswan",
     "mps:latitude":23.595689,
     "mps:longitude":32.917329,
@@ -308,9 +309,6 @@
         "\u0410\u0441\u0443\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Aswan"
-    ],
-    "name:unk_x_variant":[
         "Mud\u012br\u012byat Asw\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -410,9 +408,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"679",
     "statoids:area_mi":"262",
     "statoids:as_of_date":"2006-11-11",
@@ -444,7 +442,7 @@
         "gp:id":2345238,
         "hasc:id":"EG.AN",
         "iso:id":"EG-ASN",
-        "qs:id":1312305,
+        "qs_pg:id":1312305,
         "unlc:id":"EG-ASN",
         "wd:id":"Q29937"
     },
@@ -464,11 +462,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673291,
+    "wof:lastmodified":1566585857,
     "wof:name":"Aswan",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":252246,
     "wof:population_rank":12,

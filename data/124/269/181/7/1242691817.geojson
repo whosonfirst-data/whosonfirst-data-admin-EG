@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.43134,30.93995,31.47134,30.97995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u062a\u0644\u0628\u0627\u0646\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242691817,
-    "wof:lastmodified":1537620683,
+    "wof:lastmodified":1566586636,
     "wof:name":"Kafr Tilbanah",
     "wof:parent_id":1092018395,
     "wof:placetype":"locality",

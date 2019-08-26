@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.88205,30.60128,30.92205,30.64128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shumy\u00e2\u1e6dis",
         "Shumb\u00e2\u1e6dis",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326814799,
-    "wof:lastmodified":1537620570,
+    "wof:lastmodified":1566585599,
     "wof:name":"Shumbatis",
     "wof:parent_id":1092019949,
     "wof:placetype":"locality",

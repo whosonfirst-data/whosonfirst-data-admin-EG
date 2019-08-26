@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.94164,30.74118,31.98164,30.78118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr el-Gal\u0101hm",
         "Kafr el-Gal\u00e2hima",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209197755,
-    "wof:lastmodified":1537620731,
+    "wof:lastmodified":1566586229,
     "wof:name":"Kafr al Jalahimah",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

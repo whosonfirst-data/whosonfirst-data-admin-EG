@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":31.18336,
     "lbl:longitude":29.886286,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alexandria",
     "meso:diss_me":"El-LabbanAlexandria",
     "meso:gadm_admin":"Port al-Basal",
@@ -42,6 +44,7 @@
     "mps:longitude":29.886286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "El-Labban"
     ],
@@ -50,7 +53,7 @@
         "Port al-Basal"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092018161,
-    "wof:lastmodified":1560969121,
+    "wof:lastmodified":1566586486,
     "wof:name":"El-Labban",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

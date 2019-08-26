@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.32223,30.38342,31.36223,30.42342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr \u2018Abd el-Nabi",
         "Kafr \u2018Abd an Nab\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259756935,
-    "wof:lastmodified":1537620750,
+    "wof:lastmodified":1566586789,
     "wof:name":"Kafr `Abd an Nabi",
     "wof:parent_id":1092022165,
     "wof:placetype":"locality",

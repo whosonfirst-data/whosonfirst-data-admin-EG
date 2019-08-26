@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"25.90554,31.59245,25.94554,31.63245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u0649 \u0628\u0631\u0627\u0646\u0649"
     ],
@@ -96,8 +100,7 @@
     ],
     "name:und_x_variant":[
         "El Bomba",
-        "Sidi el-Barr\u00e1ni",
-        "S\u012bd\u012b Barr\u0101n\u012b"
+        "Sidi el-Barr\u00e1ni"
     ],
     "name:vie_x_preferred":[
         "Sidi Barrani"
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1343330485,
-    "wof:lastmodified":1564207476,
+    "wof:lastmodified":1566585801,
     "wof:name":"Sidi Barrani",
     "wof:parent_id":1092024899,
     "wof:placetype":"locality",

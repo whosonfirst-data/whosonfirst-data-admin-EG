@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.18,29.34667,31.22,29.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u1e6df Ifwa",
         "\u2018A\u0163f Ifwah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327134853,
-    "wof:lastmodified":1537620848,
+    "wof:lastmodified":1566585634,
     "wof:name":"`Atf Ifwah",
     "wof:parent_id":1092020395,
     "wof:placetype":"locality",

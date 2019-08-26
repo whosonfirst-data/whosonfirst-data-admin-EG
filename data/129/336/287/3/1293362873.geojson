@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.88,24.34667,32.92,24.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nug\u00fb\u2018 el Gezira",
         "Nuj\u016b\u2018 al Jaz\u012brah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293362873,
-    "wof:lastmodified":1537620601,
+    "wof:lastmodified":1566585872,
     "wof:name":"Nuju` al Jazirah",
     "wof:parent_id":1092016115,
     "wof:placetype":"locality",

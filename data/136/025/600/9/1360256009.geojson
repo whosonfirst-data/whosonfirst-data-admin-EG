@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.33834,30.40711,31.37834,30.44711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0646\u0647\u0648\u0627"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360256009,
-    "wof:lastmodified":1537620567,
+    "wof:lastmodified":1566586424,
     "wof:name":"Sinnahwa",
     "wof:parent_id":1092022403,
     "wof:placetype":"locality",

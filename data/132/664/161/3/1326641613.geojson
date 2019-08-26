@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.53667,31.13083,30.57667,31.17083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ni\u1e95\u00e2ret el-R\u00f4\u1e0da",
         "Niz\u0327\u0101rat ar Raw\u1e11ah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326641613,
-    "wof:lastmodified":1537620602,
+    "wof:lastmodified":1566585683,
     "wof:name":"Nizarat ar Rawdah",
     "wof:parent_id":1092018277,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.02167,31.57194,31.06167,31.61194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Sa\u00eey\u00e2r",
         "As Sayy\u0101r"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293857967,
-    "wof:lastmodified":1537620850,
+    "wof:lastmodified":1566585913,
     "wof:name":"As Sayyar",
     "wof:parent_id":1092017189,
     "wof:placetype":"locality",

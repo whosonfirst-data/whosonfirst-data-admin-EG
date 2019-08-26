@@ -9,15 +9,18 @@
     "geom:bbox":"33.79844,31.13159,33.79844,31.13159",
     "geom:latitude":31.13159,
     "geom:longitude":33.79844,
-    "gn:gn_country":"EG",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":128855,
+    "gn:country":"EG",
+    "gn:fcode":"PPLA",
     "gn:population":128855,
     "iso:country":"EG",
+    "lbl:bbox":"33.77844,31.11159,33.81844,31.15159",
     "lbl:latitude":31.13159,
     "lbl:longitude":33.79844,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "El-\u2018Ar\u00eesh"
@@ -165,7 +168,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0410\u0440\u0456\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rhinocolura"
     ],
     "name:urd_x_preferred":[
@@ -192,7 +195,7 @@
     "qs_pg:qs_id":310268,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":1126020031,
-    "wof:lastmodified":1563236208,
+    "wof:lastmodified":1566586582,
     "wof:name":"Al \u2018Ar\u012bsh",
     "wof:parent_id":1092025189,
     "wof:placetype":"locality",

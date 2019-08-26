@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":29.958242,
     "lbl:longitude":32.565301,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Suez",
     "meso:diss_me":"Police staion of Suez PortSuez",
     "meso:gadm_admin":"Suez",
@@ -42,6 +44,7 @@
     "mps:longitude":32.565301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Suez"
     ],
@@ -49,9 +52,9 @@
         "Suez"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"",
     "statoids:as_of_date":"2006-11-11",
     "statoids:capital":"",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1092023331,
-    "wof:lastmodified":1560969118,
+    "wof:lastmodified":1566586470,
     "wof:name":"Police staion of Suez Port",
     "wof:parent_id":85671013,
     "wof:placetype":"county",

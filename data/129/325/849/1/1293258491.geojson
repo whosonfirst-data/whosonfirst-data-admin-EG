@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.80347,28.9089,30.84347,28.9489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beni Muhammad Rashid",
         "Ban\u012b Mu\u1e29ammad R\u0101shid"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293258491,
-    "wof:lastmodified":1537620830,
+    "wof:lastmodified":1566585927,
     "wof:name":"Bani Muhammad Rashid",
     "wof:parent_id":1092024299,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.09506,30.85528,32.13506,30.89528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0631\u0642\u0645 \u0665"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326503991,
-    "wof:lastmodified":1537621233,
+    "wof:lastmodified":1566585630,
     "wof:name":"`Izbat Raqm Khamsah",
     "wof:parent_id":1092018091,
     "wof:placetype":"locality",

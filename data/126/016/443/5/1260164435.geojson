@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.82208,30.7135,31.86208,30.7535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0627\u0644\u062d\u0627\u062c \u0639\u0645\u0631"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260164435,
-    "wof:lastmodified":1537620735,
+    "wof:lastmodified":1566586311,
     "wof:name":"Kafr al Hajj `Umar",
     "wof:parent_id":1092020833,
     "wof:placetype":"locality",

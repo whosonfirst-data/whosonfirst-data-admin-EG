@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.57869,29.10658,30.61869,29.14658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Izab al Maw\u0101lik",
         "\u2018Ezab el-Maw\u00e2lik",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293595193,
-    "wof:lastmodified":1537620657,
+    "wof:lastmodified":1566585929,
     "wof:name":"`Izbat al Mawalik",
     "wof:parent_id":1092014683,
     "wof:placetype":"locality",

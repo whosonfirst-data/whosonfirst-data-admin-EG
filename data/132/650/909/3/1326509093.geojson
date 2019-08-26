@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.38477,30.77091,31.42477,30.81091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0627\u0641\u0648\u0631"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326509093,
-    "wof:lastmodified":1537620589,
+    "wof:lastmodified":1566585629,
     "wof:name":"Safur",
     "wof:parent_id":1092016079,
     "wof:placetype":"locality",

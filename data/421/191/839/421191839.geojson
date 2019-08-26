@@ -10,8 +10,12 @@
     "geom:latitude":30.71459,
     "geom:longitude":31.25899,
     "iso:country":"EG",
+    "lbl:bbox":"31.23899,30.69459,31.27899,30.73459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a \u063a\u0645\u0631"
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0442-\u0413\u0430\u043c\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00eet Ghamr and Kafr el-Ba\u1e6dal"
     ],
     "name:urd_x_preferred":[
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":352181,
         "gp:id":1525350,
-        "qs:id":1158080,
+        "qs_pg:id":1158080,
         "wd:id":"Q337123",
         "wk:page":"Mit Ghamr"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":421191839,
-    "wof:lastmodified":1563236175,
+    "wof:lastmodified":1566586568,
     "wof:name":"\u0645\u064a\u062a \u063a\u0645\u0631",
     "wof:parent_id":1092022277,
     "wof:placetype":"locality",

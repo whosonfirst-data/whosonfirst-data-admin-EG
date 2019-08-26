@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.70306,31.05889,29.74306,31.09889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Deir",
         "El Delr",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243452081,
-    "wof:lastmodified":1537620805,
+    "wof:lastmodified":1566586699,
     "wof:name":"Ad Dayr",
     "wof:parent_id":1092016715,
     "wof:placetype":"locality",

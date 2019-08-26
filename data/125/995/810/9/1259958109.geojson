@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.25827,29.60646,31.29827,29.64646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Gez\u012bra esh Shaqra",
         "El Gez\u00eera el Shaqra",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259958109,
-    "wof:lastmodified":1537620910,
+    "wof:lastmodified":1566586757,
     "wof:name":"Al Jazirah ash Shaqra'",
     "wof:parent_id":1092019453,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.71345,29.25855,30.75345,29.29855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ihr\u012bt al Gharb\u012byah",
         "Ihr\u00eet el Gharb\u00eeya",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293687671,
-    "wof:lastmodified":1537620770,
+    "wof:lastmodified":1566585936,
     "wof:name":"Ihrit",
     "wof:parent_id":1092014683,
     "wof:placetype":"locality",

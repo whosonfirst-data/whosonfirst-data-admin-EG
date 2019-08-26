@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.28,30.38,31.32,30.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet Bu\u1e63eil\u00e2n",
         "Nazlat Bu\u015fayl\u0101n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243055077,
-    "wof:lastmodified":1537620609,
+    "wof:lastmodified":1566586668,
     "wof:name":"Nazlat Busaylan",
     "wof:parent_id":1092024593,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.21561,30.74154,30.25561,30.78154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276450393,
-    "wof:lastmodified":1536619620,
+    "wof:lastmodified":1566586013,
     "wof:name":"`Izbat Tawfiq al Hakim",
     "wof:parent_id":1092014061,
     "wof:placetype":"locality",

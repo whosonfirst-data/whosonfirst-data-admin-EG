@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.63432,25.69799,32.67432,25.73799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u0646\u0643"
     ],
@@ -35,7 +39,6 @@
         "El Kharn\u00e2k",
         "El Karnak",
         "Al Karnak",
-        "Karnak",
         "Al-Karnak"
     ],
     "src:geom":"geonames",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209762993,
-    "wof:lastmodified":1537620907,
+    "wof:lastmodified":1566586181,
     "wof:name":"Al Karnak",
     "wof:parent_id":1092018839,
     "wof:placetype":"locality",

@@ -34,6 +34,7 @@
     ],
     "lbl:latitude":24.837267,
     "lbl:longitude":28.558935,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"New Valley",
     "mps:latitude":24.831341,
     "mps:longitude":28.584667,
@@ -197,7 +198,7 @@
         "Guvernementet Al-Wadi al-Jadid"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bbf\u0baf\u0bc2  \u0bb5\u0bbe\u0bb2\u0bc7 \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+        "\u0ba8\u0bbf\u0baf\u0bc2 \u0bb5\u0bbe\u0bb2\u0bc7 \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c4d\u0c2f\u0c42 \u0c35\u0c4d\u0c2f\u0c3e\u0c32\u0c40 \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -212,9 +213,6 @@
         "\u041d\u043e\u0432\u0430 \u0414\u043e\u043b\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "New Valley"
-    ],
-    "name:unk_x_variant":[
         "El-Wadi el-Gedid"
     ],
     "name:urd_x_preferred":[
@@ -304,9 +302,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"376,505",
     "statoids:area_mi":"145,369",
     "statoids:as_of_date":"2006-11-11",
@@ -330,7 +328,7 @@
         "gp:id":2345235,
         "hasc:id":"EG.WJ",
         "iso:id":"EG-WAD",
-        "qs:id":896788,
+        "qs_pg:id":896788,
         "wd:id":"Q30650"
     },
     "wof:country":"EG",
@@ -349,11 +347,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673293,
+    "wof:lastmodified":1566585864,
     "wof:name":"Al Wadi at Jadid",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":187256,
     "wof:population_rank":9,

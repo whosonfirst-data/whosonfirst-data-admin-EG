@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.365,30.93944,30.405,30.97944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ezbet Kha\u00eeri Nauw\u00e2r",
         "\u2018Ezbet Ism\u00e2\u2018\u00eel Nauw\u00e2r"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276992731,
-    "wof:lastmodified":1537620788,
+    "wof:lastmodified":1566586097,
     "wof:name":"`Ezbet Isma`il Nauwar",
     "wof:parent_id":1092015921,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.04944,30.18083,31.08944,30.22083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Umm D\u012bn\u0101r"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293277835,
-    "wof:lastmodified":1537620552,
+    "wof:lastmodified":1566585963,
     "wof:name":"Umm Dinar",
     "wof:parent_id":1092020631,
     "wof:placetype":"locality",

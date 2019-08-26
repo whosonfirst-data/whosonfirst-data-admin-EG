@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.70761,30.87559,31.74761,30.91559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0631\u0627\u0643"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343936693,
-    "wof:lastmodified":1537620560,
+    "wof:lastmodified":1566585796,
     "wof:name":"Tall Rak",
     "wof:parent_id":1092015105,
     "wof:placetype":"locality",

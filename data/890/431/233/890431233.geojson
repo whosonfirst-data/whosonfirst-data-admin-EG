@@ -11,10 +11,14 @@
     "geom:longitude":30.80764,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":67788,
+    "gn:population":67788,
     "iso:country":"EG",
+    "lbl:bbox":"30.78764,27.53602,30.82764,27.57602",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631\u0648\u0637"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Dayr\u016b\u0163"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dair\u00fbt el Ma\u1e25a\u1e6d\u1e6da"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":358269,
         "gp:id":56447081,
-        "qs:id":274906,
+        "qs_pg:id":274906,
         "wd:id":"Q951804"
     },
     "wof:country":"EG",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890431233,
-    "wof:lastmodified":1563236190,
+    "wof:lastmodified":1566586576,
     "wof:name":"Dayr\u016b\u0163",
     "wof:parent_id":1092015987,
     "wof:placetype":"locality",

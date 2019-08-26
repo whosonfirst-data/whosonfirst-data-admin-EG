@@ -11,11 +11,15 @@
     "geom:longitude":31.41554,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":44132,
+    "gn:population":44132,
     "iso:country":"EG",
+    "lbl:bbox":"31.39554,26.97257,31.43554,27.01257",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "El Bad\u00e2ri"
     ],
     "qs:name":"Al Bad\u0101r\u012b",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":361478,
-        "qs:id":124310
+        "qs_pg:id":124310
     },
     "wof:country":"EG",
     "wof:created":1469052332,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890441659,
-    "wof:lastmodified":1505343583,
+    "wof:lastmodified":1566586574,
     "wof:name":"Al Bad\u0101r\u012b",
     "wof:parent_id":1092016975,
     "wof:placetype":"locality",

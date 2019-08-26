@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.60599,25.20879,32.64599,25.24879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gez\u012bret er R\u012bq\u012bya",
         "Gez\u00eeret el R\u00eeq\u00eeya",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310557683,
-    "wof:lastmodified":1537620592,
+    "wof:lastmodified":1566586363,
     "wof:name":"Jazirat ar Riqiyah",
     "wof:parent_id":1092020721,
     "wof:placetype":"locality",

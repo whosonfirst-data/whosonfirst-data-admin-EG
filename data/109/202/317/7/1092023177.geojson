@@ -12,6 +12,8 @@
     "iso:country":"EG",
     "lbl:latitude":27.827387,
     "lbl:longitude":34.037718,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"South Sinai",
     "meso:diss_me":"NO DATASouth Sinai",
     "meso:gadm_admin":"NO DATA",
@@ -27,8 +29,9 @@
     "mps:longitude":34.037718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632581,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1092023177,
-    "wof:lastmodified":1512516749,
+    "wof:lastmodified":1566586480,
     "wof:name":"",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

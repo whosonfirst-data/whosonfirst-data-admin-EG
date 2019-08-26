@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.74667,27.59667,30.78667,27.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Z\u00e2wyet H\u00e2r\u00fbn",
         "Z\u0101wiyat H\u0101r\u016bn"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293565457,
-    "wof:lastmodified":1537620545,
+    "wof:lastmodified":1566585944,
     "wof:name":"Zawiyat Harun",
     "wof:parent_id":1092016033,
     "wof:placetype":"locality",

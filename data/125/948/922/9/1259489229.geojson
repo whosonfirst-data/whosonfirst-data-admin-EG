@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.955,29.37575,30.995,29.41575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Maq\u00e2tla",
         "Al Muq\u0101tilah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259489229,
-    "wof:lastmodified":1537620889,
+    "wof:lastmodified":1566586729,
     "wof:name":"Al Muqatilah",
     "wof:parent_id":1092025417,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.01639,31.55917,31.05639,31.59917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Sab\u00e2y\u2018a",
         "As Sab\u0101\u2019i\u2018ah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259347305,
-    "wof:lastmodified":1537620857,
+    "wof:lastmodified":1566586775,
     "wof:name":"As Saba'i`ah",
     "wof:parent_id":1092017189,
     "wof:placetype":"locality",

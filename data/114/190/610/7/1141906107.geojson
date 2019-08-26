@@ -10,10 +10,14 @@
     "geom:latitude":30.466665,
     "geom:longitude":31.183336,
     "iso:country":"EG",
+    "lbl:bbox":"31.1633356294,30.4466651155,31.2033356294,30.4866651155",
     "lbl:latitude":30.466665,
     "lbl:longitude":31.183336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0646\u0647\u0627"
     ],
@@ -230,7 +234,7 @@
         }
     ],
     "wof:id":1141906107,
-    "wof:lastmodified":1564209004,
+    "wof:lastmodified":1566586924,
     "wof:name":"Benha",
     "wof:parent_id":1092015253,
     "wof:placetype":"locality",

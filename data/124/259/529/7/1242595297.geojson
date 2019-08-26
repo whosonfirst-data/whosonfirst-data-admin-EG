@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.44667,31.21333,31.48667,31.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Costantin\u00eeya",
         "El Qustantin\u00eeya",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242595297,
-    "wof:lastmodified":1537620881,
+    "wof:lastmodified":1566586622,
     "wof:name":"Al Qustantiniyah",
     "wof:parent_id":1092015611,
     "wof:placetype":"locality",

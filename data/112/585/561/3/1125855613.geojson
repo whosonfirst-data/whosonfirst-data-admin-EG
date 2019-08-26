@@ -9,15 +9,18 @@
     "geom:bbox":"31.38069,31.03637,31.38069,31.03637",
     "geom:latitude":31.03637,
     "geom:longitude":31.38069,
-    "gn:gn_country":"EG",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":420195,
+    "gn:country":"EG",
+    "gn:fcode":"PPLA",
     "gn:population":420195,
     "iso:country":"EG",
+    "lbl:bbox":"31.36069,31.01637,31.40069,31.05637",
     "lbl:latitude":31.03637,
     "lbl:longitude":31.38069,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0646\u0635\u0648\u0631\u0629"
@@ -191,7 +194,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041c\u0430\u043d\u0441\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El-Man\u1e63\u00fbra"
     ],
     "name:urd_x_preferred":[
@@ -221,7 +224,7 @@
     "qs_pg:qs_id":206392,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":1125855613,
-    "wof:lastmodified":1563236213,
+    "wof:lastmodified":1566586585,
     "wof:name":"Al Man\u015f\u016brah",
     "wof:parent_id":1092025681,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.57353,30.74725,30.61353,30.78725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Waf\u00e2\u2019\u00eeya",
         "El Waf\u00e2\u2019iya",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243466093,
-    "wof:lastmodified":1537620879,
+    "wof:lastmodified":1566586639,
     "wof:name":"Al Wafa'iyah",
     "wof:parent_id":1092017317,
     "wof:placetype":"locality",

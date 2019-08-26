@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.78,28.58,30.82,28.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet Dahr\u00fb\u1e6d",
         "Nazlat Dahr\u016b\u0163"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327018935,
-    "wof:lastmodified":1537620609,
+    "wof:lastmodified":1566585588,
     "wof:name":"Nazlat Dahrut",
     "wof:parent_id":1092021965,
     "wof:placetype":"locality",

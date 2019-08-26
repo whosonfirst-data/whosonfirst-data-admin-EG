@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"34.60719,25.51578,34.64719,25.55578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Port Ghalib"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293392985,
-    "wof:lastmodified":1537621135,
+    "wof:lastmodified":1566585893,
     "wof:name":"Port el Ghalib",
     "wof:parent_id":1092019193,
     "wof:placetype":"locality",

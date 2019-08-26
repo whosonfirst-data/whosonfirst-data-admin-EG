@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.28822,30.31902,31.32822,30.35902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-A\u1e25r\u00e2z",
         "Al A\u1e29r\u0101z"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310488667,
-    "wof:lastmodified":1537620948,
+    "wof:lastmodified":1566586337,
     "wof:name":"Al Ahraz",
     "wof:parent_id":1092024593,
     "wof:placetype":"locality",

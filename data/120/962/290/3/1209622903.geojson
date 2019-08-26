@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.56841,31.06531,30.60841,31.10531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0623\u0634\u0631\u0641 \u0627\u0644\u0628\u0627\u0631\u0648\u062f\u064a"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209622903,
-    "wof:lastmodified":1537621257,
+    "wof:lastmodified":1566586141,
     "wof:name":"`Izbat Ashraf al Barudi",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

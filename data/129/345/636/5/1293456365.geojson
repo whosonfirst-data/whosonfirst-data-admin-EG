@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"34.09667,31.21333,34.13667,31.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Dikla"
     ],
@@ -33,7 +37,6 @@
         "\u05d3\u05e7\u05dc\u05d4"
     ],
     "name:und_x_variant":[
-        "Dikla",
         "Na\u1e96al Diqla"
     ],
     "src:geom":"geonames",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293456365,
-    "wof:lastmodified":1564207683,
+    "wof:lastmodified":1566585974,
     "wof:name":"Nahal Diqla",
     "wof:parent_id":1092019921,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.01333,30.91333,30.05333,30.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nag\u2018 el-Qu\u1e6d\u1e6da",
         "Naj\u2018 al Qaz\u0327z\u0327ah",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243275529,
-    "wof:lastmodified":1537620624,
+    "wof:lastmodified":1566586695,
     "wof:name":"Naj` al Quttah",
     "wof:parent_id":1092014061,
     "wof:placetype":"locality",

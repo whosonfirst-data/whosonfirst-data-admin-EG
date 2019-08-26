@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.45579,30.91134,31.49579,30.95134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a \u063a\u0631\u064a\u0637\u0629"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326839959,
-    "wof:lastmodified":1537620638,
+    "wof:lastmodified":1566585677,
     "wof:name":"Mit Gharitah",
     "wof:parent_id":1092019741,
     "wof:placetype":"locality",

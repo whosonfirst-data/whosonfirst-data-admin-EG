@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.53313,26.75143,31.57313,26.79143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet el Har\u00eedi",
         "Nazlat al \u1e28ar\u012bd\u012b"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209683941,
-    "wof:lastmodified":1537620613,
+    "wof:lastmodified":1566586187,
     "wof:name":"Nazlat al Haridi",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

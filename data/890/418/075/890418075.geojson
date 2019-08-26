@@ -11,8 +11,11 @@
     "geom:longitude":27.96979,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":5000,
+    "gn:population":5000,
     "iso:country":"EG",
+    "lbl:bbox":"27.94979,27.0368,27.98979,27.0768",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -34,7 +37,7 @@
     "name:rus_x_preferred":[
         "\u0424\u0430\u0440\u0430\u0444\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Far\u0101firah"
     ],
     "ne:ADM0CAP":0.0,
@@ -144,7 +147,7 @@
     "wof:concordances":{
         "gn:id":350661,
         "gp:id":1526019,
-        "qs:id":547797,
+        "qs_pg:id":547797,
         "wd:id":"Q14208893"
     },
     "wof:country":"EG",
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":890418075,
-    "wof:lastmodified":1561827075,
+    "wof:lastmodified":1566586578,
     "wof:name":"Qa\u015fr al Far\u0101firah",
     "wof:parent_id":1092017585,
     "wof:placetype":"locality",

@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":31.187022,
     "lbl:longitude":29.898337,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alexandria",
     "meso:diss_me":"El-AtareenAlexandria",
     "meso:gadm_admin":"Al-'Atarin",
@@ -42,6 +44,7 @@
     "mps:longitude":29.898337,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Al-'Atarin"
     ],
@@ -50,9 +53,9 @@
         "Al-'Atarin"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"",
     "statoids:as_of_date":"2006-11-11",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1092016851,
-    "wof:lastmodified":1560969124,
+    "wof:lastmodified":1566586498,
     "wof:name":"El-Atareen",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

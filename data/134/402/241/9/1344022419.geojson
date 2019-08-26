@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.92429,31.23366,30.96429,31.27366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0627\u0644\u0645\u062b\u0644\u062b"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344022419,
-    "wof:lastmodified":1537620793,
+    "wof:lastmodified":1566585814,
     "wof:name":"Qaryat al Muthallath",
     "wof:parent_id":1092019361,
     "wof:placetype":"locality",

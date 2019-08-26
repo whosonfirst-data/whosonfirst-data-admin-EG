@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.13096,31.23951,30.17096,31.27951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0631\u0632\u0627\u0631\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276119745,
-    "wof:lastmodified":1537620973,
+    "wof:lastmodified":1566586031,
     "wof:name":"Zirzarah",
     "wof:parent_id":1092016481,
     "wof:placetype":"locality",

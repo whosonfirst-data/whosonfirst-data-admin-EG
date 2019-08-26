@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.26115,29.73047,31.30115,29.77047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mohafazat El Sharqiya",
         "Shobak esh Sharqi",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343939027,
-    "wof:lastmodified":1537620862,
+    "wof:lastmodified":1566585798,
     "wof:name":"Ash Shawbak ash Sharq",
     "wof:parent_id":1092019453,
     "wof:placetype":"locality",

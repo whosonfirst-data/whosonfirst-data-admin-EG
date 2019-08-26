@@ -11,10 +11,14 @@
     "geom:longitude":30.84662,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":40609,
+    "gn:population":40609,
     "iso:country":"EG",
+    "lbl:bbox":"30.82662,27.62176,30.86662,27.66176",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0645\u0648\u0627\u0633"
     ],
@@ -51,9 +55,6 @@
     "name:swe_x_preferred":[
         "Dayr Maw\u0101s"
     ],
-    "name:unk_x_variant":[
-        "Deir Maw\u0101s"
-    ],
     "qs:name":"Dayr Maw\u0101s",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":358274,
         "gp:id":1525775,
-        "qs:id":124305,
+        "qs_pg:id":124305,
         "wd:id":"Q3652748"
     },
     "wof:country":"EG",
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":890441653,
-    "wof:lastmodified":1563236189,
+    "wof:lastmodified":1566586575,
     "wof:name":"Dayr Maw\u0101s",
     "wof:parent_id":1092016033,
     "wof:placetype":"locality",

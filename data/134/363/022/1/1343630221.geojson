@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.34667,30.86333,29.38667,30.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dauw\u00e2r Mas\u2018\u00fbd \u2018Abu Farag",
         "Daww\u0101r Mas\u2018\u016bd Ab\u016b Faraj"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343630221,
-    "wof:lastmodified":1537620812,
+    "wof:lastmodified":1566585735,
     "wof:name":"Dawwar Mas`ud Abu Faraj",
     "wof:parent_id":1092017953,
     "wof:placetype":"locality",

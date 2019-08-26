@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.59894,30.75341,31.63894,30.79341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0644\u064a\u062c\u0629"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276634347,
-    "wof:lastmodified":1537620557,
+    "wof:lastmodified":1566586105,
     "wof:name":"Tilijah",
     "wof:parent_id":1092018107,
     "wof:placetype":"locality",

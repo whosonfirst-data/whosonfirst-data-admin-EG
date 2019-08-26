@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.52041,31.05221,30.56041,31.09221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u062e\u0641\u0627\u062c\u064a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276880709,
-    "wof:lastmodified":1537621006,
+    "wof:lastmodified":1566586006,
     "wof:name":"`Izbat Khafaji",
     "wof:parent_id":1092019273,
     "wof:placetype":"locality",

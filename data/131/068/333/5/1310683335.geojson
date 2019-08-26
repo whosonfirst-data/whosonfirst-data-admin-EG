@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.86333,24.13,32.90333,24.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nag el Qarwad",
         "Naj\u2018 al Qarwad"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310683335,
-    "wof:lastmodified":1537620624,
+    "wof:lastmodified":1566586403,
     "wof:name":"Naj` al Qarwad",
     "wof:parent_id":1092014635,
     "wof:placetype":"locality",

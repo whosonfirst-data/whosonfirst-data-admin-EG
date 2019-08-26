@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.58447,29.37268,30.62447,29.41268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qa\u1e63r Abu Lu\u1e6dei\u2018a B\u00e2sil",
         "Qa\u015fr Ab\u016b Lu\u0163ay\u2018ah B\u0101sil",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259985899,
-    "wof:lastmodified":1537620597,
+    "wof:lastmodified":1566586715,
     "wof:name":"Qasr Abu Lati`ah",
     "wof:parent_id":1092016391,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.84376,30.81844,30.88376,30.85844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aby\u0101r",
         "Iby\u00e2r",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326962011,
-    "wof:lastmodified":1537620956,
+    "wof:lastmodified":1566585692,
     "wof:name":"Ibyar",
     "wof:parent_id":1092021623,
     "wof:placetype":"locality",

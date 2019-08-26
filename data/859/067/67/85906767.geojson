@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7924776.663892,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.910528,31.208765,29.910528,31.208765",
     "geom:latitude":31.208765,
     "geom:longitude":29.910528,
     "gn:id":"",
     "iso:country":"EG",
+    "lbl:bbox":"29.905528,31.203765,29.915528,31.213765",
     "lbl:latitude":31.208765,
     "lbl:longitude":29.910528,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.212561,
     "mps:longitude":29.914455,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Bab Sharq District"
-    ],
-    "name:unk_x_variant":[
         "Bab Sharq District"
     ],
     "qs:gn_id":0,
@@ -54,17 +53,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85671041,
         102191573,
         85632581,
-        1092015183,
-        85671041
+        1092015183
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724290,
-        "qs:id":897002,
         "qs_pg:id":897002
     },
     "wof:country":"EG",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936435,
+    "wof:lastmodified":1566585853,
     "wof:name":"Bab Sharq District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

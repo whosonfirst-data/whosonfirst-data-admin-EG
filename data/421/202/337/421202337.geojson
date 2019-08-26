@@ -10,8 +10,12 @@
     "geom:latitude":28.350391,
     "geom:longitude":28.864517,
     "iso:country":"EG",
+    "lbl:bbox":"28.844517,28.330391,28.884517,28.370391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0648\u064a\u0637\u064a"
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1522648,
-        "qs:id":221275,
+        "qs_pg:id":221275,
         "wd:id":"Q4116186"
     },
     "wof:country":"EG",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421202337,
-    "wof:lastmodified":1563236152,
+    "wof:lastmodified":1566586558,
     "wof:name":"Bawiti",
     "wof:parent_id":1092022885,
     "wof:placetype":"locality",

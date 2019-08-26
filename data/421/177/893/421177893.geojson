@@ -10,10 +10,14 @@
     "geom:latitude":29.35804,
     "geom:longitude":30.68142,
     "iso:country":"EG",
+    "lbl:bbox":"30.66142,29.33804,30.70142,29.37804",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ibshawai"
     ],
     "qs:gn_country":"EG",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":355648,
         "gp:id":1523786,
-        "qs:id":274903
+        "qs_pg:id":274903
     },
     "wof:country":"EG",
     "wof:created":1459009163,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421177893,
-    "wof:lastmodified":1505340634,
+    "wof:lastmodified":1566586571,
     "wof:name":"Ibshaway",
     "wof:parent_id":1092016391,
     "wof:placetype":"locality",

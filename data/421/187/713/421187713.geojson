@@ -10,8 +10,12 @@
     "geom:latitude":29.84144,
     "geom:longitude":31.30084,
     "iso:country":"EG",
+    "lbl:bbox":"31.28084,29.82144,31.32084,29.86144",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062d\u0644\u0648\u0627\u0646"
@@ -106,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043b\u0443\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u00e9louan-les-Bains"
     ],
     "name:war_x_preferred":[
@@ -145,7 +149,7 @@
     "wof:concordances":{
         "gn:id":355795,
         "gp:id":1523768,
-        "qs:id":7482,
+        "qs_pg:id":7482,
         "wd:id":"Q771345",
         "wk:page":"Helwan"
     },
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":421187713,
-    "wof:lastmodified":1563236161,
+    "wof:lastmodified":1566586561,
     "wof:name":"\u062d\u0644\u0648\u0627\u0646",
     "wof:parent_id":1092021427,
     "wof:placetype":"locality",

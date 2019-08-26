@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.90315,31.13545,30.94315,31.17545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0632\u0631\u0627\u0639\u0629 \u0643\u0641\u0631 \u0627\u0644\u0645\u0646\u0634\u064a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193101575,
-    "wof:lastmodified":1537621282,
+    "wof:lastmodified":1566586280,
     "wof:name":"`Izbat Zira`at Kafr al Manshi",
     "wof:parent_id":1092021581,
     "wof:placetype":"locality",

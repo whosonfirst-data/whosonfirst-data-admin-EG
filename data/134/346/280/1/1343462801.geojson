@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.56416,31.03675,31.60416,31.07675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0627\u0644\u062a\u0644"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343462801,
-    "wof:lastmodified":1537621054,
+    "wof:lastmodified":1566585757,
     "wof:name":"`Izbat atTall",
     "wof:parent_id":1092018395,
     "wof:placetype":"locality",

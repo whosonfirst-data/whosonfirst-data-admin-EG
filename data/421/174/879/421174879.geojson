@@ -10,8 +10,12 @@
     "geom:latitude":29.49199,
     "geom:longitude":34.89572,
     "iso:country":"EG",
+    "lbl:bbox":"34.87572,29.47199,34.91572,29.51199",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0637\u0627\u0628\u0627"
@@ -103,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0162\u0101bah"
-    ],
     "name:zho_x_preferred":[
         "\u5854\u5df4"
     ],
@@ -138,7 +139,7 @@
     "wof:concordances":{
         "gn:id":347702,
         "gp:id":1526415,
-        "qs:id":902862,
+        "qs_pg:id":902862,
         "wd:id":"Q867592",
         "wk:page":"Taba, Egypt"
     },
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":421174879,
-    "wof:lastmodified":1563236158,
+    "wof:lastmodified":1566586560,
     "wof:name":"Taba",
     "wof:parent_id":85672531,
     "wof:placetype":"locality",

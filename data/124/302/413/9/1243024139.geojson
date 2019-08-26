@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.49026,26.76774,31.53026,26.80774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243024139,
-    "wof:lastmodified":1536917995,
+    "wof:lastmodified":1566586669,
     "wof:name":"Sawalim Tahta",
     "wof:parent_id":1092025101,
     "wof:placetype":"locality",

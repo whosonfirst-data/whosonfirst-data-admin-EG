@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.90421,30.92807,29.94421,30.96807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326737845,
-    "wof:lastmodified":1536687610,
+    "wof:lastmodified":1566585609,
     "wof:name":"Al Huwayhi",
     "wof:parent_id":1092014061,
     "wof:placetype":"locality",

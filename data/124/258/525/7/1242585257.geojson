@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.39083,31.31361,30.43083,31.35361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242585257,
-    "wof:lastmodified":1537050415,
+    "wof:lastmodified":1566586635,
     "wof:name":"`Ezbet el-Fouadiya No. 3",
     "wof:parent_id":1092023921,
     "wof:placetype":"locality",

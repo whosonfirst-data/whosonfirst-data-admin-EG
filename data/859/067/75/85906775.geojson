@@ -11,8 +11,10 @@
     "geom:longitude":29.97345,
     "gn:id":"",
     "iso:country":"EG",
+    "lbl:bbox":"29.96845,31.210151,29.97845,31.220151",
     "lbl:latitude":31.215151,
     "lbl:longitude":29.97345,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.213839,
     "mps:longitude":29.976274,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     "name:fas_x_preferred":[
         "\u0645\u062d\u0637\u0647 \u0627\u0644\u0631\u0645\u0644"
     ],
-    "name:unk_x_variant":[
-        "El Raml District"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":1580,
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wk:latitude":31.2015,
     "wk:longitude":29.901,
     "wk:wordcount":132,
@@ -82,7 +81,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724293,
-        "qs:id":74361,
         "qs_pg:id":74361,
         "wd:id":"Q4518509"
     },
@@ -102,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563235280,
+    "wof:lastmodified":1566585853,
     "wof:name":"El Raml District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

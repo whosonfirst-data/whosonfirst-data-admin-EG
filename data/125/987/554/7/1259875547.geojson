@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.02511,30.57968,31.06511,30.61968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0635\u062a \u0645\u0644\u064a\u062c"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259875547,
-    "wof:lastmodified":1537620774,
+    "wof:lastmodified":1566586777,
     "wof:name":"Hissat Milij",
     "wof:parent_id":1092024543,
     "wof:placetype":"locality",

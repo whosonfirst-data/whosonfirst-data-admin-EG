@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.24234,31.38772,31.28234,31.42772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0662\u06f7"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243228081,
-    "wof:lastmodified":1537621156,
+    "wof:lastmodified":1566586651,
     "wof:name":"Qaryah Sab`ah wa `Ishrun",
     "wof:parent_id":1092015463,
     "wof:placetype":"locality",

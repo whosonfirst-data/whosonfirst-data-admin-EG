@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.46856,30.8199,31.50856,30.8599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Izbat \u2018Azzat",
         "\u0639\u0632\u0628\u0629 \u063a\u0632\u062a",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242687515,
-    "wof:lastmodified":1537621087,
+    "wof:lastmodified":1566586618,
     "wof:name":"`Izbat `Azzat",
     "wof:parent_id":1092019741,
     "wof:placetype":"locality",

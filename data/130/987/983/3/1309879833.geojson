@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.92821,31.05829,30.96821,31.09829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0637\u0628\u0644"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309879833,
-    "wof:lastmodified":1537620745,
+    "wof:lastmodified":1566586539,
     "wof:name":"Abu Tabl",
     "wof:parent_id":1092021581,
     "wof:placetype":"locality",

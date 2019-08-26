@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.37558,26.73387,31.41558,26.77387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet el Q\u00e2\u1e0di",
         "Nazlat al Q\u0101\u1e11\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260037851,
-    "wof:lastmodified":1537620612,
+    "wof:lastmodified":1566586322,
     "wof:name":"Nazlat al Qadi",
     "wof:parent_id":1092025101,
     "wof:placetype":"locality",

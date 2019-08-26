@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.89667,24.06333,32.93667,24.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mansh\u012byet el Seil el Ged\u012bda",
         "Mansh\u012byat as Sayl al Jad\u012bdah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310075245,
-    "wof:lastmodified":1537620661,
+    "wof:lastmodified":1566586355,
     "wof:name":"Manshiyat as Sayl al Jadidah",
     "wof:parent_id":1092022915,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.01333,30.91333,30.05333,30.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naj\u2018 az Za\u2018\u0101rah",
         "Nag\u2018 el-Zi\u2018eitra",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276982237,
-    "wof:lastmodified":1537620621,
+    "wof:lastmodified":1566586117,
     "wof:name":"Naj` az Zu`aytirah",
     "wof:parent_id":1092014061,
     "wof:placetype":"locality",

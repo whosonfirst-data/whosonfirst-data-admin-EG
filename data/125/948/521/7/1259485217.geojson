@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.0541,30.64928,30.0941,30.68928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Med\u00eenet el-N\u00fbb\u00e2r\u00eeya",
         "An N\u016bb\u0101r\u012byah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259485217,
-    "wof:lastmodified":1537620966,
+    "wof:lastmodified":1566586729,
     "wof:name":"An Nubariyah",
     "wof:parent_id":1092014061,
     "wof:placetype":"locality",

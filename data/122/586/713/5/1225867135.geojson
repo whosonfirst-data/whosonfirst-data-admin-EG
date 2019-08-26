@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.74667,30.96333,29.78667,31.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dauw\u00e2r el-\u1e24\u00e2gg Khal\u00eel",
         "Daww\u0101r al \u1e28\u0101jj Khal\u012bl"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225867135,
-    "wof:lastmodified":1537620813,
+    "wof:lastmodified":1566586849,
     "wof:name":"Dawwar al Hajj Khalil",
     "wof:parent_id":1092016715,
     "wof:placetype":"locality",

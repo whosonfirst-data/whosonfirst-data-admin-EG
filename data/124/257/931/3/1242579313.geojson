@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.08861,31.12694,30.12861,31.16694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr Sil\u00eem",
         "Kafr Sal\u012bm"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242579313,
-    "wof:lastmodified":1537620689,
+    "wof:lastmodified":1566586615,
     "wof:name":"Kafr Salim",
     "wof:parent_id":1092021541,
     "wof:placetype":"locality",

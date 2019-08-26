@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.77718,26.02867,32.81718,26.06867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343826443,
-    "wof:lastmodified":1536716150,
+    "wof:lastmodified":1566585772,
     "wof:name":"As Sawahliyah",
     "wof:parent_id":1092023527,
     "wof:placetype":"locality",

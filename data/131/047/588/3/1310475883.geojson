@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.81111,31.03111,30.85111,31.07111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Taftish Auq\u00e2f Qall\u00een",
         "Taft\u00eesh Auq\u00e2t Qall\u00een",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310475883,
-    "wof:lastmodified":1537620563,
+    "wof:lastmodified":1566586347,
     "wof:name":"Taftish Awqaf Qallin",
     "wof:parent_id":1092021829,
     "wof:placetype":"locality",

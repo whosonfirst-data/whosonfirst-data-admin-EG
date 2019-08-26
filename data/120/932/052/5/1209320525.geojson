@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.02922,29.17074,31.06922,29.21074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00f4m Abu Khall\u00e2d",
         "Kawm Ab\u016b Khall\u0101d"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209320525,
-    "wof:lastmodified":1537620679,
+    "wof:lastmodified":1566586194,
     "wof:name":"Kawm Abu Khallad",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

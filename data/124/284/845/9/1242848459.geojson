@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.13832,31.38518,31.17832,31.42518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0646\u0627\u0635\u0631"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242848459,
-    "wof:lastmodified":1537621059,
+    "wof:lastmodified":1566586671,
     "wof:name":"Qaryat Nasir",
     "wof:parent_id":1092017993,
     "wof:placetype":"locality",

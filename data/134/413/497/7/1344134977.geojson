@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.28,30.11333,31.32,30.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet Tell el-\u1e24i\u1e63n",
         "Nazlet el-\u1e24i\u1e63n",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344134977,
-    "wof:lastmodified":1537620605,
+    "wof:lastmodified":1566585743,
     "wof:name":"Nazlat Tall al Hisn",
     "wof:parent_id":1092025807,
     "wof:placetype":"locality",

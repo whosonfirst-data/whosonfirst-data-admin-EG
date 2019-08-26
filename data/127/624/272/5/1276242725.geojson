@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.45927,30.82217,31.49927,30.86217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u0639\u0632\u0628\u0629 \u0639\u0628\u062f \u0627\u0644\u062d\u0645\u064a\u062f \u0633\u064a\u062f \u0623\u062d\u0645\u062f",
         "\u2018Izbat \u2018Abd al \u1e28am\u012bd Sayyid A\u1e29mad",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276242725,
-    "wof:lastmodified":1537621087,
+    "wof:lastmodified":1566586080,
     "wof:name":"`Izbat `Abd al Hamid Sayyid Ahmad",
     "wof:parent_id":1092019741,
     "wof:placetype":"locality",

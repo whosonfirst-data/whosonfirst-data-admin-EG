@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.76333,26.51333,31.80333,26.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aul\u00e2d M\u00e2di",
         "Awl\u0101d M\u0101\u1e11\u012b"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343826085,
-    "wof:lastmodified":1537620842,
+    "wof:lastmodified":1566585774,
     "wof:name":"Awlad Madi",
     "wof:parent_id":1092018599,
     "wof:placetype":"locality",

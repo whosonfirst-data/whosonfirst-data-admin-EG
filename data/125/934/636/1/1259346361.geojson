@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.09667,27.26333,31.13667,27.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet el Khal\u00e2yfa",
         "Naj\u2018 al Khal\u0101\u2019if",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259346361,
-    "wof:lastmodified":1537620620,
+    "wof:lastmodified":1566586776,
     "wof:name":"Naj` Jazirat Bahij",
     "wof:parent_id":1092014043,
     "wof:placetype":"locality",

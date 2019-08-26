@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.34667,26.78,31.38667,26.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e24\u00e2gir Mish\u1e6da",
         "Nazlat \u1e28\u0101jir Mish\u0163\u0101"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242842707,
-    "wof:lastmodified":1537620608,
+    "wof:lastmodified":1566586672,
     "wof:name":"Nazlat Hajir Mishta",
     "wof:parent_id":1092025329,
     "wof:placetype":"locality",

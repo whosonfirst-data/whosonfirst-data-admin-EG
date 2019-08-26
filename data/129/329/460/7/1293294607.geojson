@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.13911,30.84223,30.17911,30.88223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293294607,
-    "wof:lastmodified":1537062303,
+    "wof:lastmodified":1566585968,
     "wof:name":"`Izbat al Kubri",
     "wof:parent_id":1092014061,
     "wof:placetype":"locality",

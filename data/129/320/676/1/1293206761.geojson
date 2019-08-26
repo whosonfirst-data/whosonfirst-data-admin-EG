@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.80049,29.3245,30.84049,29.3645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Z\u0101wiyet el Kar\u0101dsa",
         "Z\u00e2wyet el Kar\u00e2dsa",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293206761,
-    "wof:lastmodified":1537620547,
+    "wof:lastmodified":1566585961,
     "wof:name":"Zawiyat al Karadisah",
     "wof:parent_id":1092017705,
     "wof:placetype":"locality",

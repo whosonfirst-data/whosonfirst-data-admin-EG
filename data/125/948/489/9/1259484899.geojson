@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.52188,30.88186,30.56188,30.92186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259484899,
-    "wof:lastmodified":1536855575,
+    "wof:lastmodified":1566586730,
     "wof:name":"`Izbat `Awad Khamis",
     "wof:parent_id":1092017317,
     "wof:placetype":"locality",

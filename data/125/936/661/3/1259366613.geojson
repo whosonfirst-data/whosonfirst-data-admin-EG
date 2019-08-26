@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.73,28.06333,30.77,28.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr al Mans\u00fbra el Qibli",
         "Kafr al Man\u015f\u016brah al Qibl\u012b"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259366613,
-    "wof:lastmodified":1537620726,
+    "wof:lastmodified":1566586709,
     "wof:name":"Kafr al Mansurah al Qibli",
     "wof:parent_id":1092018557,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.62,30.87914,30.66,30.91914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632581
@@ -34,7 +38,7 @@
         "gn:id":433178
     },
     "wof:country":"EG",
-    "wof:geomhash":"af8486aa751a930a291cc489768ad7ac",
+    "wof:geomhash":"f5b895e5dbf5fef4efa79970741d4109",
     "wof:hierarchy":[
         {
             "country_id":85632581,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209326385,
-    "wof:lastmodified":1536290521,
+    "wof:lastmodified":1566586195,
     "wof:name":"`Izbat as Sab`in",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     30.64,
-    30.899140000000006,
+    30.89914000000001,
     30.64,
-    30.899140000000006
+    30.89914000000001
 ],
   "geometry": {"coordinates":[30.64,30.89914000000001],"type":"Point"}
 }

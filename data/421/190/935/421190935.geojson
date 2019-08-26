@@ -10,13 +10,17 @@
     "geom:latitude":31.44065,
     "geom:longitude":31.5381,
     "iso:country":"EG",
+    "lbl:bbox":"31.5181,31.42065,31.5581,31.46065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0645\u0635\u0629"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jama\u015fah"
     ],
     "qs:gn_country":"EG",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":421253,
         "gp:id":1523964,
-        "qs:id":58964
+        "qs_pg:id":58964
     },
     "wof:country":"EG",
     "wof:created":1459009674,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421190935,
-    "wof:lastmodified":1501214294,
+    "wof:lastmodified":1566586568,
     "wof:name":"Jamjarah",
     "wof:parent_id":1092015611,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.37971,26.72711,31.41971,26.76711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Gib\u00eer\u00e2t",
         "Al Jab\u012br\u0101t",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209170177,
-    "wof:lastmodified":1537620912,
+    "wof:lastmodified":1566586232,
     "wof:name":"Al Jubayrat",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5869986.862111,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.929504,31.177559,29.929504,31.177559",
     "geom:latitude":31.177559,
     "geom:longitude":29.929504,
     "gn:id":"",
     "iso:country":"EG",
+    "lbl:bbox":"29.924504,31.172559,29.934504,31.182559",
     "lbl:latitude":31.177559,
     "lbl:longitude":29.929504,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.173424,
     "mps:longitude":29.931245,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:eng_x_variant":[
         "Moharram Bey"
-    ],
-    "name:unk_x_variant":[
-        "Muh\u0327arram Bey"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -60,17 +59,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85671041,
         102191573,
         85632581,
-        1092022525,
-        85671041
+        1092022525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1525422,
-        "qs:id":1118056,
         "qs_pg:id":1118056
     },
     "wof:country":"EG",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935970,
+    "wof:lastmodified":1566585851,
     "wof:name":"Muh\u0327arram Bey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,16 @@
     "geom:bbox":"29.947181,31.228166,29.947181,31.228166",
     "geom:latitude":31.228166,
     "geom:longitude":29.947181,
-    "gn:gn_country":"EG",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"EG",
+    "gn:fcode":"PPLX",
     "gn:latitude":31.2309,
     "gn:longitude":29.95379,
+    "gn:population":0,
     "iso:country":"EG",
+    "lbl:bbox":"29.942181,31.223166,29.952181,31.233166",
     "lbl:latitude":31.228166,
     "lbl:longitude":29.947181,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.232911,
     "mps:longitude":29.942775,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
         "Bulkeley"
     ],
     "name:swe_x_preferred":[
-        "Bulkeley"
-    ],
-    "name:unk_x_variant":[
         "Bulkeley"
     ],
     "qs:gn_fcode":"PPLX",
@@ -97,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":53.0861,
     "wd:longitude":-2.70242,
     "wd:wordcount":950,
@@ -111,7 +110,6 @@
     "wof:concordances":{
         "gn:id":358672,
         "gp:id":1522736,
-        "qs:id":1083606,
         "qs_pg:id":1083606
     },
     "wof:country":"EG",
@@ -130,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564207538,
+    "wof:lastmodified":1566585850,
     "wof:name":"Bulkeley",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

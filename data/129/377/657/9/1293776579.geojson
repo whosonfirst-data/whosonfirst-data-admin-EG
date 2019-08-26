@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.53357,30.88349,29.57357,30.92349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Burg el \u2018Arab",
         "Burj al \u2018Arab"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293776579,
-    "wof:lastmodified":1537620817,
+    "wof:lastmodified":1566585905,
     "wof:name":"Burj al `Arab",
     "wof:parent_id":1092015739,
     "wof:placetype":"locality",

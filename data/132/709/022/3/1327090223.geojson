@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.49667,26.59667,31.53667,26.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327090223,
-    "wof:lastmodified":1536677159,
+    "wof:lastmodified":1566585593,
     "wof:name":"Nag` `Aula Abu Zeid",
     "wof:parent_id":1092018399,
     "wof:placetype":"locality",

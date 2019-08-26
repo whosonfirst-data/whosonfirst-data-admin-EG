@@ -10,6 +10,9 @@
     "geom:latitude":29.210911,
     "geom:longitude":25.51918,
     "iso:country":"EG",
+    "lbl:bbox":"25.49918,29.190911,25.53918,29.230911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -195,7 +198,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1526392,
-        "qs:id":1118076,
+        "qs_pg:id":1118076,
         "wd:id":"Q14220534"
     },
     "wof:country":"EG",
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421189959,
-    "wof:lastmodified":1561827073,
+    "wof:lastmodified":1566586564,
     "wof:name":"Siwa",
     "wof:parent_id":1092025019,
     "wof:placetype":"locality",

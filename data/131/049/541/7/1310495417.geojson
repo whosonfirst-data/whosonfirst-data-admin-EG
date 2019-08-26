@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.71837,27.75469,30.75837,27.79469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u0629 \u0627\u0644\u062c\u0628\u0644\u200e"
     ],
@@ -64,8 +68,7 @@
     "name:und_x_variant":[
         "T\u00fbna el Gabal",
         "T\u016bnat al Jabal",
-        "T\u016bnah al Jabal",
-        "Tuna el-Gebel"
+        "T\u016bnah al Jabal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1310495417,
-    "wof:lastmodified":1564208186,
+    "wof:lastmodified":1566586344,
     "wof:name":"Tunah al Jabal",
     "wof:parent_id":1092022005,
     "wof:placetype":"locality",

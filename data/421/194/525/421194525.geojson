@@ -10,8 +10,12 @@
     "geom:latitude":31.0539,
     "geom:longitude":31.37787,
     "iso:country":"EG",
+    "lbl:bbox":"31.35787,31.0339,31.39787,31.0739",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0637\u0644\u062e\u0627"
@@ -58,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043b\u044c\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Talha"
     ],
     "name:urd_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":347591,
         "gp:id":1526454,
-        "qs:id":1220061,
+        "qs_pg:id":1220061,
         "wd:id":"Q952118",
         "wk:page":"Talkha"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421194525,
-    "wof:lastmodified":1563236146,
+    "wof:lastmodified":1566586556,
     "wof:name":"\u0645\u0631\u0643\u0632 \u0637\u0644\u062e\u0627",
     "wof:parent_id":1092025681,
     "wof:placetype":"locality",

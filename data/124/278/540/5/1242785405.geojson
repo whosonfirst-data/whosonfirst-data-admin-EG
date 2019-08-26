@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.24704,31.14169,30.28704,31.18169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u064a\u0648\u0633\u0641 \u0641\u0644\u064a\u0641\u0644"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242785405,
-    "wof:lastmodified":1537621234,
+    "wof:lastmodified":1566586678,
     "wof:name":"`Izbat Yusuf Fulayfil",
     "wof:parent_id":1092014133,
     "wof:placetype":"locality",

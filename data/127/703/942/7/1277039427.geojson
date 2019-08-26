@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.7457,31.14188,30.7857,31.18188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0648\u0646"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277039427,
-    "wof:lastmodified":1537620858,
+    "wof:lastmodified":1566586063,
     "wof:name":"Ash Shuwan",
     "wof:parent_id":1092016203,
     "wof:placetype":"locality",

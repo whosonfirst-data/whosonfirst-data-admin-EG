@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.06284,29.17689,31.10284,29.21689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bahabsh\u012bn",
         "Bahbash\u012bn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243172483,
-    "wof:lastmodified":1537620837,
+    "wof:lastmodified":1566586701,
     "wof:name":"Bahbashin",
     "wof:parent_id":1092022779,
     "wof:placetype":"locality",

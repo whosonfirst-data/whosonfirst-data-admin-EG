@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.71277,27.83966,30.75277,27.87966",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hur"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1277060271,
-    "wof:lastmodified":1564207715,
+    "wof:lastmodified":1566585997,
     "wof:name":"Hur",
     "wof:parent_id":1092022005,
     "wof:placetype":"locality",

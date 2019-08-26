@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.31953,26.88823,31.35953,26.92823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El \u2018Az\u00e2yza",
         "Al \u2018Az\u0101\u2019izah",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293759835,
-    "wof:lastmodified":1537620939,
+    "wof:lastmodified":1566585988,
     "wof:name":"Al `Azayzah",
     "wof:parent_id":1092017873,
     "wof:placetype":"locality",

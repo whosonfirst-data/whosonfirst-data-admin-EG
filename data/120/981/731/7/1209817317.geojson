@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.73892,30.53231,30.77892,30.57231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209817317,
-    "wof:lastmodified":1536382513,
+    "wof:lastmodified":1566586240,
     "wof:name":"Qaryat `Umar Shahin",
     "wof:parent_id":1092021881,
     "wof:placetype":"locality",

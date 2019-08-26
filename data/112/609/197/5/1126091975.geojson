@@ -9,16 +9,19 @@
     "geom:bbox":"29.87734,31.16976,29.87734,31.16976",
     "geom:latitude":31.16976,
     "geom:longitude":29.87734,
-    "gn:gn_country":"EG",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"EG",
+    "gn:fcode":"PPLX",
     "gn:latitude":31.16458,
     "gn:longitude":29.87219,
+    "gn:population":0,
     "iso:country":"EG",
+    "lbl:bbox":"29.87234,31.16476,29.88234,31.17476",
     "lbl:latitude":31.16976,
     "lbl:longitude":29.87734,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0648\u0631\u062f\u064a\u0627\u0646"
@@ -43,10 +46,6 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u0648\u0631\u062f\u06cc\u0627\u0646"
     ],
-    "name:unk_x_variant":[
-        "El-Wardy\u00e2n",
-        "Wardian"
-    ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
     "qs_pg:gn_fcode":"PPLX",
@@ -68,7 +67,7 @@
     "qs_pg:woe_adm0":23424802,
     "qs_pg:woe_id":1521996,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424802,
     "woe:name_adm0":"\u0645\u0635\u0631",
     "woe:name_adm1":"\u0627\u0644\u0627\u0633\u0643\u0646\u062f\u0631\u064a\u0629",
@@ -83,7 +82,6 @@
     "wof:concordances":{
         "gn:id":360469,
         "gp:id":1521996,
-        "qs:id":218649,
         "qs_pg:id":218649,
         "wd:id":"Q4518971"
     },
@@ -101,7 +99,7 @@
         }
     ],
     "wof:id":1126091975,
-    "wof:lastmodified":1563236212,
+    "wof:lastmodified":1566586584,
     "wof:name":"Wardian",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

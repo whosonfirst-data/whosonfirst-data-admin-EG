@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"27.89696,31.0521,27.93696,31.0921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "F\u00fbka",
         "F\u016bkah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293157279,
-    "wof:lastmodified":1537620779,
+    "wof:lastmodified":1566585911,
     "wof:name":"Fukah",
     "wof:parent_id":1092017227,
     "wof:placetype":"locality",

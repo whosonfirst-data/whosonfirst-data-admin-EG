@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.43926,25.53544,32.47926,25.57544",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309862015,
-    "wof:lastmodified":1536849134,
+    "wof:lastmodified":1566586553,
     "wof:name":"El-Mahamid",
     "wof:parent_id":1092014573,
     "wof:placetype":"locality",

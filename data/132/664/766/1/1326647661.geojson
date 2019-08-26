@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.20252,30.80633,31.24252,30.84633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a \u062f\u0645\u0633\u064a\u0633"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326647661,
-    "wof:lastmodified":1537620639,
+    "wof:lastmodified":1566585684,
     "wof:name":"Mit Damsis",
     "wof:parent_id":1092026069,
     "wof:placetype":"locality",

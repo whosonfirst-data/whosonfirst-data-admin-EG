@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.19667,30.04667,31.23667,30.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u00e2g el-Diwal and Kafr el-Sheikh Ism\u00e2\u2018\u00eel",
         "T\u0101j ad Duwal wa Kafr ash Shaykh Ism\u0101\u2018\u012bl"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309708307,
-    "wof:lastmodified":1537620562,
+    "wof:lastmodified":1566586523,
     "wof:name":"Taj ad Duwal wa Kafr ash Shaykh Isma`il",
     "wof:parent_id":1092020437,
     "wof:placetype":"locality",

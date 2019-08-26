@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.061,29.44282,31.101,29.48282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Fahm\u00eeya",
         "\u2018Izbat Ma\u1e29m\u016bd B\u0101sh\u0101 Fahm\u012b",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243073687,
-    "wof:lastmodified":1537620930,
+    "wof:lastmodified":1566586588,
     "wof:name":"Al Fahmiyah",
     "wof:parent_id":1092022885,
     "wof:placetype":"locality",

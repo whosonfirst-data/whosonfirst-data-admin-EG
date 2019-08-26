@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":31.103734,
     "lbl:longitude":34.248869,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"North Sinai",
     "meso:diss_me":"RafahNorth Sinai",
     "meso:gadm_admin":"Rafah",
@@ -42,6 +44,7 @@
     "mps:longitude":34.248869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Rafah"
     ],
@@ -169,9 +172,9 @@
         "\u62c9\u6cd5\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"",
     "statoids:as_of_date":"2006-11-11",
     "statoids:capital":"",
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":1092023763,
-    "wof:lastmodified":1564208351,
+    "wof:lastmodified":1566586466,
     "wof:name":"Rafah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

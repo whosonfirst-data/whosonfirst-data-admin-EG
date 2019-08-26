@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.32989,30.91614,31.36989,30.95614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0646\u0648\u0631 \u0627\u0644\u062d\u0645\u0635"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276562041,
-    "wof:lastmodified":1537620817,
+    "wof:lastmodified":1566586038,
     "wof:name":"`Izbat Nur al Hummus",
     "wof:parent_id":1092014439,
     "wof:placetype":"locality",

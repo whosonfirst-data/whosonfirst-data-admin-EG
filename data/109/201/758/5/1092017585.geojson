@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":26.969359,
     "lbl:longitude":27.767323,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"New Valley",
     "meso:diss_me":"El-FarafrahNew Valley",
     "meso:gadm_admin":"Shurtah al-Farafirah",
@@ -42,6 +44,7 @@
     "mps:longitude":27.767323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Shurtah al-Farafirah"
     ],
@@ -50,9 +53,9 @@
         "Shurtah al-Farafirah"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"",
     "statoids:as_of_date":"2006-11-11",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1092017585,
-    "wof:lastmodified":1560969124,
+    "wof:lastmodified":1566586495,
     "wof:name":"El-Farafrah",
     "wof:parent_id":85671071,
     "wof:placetype":"county",

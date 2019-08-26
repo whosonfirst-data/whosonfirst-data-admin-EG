@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.14993,29.10552,31.18993,29.14552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nag\u2018 el \u2018Al\u00e2lma",
         "Naj\u2018 al \u2018Al\u0101limah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343367803,
-    "wof:lastmodified":1537620627,
+    "wof:lastmodified":1566585718,
     "wof:name":"Naj` al `Alalimah",
     "wof:parent_id":1092022937,
     "wof:placetype":"locality",

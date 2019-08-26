@@ -10,8 +10,12 @@
     "geom:latitude":31.401432,
     "geom:longitude":30.418267,
     "iso:country":"EG",
+    "lbl:bbox":"30.398267,31.381432,30.438267,31.421432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Rosetta"
@@ -180,7 +184,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1526077,
-        "qs:id":1118066,
+        "qs_pg:id":1118066,
         "wd:id":"Q243699"
     },
     "wof:country":"EG",
@@ -196,7 +200,7 @@
         }
     ],
     "wof:id":421189945,
-    "wof:lastmodified":1563236169,
+    "wof:lastmodified":1566586565,
     "wof:name":"Rashid",
     "wof:parent_id":1092023921,
     "wof:placetype":"locality",

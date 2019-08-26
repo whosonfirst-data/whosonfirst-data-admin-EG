@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.73,28.39667,30.77,28.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Idq\u00e2q el Misk",
         "Idq\u0101q al Misk"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259772365,
-    "wof:lastmodified":1537620771,
+    "wof:lastmodified":1566586733,
     "wof:name":"Idqaq al Misk",
     "wof:parent_id":1092022239,
     "wof:placetype":"locality",

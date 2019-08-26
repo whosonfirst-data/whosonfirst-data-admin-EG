@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.88046,28.68734,30.92046,28.72734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Z\u0101wiyat al Judh\u0101m\u012b",
         "Z\u0101wiyat al Jid\u0101m\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276875489,
-    "wof:lastmodified":1537620547,
+    "wof:lastmodified":1566586025,
     "wof:name":"Zawiyat al Jidami",
     "wof:parent_id":1092022937,
     "wof:placetype":"locality",

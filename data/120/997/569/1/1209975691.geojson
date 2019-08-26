@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.83956,31.52329,30.87956,31.56329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209975691,
-    "wof:lastmodified":1536393031,
+    "wof:lastmodified":1566586150,
     "wof:name":"`Izbat Hanafi",
     "wof:parent_id":1092017189,
     "wof:placetype":"locality",

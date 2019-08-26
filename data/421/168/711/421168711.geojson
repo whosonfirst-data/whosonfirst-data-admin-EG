@@ -10,6 +10,9 @@
     "geom:latitude":29.30995,
     "geom:longitude":30.8418,
     "iso:country":"EG",
+    "lbl:bbox":"30.8218,29.28995,30.8618,29.32995",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -218,7 +221,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0439\u044e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mad\u012bnet el Faiy\u016bm"
     ],
     "name:urd_x_preferred":[
@@ -359,7 +362,7 @@
         "gn:id":361320,
         "gp:id":56447456,
         "loc:id":"n82063726",
-        "qs:id":273772,
+        "qs_pg:id":273772,
         "wd:id":"Q203299",
         "wk:page":"Faiyum"
     },
@@ -376,7 +379,7 @@
         }
     ],
     "wof:id":421168711,
-    "wof:lastmodified":1563236142,
+    "wof:lastmodified":1566586555,
     "wof:name":"\u0627\u0644\u0641\u064a\u0648\u0645",
     "wof:parent_id":1092017705,
     "wof:placetype":"locality",

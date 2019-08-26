@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.8318,30.94943,30.8718,30.98943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00eet Shir\u00eef",
         "M\u00eet Shireif",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225867703,
-    "wof:lastmodified":1537620634,
+    "wof:lastmodified":1566586849,
     "wof:name":"Mit Sharif",
     "wof:parent_id":1092015375,
     "wof:placetype":"locality",

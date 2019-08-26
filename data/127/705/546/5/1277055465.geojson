@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.90676,27.23136,30.94676,27.27136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beni \u2018Adi",
         "Beni \u2018Adi el Ba\u1e25ar\u00eeya",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277055465,
-    "wof:lastmodified":1537620835,
+    "wof:lastmodified":1566586061,
     "wof:name":"Bani `Adi al Bahriyah",
     "wof:parent_id":1092022045,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.58,30.89667,29.62,30.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Z\u00e2wyet el \u2018As\u00eela",
         "Z\u00e2wyet el \u2018Iseila",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226001219,
-    "wof:lastmodified":1537620547,
+    "wof:lastmodified":1566586909,
     "wof:name":"Zawiyat al `Asilah",
     "wof:parent_id":1092015739,
     "wof:placetype":"locality",

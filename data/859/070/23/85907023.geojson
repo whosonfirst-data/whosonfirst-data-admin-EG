@@ -11,8 +11,10 @@
     "geom:longitude":31.245703,
     "gn:id":"",
     "iso:country":"EG",
+    "lbl:bbox":"31.240703,30.056668,31.250703,30.066668",
     "lbl:latitude":30.061668,
     "lbl:longitude":31.245703,
+    "lbl:max_zoom":18.0,
     "mps:latitude":30.062084,
     "mps:longitude":31.243544,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:swe_x_preferred":[
         "Azbakeya"
     ],
-    "name:unk_x_variant":[
-        "Al-azbakiya"
-    ],
     "qs:gn_adm0_cc":"EG",
     "qs:gn_id":0,
     "qs:gn_local":360630,
@@ -84,7 +83,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wk:wordcount":1308,
     "wof:belongsto":[
         85670999,
@@ -95,7 +94,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724538,
-        "qs:id":1235018,
         "qs_pg:id":1235018,
         "wd:id":"Q2063168"
     },
@@ -115,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563235273,
+    "wof:lastmodified":1566585848,
     "wof:name":"Al-azbakiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

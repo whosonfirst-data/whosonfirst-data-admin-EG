@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"27.02281,31.37666,27.06281,31.41666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Z\u00e2wyet Umm el Rakham",
         "Z\u0101wiyet Umm el Rakham",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310363913,
-    "wof:lastmodified":1537620544,
+    "wof:lastmodified":1566586357,
     "wof:name":"Zawiyat Umm ar Rakham",
     "wof:parent_id":1092022115,
     "wof:placetype":"locality",

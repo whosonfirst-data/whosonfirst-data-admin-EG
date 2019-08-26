@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.26333,30.83,29.30333,30.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dauw\u00e2r \u2018Abd el \u2018\u00c2ti Abu el \u2018Aguz",
         "Dauw\u00e2r \u2018Abd el \u2018\u00c2ti \u2018Abu \u2018Ag\u00fbz",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226805697,
-    "wof:lastmodified":1537620813,
+    "wof:lastmodified":1566586819,
     "wof:name":"Dawwar `Abd al `Ati Abu `Ajuz",
     "wof:parent_id":1092017953,
     "wof:placetype":"locality",

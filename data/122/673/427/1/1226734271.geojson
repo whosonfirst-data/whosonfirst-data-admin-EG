@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.07732,30.4911,31.11732,30.5311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u062c\u0627\u064a\u0632\u0629"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226734271,
-    "wof:lastmodified":1537620948,
+    "wof:lastmodified":1566586822,
     "wof:name":"Al `Ajayizah",
     "wof:parent_id":1092023671,
     "wof:placetype":"locality",

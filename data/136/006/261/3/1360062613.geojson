@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.31336,30.314,31.35336,30.354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr Sul\u00eem\u00e2n el-Win",
         "Kafr Sul\u00eem\u00e2n el-Wirr",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360062613,
-    "wof:lastmodified":1537620686,
+    "wof:lastmodified":1566586431,
     "wof:name":"Kafr Sulayman al Wirr",
     "wof:parent_id":1092024593,
     "wof:placetype":"locality",

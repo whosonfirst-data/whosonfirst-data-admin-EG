@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.82186,31.06137,30.86186,31.10137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0645\u062d\u0645\u062f \u0625\u0633\u0645\u0627\u0639\u064a\u0644"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276726525,
-    "wof:lastmodified":1537621018,
+    "wof:lastmodified":1566586004,
     "wof:name":"`Izbat Muhammad Isma`il",
     "wof:parent_id":1092021829,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.72413,28.72692,30.76413,28.76692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018A\u0163f \u1e28aydar",
         "\u2018A\u1e6df \u1e24eidar",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309688133,
-    "wof:lastmodified":1537620848,
+    "wof:lastmodified":1566586534,
     "wof:name":"`Atfat Haydar",
     "wof:parent_id":1092016505,
     "wof:placetype":"locality",

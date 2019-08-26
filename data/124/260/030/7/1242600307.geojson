@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.07981,30.71505,31.11981,30.75505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0641\u062a\u062d\u064a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242600307,
-    "wof:lastmodified":1537621185,
+    "wof:lastmodified":1566586627,
     "wof:name":"`Izbat Fatahiyah",
     "wof:parent_id":1092019649,
     "wof:placetype":"locality",

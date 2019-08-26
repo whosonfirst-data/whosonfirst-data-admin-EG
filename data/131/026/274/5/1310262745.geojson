@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.42818,26.69715,31.46818,26.73715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nug\u00fb el B\u00fbs",
         "Nuju\u2018 al B\u016b\u015f"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310262745,
-    "wof:lastmodified":1537620601,
+    "wof:lastmodified":1566586389,
     "wof:name":"Nuju` al Bus",
     "wof:parent_id":1092021233,
     "wof:placetype":"locality",

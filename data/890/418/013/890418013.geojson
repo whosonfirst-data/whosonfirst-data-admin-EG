@@ -11,10 +11,14 @@
     "geom:longitude":28.86591,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":20000,
+    "gn:population":20000,
     "iso:country":"EG",
+    "lbl:bbox":"28.84591,28.32919,28.88591,28.36919",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0648\u064a\u0637\u0649"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Al Baw\u012b\u0163\u012b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Baw\u00eeti"
     ],
     "qs:name":"Al Baw\u012b\u0163\u012b",
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":361394,
         "gp:id":1522648,
-        "qs:id":547938,
+        "qs_pg:id":547938,
         "wd:id":"Q4116186"
     },
     "wof:country":"EG",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890418013,
-    "wof:lastmodified":1563236195,
+    "wof:lastmodified":1566586577,
     "wof:name":"Al Baw\u012b\u0163\u012b",
     "wof:parent_id":1092022885,
     "wof:placetype":"locality",

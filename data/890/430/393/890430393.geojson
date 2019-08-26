@@ -11,10 +11,14 @@
     "geom:longitude":31.63554,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":40010,
+    "gn:population":40010,
     "iso:country":"EG",
+    "lbl:bbox":"31.61554,31.18829,31.65554,31.22829",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0631\u0642\u0627"
     ],
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Az Zarq\u0101"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Az-Zarq\u0101"
     ],
     "qs:name":"Az Zarq\u0101",
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":419435,
         "gp:id":56446779,
-        "qs:id":124585,
+        "qs_pg:id":124585,
         "wd:id":"Q4119153"
     },
     "wof:country":"EG",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890430393,
-    "wof:lastmodified":1563236189,
+    "wof:lastmodified":1566586575,
     "wof:name":"Az Zarq\u0101",
     "wof:parent_id":1092020509,
     "wof:placetype":"locality",

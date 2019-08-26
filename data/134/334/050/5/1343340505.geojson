@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.77852,30.79839,31.81852,30.83839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sineitet el-Rif\u00e2\u2018\u00eeyin",
         "Kafr el Sine\u00eeta",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343340505,
-    "wof:lastmodified":1537620565,
+    "wof:lastmodified":1566585801,
     "wof:name":"As Sunaytah",
     "wof:parent_id":1092020833,
     "wof:placetype":"locality",

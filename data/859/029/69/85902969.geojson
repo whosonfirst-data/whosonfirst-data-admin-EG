@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15486171.244015,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.551666,29.958504,32.551666,29.958504",
     "geom:latitude":29.958504,
     "geom:longitude":32.551666,
     "gn:latitude":29.96667,
     "gn:longitude":32.55,
     "iso:country":"EG",
+    "lbl:bbox":"32.546666,29.953504,32.556666,29.963504",
     "lbl:latitude":29.958504,
     "lbl:longitude":32.551666,
+    "lbl:max_zoom":18.0,
     "mps:latitude":29.958887,
     "mps:longitude":32.558701,
     "mz:hierarchy_label":0,
@@ -31,9 +33,8 @@
     "name:eng_x_variant":[
         "Qulzum, Tell El -"
     ],
-    "name:unk_x_variant":[
-        "Tell el-Qulzum",
-        "Tall al Qulzum"
+    "name:und_x_variant":[
+        "Tell el-Qulzum"
     ],
     "qs:gn_adm0_cc":"EG",
     "qs:gn_fcode":"PPLX",
@@ -62,18 +63,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85671013,
         102191573,
         85632581,
-        1092023331,
-        85671013
+        1092023331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":347578,
         "gp:id":1526457,
-        "qs:id":909932
+        "qs_pg:id":909932
     },
     "wof:country":"EG",
     "wof:geomhash":"96952f54f31a70acdda7f27e06f0f80f",
@@ -91,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935972,
+    "wof:lastmodified":1566585849,
     "wof:name":"Tall al Qulzum",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

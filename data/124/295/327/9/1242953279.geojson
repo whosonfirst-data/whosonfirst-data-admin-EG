@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.22222,30.12472,31.26222,30.16472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Manti"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1242953279,
-    "wof:lastmodified":1564208543,
+    "wof:lastmodified":1566586625,
     "wof:name":"Manti",
     "wof:parent_id":1092023447,
     "wof:placetype":"locality",

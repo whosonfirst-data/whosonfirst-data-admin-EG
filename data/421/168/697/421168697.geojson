@@ -10,6 +10,9 @@
     "geom:latitude":26.55695,
     "geom:longitude":31.69478,
     "iso:country":"EG",
+    "lbl:bbox":"31.67478,26.53695,31.71478,26.57695",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0433\u0430\u0491"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sawh\u0101j"
     ],
     "name:urd_x_preferred":[
@@ -289,7 +292,7 @@
     "wof:concordances":{
         "gn:id":347796,
         "gp:id":1526400,
-        "qs:id":124312,
+        "qs_pg:id":124312,
         "wd:id":"Q388108"
     },
     "wof:country":"EG",
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":421168697,
-    "wof:lastmodified":1563236141,
+    "wof:lastmodified":1566586555,
     "wof:name":"\u0633\u0648\u0647\u0627\u062c",
     "wof:parent_id":1092015013,
     "wof:placetype":"locality",

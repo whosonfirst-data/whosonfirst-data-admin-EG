@@ -9,15 +9,18 @@
     "geom:bbox":"31.09785,29.07441,31.09785,29.07441",
     "geom:latitude":29.07441,
     "geom:longitude":31.09785,
-    "gn:gn_country":"EG",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":189624,
+    "gn:country":"EG",
+    "gn:fcode":"PPLA",
     "gn:population":189624,
     "iso:country":"EG",
+    "lbl:bbox":"31.07785,29.05441,31.11785,29.09441",
     "lbl:latitude":29.07441,
     "lbl:longitude":31.09785,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u0633\u0648\u064a\u0641"
@@ -152,7 +155,7 @@
         "Beni Suef"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0ba9\u0bbf  \u0bb8\u0bc1\u0b90\u0baa\u0bcd"
+        "\u0baa\u0bc6\u0ba9\u0bbf \u0bb8\u0bc1\u0b90\u0baa\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c28\u0c3f \u0c38\u0c41\u0c0e\u0c2b\u0c4d"
@@ -168,9 +171,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0456-\u0421\u0443\u0435\u0439\u0444"
-    ],
-    "name:unk_x_variant":[
-        "Beni Suef"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0646\u06cc \u0633\u0648\u06cc\u0641"
@@ -196,7 +196,7 @@
     "qs_pg:qs_id":310176,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -223,7 +223,7 @@
         }
     ],
     "wof:id":1126019909,
-    "wof:lastmodified":1563236211,
+    "wof:lastmodified":1566586583,
     "wof:name":"Ban\u012b Suwayf",
     "wof:parent_id":1092015341,
     "wof:placetype":"locality",

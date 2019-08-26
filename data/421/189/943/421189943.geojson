@@ -10,8 +10,12 @@
     "geom:latitude":27.06524,
     "geom:longitude":27.970504,
     "iso:country":"EG",
+    "lbl:bbox":"27.950504,27.04524,27.990504,27.08524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0631\u0627\u0641\u0631\u0629"
@@ -140,7 +144,7 @@
         "Farafra"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bb0\u0bbe\u0baa\u0bbf\u0bb0\u0bbe  "
+        "\u0baa\u0bb0\u0bbe\u0baa\u0bbf\u0bb0\u0bbe "
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c30\u0c3e\u0c2b\u0c4d\u0c30\u0c3e"
@@ -192,7 +196,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1526019,
-        "qs:id":1118065,
+        "qs_pg:id":1118065,
         "wd:id":"Q647638"
     },
     "wof:country":"EG",
@@ -208,7 +212,7 @@
         }
     ],
     "wof:id":421189943,
-    "wof:lastmodified":1563236170,
+    "wof:lastmodified":1566586566,
     "wof:name":"Qasr Farafra",
     "wof:parent_id":1092017585,
     "wof:placetype":"locality",

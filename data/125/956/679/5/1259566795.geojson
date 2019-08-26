@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.42143,30.76035,31.46143,30.80035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Izbat Gh\u0101z\u012b",
         "\u0639\u0632\u0628\u0629 \u063a\u0627\u0632\u064a",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259566795,
-    "wof:lastmodified":1537621084,
+    "wof:lastmodified":1566586773,
     "wof:name":"`Izbat Ghazi",
     "wof:parent_id":1092016079,
     "wof:placetype":"locality",

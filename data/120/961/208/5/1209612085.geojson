@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.07269,30.02448,31.11269,30.06448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Aboe Rawasj"
     ],
@@ -96,7 +100,6 @@
     ],
     "name:und_x_variant":[
         "\u2018Ezbet Abu Rauw\u00e2sh",
-        "Abu Roash",
         "\u2018Ezbet Abu Roash",
         "Abu Ruw\u0101sh",
         "Abu Rauw\u00e2sh",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1209612085,
-    "wof:lastmodified":1564207972,
+    "wof:lastmodified":1566586189,
     "wof:name":"Abu Rawwash",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"28.4184,31.05351,28.4584,31.09351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Z\u00e2wyet \u2018Abd el Mun\u2018im",
         "Z\u0101wiyat \u2018Abd al Mun\u2018im"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276731281,
-    "wof:lastmodified":1537620548,
+    "wof:lastmodified":1566586022,
     "wof:name":"Zawiyat `Abd al Mun`im",
     "wof:parent_id":1092017227,
     "wof:placetype":"locality",

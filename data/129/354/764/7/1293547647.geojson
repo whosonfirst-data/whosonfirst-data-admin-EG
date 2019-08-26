@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.16255,26.00912,32.20255,26.04912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293547647,
-    "wof:lastmodified":1536700803,
+    "wof:lastmodified":1566585880,
     "wof:name":"Naj` ash Sharqawi",
     "wof:parent_id":1092020903,
     "wof:placetype":"locality",

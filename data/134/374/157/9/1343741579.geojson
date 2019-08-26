@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.58921,24.53628,30.62921,24.57628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343741579,
-    "wof:lastmodified":1536837106,
+    "wof:lastmodified":1566585829,
     "wof:name":"`Ezbet Maks el-Qibli",
     "wof:parent_id":1092020223,
     "wof:placetype":"locality",

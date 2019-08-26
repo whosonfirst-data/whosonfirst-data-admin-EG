@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.27235,30.4728,31.31235,30.5128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-\u2018Az\u00eez\u00eeya",
         "El Azaziya",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209293403,
-    "wof:lastmodified":1537620939,
+    "wof:lastmodified":1566586213,
     "wof:name":"Al `Aziziyah",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

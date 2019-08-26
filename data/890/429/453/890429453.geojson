@@ -11,8 +11,11 @@
     "geom:longitude":29.95527,
     "gn:country":"EG",
     "gn:fcode":"PPLA",
-    "gn:pop":3811516,
+    "gn:population":3811516,
     "iso:country":"EG",
+    "lbl:bbox":"29.93527,31.19564,29.97527,31.23564",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
@@ -424,7 +427,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Iskandar\u012byah"
     ],
     "name:urd_x_preferred":[
@@ -581,7 +584,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":361058,
-        "qs:id":310244,
+        "qs_pg:id":310244,
         "wd:id":"Q87",
         "wk:page":"Alexandria"
     },
@@ -598,7 +601,7 @@
         }
     ],
     "wof:id":890429453,
-    "wof:lastmodified":1563236195,
+    "wof:lastmodified":1566586577,
     "wof:name":"Alexandria",
     "wof:parent_id":1092024943,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.06416,27.24447,31.10416,27.28447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276303875,
-    "wof:lastmodified":1536817449,
+    "wof:lastmodified":1566586109,
     "wof:name":"Naj` `Abd ar Rasul",
     "wof:parent_id":1092014043,
     "wof:placetype":"locality",

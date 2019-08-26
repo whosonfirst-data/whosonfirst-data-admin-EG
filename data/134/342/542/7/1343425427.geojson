@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.15537,31.3264,31.19537,31.3664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Ab\u016b S\u0101r\u012b"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343425427,
-    "wof:lastmodified":1537621060,
+    "wof:lastmodified":1566585823,
     "wof:name":"Abu Sari",
     "wof:parent_id":1092017993,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.18717,27.07599,31.22717,27.11599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "R\u012bfa",
         "R\u012bfah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209887565,
-    "wof:lastmodified":1537620592,
+    "wof:lastmodified":1566586237,
     "wof:name":"Rifah",
     "wof:parent_id":1092014633,
     "wof:placetype":"locality",

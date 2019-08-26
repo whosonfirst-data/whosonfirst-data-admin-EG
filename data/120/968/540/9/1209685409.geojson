@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.82966,25.01512,32.86966,25.05512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632581
@@ -34,7 +38,7 @@
         "gn:id":445084
     },
     "wof:country":"EG",
-    "wof:geomhash":"4729343b451e0af6508f6a220a17b935",
+    "wof:geomhash":"90bb8d0fee949d353676d0160fa5c666",
     "wof:hierarchy":[
         {
             "country_id":85632581,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209685409,
-    "wof:lastmodified":1536279428,
+    "wof:lastmodified":1566586187,
     "wof:name":"Naj` al Qarah",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     32.84966,
-    25.035120000000006,
+    25.03512000000001,
     32.84966,
-    25.035120000000006
+    25.03512000000001
 ],
   "geometry": {"coordinates":[32.84966,25.03512000000001],"type":"Point"}
 }

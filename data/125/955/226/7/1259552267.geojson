@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"27.87583,31.06639,27.91583,31.10639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Z\u0101wiyet S\u012bdi M\u016bsa",
         "Zawia Sidi Musa",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259552267,
-    "wof:lastmodified":1537620544,
+    "wof:lastmodified":1566586727,
     "wof:name":"Zawiyat Sidi Musa",
     "wof:parent_id":1092022115,
     "wof:placetype":"locality",

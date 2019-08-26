@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.84667,30.96333,31.88667,31.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr el-Saiy\u00e2d\u00een",
         "Kafr a\u015f \u015eayy\u0101d\u012bn"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309695673,
-    "wof:lastmodified":1537620712,
+    "wof:lastmodified":1566586537,
     "wof:name":"Kafr as Sayyadin",
     "wof:parent_id":1092015105,
     "wof:placetype":"locality",

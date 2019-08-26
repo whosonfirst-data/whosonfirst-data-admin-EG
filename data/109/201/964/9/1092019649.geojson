@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":30.769457,
     "lbl:longitude":31.119982,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gharbia",
     "meso:diss_me":"El-SantahGharbia",
     "meso:gadm_admin":"As-Santah",
@@ -42,6 +44,7 @@
     "mps:longitude":31.119982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "As-Santah"
     ],
@@ -50,9 +53,9 @@
         "As-Santah"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"",
     "statoids:as_of_date":"2006-11-11",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1092019649,
-    "wof:lastmodified":1560969121,
+    "wof:lastmodified":1566586485,
     "wof:name":"El-Santah",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

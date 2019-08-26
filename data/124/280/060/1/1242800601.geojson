@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.83723,30.87057,30.87723,30.91057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr Sul\u00eem\u00e2n el-L\u00f4\u1e25",
         "Kafr Sulaym\u0101n al Law\u1e29"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242800601,
-    "wof:lastmodified":1537620686,
+    "wof:lastmodified":1566586605,
     "wof:name":"Kafr Sulayman al Lawh",
     "wof:parent_id":1092015375,
     "wof:placetype":"locality",

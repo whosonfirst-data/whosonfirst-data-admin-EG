@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.84667,23.86333,32.88667,23.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nag\u2018 Kulud\u00fbl",
         "Nag\u2018 Kolodol",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344239079,
-    "wof:lastmodified":1537620620,
+    "wof:lastmodified":1566585750,
     "wof:name":"Naj` Kuludul",
     "wof:parent_id":1092022915,
     "wof:placetype":"locality",

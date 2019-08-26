@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":31.250568,
     "lbl:longitude":32.299923,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Port Said",
     "meso:diss_me":"Police station of Port Said  PortPort Said",
     "meso:gadm_admin":"Ash-Sharq",
@@ -42,12 +44,13 @@
     "mps:longitude":32.299923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Police Department Port Said Port",
         "Ash-Sharq"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632581,
@@ -69,8 +72,8 @@
         }
     ],
     "wof:id":1092023405,
-    "wof:lastmodified":1560969117,
-    "wof:name":"Police station of Port Said  Port",
+    "wof:lastmodified":1566586467,
+    "wof:name":"Police station of Port Said Port",
     "wof:parent_id":85671021,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-eg",

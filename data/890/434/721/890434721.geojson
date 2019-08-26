@@ -11,10 +11,14 @@
     "geom:longitude":31.16499,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":431052,
+    "gn:population":431052,
     "iso:country":"EG",
+    "lbl:bbox":"31.14499,30.9545,31.18499,30.9945",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0644\u0629 \u0627\u0644\u0643\u0628\u0631\u0649"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041c\u0430\u0445\u0430\u043b\u043b\u0430-\u0435\u043b\u044c-\u041a\u0443\u0431\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El-Ma\u1e25alla el-Kubra"
     ],
     "name:urd_x_preferred":[
@@ -150,7 +154,7 @@
     "wof:concordances":{
         "gn:id":360829,
         "gp:id":56447346,
-        "qs:id":348467,
+        "qs_pg:id":348467,
         "wd:id":"Q312723"
     },
     "wof:country":"EG",
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":890434721,
-    "wof:lastmodified":1563236202,
+    "wof:lastmodified":1566586580,
     "wof:name":"Al Ma\u1e29allah al Kubr\u00e1",
     "wof:parent_id":1092025637,
     "wof:placetype":"locality",

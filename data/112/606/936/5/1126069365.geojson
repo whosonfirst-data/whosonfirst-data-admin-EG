@@ -9,16 +9,19 @@
     "geom:bbox":"31.23866,30.08505,31.23866,30.08505",
     "geom:latitude":30.08505,
     "geom:longitude":31.23866,
-    "gn:gn_country":"EG",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"EG",
+    "gn:fcode":"PPLX",
     "gn:latitude":30.08505,
     "gn:longitude":31.23867,
+    "gn:population":0,
     "iso:country":"EG",
+    "lbl:bbox":"31.23366,30.08005,31.24366,30.09005",
     "lbl:latitude":30.08505,
     "lbl:longitude":31.23866,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0634\u0628\u0631\u0627"
@@ -61,10 +64,6 @@
     "name:swe_x_preferred":[
         "Shobra"
     ],
-    "name:unk_x_variant":[
-        "\u0634\u0628\u0631\u0627",
-        "Shoubra"
-    ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
     "qs_pg:gn_fcode":"PPLX",
@@ -86,7 +85,7 @@
     "qs_pg:woe_adm0":23424802,
     "qs_pg:woe_id":1526301,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424802,
     "woe:name_adm0":"\u0645\u0635\u0631",
     "woe:name_adm1":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
@@ -101,7 +100,6 @@
     "wof:concordances":{
         "gn:id":349080,
         "gp:id":1526301,
-        "qs:id":482537,
         "qs_pg:id":482537,
         "wd:id":"Q2096164",
         "wk:page":"Shubra"
@@ -120,7 +118,7 @@
         }
     ],
     "wof:id":1126069365,
-    "wof:lastmodified":1563236210,
+    "wof:lastmodified":1566586583,
     "wof:name":"\u0634\u0628\u0631\u0627",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

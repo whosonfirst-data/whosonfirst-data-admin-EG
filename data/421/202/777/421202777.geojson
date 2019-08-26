@@ -10,13 +10,16 @@
     "geom:latitude":31.20479,
     "geom:longitude":29.88188,
     "iso:country":"EG",
+    "lbl:bbox":"29.87688,31.19979,29.88688,31.20979",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0631\u0623\u0633 \u0627\u0644\u062a\u064a\u0646"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qism el Gumruk"
     ],
     "qs:gn_country":"EG",
@@ -39,16 +42,16 @@
     "qs:woe_id":1526063,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85671041,
         102191573,
         85632581,
-        1092017917,
-        85671041
+        1092017917
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":350215,
         "gp:id":1526063,
-        "qs:id":227489
+        "qs_pg:id":227489
     },
     "wof:country":"EG",
     "wof:created":1459010129,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421202777,
-    "wof:lastmodified":1531858805,
+    "wof:lastmodified":1566586559,
     "wof:name":"\u0631\u0627\u0633 \u0627\u0644\u062a\u064a\u0646",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

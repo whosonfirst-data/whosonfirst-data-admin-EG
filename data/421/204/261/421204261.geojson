@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.016666,31.2881335,30.016666,31.2881335",
     "geom:latitude":31.288134,
     "geom:longitude":30.016666,
     "iso:country":"EG",
+    "lbl:bbox":"29.996666,31.2681335,30.036666,31.3081335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724295,
-        "qs:id":1187498
+        "qs_pg:id":1187498
     },
     "wof:country":"EG",
     "wof:created":1459010179,
-    "wof:geomhash":"d0e95da9d8e63be4763f564404ccd898",
+    "wof:geomhash":"16d92f3e21e1687700eb32600d558cde",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421204261,
-    "wof:lastmodified":1466635898,
+    "wof:lastmodified":1566586558,
     "wof:name":"\u0627\u0644\u0645\u0646\u062a\u0632\u0629",
     "wof:parent_id":85671041,
     "wof:placetype":"locality",

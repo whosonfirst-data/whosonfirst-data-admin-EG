@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.39083,29.74111,32.43083,29.78111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El \u1e24afair",
         "El-Haf\u00e2yir",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309976447,
-    "wof:lastmodified":1537620925,
+    "wof:lastmodified":1566586516,
     "wof:name":"Al Hafa'ir",
     "wof:parent_id":1092023197,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":31.20071,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":67599,
+    "gn:population":67599,
     "iso:country":"EG",
+    "lbl:bbox":"31.18071,30.33394,31.22071,30.37394",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0162\u016bkh"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Toukh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u00fbkh"
     ],
     "qs:name":"Toukh",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":347236,
         "gp:id":1526531,
-        "qs:id":206078
+        "qs_pg:id":206078
     },
     "wof:country":"EG",
     "wof:created":1469051745,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890428251,
-    "wof:lastmodified":1564208481,
+    "wof:lastmodified":1566586576,
     "wof:name":"Toukh",
     "wof:parent_id":1092025939,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.03599,30.88881,31.07599,30.92881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u062c\u064a\u0646 \u0627\u0644\u0643\u0648\u0645"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226265553,
-    "wof:lastmodified":1537620568,
+    "wof:lastmodified":1566586816,
     "wof:name":"Sijin al Kawm",
     "wof:parent_id":1092023627,
     "wof:placetype":"locality",

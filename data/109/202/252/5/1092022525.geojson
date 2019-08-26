@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":31.178661,
     "lbl:longitude":29.920237,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alexandria",
     "meso:diss_me":"Moharam BekAlexandria",
     "meso:gadm_admin":"Muharam Bik",
@@ -42,6 +44,7 @@
     "mps:longitude":29.920237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062d\u0631\u0645 \u0628\u0643"
     ],
@@ -61,9 +64,9 @@
         "\u0645\u062d\u0631\u0645 \u0628\u06a9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"",
     "statoids:as_of_date":"2006-11-11",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1092022525,
-    "wof:lastmodified":1564208366,
+    "wof:lastmodified":1566586477,
     "wof:name":"Moharam Bek",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.38367,30.48915,31.42367,30.52915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0634\u0627\u0634"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293854821,
-    "wof:lastmodified":1537621072,
+    "wof:lastmodified":1566585913,
     "wof:name":"`Izbat Abu Shash",
     "wof:parent_id":1092022403,
     "wof:placetype":"locality",

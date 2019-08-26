@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.62983,30.79384,30.66983,30.83384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632581
@@ -34,7 +38,7 @@
         "gn:id":433102
     },
     "wof:country":"EG",
-    "wof:geomhash":"2147f890a04d5afb888b0d4bbee3a20c",
+    "wof:geomhash":"a455274b43dd4e1ad1cb04a04988b278",
     "wof:hierarchy":[
         {
             "country_id":85632581,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209522859,
-    "wof:lastmodified":1536284524,
+    "wof:lastmodified":1566586156,
     "wof:name":"Qaryat Ahmad Tal`at",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     30.64983,
-    30.813840000000006,
+    30.81384000000001,
     30.64983,
-    30.813840000000006
+    30.81384000000001
 ],
   "geometry": {"coordinates":[30.64983,30.81384000000001],"type":"Point"}
 }

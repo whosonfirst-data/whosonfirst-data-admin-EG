@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.8045,28.03502,30.8445,28.07502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet Sul\u1e6d\u00e2n Pasha",
         "Nazlat Sul\u0163\u0101n B\u0101sh\u0101",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243538421,
-    "wof:lastmodified":1537620605,
+    "wof:lastmodified":1566586595,
     "wof:name":"Zawiyat Sultan Basha",
     "wof:parent_id":1092023043,
     "wof:placetype":"locality",

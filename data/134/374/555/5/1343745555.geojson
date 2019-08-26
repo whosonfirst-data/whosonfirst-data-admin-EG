@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.75002,30.89781,31.79002,30.93781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Sawfieh",
         "El-\u1e62\u00fbf\u00eeya",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343745555,
-    "wof:lastmodified":1537620849,
+    "wof:lastmodified":1566585830,
     "wof:name":"As Sufiyah",
     "wof:parent_id":1092015105,
     "wof:placetype":"locality",

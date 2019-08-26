@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.6029,26.72244,31.6429,26.76244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Gal\u00e2w\u00eeya",
         "Al Jal\u0101w\u012byah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209728591,
-    "wof:lastmodified":1537620911,
+    "wof:lastmodified":1566586241,
     "wof:name":"Al Jalawiyah",
     "wof:parent_id":1092023157,
     "wof:placetype":"locality",

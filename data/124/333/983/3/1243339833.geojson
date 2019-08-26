@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.29667,26.86333,31.33667,26.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet el-Kall\u00e2b\u00eeya",
         "Nazlat al Kall\u0101b\u012byah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243339833,
-    "wof:lastmodified":1537620613,
+    "wof:lastmodified":1566586666,
     "wof:name":"Nazlat al Kallabiyah",
     "wof:parent_id":1092017873,
     "wof:placetype":"locality",

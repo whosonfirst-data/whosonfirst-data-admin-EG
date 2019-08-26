@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.11674,29.30964,31.15674,29.34964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kn\u0308m Abu R\u0101di",
         "Kawm Ab\u016b R\u0101\u1e11\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276943729,
-    "wof:lastmodified":1537620679,
+    "wof:lastmodified":1566586039,
     "wof:name":"Kawm Abu Radi",
     "wof:parent_id":1092020395,
     "wof:placetype":"locality",

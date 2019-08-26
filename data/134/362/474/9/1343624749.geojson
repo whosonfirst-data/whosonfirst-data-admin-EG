@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.89618,28.95116,30.93618,28.99116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343624749,
-    "wof:lastmodified":1537005961,
+    "wof:lastmodified":1566585722,
     "wof:name":"Saft Rashin",
     "wof:parent_id":1092015415,
     "wof:placetype":"locality",

@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":26.42231,
     "lbl:longitude":29.227089,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":26.42231,
     "mps:longitude":29.227089,
     "mz:hierarchy_label":1,
@@ -885,15 +887,9 @@
     "name:ukr_x_preferred":[
         "\u0404\u0433\u0438\u043f\u0435\u0442"
     ],
-    "name:und_x_preferred":[
-        "Arabska republika Egipt",
-        "Egiptaland"
-    ],
     "name:und_x_variant":[
-        "Egipt",
-        "Egyptaland"
-    ],
-    "name:unk_x_variant":[
+        "Arabska republika Egipt",
+        "Egiptaland",
         "Jumh\u016br\u012byat Mi\u015fr al \u2018Arab\u012byah"
     ],
     "name:urd_x_preferred":[
@@ -1051,7 +1047,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"20",
     "statoids:ds":"ET",
@@ -1096,7 +1092,7 @@
         "mzb:id":"egypt",
         "ne:adm0_a3":"EGY",
         "nyt:id":"51524845856012369921",
-        "qs:id":206271,
+        "qs_pg:id":206271,
         "uncrt:id":"ET",
         "wd:id":"Q79",
         "wk:page":"Egypt",
@@ -1118,7 +1114,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673290,
+    "wof:lastmodified":1566585855,
     "wof:name":"Egypt",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

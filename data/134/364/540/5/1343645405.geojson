@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.71103,28.62914,30.75103,28.66914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El \u2018Aql\u00eeya",
         "Al \u2018Aql\u012byah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343645405,
-    "wof:lastmodified":1537620944,
+    "wof:lastmodified":1566585739,
     "wof:name":"Al `Aqliyah",
     "wof:parent_id":1092021965,
     "wof:placetype":"locality",

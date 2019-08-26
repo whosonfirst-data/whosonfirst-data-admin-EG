@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.89999,24.32142,32.93999,24.36142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293107721,
-    "wof:lastmodified":1536836436,
+    "wof:lastmodified":1566585983,
     "wof:name":"Nag` el-Ruttag",
     "wof:parent_id":1092022915,
     "wof:placetype":"locality",

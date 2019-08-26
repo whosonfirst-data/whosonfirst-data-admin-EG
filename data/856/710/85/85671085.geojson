@@ -34,6 +34,7 @@
     ],
     "lbl:latitude":27.375142,
     "lbl:longitude":32.491862,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Red Sea",
     "mps:latitude":23.618865,
     "mps:longitude":34.300109,
@@ -153,7 +154,7 @@
         "Raudonosios J\u016bros muchafaza"
     ],
     "name:mar_x_preferred":[
-        "\u0930\u0947\u0921 \u0938\u0940  \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+        "\u0930\u0947\u0921 \u0938\u0940 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
     "name:msa_x_preferred":[
         "Pentadbiran Red Sea"
@@ -204,7 +205,7 @@
         "Guvernementet Al-Bahr al-Ahmar"
     ],
     "name:tam_x_preferred":[
-        "\u0bb0\u0bc6\u0b9f\u0bcd  \u0b9a\u0bc6\u0baa\u0b9f  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd"
+        "\u0bb0\u0bc6\u0b9f\u0bcd \u0b9a\u0bc6\u0baa\u0b9f \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bbe\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c30\u0c46\u0c21\u0c4d \u0c38\u0c40 \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -219,9 +220,6 @@
         "\u0427\u0435\u0440\u0432\u043e\u043d\u0435 \u041c\u043e\u0440\u0435"
     ],
     "name:und_x_variant":[
-        "Red Sea"
-    ],
-    "name:unk_x_variant":[
         "El-Bahr el-Ahmar"
     ],
     "name:urd_x_preferred":[
@@ -308,9 +306,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"203,685",
     "statoids:area_mi":"78,643",
     "statoids:as_of_date":"2006-11-11",
@@ -334,7 +332,7 @@
         "gp:id":2345224,
         "hasc:id":"EG.BA",
         "iso:id":"EG-BA",
-        "qs:id":900676,
+        "qs_pg:id":900676,
         "wd:id":"Q30831"
     },
     "wof:country":"EG",
@@ -353,11 +351,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673293,
+    "wof:lastmodified":1566585864,
     "wof:name":"Al Bahr al Ahmar",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":288233,
     "wof:population_rank":10,

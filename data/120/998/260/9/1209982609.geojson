@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.66792,28.64637,30.70792,28.68637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Q\u00e2iy\u00e2t",
         "Al Q\u0101y\u0101t"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209982609,
-    "wof:lastmodified":1537620884,
+    "wof:lastmodified":1566586136,
     "wof:name":"Al Qayat",
     "wof:parent_id":1092016505,
     "wof:placetype":"locality",

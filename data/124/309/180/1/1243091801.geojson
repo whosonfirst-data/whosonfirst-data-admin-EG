@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.90781,29.11193,30.94781,29.15193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ezbet el-Mam\u00e2l\u00eek",
         "Nazlat al Mam\u0101l\u012bk"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243091801,
-    "wof:lastmodified":1537620794,
+    "wof:lastmodified":1566586592,
     "wof:name":"Nazlat al Mamalik",
     "wof:parent_id":1092014481,
     "wof:placetype":"locality",

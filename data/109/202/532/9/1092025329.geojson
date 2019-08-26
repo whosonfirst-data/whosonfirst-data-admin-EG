@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":26.861609,
     "lbl:longitude":31.423563,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sohag",
     "meso:diss_me":"TamaSohag",
     "meso:gadm_admin":"Tima",
@@ -42,6 +44,7 @@
     "mps:longitude":31.423563,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0645\u0627"
     ],
@@ -122,9 +125,9 @@
         "Tama"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"",
     "statoids:as_of_date":"2006-11-11",
     "statoids:capital":"",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1092025329,
-    "wof:lastmodified":1564208339,
+    "wof:lastmodified":1566586457,
     "wof:name":"Tama",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

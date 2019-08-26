@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.52322,30.02956,32.56322,30.06956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muh el-\u2019Askari",
         "Mu\u1e29ammad al \u2018Askar\u012b",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343744939,
-    "wof:lastmodified":1537620632,
+    "wof:lastmodified":1566585831,
     "wof:name":"Muhammad al `Askari",
     "wof:parent_id":1092017827,
     "wof:placetype":"locality",

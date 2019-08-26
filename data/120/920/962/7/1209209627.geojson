@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.85008,30.34034,30.89008,30.38034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u0647\u0648\u0627\u064a"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209209627,
-    "wof:lastmodified":1537620562,
+    "wof:lastmodified":1566586214,
     "wof:name":"Tahway",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

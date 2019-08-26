@@ -34,6 +34,7 @@
     ],
     "lbl:latitude":29.314742,
     "lbl:longitude":30.741434,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Faiyum",
     "mps:latitude":29.314742,
     "mps:longitude":30.741434,
@@ -179,9 +180,6 @@
         "\u0415\u043b\u044c-\u0424\u0430\u0439\u044e\u043c"
     ],
     "name:und_x_variant":[
-        "Faiyum"
-    ],
-    "name:unk_x_variant":[
         "Mohafazat El Faiyum"
     ],
     "name:urd_x_preferred":[
@@ -268,7 +266,7 @@
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"1,827",
     "statoids:area_mi":"705",
     "statoids:as_of_date":"2006-11-11",
@@ -292,7 +290,7 @@
         "gp:id":2345226,
         "hasc:id":"EG.FY",
         "iso:id":"EG-FYM",
-        "qs:id":900672,
+        "qs_pg:id":900672,
         "wd:id":"Q30656"
     },
     "wof:country":"EG",
@@ -311,11 +309,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673292,
+    "wof:lastmodified":1566585862,
     "wof:name":"Al Fayyum",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":2512792,
     "wof:population_rank":12,

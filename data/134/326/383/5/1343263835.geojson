@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.2125,31.26111,30.2525,31.30111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ezbet K\u00f4m el-Kalakh",
         "\u2018Izbat Kawm al Kalakh"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343263835,
-    "wof:lastmodified":1537620761,
+    "wof:lastmodified":1566585832,
     "wof:name":"`Izbat Kawm al Kalakh",
     "wof:parent_id":1092016481,
     "wof:placetype":"locality",

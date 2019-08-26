@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.96488,26.20059,32.00488,26.24059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Isl\u00e2h",
         "Al I\u015fl\u0101\u1e29",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259741193,
-    "wof:lastmodified":1537620913,
+    "wof:lastmodified":1566586778,
     "wof:name":"`Izbat al Islah",
     "wof:parent_id":1092017143,
     "wof:placetype":"locality",

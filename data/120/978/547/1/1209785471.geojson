@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.66333,23.06333,32.70333,23.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ofedinah",
         "Naj\u2018 Uffad\u016bny\u0101"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209785471,
-    "wof:lastmodified":1537620618,
+    "wof:lastmodified":1566586172,
     "wof:name":"Naj` Uffadunya",
     "wof:parent_id":1092022915,
     "wof:placetype":"locality",
