@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.64546,28.50346,30.68546,28.54346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr Abu el-\u2019Auwad\u00een",
         "Kafr Ab\u016b al \u2018Am\u016bdayn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344240569,
-    "wof:lastmodified":1537620748,
+    "wof:lastmodified":1566585750,
     "wof:name":"Kafr Abu al `Amudayn",
     "wof:parent_id":1092015295,
     "wof:placetype":"locality",

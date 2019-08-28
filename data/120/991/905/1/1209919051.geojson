@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.07401,31.00596,31.11401,31.04596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u062a\u0645\u062f\u064a\u0629"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209919051,
-    "wof:lastmodified":1537620888,
+    "wof:lastmodified":1566586138,
     "wof:name":"Al Mu`tamadiyah",
     "wof:parent_id":1092018245,
     "wof:placetype":"locality",

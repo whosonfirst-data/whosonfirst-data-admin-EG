@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.68707,29.44275,30.72707,29.48275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El W\u00e2yet Shakshuk",
         "Shakshouk",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209421265,
-    "wof:lastmodified":1537620580,
+    "wof:lastmodified":1566586226,
     "wof:name":"Shakshuk",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

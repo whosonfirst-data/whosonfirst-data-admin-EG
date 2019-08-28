@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.69667,27.83,30.73667,27.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet T\u00e2drus",
         "Nazlat F\u0101ris",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309824311,
-    "wof:lastmodified":1537620605,
+    "wof:lastmodified":1566586530,
     "wof:name":"Nazlat Tadrus",
     "wof:parent_id":1092022005,
     "wof:placetype":"locality",

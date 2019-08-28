@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.39975,30.23271,32.43975,30.27271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ezbet Hasan Sall\u00e2m",
         "\u2018Izbat Hasan Sall\u0101m"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276732779,
-    "wof:lastmodified":1537620790,
+    "wof:lastmodified":1566586022,
     "wof:name":"`Izbat Hasan Sallam",
     "wof:parent_id":1092020945,
     "wof:placetype":"locality",

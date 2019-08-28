@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.56514,30.96364,29.60514,31.00364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193273357,
-    "wof:lastmodified":1536368061,
+    "wof:lastmodified":1566586277,
     "wof:name":"Qaryat Shuruq",
     "wof:parent_id":1092015739,
     "wof:placetype":"locality",

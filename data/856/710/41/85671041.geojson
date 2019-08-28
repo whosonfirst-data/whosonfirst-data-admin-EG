@@ -35,6 +35,7 @@
     ],
     "lbl:latitude":30.757644,
     "lbl:longitude":29.772709,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Alexandria",
     "mps:latitude":30.749449,
     "mps:longitude":29.774809,
@@ -218,7 +219,7 @@
         "Guvernementet Alexandria"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbf\u0baf\u0bbe  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0b85\u0bb2\u0bc6\u0b95\u0bcd\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb0\u0bbf\u0baf\u0bbe \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c32\u0c46\u0c15\u0c4d\u0c38\u0c3e\u0c02\u0c21\u0c4d\u0c30\u0c3f\u0c2f\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -236,9 +237,6 @@
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Alexandria"
-    ],
-    "name:unk_x_variant":[
         "Iskanderiya"
     ],
     "name:urd_x_preferred":[
@@ -325,9 +323,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"2,679",
     "statoids:area_mi":"1,035",
     "statoids:as_of_date":"2006-11-11",
@@ -352,7 +350,7 @@
         "gp:id":2345228,
         "hasc:id":"EG.IK",
         "iso:id":"EG-ALX",
-        "qs:id":206445,
+        "qs_pg:id":206445,
         "wd:id":"Q29943",
         "wk:page":"Alexandria Governorate"
     },
@@ -372,11 +370,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673293,
+    "wof:lastmodified":1566585863,
     "wof:name":"Al Iskandariyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":4110015,
     "wof:population_rank":12,

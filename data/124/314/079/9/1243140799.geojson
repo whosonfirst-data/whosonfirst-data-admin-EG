@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.38,26.04667,32.42,26.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Samayna",
         "Naj\u2018 as Sam\u0101\u2019inah",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243140799,
-    "wof:lastmodified":1537620853,
+    "wof:lastmodified":1566586648,
     "wof:name":"As Sama'inah",
     "wof:parent_id":1092020315,
     "wof:placetype":"locality",

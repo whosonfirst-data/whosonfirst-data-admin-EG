@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.59667,25.71333,32.63667,25.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0633\u0627\u0633\u064a\u0641"
     ],
@@ -66,7 +70,6 @@
     ],
     "name:und_x_variant":[
         "El Asasif",
-        "Asasif",
         "Al \u2018As\u0101s\u012bf"
     ],
     "src:geom":"geonames",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1343241555,
-    "wof:lastmodified":1564207428,
+    "wof:lastmodified":1566585765,
     "wof:name":"Al `Asasif",
     "wof:parent_id":1092018839,
     "wof:placetype":"locality",

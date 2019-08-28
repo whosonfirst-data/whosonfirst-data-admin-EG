@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15696754.85406,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.214735,30.061321,31.214735,30.061321",
     "geom:latitude":30.061321,
     "geom:longitude":31.214735,
     "gn:id":"",
     "iso:country":"EG",
+    "lbl:bbox":"31.209735,30.056321,31.219735,30.066321",
     "lbl:latitude":30.061321,
     "lbl:longitude":31.214735,
+    "lbl:max_zoom":18.0,
     "mps:latitude":30.065202,
     "mps:longitude":31.205099,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
         "Zamalek",
         "Zam\u00e2lik"
     ],
-    "name:unk_x_variant":[
-        "El Gez\u00eera"
-    ],
     "qs:gn_adm0_cc":"EG",
     "qs:gn_id":0,
     "qs:gn_local":360630,
@@ -75,17 +74,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85671047,
         102191573,
         85632581,
-        1092016545,
-        85671047
+        1092016545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1522434,
-        "qs:id":221273,
         "qs_pg:id":221273
     },
     "wof:country":"EG",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935961,
+    "wof:lastmodified":1566585849,
     "wof:name":"El Gez\u00eera",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

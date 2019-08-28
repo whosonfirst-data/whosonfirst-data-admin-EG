@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15219432.836354,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.962816,31.236152,29.962816,31.236152",
     "geom:latitude":31.236152,
     "geom:longitude":29.962816,
-    "gn:gn_country":"EG",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"EG",
+    "gn:fcode":"PPLX",
     "gn:latitude":31.24849,
     "gn:longitude":29.98228,
+    "gn:population":0,
     "iso:country":"EG",
+    "lbl:bbox":"29.957816,31.231152,29.967816,31.241152",
     "lbl:latitude":31.236152,
     "lbl:longitude":29.962816,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.232765,
     "mps:longitude":29.972958,
     "mz:hierarchy_label":0,
@@ -42,10 +44,6 @@
         "Ramlah",
         "Ar Raml",
         "Ramleh"
-    ],
-    "name:unk_x_variant":[
-        "Er Raml",
-        "Ramlah"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -92,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85671041,
         102191573,
@@ -103,7 +101,6 @@
     "wof:concordances":{
         "gn:id":360137,
         "gp:id":1522076,
-        "qs:id":1118020,
         "qs_pg:id":1118020
     },
     "wof:country":"EG",
@@ -122,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379294,
+    "wof:lastmodified":1566585850,
     "wof:name":"Er Raml",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

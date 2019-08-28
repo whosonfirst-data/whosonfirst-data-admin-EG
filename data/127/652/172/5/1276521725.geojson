@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.14345,31.20192,31.18345,31.24192",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0627\u0644\u0637\u0646\u0628\u0627\u0631\u064a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276521725,
-    "wof:lastmodified":1537621249,
+    "wof:lastmodified":1566586100,
     "wof:name":"`Izbat at Tanbari",
     "wof:parent_id":1092015463,
     "wof:placetype":"locality",

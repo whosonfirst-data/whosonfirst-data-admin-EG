@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.43,26.74667,31.47,26.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293056981,
-    "wof:lastmodified":1536911299,
+    "wof:lastmodified":1566585950,
     "wof:name":"Al Haridiyah al Bahriyah",
     "wof:parent_id":1092025101,
     "wof:placetype":"locality",

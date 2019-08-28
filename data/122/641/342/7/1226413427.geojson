@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.73,30.59667,31.77,30.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr el \u1e62af\u00e2\u1e6dwa",
         "Kafr a\u015f \u015eaf\u0101\u0163iwah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226413427,
-    "wof:lastmodified":1537620714,
+    "wof:lastmodified":1566586884,
     "wof:name":"Kafr as Safatiwah",
     "wof:parent_id":1092019105,
     "wof:placetype":"locality",

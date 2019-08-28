@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.44761,30.78137,31.48761,30.82137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0628\u064a\u062c"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243046855,
-    "wof:lastmodified":1537620809,
+    "wof:lastmodified":1566586655,
     "wof:name":"Dubayj",
     "wof:parent_id":1092016079,
     "wof:placetype":"locality",

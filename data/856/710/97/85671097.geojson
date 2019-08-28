@@ -34,6 +34,7 @@
     ],
     "lbl:latitude":25.695627,
     "lbl:longitude":32.635288,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Al Uqsur",
     "mps:latitude":25.70444,
     "mps:longitude":32.648262,
@@ -183,9 +184,6 @@
         "\u041b\u0443\u043a\u0441\u043e\u0440"
     ],
     "name:und_x_variant":[
-        "Al Uqsur"
-    ],
-    "name:unk_x_variant":[
         "Mu\u1e29\u0101faz\u0327at al Uq\u015fur"
     ],
     "name:urd_x_preferred":[
@@ -269,9 +267,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"55",
     "statoids:area_mi":"21",
     "statoids:as_of_date":"2006-11-11",
@@ -296,7 +294,7 @@
         "gp:id":56120896,
         "hasc:id":"EG.UQ",
         "iso:id":"EG-LX",
-        "qs:id":230277,
+        "qs_pg:id":230277,
         "unlc:id":"EG-LX",
         "wd:id":"Q30797"
     },
@@ -316,11 +314,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673292,
+    "wof:lastmodified":1566585862,
     "wof:name":"Luxor",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":451318,
     "wof:population_rank":10,

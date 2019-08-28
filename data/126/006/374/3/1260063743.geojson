@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.61147,30.68876,31.65147,30.72876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u064a\u0627\u0633\u064a\u0646"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260063743,
-    "wof:lastmodified":1537621120,
+    "wof:lastmodified":1566586306,
     "wof:name":"`Izbat Yasin",
     "wof:parent_id":1092021319,
     "wof:placetype":"locality",

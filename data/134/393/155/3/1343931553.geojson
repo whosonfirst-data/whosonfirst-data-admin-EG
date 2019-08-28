@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.89383,30.80805,31.93383,30.84805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Malak\u00eey\u00een el-Ba\u1e25ar\u00eeya",
         "\u2018Izbat al Malak\u012by\u012bn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343931553,
-    "wof:lastmodified":1537620898,
+    "wof:lastmodified":1566585797,
     "wof:name":"`Izbat al Malakiyin",
     "wof:parent_id":1092018091,
     "wof:placetype":"locality",

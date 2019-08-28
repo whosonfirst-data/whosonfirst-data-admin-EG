@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.02917,29.23806,31.06917,29.27806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ezbet \u2018Ali Rama\u1e0d\u00e2n",
         "\u2018Izbat \u2018Al\u012b Rama\u1e11\u0101n"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226143363,
-    "wof:lastmodified":1537620800,
+    "wof:lastmodified":1566586860,
     "wof:name":"`Izbat `Ali Ramadan",
     "wof:parent_id":1092022937,
     "wof:placetype":"locality",

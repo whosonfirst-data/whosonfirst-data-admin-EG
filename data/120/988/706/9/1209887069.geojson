@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.07899,30.86563,32.11899,30.90563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0631\u0642\u0645 \u0663 \u0628\u062d\u0631 \u0627\u0644\u0628\u0642\u0631"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209887069,
-    "wof:lastmodified":1537621233,
+    "wof:lastmodified":1566586236,
     "wof:name":"Qaryat Raqm Thalathah Bahr al Baqar",
     "wof:parent_id":1092018091,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.75083,30.80443,30.79083,30.84443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr el-Sheikh \u2018Ali",
         "Kafr esh-Sheikh \u2018Ali",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327133393,
-    "wof:lastmodified":1537620718,
+    "wof:lastmodified":1566585634,
     "wof:name":"Kafr ash Shaykh `Ali",
     "wof:parent_id":1092021623,
     "wof:placetype":"locality",

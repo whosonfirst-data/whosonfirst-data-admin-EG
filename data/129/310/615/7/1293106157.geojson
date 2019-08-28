@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.48556,30.97833,30.52556,31.01833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293106157,
-    "wof:lastmodified":1536838751,
+    "wof:lastmodified":1566585983,
     "wof:name":"`Ezbet Zuheil",
     "wof:parent_id":1092015921,
     "wof:placetype":"locality",

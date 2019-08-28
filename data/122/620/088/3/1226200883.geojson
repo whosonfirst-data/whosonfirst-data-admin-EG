@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"26.25088,31.47412,26.29088,31.51412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Z\u0101wiyet el Mithniy\u0101n",
         "Z\u00e2wyet el Mithniy\u00e2n",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226200883,
-    "wof:lastmodified":1537620546,
+    "wof:lastmodified":1566586823,
     "wof:name":"Zawiyat al Muthniyan",
     "wof:parent_id":1092018725,
     "wof:placetype":"locality",

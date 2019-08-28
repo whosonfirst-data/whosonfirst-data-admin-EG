@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.30575,31.17176,30.34575,31.21176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u062d\u0633\u0646 \u0635\u0627\u0628\u0631"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243566161,
-    "wof:lastmodified":1537620980,
+    "wof:lastmodified":1566586659,
     "wof:name":"`Izbat Hasan Sabir",
     "wof:parent_id":1092014133,
     "wof:placetype":"locality",

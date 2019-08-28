@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.3375,31.13917,30.3775,31.17917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mansh\u00eeyet el-\u1e6ca\u1e25\u1e25\u00e2n",
         "Mansh\u012byat a\u0163 \u0162a\u1e29\u1e29\u0101n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310417681,
-    "wof:lastmodified":1537620660,
+    "wof:lastmodified":1566586336,
     "wof:name":"Manshiyat at Tahhan",
     "wof:parent_id":1092014133,
     "wof:placetype":"locality",

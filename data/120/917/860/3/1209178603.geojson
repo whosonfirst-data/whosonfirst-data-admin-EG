@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.74641,31.18106,30.78641,31.22106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0648\u0631\u062b\u0629 \u0639\u0628\u062f \u0627\u0644\u0639\u0632\u064a\u0632"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209178603,
-    "wof:lastmodified":1537621023,
+    "wof:lastmodified":1566586232,
     "wof:name":"`Izbat Warathat `Abd al `Aziz",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

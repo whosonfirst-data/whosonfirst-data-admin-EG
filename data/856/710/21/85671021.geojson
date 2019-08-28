@@ -34,6 +34,7 @@
     ],
     "lbl:latitude":31.077789,
     "lbl:longitude":32.331427,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Port Said",
     "mps:latitude":31.124056,
     "mps:longitude":32.418295,
@@ -193,7 +194,7 @@
         "Port Said"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd  \u0b9a\u0bc7\u0b9f\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b9a\u0bc7\u0b9f\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d \u0c38\u0c46\u0c2f\u0c3f\u0c26\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -211,9 +212,6 @@
         "\u041f\u043e\u0440\u0442-\u0421\u0430\u0457\u0434"
     ],
     "name:und_x_variant":[
-        "Port Said"
-    ],
-    "name:unk_x_variant":[
         "Bour Said"
     ],
     "name:urd_x_preferred":[
@@ -300,9 +298,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"72",
     "statoids:area_mi":"28",
     "statoids:as_of_date":"2006-11-11",
@@ -328,7 +326,7 @@
         "gp:id":2345241,
         "hasc:id":"EG.BS",
         "iso:id":"EG-PTS",
-        "qs:id":1087040,
+        "qs_pg:id":1087040,
         "unlc:id":"EG-PTS",
         "wd:id":"Q31079"
     },
@@ -348,11 +346,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673292,
+    "wof:lastmodified":1566585860,
     "wof:name":"Bur Sa`id",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":570768,
     "wof:population_rank":11,

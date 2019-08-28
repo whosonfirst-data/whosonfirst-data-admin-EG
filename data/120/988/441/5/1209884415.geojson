@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.76684,26.4218,31.80684,26.4618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209884415,
-    "wof:lastmodified":1536393583,
+    "wof:lastmodified":1566586237,
     "wof:name":"Al Himas",
     "wof:parent_id":1092018599,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5808872.002721,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.893607,31.176329,29.893607,31.176329",
     "geom:latitude":31.176329,
     "geom:longitude":29.893607,
     "gn:id":"",
     "iso:country":"EG",
+    "lbl:bbox":"29.888607,31.171329,29.898607,31.181329",
     "lbl:latitude":31.176329,
     "lbl:longitude":29.893607,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.172495,
     "mps:longitude":29.894105,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Karmose District"
-    ],
-    "name:unk_x_variant":[
         "Karmose District"
     ],
     "qs:gn_id":0,
@@ -54,17 +53,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85671041,
         102191573,
         85632581,
-        1092021791,
-        85671041
+        1092021791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724285,
-        "qs:id":1184271,
         "qs_pg:id":1184271
     },
     "wof:country":"EG",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936432,
+    "wof:lastmodified":1566585853,
     "wof:name":"Karmose District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

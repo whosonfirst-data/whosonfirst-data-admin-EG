@@ -10,10 +10,14 @@
     "geom:latitude":25.0637,
     "geom:longitude":32.8361,
     "iso:country":"EG",
+    "lbl:bbox":"32.8161,25.0437,32.8561,25.0837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Kilh Gharb"
     ],
     "qs:gn_country":"EG",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":360881,
         "gp:id":1521724,
-        "qs:id":221625
+        "qs_pg:id":221625
     },
     "wof:country":"EG",
     "wof:created":1459010116,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421202387,
-    "wof:lastmodified":1501214186,
+    "wof:lastmodified":1566586559,
     "wof:name":"Al Kilh Gharb",
     "wof:parent_id":1092016437,
     "wof:placetype":"locality",

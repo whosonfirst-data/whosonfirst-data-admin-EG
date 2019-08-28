@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":30.242915,
     "lbl:longitude":27.074339,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Marsa Matrooh",
     "meso:diss_me":"Marsa MatroohMarsa Matrooh",
     "meso:gadm_admin":"Marsa Matruh",
@@ -42,6 +44,7 @@
     "mps:longitude":27.074339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Marsa Matruh"
     ],
@@ -49,9 +52,9 @@
         "Marsa Matruh"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"",
     "statoids:as_of_date":"2006-11-11",
     "statoids:capital":"",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1092022115,
-    "wof:lastmodified":1560969115,
+    "wof:lastmodified":1566586457,
     "wof:name":"Marsa Matrooh",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

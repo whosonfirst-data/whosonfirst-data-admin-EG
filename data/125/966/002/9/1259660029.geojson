@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.71333,27.46333,30.75333,27.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nag\u2018 \u1e24asan \u2018Abd el Ri\u1e25\u00eem",
         "Naj\u2018 \u1e28asan \u2018Abd ar Ra\u1e29\u012bm"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259660029,
-    "wof:lastmodified":1537620621,
+    "wof:lastmodified":1566586761,
     "wof:name":"Naj` Hasan `Abd ar Rahim",
     "wof:parent_id":1092015987,
     "wof:placetype":"locality",

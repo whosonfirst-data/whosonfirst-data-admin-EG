@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.00278,30.49,31.04278,30.53",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr Shanaw\u0101n",
         "Shanaw\u00e2n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293678831,
-    "wof:lastmodified":1537620688,
+    "wof:lastmodified":1566585946,
     "wof:name":"Kafr Shanawan",
     "wof:parent_id":1092024543,
     "wof:placetype":"locality",

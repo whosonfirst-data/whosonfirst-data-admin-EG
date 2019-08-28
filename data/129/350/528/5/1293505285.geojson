@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.32725,30.87572,31.36725,30.91572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a \u0627\u0644\u0639\u0627\u0645\u0644"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293505285,
-    "wof:lastmodified":1537620644,
+    "wof:lastmodified":1566585935,
     "wof:name":"Mit al `Amil",
     "wof:parent_id":1092014439,
     "wof:placetype":"locality",

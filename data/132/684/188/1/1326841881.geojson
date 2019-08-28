@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.4664,31.07317,30.5064,31.11317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0647\u0644\u064a\u0644"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326841881,
-    "wof:lastmodified":1537621220,
+    "wof:lastmodified":1566585676,
     "wof:name":"`Izbat Hulayyil",
     "wof:parent_id":1092015921,
     "wof:placetype":"locality",

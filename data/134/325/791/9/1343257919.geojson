@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.72299,27.64681,30.76299,27.68681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Badram\u00e2n",
         "Al Badram\u0101n"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343257919,
-    "wof:lastmodified":1537620938,
+    "wof:lastmodified":1566585778,
     "wof:name":"Al Badraman",
     "wof:parent_id":1092016033,
     "wof:placetype":"locality",

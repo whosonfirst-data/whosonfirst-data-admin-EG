@@ -34,6 +34,7 @@
     ],
     "lbl:latitude":30.835407,
     "lbl:longitude":31.918276,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Sharkia",
     "mps:latitude":30.789176,
     "mps:longitude":31.877405,
@@ -218,9 +219,6 @@
     "name:und_x_variant":[
         "Sharkia"
     ],
-    "name:unk_x_variant":[
-        "El Sharkia"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0627\u0644\u0634\u0631\u0642\u06cc\u06c1"
     ],
@@ -305,9 +303,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"4,180",
     "statoids:area_mi":"1,614",
     "statoids:as_of_date":"2006-11-11",
@@ -333,7 +331,7 @@
         "gp:id":2345236,
         "hasc:id":"EG.SQ",
         "iso:id":"EG-SHR",
-        "qs:id":237283,
+        "qs_pg:id":237283,
         "unlc:id":"EG-SHR",
         "wd:id":"Q31074"
     },
@@ -353,11 +351,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673292,
+    "wof:lastmodified":1566585861,
     "wof:name":"Ash Sharqiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":5340058,
     "wof:population_rank":13,

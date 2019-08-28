@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.47626,31.04169,30.51626,31.08169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0627\u0644\u062d\u0648\u0634"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209817173,
-    "wof:lastmodified":1537621221,
+    "wof:lastmodified":1566586241,
     "wof:name":"`Izbat al Hawsh",
     "wof:parent_id":1092015921,
     "wof:placetype":"locality",

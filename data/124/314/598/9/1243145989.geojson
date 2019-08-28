@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.75604,30.81334,31.79604,30.85334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Rif\u00e2\u2018\u00eey\u00een",
         "\u2018Izbat ar Rif\u0101\u2018\u012by\u012bn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243145989,
-    "wof:lastmodified":1537620866,
+    "wof:lastmodified":1566586649,
     "wof:name":"`Izbat ar Rifa`iyin",
     "wof:parent_id":1092020833,
     "wof:placetype":"locality",

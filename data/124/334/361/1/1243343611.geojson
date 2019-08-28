@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.18781,30.29099,31.22781,30.33099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0634\u0623\u0629 \u0634\u0628\u0631\u0627 \u0647\u0627\u0631\u0633"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243343611,
-    "wof:lastmodified":1537621117,
+    "wof:lastmodified":1566586664,
     "wof:name":"Munsha'at Shubra Haris",
     "wof:parent_id":1092025939,
     "wof:placetype":"locality",

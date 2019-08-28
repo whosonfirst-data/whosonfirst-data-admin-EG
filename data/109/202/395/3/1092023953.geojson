@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":30.80012,
     "lbl:longitude":32.701676,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"North Sinai",
     "meso:diss_me":"RommanahNorth Sinai",
     "meso:gadm_admin":"Bir al-'Abd",
@@ -42,6 +44,7 @@
     "mps:longitude":32.701676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Rommanah"
     ],
@@ -50,7 +53,7 @@
         "Bir al-'Abd"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092023953,
-    "wof:lastmodified":1560969117,
+    "wof:lastmodified":1566586467,
     "wof:name":"Rommanah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

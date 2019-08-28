@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.01333,26.13,32.05333,26.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zim\u0101m Bil\u0101d al M\u0101l Ba\u1e29r\u012b",
         "Bil\u00e2d el M\u00e4l Ba\u1e25ri",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293840107,
-    "wof:lastmodified":1537620823,
+    "wof:lastmodified":1566585910,
     "wof:name":"Bilad al Mal Bahri",
     "wof:parent_id":1092014357,
     "wof:placetype":"locality",

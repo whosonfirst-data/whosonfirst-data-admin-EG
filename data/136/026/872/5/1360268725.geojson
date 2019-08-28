@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.97056,30.77472,32.01056,30.81472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr el-Har\u00e2ysa",
         "Kafr al Har\u0101\u2019isah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360268725,
-    "wof:lastmodified":1537620734,
+    "wof:lastmodified":1566586446,
     "wof:name":"Kafr al Hara'isah",
     "wof:parent_id":1092018091,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.84907,27.62169,30.88907,27.66169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beni \u2018Imran and Nazlet Muhammad Simh\u00e2rt",
         "Ban\u012b \u2018Imr\u0101n wa Nazlat Mu\u1e29ammad Samh\u0101n",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260277159,
-    "wof:lastmodified":1537620831,
+    "wof:lastmodified":1566586308,
     "wof:name":"Bani `Umran wa Nazlat Samhan",
     "wof:parent_id":1092016033,
     "wof:placetype":"locality",

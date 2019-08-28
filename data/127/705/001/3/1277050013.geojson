@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.79278,31.35028,31.83278,31.39028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1277050013,
-    "wof:lastmodified":1536812514,
+    "wof:lastmodified":1566586061,
     "wof:name":"`Ezbet Sholah",
     "wof:parent_id":85671025,
     "wof:placetype":"locality",

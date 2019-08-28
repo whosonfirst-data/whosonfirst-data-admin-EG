@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.78843,31.38729,31.82843,31.42729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Minya",
         "Al Minyah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293893123,
-    "wof:lastmodified":1537620891,
+    "wof:lastmodified":1566585971,
     "wof:name":"Al Minyah",
     "wof:parent_id":1092016349,
     "wof:placetype":"locality",

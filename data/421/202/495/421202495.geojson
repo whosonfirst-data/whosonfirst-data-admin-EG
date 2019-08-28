@@ -10,8 +10,12 @@
     "geom:latitude":25.07573,
     "geom:longitude":34.89181,
     "iso:country":"EG",
+    "lbl:bbox":"34.87181,25.05573,34.91181,25.09573",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0631\u0633\u0649 \u0639\u0644\u0645"
@@ -133,9 +137,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0441\u0430-\u0410\u043b\u0430\u043c"
     ],
-    "name:unk_x_variant":[
-        "Marsa Alam"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u0633\u0627 \u0645\u0627\u0626\u06cc\u06a9\u0631\u0648"
     ],
@@ -175,7 +176,7 @@
     "wof:concordances":{
         "gn:id":352736,
         "gp:id":1525119,
-        "qs:id":223081,
+        "qs_pg:id":223081,
         "wd:id":"Q1001901",
         "wk:page":"Marsa Alam"
     },
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":421202495,
-    "wof:lastmodified":1563236153,
+    "wof:lastmodified":1566586559,
     "wof:name":"Mars\u00e1 Al \u2018alam",
     "wof:parent_id":1092022093,
     "wof:placetype":"locality",

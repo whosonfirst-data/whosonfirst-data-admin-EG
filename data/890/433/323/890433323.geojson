@@ -11,11 +11,15 @@
     "geom:longitude":30.17438,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":41302,
+    "gn:population":41302,
     "iso:country":"EG",
+    "lbl:bbox":"30.15438,30.89018,30.19438,30.93018",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Abu el Mat\u0101m\u012br"
     ],
     "qs:name":"Ab\u016b al Ma\u0163\u0101m\u012br",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":362882,
         "gp:id":1521030,
-        "qs:id":124317
+        "qs_pg:id":124317
     },
     "wof:country":"EG",
     "wof:created":1469051976,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433323,
-    "wof:lastmodified":1505343534,
+    "wof:lastmodified":1566586580,
     "wof:name":"Ab\u016b al Ma\u0163\u0101m\u012br",
     "wof:parent_id":1092014061,
     "wof:placetype":"locality",

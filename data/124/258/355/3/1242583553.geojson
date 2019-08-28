@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.78462,29.3892,30.82462,29.4292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242583553,
-    "wof:lastmodified":1537052761,
+    "wof:lastmodified":1566586632,
     "wof:name":"`Izbat Abu Na`urah",
     "wof:parent_id":1092024457,
     "wof:placetype":"locality",

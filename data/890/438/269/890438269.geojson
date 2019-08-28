@@ -11,17 +11,21 @@
     "geom:longitude":30.55018,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":63310,
+    "gn:population":63310,
     "iso:country":"EG",
+    "lbl:bbox":"30.53018,31.18291,30.57018,31.22291",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0641\u0648\u0629"
     ],
     "name:nno_x_preferred":[
         "Fuwah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fuwa"
     ],
     "qs:name":"Fuwah",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":356806,
         "gp:id":1523692,
-        "qs:id":547871,
+        "qs_pg:id":547871,
         "wk:page":"Fuwah"
     },
     "wof:country":"EG",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890438269,
-    "wof:lastmodified":1564208481,
+    "wof:lastmodified":1566586576,
     "wof:name":"Fuwah",
     "wof:parent_id":1092021045,
     "wof:placetype":"locality",

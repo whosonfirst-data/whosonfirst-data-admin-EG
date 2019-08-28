@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.59676,26.57632,31.63676,26.61632",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Bakh\u00e2yta",
         "Al Bakh\u0101\u2019itah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276609403,
-    "wof:lastmodified":1537620937,
+    "wof:lastmodified":1566586040,
     "wof:name":"Al Bakha'itah",
     "wof:parent_id":1092025063,
     "wof:placetype":"locality",

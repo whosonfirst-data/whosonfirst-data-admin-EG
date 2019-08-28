@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"25.38,29.19667,25.42,29.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ezbet Mishandid el-Keb\u00eera",
         "\u2018Izbat Mushandid al Kab\u012brah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226198881,
-    "wof:lastmodified":1537620760,
+    "wof:lastmodified":1566586815,
     "wof:name":"`Izbat Mushandid al Kabirah",
     "wof:parent_id":1092025019,
     "wof:placetype":"locality",

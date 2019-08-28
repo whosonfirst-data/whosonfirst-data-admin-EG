@@ -10,8 +10,11 @@
     "geom:latitude":30.018594,
     "geom:longitude":31.2455,
     "iso:country":"EG",
+    "lbl:bbox":"31.2405,30.013594,31.2505,30.023594",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,15 +36,15 @@
     "qs:woe_id":22724527,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670999,
         102191573,
         85632581,
-        1092022211,
-        85670999
+        1092022211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724527,
-        "qs:id":959609
+        "qs_pg:id":959609
     },
     "wof:country":"EG",
     "wof:created":1459009356,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":421183057,
-    "wof:lastmodified":1531858493,
+    "wof:lastmodified":1566586571,
     "wof:name":"Ain As-sira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":31.27105,
     "geom:longitude":30.78665,
     "iso:country":"EG",
+    "lbl:bbox":"30.76665,31.25105,30.80665,31.29105",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u064a \u0633\u0627\u0644\u0645"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Markaz S\u012bd\u012b S\u0101lim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u012bd\u012b S\u0101lim"
     ],
     "qs:gn_country":"EG",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":348112,
         "gp:id":1526360,
-        "qs:id":124302,
+        "qs_pg:id":124302,
         "wd:id":"Q12217667"
     },
     "wof:country":"EG",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421195825,
-    "wof:lastmodified":1563236145,
+    "wof:lastmodified":1566586556,
     "wof:name":"\u0645\u0631\u0643\u0632 \u0633\u064a\u062f\u064a \u0633\u0627\u0644\u0645",
     "wof:parent_id":1092024971,
     "wof:placetype":"locality",

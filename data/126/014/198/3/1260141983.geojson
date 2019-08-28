@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.71804,31.32626,31.75804,31.36626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u0631\u062d\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260141983,
-    "wof:lastmodified":1537620846,
+    "wof:lastmodified":1566586288,
     "wof:name":"At Tarhah",
     "wof:parent_id":1092020865,
     "wof:placetype":"locality",

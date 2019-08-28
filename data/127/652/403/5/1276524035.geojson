@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.20981,27.03546,31.24981,27.07546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Z\u00e2wya",
         "Ez Z\u0101wiya",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276524035,
-    "wof:lastmodified":1537620839,
+    "wof:lastmodified":1566586101,
     "wof:name":"Az Zawiyah",
     "wof:parent_id":1092014633,
     "wof:placetype":"locality",

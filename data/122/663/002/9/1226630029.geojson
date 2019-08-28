@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.68,27.93,30.72,27.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Sul\u1e6d\u00e2n \u1e24asan",
         "As Sul\u0163\u0101n \u1e28asan"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226630029,
-    "wof:lastmodified":1537620849,
+    "wof:lastmodified":1566586892,
     "wof:name":"As Sultan Hasan",
     "wof:parent_id":1092014221,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.46333,30.91333,29.50333,30.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dauw\u00e2r \u2018Abd el Q\u00e2dir Q\u00e2sim",
         "Daww\u0101r \u2018Abd al Q\u0101dir Q\u0101sim"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225814141,
-    "wof:lastmodified":1537620813,
+    "wof:lastmodified":1566586850,
     "wof:name":"Dawwar `Abd al Qadir Qasim",
     "wof:parent_id":1092015739,
     "wof:placetype":"locality",

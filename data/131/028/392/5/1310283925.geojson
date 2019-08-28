@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.90111,30.79778,31.94111,30.83778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ezbet \u1e24usein Bey Mu\u1e63\u1e6dafa Khal\u00eel",
         "\u2018Izbat \u1e28usayn Bey Mu\u015f\u0163af\u00e1 Khal\u012bl",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310283925,
-    "wof:lastmodified":1537620762,
+    "wof:lastmodified":1566586386,
     "wof:name":"`Izbat Husayn Bey Mustafa Khalil",
     "wof:parent_id":1092018091,
     "wof:placetype":"locality",

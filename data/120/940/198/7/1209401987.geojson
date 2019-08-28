@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.17843,30.34757,31.21843,30.38757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0639\u0644\u0648\u0627\u0646"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209401987,
-    "wof:lastmodified":1537620698,
+    "wof:lastmodified":1566586170,
     "wof:name":"Kafr `Ulwan",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

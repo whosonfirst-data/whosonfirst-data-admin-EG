@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.81517,31.39241,31.85517,31.43241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-\u2018Aw\u00e2dl\u00eeya",
         "Al \u2018Aw\u0101dil\u012byah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293593205,
-    "wof:lastmodified":1537620941,
+    "wof:lastmodified":1566585931,
     "wof:name":"Al `Awadiliyah",
     "wof:parent_id":1092016349,
     "wof:placetype":"locality",

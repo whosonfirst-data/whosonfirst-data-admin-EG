@@ -10,8 +10,11 @@
     "geom:latitude":31.18056,
     "geom:longitude":29.88778,
     "iso:country":"EG",
+    "lbl:bbox":"29.88278,31.17556,29.89278,31.18556",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627 \u0627\u0644\u0628\u0635\u0644"
@@ -19,7 +22,7 @@
     "name:ara_x_variant":[
         "\u0642\u0633\u0645 \u0645\u064a\u0646\u0627 \u0627\u0644\u0628\u0635\u0644"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minyet el Ba\u1e63al"
     ],
     "qs:gn_country":"EG",
@@ -42,16 +45,16 @@
     "qs:woe_id":1525152,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85671041,
         102191573,
         85632581,
-        1092018161,
-        85671041
+        1092018161
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":352465,
         "gp:id":1525152,
-        "qs:id":267290
+        "qs_pg:id":267290
     },
     "wof:country":"EG",
     "wof:created":1459008693,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421166533,
-    "wof:lastmodified":1531858292,
+    "wof:lastmodified":1566586555,
     "wof:name":"Minet el Bassal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

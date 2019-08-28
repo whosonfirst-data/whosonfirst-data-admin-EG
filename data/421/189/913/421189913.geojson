@@ -10,8 +10,12 @@
     "geom:latitude":30.104575,
     "geom:longitude":32.569828,
     "iso:country":"EG",
+    "lbl:bbox":"32.5498275,30.0845755,32.5898275,30.1245755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1522319,
-        "qs:id":1118023
+        "qs_pg:id":1118023
     },
     "wof:country":"EG",
     "wof:created":1459009640,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421189913,
-    "wof:lastmodified":1500036733,
+    "wof:lastmodified":1566586564,
     "wof:name":"Ash-Shallufa",
     "wof:parent_id":1092017827,
     "wof:placetype":"locality",

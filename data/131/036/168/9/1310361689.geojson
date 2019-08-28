@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.56516,26.12111,32.60516,26.16111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El \u1e6caw\u00e2b\u00eeya",
         "A\u0163 \u0162aw\u0101b\u012byah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310361689,
-    "wof:lastmodified":1537620846,
+    "wof:lastmodified":1566586357,
     "wof:name":"At Tawabiyah",
     "wof:parent_id":1092023527,
     "wof:placetype":"locality",

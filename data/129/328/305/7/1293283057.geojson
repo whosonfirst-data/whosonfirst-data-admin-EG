@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.28194,29.70889,31.32194,29.74889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Shurafa",
         "Ash Shuraf\u0101"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293283057,
-    "wof:lastmodified":1537620858,
+    "wof:lastmodified":1566585978,
     "wof:name":"Ash Shurafa",
     "wof:parent_id":1092019453,
     "wof:placetype":"locality",

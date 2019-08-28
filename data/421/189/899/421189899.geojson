@@ -10,8 +10,12 @@
     "geom:latitude":30.500159,
     "geom:longitude":32.324266,
     "iso:country":"EG",
+    "lbl:bbox":"32.304266,30.480159,32.344266,30.520159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Serapeum"
@@ -129,7 +133,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1526204,
-        "qs:id":1118069,
+        "qs_pg:id":1118069,
         "wd:id":"Q281132"
     },
     "wof:country":"EG",
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":421189899,
-    "wof:lastmodified":1563236169,
+    "wof:lastmodified":1566586565,
     "wof:name":"Sarapeum",
     "wof:parent_id":1092020945,
     "wof:placetype":"locality",

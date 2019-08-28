@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.83205,31.19515,30.87205,31.23515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u062a\u064a\u062f\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225918267,
-    "wof:lastmodified":1537620683,
+    "wof:lastmodified":1566586858,
     "wof:name":"Kafr Tidah",
     "wof:parent_id":1092024971,
     "wof:placetype":"locality",

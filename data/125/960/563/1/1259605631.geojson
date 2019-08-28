@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.08485,30.15583,31.12485,30.19583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al \u1e28is\u0101n\u012by\u012bn"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259605631,
-    "wof:lastmodified":1537620916,
+    "wof:lastmodified":1566586769,
     "wof:name":"Al Hisaniyin",
     "wof:parent_id":1092020631,
     "wof:placetype":"locality",

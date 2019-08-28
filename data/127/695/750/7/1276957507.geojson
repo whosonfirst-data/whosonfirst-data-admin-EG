@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.94583,30.78694,31.98583,30.82694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276957507,
-    "wof:lastmodified":1536938100,
+    "wof:lastmodified":1566586052,
     "wof:name":"Al Ikhyiwwah",
     "wof:parent_id":1092018091,
     "wof:placetype":"locality",

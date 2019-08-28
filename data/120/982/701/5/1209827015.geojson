@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.16224,31.08501,30.20224,31.12501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0627\u0646\u064a\u0629 \u0644\u0648\u0642\u064a\u0646"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209827015,
-    "wof:lastmodified":1537620594,
+    "wof:lastmodified":1566586178,
     "wof:name":"Kubaniyat Luqin",
     "wof:parent_id":1092021541,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.29955,30.49609,31.33955,30.53609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u062e\u064a\u0631\u064a"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309979885,
-    "wof:lastmodified":1537621158,
+    "wof:lastmodified":1566586518,
     "wof:name":"`Izbat Khayri",
     "wof:parent_id":1092022403,
     "wof:placetype":"locality",

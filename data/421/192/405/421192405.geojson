@@ -10,8 +10,12 @@
     "geom:latitude":31.01252,
     "geom:longitude":29.80858,
     "iso:country":"EG",
+    "lbl:bbox":"29.78858,30.99252,29.82858,31.03252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629"
@@ -34,7 +38,7 @@
     "name:fas_x_variant":[
         "Al Maks"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mary\u016b\u0163"
     ],
     "qs:gn_country":"EG",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":361579,
         "gp:id":1521235,
-        "qs:id":1168116,
+        "qs_pg:id":1168116,
         "wd:id":"Q626453"
     },
     "wof:country":"EG",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421192405,
-    "wof:lastmodified":1563236144,
+    "wof:lastmodified":1566586556,
     "wof:name":"Al Amiriyah",
     "wof:parent_id":1092016715,
     "wof:placetype":"locality",

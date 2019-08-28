@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.54219,30.91744,30.58219,30.95744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e62af\u1e6d el-Mul\u00fbk",
         "\u1e62af\u1e6d el-Mil\u00fbk",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343269461,
-    "wof:lastmodified":1537620590,
+    "wof:lastmodified":1566585832,
     "wof:name":"Saft al Muluk",
     "wof:parent_id":1092020749,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.74104,31.33478,31.78104,31.37478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Nagg\u00e2r\u00een",
         "An Najj\u0101r\u012bn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209990931,
-    "wof:lastmodified":1537620877,
+    "wof:lastmodified":1566586158,
     "wof:name":"An Najjarin",
     "wof:parent_id":1092020865,
     "wof:placetype":"locality",

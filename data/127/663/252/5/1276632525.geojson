@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.21847,30.28781,31.25847,30.32781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "N\u0101m\u016bl"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1276632525,
-    "wof:lastmodified":1564207858,
+    "wof:lastmodified":1566586105,
     "wof:name":"Namul",
     "wof:parent_id":1092025939,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.0165,30.16452,31.0565,30.20452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u0627\u064a\u0629"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259581017,
-    "wof:lastmodified":1537620753,
+    "wof:lastmodified":1566586769,
     "wof:name":"Jizzayah",
     "wof:parent_id":1092020631,
     "wof:placetype":"locality",

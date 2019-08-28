@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.70486,27.44727,30.74486,27.48727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qabil el Gahma",
         "\u2018Ezbet Mihanni Gum\u2018a",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343537663,
-    "wof:lastmodified":1537620619,
+    "wof:lastmodified":1566585728,
     "wof:name":"Naj` Muhanni' Jum`ah",
     "wof:parent_id":1092015987,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.43,26.89667,31.47,26.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El \u1e24ima",
         "Al \u1e28im\u0101\u2019"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260346729,
-    "wof:lastmodified":1537620917,
+    "wof:lastmodified":1566586326,
     "wof:name":"Al Hima'",
     "wof:parent_id":1092025329,
     "wof:placetype":"locality",

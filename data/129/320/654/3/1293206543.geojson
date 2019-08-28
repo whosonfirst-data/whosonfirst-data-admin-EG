@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.02722,29.04944,31.06722,29.08944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Daw\u00e2lta",
         "Ad Daw\u0101li\u0163ah",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293206543,
-    "wof:lastmodified":1537620953,
+    "wof:lastmodified":1566585961,
     "wof:name":"Ad Dawaltah",
     "wof:parent_id":1092015341,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":27.18998,
     "geom:longitude":31.179947,
     "iso:country":"EG",
+    "lbl:bbox":"31.159946654,27.1699798777,31.199946654,27.2099798777",
     "lbl:latitude":27.18998,
     "lbl:longitude":31.179947,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u12a0\u1235\u12e9\u1275"
     ],
@@ -331,7 +335,7 @@
         }
     ],
     "wof:id":1141909241,
-    "wof:lastmodified":1563236643,
+    "wof:lastmodified":1566586925,
     "wof:name":"Asyut",
     "wof:parent_id":1092017669,
     "wof:placetype":"locality",

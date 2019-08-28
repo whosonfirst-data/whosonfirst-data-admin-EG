@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.8092,26.04677,32.8492,26.08677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nag\u2018 Gibril",
         "Naj\u2018 Jibr\u012bl"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310173925,
-    "wof:lastmodified":1537620628,
+    "wof:lastmodified":1566586385,
     "wof:name":"Naj` Jibril",
     "wof:parent_id":1092023115,
     "wof:placetype":"locality",

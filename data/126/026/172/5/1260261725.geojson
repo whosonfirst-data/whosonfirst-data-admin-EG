@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.4025,30.48222,31.4425,30.52222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr Sal\u00e2ma Bish\u00e2ra",
         "Kafr Sal\u0101mah Bish\u0101rah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260261725,
-    "wof:lastmodified":1537620690,
+    "wof:lastmodified":1566586318,
     "wof:name":"Kafr Salamah Bisharah",
     "wof:parent_id":1092022403,
     "wof:placetype":"locality",

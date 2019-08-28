@@ -10,8 +10,12 @@
     "geom:latitude":31.14429,
     "geom:longitude":29.84646,
     "iso:country":"EG",
+    "lbl:bbox":"29.82646,31.12429,29.86646,31.16429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0627\u0643\u0633"
@@ -32,7 +36,7 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u0645\u06a9\u0633"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mex"
     ],
     "qs:gn_country":"EG",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":360805,
         "gp:id":1521768,
-        "qs:id":1171450,
+        "qs_pg:id":1171450,
         "wd:id":"Q4518631"
     },
     "wof:country":"EG",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421192679,
-    "wof:lastmodified":1563236144,
+    "wof:lastmodified":1566586556,
     "wof:name":"Al Maks",
     "wof:parent_id":1092022499,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.86333,24.09667,32.90333,24.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nag\u2018 el Shid\u00eed",
         "Naj\u2018 ash Shad\u012bd"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209078755,
-    "wof:lastmodified":1537620622,
+    "wof:lastmodified":1566586132,
     "wof:name":"Naj` ash Shadid",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

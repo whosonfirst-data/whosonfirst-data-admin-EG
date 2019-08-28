@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.69667,30.69667,31.73667,30.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr Abu Q\u00fbra",
         "Kafr Ab\u016b Q\u016brah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310384231,
-    "wof:lastmodified":1537620746,
+    "wof:lastmodified":1566586351,
     "wof:name":"Kafr Abu Qurah",
     "wof:parent_id":1092014175,
     "wof:placetype":"locality",

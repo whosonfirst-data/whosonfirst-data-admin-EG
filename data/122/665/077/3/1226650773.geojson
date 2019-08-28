@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.77018,30.87049,30.81018,30.91049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226650773,
-    "wof:lastmodified":1536851048,
+    "wof:lastmodified":1566586903,
     "wof:name":"Daqran",
     "wof:parent_id":1092021623,
     "wof:placetype":"locality",

@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":30.693029,
     "lbl:longitude":29.77473,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Alexandria",
     "meso:diss_me":"Borg El-Arab CityAlexandria",
     "meso:gadm_admin":"Unorganized in Al Iskandariyah",
@@ -42,6 +44,7 @@
     "mps:longitude":29.77473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Borg El-Arab City"
     ],
@@ -50,7 +53,7 @@
         "Unorganized in Al Iskandariyah"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632581,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092015695,
-    "wof:lastmodified":1560969120,
+    "wof:lastmodified":1566586482,
     "wof:name":"Borg El-Arab City",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":31.73514,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":61730,
+    "gn:population":61730,
     "iso:country":"EG",
+    "lbl:bbox":"31.71514,30.59618,31.75514,30.63618",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u064a\u0646"
     ],
@@ -42,7 +46,7 @@
     "name:rus_x_variant":[
         "\u042d\u043b\u044c-\u041a\u0443\u0440\u0435\u0439\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El-Qurein"
     ],
     "qs:name":"Al Qurayn",
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":360542,
         "gp:id":56446798,
-        "qs:id":547874,
+        "qs_pg:id":547874,
         "wd:id":"Q13634887"
     },
     "wof:country":"EG",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890422287,
-    "wof:lastmodified":1563236185,
+    "wof:lastmodified":1566586573,
     "wof:name":"Al Qurayn",
     "wof:parent_id":1092019105,
     "wof:placetype":"locality",

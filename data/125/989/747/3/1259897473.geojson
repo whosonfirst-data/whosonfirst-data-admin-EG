@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.26356,31.33487,31.30356,31.37487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0662\u0661"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259897473,
-    "wof:lastmodified":1537621155,
+    "wof:lastmodified":1566586781,
     "wof:name":"Qaryah Wahid wa `Ishrun",
     "wof:parent_id":1092015611,
     "wof:placetype":"locality",

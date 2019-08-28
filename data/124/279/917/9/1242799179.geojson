@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.26515,30.85001,32.30515,30.89001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ezbet Sul\u00eeman Marz\u00fbq",
         "\u2018Izbat Sul\u012bman Marz\u016bq"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242799179,
-    "wof:lastmodified":1537620784,
+    "wof:lastmodified":1566586676,
     "wof:name":"`Izbat Suliman Marzuq",
     "wof:parent_id":1092019071,
     "wof:placetype":"locality",

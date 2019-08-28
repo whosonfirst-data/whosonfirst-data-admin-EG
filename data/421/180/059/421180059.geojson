@@ -10,8 +10,11 @@
     "geom:latitude":30.085842,
     "geom:longitude":31.247863,
     "iso:country":"EG",
+    "lbl:bbox":"31.242863,30.080842,31.252863,30.090842",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,15 +36,15 @@
     "qs:woe_id":22724483,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670999,
         102191573,
         85632581,
-        1092019499,
-        85670999
+        1092019499
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724483,
-        "qs:id":533931
+        "qs_pg:id":533931
     },
     "wof:country":"EG",
     "wof:created":1459009243,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":421180059,
-    "wof:lastmodified":1531858452,
+    "wof:lastmodified":1566586560,
     "wof:name":"Munyat As-sirag",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

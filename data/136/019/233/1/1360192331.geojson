@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.46333,30.91333,30.50333,30.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abu \u1e24um\u00e2r el-Kebir",
         "Ab\u016b \u1e28im\u0101r al Kab\u012br"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360192331,
-    "wof:lastmodified":1537620960,
+    "wof:lastmodified":1566586449,
     "wof:name":"Abu Himar al Kabir",
     "wof:parent_id":1092015921,
     "wof:placetype":"locality",

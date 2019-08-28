@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.51333,26.61333,31.55333,26.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Samarna",
         "As Sam\u0101rinah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276730675,
-    "wof:lastmodified":1537620853,
+    "wof:lastmodified":1566586023,
     "wof:name":"As Samarinah",
     "wof:parent_id":1092018399,
     "wof:placetype":"locality",

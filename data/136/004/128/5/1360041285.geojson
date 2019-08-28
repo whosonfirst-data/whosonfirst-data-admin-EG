@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.77413,26.50884,31.81413,26.54884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Baiy\u00e2d\u00eeya Bil N\u00e2zir",
         "Al Bayy\u0101\u1e11\u012byah bi an N\u0101z\u0327ir",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360041285,
-    "wof:lastmodified":1537620932,
+    "wof:lastmodified":1566586451,
     "wof:name":"Al Bayyadiyah bin Nazir",
     "wof:parent_id":1092018599,
     "wof:placetype":"locality",

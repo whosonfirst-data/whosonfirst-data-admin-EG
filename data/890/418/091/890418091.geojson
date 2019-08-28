@@ -11,11 +11,15 @@
     "geom:longitude":31.3776,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":45798,
+    "gn:population":45798,
     "iso:country":"EG",
+    "lbl:bbox":"31.3576,30.34056,31.3976,30.38056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Masht\u00fbl el-S\u00fbq"
     ],
     "qs:name":"Masht\u016bl as S\u016bq",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":352679,
         "gp:id":56447518,
-        "qs:id":547861
+        "qs_pg:id":547861
     },
     "wof:country":"EG",
     "wof:created":1469051234,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890418091,
-    "wof:lastmodified":1505343442,
+    "wof:lastmodified":1566586577,
     "wof:name":"Masht\u016bl as S\u016bq",
     "wof:parent_id":1092022165,
     "wof:placetype":"locality",

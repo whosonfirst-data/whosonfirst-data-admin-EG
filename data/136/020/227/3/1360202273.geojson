@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.54586,31.15977,31.58586,31.19977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0633\u0627\u0637 \u0643\u0631\u064a\u0645 \u0627\u0644\u062f\u064a\u0646"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1360202273,
-    "wof:lastmodified":1537620819,
+    "wof:lastmodified":1566586433,
     "wof:name":"Bisat Karim ad Din",
     "wof:parent_id":1092024759,
     "wof:placetype":"locality",

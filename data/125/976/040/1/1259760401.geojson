@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.33328,30.15781,31.37328,30.19781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Kalag",
         "El-Qalag",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259760401,
-    "wof:lastmodified":1537620887,
+    "wof:lastmodified":1566586750,
     "wof:name":"Al Qalaj",
     "wof:parent_id":1092018143,
     "wof:placetype":"locality",

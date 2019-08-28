@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.74555,26.3876,31.78555,26.4276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aul\u00e2d \u2018Ali",
         "Awl\u0101d \u2018Al\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277145223,
-    "wof:lastmodified":1537620844,
+    "wof:lastmodified":1566586057,
     "wof:name":"Awlad `Ali",
     "wof:parent_id":1092018599,
     "wof:placetype":"locality",

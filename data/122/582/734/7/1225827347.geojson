@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.86333,23.66333,32.90333,23.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nag\u2018 Qirt\u00e2si",
         "Nag\u2018 Qirt\u0101s",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225827347,
-    "wof:lastmodified":1537620619,
+    "wof:lastmodified":1566586917,
     "wof:name":"Naj` Qirtasi",
     "wof:parent_id":1092022915,
     "wof:placetype":"locality",

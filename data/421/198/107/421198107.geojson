@@ -10,10 +10,14 @@
     "geom:latitude":24.93857,
     "geom:longitude":32.89839,
     "iso:country":"EG",
+    "lbl:bbox":"32.87839,24.91857,32.91839,24.95857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Er Ridis\u012bya Bahari"
     ],
     "qs:gn_country":"EG",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":360160,
         "gp:id":1522062,
-        "qs:id":1028477
+        "qs_pg:id":1028477
     },
     "wof:country":"EG",
     "wof:created":1459009936,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421198107,
-    "wof:lastmodified":1501214184,
+    "wof:lastmodified":1566586567,
     "wof:name":"Ar Radisiyah Bahri",
     "wof:parent_id":1092016437,
     "wof:placetype":"locality",

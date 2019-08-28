@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.26052,30.18638,31.30052,30.22638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Ga\u2018\u00e2fra",
         "Al Ja\u2018\u0101firah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343648631,
-    "wof:lastmodified":1537620912,
+    "wof:lastmodified":1566585738,
     "wof:name":"Al Ja`afirah",
     "wof:parent_id":1092024593,
     "wof:placetype":"locality",

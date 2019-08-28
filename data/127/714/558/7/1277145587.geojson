@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.49181,25.47387,32.53181,25.51387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Dib\u00e2b\u00eeya",
         "Ed Dab\u0101b\u012bya",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277145587,
-    "wof:lastmodified":1537620955,
+    "wof:lastmodified":1566586056,
     "wof:name":"Ad Dababiyah",
     "wof:parent_id":1092020721,
     "wof:placetype":"locality",

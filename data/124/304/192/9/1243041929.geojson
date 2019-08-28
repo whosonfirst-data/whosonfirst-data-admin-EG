@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.90423,31.19293,30.94423,31.23293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0634\u0623\u0629 \u0633\u0644\u0627\u0645\u0629"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243041929,
-    "wof:lastmodified":1537620649,
+    "wof:lastmodified":1566586654,
     "wof:name":"Minsha'at Salamah",
     "wof:parent_id":1092019361,
     "wof:placetype":"locality",

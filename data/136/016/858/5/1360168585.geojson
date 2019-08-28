@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.76175,27.96897,30.80175,28.00897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00f4m el Mahra\u1e63",
         "Kawm al Ma\u1e29ra\u015f al Ba\u1e29r\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360168585,
-    "wof:lastmodified":1537620678,
+    "wof:lastmodified":1566586437,
     "wof:name":"Kawm al Mahras al Bahri",
     "wof:parent_id":1092014221,
     "wof:placetype":"locality",

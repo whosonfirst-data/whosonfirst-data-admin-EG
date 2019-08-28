@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.57985,30.99826,31.61985,31.03826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "M\u012bt \u2018Adl\u0101n"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343862403,
-    "wof:lastmodified":1537620644,
+    "wof:lastmodified":1566585839,
     "wof:name":"Mit `Adlan",
     "wof:parent_id":1092018395,
     "wof:placetype":"locality",

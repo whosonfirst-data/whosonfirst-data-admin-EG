@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.30464,31.41163,31.34464,31.45163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0644\u0628\u0634\u0648"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226260447,
-    "wof:lastmodified":1537620599,
+    "wof:lastmodified":1566586816,
     "wof:name":"Qalabshu",
     "wof:parent_id":1092015611,
     "wof:placetype":"locality",

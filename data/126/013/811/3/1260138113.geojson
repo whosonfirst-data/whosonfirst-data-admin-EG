@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.69667,26.54667,31.73667,26.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Ezba and El \u2018Arab",
         "Al \u2018Izbah wa al \u2018Arab"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260138113,
-    "wof:lastmodified":1537620913,
+    "wof:lastmodified":1566586287,
     "wof:name":"Al `Izbah wa al `Arab",
     "wof:parent_id":1092014557,
     "wof:placetype":"locality",

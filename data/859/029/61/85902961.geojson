@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3468405.432387,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.230375,30.00805,31.230375,30.00805",
     "geom:latitude":30.00805,
     "geom:longitude":31.230375,
     "gn:id":"",
     "iso:country":"EG",
+    "lbl:bbox":"31.225375,30.00305,31.235375,30.01305",
     "lbl:latitude":30.00805,
     "lbl:longitude":31.230375,
+    "lbl:max_zoom":18.0,
     "mps:latitude":30.013882,
     "mps:longitude":31.233027,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
         "Masr al-Qadimah",
         "Mi\u015fr al Qad\u012bmah",
         "Old Cairo"
-    ],
-    "name:unk_x_variant":[
-        "El Fostat"
     ],
     "qs:gn_adm0_cc":"EG",
     "qs:gn_id":0,
@@ -67,17 +66,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670999,
         102191573,
         85632581,
-        1092022211,
-        85670999
+        1092022211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1525281,
-        "qs:id":891554,
         "qs_pg:id":891554
     },
     "wof:country":"EG",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531935969,
+    "wof:lastmodified":1566585849,
     "wof:name":"El Fostat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

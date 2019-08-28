@@ -11,10 +11,14 @@
     "geom:longitude":31.58801,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":43432,
+    "gn:population":43432,
     "iso:country":"EG",
+    "lbl:bbox":"31.56801,30.6513,31.60801,30.6913",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "Hihy\u0101"
     ],
@@ -51,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u0445\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rehia"
     ],
     "qs:name":"Hihy\u0101",
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":355939,
         "gp:id":56447059,
-        "qs:id":547867,
+        "qs_pg:id":547867,
         "wd:id":"Q4165655",
         "wk:page":"Hihya"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890422279,
-    "wof:lastmodified":1563236186,
+    "wof:lastmodified":1566586574,
     "wof:name":"Hihy\u0101",
     "wof:parent_id":1092021319,
     "wof:placetype":"locality",

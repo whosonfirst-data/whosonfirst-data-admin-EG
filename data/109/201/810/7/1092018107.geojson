@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":30.732788,
     "lbl:longitude":31.551111,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sharkia",
     "meso:diss_me":"El-IbrahimeyahSharkia",
     "meso:gadm_admin":"Al-Ibrahimiyah",
@@ -42,6 +44,7 @@
     "mps:longitude":31.551111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Al-Ibrahimiyah"
     ],
@@ -50,9 +53,9 @@
         "Al-Ibrahimiyah"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"",
     "statoids:as_of_date":"2006-11-11",
     "statoids:capital":"",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1092018107,
-    "wof:lastmodified":1560969122,
+    "wof:lastmodified":1566586487,
     "wof:name":"El-Ibrahimeyah",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

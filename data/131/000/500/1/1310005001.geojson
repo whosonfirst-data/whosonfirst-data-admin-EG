@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.27291,30.97915,31.31291,31.01915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "M\u012bt \u2018Ass\u0101s"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310005001,
-    "wof:lastmodified":1537620640,
+    "wof:lastmodified":1566586356,
     "wof:name":"Mit `Assas",
     "wof:parent_id":1092024253,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.8639,30.31552,30.9039,30.35552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u062a\u0631\u064a\u0633"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243157597,
-    "wof:lastmodified":1537620847,
+    "wof:lastmodified":1566586644,
     "wof:name":"Atris",
     "wof:parent_id":1092020631,
     "wof:placetype":"locality",

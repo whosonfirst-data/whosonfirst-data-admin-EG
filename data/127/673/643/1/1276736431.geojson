@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.77981,31.02167,31.81981,31.06167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0627\u0644\u062d\u0646\u0634"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276736431,
-    "wof:lastmodified":1537621103,
+    "wof:lastmodified":1566586021,
     "wof:name":"`Izbat al Hanash",
     "wof:parent_id":1092015105,
     "wof:placetype":"locality",

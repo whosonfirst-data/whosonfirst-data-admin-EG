@@ -9,14 +9,16 @@
     "geom:bbox":"29.934092,31.218462,29.934092,31.218462",
     "geom:latitude":31.218462,
     "geom:longitude":29.934092,
-    "gn:gn_country":"EG",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"EG",
+    "gn:fcode":"PPLX",
     "gn:latitude":31.22365,
     "gn:longitude":29.94156,
+    "gn:population":0,
     "iso:country":"EG",
+    "lbl:bbox":"29.929092,31.213462,29.939092,31.223462",
     "lbl:latitude":31.218462,
     "lbl:longitude":29.934092,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.219056,
     "mps:longitude":29.930802,
     "mz:hierarchy_label":0,
@@ -56,10 +58,6 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u062c\u0627\u0628\u0631"
-    ],
-    "name:unk_x_variant":[
-        "S\u00eedi G\u00e2bir",
-        "\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631"
     ],
     "qs:gn_adm0_cc":"EG",
     "qs:gn_fcode":"PPLX",
@@ -108,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85671041,
         102191573,
@@ -119,7 +117,6 @@
     "wof:concordances":{
         "gn:id":348403,
         "gp:id":1526359,
-        "qs:id":1081058,
         "qs_pg:id":1081058,
         "wd:id":"Q2169497"
     },
@@ -139,7 +136,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563235275,
+    "wof:lastmodified":1566585850,
     "wof:name":"\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

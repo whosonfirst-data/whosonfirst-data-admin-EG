@@ -9,15 +9,18 @@
     "geom:bbox":"32.94626,24.47669,32.94626,24.47669",
     "geom:latitude":24.47669,
     "geom:longitude":32.94626,
-    "gn:gn_country":"EG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":59787,
+    "gn:country":"EG",
+    "gn:fcode":"PPL",
     "gn:population":59787,
     "iso:country":"EG",
+    "lbl:bbox":"32.92626,24.45669,32.96626,24.49669",
     "lbl:latitude":24.47669,
     "lbl:longitude":32.94626,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645 \u0623\u0645\u0628\u0648"
@@ -112,7 +115,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c-\u041e\u043c\u0431\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Omboi"
     ],
     "name:urd_x_preferred":[
@@ -133,7 +136,7 @@
     "qs_pg:qs_id":80216,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":1125781609,
-    "wof:lastmodified":1563236218,
+    "wof:lastmodified":1566586587,
     "wof:name":"Kawm Umb\u016b",
     "wof:parent_id":1092021927,
     "wof:placetype":"locality",

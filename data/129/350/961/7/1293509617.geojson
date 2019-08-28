@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.18,29.93,31.22,29.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet el-Ashtar",
         "Nazlat al Ash\u0163ar"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293509617,
-    "wof:lastmodified":1537620614,
+    "wof:lastmodified":1566585935,
     "wof:name":"Nazlat al Ashtar",
     "wof:parent_id":1092021173,
     "wof:placetype":"locality",

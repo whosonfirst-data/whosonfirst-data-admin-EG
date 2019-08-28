@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.6437,30.90938,31.6837,30.94938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0639\u0644\u0648\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293501523,
-    "wof:lastmodified":1537621128,
+    "wof:lastmodified":1566585935,
     "wof:name":"Al Ma`alwah",
     "wof:parent_id":1092025381,
     "wof:placetype":"locality",

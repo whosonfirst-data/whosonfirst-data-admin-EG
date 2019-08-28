@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.24667,29.79667,31.28667,29.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr G\u00e2bir",
         "Kafr J\u0101bir"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293385501,
-    "wof:lastmodified":1537620697,
+    "wof:lastmodified":1566585869,
     "wof:name":"Kafr Jabir",
     "wof:parent_id":1092017019,
     "wof:placetype":"locality",

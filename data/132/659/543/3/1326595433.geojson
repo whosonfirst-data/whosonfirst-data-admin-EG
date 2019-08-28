@@ -23,13 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.98833,31.15139,32.02833,31.19139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "El-\u1e0cuheir"
     ],
     "name:und_x_variant":[
-        "El-\u1e0cuheir",
         "A\u1e11 \u1e10uhayr"
     ],
     "src:geom":"geonames",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326595433,
-    "wof:lastmodified":1537620951,
+    "wof:lastmodified":1566585624,
     "wof:name":"Ad Duhayr",
     "wof:parent_id":1092018397,
     "wof:placetype":"locality",

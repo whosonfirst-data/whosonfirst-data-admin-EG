@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.18,30.89667,30.22,30.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Izbat \u2018Abd al \u1e28am\u012bd Khayr",
         "Nag\u2018 Tur\u00fbga",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242579433,
-    "wof:lastmodified":1537620618,
+    "wof:lastmodified":1566586618,
     "wof:name":"Naj` Turujah",
     "wof:parent_id":1092014061,
     "wof:placetype":"locality",

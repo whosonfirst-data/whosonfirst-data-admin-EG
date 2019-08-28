@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.025,30.51694,32.065,30.55694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ezbet Daw\u00fbd Suliman",
         "\u2018Izbat Daw\u016bd Sulim\u0101n"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293586151,
-    "wof:lastmodified":1537620798,
+    "wof:lastmodified":1566585946,
     "wof:name":"`Izbat Dawud Suliman",
     "wof:parent_id":1092023021,
     "wof:placetype":"locality",

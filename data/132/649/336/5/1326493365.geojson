@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.87478,28.76732,30.91478,28.80732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Qudd\u00e2bi",
         "Al Qa\u1e11\u1e11\u0101b\u012b",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326493365,
-    "wof:lastmodified":1537620888,
+    "wof:lastmodified":1566585664,
     "wof:name":"Al Quddabi",
     "wof:parent_id":1092017627,
     "wof:placetype":"locality",

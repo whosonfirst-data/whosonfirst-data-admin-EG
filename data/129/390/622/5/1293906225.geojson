@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.74802,30.94124,30.78802,30.98124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sa\u00efs"
     ],
@@ -137,7 +141,6 @@
         "\u0421\u0430\u0457\u0441"
     ],
     "name:und_x_variant":[
-        "Sais",
         "\u1e62a el-\u1e24agar",
         "\u1e62\u00e2n el-\u1e24agar",
         "\u015e\u0101 al \u1e28ajar"
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1293906225,
-    "wof:lastmodified":1564207582,
+    "wof:lastmodified":1566585896,
     "wof:name":"Sa al Hajar",
     "wof:parent_id":1092015375,
     "wof:placetype":"locality",

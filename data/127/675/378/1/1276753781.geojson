@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.92085,30.7045,30.96085,30.7445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Bind\u00e2r\u00eeya",
         "Al Bind\u0101r\u012byah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276753781,
-    "wof:lastmodified":1537620932,
+    "wof:lastmodified":1566586004,
     "wof:name":"Al Bindariyah",
     "wof:parent_id":1092025145,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.9675,31.5675,31.0075,31.6075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr Qidra",
         "Kafr Qidrah"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226206839,
-    "wof:lastmodified":1537620691,
+    "wof:lastmodified":1566586823,
     "wof:name":"Kafr Qidrah",
     "wof:parent_id":85671057,
     "wof:placetype":"locality",

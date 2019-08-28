@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.25586,31.00984,30.29586,31.04984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0627\u0644\u0633\u0643\u0631\u064a"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226444315,
-    "wof:lastmodified":1537620965,
+    "wof:lastmodified":1566586809,
     "wof:name":"`Izbat as Sukkari",
     "wof:parent_id":1092014133,
     "wof:placetype":"locality",

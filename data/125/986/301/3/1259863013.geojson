@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.65545,30.61092,31.69545,30.65092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0645\u0641\u062a\u0627\u062d"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259863013,
-    "wof:lastmodified":1537620561,
+    "wof:lastmodified":1566586793,
     "wof:name":"Tall Miftah",
     "wof:parent_id":1092014103,
     "wof:placetype":"locality",

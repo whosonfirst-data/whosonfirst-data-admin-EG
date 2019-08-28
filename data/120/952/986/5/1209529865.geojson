@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.96333,31.14667,32.00333,31.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-\u1e24awata",
         "Al \u1e28iwatah ash Shar\u012bf\u012byah",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209529865,
-    "wof:lastmodified":1537620916,
+    "wof:lastmodified":1566586156,
     "wof:name":"Al Hiwatah",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

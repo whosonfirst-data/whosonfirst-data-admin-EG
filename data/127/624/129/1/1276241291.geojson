@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.181,29.16845,31.221,29.20845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gez\u00eeret Abu \u1e62\u00e2lih",
         "Jaz\u012brat Ab\u016b \u015e\u0101li\u1e29"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276241291,
-    "wof:lastmodified":1537620755,
+    "wof:lastmodified":1566586080,
     "wof:name":"Jazirat Abu Salih",
     "wof:parent_id":1092022779,
     "wof:placetype":"locality",

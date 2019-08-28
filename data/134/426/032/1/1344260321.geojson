@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.90218,28.80729,30.94218,28.84729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ezbet Beni el-\u1e24ab\u00eed",
         "\u2018Izbat Dayr al \u1e28ad\u012bd"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344260321,
-    "wof:lastmodified":1537620799,
+    "wof:lastmodified":1566585804,
     "wof:name":"`Izbat Dayr al Hadid",
     "wof:parent_id":1092022937,
     "wof:placetype":"locality",

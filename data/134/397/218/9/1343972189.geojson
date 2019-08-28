@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.46296,30.95413,31.50296,30.99413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0645\u0627\u0631"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343972189,
-    "wof:lastmodified":1537620838,
+    "wof:lastmodified":1566585735,
     "wof:name":"Az Zammar",
     "wof:parent_id":1092025381,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"31.18368,27.18096,31.18368,27.18096",
     "geom:latitude":27.18096,
     "geom:longitude":31.18368,
-    "gn:gn_country":"EG",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":420585,
+    "gn:country":"EG",
+    "gn:fcode":"PPLA",
     "gn:population":420585,
     "iso:country":"EG",
+    "lbl:bbox":"31.16368,27.16096,31.20368,27.20096",
     "lbl:latitude":27.18096,
     "lbl:longitude":31.18368,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:amh_x_preferred":[
         "\u12a0\u1235\u12e9\u1275"
@@ -205,9 +208,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u044c\u044e\u0442"
     ],
-    "name:unk_x_variant":[
-        "Lycopolis"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u06cc\u0648\u0637"
     ],
@@ -235,7 +235,7 @@
     "qs_pg:qs_id":206340,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -262,7 +262,7 @@
         }
     ],
     "wof:id":1125854747,
-    "wof:lastmodified":1563236217,
+    "wof:lastmodified":1566586586,
     "wof:name":"Asy\u016b\u0163",
     "wof:parent_id":1092017669,
     "wof:placetype":"locality",

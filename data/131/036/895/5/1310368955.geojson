@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.39667,26.98,31.43667,27.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u00f4m Si\u2018da",
         "Kawm Si\u2018dah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310368955,
-    "wof:lastmodified":1537620674,
+    "wof:lastmodified":1566586357,
     "wof:name":"Kawm Si`dah",
     "wof:parent_id":1092016975,
     "wof:placetype":"locality",

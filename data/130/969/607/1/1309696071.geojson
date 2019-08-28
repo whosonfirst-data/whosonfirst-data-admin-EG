@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.69667,28.36333,30.73667,28.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet \u2018In\u00e2ni",
         "Nazlat \u2018In\u0101n\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309696071,
-    "wof:lastmodified":1537620608,
+    "wof:lastmodified":1566586538,
     "wof:name":"Nazlat `Inani",
     "wof:parent_id":1092022239,
     "wof:placetype":"locality",

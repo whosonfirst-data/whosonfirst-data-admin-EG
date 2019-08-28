@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.67133,30.6834,31.71133,30.7234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr Nimr",
         "Kafr Aul\u00e2d Zughli",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310485289,
-    "wof:lastmodified":1537620708,
+    "wof:lastmodified":1566586337,
     "wof:name":"Kafr Awlad Zughli",
     "wof:parent_id":1092014175,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.27257,30.15833,31.31257,30.19833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazlet el-Shar\u00e2qwa",
         "Nazlat ash Shar\u0101qiwah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326717397,
-    "wof:lastmodified":1537620611,
+    "wof:lastmodified":1566585668,
     "wof:name":"Nazlat ash Sharaqiwah",
     "wof:parent_id":1092023447,
     "wof:placetype":"locality",

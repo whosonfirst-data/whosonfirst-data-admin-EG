@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.83551,30.67048,30.87551,30.71048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00eet el-Kir\u00e2m",
         "M\u012bt al Kir\u0101m"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225840857,
-    "wof:lastmodified":1537620642,
+    "wof:lastmodified":1566586920,
     "wof:name":"Mit al Kiram",
     "wof:parent_id":1092025145,
     "wof:placetype":"locality",

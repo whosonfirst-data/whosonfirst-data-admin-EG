@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.78502,27.8748,30.82502,27.9148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saf\u00e2i",
         "Saf\u0101y"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293508061,
-    "wof:lastmodified":1537620590,
+    "wof:lastmodified":1566585935,
     "wof:name":"Safay",
     "wof:parent_id":1092014221,
     "wof:placetype":"locality",

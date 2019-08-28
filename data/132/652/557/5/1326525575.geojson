@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.73,28.64667,30.77,28.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beni Kh\u00e2lid el Bahar\u00eeya",
         "Ban\u012b Kh\u0101lid al Ba\u1e29r\u012byah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326525575,
-    "wof:lastmodified":1537620831,
+    "wof:lastmodified":1566585682,
     "wof:name":"Bani Khalid al Bahriyah",
     "wof:parent_id":1092016505,
     "wof:placetype":"locality",

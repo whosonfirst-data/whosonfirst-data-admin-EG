@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.62139,30.66694,31.66139,30.70694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr el-Shub\u00e2ki el-Ged\u00eed",
         "Kafr ash Shawbak\u012b al Jad\u012bd"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259953745,
-    "wof:lastmodified":1537620719,
+    "wof:lastmodified":1566586759,
     "wof:name":"Kafr ash Shawbaki al Jadid",
     "wof:parent_id":1092014175,
     "wof:placetype":"locality",

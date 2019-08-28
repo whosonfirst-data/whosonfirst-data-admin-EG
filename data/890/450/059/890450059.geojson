@@ -11,11 +11,15 @@
     "geom:longitude":31.31897,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":71257,
+    "gn:population":71257,
     "iso:country":"EG",
+    "lbl:bbox":"31.29897,27.02411,31.33897,27.06411",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Abu T\u00eeg"
     ],
     "qs:name":"Ab\u016b T\u012bj",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":362004,
         "gp:id":1521114,
-        "qs:id":80247
+        "qs_pg:id":80247
     },
     "wof:country":"EG",
     "wof:created":1469052722,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450059,
-    "wof:lastmodified":1505343632,
+    "wof:lastmodified":1566586582,
     "wof:name":"Ab\u016b T\u012bj",
     "wof:parent_id":1092024123,
     "wof:placetype":"locality",

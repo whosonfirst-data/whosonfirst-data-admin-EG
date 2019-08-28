@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.86061,29.36601,30.90061,29.40601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Ka\u2018\u00e2bi el-Qad\u00eema",
         "Al Ka\u2018\u0101b\u012b al Qad\u012bmah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242778279,
-    "wof:lastmodified":1537620909,
+    "wof:lastmodified":1566586673,
     "wof:name":"Al Ka`abi al Qadimah",
     "wof:parent_id":1092024457,
     "wof:placetype":"locality",

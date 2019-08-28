@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.85136,30.73819,30.89136,30.77819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-\u1e6c\u00e2lb\u00eeya",
         "A\u0163 \u0162\u0101lib\u012byah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309928657,
-    "wof:lastmodified":1537620847,
+    "wof:lastmodified":1566586535,
     "wof:name":"At Talibiyah",
     "wof:parent_id":1092021623,
     "wof:placetype":"locality",

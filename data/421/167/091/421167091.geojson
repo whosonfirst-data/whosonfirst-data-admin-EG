@@ -10,8 +10,12 @@
     "geom:latitude":26.56217,
     "geom:longitude":31.74503,
     "iso:country":"EG",
+    "lbl:bbox":"31.72503,26.54217,31.76503,26.58217",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u062e\u0645\u064a\u0645"
@@ -94,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0445\u043c\u0456\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khemmis"
     ],
     "name:urd_x_preferred":[
@@ -136,7 +140,7 @@
     "wof:concordances":{
         "gn:id":361661,
         "gp:id":1521186,
-        "qs:id":124314,
+        "qs_pg:id":124314,
         "wd:id":"Q340572",
         "wk:page":"Akhmim"
     },
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":421167091,
-    "wof:lastmodified":1563236148,
+    "wof:lastmodified":1566586557,
     "wof:name":"\u0627\u062e\u0645\u064a\u0645",
     "wof:parent_id":1092014557,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.23,27.18,31.27,27.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beni T\u00e2lib",
         "Ban\u012b \u0162\u0101lib"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343524981,
-    "wof:lastmodified":1537620828,
+    "wof:lastmodified":1566585732,
     "wof:name":"Bani Talib",
     "wof:parent_id":1092017669,
     "wof:placetype":"locality",

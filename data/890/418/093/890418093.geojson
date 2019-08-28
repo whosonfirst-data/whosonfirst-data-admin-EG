@@ -11,10 +11,14 @@
     "geom:longitude":30.97004,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":78744,
+    "gn:population":78744,
     "iso:country":"EG",
+    "lbl:bbox":"30.95004,27.2904,30.99004,27.3304",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0641\u0644\u0648\u0637"
     ],
@@ -72,7 +76,7 @@
     "name:swe_x_preferred":[
         "Manfalut"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monfalut"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":352913,
         "gp:id":1525073,
-        "qs:id":547862,
+        "qs_pg:id":547862,
         "wd:id":"Q556095"
     },
     "wof:country":"EG",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890418093,
-    "wof:lastmodified":1563236198,
+    "wof:lastmodified":1566586578,
     "wof:name":"Manfal\u016b\u0163",
     "wof:parent_id":1092022045,
     "wof:placetype":"locality",

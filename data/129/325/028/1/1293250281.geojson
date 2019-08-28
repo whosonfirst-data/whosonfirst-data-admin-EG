@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.89667,26.23,31.93667,26.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Wa\u1e25l\u00eeya el Keb\u00eera",
         "Al Wa\u1e29l\u012byah al Kab\u012brah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293250281,
-    "wof:lastmodified":1537620879,
+    "wof:lastmodified":1566585927,
     "wof:name":"Al Wahliyah al Kabirah",
     "wof:parent_id":1092017143,
     "wof:placetype":"locality",

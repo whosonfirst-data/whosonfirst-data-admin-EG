@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.73,31.36778,31.77,31.40778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr \u1e6cubaiyakha",
         "Kafr \u0162ubayyikhah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326895379,
-    "wof:lastmodified":1537620683,
+    "wof:lastmodified":1566585602,
     "wof:name":"Kafr Tubayyikhah",
     "wof:parent_id":1092020865,
     "wof:placetype":"locality",

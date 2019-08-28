@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.72972,30.63028,31.76972,30.67028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr el-Kaummna",
         "Kafr el-Kaw\u00e2dina",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327417337,
-    "wof:lastmodified":1537620728,
+    "wof:lastmodified":1566585650,
     "wof:name":"Kafr al Kawadinah",
     "wof:parent_id":1092020833,
     "wof:placetype":"locality",

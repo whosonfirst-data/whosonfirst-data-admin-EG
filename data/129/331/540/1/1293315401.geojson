@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.97028,30.92167,31.01028,30.96167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr Bal\u1e0d\u00eem",
         "Kafr Bal\u1e11am"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293315401,
-    "wof:lastmodified":1537620707,
+    "wof:lastmodified":1566585877,
     "wof:name":"Kafr Baldam",
     "wof:parent_id":1092023627,
     "wof:placetype":"locality",

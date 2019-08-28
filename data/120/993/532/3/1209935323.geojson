@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.84775,30.61128,30.88775,30.65128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr es-Saw\u00e2lm\u00eeya",
         "Kafr el-Saw\u00e2lm\u00eeya",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209935323,
-    "wof:lastmodified":1537620712,
+    "wof:lastmodified":1566586196,
     "wof:name":"Kafr as Sawalimiyah",
     "wof:parent_id":1092019949,
     "wof:placetype":"locality",

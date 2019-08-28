@@ -34,6 +34,7 @@
     ],
     "lbl:latitude":30.520033,
     "lbl:longitude":30.391867,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Beheria",
     "mps:latitude":30.546808,
     "mps:longitude":30.393331,
@@ -203,7 +204,7 @@
         "Guvernementet Beheira"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc6\u0bb9\u0bc6\u0baf\u0bbf\u0bb0\u0bbe    \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0baa\u0bc6\u0bb9\u0bc6\u0baf\u0bbf\u0bb0\u0bbe  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c46\u0c39\u0c40\u0c30\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -221,9 +222,7 @@
         "\u0411\u0443\u0445\u0435\u0439\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Beheria"
-    ],
-    "name:unk_x_variant":[
+        "Beheria",
         "El Beheira Governorate"
     ],
     "name:urd_x_preferred":[
@@ -310,9 +309,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"10,129",
     "statoids:area_mi":"3,911",
     "statoids:as_of_date":"2006-11-11",
@@ -337,7 +336,7 @@
         "gp:id":2345225,
         "hasc:id":"EG.BH",
         "iso:id":"EG-BH",
-        "qs:id":900671,
+        "qs_pg:id":900671,
         "wd:id":"Q30630"
     },
     "wof:country":"EG",
@@ -356,11 +355,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673291,
+    "wof:lastmodified":1566585858,
     "wof:name":"Al Buhayrah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":4737129,
     "wof:population_rank":12,

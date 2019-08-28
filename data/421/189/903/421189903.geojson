@@ -10,8 +10,11 @@
     "geom:latitude":31.222197,
     "geom:longitude":29.939804,
     "iso:country":"EG",
+    "lbl:bbox":"29.934804,31.217197,29.944804,31.227197",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,15 +36,15 @@
     "qs:woe_id":1521578,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85671041,
         102191573,
         85632581,
-        1092024943,
-        85671041
+        1092024943
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1521578,
-        "qs:id":1118013
+        "qs_pg:id":1118013
     },
     "wof:country":"EG",
     "wof:created":1459009640,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":421189903,
-    "wof:lastmodified":1531858648,
+    "wof:lastmodified":1566586564,
     "wof:name":"El Ibr\u0101h\u012bm\u012bya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

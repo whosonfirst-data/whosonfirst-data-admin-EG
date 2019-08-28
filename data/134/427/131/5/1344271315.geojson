@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.78655,31.41302,31.82655,31.45302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344271315,
-    "wof:lastmodified":1537065495,
+    "wof:lastmodified":1566585810,
     "wof:name":"`Ezbet el-Labbana",
     "wof:parent_id":1092016349,
     "wof:placetype":"locality",

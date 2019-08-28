@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.4557,26.82778,31.4957,26.86778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El \u2018At\u00e2mna",
         "Al \u2018At\u0101minah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226600623,
-    "wof:lastmodified":1537620942,
+    "wof:lastmodified":1566586838,
     "wof:name":"Al `Ataminah",
     "wof:parent_id":1092025329,
     "wof:placetype":"locality",

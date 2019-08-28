@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.628,28.24728,30.668,28.28728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Ta\u00eeyiba",
         "Et Taiyiba",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276865801,
-    "wof:lastmodified":1537620845,
+    "wof:lastmodified":1566586002,
     "wof:name":"At Tayyibah",
     "wof:parent_id":1092024217,
     "wof:placetype":"locality",

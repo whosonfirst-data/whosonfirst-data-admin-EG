@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.01142,26.1135,32.05142,26.1535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344026595,
-    "wof:lastmodified":1536925290,
+    "wof:lastmodified":1566585813,
     "wof:name":"Samhud",
     "wof:parent_id":1092014357,
     "wof:placetype":"locality",

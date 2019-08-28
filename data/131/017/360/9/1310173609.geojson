@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.96371,26.29139,32.00371,26.33139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aul\u00e2d Yi\u1e25ya Qibli",
         "Awl\u0101d Ya\u1e29y\u00e1 Qibl\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310173609,
-    "wof:lastmodified":1537620840,
+    "wof:lastmodified":1566586385,
     "wof:name":"Awlad Yahya Qibli",
     "wof:parent_id":1092015947,
     "wof:placetype":"locality",

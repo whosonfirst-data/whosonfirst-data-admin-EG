@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.61333,31.11333,31.65333,31.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mit el- Nas\u00e2ra",
         "M\u012bt an Na\u015f\u0101r\u00e1"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226360075,
-    "wof:lastmodified":1537620641,
+    "wof:lastmodified":1566586913,
     "wof:name":"Mit an Nasara",
     "wof:parent_id":1092022451,
     "wof:placetype":"locality",

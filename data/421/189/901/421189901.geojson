@@ -10,8 +10,12 @@
     "geom:latitude":22.348488,
     "geom:longitude":31.626205,
     "iso:country":"EG",
+    "lbl:bbox":"31.606205,22.328488,31.646205,22.368488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0633\u0645\u0628\u0644"
@@ -104,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1521103,
-        "qs:id":1118005,
+        "qs_pg:id":1118005,
         "wd:id":"Q6655437"
     },
     "wof:country":"EG",
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421189901,
-    "wof:lastmodified":1563236165,
+    "wof:lastmodified":1566586562,
     "wof:name":"Abu Simbel",
     "wof:parent_id":1092022915,
     "wof:placetype":"locality",

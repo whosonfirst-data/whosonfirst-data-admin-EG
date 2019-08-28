@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.16333,26.06333,32.20333,26.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Is\u00eer\u00e2t",
         "Al \u2018As\u012br\u0101t"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193247053,
-    "wof:lastmodified":1537620942,
+    "wof:lastmodified":1566586257,
     "wof:name":"Al `Asirat",
     "wof:parent_id":1092022653,
     "wof:placetype":"locality",

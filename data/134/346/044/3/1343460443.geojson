@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.29667,31.06333,30.33667,31.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Dar\u00e2w\u00eeya",
         "Ad Dar\u0101w\u012byah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343460443,
-    "wof:lastmodified":1537620953,
+    "wof:lastmodified":1566585758,
     "wof:name":"Ad Darawiyah",
     "wof:parent_id":1092014133,
     "wof:placetype":"locality",

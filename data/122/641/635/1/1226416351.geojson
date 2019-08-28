@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.96333,30.76333,32.00333,30.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr el-Ham\u00e2mda",
         "Kafr al \u1e28am\u0101midah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226416351,
-    "wof:lastmodified":1537620734,
+    "wof:lastmodified":1566586882,
     "wof:name":"Kafr al Hamamidah",
     "wof:parent_id":1092018091,
     "wof:placetype":"locality",

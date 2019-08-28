@@ -34,6 +34,7 @@
     ],
     "lbl:latitude":26.095399,
     "lbl:longitude":32.372887,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Qena",
     "mps:latitude":25.59487,
     "mps:longitude":32.559439,
@@ -194,7 +195,7 @@
         "Guvernementet Qena"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0baf\u0bc7\u0ba9\u0bbe  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0b95\u0bbf\u0baf\u0bc7\u0ba9\u0bbe \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c16\u0c47\u0c28\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -212,9 +213,6 @@
         "\u041a\u0435\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Qena"
-    ],
-    "name:unk_x_variant":[
         "K\u00e9na"
     ],
     "name:urd_x_preferred":[
@@ -301,9 +299,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"1,796",
     "statoids:area_mi":"693",
     "statoids:as_of_date":"2006-11-11",
@@ -330,7 +328,7 @@
         "gp:id":2345245,
         "hasc:id":"EG.QN",
         "iso:id":"EG-KN",
-        "qs:id":896789,
+        "qs_pg:id":896789,
         "unlc:id":"EG-KN",
         "wd:id":"Q31065"
     },
@@ -350,11 +348,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673292,
+    "wof:lastmodified":1566585860,
     "wof:name":"Qina",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":3001494,
     "wof:population_rank":12,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.67628,27.98219,30.71628,28.02219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naslet el Ibeid",
         "Minsh\u0101t adh Dhahab",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343545043,
-    "wof:lastmodified":1537620654,
+    "wof:lastmodified":1566585725,
     "wof:name":"Al Manshiyah al Qibliyah",
     "wof:parent_id":1092018557,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.11215,30.43188,31.15215,30.47188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0646\u0634\u0623\u0629 \u0645\u0633\u062c\u062f \u062e\u0636\u0631"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226338319,
-    "wof:lastmodified":1537620650,
+    "wof:lastmodified":1566586829,
     "wof:name":"Munsha'at Masjid al Khidr",
     "wof:parent_id":1092017065,
     "wof:placetype":"locality",

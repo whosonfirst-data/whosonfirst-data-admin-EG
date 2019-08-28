@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.12542,26.05559,32.16542,26.09559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El K\u00f4m el A\u1e25mar",
         "K\u00f4m el Ahmar",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293547705,
-    "wof:lastmodified":1537620679,
+    "wof:lastmodified":1566585880,
     "wof:name":"Al Kawm al Ahmar",
     "wof:parent_id":1092020903,
     "wof:placetype":"locality",

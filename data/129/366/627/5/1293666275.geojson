@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.08946,30.25868,31.12946,30.29868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Shubr\u0101 Shih\u0101b"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293666275,
-    "wof:lastmodified":1537620571,
+    "wof:lastmodified":1566585932,
     "wof:name":"Shubra Shihab",
     "wof:parent_id":1092018935,
     "wof:placetype":"locality",

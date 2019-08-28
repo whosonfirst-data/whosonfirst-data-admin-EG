@@ -11,10 +11,14 @@
     "geom:longitude":30.83841,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":61182,
+    "gn:population":61182,
     "iso:country":"EG",
+    "lbl:bbox":"30.81841,27.9112,30.85841,27.9512",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0642\u0631\u0642\u0627\u0635"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "Markaz Ab\u016b Qurq\u0101\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Abu Kerkae"
     ],
     "qs:name":"Ab\u016b Qurq\u0101\u015f",
@@ -77,7 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":362277,
-        "qs:id":124315,
+        "qs_pg:id":124315,
         "wd:id":"Q3646152"
     },
     "wof:country":"EG",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890433319,
-    "wof:lastmodified":1563236204,
+    "wof:lastmodified":1566586581,
     "wof:name":"Ab\u016b Qurq\u0101\u015f",
     "wof:parent_id":1092014221,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.10908,30.81243,31.14908,30.85243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0645\u0628\u0627\u0631\u0643"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209638105,
-    "wof:lastmodified":1537621210,
+    "wof:lastmodified":1566586150,
     "wof:name":"`Izbat Mubarak",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

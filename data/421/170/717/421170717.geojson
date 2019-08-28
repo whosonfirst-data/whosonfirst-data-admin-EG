@@ -10,8 +10,12 @@
     "geom:latitude":24.221293,
     "geom:longitude":32.867317,
     "iso:country":"EG",
+    "lbl:bbox":"32.847317,24.201293,32.887317,24.241293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1522973,
-        "qs:id":1195672
+        "qs_pg:id":1195672
     },
     "wof:country":"EG",
     "wof:created":1459008865,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421170717,
-    "wof:lastmodified":1500036786,
+    "wof:lastmodified":1566586571,
     "wof:name":"El-Khattara",
     "wof:parent_id":1092014635,
     "wof:placetype":"locality",

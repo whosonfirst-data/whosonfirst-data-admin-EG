@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.19578,30.48195,31.23578,30.52195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0645\u062c\u0631\u0629 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209301503,
-    "wof:lastmodified":1537621118,
+    "wof:lastmodified":1566586146,
     "wof:name":"Jamjarah al Qadimah",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

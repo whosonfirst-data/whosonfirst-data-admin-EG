@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.18944,31.30532,31.22944,31.34532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645 \u0627\u0644\u0633\u062d\u0627\u064a\u062a"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309676369,
-    "wof:lastmodified":1537620787,
+    "wof:lastmodified":1566586536,
     "wof:name":"Kawm as Sahayit",
     "wof:parent_id":1092017993,
     "wof:placetype":"locality",

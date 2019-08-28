@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.61848,29.38908,30.65848,29.42908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243387613,
-    "wof:lastmodified":1536890048,
+    "wof:lastmodified":1566586589,
     "wof:name":"`Izbat Ibrahim as Subayhi",
     "wof:parent_id":1092016391,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.45423,25.58816,32.49423,25.62816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Ray\u00e2yna",
         "Ar Ray\u0101yinah"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225902463,
-    "wof:lastmodified":1537620867,
+    "wof:lastmodified":1566586855,
     "wof:name":"Ar Rayayinah",
     "wof:parent_id":1092014573,
     "wof:placetype":"locality",

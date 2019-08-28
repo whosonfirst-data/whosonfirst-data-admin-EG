@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.19667,29.23,31.23667,29.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qab\u00eelet el \u1e24uweitat",
         "\u2018Arab el Salm\u00e2n\u00eeya",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209600849,
-    "wof:lastmodified":1537620871,
+    "wof:lastmodified":1566586201,
     "wof:name":"`Arab as Salmaniyah",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

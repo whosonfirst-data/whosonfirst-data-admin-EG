@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.06333,26.06333,32.10333,26.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Ramli",
         "Naj\u2018 ar Raml\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293557833,
-    "wof:lastmodified":1537620622,
+    "wof:lastmodified":1566585893,
     "wof:name":"Naj` ar Ramli",
     "wof:parent_id":1092014357,
     "wof:placetype":"locality",

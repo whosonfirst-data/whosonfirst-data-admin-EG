@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.65599,28.45216,30.69599,28.49216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ma\u2018saret Hagg\u00e2g",
         "Ma\u2018\u015farat \u1e28ajj\u0101j"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327222703,
-    "wof:lastmodified":1537620658,
+    "wof:lastmodified":1566585633,
     "wof:name":"Ma`sarat Hajjaj",
     "wof:parent_id":1092015295,
     "wof:placetype":"locality",

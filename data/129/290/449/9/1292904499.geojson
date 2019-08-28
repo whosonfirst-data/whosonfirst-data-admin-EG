@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.82384,29.21381,30.86384,29.25381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Munsh\u00e2t Rab\u00ee\u2018",
         "Minsh\u0101t Rab\u012b\u2018",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292904499,
-    "wof:lastmodified":1537620649,
+    "wof:lastmodified":1566585956,
     "wof:name":"Minshat Rabi`",
     "wof:parent_id":1092014683,
     "wof:placetype":"locality",

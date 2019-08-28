@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.49869,30.74927,31.53869,30.78927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0627\u0644\u062d\u0645\u0631\u0627\u0646"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276854575,
-    "wof:lastmodified":1537621127,
+    "wof:lastmodified":1566586074,
     "wof:name":"Kafr al Hamran",
     "wof:parent_id":1092016079,
     "wof:placetype":"locality",

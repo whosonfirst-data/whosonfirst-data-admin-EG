@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.39007,31.42477,30.43007,31.46477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0627\u0644\u062e\u0636\u0631\u0627\u0621"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343620621,
-    "wof:lastmodified":1537620910,
+    "wof:lastmodified":1566585721,
     "wof:name":"Al Jazirah al Khadra'",
     "wof:parent_id":1092022617,
     "wof:placetype":"locality",

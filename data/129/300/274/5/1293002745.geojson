@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.69123,30.8298,30.73123,30.8698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293002745,
-    "wof:lastmodified":1536988012,
+    "wof:lastmodified":1566585870,
     "wof:name":"Minsha'at an Nasr",
     "wof:parent_id":1092020749,
     "wof:placetype":"locality",

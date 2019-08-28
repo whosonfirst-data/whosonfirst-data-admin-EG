@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.95713,31.0717,29.99713,31.1117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0666/\u0661\u0660"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225951745,
-    "wof:lastmodified":1537621193,
+    "wof:lastmodified":1566586799,
     "wof:name":"Qaryah `Asharah/Sittah",
     "wof:parent_id":1092021541,
     "wof:placetype":"locality",

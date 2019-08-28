@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.0914,31.1899,30.1314,31.2299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0645\u0633\u0627\u0639\u062f"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209113743,
-    "wof:lastmodified":1537620971,
+    "wof:lastmodified":1566586211,
     "wof:name":"`Izbat Musa`id",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",

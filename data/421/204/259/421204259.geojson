@@ -10,8 +10,11 @@
     "geom:latitude":31.252393,
     "geom:longitude":29.988167,
     "iso:country":"EG",
+    "lbl:bbox":"29.983167,31.247393,29.993167,31.257393",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -33,15 +36,15 @@
     "qs:woe_id":22724294,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85671041,
         102191573,
         85632581,
-        1092018649,
-        85671041
+        1092018649
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724294,
-        "qs:id":1187495
+        "qs_pg:id":1187495
     },
     "wof:country":"EG",
     "wof:created":1459010178,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":421204259,
-    "wof:lastmodified":1531858840,
+    "wof:lastmodified":1566586557,
     "wof:name":"Al Nasr City",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

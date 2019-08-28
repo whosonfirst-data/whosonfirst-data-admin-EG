@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.44665,26.88092,31.48665,26.92092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226614035,
-    "wof:lastmodified":1536904815,
+    "wof:lastmodified":1566586847,
     "wof:name":"Qaw Gharb",
     "wof:parent_id":1092016975,
     "wof:placetype":"locality",

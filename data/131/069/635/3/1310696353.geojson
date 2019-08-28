@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.93515,30.36366,30.97515,30.40366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0628\u064a\u0634\u0629"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310696353,
-    "wof:lastmodified":1537620669,
+    "wof:lastmodified":1566586407,
     "wof:name":"Lubayshah",
     "wof:parent_id":1092014621,
     "wof:placetype":"locality",

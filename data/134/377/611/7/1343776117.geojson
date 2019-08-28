@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.30726,31.15058,31.34726,31.19058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Buh\u016bt"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343776117,
-    "wof:lastmodified":1537620818,
+    "wof:lastmodified":1566585761,
     "wof:name":"Buhut",
     "wof:parent_id":1092025265,
     "wof:placetype":"locality",

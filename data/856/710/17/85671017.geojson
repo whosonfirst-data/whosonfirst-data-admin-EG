@@ -34,6 +34,7 @@
     ],
     "lbl:latitude":31.034047,
     "lbl:longitude":31.490199,
+    "lbl:min_zoom":8.0,
     "meso:name_alt1":"Dakahlia",
     "mps:latitude":31.036272,
     "mps:longitude":31.478296,
@@ -219,9 +220,6 @@
         "\u0414\u0430\u043a\u0430\u0445\u043b\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Dakahlia"
-    ],
-    "name:unk_x_variant":[
         "El Dakahlia"
     ],
     "name:urd_x_preferred":[
@@ -308,9 +306,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-11-11",
+    "src:population_date":"2006-11-11",
     "statoids:area_km":"3,471",
     "statoids:area_mi":"1,340",
     "statoids:as_of_date":"2006-11-11",
@@ -335,7 +333,7 @@
         "gp:id":2345223,
         "hasc:id":"EG.DQ",
         "iso:id":"EG-DK",
-        "qs:id":900670,
+        "qs_pg:id":900670,
         "unlc:id":"EG-DK",
         "wd:id":"Q31068"
     },
@@ -355,11 +353,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565673292,
+    "wof:lastmodified":1566585860,
     "wof:name":"Ad Daqahliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"governorate",
     "wof:population":4985187,
     "wof:population_rank":12,

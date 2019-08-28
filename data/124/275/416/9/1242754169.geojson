@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.83,27.34667,30.87,27.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nag\u2018 el-Sheikh \u1e24ar\u00eez",
         "Nag\u2018 el Sheikh \u1e24ireiz",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242754169,
-    "wof:lastmodified":1537620622,
+    "wof:lastmodified":1566586615,
     "wof:name":"Naj` ash Shaykh Hariz",
     "wof:parent_id":1092019229,
     "wof:placetype":"locality",

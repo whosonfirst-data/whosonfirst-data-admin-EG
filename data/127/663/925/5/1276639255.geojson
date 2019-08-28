@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.5281,30.74434,31.5681,30.78434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0639\u0632\u0628\u0629 \u0623\u0628\u0648 \u0642\u0648\u0631\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276639255,
-    "wof:lastmodified":1537621149,
+    "wof:lastmodified":1566586103,
     "wof:name":"`Izbat Abu Qurah",
     "wof:parent_id":1092018107,
     "wof:placetype":"locality",

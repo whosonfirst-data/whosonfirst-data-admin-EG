@@ -11,10 +11,14 @@
     "geom:longitude":30.96119,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":46866,
+    "gn:population":46866,
     "iso:country":"EG",
+    "lbl:bbox":"30.94119,29.45639,30.98119,29.49639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0637\u0627\u0645\u064a\u0629"
     ],
@@ -42,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043c\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u0101m\u012bya"
     ],
     "qs:name":"\u0162\u0101miyah",
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":347542,
         "gp:id":1526475,
-        "qs:id":124295,
+        "qs_pg:id":124295,
         "wd:id":"Q5599915"
     },
     "wof:country":"EG",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890441647,
-    "wof:lastmodified":1563236188,
+    "wof:lastmodified":1566586575,
     "wof:name":"\u0162\u0101miyah",
     "wof:parent_id":1092025417,
     "wof:placetype":"locality",

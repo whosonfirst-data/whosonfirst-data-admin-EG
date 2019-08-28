@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.98252,27.26279,31.02252,27.30279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Mandara Qibli",
         "Al Mandarah Qibl\u012b"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326901965,
-    "wof:lastmodified":1537620897,
+    "wof:lastmodified":1566585686,
     "wof:name":"Al Mandarah Qibli",
     "wof:parent_id":1092022045,
     "wof:placetype":"locality",

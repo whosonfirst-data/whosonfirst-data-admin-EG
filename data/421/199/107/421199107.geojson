@@ -10,10 +10,14 @@
     "geom:latitude":24.52111,
     "geom:longitude":32.89416,
     "iso:country":"EG",
+    "lbl:bbox":"32.87416,24.50111,32.91416,24.54111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Iql\u00eet"
     ],
     "qs:gn_country":"EG",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":355518,
         "gp:id":1523826,
-        "qs:id":189151
+        "qs_pg:id":189151
     },
     "wof:country":"EG",
     "wof:created":1459009978,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421199107,
-    "wof:lastmodified":1501214125,
+    "wof:lastmodified":1566586569,
     "wof:name":"Iqlit",
     "wof:parent_id":1092021927,
     "wof:placetype":"locality",

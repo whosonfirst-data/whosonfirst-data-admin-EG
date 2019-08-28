@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"31.26111,30.84944,31.30111,30.88944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e24am\u00e2qa",
         "\u1e28am\u0101qah"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327241191,
-    "wof:lastmodified":1537620777,
+    "wof:lastmodified":1566585643,
     "wof:name":"Hamaqah",
     "wof:parent_id":1092014439,
     "wof:placetype":"locality",

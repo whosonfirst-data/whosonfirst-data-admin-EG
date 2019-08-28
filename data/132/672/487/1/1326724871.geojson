@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.86145,30.72681,30.90145,30.76681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kafr el-Ashqar",
         "Kafr al Ashqar"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326724871,
-    "wof:lastmodified":1537620739,
+    "wof:lastmodified":1566585599,
     "wof:name":"Kafr al Ashqar",
     "wof:parent_id":1092021623,
     "wof:placetype":"locality",

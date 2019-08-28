@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.45558,31.27897,30.49558,31.31897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0627\u0628\u0634\u0629"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310206769,
-    "wof:lastmodified":1537620979,
+    "wof:lastmodified":1566586375,
     "wof:name":"Al Ghabishah",
     "wof:parent_id":1092023921,
     "wof:placetype":"locality",

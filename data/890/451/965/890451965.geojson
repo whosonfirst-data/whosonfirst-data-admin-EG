@@ -11,10 +11,14 @@
     "geom:longitude":31.2056,
     "gn:country":"EG",
     "gn:fcode":"PPL",
-    "gn:pop":100495,
+    "gn:population":100495,
     "iso:country":"EG",
+    "lbl:bbox":"31.1856,30.15922,31.2256,30.19922",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0642\u0644\u064a\u0648\u0628"
     ],
@@ -78,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u044c\u044e\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaly\u00fbb"
     ],
     "name:urd_x_preferred":[
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":350789,
         "gp:id":1526319,
-        "qs:id":206134,
+        "qs_pg:id":206134,
         "wd:id":"Q336724"
     },
     "wof:country":"EG",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":890451965,
-    "wof:lastmodified":1563236200,
+    "wof:lastmodified":1566586579,
     "wof:name":"Qaly\u016bb",
     "wof:parent_id":1092023447,
     "wof:placetype":"locality",

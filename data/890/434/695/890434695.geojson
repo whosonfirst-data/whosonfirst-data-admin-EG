@@ -11,10 +11,14 @@
     "geom:longitude":33.81291,
     "gn:country":"EG",
     "gn:fcode":"PPLA",
-    "gn:pop":95622,
+    "gn:population":95622,
     "iso:country":"EG",
+    "lbl:bbox":"33.79291,27.23738,33.83291,27.27738",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Hurghada"
     ],
@@ -210,7 +214,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0440\u0433\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El-Ghardaqa"
     ],
     "name:urd_x_preferred":[
@@ -246,7 +250,7 @@
     "wof:concordances":{
         "gn:id":361291,
         "gp:id":56447479,
-        "qs:id":310245,
+        "qs_pg:id":310245,
         "wd:id":"Q187284"
     },
     "wof:country":"EG",
@@ -262,7 +266,7 @@
         }
     ],
     "wof:id":890434695,
-    "wof:lastmodified":1563236202,
+    "wof:lastmodified":1566586580,
     "wof:name":"Al Ghardaqah",
     "wof:parent_id":1092021497,
     "wof:placetype":"locality",

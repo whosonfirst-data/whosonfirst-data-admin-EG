@@ -11,8 +11,10 @@
     "geom:longitude":29.87256,
     "gn:id":"",
     "iso:country":"EG",
+    "lbl:bbox":"29.86756,31.186516,29.87756,31.196516",
     "lbl:latitude":31.191516,
     "lbl:longitude":29.87256,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.188563,
     "mps:longitude":29.861845,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "El Minaa District"
-    ],
-    "name:unk_x_variant":[
         "El Minaa District"
     ],
     "name:zho_x_preferred":[
@@ -57,14 +56,12 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2102,
-    "wof:belongs_to":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724298,
-        "qs:id":383651,
         "qs_pg:id":383651,
         "wd:id":"Q5258869"
     },
@@ -83,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563235281,
+    "wof:lastmodified":1566585854,
     "wof:name":"El Minaa District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

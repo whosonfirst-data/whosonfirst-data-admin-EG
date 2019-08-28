@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.31333,30.84667,29.35333,30.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dauw\u00e2r Mis\u00e2dif Yunis",
         "Daww\u00e2r Na\u015f\u015f\u0101r",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226498887,
-    "wof:lastmodified":1537620812,
+    "wof:lastmodified":1566586870,
     "wof:name":"Dawwar Musadif Yunus",
     "wof:parent_id":1092017953,
     "wof:placetype":"locality",

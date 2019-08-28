@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"30.04944,31.02917,30.08944,31.06917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u2018Ezbet Yanni Banoyoti",
         "\u2018Ezbet Ism\u00e2\u2018\u00eel \u1e62idqi",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259785455,
-    "wof:lastmodified":1537620767,
+    "wof:lastmodified":1566586743,
     "wof:name":"`Izbat Isma`il Sidqi Basha",
     "wof:parent_id":1092021541,
     "wof:placetype":"locality",

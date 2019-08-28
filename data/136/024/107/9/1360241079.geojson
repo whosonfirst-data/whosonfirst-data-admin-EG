@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"32.08,26.09667,32.12,26.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Es Sal\u012bm\u0101t",
         "El Sal\u00eem\u00e2t el Qibl\u00eeva",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1360241079,
-    "wof:lastmodified":1537620854,
+    "wof:lastmodified":1566586417,
     "wof:name":"As Salimat",
     "wof:parent_id":1092014357,
     "wof:placetype":"locality",

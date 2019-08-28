@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Cairo",
     "iso:country":"EG",
+    "lbl:bbox":"29.92319,31.10245,29.96319,31.14245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0668/\u0666"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326452501,
-    "wof:lastmodified":1537621191,
+    "wof:lastmodified":1566585602,
     "wof:name":"Qaryah Sittah/Thamaniyah",
     "wof:parent_id":1092016715,
     "wof:placetype":"locality",
