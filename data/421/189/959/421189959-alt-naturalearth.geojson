@@ -1,16 +1,18 @@
 {
   "id": 421189959,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-eg",
+  "properties": {
+    "src:alt_label":"naturalearth",
     "src:geom":"naturalearth",
-    "wof:geomhash":"136e65b66a1c0f327f1261dc8c252a92",
-    "wof:id":421189959
+    "wof:geomhash":"6e4d7d8ba401886858f8cd56432f8bb5",
+    "wof:id":421189959,
+    "wof:repo":"whosonfirst-data-admin-eg"
 },
   "bbox": [
-    25.516674762684943,
-    29.200012226370234,
-    25.516674762684943,
-    29.200012226370234
+    25.51667476268494,
+    29.20001222637023,
+    25.51667476268494,
+    29.20001222637023
 ],
   "geometry": {"coordinates":[25.51667476268494,29.20001222637023],"type":"Point"}
 }
