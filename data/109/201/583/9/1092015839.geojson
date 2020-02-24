@@ -119,6 +119,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897187,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"6fe865c17c64c546156b5ff2ac160d87",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1092015839,
-    "wof:lastmodified":1566586507,
+    "wof:lastmodified":1582352375,
     "wof:name":"Boulaq",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

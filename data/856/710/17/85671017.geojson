@@ -338,6 +338,9 @@
         "wd:id":"Q31068"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b457319cd9886fbb6d449fce214067fc",
     "wof:hierarchy":[
         {
@@ -353,7 +356,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585860,
+    "wof:lastmodified":1582352364,
     "wof:name":"Ad Daqahliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

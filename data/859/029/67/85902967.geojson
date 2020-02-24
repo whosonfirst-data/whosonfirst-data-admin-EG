@@ -121,6 +121,9 @@
         "wd:id":"Q2169497"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3127ba4091dc8d296a286b98a39b6557",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566585850,
+    "wof:lastmodified":1582352360,
     "wof:name":"\u0633\u064a\u062f\u0649 \u062c\u0627\u0628\u0631",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

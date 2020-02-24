@@ -332,6 +332,9 @@
         "wd:id":"Q30644"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b9dceefb3eb11384297340f1a2bc834",
     "wof:hierarchy":[
         {
@@ -347,7 +350,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585865,
+    "wof:lastmodified":1582352365,
     "wof:name":"Dumyat",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

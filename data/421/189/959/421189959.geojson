@@ -203,6 +203,9 @@
     },
     "wof:country":"EG",
     "wof:created":1459009642,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"c12fc080176cad1b0aa423bed228202b",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         }
     ],
     "wof:id":421189959,
-    "wof:lastmodified":1566586564,
+    "wof:lastmodified":1582352376,
     "wof:name":"Siwa",
     "wof:parent_id":1092025019,
     "wof:placetype":"locality",

@@ -85,6 +85,10 @@
         "wd:id":"Q2169497"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"114de1ab830450a411f472c556e79b85",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585854,
+    "wof:lastmodified":1582352361,
     "wof:name":"Sidi Gaber District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

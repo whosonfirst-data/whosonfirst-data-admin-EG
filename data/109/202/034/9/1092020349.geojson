@@ -78,6 +78,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897357,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"f86ff37c875045f990aba1f8a767f627",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092020349,
-    "wof:lastmodified":1566586476,
+    "wof:lastmodified":1582352374,
     "wof:name":"El-Warraq",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

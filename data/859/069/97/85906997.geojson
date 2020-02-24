@@ -69,6 +69,10 @@
         "qs_pg:id":1087558
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d4ee302201f01c8caf943d82e58fb78",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585852,
+    "wof:lastmodified":1582352361,
     "wof:name":"Darb An-nasr",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

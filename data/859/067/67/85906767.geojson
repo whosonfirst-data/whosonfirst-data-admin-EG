@@ -66,6 +66,10 @@
         "qs_pg:id":897002
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"585a764290c4643d5f30facb8b7f11b9",
     "wof:hierarchy":[
         {
@@ -81,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585853,
+    "wof:lastmodified":1582352361,
     "wof:name":"Bab Sharq District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -107,6 +107,9 @@
         "wk:page":"Sidi Bishr"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be64e8fa729f36e524ed6b761ff93bdd",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585848,
+    "wof:lastmodified":1582352360,
     "wof:name":"Sidi Bishr",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

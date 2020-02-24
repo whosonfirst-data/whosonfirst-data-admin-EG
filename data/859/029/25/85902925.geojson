@@ -88,6 +88,9 @@
         "wd:id":"Q4518971"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68e2c18b09499cbf12ed3d131a242fd2",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379294,
+    "wof:lastmodified":1582352361,
     "wof:name":"Wardian",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

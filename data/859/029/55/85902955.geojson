@@ -80,6 +80,10 @@
         "qs_pg:id":891551
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f06efcc1ab5bca3c649c35f47eece21",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585851,
+    "wof:lastmodified":1582352360,
     "wof:name":"Al-Muka\u1e6d\u1e6dam City",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

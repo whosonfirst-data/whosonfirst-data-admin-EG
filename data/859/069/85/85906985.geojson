@@ -69,6 +69,10 @@
         "qs_pg:id":366761
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87122900e71ce920286c3bfe0efb0b02",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585853,
+    "wof:lastmodified":1582352361,
     "wof:name":"As Subra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

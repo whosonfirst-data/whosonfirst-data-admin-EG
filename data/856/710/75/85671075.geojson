@@ -333,6 +333,9 @@
         "wd:id":"Q31065"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ed36c24e98c3c0550a18862fee6fd769",
     "wof:hierarchy":[
         {
@@ -348,7 +351,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585860,
+    "wof:lastmodified":1582352364,
     "wof:name":"Qina",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

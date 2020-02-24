@@ -334,6 +334,10 @@
         "wk:page":"Port Said"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"9b3af386893ecaa538731c92fb8524d4",
     "wof:hierarchy":[
         {
@@ -349,7 +353,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585851,
+    "wof:lastmodified":1582352361,
     "wof:name":"B\u016br Sa\u2019\u012bd",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

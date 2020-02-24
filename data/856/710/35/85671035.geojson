@@ -340,6 +340,9 @@
         "wd:id":"Q30630"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"afe1a087e3bca0ed41a4d8b12c88359d",
     "wof:hierarchy":[
         {
@@ -355,7 +358,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585858,
+    "wof:lastmodified":1582352363,
     "wof:name":"Al Buhayrah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

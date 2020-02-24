@@ -299,6 +299,9 @@
         "wd:id":"Q30797"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a95bfb4c480c202b55f9cb8ba18af23e",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585862,
+    "wof:lastmodified":1582352364,
     "wof:name":"Luxor",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

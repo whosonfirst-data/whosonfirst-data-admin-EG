@@ -98,6 +98,10 @@
         "wd:id":"Q2063168"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7a7e0913f55150e361f0b7f5a3c2dc6",
     "wof:hierarchy":[
         {
@@ -113,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585848,
+    "wof:lastmodified":1582352360,
     "wof:name":"Al-azbakiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

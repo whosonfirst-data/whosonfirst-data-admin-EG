@@ -78,6 +78,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897476,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"7421a2e47343268f74d6c2fd61dd8897",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092023493,
-    "wof:lastmodified":1566586466,
+    "wof:lastmodified":1582352374,
     "wof:name":"Qasr El-Nil",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -143,6 +143,9 @@
     },
     "wof:country":"EG",
     "wof:created":1459009472,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"6b50491dc6054f908e80da48cfce608d",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":421186177,
-    "wof:lastmodified":1534379294,
+    "wof:lastmodified":1582352376,
     "wof:name":"El Qasr",
     "wof:parent_id":1092020201,
     "wof:placetype":"locality",

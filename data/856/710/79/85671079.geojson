@@ -335,6 +335,9 @@
         "wd:id":"Q30669"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a52f6295f629885bbe609cca14f5dfb",
     "wof:hierarchy":[
         {
@@ -350,7 +353,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585862,
+    "wof:lastmodified":1582352364,
     "wof:name":"Suhaj",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

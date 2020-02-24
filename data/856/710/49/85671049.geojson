@@ -356,6 +356,9 @@
         "wd:id":"Q30675"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a77e4a76783ce40a2efbb95f16bc0ae0",
     "wof:hierarchy":[
         {
@@ -371,7 +374,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585865,
+    "wof:lastmodified":1582352365,
     "wof:name":"Al Minya",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

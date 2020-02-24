@@ -148,6 +148,9 @@
     },
     "wof:country":"EG",
     "wof:created":1459009641,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"8993ee2fe86d586d4d61311d1ff0c461",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421189949,
-    "wof:lastmodified":1566586563,
+    "wof:lastmodified":1582352376,
     "wof:name":"Salum",
     "wof:parent_id":1092019621,
     "wof:placetype":"locality",

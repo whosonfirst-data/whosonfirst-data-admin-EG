@@ -104,6 +104,9 @@
         "qs_pg:id":1118020
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0755ff2383ea836794b83434e83560ce",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585850,
+    "wof:lastmodified":1582352360,
     "wof:name":"Er Raml",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -324,6 +324,7 @@
     "qs:type":"Governorate",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "meso",
         "quattroshapes"
     ],
     "src:geom_via":"meso",
@@ -357,6 +358,10 @@
         "wd:id":"Q30805"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"55e3dacd65ca9e77c9c83f7607196dbe",
     "wof:hierarchy":[
         {
@@ -372,7 +377,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585854,
+    "wof:lastmodified":1582352361,
     "wof:name":"Al Qahirah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

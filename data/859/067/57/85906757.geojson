@@ -70,6 +70,10 @@
         "qs_pg:id":989999
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ceecc5e197349c5f310bc1c3aea28912",
     "wof:hierarchy":[
         {
@@ -85,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585853,
+    "wof:lastmodified":1582352361,
     "wof:name":"Mina El Basal District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

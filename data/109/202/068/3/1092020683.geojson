@@ -78,6 +78,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897369,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"1f2c1823ad1830f237fb09b247b2388a",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092020683,
-    "wof:lastmodified":1566586476,
+    "wof:lastmodified":1582352374,
     "wof:name":"Embabah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

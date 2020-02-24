@@ -331,6 +331,9 @@
         "wd:id":"Q31079"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"361d9653ee0f3a0bb6ac525ab5fb0f73",
     "wof:hierarchy":[
         {
@@ -346,7 +349,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585860,
+    "wof:lastmodified":1582352364,
     "wof:name":"Bur Sa`id",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

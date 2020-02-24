@@ -69,6 +69,10 @@
         "qs_pg:id":212481
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f6b7d743a72181654c72d70369faf418",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585848,
+    "wof:lastmodified":1582352360,
     "wof:name":"Tilal Ain As-sira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

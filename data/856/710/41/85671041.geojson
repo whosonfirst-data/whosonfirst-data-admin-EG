@@ -355,6 +355,9 @@
         "wk:page":"Alexandria Governorate"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cfe521f2a73c1dceb744cc0a78a40a3d",
     "wof:hierarchy":[
         {
@@ -370,7 +373,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585863,
+    "wof:lastmodified":1582352364,
     "wof:name":"Al Iskandariyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

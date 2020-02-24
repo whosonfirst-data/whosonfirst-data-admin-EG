@@ -308,6 +308,7 @@
     "qs:type":"Governorate",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "meso",
         "quattroshapes"
     ],
     "src:geom_via":"meso",
@@ -341,6 +342,10 @@
         "wd:id":"Q30832"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4254a18da7ba021e8e24e4fb17a78155",
     "wof:hierarchy":[
         {
@@ -356,7 +361,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585865,
+    "wof:lastmodified":1582352365,
     "wof:name":"Al Jizah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

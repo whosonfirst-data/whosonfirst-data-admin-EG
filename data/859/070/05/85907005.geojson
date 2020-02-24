@@ -84,6 +84,9 @@
         "qs:id":1086002
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"376e30d2de33902b3251d6d8cb46452a",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379294,
+    "wof:lastmodified":1582352360,
     "wof:name":"As-sayyida Zainab",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

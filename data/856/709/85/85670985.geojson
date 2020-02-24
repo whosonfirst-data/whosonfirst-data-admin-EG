@@ -339,6 +339,9 @@
         "wd:id":"Q30835"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f580e4cb5f908bea6cb4ec066fef5ccc",
     "wof:hierarchy":[
         {
@@ -354,7 +357,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585854,
+    "wof:lastmodified":1582352362,
     "wof:name":"Al Gharbiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -339,6 +339,9 @@
         "wd:id":"Q30815"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b631dcb2e644211c5aa86db8ba5b623d",
     "wof:hierarchy":[
         {
@@ -354,7 +357,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585859,
+    "wof:lastmodified":1582352364,
     "wof:name":"Janub Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
