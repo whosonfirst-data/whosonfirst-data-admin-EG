@@ -66,6 +66,10 @@
         "qs_pg:id":237754
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e276d9cef4295736f3799a9b48635fe6",
     "wof:hierarchy":[
         {
@@ -81,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585853,
+    "wof:lastmodified":1582352361,
     "wof:name":"El Attarien District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

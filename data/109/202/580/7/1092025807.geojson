@@ -78,6 +78,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897556,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"97d967fc165eb25cfa1a08f095d2a652",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092025807,
-    "wof:lastmodified":1566586467,
+    "wof:lastmodified":1582352374,
     "wof:name":"Tany Shobra El-Kheimah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

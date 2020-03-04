@@ -333,6 +333,9 @@
         "wd:id":"Q30662"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"25516249639b3fc613cb680e28acfcf9",
     "wof:hierarchy":[
         {
@@ -348,7 +351,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585859,
+    "wof:lastmodified":1582352364,
     "wof:name":"Shamal Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

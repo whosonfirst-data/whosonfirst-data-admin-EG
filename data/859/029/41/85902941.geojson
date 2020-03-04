@@ -82,6 +82,9 @@
         "gp:id":1522460
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf1c63d2fe6c9f770dac37006b2c49a2",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566585851,
+    "wof:lastmodified":1582352360,
     "wof:name":"\u0628\u0627\u0628 \u0627\u0644\u0634\u0639\u0631\u064a\u0629",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

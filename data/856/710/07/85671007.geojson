@@ -336,6 +336,9 @@
         "wd:id":"Q31074"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a82af3877c6ffe6f8df5003488d1526",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585861,
+    "wof:lastmodified":1582352364,
     "wof:name":"Ash Sharqiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

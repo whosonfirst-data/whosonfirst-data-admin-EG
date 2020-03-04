@@ -342,6 +342,9 @@
         "wd:id":"Q30682"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b99419c005cc0c94b084078f9a9ea5c9",
     "wof:hierarchy":[
         {
@@ -357,7 +360,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585861,
+    "wof:lastmodified":1582352364,
     "wof:name":"Matruh",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

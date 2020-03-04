@@ -69,6 +69,10 @@
         "qs_pg:id":1087561
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f60ef51451c539a51bf10862da53885b",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585848,
+    "wof:lastmodified":1582352360,
     "wof:name":"Bab As-si'riya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

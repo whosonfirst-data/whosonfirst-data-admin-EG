@@ -85,6 +85,9 @@
         "qs:id":1120441
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"93643f47c2485d6885f42e527891519d",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379294,
+    "wof:lastmodified":1582352360,
     "wof:name":"Chatbi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

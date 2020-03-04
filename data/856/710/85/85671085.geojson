@@ -336,6 +336,9 @@
         "wd:id":"Q30831"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"880c9e07fefc4662ccdb1f30ee3a35f9",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585864,
+    "wof:lastmodified":1582352365,
     "wof:name":"Al Bahr al Ahmar",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

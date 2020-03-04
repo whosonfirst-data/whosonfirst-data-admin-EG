@@ -78,6 +78,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897326,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"c4b677ff90ea6b9d29628f52696dc24b",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092019499,
-    "wof:lastmodified":1566586494,
+    "wof:lastmodified":1582352375,
     "wof:name":"El-Sahel",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

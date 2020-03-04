@@ -261,6 +261,7 @@
     "qs:type":"Governorate",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "meso",
         "quattroshapes"
     ],
     "src:geom_via":"meso",
@@ -294,6 +295,10 @@
         "wd:id":"Q30656"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"bcc7401277b763954860e41319d1d31d",
     "wof:hierarchy":[
         {
@@ -309,7 +314,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585862,
+    "wof:lastmodified":1582352364,
     "wof:name":"Al Fayyum",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

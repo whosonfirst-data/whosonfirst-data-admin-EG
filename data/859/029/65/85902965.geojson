@@ -92,6 +92,9 @@
         "wk:page":"Shubra"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c8f3d5cc95fa80630c544b542c45e110",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379294,
+    "wof:lastmodified":1582352360,
     "wof:name":"\u0634\u0628\u0631\u0627",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

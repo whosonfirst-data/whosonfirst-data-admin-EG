@@ -69,6 +69,10 @@
         "qs_pg:id":1087564
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5995278a98e391e8b450c7206234bfe8",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585847,
+    "wof:lastmodified":1582352360,
     "wof:name":"Qasr An-nil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

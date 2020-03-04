@@ -66,6 +66,10 @@
         "qs_pg:id":1184271
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"251b94531b8ca28a01df4ea17ff8262f",
     "wof:hierarchy":[
         {
@@ -81,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585853,
+    "wof:lastmodified":1582352361,
     "wof:name":"Karmose District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

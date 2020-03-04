@@ -447,6 +447,9 @@
         "wd:id":"Q29937"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d8520d72c571e12f4c8e318b4c96f09",
     "wof:hierarchy":[
         {
@@ -462,7 +465,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585857,
+    "wof:lastmodified":1582352363,
     "wof:name":"Aswan",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

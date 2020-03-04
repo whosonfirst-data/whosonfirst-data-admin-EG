@@ -66,6 +66,10 @@
         "wd:id":"Q5258869"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0733e0e3ce91d8cba562bfeb62226944",
     "wof:hierarchy":[
         {
@@ -80,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585854,
+    "wof:lastmodified":1582352361,
     "wof:name":"El Minaa District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -332,6 +332,9 @@
         "wd:id":"Q30650"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b49ff36a31381b11f5c2f5aff7bb41e",
     "wof:hierarchy":[
         {
@@ -347,7 +350,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585864,
+    "wof:lastmodified":1582352365,
     "wof:name":"Al Wadi at Jadid",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

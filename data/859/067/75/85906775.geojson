@@ -85,6 +85,10 @@
         "wd:id":"Q4518509"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d68cecd7d977508a41a5940dfb0fcd46",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585853,
+    "wof:lastmodified":1582352361,
     "wof:name":"El Raml District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

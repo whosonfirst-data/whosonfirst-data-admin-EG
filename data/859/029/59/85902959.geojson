@@ -141,6 +141,9 @@
         "wk:page":"Nasr City"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"956bd8176a47372653b3f0037bfb10b2",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585849,
+    "wof:lastmodified":1582352360,
     "wof:name":"Mad\u012bnat an Na\u015fr",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

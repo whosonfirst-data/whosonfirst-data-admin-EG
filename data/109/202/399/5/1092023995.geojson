@@ -78,6 +78,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897494,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"e57b4fd4285cf01be338ef11675678f8",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092023995,
-    "wof:lastmodified":1566586456,
+    "wof:lastmodified":1582352374,
     "wof:name":"Roud El-Farag",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

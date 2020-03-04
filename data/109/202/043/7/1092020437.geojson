@@ -77,6 +77,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897360,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"c40aa5091b92d8ae45dbc50d894f23a8",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092020437,
-    "wof:lastmodified":1566586474,
+    "wof:lastmodified":1582352374,
     "wof:name":"El-Zamalek",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

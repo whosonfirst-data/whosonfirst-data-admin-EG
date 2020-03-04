@@ -331,6 +331,9 @@
         "wd:id":"Q30786"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f953090aac5fdbe4b7fe7728ccbc3ddf",
     "wof:hierarchy":[
         {
@@ -346,7 +349,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585854,
+    "wof:lastmodified":1582352361,
     "wof:name":"Al Minufiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

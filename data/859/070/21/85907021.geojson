@@ -100,6 +100,9 @@
         "qs_pg:id":1086003
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"98e7002d98bff176bcf3728e052e403f",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585847,
+    "wof:lastmodified":1582352360,
     "wof:name":"Masakin Zainhum",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

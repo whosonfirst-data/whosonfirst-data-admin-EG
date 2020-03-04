@@ -78,6 +78,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897245,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"b39044916c06fba23030ad46baa3da87",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092017489,
-    "wof:lastmodified":1566586494,
+    "wof:lastmodified":1582352375,
     "wof:name":"El-Dokky",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

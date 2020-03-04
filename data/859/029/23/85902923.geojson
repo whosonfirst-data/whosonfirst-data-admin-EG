@@ -68,6 +68,9 @@
         "gp:id":1521977
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d29e20ce92789dab23ea3f570b2fe4f8",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585851,
+    "wof:lastmodified":1582352360,
     "wof:name":"Al Urm\u00e5n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -78,6 +78,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897543,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"f4c493b6f5000fbf5a74f88342dc8f01",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092025417,
-    "wof:lastmodified":1566586479,
+    "wof:lastmodified":1582352374,
     "wof:name":"Tamyah",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

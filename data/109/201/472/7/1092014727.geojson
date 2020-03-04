@@ -78,6 +78,9 @@
     },
     "wof:country":"EG",
     "wof:created":1473897148,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"fd1acecd34cff5242d829dc9776c934b",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092014727,
-    "wof:lastmodified":1566586499,
+    "wof:lastmodified":1582352375,
     "wof:name":"Awal Shobra El-Kheimah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

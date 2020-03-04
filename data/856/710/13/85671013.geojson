@@ -335,6 +335,9 @@
         "wd:id":"Q31070"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb4a38b8e2eaa732a81dfdf1382db98a",
     "wof:hierarchy":[
         {
@@ -350,7 +353,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585865,
+    "wof:lastmodified":1582352365,
     "wof:name":"As Suways",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

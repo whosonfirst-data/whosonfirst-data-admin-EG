@@ -69,6 +69,10 @@
         "qs_pg:id":1087554
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"75f5fc3373623d62b8b23157374b9813",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585852,
+    "wof:lastmodified":1582352361,
     "wof:name":"Madinat Al-bu'ut",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

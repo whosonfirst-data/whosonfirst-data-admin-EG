@@ -294,6 +294,7 @@
     "qs:type":"Governorate",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
+        "meso",
         "quattroshapes"
     ],
     "src:geom_via":"meso",
@@ -327,6 +328,10 @@
         "wd:id":"Q31075"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2ba98a128ce2a83ca3247d0b6eae37ee",
     "wof:hierarchy":[
         {
@@ -342,7 +347,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585858,
+    "wof:lastmodified":1582352363,
     "wof:name":"Al Qalyubiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

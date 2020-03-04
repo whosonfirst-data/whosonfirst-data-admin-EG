@@ -324,6 +324,9 @@
         "wd:id":"Q30946"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e712e8b138bb0f52214c5182b313509",
     "wof:hierarchy":[
         {
@@ -339,7 +342,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585857,
+    "wof:lastmodified":1582352363,
     "wof:name":"Kafr ash Shaykh",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

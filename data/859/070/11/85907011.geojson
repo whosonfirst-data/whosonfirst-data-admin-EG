@@ -69,6 +69,10 @@
         "qs_pg:id":1087562
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e77852a305f4b046fcd2a8eab4de62b0",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566585846,
+    "wof:lastmodified":1582352360,
     "wof:name":"Ad-darb Al-ahmar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

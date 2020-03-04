@@ -397,6 +397,9 @@
         "wd:id":"Q30683"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"746e59f1bc0084cf4e22b59f46160e14",
     "wof:hierarchy":[
         {
@@ -412,7 +415,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585861,
+    "wof:lastmodified":1582352364,
     "wof:name":"Bani Suwayf",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

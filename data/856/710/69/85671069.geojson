@@ -436,6 +436,9 @@
         "wd:id":"Q29965"
     },
     "wof:country":"EG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ce05b9e6584850fd47fe8a206ba1858",
     "wof:hierarchy":[
         {
@@ -451,7 +454,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566585859,
+    "wof:lastmodified":1582352363,
     "wof:name":"Asyut",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
