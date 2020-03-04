@@ -1045,7 +1045,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "meso",
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1120,7 +1119,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582352362,
+    "wof:lastmodified":1583232899,
     "wof:name":"Egypt",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
