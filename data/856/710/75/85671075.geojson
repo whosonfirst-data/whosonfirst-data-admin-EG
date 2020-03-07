@@ -323,6 +323,9 @@
         85671071
     ],
     "wof:concordances":{
+        "digitalenvoy:region_code":[
+            25298
+        ],
         "fips:code":"EG23",
         "gn:id":350546,
         "gp:id":2345245,
@@ -351,7 +354,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582352364,
+    "wof:lastmodified":1583538265,
     "wof:name":"Qina",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

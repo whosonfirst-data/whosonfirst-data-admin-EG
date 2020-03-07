@@ -329,6 +329,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":[
+            25308
+        ],
         "fips:code":"EG26",
         "gn:id":355182,
         "gp:id":2345247,
@@ -357,7 +360,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582352364,
+    "wof:lastmodified":1583538265,
     "wof:name":"Janub Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

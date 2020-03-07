@@ -344,6 +344,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":[
+            25300
+        ],
         "fct:id":"0823613a-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"EG06",
         "gn:id":361059,
@@ -373,7 +376,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582352364,
+    "wof:lastmodified":1583538264,
     "wof:name":"Al Iskandariyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
