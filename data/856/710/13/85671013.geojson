@@ -325,9 +325,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25309
-        ],
+        "digitalenvoy:region_code":25309,
         "fips:code":"EG15",
         "gn:id":359797,
         "gp:id":2345237,
@@ -356,7 +354,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538265,
+    "wof:lastmodified":1583882732,
     "wof:name":"As Suways",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

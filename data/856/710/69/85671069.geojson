@@ -426,9 +426,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25302
-        ],
+        "digitalenvoy:region_code":25302,
         "fips:code":"EG17",
         "gn:id":359781,
         "gp:id":2345239,
@@ -457,7 +455,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538264,
+    "wof:lastmodified":1583882731,
     "wof:name":"Asyut",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

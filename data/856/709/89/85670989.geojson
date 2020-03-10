@@ -328,9 +328,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25296
-        ],
+        "digitalenvoy:region_code":25296,
         "fips:code":"EG07",
         "gn:id":361056,
         "gp:id":2345229,
@@ -358,7 +356,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538265,
+    "wof:lastmodified":1583882731,
     "wof:name":"Al Isma`iliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

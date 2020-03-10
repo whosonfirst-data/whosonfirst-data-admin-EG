@@ -349,9 +349,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25289
-        ],
+        "digitalenvoy:region_code":25289,
         "fips:code":"EG11",
         "gn:id":360631,
         "gp:id":2345233,
@@ -380,7 +378,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538264,
+    "wof:lastmodified":1583882731,
     "wof:name":"Al Qahirah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

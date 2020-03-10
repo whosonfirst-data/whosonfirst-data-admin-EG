@@ -331,9 +331,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25291
-        ],
+        "digitalenvoy:region_code":25291,
         "fips:code":"EG03",
         "gn:id":361370,
         "gp:id":2345225,
@@ -361,7 +359,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538264,
+    "wof:lastmodified":1583882731,
     "wof:name":"Al Buhayrah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

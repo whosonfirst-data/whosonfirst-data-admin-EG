@@ -319,9 +319,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25297
-        ],
+        "digitalenvoy:region_code":25297,
         "fips:code":"EG12",
         "gn:id":360621,
         "gp:id":2345234,
@@ -350,7 +348,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538265,
+    "wof:lastmodified":1583882731,
     "wof:name":"Al Qalyubiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

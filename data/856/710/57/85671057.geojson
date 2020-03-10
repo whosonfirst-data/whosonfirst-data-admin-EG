@@ -314,9 +314,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25304
-        ],
+        "digitalenvoy:region_code":25304,
         "fips:code":"EG21",
         "gn:id":354500,
         "gp:id":2345243,
@@ -345,7 +343,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538265,
+    "wof:lastmodified":1583882731,
     "wof:name":"Kafr ash Shaykh",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

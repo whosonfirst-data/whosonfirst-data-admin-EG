@@ -347,9 +347,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28983
-        ],
+        "digitalenvoy:region_code":28983,
         "fips:code":"EG10",
         "gn:id":360688,
         "gp:id":2345232,
@@ -377,7 +375,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538265,
+    "wof:lastmodified":1583882731,
     "wof:name":"Al Minya",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

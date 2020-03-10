@@ -322,9 +322,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25293
-        ],
+        "digitalenvoy:region_code":25293,
         "fips:code":"EG20",
         "gn:id":358044,
         "gp:id":2345242,
@@ -353,7 +351,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538265,
+    "wof:lastmodified":1583882731,
     "wof:name":"Dumyat",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
