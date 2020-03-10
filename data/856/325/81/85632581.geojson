@@ -1076,9 +1076,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Egypt",
-        "digitalenvoy:country_code":[
-            818
-        ],
+        "digitalenvoy:country_code":818,
         "fb:id":"en.egypt",
         "fifa:id":"EGY",
         "fips:code":"EG",
@@ -1122,7 +1120,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529124,
+    "wof:lastmodified":1583797329,
     "wof:name":"Egypt",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
