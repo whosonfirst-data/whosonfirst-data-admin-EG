@@ -437,6 +437,7 @@
         85671071
     ],
     "wof:concordances":{
+        "digitalenvoy:region_code":25301,
         "fips:code":"EG16",
         "gn:id":359787,
         "gp:id":2345238,
@@ -465,7 +466,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582352363,
+    "wof:lastmodified":1583882731,
     "wof:name":"Aswan",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

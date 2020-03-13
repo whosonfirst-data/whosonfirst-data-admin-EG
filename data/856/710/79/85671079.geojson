@@ -325,6 +325,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":25306,
         "fips:code":"EG24",
         "gn:id":347794,
         "gp:id":2345246,
@@ -353,7 +354,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582352364,
+    "wof:lastmodified":1583882731,
     "wof:name":"Suhaj",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

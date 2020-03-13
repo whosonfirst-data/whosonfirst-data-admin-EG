@@ -289,6 +289,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":25299,
         "fips:code":"EG28",
         "gn:id":7603259,
         "gp:id":56120896,
@@ -317,7 +318,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582352364,
+    "wof:lastmodified":1583882731,
     "wof:name":"Luxor",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

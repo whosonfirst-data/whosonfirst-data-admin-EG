@@ -330,6 +330,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "digitalenvoy:region_code":25294,
         "fips:code":"EG05",
         "gn:id":361294,
         "gp:id":2345227,
@@ -357,7 +358,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582352362,
+    "wof:lastmodified":1583882731,
     "wof:name":"Al Gharbiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
