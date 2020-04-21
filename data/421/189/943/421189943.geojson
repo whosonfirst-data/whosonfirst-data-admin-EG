@@ -144,7 +144,7 @@
         "Farafra"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bb0\u0bbe\u0baa\u0bbf\u0bb0\u0bbe "
+        "\u0baa\u0bb0\u0bbe\u0baa\u0bbf\u0bb0\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c30\u0c3e\u0c2b\u0c4d\u0c30\u0c3e"
@@ -159,7 +159,7 @@
         "\u0424\u0430\u0440\u0430\u0444\u0440\u0430"
     ],
     "name:urd_x_preferred":[
-        "\u0641\u0627\u0631\u0627\u0641\u0631\u0627 "
+        "\u0641\u0627\u0631\u0627\u0641\u0631\u0627"
     ],
     "name:vie_x_preferred":[
         "Farafra"
@@ -190,8 +190,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85671071,
-        1092017585
+        1092017585,
+        85671071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -212,7 +212,7 @@
         }
     ],
     "wof:id":421189943,
-    "wof:lastmodified":1566586566,
+    "wof:lastmodified":1587163137,
     "wof:name":"Qasr Farafra",
     "wof:parent_id":1092017585,
     "wof:placetype":"locality",
