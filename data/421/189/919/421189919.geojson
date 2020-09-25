@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0649 \u0633\u0648\u064a\u0641"
+    ],
+    "name:eng_x_preferred":[
+        "Bani Suef"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421189919,
-    "wof:lastmodified":1566586565,
-    "wof:name":"\u0628\u0646\u0649 \u0633\u0648\u064a\u0641",
+    "wof:lastmodified":1601068394,
+    "wof:name":"Bani Suef",
     "wof:parent_id":1092015341,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
