@@ -10,6 +10,12 @@
     "geom:latitude":30.46776,
     "geom:longitude":30.924119,
     "iso:country":"EG",
+    "label:eng_x_preferred_longname":[
+        "Minuf City"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "city"
+    ],
     "lbl:bbox":"30.904119,30.44776,30.944119,30.48776",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -21,6 +27,9 @@
         "\u0645\u062f\u064a\u0646\u0629 \u0645\u0646\u0648\u0641"
     ],
     "name:eng_x_preferred":[
+        "Minuf"
+    ],
+    "name:eng_x_variant":[
         "Minuf City"
     ],
     "qs:gn_country":null,
@@ -66,8 +75,8 @@
         }
     ],
     "wof:id":421203723,
-    "wof:lastmodified":1601068400,
-    "wof:name":"Minuf City",
+    "wof:lastmodified":1601337573,
+    "wof:name":"Minuf",
     "wof:parent_id":1092022369,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
