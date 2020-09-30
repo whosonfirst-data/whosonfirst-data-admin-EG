@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.3247805,31.2315175,32.3247805,31.2315175",
+    "geom:bbox":"32.324781,31.231517,32.324781,31.231517",
     "geom:latitude":31.231517,
     "geom:longitude":32.324781,
     "iso:country":"EG",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u0641\u0648\u0627\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Port Fuad"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85671021,
-        1092021001
+        1092021001,
+        85671021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"EG",
     "wof:created":1459009640,
-    "wof:geomhash":"413d8f1caa96d662b73f256cdfa054c4",
+    "wof:geomhash":"dc636b5be5ae73ceb35232caa23135de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421189923,
-    "wof:lastmodified":1566586563,
-    "wof:name":"\u0628\u0648\u0631\u0641\u0648\u0627\u062f",
+    "wof:lastmodified":1601423091,
+    "wof:name":"Port Fuad",
     "wof:parent_id":1092021001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.3247805,
-    31.2315175,
-    32.3247805,
-    31.2315175
+    32.324781,
+    31.231517,
+    32.324781,
+    31.231517
 ],
-  "geometry": {"coordinates":[32.3247805,31.2315175],"type":"Point"}
+  "geometry": {"coordinates":[32.324781,31.231517],"type":"Point"}
 }

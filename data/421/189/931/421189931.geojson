@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645 \u0627\u0645\u0628\u0648"
+    ],
+    "name:eng_x_preferred":[
+        "Kom Ombo"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85671061,
-        1092021927
+        1092021927,
+        85671061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421189931,
-    "wof:lastmodified":1566586562,
-    "wof:name":"\u0643\u0648\u0645 \u0627\u0645\u0628\u0648",
+    "wof:lastmodified":1601423090,
+    "wof:name":"Kom Ombo",
     "wof:parent_id":1092021927,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
