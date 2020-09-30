@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85670989,
-        1092014845
+        1092014845,
+        85670989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421174837,
-    "wof:lastmodified":1601068388,
+    "wof:lastmodified":1601423089,
     "wof:name":"Ismailia",
     "wof:parent_id":1092014845,
     "wof:placetype":"locality",

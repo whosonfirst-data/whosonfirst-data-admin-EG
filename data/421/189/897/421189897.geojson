@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85671003,
-        1092018935
+        1092018935,
+        85671003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421189897,
-    "wof:lastmodified":1601068399,
+    "wof:lastmodified":1601423091,
     "wof:name":"Qalyub",
     "wof:parent_id":1092018935,
     "wof:placetype":"locality",

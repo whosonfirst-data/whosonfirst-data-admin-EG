@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"33.8348175,27.235269,33.8348175,27.235269",
+    "geom:bbox":"33.834817,27.235269,33.834817,27.235269",
     "geom:latitude":27.235269,
     "geom:longitude":33.834817,
     "iso:country":"EG",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85671085,
-        1092021497
+        1092021497,
+        85671085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"EG",
     "wof:created":1459010045,
-    "wof:geomhash":"f359cfa21b03ced14f5e80891d2fe01c",
+    "wof:geomhash":"28f810696754e4693d05cacf0dbe3567",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421200913,
-    "wof:lastmodified":1601068391,
+    "wof:lastmodified":1601423089,
     "wof:name":"Hurghada",
     "wof:parent_id":1092021497,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.8348175,
+    33.834817,
     27.235269,
-    33.8348175,
+    33.834817,
     27.235269
 ],
-  "geometry": {"coordinates":[33.8348175,27.235269],"type":"Point"}
+  "geometry": {"coordinates":[33.834817,27.235269],"type":"Point"}
 }

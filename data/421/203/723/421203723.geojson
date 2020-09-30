@@ -10,12 +10,6 @@
     "geom:latitude":30.46776,
     "geom:longitude":30.924119,
     "iso:country":"EG",
-    "label:eng_x_preferred_longname":[
-        "Minuf City"
-    ],
-    "label:eng_x_preferred_placetype":[
-        "city"
-    ],
     "lbl:bbox":"30.904119,30.44776,30.944119,30.48776",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
@@ -54,8 +48,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85670995,
-        1092022369
+        1092022369,
+        85670995
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,7 +69,7 @@
         }
     ],
     "wof:id":421203723,
-    "wof:lastmodified":1601337573,
+    "wof:lastmodified":1601423090,
     "wof:name":"Minuf",
     "wof:parent_id":1092022369,
     "wof:placetype":"locality",

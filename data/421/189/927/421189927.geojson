@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85670999,
-        1092015839
+        1092015839,
+        85670999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421189927,
-    "wof:lastmodified":1601068393,
+    "wof:lastmodified":1601423089,
     "wof:name":"Imbaba",
     "wof:parent_id":1092015839,
     "wof:placetype":"locality",

@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85671047,
-        1092020349
+        1092020349,
+        85671047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421189955,
-    "wof:lastmodified":1601068401,
+    "wof:lastmodified":1601423094,
     "wof:name":"Warraq Al Arab",
     "wof:parent_id":1092020349,
     "wof:placetype":"locality",

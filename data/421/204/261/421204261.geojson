@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.016666,31.2881335,30.016666,31.2881335",
+    "geom:bbox":"30.016666,31.288134,30.016666,31.288134",
     "geom:latitude":31.288134,
     "geom:longitude":30.016666,
     "iso:country":"EG",
@@ -54,7 +54,7 @@
     },
     "wof:country":"EG",
     "wof:created":1459010179,
-    "wof:geomhash":"16d92f3e21e1687700eb32600d558cde",
+    "wof:geomhash":"8636d0f604a4d69868fb869da0627459",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":421204261,
-    "wof:lastmodified":1601068392,
+    "wof:lastmodified":1601423085,
     "wof:name":"Al Montazah",
     "wof:parent_id":85671041,
     "wof:placetype":"locality",
@@ -75,9 +75,9 @@
 },
   "bbox": [
     30.016666,
-    31.2881335,
+    31.288134,
     30.016666,
-    31.2881335
+    31.288134
 ],
-  "geometry": {"coordinates":[30.016666,31.2881335],"type":"Point"}
+  "geometry": {"coordinates":[30.016666,31.288134],"type":"Point"}
 }

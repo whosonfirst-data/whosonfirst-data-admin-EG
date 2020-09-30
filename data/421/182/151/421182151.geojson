@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        85671047,
-        1092022885
+        1092022885,
+        85671047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421182151,
-    "wof:lastmodified":1601068399,
+    "wof:lastmodified":1601423090,
     "wof:name":"Kerdasa",
     "wof:parent_id":1092022885,
     "wof:placetype":"locality",
