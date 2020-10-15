@@ -70,8 +70,7 @@
         "Helwan"
     ],
     "name:eng_x_variant":[
-        "Hilwan",
-        "Helwan"
+        "Hilwan"
     ],
     "name:eus_x_preferred":[
         "Helwan"
@@ -174,7 +173,7 @@
         }
     ],
     "wof:id":1092021427,
-    "wof:lastmodified":1566586465,
+    "wof:lastmodified":1602720867,
     "wof:name":"Helwan",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

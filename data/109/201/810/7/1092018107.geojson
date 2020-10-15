@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0625\u0628\u0631\u0627\u0647\u064a\u0645\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
-        "Al-Ibrahimiyah"
+        "El-Ibrahimeyah"
     ],
     "name:eng_x_variant":[
-        "El-Ibrahimiya",
-        "Al-Ibrahimiyah"
+        "Al-Ibrahimiyah",
+        "El-Ibrahimiya"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092018107,
-    "wof:lastmodified":1566586487,
+    "wof:lastmodified":1602720864,
     "wof:name":"El-Ibrahimeyah",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

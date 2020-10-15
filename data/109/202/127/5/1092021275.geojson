@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u0627\u0626\u0642 \u0627\u0644\u0642\u0628\u0629"
+    ],
     "name:eng_x_preferred":[
-        "Hada'iq al-Qubbah"
+        "Hadayeq El-Qobbah"
     ],
     "name:eng_x_variant":[
-        "Hadaiq Al-Qubba",
-        "Hada'iq al-Qubbah"
+        "Hada'iq al-Qubbah",
+        "Hadaiq Al-Qubba"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092021275,
-    "wof:lastmodified":1566586465,
+    "wof:lastmodified":1602720865,
     "wof:name":"Hadayeq El-Qobbah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

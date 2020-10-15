@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0633\u064a\u0646\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
-        "Al-Husayniyah"
+        "El-Hoseineyah"
     ],
     "name:eng_x_variant":[
-        "Al-Husayniya",
-        "Al-Husayniyah"
+        "Al-Husayniyah",
+        "Al-Husayniya"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092018091,
-    "wof:lastmodified":1566586501,
+    "wof:lastmodified":1602720864,
     "wof:name":"El-Hoseineyah",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

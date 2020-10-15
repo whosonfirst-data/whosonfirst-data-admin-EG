@@ -67,10 +67,9 @@
         "\u039c\u03ac\u03c1\u03c3\u03b1 \u0391\u03bb\u03ac\u03bc"
     ],
     "name:eng_x_preferred":[
-        "Marsa 'Alam"
+        "Marsa Alam"
     ],
     "name:eng_x_variant":[
-        "Marsa Alam",
         "Marsa 'Alam"
     ],
     "name:fas_x_preferred":[
@@ -141,7 +140,7 @@
         }
     ],
     "wof:id":1092022093,
-    "wof:lastmodified":1566586474,
+    "wof:lastmodified":1602720860,
     "wof:name":"Marsa Alam",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

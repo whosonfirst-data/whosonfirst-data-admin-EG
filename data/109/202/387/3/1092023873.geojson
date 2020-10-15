@@ -61,7 +61,7 @@
         "\u03a1\u03b1\u03c2 \u03a3\u03b9\u03bd\u03c4\u03c1"
     ],
     "name:eng_x_preferred":[
-        "Ras Sidr"
+        "Ras Sedr"
     ],
     "name:eng_x_variant":[
         "Ras Sidr"
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1092023873,
-    "wof:lastmodified":1566586479,
+    "wof:lastmodified":1602720868,
     "wof:name":"Ras Sedr",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

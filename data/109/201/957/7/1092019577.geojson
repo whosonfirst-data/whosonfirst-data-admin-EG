@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u0644\u062d\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
     "name:eng_x_preferred":[
-        "New Salhiyah"
+        "El-Salheyah El-Gedidah"
     ],
     "name:eng_x_variant":[
-        "Al-Salhiyya",
-        "New Salhiyah"
+        "New Salhiyah",
+        "Al-Salhiyya"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092019577,
-    "wof:lastmodified":1566586495,
+    "wof:lastmodified":1602720863,
     "wof:name":"El-Salheyah El-Gedidah",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

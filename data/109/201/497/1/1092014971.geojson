@@ -45,10 +45,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644 \u0627\u0644\u0632\u0642\u0627\u0632\u064a\u0642"
+    ],
     "name:eng_x_preferred":[
-        "Az-Zaqaziq 1"
+        "Awel El-Zaqazeeq"
     ],
     "name:eng_x_variant":[
+        "Az-Zaqaziq 1",
         "Zaqaziq 2"
     ],
     "src:geom":"meso",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1092014971,
-    "wof:lastmodified":1566586490,
+    "wof:lastmodified":1602720861,
     "wof:name":"Awel El-Zaqazeeq",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

@@ -45,10 +45,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0631\u0645"
+    ],
     "name:eng_x_preferred":[
-        "Pyramids"
+        "El-Ahram"
     ],
     "name:eng_x_variant":[
+        "Pyramids",
         "Al-Ahram"
     ],
     "src:geom":"meso",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1092016591,
-    "wof:lastmodified":1566586492,
+    "wof:lastmodified":1602720862,
     "wof:name":"El-Ahram",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0634\u0639\u0631\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
-        "Bab ash-Sha'riyah"
+        "Bab El-Sha'reyah"
     ],
     "name:eng_x_variant":[
-        "Bab Al-Shariyya",
-        "Bab ash-Sha'riyah"
+        "Bab ash-Sha'riyah",
+        "Bab Al-Shariyya"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092015143,
-    "wof:lastmodified":1566586505,
+    "wof:lastmodified":1602720861,
     "wof:name":"Bab El-Sha'reyah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -81,9 +81,6 @@
     "name:eng_x_preferred":[
         "Rafah"
     ],
-    "name:eng_x_variant":[
-        "Rafah"
-    ],
     "name:epo_x_preferred":[
         "Rafah"
     ],
@@ -206,7 +203,7 @@
         }
     ],
     "wof:id":1092023763,
-    "wof:lastmodified":1566586466,
+    "wof:lastmodified":1602720868,
     "wof:name":"Rafah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

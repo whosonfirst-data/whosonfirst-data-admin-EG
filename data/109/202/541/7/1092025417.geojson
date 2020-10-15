@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u0645\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
-        "Tamiyah"
+        "Tamyah"
     ],
     "name:eng_x_variant":[
-        "Tamya",
-        "Tamiyah"
+        "Tamiyah",
+        "Tamya"
     ],
     "src:geom":"whosonfirst",
     "src:geom_via":"meso",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092025417,
-    "wof:lastmodified":1582352374,
+    "wof:lastmodified":1602720869,
     "wof:name":"Tamyah",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0646\u0628\u0644\u0627\u0648\u064a\u0646"
+    ],
     "name:eng_x_preferred":[
-        "As-Sinbillawayn"
+        "El-Senbelawein"
     ],
     "name:eng_x_variant":[
-        "Sinbillawin",
-        "As-Sinbillawayn"
+        "As-Sinbillawayn",
+        "Sinbillawin"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092019741,
-    "wof:lastmodified":1566586505,
+    "wof:lastmodified":1602720866,
     "wof:name":"El-Senbelawein",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

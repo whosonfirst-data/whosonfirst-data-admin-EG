@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u064a\u0633\u0646\u0627"
+    ],
     "name:eng_x_preferred":[
-        "Quwaysina"
+        "Qoweisna"
     ],
     "name:eng_x_variant":[
-        "Quwisna",
-        "Quwaysina"
+        "Quwaysina",
+        "Quwisna"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092023671,
-    "wof:lastmodified":1566586470,
+    "wof:lastmodified":1602720868,
     "wof:name":"Qoweisna",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

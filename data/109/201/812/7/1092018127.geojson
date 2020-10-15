@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u064a\u0641\u0629"
+    ],
     "name:eng_x_preferred":[
-        "Al-Khalifa"
+        "El-Khalifah"
     ],
     "name:eng_x_variant":[
-        "Al Khalifa",
-        "Al-Khalifa"
+        "Al-Khalifa",
+        "Al Khalifa"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092018127,
-    "wof:lastmodified":1566586499,
+    "wof:lastmodified":1602720864,
     "wof:name":"El-Khalifah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

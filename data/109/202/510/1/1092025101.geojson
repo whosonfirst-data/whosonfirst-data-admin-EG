@@ -60,9 +60,6 @@
     "name:eng_x_preferred":[
         "Tahta"
     ],
-    "name:eng_x_variant":[
-        "Tahta"
-    ],
     "name:fas_x_preferred":[
         "\u0637\u0647\u0637\u0627"
     ],
@@ -125,7 +122,7 @@
         }
     ],
     "wof:id":1092025101,
-    "wof:lastmodified":1566586464,
+    "wof:lastmodified":1602720868,
     "wof:name":"Tahta",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

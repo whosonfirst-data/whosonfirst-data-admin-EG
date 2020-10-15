@@ -69,9 +69,6 @@
     "name:eng_x_preferred":[
         "Banha"
     ],
-    "name:eng_x_variant":[
-        "Banha"
-    ],
     "name:fas_x_preferred":[
         "\u0628\u0646\u0647\u0627"
     ],
@@ -179,7 +176,7 @@
         }
     ],
     "wof:id":1092015253,
-    "wof:lastmodified":1566586505,
+    "wof:lastmodified":1602720861,
     "wof:name":"Banha",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

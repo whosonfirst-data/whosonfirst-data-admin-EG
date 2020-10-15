@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0627\u0633\u0637\u064a"
+    ],
     "name:eng_x_preferred":[
-        "Al-Wasta"
+        "El-Wasty"
     ],
     "name:eng_x_variant":[
-        "Al Wasta",
-        "Al-Wasta"
+        "Al-Wasta",
+        "Al Wasta"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092020395,
-    "wof:lastmodified":1566586463,
+    "wof:lastmodified":1602720866,
     "wof:name":"El-Wasty",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

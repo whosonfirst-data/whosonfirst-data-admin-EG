@@ -45,8 +45,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0633\u0648\u0642"
+    ],
     "name:eng_x_preferred":[
-        "Disuq"
+        "Desooq"
     ],
     "name:eng_x_variant":[
         "Disuq"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092016203,
-    "wof:lastmodified":1566586489,
+    "wof:lastmodified":1602720862,
     "wof:name":"Desooq",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

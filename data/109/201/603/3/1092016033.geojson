@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631\u0645\u0648\u0627\u0633"
+    ],
     "name:eng_x_preferred":[
-        "Dayr Mawas"
+        "Deir Mowas"
     ],
     "name:eng_x_variant":[
-        "Markz Dir Mawas",
-        "Dayr Mawas"
+        "Dayr Mawas",
+        "Markz Dir Mawas"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092016033,
-    "wof:lastmodified":1566586491,
+    "wof:lastmodified":1602720862,
     "wof:name":"Deir Mowas",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

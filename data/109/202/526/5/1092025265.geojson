@@ -46,7 +46,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
-        "\u0637\u0644\u062e\u0627"
+        "\u0637\u0644\u062e\u0629"
     ],
     "name:arz_x_preferred":[
         "\u0637\u0644\u062e\u0627"
@@ -61,9 +61,6 @@
         "\u03a4\u03ac\u03bb\u03c7\u03b1"
     ],
     "name:eng_x_preferred":[
-        "Talkha"
-    ],
-    "name:eng_x_variant":[
         "Talkha"
     ],
     "name:fas_x_preferred":[
@@ -122,7 +119,7 @@
         }
     ],
     "wof:id":1092025265,
-    "wof:lastmodified":1566586465,
+    "wof:lastmodified":1602720869,
     "wof:name":"Talkha",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

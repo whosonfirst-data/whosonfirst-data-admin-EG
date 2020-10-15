@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0644\u0633"
+    ],
     "name:eng_x_preferred":[
-        "Al-Burulus"
+        "El-Borolos"
     ],
     "name:eng_x_variant":[
-        "Burullus",
-        "Al-Burulus"
+        "Al-Burulus",
+        "Burullus"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092017189,
-    "wof:lastmodified":1566586507,
+    "wof:lastmodified":1602720863,
     "wof:name":"El-Borolos",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

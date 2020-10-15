@@ -45,6 +45,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0642\u0633\u0645 \u0634\u0631\u0637\u0629 \u0645\u064a\u0646\u0627\u0621 \u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Police station of Alexandria Port"
+    ],
     "name:eng_x_variant":[
         "Port Alexandria Police Department"
     ],
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1092023373,
-    "wof:lastmodified":1566586456,
+    "wof:lastmodified":1602720860,
     "wof:name":"Police station of Alexandria Port",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

@@ -45,10 +45,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062b\u0627\u0646 \u0633\u0648\u0647\u0627\u062c"
+    ],
     "name:eng_x_preferred":[
-        "Sawhaj 2"
+        "Tany Sohag"
     ],
     "name:eng_x_variant":[
+        "Sawhaj 2",
         "Suhag",
         "Sawhaj"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1092025853,
-    "wof:lastmodified":1566586478,
+    "wof:lastmodified":1602720868,
     "wof:name":"Tany Sohag",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

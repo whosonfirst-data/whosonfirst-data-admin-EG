@@ -45,6 +45,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0644 \u0627\u0644\u0639\u0631\u064a\u0634"
+    ],
     "name:eng_x_preferred":[
         "Awel El-Areesh"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092014815,
-    "wof:lastmodified":1566586499,
+    "wof:lastmodified":1602720860,
     "wof:name":"Awel El-Areesh",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

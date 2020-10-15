@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u0627"
+    ],
     "name:eng_x_preferred":[
-        "Biyala"
+        "Beela"
     ],
     "name:eng_x_variant":[
-        "Biyalu",
-        "Biyala"
+        "Biyala",
+        "Biyalu"
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a40\u0a32\u0a3e"
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092015463,
-    "wof:lastmodified":1566586506,
+    "wof:lastmodified":1602720861,
     "wof:name":"Beela",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

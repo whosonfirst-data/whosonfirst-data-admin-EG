@@ -45,12 +45,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u064a"
+    ],
     "name:eng_x_preferred":[
         "Matay"
     ],
     "name:eng_x_variant":[
-        "Markz Matay",
-        "Matay"
+        "Markz Matay"
     ],
     "name:msa_x_preferred":[
         "Matay"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1092022239,
-    "wof:lastmodified":1566586472,
+    "wof:lastmodified":1602720867,
     "wof:name":"Matay",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

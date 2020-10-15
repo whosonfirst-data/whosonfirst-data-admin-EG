@@ -45,15 +45,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0635\u0631"
+    ],
     "name:deu_x_preferred":[
         "Naser"
     ],
     "name:eng_x_preferred":[
-        "Nasir Bush"
+        "Naser"
     ],
     "name:eng_x_variant":[
-        "Nasir",
-        "Nasir Bush"
+        "Nasir Bush",
+        "Nasir"
     ],
     "name:fra_x_preferred":[
         "Naser"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1092022779,
-    "wof:lastmodified":1566586471,
+    "wof:lastmodified":1602720867,
     "wof:name":"Naser",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

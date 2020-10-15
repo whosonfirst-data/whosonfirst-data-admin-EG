@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u062f\u0645\u064a\u0627\u0637 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
     "name:eng_x_preferred":[
-        "New Damietta City"
+        "Domiat El-Gedidah City"
     ],
     "name:eng_x_variant":[
-        "Dumyat Al-Gadida",
-        "New Damietta City"
+        "New Damietta City",
+        "Dumyat Al-Gadida"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092016271,
-    "wof:lastmodified":1566586489,
+    "wof:lastmodified":1602720861,
     "wof:name":"Domiat El-Gedidah City",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0635\u0644"
+    ],
     "name:eng_x_preferred":[
-        "Faisal"
+        "Feisal"
     ],
     "name:eng_x_variant":[
-        "Faysal",
-        "Faisal"
+        "Faisal",
+        "Faysal"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092020979,
-    "wof:lastmodified":1566586463,
+    "wof:lastmodified":1602720866,
     "wof:name":"Feisal",
     "wof:parent_id":85671013,
     "wof:placetype":"county",

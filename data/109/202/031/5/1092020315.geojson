@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0642\u0641"
+    ],
     "name:eng_x_preferred":[
-        "Al-Waqf"
+        "El-Waqf"
     ],
     "name:eng_x_variant":[
-        "Al Waqf",
-        "Al-Waqf"
+        "Al-Waqf",
+        "Al Waqf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092020315,
-    "wof:lastmodified":1566586462,
+    "wof:lastmodified":1602720866,
     "wof:name":"El-Waqf",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

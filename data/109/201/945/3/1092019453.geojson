@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641"
+    ],
     "name:eng_x_preferred":[
-        "As-Saff"
+        "El-Saf"
     ],
     "name:eng_x_variant":[
-        "Saf",
-        "As-Saff"
+        "As-Saff",
+        "Saf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092019453,
-    "wof:lastmodified":1566586506,
+    "wof:lastmodified":1602720865,
     "wof:name":"El-Saf",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

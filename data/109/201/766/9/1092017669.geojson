@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u062a\u062d"
+    ],
     "name:eng_x_preferred":[
-        "Al-Fath"
+        "El-Fath"
     ],
     "name:eng_x_variant":[
-        "Alfath",
-        "Al-Fath"
+        "Al-Fath",
+        "Alfath"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092017669,
-    "wof:lastmodified":1566586497,
+    "wof:lastmodified":1602720863,
     "wof:name":"El-Fath",
     "wof:parent_id":85671069,
     "wof:placetype":"county",
