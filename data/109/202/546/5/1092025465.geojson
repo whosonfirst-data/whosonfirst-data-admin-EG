@@ -81,9 +81,6 @@
     "name:eng_x_preferred":[
         "Tanta"
     ],
-    "name:eng_x_variant":[
-        "Tanta"
-    ],
     "name:est_x_preferred":[
         "\u0162an\u0163\u0101"
     ],
@@ -218,7 +215,7 @@
         }
     ],
     "wof:id":1092025465,
-    "wof:lastmodified":1566586480,
+    "wof:lastmodified":1602720869,
     "wof:name":"Tanta",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

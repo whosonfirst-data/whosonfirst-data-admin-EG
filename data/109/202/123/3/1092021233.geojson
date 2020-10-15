@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062c\u0647\u064a\u0646\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
-        "Juhaynah al-Gharbiyah"
+        "Gohaynah El-Gharbeyah"
     ],
     "name:eng_x_variant":[
-        "Guhayna Al-Gharbiyya",
-        "Juhaynah al-Gharbiyah"
+        "Juhaynah al-Gharbiyah",
+        "Guhayna Al-Gharbiyya"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092021233,
-    "wof:lastmodified":1566586479,
+    "wof:lastmodified":1602720864,
     "wof:name":"Gohaynah El-Gharbeyah",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

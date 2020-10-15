@@ -76,11 +76,11 @@
         "\u0395\u03bd\u03c4\u03c6\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
-        "Idfu"
+        "Edfu"
     ],
     "name:eng_x_variant":[
-        "Adfu",
-        "Idfu"
+        "Idfu",
+        "Adfu"
     ],
     "name:eus_x_preferred":[
         "Edfu"
@@ -210,7 +210,7 @@
         }
     ],
     "wof:id":1092016437,
-    "wof:lastmodified":1566586486,
+    "wof:lastmodified":1602720862,
     "wof:name":"Edfu",
     "wof:parent_id":85671061,
     "wof:placetype":"county",

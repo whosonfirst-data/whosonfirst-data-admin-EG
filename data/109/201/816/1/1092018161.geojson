@@ -45,6 +45,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0628\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "El-Labban"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092018161,
-    "wof:lastmodified":1566586486,
+    "wof:lastmodified":1602720864,
     "wof:name":"El-Labban",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

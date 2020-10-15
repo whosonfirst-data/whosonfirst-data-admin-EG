@@ -45,8 +45,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0634\u0643\u0631"
+    ],
     "name:eng_x_preferred":[
-        "Kafr Shukr"
+        "Kafr Shokr"
     ],
     "name:eng_x_variant":[
         "Kafr Shukr"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092021747,
-    "wof:lastmodified":1566586464,
+    "wof:lastmodified":1602720867,
     "wof:name":"Kafr Shokr",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

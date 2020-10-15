@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0638\u0627\u0647\u0631"
+    ],
     "name:eng_x_preferred":[
-        "Az-Zahir"
+        "El-Daher"
     ],
     "name:eng_x_variant":[
-        "Al Zahir",
-        "Az-Zahir"
+        "Az-Zahir",
+        "Al Zahir"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092017273,
-    "wof:lastmodified":1566586507,
+    "wof:lastmodified":1602720863,
     "wof:name":"El-Daher",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

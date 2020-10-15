@@ -45,8 +45,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631\u0648\u062a"
+    ],
     "name:eng_x_preferred":[
-        "Dayrut"
+        "Dayroot"
     ],
     "name:eng_x_variant":[
         "Dayrut"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092015987,
-    "wof:lastmodified":1566586497,
+    "wof:lastmodified":1602720862,
     "wof:name":"Dayroot",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

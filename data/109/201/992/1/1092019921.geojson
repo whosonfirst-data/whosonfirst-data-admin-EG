@@ -45,6 +45,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u062e \u0632\u0648\u064a\u062f"
+    ],
     "name:eng_x_preferred":[
         "El-Sheikh Zoweid"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092019921,
-    "wof:lastmodified":1566586495,
+    "wof:lastmodified":1602720866,
     "wof:name":"El-Sheikh Zoweid",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

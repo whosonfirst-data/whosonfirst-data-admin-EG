@@ -45,8 +45,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0643\u0628\u064a\u0631"
+    ],
     "name:eng_x_preferred":[
-        "Abu Kabir"
+        "Abu Kebeer"
     ],
     "name:eng_x_variant":[
         "Abu Kabir"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092014175,
-    "wof:lastmodified":1566586497,
+    "wof:lastmodified":1602720860,
     "wof:name":"Abu Kebeer",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

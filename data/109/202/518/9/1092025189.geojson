@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062b\u0627\u0644\u062b \u0627\u0644\u0639\u0631\u064a\u0634"
+    ],
     "name:eng_x_preferred":[
-        "Al-'Arish 3"
+        "Talet El-Areesh"
     ],
     "name:eng_x_variant":[
-        "El Arish 3",
-        "Al-'Arish 3"
+        "Al-'Arish 3",
+        "El Arish 3"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092025189,
-    "wof:lastmodified":1566586466,
+    "wof:lastmodified":1602720862,
     "wof:name":"Talet El-Areesh",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

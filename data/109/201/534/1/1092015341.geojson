@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u064a \u0633\u0648\u064a\u0641"
+    ],
     "name:eng_x_preferred":[
-        "Bani Suwayf"
+        "Bany Sweif"
     ],
     "name:eng_x_variant":[
-        "Bani Swayf",
-        "Bani Suwayf"
+        "Bani Suwayf",
+        "Bani Swayf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092015341,
-    "wof:lastmodified":1566586483,
+    "wof:lastmodified":1602720861,
     "wof:name":"Bany Sweif",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

@@ -58,10 +58,10 @@
         "Ain Shams"
     ],
     "name:eng_x_preferred":[
-        "Ain Schams"
+        "Ain Shams"
     ],
     "name:eng_x_variant":[
-        "Ain Shams",
+        "Ain Schams",
         "'Ain Schams"
     ],
     "name:fas_x_preferred":[
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":1092014527,
-    "wof:lastmodified":1566586490,
+    "wof:lastmodified":1602720860,
     "wof:name":"Ain Shams",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

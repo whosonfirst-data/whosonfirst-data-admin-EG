@@ -45,11 +45,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0637\u0633\u0627"
+    ],
     "name:eng_x_preferred":[
-        "Itsa"
+        "Atsa"
     ],
     "name:eng_x_variant":[
-        "Atsa",
         "Itsa"
     ],
     "src:geom":"meso",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1092014683,
-    "wof:lastmodified":1566586501,
+    "wof:lastmodified":1602720860,
     "wof:name":"Atsa",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

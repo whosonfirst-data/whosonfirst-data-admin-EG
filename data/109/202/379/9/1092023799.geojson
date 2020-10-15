@@ -45,6 +45,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u0628\u0631"
+    ],
     "name:eng_x_preferred":[
         "Ras El-Bar"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092023799,
-    "wof:lastmodified":1566586464,
+    "wof:lastmodified":1602720863,
     "wof:name":"Ras El-Bar",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

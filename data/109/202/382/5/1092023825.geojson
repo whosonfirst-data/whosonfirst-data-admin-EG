@@ -46,7 +46,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
-        "\u0631\u0623\u0633 \u063a\u0627\u0631\u0628"
+        "\u0631\u0623\u0633 \u063a\u0631\u064a\u0628"
     ],
     "name:arz_x_preferred":[
         "\u0631\u0627\u0633 \u063a\u0627\u0631\u0628"
@@ -58,7 +58,7 @@
         "Ras Gharib"
     ],
     "name:eng_x_preferred":[
-        "Ras Gharib"
+        "Ras Ghareb"
     ],
     "name:eng_x_variant":[
         "Ras Gharib"
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":1092023825,
-    "wof:lastmodified":1566586466,
+    "wof:lastmodified":1602720867,
     "wof:name":"Ras Ghareb",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

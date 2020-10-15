@@ -61,10 +61,9 @@
         "Tama"
     ],
     "name:eng_x_preferred":[
-        "Tima"
+        "Tama"
     ],
     "name:eng_x_variant":[
-        "Tama",
         "Tima"
     ],
     "name:fin_x_preferred":[
@@ -159,7 +158,7 @@
         }
     ],
     "wof:id":1092025329,
-    "wof:lastmodified":1566586457,
+    "wof:lastmodified":1602720869,
     "wof:name":"Tama",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

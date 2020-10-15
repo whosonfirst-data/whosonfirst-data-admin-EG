@@ -45,11 +45,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0647\u0646\u0627\u0633\u064a\u0627"
+    ],
     "name:eng_x_preferred":[
-        "Ihnasiya"
+        "Ahnasya"
     ],
     "name:eng_x_variant":[
-        "Ahnasya",
         "Ihnasiya"
     ],
     "src:geom":"meso",
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1092014481,
-    "wof:lastmodified":1566586487,
+    "wof:lastmodified":1602720860,
     "wof:name":"Ahnasya",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

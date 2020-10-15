@@ -45,8 +45,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a \u063a\u0645\u0631"
+    ],
     "name:eng_x_preferred":[
-        "Mit Ghamr"
+        "Meet Ghamr"
     ],
     "name:eng_x_variant":[
         "Mit Ghamr"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092022277,
-    "wof:lastmodified":1566586457,
+    "wof:lastmodified":1602720867,
     "wof:name":"Meet Ghamr",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

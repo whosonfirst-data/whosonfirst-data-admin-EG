@@ -45,6 +45,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0633\u064a\u0645"
+    ],
     "name:eng_x_preferred":[
         "Oseem"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092023283,
-    "wof:lastmodified":1566586479,
+    "wof:lastmodified":1602720868,
     "wof:name":"Oseem",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

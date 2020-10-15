@@ -45,6 +45,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u0627\u0646\u0629"
+    ],
     "name:eng_x_preferred":[
         "Rommanah"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1092023953,
-    "wof:lastmodified":1566586467,
+    "wof:lastmodified":1602720868,
     "wof:name":"Rommanah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

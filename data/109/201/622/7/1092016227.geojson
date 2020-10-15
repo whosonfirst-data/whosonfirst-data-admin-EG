@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0643\u0631\u0646\u0633"
+    ],
     "name:eng_x_preferred":[
-        "Bani Ubayd"
+        "Dokornos"
     ],
     "name:eng_x_variant":[
-        "Bany Abeed",
-        "Bani Ubayd"
+        "Bani Ubayd",
+        "Bany Abeed"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092016227,
-    "wof:lastmodified":1566586498,
+    "wof:lastmodified":1602720862,
     "wof:name":"Dokornos",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

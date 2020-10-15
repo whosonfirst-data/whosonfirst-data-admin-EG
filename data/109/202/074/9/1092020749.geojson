@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u062a\u0627\u064a \u0627\u0644\u0628\u0627\u0631\u0648\u062f"
+    ],
     "name:eng_x_preferred":[
-        "Ityay al-Barud"
+        "Etay El-Barood"
     ],
     "name:eng_x_variant":[
-        "Itay Al-Barud",
-        "Ityay al-Barud"
+        "Ityay al-Barud",
+        "Itay Al-Barud"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092020749,
-    "wof:lastmodified":1566586472,
+    "wof:lastmodified":1602720863,
     "wof:name":"Etay El-Barood",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

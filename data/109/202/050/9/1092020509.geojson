@@ -45,10 +45,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0642\u0627"
+    ],
     "name:eng_x_preferred":[
-        "Az-Zarqa'"
+        "El-Zarqah"
     ],
     "name:eng_x_variant":[
+        "Az-Zarqa'",
         "Zarqa"
     ],
     "src:geom":"meso",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1092020509,
-    "wof:lastmodified":1566586475,
+    "wof:lastmodified":1602720866,
     "wof:name":"El-Zarqah",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0634\u064a\u0629"
+    ],
     "name:eng_x_preferred":[
-        "Al-Manshiyah"
+        "El-Mansheyah"
     ],
     "name:eng_x_variant":[
-        "Al Manshiyya",
-        "Al-Manshiyah"
+        "Al-Manshiyah",
+        "Al Manshiyya"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092018369,
-    "wof:lastmodified":1566586501,
+    "wof:lastmodified":1602720864,
     "wof:name":"El-Mansheyah",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

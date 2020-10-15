@@ -55,6 +55,9 @@
         "Shubra"
     ],
     "name:eng_x_preferred":[
+        "Shobra"
+    ],
+    "name:eng_x_variant":[
         "Shubra"
     ],
     "name:epo_x_preferred":[
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1092024805,
-    "wof:lastmodified":1566586474,
+    "wof:lastmodified":1602720868,
     "wof:name":"Shobra",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

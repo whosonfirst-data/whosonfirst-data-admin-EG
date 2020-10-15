@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645 \u0623\u0645\u0628\u0648"
+    ],
     "name:eng_x_preferred":[
-        "Kawm Umbu"
+        "Koum Ombu"
     ],
     "name:eng_x_variant":[
-        "Kum Umbu",
-        "Kawm Umbu"
+        "Kawm Umbu",
+        "Kum Umbu"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092021927,
-    "wof:lastmodified":1566586455,
+    "wof:lastmodified":1602720867,
     "wof:name":"Koum Ombu",
     "wof:parent_id":85671061,
     "wof:placetype":"county",

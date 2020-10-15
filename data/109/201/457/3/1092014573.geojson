@@ -45,10 +45,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:eng_x_preferred":[
-        "Armant"
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0645\u0646\u062a"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
         "Armant"
     ],
     "src:geom":"meso",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092014573,
-    "wof:lastmodified":1566586502,
+    "wof:lastmodified":1602720860,
     "wof:name":"Armant",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

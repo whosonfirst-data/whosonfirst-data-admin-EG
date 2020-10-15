@@ -67,11 +67,11 @@
         "\u03a3\u03bf\u03c7\u03ac\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
-        "Sawhaj"
+        "Sohag"
     ],
     "name:eng_x_variant":[
-        "Suhag",
-        "Sawhaj"
+        "Sawhaj",
+        "Suhag"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0647\u0627\u062c"
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":1092025063,
-    "wof:lastmodified":1566586468,
+    "wof:lastmodified":1602720868,
     "wof:name":"Sohag",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

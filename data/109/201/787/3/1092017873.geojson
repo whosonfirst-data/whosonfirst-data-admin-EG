@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0646\u0627\u064a\u0645"
+    ],
     "name:eng_x_preferred":[
-        "Al-Ghanayim"
+        "El-Ghanayem"
     ],
     "name:eng_x_variant":[
-        "Al-Ghanayem",
-        "Al-Ghanayim"
+        "Al-Ghanayim",
+        "Al-Ghanayem"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092017873,
-    "wof:lastmodified":1566586506,
+    "wof:lastmodified":1602720863,
     "wof:name":"El-Ghanayem",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

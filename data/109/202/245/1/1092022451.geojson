@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u064a\u0629 \u0627\u0644\u0646\u0635\u0631"
+    ],
     "name:eng_x_preferred":[
-        "Minyat an-Nasr"
+        "Menyet El-Nasr"
     ],
     "name:eng_x_variant":[
-        "Minya Al-Nasr",
-        "Minyat an-Nasr"
+        "Minyat an-Nasr",
+        "Minya Al-Nasr"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092022451,
-    "wof:lastmodified":1566586458,
+    "wof:lastmodified":1602720865,
     "wof:name":"Menyet El-Nasr",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

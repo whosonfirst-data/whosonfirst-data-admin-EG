@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062c \u0627\u0644\u0639\u0631\u0628"
+    ],
     "name:eng_x_preferred":[
-        "Burj al-'Arab"
+        "Borg El-Arab"
     ],
     "name:eng_x_variant":[
-        "Burg al-Arab",
-        "Burj al-'Arab"
+        "Burj al-'Arab",
+        "Burg al-Arab"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092015739,
-    "wof:lastmodified":1566586495,
+    "wof:lastmodified":1602720861,
     "wof:name":"Borg El-Arab",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

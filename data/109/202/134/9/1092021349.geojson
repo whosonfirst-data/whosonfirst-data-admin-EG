@@ -61,6 +61,9 @@
         "\u03a7\u03b1\u03bb\u03ac\u03b9\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
+        "Halayeb"
+    ],
+    "name:eng_x_variant":[
         "Halayib"
     ],
     "name:fas_x_preferred":[
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1092021349,
-    "wof:lastmodified":1566586456,
+    "wof:lastmodified":1602720867,
     "wof:name":"Halayeb",
     "wof:parent_id":-1,
     "wof:placetype":"county",

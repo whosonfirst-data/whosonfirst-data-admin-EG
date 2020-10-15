@@ -45,8 +45,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0642\u0635\u0631"
+    ],
     "name:eng_x_preferred":[
-        "Luxor"
+        "El-Oksor"
     ],
     "name:eng_x_variant":[
         "Luxor"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092018839,
-    "wof:lastmodified":1566586497,
+    "wof:lastmodified":1602720865,
     "wof:name":"El-Oksor",
     "wof:parent_id":85671097,
     "wof:placetype":"county",

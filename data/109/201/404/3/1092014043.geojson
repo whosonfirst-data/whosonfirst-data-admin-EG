@@ -45,8 +45,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0646\u0648\u0628"
+    ],
     "name:eng_x_preferred":[
-        "Abnub"
+        "Abnoob"
     ],
     "name:eng_x_variant":[
         "Abnub"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092014043,
-    "wof:lastmodified":1566586504,
+    "wof:lastmodified":1602720860,
     "wof:name":"Abnoob",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

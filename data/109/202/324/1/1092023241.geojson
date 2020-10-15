@@ -45,12 +45,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0628\u064a\u0639"
+    ],
     "name:eng_x_preferred":[
-        "Nuweiba'"
+        "Noweiba'"
     ],
     "name:eng_x_variant":[
-        "Nuweiba",
-        "Nuweiba'"
+        "Nuweiba'",
+        "Nuweiba"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1092023241,
-    "wof:lastmodified":1566586465,
+    "wof:lastmodified":1602720868,
     "wof:name":"Noweiba'",
     "wof:parent_id":85671089,
     "wof:placetype":"county",
