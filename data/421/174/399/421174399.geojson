@@ -801,7 +801,9 @@
         85670999
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632581,
+    "wof:capital_of":[
+        85632581
+    ],
     "wof:concordances":{
         "gn:id":360630,
         "gp:id":1521894,
@@ -826,7 +828,7 @@
         }
     ],
     "wof:id":421174399,
-    "wof:lastmodified":1587428985,
+    "wof:lastmodified":1607390877,
     "wof:name":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
     "wof:parent_id":1092016929,
     "wof:placetype":"locality",
