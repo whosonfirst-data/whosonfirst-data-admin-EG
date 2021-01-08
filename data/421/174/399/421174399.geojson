@@ -15,7 +15,7 @@
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
-    "mz:min_zoom":2.1,
+    "mz:min_zoom":1.7,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Al-Qahirah"
@@ -808,6 +808,7 @@
         "gn:id":360630,
         "gp:id":1521894,
         "loc:id":"n79055723",
+        "ne:id":1159151603,
         "qs_pg:id":809700,
         "wd:id":"Q85",
         "wk:page":"Cairo"
@@ -828,7 +829,8 @@
         }
     ],
     "wof:id":421174399,
-    "wof:lastmodified":1607390877,
+    "wof:lastmodified":1608688193,
+    "wof:megacity":1,
     "wof:name":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
     "wof:parent_id":1092016929,
     "wof:placetype":"locality",
