@@ -13,7 +13,6 @@
     "gn:fcode":"PPLA",
     "gn:population":3811516,
     "iso:country":"EG",
-    "lbl:bbox":"29.93527,31.19564,29.97527,31.23564",
     "lbl:latitude":31.201965,
     "lbl:longitude":29.94805,
     "lbl:max_zoom":13.0,
@@ -650,7 +649,7 @@
         }
     ],
     "wof:id":890429453,
-    "wof:lastmodified":1608689811,
+    "wof:lastmodified":1610154837,
     "wof:megacity":1,
     "wof:name":"Alexandria",
     "wof:parent_id":1092024943,
