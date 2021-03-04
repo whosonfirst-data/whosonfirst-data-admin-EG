@@ -104,10 +104,10 @@
         "Bur Sa\u2019idin kuvernoraatti"
     ],
     "name:fra_x_preferred":[
-        "Gouvernorat de Port-Sa\u00efd"
+        "Port-Sa\u00efd"
     ],
     "name:fra_x_variant":[
-        "Port-Sa\u00efd"
+        "Gouvernorat de Port-Sa\u00efd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0ab0\u0acd\u0a9f \u0ab8\u0ac7\u0aa1 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -350,7 +350,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882731,
+    "wof:lastmodified":1614893765,
     "wof:name":"Bur Sa`id",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

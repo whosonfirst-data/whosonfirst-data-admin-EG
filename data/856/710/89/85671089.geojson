@@ -104,10 +104,10 @@
         "Janub Sina\u2019"
     ],
     "name:fra_x_preferred":[
-        "Gouvernorat du Sina\u00ef Sud"
+        "Sina\u00ef Sud"
     ],
     "name:fra_x_variant":[
-        "Sina\u00ef Sud"
+        "Gouvernorat du Sina\u00ef Sud"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5 \u0ab8\u0abf\u0aa8\u0abe\u0a87 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -358,7 +358,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882732,
+    "wof:lastmodified":1614893765,
     "wof:name":"Janub Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

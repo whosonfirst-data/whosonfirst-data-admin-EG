@@ -105,10 +105,10 @@
         "Qinan kuvernoraatti"
     ],
     "name:fra_x_preferred":[
-        "gouvernorat de Qena"
+        "Qena"
     ],
     "name:fra_x_variant":[
-        "Qena"
+        "gouvernorat de Qena"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0ac7\u0aa8\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -352,7 +352,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882731,
+    "wof:lastmodified":1614893766,
     "wof:name":"Qina",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

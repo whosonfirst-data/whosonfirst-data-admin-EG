@@ -100,6 +100,9 @@
         "Kafr al-\u0160aykh"
     ],
     "name:fra_x_preferred":[
+        "Kafr el-Cheik"
+    ],
+    "name:fra_x_variant":[
         "Gouvernorat de Kafr el-Cheik"
     ],
     "name:guj_x_preferred":[
@@ -343,7 +346,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882731,
+    "wof:lastmodified":1614893765,
     "wof:name":"Kafr ash Shaykh",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -46,12 +46,12 @@
         "\u12a0\u1235\u12e9\u1275"
     ],
     "name:ara_x_preferred":[
-        "\u0627\u0633\u064a\u0648\u0637",
         "\u0623\u0633\u064a\u0648\u0637"
     ],
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0633\u064a\u0648\u0637",
-        "Asy\u016b\u0163"
+        "Asy\u016b\u0163",
+        "\u0627\u0633\u064a\u0648\u0637"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0633\u064a\u0648\u0637"
@@ -455,7 +455,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882731,
+    "wof:lastmodified":1614893765,
     "wof:name":"Asyut",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

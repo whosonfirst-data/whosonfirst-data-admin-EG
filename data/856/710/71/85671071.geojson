@@ -105,10 +105,10 @@
         "Al-Wadi al-Gadid"
     ],
     "name:fra_x_preferred":[
-        "Gouvernorat de la Nouvelle-Vall\u00e9e"
+        "la Nouvelle-Vall\u00e9e"
     ],
     "name:fra_x_variant":[
-        "la Nouvelle-Vall\u00e9e"
+        "Gouvernorat de la Nouvelle-Vall\u00e9e"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acd\u0aaf\u0ac2 \u0ab5\u0ac7\u0ab2\u0ac0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -350,7 +350,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582352365,
+    "wof:lastmodified":1614893766,
     "wof:name":"Al Wadi at Jadid",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
