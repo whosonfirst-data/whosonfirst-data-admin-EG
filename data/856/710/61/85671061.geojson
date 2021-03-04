@@ -46,11 +46,11 @@
         "Aswan"
     ],
     "name:ara_x_preferred":[
-        "\u0627\u0633\u0648\u0627\u0646",
         "\u0623\u0633\u0648\u0627\u0646"
     ],
     "name:ara_x_variant":[
-        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0633\u0648\u0627\u0646"
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0633\u0648\u0627\u0646",
+        "\u0627\u0633\u0648\u0627\u0646"
     ],
     "name:arz_x_preferred":[
         "\u0623\u0633\u0648\u0627\u0646"
@@ -466,7 +466,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882731,
+    "wof:lastmodified":1614893765,
     "wof:name":"Aswan",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

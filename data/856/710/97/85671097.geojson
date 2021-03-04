@@ -43,12 +43,12 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:ara_x_preferred":[
-        "\u0627\u0644\u0627\u0642\u0635\u0631"
+        "\u0627\u0644\u0623\u0642\u0635\u0631"
     ],
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u0642\u0635\u0631",
         "Al Uq\u015fur",
-        "\u0627\u0644\u0623\u0642\u0635\u0631"
+        "\u0627\u0644\u0627\u0642\u0635\u0631"
     ],
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0623\u0642\u0635\u0631"
@@ -100,10 +100,10 @@
         "Luxorin kuvernoraatti"
     ],
     "name:fra_x_preferred":[
-        "Gouvernorat de Louxor"
+        "Louxor"
     ],
     "name:fra_x_variant":[
-        "Louxor"
+        "Gouvernorat de Louxor"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05dc\u05d5\u05e7\u05e1\u05d5\u05e8"
@@ -318,7 +318,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882731,
+    "wof:lastmodified":1614893766,
     "wof:name":"Luxor",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

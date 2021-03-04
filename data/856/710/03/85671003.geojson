@@ -104,10 +104,10 @@
         "Al-Qalyubiyya"
     ],
     "name:fra_x_preferred":[
-        "Gouvernorat de Qalyubiya"
+        "Qalyubiya"
     ],
     "name:fra_x_variant":[
-        "Qalyubiya"
+        "Gouvernorat de Qalyubiya"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0abe\u0ab2\u0abf\u0aac\u0abf\u0aaf\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -348,7 +348,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882731,
+    "wof:lastmodified":1614893765,
     "wof:name":"Al Qalyubiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -96,10 +96,10 @@
         "Al-Fayyumin kuvernoraatti"
     ],
     "name:fra_x_preferred":[
-        "Gouvernorat du Fayoum"
+        "Fayoum"
     ],
     "name:fra_x_variant":[
-        "Fayoum"
+        "Gouvernorat du Fayoum"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc-\u05e4\u05d9\u05d5\u05dd"
@@ -315,7 +315,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882731,
+    "wof:lastmodified":1614893766,
     "wof:name":"Al Fayyum",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
