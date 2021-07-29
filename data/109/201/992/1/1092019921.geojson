@@ -55,6 +55,9 @@
         "Shaykh Zuwayd",
         "Sheikh Zawid"
     ],
+    "name:fra_x_preferred":[
+        "Sheikh Zuweid"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092019921,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522102,
     "wof:name":"El-Sheikh Zoweid",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Al-Maraghah",
         "Al-Maragha"
     ],
+    "name:fra_x_preferred":[
+        "Al Maraghah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018399,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Maraghah",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Al-Fayyum",
         "Fayyum"
     ],
+    "name:fra_x_preferred":[
+        "El Fayoumy"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092017705,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522092,
     "wof:name":"El-Fayoum",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

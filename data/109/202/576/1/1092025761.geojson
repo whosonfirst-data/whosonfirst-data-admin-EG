@@ -55,6 +55,9 @@
         "Nasr City 2",
         "Madinat Nasr-2"
     ],
+    "name:fra_x_preferred":[
+        "Nasr City"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092025761,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522100,
     "wof:name":"Tany Nasr City",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

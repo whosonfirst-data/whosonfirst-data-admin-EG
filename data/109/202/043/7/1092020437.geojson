@@ -55,6 +55,9 @@
         "Az-Zamalik",
         "Zamalik"
     ],
+    "name:fra_x_preferred":[
+        "Zamalek"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1092020437,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522104,
     "wof:name":"El-Zamalek",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

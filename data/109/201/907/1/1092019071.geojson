@@ -55,6 +55,9 @@
         "Al-Qantarah",
         "Qantara Gharb, al-"
     ],
+    "name:fra_x_preferred":[
+        "El Qantara"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019071,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522093,
     "wof:name":"El-Qantarah",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

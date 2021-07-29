@@ -55,6 +55,9 @@
         "Abdin",
         "'Abdin"
     ],
+    "name:fra_x_preferred":[
+        "Abdeen"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092014011,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522086,
     "wof:name":"Abdeen",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

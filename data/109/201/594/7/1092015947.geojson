@@ -55,6 +55,9 @@
         "Dar as-Salam",
         "Dar al-Salam"
     ],
+    "name:fra_x_preferred":[
+        "Dar El-Salam"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092015947,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522091,
     "wof:name":"Dar El-Salam",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

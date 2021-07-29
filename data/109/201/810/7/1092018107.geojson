@@ -55,6 +55,9 @@
         "Al-Ibrahimiyah",
         "El-Ibrahimiya"
     ],
+    "name:fra_x_preferred":[
+        "Al Ibrahimiyah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018107,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522087,
     "wof:name":"El-Ibrahimeyah",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

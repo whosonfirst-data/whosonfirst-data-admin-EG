@@ -55,6 +55,9 @@
         "Faisal",
         "Faysal"
     ],
+    "name:fra_x_preferred":[
+        "Feisal"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020979,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522096,
     "wof:name":"Feisal",
     "wof:parent_id":85671013,
     "wof:placetype":"county",

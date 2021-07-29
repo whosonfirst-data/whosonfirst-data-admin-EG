@@ -55,6 +55,9 @@
         "Az-Zawiyah al-Hamra'",
         "Zawiyya Al-Hamra"
     ],
+    "name:fra_x_preferred":[
+        "El Zawya El Hamra"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1092020551,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522093,
     "wof:name":"El-Zawyah El-Hamra",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

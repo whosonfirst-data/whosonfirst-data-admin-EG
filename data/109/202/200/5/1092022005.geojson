@@ -56,6 +56,9 @@
         "Kesm Mallawi",
         "Mallawi City"
     ],
+    "name:fra_x_preferred":[
+        "Mallawi"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092022005,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522098,
     "wof:name":"Mallawy",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

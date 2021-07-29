@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Bab Sharqi"
     ],
+    "name:fra_x_preferred":[
+        "Bab Sharqi"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092015183,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522089,
     "wof:name":"Bab Sharqy",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

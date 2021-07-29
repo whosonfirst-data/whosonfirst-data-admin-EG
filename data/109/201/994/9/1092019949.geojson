@@ -55,6 +55,9 @@
         "Ash-Shuhada",
         "Al-Shuhada"
     ],
+    "name:fra_x_preferred":[
+        "Shuhada"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019949,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522102,
     "wof:name":"El-Shohada",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

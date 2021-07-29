@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Marsa Matruh"
     ],
+    "name:fra_x_preferred":[
+        "Marsa Matruh"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092022115,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522099,
     "wof:name":"Marsa Matrooh",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

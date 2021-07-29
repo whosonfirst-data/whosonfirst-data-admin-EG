@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Qus"
     ],
+    "name:fra_x_preferred":[
+        "Qoos"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092023581,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1627522101,
     "wof:name":"Qoos",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

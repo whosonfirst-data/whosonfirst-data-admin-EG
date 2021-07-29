@@ -55,6 +55,9 @@
         "Faraskur",
         "Fariskur"
     ],
+    "name:fra_x_preferred":[
+        "Faraskour"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020865,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522096,
     "wof:name":"Farasko",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

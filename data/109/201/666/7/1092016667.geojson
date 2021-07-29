@@ -55,6 +55,9 @@
         "Zemam Out",
         "Unorganized in Al Qahirah"
     ],
+    "name:fra_x_preferred":[
+        "El-Amal"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092016667,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522094,
     "wof:name":"El-Amal",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

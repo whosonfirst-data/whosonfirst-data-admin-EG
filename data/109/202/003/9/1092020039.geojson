@@ -55,6 +55,9 @@
         "At-Tall al-Kabir",
         "Tal al-Kabir, al-"
     ],
+    "name:fra_x_preferred":[
+        "El Tal El Kebeer"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020039,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522093,
     "wof:name":"El-Tal El-Kebeer",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

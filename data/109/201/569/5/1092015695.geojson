@@ -55,6 +55,9 @@
         "Zemam Out",
         "Unorganized in Al Iskandariyah"
     ],
+    "name:fra_x_preferred":[
+        "Borg El Arab"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092015695,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522090,
     "wof:name":"Borg El-Arab City",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

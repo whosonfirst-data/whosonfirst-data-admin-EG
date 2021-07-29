@@ -55,6 +55,9 @@
         "As-Sayidah Zaynab",
         "Sayyida Zainab"
     ],
+    "name:fra_x_preferred":[
+        "El-Sayedah Zeinab"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019693,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522096,
     "wof:name":"El-Sayedah Zeinab",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

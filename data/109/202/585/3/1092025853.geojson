@@ -56,6 +56,9 @@
         "Suhag",
         "Sawhaj"
     ],
+    "name:fra_x_preferred":[
+        "Sohag"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092025853,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1627522103,
     "wof:name":"Tany Sohag",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

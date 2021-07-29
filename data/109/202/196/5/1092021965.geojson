@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Markz Maghagha"
     ],
+    "name:fra_x_preferred":[
+        "Maghaghah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092021965,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522098,
     "wof:name":"Maghaghah",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

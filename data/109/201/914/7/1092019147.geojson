@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Rafah"
     ],
+    "name:fra_x_preferred":[
+        "El Qasem"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1092019147,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522093,
     "wof:name":"El-Qaseemah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

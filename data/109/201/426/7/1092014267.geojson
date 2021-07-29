@@ -56,6 +56,9 @@
         "Al-Tur",
         "At-Tur"
     ],
+    "name:fra_x_preferred":[
+        "Abu Redeis"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092014267,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522086,
     "wof:name":"Abu Redeis",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

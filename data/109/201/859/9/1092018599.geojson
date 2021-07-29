@@ -55,6 +55,9 @@
         "Al-Manshah",
         "Al-Minshat"
     ],
+    "name:fra_x_preferred":[
+        "Al-Mahalla Al-Koubra"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018599,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Monshaeh",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

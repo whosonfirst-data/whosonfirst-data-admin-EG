@@ -55,6 +55,9 @@
         "Al-Muntazah",
         "Muntazah"
     ],
+    "name:fra_x_preferred":[
+        "El Montazah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018649,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522092,
     "wof:name":"El-Montazah",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

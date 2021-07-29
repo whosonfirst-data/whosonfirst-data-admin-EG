@@ -55,6 +55,9 @@
         "Al-Tur",
         "At-Tur"
     ],
+    "name:fra_x_preferred":[
+        "El-Tour"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092020113,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522096,
     "wof:name":"El-Tour",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

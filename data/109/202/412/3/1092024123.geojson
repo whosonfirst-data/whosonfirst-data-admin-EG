@@ -55,6 +55,9 @@
         "Sahil Salim",
         "Sahil Silim"
     ],
+    "name:fra_x_preferred":[
+        "Sahel Selim"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092024123,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1627522101,
     "wof:name":"Sahel Seleem",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Ash-Shalatin",
         "Shallatin"
     ],
+    "name:fra_x_preferred":[
+        "Shalateen"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019787,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522102,
     "wof:name":"El-Shalateen",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "As-Saff",
         "Saf"
     ],
+    "name:fra_x_preferred":[
+        "El-Saf"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019453,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522096,
     "wof:name":"El-Saf",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

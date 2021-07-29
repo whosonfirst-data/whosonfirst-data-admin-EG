@@ -55,6 +55,9 @@
         "Az-Zahir",
         "Al Zahir"
     ],
+    "name:fra_x_preferred":[
+        "Daher"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092017273,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522090,
     "wof:name":"El-Daher",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

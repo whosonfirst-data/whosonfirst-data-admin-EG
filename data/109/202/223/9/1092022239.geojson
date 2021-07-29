@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Markz Matay"
     ],
+    "name:fra_x_preferred":[
+        "Matay"
+    ],
     "name:msa_x_preferred":[
         "Matay"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092022239,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522099,
     "wof:name":"Matay",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

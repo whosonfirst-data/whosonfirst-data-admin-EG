@@ -55,6 +55,9 @@
         "Ash-Sharabiyah",
         "Al Sharabiyya"
     ],
+    "name:fra_x_preferred":[
+        "Al-Sharabiya"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019831,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Sharabeyah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -58,6 +58,9 @@
         "Fa'id",
         "Fayid"
     ],
+    "name:fra_x_preferred":[
+        "Fayid"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1092020945,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522096,
     "wof:name":"Fayed",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

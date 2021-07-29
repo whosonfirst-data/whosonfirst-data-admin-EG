@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Port Alexandria Police Department"
     ],
+    "name:fra_x_preferred":[
+        "El Gomrok"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1092017917,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522092,
     "wof:name":"El-Gomrok",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

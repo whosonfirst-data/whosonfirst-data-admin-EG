@@ -55,6 +55,9 @@
         "New Damietta City",
         "Dumyat Al-Gadida"
     ],
+    "name:fra_x_preferred":[
+        "Damietta El-Gadeeda City"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092016271,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522091,
     "wof:name":"Domiat El-Gedidah City",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

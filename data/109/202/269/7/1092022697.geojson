@@ -58,6 +58,9 @@
         "Al-Hasna",
         "Al-Hasanah"
     ],
+    "name:fra_x_preferred":[
+        "Nakhl"
+    ],
     "name:swe_x_preferred":[
         "Nakhl"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1092022697,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522100,
     "wof:name":"Nakhl",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

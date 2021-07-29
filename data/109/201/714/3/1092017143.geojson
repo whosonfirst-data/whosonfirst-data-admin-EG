@@ -55,6 +55,9 @@
         "Al-Baliyana",
         "Al-Balyana"
     ],
+    "name:fra_x_preferred":[
+        "El-Beleena"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092017143,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522094,
     "wof:name":"El-Beleena",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

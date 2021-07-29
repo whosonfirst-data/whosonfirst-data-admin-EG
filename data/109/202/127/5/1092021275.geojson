@@ -55,6 +55,9 @@
         "Hada'iq al-Qubbah",
         "Hadaiq Al-Qubba"
     ],
+    "name:fra_x_preferred":[
+        "Hadayeq El-Qobbah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092021275,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522097,
     "wof:name":"Hadayeq El-Qobbah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

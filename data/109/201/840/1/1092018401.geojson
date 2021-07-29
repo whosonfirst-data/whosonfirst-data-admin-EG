@@ -55,6 +55,9 @@
         "Al-Marj",
         "Marg"
     ],
+    "name:fra_x_preferred":[
+        "Al Marj"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018401,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Marg",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

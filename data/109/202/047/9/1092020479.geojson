@@ -55,6 +55,9 @@
         "Az-Zaqaziq",
         "Zaqaziq"
     ],
+    "name:fra_x_preferred":[
+        "Zagazig"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020479,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522103,
     "wof:name":"El-Zaqazeeq",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

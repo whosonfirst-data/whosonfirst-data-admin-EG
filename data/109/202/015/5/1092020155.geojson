@@ -56,6 +56,9 @@
         "Zemam out",
         "Unorganized in Al Jizah"
     ],
+    "name:fra_x_preferred":[
+        "Al Wahat Al-Bahariya"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092020155,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Wahat El-Bahareyah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

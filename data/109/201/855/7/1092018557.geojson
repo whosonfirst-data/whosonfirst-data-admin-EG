@@ -55,6 +55,9 @@
         "Al-Minya",
         "Markz Al Minya"
     ],
+    "name:fra_x_preferred":[
+        "Al Minya"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018557,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Menya",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Al-Mahmudiyah",
         "Al-Mahmudiyya"
     ],
+    "name:fra_x_preferred":[
+        "Mahmoudiyah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018277,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522098,
     "wof:name":"El-Mahmoudeyah",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

@@ -56,6 +56,9 @@
         "15 Mayu",
         "Helwan"
     ],
+    "name:fra_x_preferred":[
+        "15th of May City"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092014007,
-    "wof:lastmodified":1602720859,
+    "wof:lastmodified":1627522086,
     "wof:name":"15 Mayo",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

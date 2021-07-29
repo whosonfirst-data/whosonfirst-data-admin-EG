@@ -55,6 +55,9 @@
         "Al-Manshiyah",
         "Al Manshiyya"
     ],
+    "name:fra_x_preferred":[
+        "El-Mansheya"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018369,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522095,
     "wof:name":"El-Mansheyah",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

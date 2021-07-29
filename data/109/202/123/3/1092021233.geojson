@@ -55,6 +55,9 @@
         "Juhaynah al-Gharbiyah",
         "Guhayna Al-Gharbiyya"
     ],
+    "name:fra_x_preferred":[
+        "Gohaynah El-Gharbeyah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092021233,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522097,
     "wof:name":"Gohaynah El-Gharbeyah",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

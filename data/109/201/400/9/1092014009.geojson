@@ -55,6 +55,9 @@
         "Sixth of October 2 City",
         "6 October-2"
     ],
+    "name:fra_x_preferred":[
+        "Ville du 6 Octobre"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092014009,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522103,
     "wof:name":"6th October City",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Rud al-Faraj",
         "Rud Al-Farag"
     ],
+    "name:fra_x_preferred":[
+        "Rod Al Farag"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1092023995,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522101,
     "wof:name":"Roud El-Farag",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

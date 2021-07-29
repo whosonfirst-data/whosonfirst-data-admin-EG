@@ -55,6 +55,9 @@
         "Al-Waili",
         "Al Wayli"
     ],
+    "name:fra_x_preferred":[
+        "El Waily"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020273,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522093,
     "wof:name":"El-Waily",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

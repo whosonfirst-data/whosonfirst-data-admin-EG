@@ -55,6 +55,9 @@
         "Qasr an-Nil",
         "Qasr Al-Nile"
     ],
+    "name:fra_x_preferred":[
+        "Qasr El Nil"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1092023493,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522100,
     "wof:name":"Qasr El-Nil",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

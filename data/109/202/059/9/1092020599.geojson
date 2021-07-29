@@ -55,6 +55,9 @@
         "Az-Zaytun",
         "Al Zaytun"
     ],
+    "name:fra_x_preferred":[
+        "Zeitoun"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020599,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522104,
     "wof:name":"El-Zaytoon",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

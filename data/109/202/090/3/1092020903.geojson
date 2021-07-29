@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Farshut"
     ],
+    "name:fra_x_preferred":[
+        "Farshoot"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092020903,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522096,
     "wof:name":"Farshoot",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

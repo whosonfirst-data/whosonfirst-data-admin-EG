@@ -55,6 +55,9 @@
         "Al-Jamaliyah",
         "Gamaliyya"
     ],
+    "name:fra_x_preferred":[
+        "El-Gamaleya"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092017755,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522094,
     "wof:name":"El-Gamaleyah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Tukh"
     ],
+    "name:fra_x_preferred":[
+        "Tukh"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092025939,
-    "wof:lastmodified":1602720869,
+    "wof:lastmodified":1627522103,
     "wof:name":"Tookh",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

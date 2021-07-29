@@ -55,6 +55,9 @@
         "Minyat an-Nasr",
         "Minya Al-Nasr"
     ],
+    "name:fra_x_preferred":[
+        "Menyet El-Nasr"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092022451,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522099,
     "wof:name":"Menyet El-Nasr",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

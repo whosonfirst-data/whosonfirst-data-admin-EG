@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Mit Ghamr"
     ],
+    "name:fra_x_preferred":[
+        "Mit Ghamr"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092022277,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522099,
     "wof:name":"Meet Ghamr",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

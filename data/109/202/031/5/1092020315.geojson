@@ -55,6 +55,9 @@
         "Al-Waqf",
         "Al Waqf"
     ],
+    "name:fra_x_preferred":[
+        "Al Waqf"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020315,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Waqf",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

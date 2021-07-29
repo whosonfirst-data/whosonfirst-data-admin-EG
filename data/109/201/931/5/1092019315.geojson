@@ -55,6 +55,9 @@
         "Ar-Raml 2",
         "Kesm than Al Raml"
     ],
+    "name:fra_x_preferred":[
+        "El-Raml"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019315,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522095,
     "wof:name":"El-Raml",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

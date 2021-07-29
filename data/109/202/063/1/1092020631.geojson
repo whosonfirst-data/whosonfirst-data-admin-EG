@@ -55,6 +55,9 @@
         "Imbabah",
         "Imbaba"
     ],
+    "name:fra_x_preferred":[
+        "Imbaba"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020631,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522097,
     "wof:name":"Embabah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

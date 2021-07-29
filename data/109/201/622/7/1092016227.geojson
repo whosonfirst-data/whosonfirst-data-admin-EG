@@ -55,6 +55,9 @@
         "Bani Ubayd",
         "Bany Abeed"
     ],
+    "name:fra_x_preferred":[
+        "Dokornos"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092016227,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522091,
     "wof:name":"Dokornos",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

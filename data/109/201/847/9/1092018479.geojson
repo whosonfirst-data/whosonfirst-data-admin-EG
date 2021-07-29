@@ -55,6 +55,9 @@
         "Al-Matariyah",
         "Matariyya"
     ],
+    "name:fra_x_preferred":[
+        "Al Matariyyah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018479,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Matareyah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

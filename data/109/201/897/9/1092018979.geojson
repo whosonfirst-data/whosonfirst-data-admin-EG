@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Al-Qanayat"
     ],
+    "name:fra_x_preferred":[
+        "El Qanayat"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092018979,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522093,
     "wof:name":"El-Qanayat",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

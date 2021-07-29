@@ -55,6 +55,9 @@
         "Kafr az-Zayyat",
         "Kafr Al-Zayyat"
     ],
+    "name:fra_x_preferred":[
+        "Kafr El Zayyat"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092021623,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522097,
     "wof:name":"Kafr El-Zayyat",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

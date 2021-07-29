@@ -55,6 +55,9 @@
         "Zemam Out",
         "Unorganized in Al Minya"
     ],
+    "name:fra_x_preferred":[
+        "El-Menia El-Gedida"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092018513,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522095,
     "wof:name":"El-Menya El-Gedidah",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

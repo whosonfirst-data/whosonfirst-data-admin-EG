@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Sadat City"
     ],
+    "name:fra_x_preferred":[
+        "Sadat City"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092019405,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522101,
     "wof:name":"El-Sadat City",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

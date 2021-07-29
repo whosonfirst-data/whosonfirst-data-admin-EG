@@ -55,6 +55,9 @@
         "Kawm Umbu",
         "Kum Umbu"
     ],
+    "name:fra_x_preferred":[
+        "K\u00f4m Ombo"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092021927,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522098,
     "wof:name":"Koum Ombu",
     "wof:parent_id":85671061,
     "wof:placetype":"county",

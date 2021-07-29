@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Al-Hammam"
     ],
+    "name:fra_x_preferred":[
+        "El-Alamein"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1092016623,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522093,
     "wof:name":"El-Alamein",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

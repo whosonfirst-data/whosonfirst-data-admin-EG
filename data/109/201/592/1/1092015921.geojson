@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Damanhur"
     ],
+    "name:fra_x_preferred":[
+        "Damanhur"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092015921,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522090,
     "wof:name":"Damanhoor",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

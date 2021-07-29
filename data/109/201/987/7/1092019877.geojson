@@ -55,6 +55,9 @@
         "Al-Sharq",
         "Ash-Sharq"
     ],
+    "name:fra_x_preferred":[
+        "El-Sharq"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092019877,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522096,
     "wof:name":"El-Sharq",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Ras al-Bar",
         "Damietta"
     ],
+    "name:fra_x_preferred":[
+        "Ra's al Barr"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092023799,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522101,
     "wof:name":"Ras El-Bar",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

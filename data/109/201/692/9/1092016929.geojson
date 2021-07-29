@@ -55,6 +55,9 @@
         "Al-Azbakiyah",
         "Al Azbakiyya"
     ],
+    "name:fra_x_preferred":[
+        "El-Azbakia"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092016929,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522094,
     "wof:name":"El-Azbakeyah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

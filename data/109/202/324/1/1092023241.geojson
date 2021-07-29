@@ -55,6 +55,9 @@
         "Nuweiba'",
         "Nuweiba"
     ],
+    "name:fra_x_preferred":[
+        "Nuweiba"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092023241,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1627522100,
     "wof:name":"Noweiba'",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

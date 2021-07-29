@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Tanta 2"
     ],
+    "name:fra_x_preferred":[
+        "Tanta"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092025893,
-    "wof:lastmodified":1602720869,
+    "wof:lastmodified":1627522103,
     "wof:name":"Tany Tanta",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

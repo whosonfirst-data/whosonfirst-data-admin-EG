@@ -55,6 +55,9 @@
         "Al-Hasanah",
         "Al-Hasna"
     ],
+    "name:fra_x_preferred":[
+        "Al Hasanah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018041,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522087,
     "wof:name":"El-Hasanah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

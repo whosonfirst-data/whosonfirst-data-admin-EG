@@ -51,6 +51,9 @@
     "name:eng_x_preferred":[
         "Armant"
     ],
+    "name:fra_x_preferred":[
+        "Armant"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092014573,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522089,
     "wof:name":"Armant",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

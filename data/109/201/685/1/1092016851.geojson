@@ -55,6 +55,9 @@
         "Al-'Atarin",
         "Al Attarin"
     ],
+    "name:fra_x_preferred":[
+        "El Atareen"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092016851,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522092,
     "wof:name":"El-Atareen",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

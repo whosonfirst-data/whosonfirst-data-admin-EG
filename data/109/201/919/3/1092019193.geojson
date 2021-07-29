@@ -55,6 +55,9 @@
         "Al-Qusayr",
         "Qusir"
     ],
+    "name:fra_x_preferred":[
+        "El Qousseir"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019193,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522093,
     "wof:name":"El-Qoseir",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Shubra al-Khaymah 2",
         "Shubra Al-Khayma 2"
     ],
+    "name:fra_x_preferred":[
+        "Shubra El-Kheima"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1092025807,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522102,
     "wof:name":"Tany Shobra El-Kheimah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

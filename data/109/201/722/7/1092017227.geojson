@@ -55,6 +55,9 @@
         "Ad-Dab'ah",
         "Daba"
     ],
+    "name:fra_x_preferred":[
+        "El-Dabaa"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092017227,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522094,
     "wof:name":"El-Dab'ah",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

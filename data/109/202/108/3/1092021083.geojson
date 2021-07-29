@@ -55,6 +55,9 @@
         "Jirja",
         "Girga"
     ],
+    "name:fra_x_preferred":[
+        "Girga"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092021083,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522097,
     "wof:name":"Gerga City",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

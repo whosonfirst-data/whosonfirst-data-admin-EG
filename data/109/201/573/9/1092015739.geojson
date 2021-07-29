@@ -55,6 +55,9 @@
         "Burj al-'Arab",
         "Burg al-Arab"
     ],
+    "name:fra_x_preferred":[
+        "Borg El Arab"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092015739,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522090,
     "wof:name":"Borg El-Arab",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Daraw"
     ],
+    "name:fra_x_preferred":[
+        "Deraw"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092016115,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522091,
     "wof:name":"Deraw",
     "wof:parent_id":85671061,
     "wof:placetype":"county",

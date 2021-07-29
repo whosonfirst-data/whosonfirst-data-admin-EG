@@ -55,6 +55,9 @@
         "Mina Al-Basal",
         "Port al-Basal"
     ],
+    "name:fra_x_preferred":[
+        "El-Labban"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092018161,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522095,
     "wof:name":"El-Labban",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

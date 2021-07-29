@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Abu Hummus"
     ],
+    "name:fra_x_preferred":[
+        "Abu Hummus"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092014133,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522086,
     "wof:name":"Abu Homos",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

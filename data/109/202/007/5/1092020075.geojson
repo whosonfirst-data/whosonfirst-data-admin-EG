@@ -55,6 +55,9 @@
         "At-Tebin",
         "Al Tibbin"
     ],
+    "name:fra_x_preferred":[
+        "El-Tebeen"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020075,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522096,
     "wof:name":"El-Tebeen",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "As-Salum",
         "Salloum"
     ],
+    "name:fra_x_preferred":[
+        "El-Saloom"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019621,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522096,
     "wof:name":"El-Saloom",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

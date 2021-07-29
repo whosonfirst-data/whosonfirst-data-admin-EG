@@ -55,6 +55,9 @@
         "Kafr ash-Shaykh",
         "Kafr Al-Shaykh"
     ],
+    "name:fra_x_preferred":[
+        "Kafr el-Cheik"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092021581,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522097,
     "wof:name":"Kafr El-Sheikh",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Police Department Port Said Port",
         "Ash-Sharq"
     ],
+    "name:fra_x_preferred":[
+        "Port Police Station"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092023405,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1627522100,
     "wof:name":"Police station of Port Said Port",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

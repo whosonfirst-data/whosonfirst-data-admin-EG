@@ -55,6 +55,9 @@
         "Shubra Khit",
         "Shubra Kh\u00eet"
     ],
+    "name:fra_x_preferred":[
+        "Shobrakheet"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092024849,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1627522102,
     "wof:name":"Shobrakheet",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

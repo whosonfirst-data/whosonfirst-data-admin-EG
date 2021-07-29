@@ -55,6 +55,9 @@
         "Ad-Duqi",
         "DuqqI"
     ],
+    "name:fra_x_preferred":[
+        "Dokki"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1092017489,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522091,
     "wof:name":"El-Dokky",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

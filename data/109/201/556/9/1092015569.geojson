@@ -55,6 +55,9 @@
         "Bilbays",
         "Bilbis"
     ],
+    "name:fra_x_preferred":[
+        "Bilb\u00e9is"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092015569,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522090,
     "wof:name":"Belbeis",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

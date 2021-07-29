@@ -55,6 +55,9 @@
         "Hawsh 'Isa",
         "Hush Isa"
     ],
+    "name:fra_x_preferred":[
+        "Housh Eissa"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092021459,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522097,
     "wof:name":"Housh Eisa",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

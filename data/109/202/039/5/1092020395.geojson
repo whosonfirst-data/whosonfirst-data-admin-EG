@@ -55,6 +55,9 @@
         "Al-Wasta",
         "Al Wasta"
     ],
+    "name:fra_x_preferred":[
+        "El Wasta"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020395,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522093,
     "wof:name":"El-Wasty",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

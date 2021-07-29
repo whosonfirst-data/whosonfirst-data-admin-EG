@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Kafr Shukr"
     ],
+    "name:fra_x_preferred":[
+        "Kafr Shokr"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092021747,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522098,
     "wof:name":"Kafr Shokr",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

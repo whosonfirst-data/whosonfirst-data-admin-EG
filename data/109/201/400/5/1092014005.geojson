@@ -55,6 +55,9 @@
         "Zemam Out",
         "Unorganized in Ash Sharqiyah"
     ],
+    "name:fra_x_preferred":[
+        "10th of Ramadan City"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092014005,
-    "wof:lastmodified":1602720859,
+    "wof:lastmodified":1627522086,
     "wof:name":"10th Ramadan City",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

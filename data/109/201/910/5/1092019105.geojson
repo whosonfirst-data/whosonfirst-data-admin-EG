@@ -55,6 +55,9 @@
         "Al-Qurayn",
         "Qurin"
     ],
+    "name:fra_x_preferred":[
+        "El-Qareen"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019105,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522095,
     "wof:name":"El-Qareen",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

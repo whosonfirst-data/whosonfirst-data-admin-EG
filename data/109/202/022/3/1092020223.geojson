@@ -55,6 +55,9 @@
         "Al-Wahat al-Kharijah",
         "Al-Kharga Oasis"
     ],
+    "name:fra_x_preferred":[
+        "Al Wahat Al Kharga"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020223,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Wahat El-Khargah",
     "wof:parent_id":85671071,
     "wof:placetype":"county",

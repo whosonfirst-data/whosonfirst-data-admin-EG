@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Mubark-Sharq Tafrea"
     ],
+    "name:fra_x_preferred":[
+        "Mubarak - Sharq at-Tafri'tah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092023075,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522100,
     "wof:name":"Mubarak - Sharq at-Tafri'tah",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

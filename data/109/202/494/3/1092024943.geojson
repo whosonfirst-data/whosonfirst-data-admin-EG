@@ -55,6 +55,9 @@
         "Sidi Jabir",
         "Bab Sharqi"
     ],
+    "name:fra_x_preferred":[
+        "Sidi Gabir"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092024943,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522102,
     "wof:name":"Sidy Gaber",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

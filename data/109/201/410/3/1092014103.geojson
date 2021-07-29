@@ -51,6 +51,9 @@
     "name:eng_x_preferred":[
         "Abu Hammad"
     ],
+    "name:fra_x_preferred":[
+        "Abu Hammad"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092014103,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522086,
     "wof:name":"Abu Hammad",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

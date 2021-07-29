@@ -55,6 +55,9 @@
         "El Arish 4",
         "Al-'Arish 4"
     ],
+    "name:fra_x_preferred":[
+        "El-Arich"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092014815,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522094,
     "wof:name":"Awel El-Areesh",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

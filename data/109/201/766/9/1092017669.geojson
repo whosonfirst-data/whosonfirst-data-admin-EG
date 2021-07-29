@@ -55,6 +55,9 @@
         "Al-Fath",
         "Alfath"
     ],
+    "name:fra_x_preferred":[
+        "El Fath"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092017669,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522092,
     "wof:name":"El-Fath",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

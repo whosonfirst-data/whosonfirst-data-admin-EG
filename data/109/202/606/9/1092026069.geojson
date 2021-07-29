@@ -66,6 +66,9 @@
     "name:fas_x_preferred":[
         "\u0632\u0641\u062a\u06cc"
     ],
+    "name:fra_x_preferred":[
+        "Zefta"
+    ],
     "name:kat_x_preferred":[
         "\u10d6\u10d8\u10e4\u10d7\u10d8"
     ],
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1092026069,
-    "wof:lastmodified":1602720869,
+    "wof:lastmodified":1627522104,
     "wof:name":"Zefta",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

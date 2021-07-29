@@ -55,6 +55,9 @@
         "Police Department Port of Damietta",
         "Port of Damietta Police Department"
     ],
+    "name:fra_x_preferred":[
+        "Damietta El-Gadeeda Port"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1092016319,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522091,
     "wof:name":"Domiat El-Gedidah Port",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

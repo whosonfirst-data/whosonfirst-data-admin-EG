@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Siwa"
     ],
+    "name:fra_x_preferred":[
+        "Siwa"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092025019,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1627522103,
     "wof:name":"Siwah",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Shurtah al-Dakhlah",
         "A-Dakhla Oasis"
     ],
+    "name:fra_x_preferred":[
+        "Al Wahat Al Dakhla"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020201,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Wahat El-Dakhlah",
     "wof:parent_id":85671071,
     "wof:placetype":"county",

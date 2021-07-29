@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Ihnasiya"
     ],
+    "name:fra_x_preferred":[
+        "Ahnasya"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092014481,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522087,
     "wof:name":"Ahnasya",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

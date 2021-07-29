@@ -55,6 +55,9 @@
         "Az-Zarqa'",
         "Zarqa"
     ],
+    "name:fra_x_preferred":[
+        "Al-Zarqa"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092020509,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522088,
     "wof:name":"El-Zarqah",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

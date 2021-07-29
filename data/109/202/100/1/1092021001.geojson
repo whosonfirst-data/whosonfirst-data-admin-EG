@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Port Fuad 2"
     ],
+    "name:fra_x_preferred":[
+        "Fouad Port"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092021001,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522097,
     "wof:name":"Fouad Port",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

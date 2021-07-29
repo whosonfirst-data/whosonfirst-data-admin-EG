@@ -55,6 +55,9 @@
         "Monshat Nasr",
         "Minshat Nasir"
     ],
+    "name:fra_x_preferred":[
+        "Monshaet Naser"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092022571,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522099,
     "wof:name":"Monshaet Naser",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

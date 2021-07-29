@@ -55,6 +55,9 @@
         "Zemam Out",
         "Unorganized in Al Buhayrah"
     ],
+    "name:fra_x_preferred":[
+        "El-Nobareyah City"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092018763,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522095,
     "wof:name":"El-Nobareyah City",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Abu al-Matamir",
         "Abu-l-Matamir"
     ],
+    "name:fra_x_preferred":[
+        "Abu Al Matamir"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092014061,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522086,
     "wof:name":"Abu El-Matameer",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

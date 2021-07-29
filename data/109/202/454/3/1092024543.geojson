@@ -55,6 +55,9 @@
         "Shibin al-Kawm",
         "Shibin al-Kum"
     ],
+    "name:fra_x_preferred":[
+        "Shibin El Kom"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092024543,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522102,
     "wof:name":"Shebeen El-Koum",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

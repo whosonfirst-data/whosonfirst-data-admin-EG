@@ -55,6 +55,9 @@
         "Bab ash-Sha'riyah",
         "Bab Al-Shariyya"
     ],
+    "name:fra_x_preferred":[
+        "Bab El-Sha'reyah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092015143,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522089,
     "wof:name":"Bab El-Sha'reyah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

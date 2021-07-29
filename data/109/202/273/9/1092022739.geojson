@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Naqada"
     ],
+    "name:fra_x_preferred":[
+        "Nagada"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092022739,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522100,
     "wof:name":"Naqadah",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

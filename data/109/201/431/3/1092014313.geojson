@@ -55,6 +55,9 @@
         "Abu Tij",
         "Abu Tig"
     ],
+    "name:fra_x_preferred":[
+        "Abu Teeg"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092014313,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522086,
     "wof:name":"Abu Teeg",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

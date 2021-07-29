@@ -55,6 +55,9 @@
         "Zemam Out",
         "Unorganized in Al Buhayrah"
     ],
+    "name:fra_x_preferred":[
+        "Ouadi Natroun"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092026023,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522100,
     "wof:name":"Wady El-Natroon",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

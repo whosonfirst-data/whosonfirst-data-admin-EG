@@ -55,6 +55,9 @@
         "Ad-Dukhaylah",
         "Al Dikhila"
     ],
+    "name:fra_x_preferred":[
+        "Dekhela"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092017441,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522091,
     "wof:name":"El-Dekheilah",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

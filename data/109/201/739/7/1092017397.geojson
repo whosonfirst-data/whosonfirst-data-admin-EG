@@ -55,6 +55,9 @@
         "Southern 1",
         "Al-Ganoub"
     ],
+    "name:fra_x_preferred":[
+        "El Dawahy"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092017397,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522092,
     "wof:name":"El-Dawahy",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "As-Sajil",
         "Al Sahil"
     ],
+    "name:fra_x_preferred":[
+        "Elsahel"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1092019499,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522096,
     "wof:name":"El-Sahel",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

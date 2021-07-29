@@ -55,6 +55,9 @@
         "E Mansora 2",
         "Al-Mansurah 2"
     ],
+    "name:fra_x_preferred":[
+        "Al Mansoura"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092014935,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522088,
     "wof:name":"Awel El-Mansourah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

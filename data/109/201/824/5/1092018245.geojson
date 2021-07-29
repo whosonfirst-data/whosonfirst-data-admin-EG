@@ -55,6 +55,9 @@
         "Al-Mahallah al-Kubra",
         "El Mahalla El Kobra"
     ],
+    "name:fra_x_preferred":[
+        "El-Mahalla El-Koubra"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018245,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522095,
     "wof:name":"El-Mahallah El-Kobra",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

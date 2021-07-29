@@ -55,6 +55,9 @@
         "Yusuf as-Sidiq",
         "Yousef El sadeq"
     ],
+    "name:fra_x_preferred":[
+        "Ebshoway"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092016391,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522092,
     "wof:name":"Ebshoway",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

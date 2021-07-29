@@ -55,6 +55,9 @@
         "Ancient Cairo",
         "Misr Al-Qadima"
     ],
+    "name:fra_x_preferred":[
+        "Masr Al-Qadeem"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092022211,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522099,
     "wof:name":"Masr El-Qadeemah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

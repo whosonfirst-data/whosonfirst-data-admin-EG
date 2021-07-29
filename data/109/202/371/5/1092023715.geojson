@@ -55,6 +55,9 @@
         "Shaykh Zuwayd",
         "Sheikh Zawid"
     ],
+    "name:fra_x_preferred":[
+        "Rabe El-Areesh"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092023715,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522101,
     "wof:name":"Rabe' El-Areesh",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

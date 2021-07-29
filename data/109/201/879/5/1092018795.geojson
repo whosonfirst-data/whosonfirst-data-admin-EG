@@ -55,6 +55,9 @@
         "An-Nuzhah",
         "Nuzha"
     ],
+    "name:fra_x_preferred":[
+        "El-Nozha"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018795,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522095,
     "wof:name":"El-Nozhah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

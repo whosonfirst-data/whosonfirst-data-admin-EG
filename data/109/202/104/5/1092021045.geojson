@@ -55,6 +55,9 @@
         "Fuwah",
         "Fuwwa"
     ],
+    "name:fra_x_preferred":[
+        "Fowah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092021045,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522097,
     "wof:name":"Fowah",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

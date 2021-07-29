@@ -55,6 +55,9 @@
         "Shubra al-Khaymah 1",
         "Shubra Al-Khayma 1"
     ],
+    "name:fra_x_preferred":[
+        "Shubra El-Kheima"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_via":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1092014727,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522102,
     "wof:name":"Awal Shobra El-Kheimah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

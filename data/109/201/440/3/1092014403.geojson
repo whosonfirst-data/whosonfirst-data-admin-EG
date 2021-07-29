@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Abu Radis"
     ],
+    "name:fra_x_preferred":[
+        "Abu Zenima"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1092014403,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522086,
     "wof:name":"Abu Zeneimah",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

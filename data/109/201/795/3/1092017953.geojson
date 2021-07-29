@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Al-Hammam"
     ],
+    "name:fra_x_preferred":[
+        "El Hamam"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092017953,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522092,
     "wof:name":"El-Hamam",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

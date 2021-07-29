@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Abu Kabir"
     ],
+    "name:fra_x_preferred":[
+        "Abu Kebeer"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092014175,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522086,
     "wof:name":"Abu Kebeer",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Dayrut"
     ],
+    "name:fra_x_preferred":[
+        "Dayrout"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092015987,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522091,
     "wof:name":"Dayroot",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

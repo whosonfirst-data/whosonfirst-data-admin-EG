@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Hihya"
     ],
+    "name:fra_x_preferred":[
+        "Hahya"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092021319,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522097,
     "wof:name":"Hahya",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

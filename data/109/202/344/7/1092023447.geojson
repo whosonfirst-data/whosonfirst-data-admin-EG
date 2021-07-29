@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Qalyub"
     ],
+    "name:fra_x_preferred":[
+        "Qalyub"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092023447,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1627522100,
     "wof:name":"Qalyoub",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

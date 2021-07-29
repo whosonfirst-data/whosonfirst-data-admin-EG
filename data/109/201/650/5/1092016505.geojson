@@ -55,6 +55,9 @@
         "Al-'Idwah",
         "Markz Al Idwa"
     ],
+    "name:fra_x_preferred":[
+        "Al Idwah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092016505,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522087,
     "wof:name":"El-Adwah",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

@@ -55,6 +55,9 @@
         "Kesm Awal Assuit",
         "Asyut 1"
     ],
+    "name:fra_x_preferred":[
+        "Assiout"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092025513,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1627522089,
     "wof:name":"Tany Asiut",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

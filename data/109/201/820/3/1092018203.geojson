@@ -55,6 +55,9 @@
         "Al-Ma'adi",
         "Maadi"
     ],
+    "name:fra_x_preferred":[
+        "Maadi"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092018203,
-    "wof:lastmodified":1602720864,
+    "wof:lastmodified":1627522098,
     "wof:name":"El-Maadi",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

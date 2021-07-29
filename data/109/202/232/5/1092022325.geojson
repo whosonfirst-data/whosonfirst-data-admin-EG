@@ -56,6 +56,9 @@
         "Gamaliyya",
         "Al-Jamaliyah"
     ],
+    "name:fra_x_preferred":[
+        "Mit Salseel"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092022325,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522099,
     "wof:name":"Meet Salseel",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

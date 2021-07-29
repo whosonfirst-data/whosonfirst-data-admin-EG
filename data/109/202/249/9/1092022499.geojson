@@ -55,6 +55,9 @@
         "Mina Al-Basal",
         "Port al-Basal"
     ],
+    "name:fra_x_preferred":[
+        "Mina El-Basal"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092022499,
-    "wof:lastmodified":1602720863,
+    "wof:lastmodified":1627522099,
     "wof:name":"Mina El-Basal",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

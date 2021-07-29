@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Disuq"
     ],
+    "name:fra_x_preferred":[
+        "Dessouk"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092016203,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1627522091,
     "wof:name":"Desooq",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

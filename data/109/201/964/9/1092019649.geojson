@@ -55,6 +55,9 @@
         "As-Santah",
         "Santa"
     ],
+    "name:fra_x_preferred":[
+        "El Santah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092019649,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522093,
     "wof:name":"El-Santah",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

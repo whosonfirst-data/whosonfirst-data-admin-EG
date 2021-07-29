@@ -55,6 +55,9 @@
         "Waraq",
         "Al-Warraq"
     ],
+    "name:fra_x_preferred":[
+        "Oseem"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092023283,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1627522100,
     "wof:name":"Oseem",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

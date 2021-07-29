@@ -55,6 +55,9 @@
         "Sidi Barani",
         "Sidi Barrani"
     ],
+    "name:fra_x_preferred":[
+        "El-Negielah"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1092018725,
-    "wof:lastmodified":1602720865,
+    "wof:lastmodified":1627522095,
     "wof:name":"El-Negielah",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

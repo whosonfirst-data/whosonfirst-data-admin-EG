@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Kafr Sad"
     ],
+    "name:fra_x_preferred":[
+        "Kafr Sa'd"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092021673,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522098,
     "wof:name":"Kafr Sa'd",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

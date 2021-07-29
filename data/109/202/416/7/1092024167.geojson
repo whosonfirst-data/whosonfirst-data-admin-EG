@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Sant Katrin"
     ],
+    "name:fra_x_preferred":[
+        "Sainte Catherine"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1092024167,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1627522101,
     "wof:name":"Saint Cathrine",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

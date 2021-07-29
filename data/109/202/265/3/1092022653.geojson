@@ -55,6 +55,9 @@
         "Naj' Hammadi",
         "Nag Hammadi"
     ],
+    "name:fra_x_preferred":[
+        "Nag Hammadi"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1092022653,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1627522100,
     "wof:name":"Nag' Hammady",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

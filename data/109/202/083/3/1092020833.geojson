@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Faqus"
     ],
+    "name:fra_x_preferred":[
+        "Faqus"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092020833,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1627522096,
     "wof:name":"Faqoos",
     "wof:parent_id":85671007,
     "wof:placetype":"county",
