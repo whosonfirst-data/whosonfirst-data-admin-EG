@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.8989114977,24.0875077504,32.8989114977,24.0875077504",
+    "geom:bbox":"32.898911,24.087508,32.898911,24.087508",
     "geom:latitude":24.087508,
     "geom:longitude":32.898911,
     "iso:country":"EG",
@@ -91,6 +91,9 @@
         "\u0a85\u0ab8\u0acd\u0ab5\u0abe\u0aa8"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05d5\u05d5\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05e1\u05d5\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
@@ -348,7 +351,7 @@
     },
     "wof:country":"EG",
     "wof:created":1499131048,
-    "wof:geomhash":"391f196a8223cb937e269a9e865327db",
+    "wof:geomhash":"4155b9bd6eb591ad44e8db0a6a13ecb4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -359,7 +362,7 @@
         }
     ],
     "wof:id":1141909239,
-    "wof:lastmodified":1566586925,
+    "wof:lastmodified":1636502271,
     "wof:name":"Aswan",
     "wof:parent_id":1092014635,
     "wof:placetype":"locality",
@@ -369,10 +372,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.89891149774047,
-    24.08750775043836,
-    32.89891149774047,
-    24.08750775043836
+    32.898911,
+    24.087508,
+    32.898911,
+    24.087508
 ],
-  "geometry": {"coordinates":[32.89891149774047,24.08750775043836],"type":"Point"}
+  "geometry": {"coordinates":[32.898911,24.087508],"type":"Point"}
 }

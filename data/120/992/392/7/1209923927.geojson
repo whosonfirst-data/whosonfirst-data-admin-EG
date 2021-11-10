@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u064a\u0627\u0636"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0 \u09b0\u09bf\u09df\u09be\u09a7"
+    ],
     "name:und_x_variant":[
         "M\u00eet el Qummu\u1e63",
         "El-Riy\u00e2d",
@@ -51,7 +54,7 @@
         "gn:id":360106
     },
     "wof:country":"EG",
-    "wof:geomhash":"006e447967d57f8aa3e1aefcc38c6396",
+    "wof:geomhash":"5a101b91bc94641d39293cf061e4ae47",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209923927,
-    "wof:lastmodified":1566586191,
+    "wof:lastmodified":1636502265,
     "wof:name":"Ar Riyad",
     "wof:parent_id":1092022451,
     "wof:placetype":"locality",
@@ -73,9 +76,9 @@
 },
   "bbox": [
     31.73762,
-    31.15824000000001,
+    31.15824,
     31.73762,
-    31.15824000000001
+    31.15824
 ],
-  "geometry": {"coordinates":[31.73762,31.15824000000001],"type":"Point"}
+  "geometry": {"coordinates":[31.73762,31.15824],"type":"Point"}
 }

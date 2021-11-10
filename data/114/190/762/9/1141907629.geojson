@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.2300068753,31.3504236033,27.2300068753,31.3504236033",
+    "geom:bbox":"27.230007,31.350424,27.230007,31.350424",
     "geom:latitude":31.350424,
     "geom:longitude":27.230007,
     "iso:country":"EG",
@@ -18,8 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a4\u09cd\u09b0\u09c1\u09b9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0924\u094d\u0930\u0941\u0939"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10e2\u10e0\u10e3\u10f0\u10d8"
+    ],
+    "name:vie_x_preferred":[
+        "Matruh"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -127,7 +136,7 @@
     "wof:concordances":{},
     "wof:country":"EG",
     "wof:created":1499130751,
-    "wof:geomhash":"1af36d8772772c92151efb7fdc56003a",
+    "wof:geomhash":"b11efdd50644926f46a06061cc885603",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":1141907629,
-    "wof:lastmodified":1566586923,
+    "wof:lastmodified":1636502270,
     "wof:name":"Matruh",
     "wof:parent_id":1092022115,
     "wof:placetype":"locality",
@@ -148,10 +157,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.23000687532186,
-    31.35042360333199,
-    27.23000687532186,
-    31.35042360333199
+    27.230007,
+    31.350424,
+    27.230007,
+    31.350424
 ],
-  "geometry": {"coordinates":[27.23000687532186,31.35042360333199],"type":"Point"}
+  "geometry": {"coordinates":[27.230007,31.350424],"type":"Point"}
 }

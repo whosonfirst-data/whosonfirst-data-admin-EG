@@ -118,6 +118,9 @@
     "name:hin_x_preferred":[
         "\u0907\u0938\u094d\u092e\u093e\u0908\u0932\u093f\u092f\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
     ],
+    "name:hun_x_preferred":[
+        "El-Iszm\u00e1ilika"
+    ],
     "name:hye_x_preferred":[
         "\u053b\u057d\u0574\u0561\u0575\u056b\u056c\u056b\u0561"
     ],
@@ -356,7 +359,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893765,
+    "wof:lastmodified":1636502259,
     "wof:name":"Al Isma`iliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

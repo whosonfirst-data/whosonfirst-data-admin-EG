@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u064a\u0627\u0636"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0 \u09b0\u09bf\u09df\u09be\u09a7"
+    ],
     "name:und_x_variant":[
         "Ar Riy\u0101\u1e11",
         "Ar-Riy\u0101d"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326904455,
-    "wof:lastmodified":1566585688,
+    "wof:lastmodified":1636502259,
     "wof:name":"Ar Riyad",
     "wof:parent_id":1092019361,
     "wof:placetype":"locality",

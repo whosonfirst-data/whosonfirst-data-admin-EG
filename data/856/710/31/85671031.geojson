@@ -226,6 +226,9 @@
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0645\u0637\u0631\u0648\u062d"
     ],
     "name:vie_x_preferred":[
+        "Matruh"
+    ],
+    "name:vie_x_variant":[
         "T\u1ec9nh Matrouh"
     ],
     "name:war_x_preferred":[
@@ -360,7 +363,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893766,
+    "wof:lastmodified":1636502262,
     "wof:name":"Matruh",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

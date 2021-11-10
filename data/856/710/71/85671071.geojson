@@ -122,6 +122,9 @@
     "name:hrv_x_preferred":[
         "Al Wadi al Jadid"
     ],
+    "name:hun_x_preferred":[
+        "Al-Wadi al-Jadid"
+    ],
     "name:ind_x_preferred":[
         "Al Wadi al Jadid"
     ],
@@ -350,7 +353,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893766,
+    "wof:lastmodified":1636502263,
     "wof:name":"Al Wadi at Jadid",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

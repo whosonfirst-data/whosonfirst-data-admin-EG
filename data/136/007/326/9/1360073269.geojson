@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hun_x_preferred":[
+        "Al-Minya"
+    ],
     "name:und_x_variant":[
         "El-Minya",
         "Al Miny\u0101"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1360073269,
-    "wof:lastmodified":1566586425,
+    "wof:lastmodified":1636502266,
     "wof:name":"Al Minya",
     "wof:parent_id":1092019453,
     "wof:placetype":"locality",

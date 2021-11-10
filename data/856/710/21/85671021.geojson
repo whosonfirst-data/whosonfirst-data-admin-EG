@@ -118,6 +118,9 @@
     "name:hin_x_preferred":[
         "\u092a\u094b\u0930\u094d\u091f \u0938\u0908\u0926 \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
     ],
+    "name:hun_x_preferred":[
+        "Port Sza\u00edd"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Bur Sa'id"
     ],
@@ -350,7 +353,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893765,
+    "wof:lastmodified":1636502261,
     "wof:name":"Bur Sa`id",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

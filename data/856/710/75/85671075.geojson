@@ -119,6 +119,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093c\u0947\u0928\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
     ],
+    "name:hun_x_preferred":[
+        "Qina"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Qina"
     ],
@@ -352,7 +355,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893766,
+    "wof:lastmodified":1636502261,
     "wof:name":"Qina",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

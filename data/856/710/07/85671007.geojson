@@ -111,6 +111,9 @@
     "name:hin_x_preferred":[
         "\u0905\u0932-\u0936\u0930\u0915\u093c\u093f\u092f\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
     ],
+    "name:hun_x_preferred":[
+        "Ash Sharqiyah"
+    ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u0580\u056f\u056b\u0561"
     ],
@@ -355,7 +358,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882732,
+    "wof:lastmodified":1636502262,
     "wof:name":"Ash Sharqiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -153,6 +153,9 @@
         "Asu\u00e1n"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05d5\u05d5\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05e1\u05d5\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
@@ -466,7 +469,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893765,
+    "wof:lastmodified":1636502260,
     "wof:name":"Aswan",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

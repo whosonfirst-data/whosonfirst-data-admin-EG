@@ -120,6 +120,9 @@
     "name:hin_x_preferred":[
         "\u0926\u0915\u093c\u0948\u0939\u0932\u0947\u092f\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
     ],
+    "name:hun_x_preferred":[
+        "Ad-Daqahliyah"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0561\u056f\u0561\u0570\u056c\u056b\u0561"
     ],
@@ -357,7 +360,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893765,
+    "wof:lastmodified":1636502261,
     "wof:name":"Ad Daqahliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

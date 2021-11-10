@@ -114,6 +114,9 @@
     "name:hin_x_preferred":[
         "\u0915\u092b\u093c\u094d\u0930 \u0905\u0932-\u0936\u0947\u0916\u093c \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
     ],
+    "name:hun_x_preferred":[
+        "Kafr El Sheikh"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Kafr asy Syaykh"
     ],
@@ -346,7 +349,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893765,
+    "wof:lastmodified":1636502260,
     "wof:name":"Kafr ash Shaykh",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -48,13 +48,28 @@
         "Gubba"
     ],
     "name:hun_x_preferred":[
+        "Al-Kuba"
+    ],
+    "name:hun_x_variant":[
         "Al Kuba"
+    ],
+    "name:ind_x_preferred":[
+        "Al Qubbah"
     ],
     "name:ita_x_preferred":[
         "Gubba"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30af\u30d0"
+    ],
     "name:kat_x_preferred":[
         "\u10d4\u10da-\u10e5\u10e3\u10d1\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c \ucfe0\ubc14"
+    ],
+    "name:nld_x_preferred":[
+        "Al Qubbah"
     ],
     "name:pol_x_preferred":[
         "Al-Kubba"
@@ -62,17 +77,38 @@
     "name:por_x_preferred":[
         "Guba"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c-\u041a\u0443\u0431\u0431\u0430"
+    ],
     "name:spa_x_preferred":[
         "Al Quba"
     ],
     "name:swe_x_preferred":[
         "Al Qubbah"
     ],
+    "name:tur_x_preferred":[
+        "Al Qubbah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041a\u0443\u0431\u0431\u0430\u0445"
+    ],
     "name:und_x_variant":[
         "El-Qubba"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644 \u0642\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Al Qubbah"
+    ],
     "name:vol_x_preferred":[
         "Kubb\u00e4"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62f1\u5317"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u723e\u5eab\u5df4"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -97,7 +133,7 @@
         }
     ],
     "wof:id":1343439935,
-    "wof:lastmodified":1566585844,
+    "wof:lastmodified":1636502259,
     "wof:name":"Al Qubbah",
     "wof:parent_id":1092022403,
     "wof:placetype":"locality",

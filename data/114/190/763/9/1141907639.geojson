@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.39002071,31.4603910512,30.39002071,31.4603910512",
+    "geom:bbox":"30.390021,31.460391,30.390021,31.460391",
     "geom:latitude":31.460391,
     "geom:longitude":30.390021,
     "iso:country":"EG",
@@ -24,6 +24,9 @@
     "name:aze_x_preferred":[
         "R\u0259\u015fid"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09b6\u09bf\u09a6"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0448\u0438\u0434"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:fra_x_preferred":[
         "Rachid"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u0936\u093f\u0926"
     ],
     "name:ita_x_preferred":[
         "Rashid"
@@ -46,6 +52,9 @@
         "\u0420\u0430\u0448\u0438\u0434"
     ],
     "name:swe_x_preferred":[
+        "Rashid"
+    ],
+    "name:vie_x_preferred":[
         "Rashid"
     ],
     "ne:ADM0CAP":0.0,
@@ -154,7 +163,7 @@
     "wof:concordances":{},
     "wof:country":"EG",
     "wof:created":1499130752,
-    "wof:geomhash":"a3141468663b9d0e1867997e2f4910f7",
+    "wof:geomhash":"650773f1b7d41738f73a07ec9e9877be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":1141907639,
-    "wof:lastmodified":1566586922,
+    "wof:lastmodified":1636502269,
     "wof:name":"Rashid",
     "wof:parent_id":1092022617,
     "wof:placetype":"locality",
@@ -175,10 +184,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.39002070996992,
-    31.46039105124913,
-    30.39002070996992,
-    31.46039105124913
+    30.390021,
+    31.460391,
+    30.390021,
+    31.460391
 ],
-  "geometry": {"coordinates":[30.39002070996992,31.46039105124913],"type":"Point"}
+  "geometry": {"coordinates":[30.390021,31.460391],"type":"Point"}
 }

@@ -543,6 +543,9 @@
         "Bagdad"
     ],
     "name:vie_x_preferred":[
+        "Baghdad"
+    ],
+    "name:vie_x_variant":[
         "Bagdad"
     ],
     "name:vol_x_preferred":[
@@ -595,7 +598,7 @@
         }
     ],
     "wof:id":1210009017,
-    "wof:lastmodified":1566586244,
+    "wof:lastmodified":1636502265,
     "wof:name":"Baghdad",
     "wof:parent_id":1092015695,
     "wof:placetype":"locality",

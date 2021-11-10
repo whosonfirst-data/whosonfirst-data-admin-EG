@@ -125,6 +125,9 @@
     "name:hrv_x_preferred":[
         "Beheira"
     ],
+    "name:hun_x_preferred":[
+        "El-Beheira"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u0570\u0565\u0575\u0580\u0561"
     ],
@@ -359,7 +362,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893765,
+    "wof:lastmodified":1636502261,
     "wof:name":"Al Buhayrah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

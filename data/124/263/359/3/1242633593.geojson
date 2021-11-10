@@ -29,10 +29,88 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0644\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u09b9\u09bf\u09b2\u09cd\u09b2\u09be\u09b9"
+    ],
+    "name:deu_x_preferred":[
+        "Al Hillah"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u03a7\u03b9\u03bb\u03ac\u03c7"
+    ],
+    "name:eng_x_preferred":[
+        "Al Hillah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0647\u06cc\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Al Hilla"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d4\u05d9\u05dc\u05d0\u05d7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u0939\u093f\u0932\u093e\u0939"
+    ],
+    "name:hun_x_preferred":[
+        "Al Hillah"
+    ],
+    "name:ind_x_preferred":[
+        "Al Hillah"
+    ],
+    "name:ita_x_preferred":[
+        "Al Hillah"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30d2\u30c3\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c \ud790\ub77c"
+    ],
+    "name:nld_x_preferred":[
+        "Al Hillah"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Hilla"
+    ],
+    "name:por_x_preferred":[
+        "Al-Hillah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c-\u0425\u0438\u043b\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Al \u1e24illa"
+    ],
+    "name:swe_x_preferred":[
+        "Al-Hilla"
+    ],
+    "name:tur_x_preferred":[
+        "El-Hille"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0425\u0456\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "El \u1e24illa",
         "Contra Latopolis",
         "Al \u1e28illah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644 \u06c1\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Al Hillah"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e0c\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e0c\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +135,7 @@
         }
     ],
     "wof:id":1242633593,
-    "wof:lastmodified":1566586691,
+    "wof:lastmodified":1636502268,
     "wof:name":"Al Hillah",
     "wof:parent_id":1092020721,
     "wof:placetype":"locality",

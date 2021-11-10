@@ -119,6 +119,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0941\u090f\u091c\u093c \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
     ],
+    "name:hun_x_preferred":[
+        "As-Suways"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0578\u0582\u0565\u0566"
     ],
@@ -354,7 +357,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893767,
+    "wof:lastmodified":1636502263,
     "wof:name":"As Suways",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

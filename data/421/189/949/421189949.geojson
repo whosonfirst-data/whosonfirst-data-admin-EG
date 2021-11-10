@@ -17,7 +17,31 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2\u09c1\u09ae"
+    ],
     "name:deu_x_preferred":[
+        "Salum"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0932\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Salum"
+    ],
+    "name:ind_x_preferred":[
+        "Salum"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b4\ub8f8"
+    ],
+    "name:tur_x_preferred":[
+        "Salum"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0644\u0648\u0645"
+    ],
+    "name:vie_x_preferred":[
         "Salum"
     ],
     "ne:ADM0CAP":0.0,
@@ -162,7 +186,7 @@
         }
     ],
     "wof:id":421189949,
-    "wof:lastmodified":1582352376,
+    "wof:lastmodified":1636502267,
     "wof:name":"Salum",
     "wof:parent_id":1092019621,
     "wof:placetype":"locality",

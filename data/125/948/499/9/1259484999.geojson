@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0631\u0642\u0627"
     ],
+    "name:hun_x_preferred":[
+        "Az Zarqa"
+    ],
     "name:und_x_variant":[
         "\u2018Ezbet Ibr\u00e2h\u00eem el Zarqa",
         "\u2018Izbat Ibr\u0101h\u012bm az Zarq\u0101\u2019",
@@ -49,7 +52,7 @@
         "gn:id":355683
     },
     "wof:country":"EG",
-    "wof:geomhash":"fe91a9b0af798e7f144f7a2882c87085",
+    "wof:geomhash":"c35a933dc22d95e376d6c99488daebab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1259484999,
-    "wof:lastmodified":1566586729,
+    "wof:lastmodified":1636502268,
     "wof:name":"Az Zarqa",
     "wof:parent_id":1092014133,
     "wof:placetype":"locality",
@@ -71,9 +74,9 @@
 },
   "bbox": [
     30.3125,
-    31.02217000000001,
+    31.02217,
     30.3125,
-    31.02217000000001
+    31.02217
 ],
-  "geometry": {"coordinates":[30.3125,31.02217000000001],"type":"Point"}
+  "geometry": {"coordinates":[30.3125,31.02217],"type":"Point"}
 }

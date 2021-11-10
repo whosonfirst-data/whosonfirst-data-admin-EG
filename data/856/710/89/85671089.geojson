@@ -121,6 +121,9 @@
     "name:hrv_x_preferred":[
         "Ju\u017eni Sinaj"
     ],
+    "name:hun_x_preferred":[
+        "Jan\u016bb S\u012bn\u0101\u02be"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u054d\u056b\u0576\u0561\u0575"
     ],
@@ -358,7 +361,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893765,
+    "wof:lastmodified":1636502261,
     "wof:name":"Janub Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -29,6 +29,9 @@
     "name:aze_x_preferred":[
         "R\u0259\u015fid"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09b6\u09bf\u09a6"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0448\u0438\u0434"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05e9\u05d9\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u0936\u093f\u0926"
     ],
     "name:hrv_x_preferred":[
         "Rozeta"
@@ -152,6 +158,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0448\u0438\u0434"
     ],
+    "name:vie_x_preferred":[
+        "Rashid"
+    ],
     "name:zho_x_preferred":[
         "\u7f85\u585e\u5854"
     ],
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":421189945,
-    "wof:lastmodified":1566586565,
+    "wof:lastmodified":1636502267,
     "wof:name":"Rashid",
     "wof:parent_id":1092023921,
     "wof:placetype":"locality",

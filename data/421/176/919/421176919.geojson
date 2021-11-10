@@ -78,7 +78,13 @@
         "Damiette"
     ],
     "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05de\u05d9\u05d0\u05d8"
+    ],
+    "name:heb_x_variant":[
         "\u05d3\u05de\u05d9\u05d0\u05d8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u0941\u092e\u094d\u092f\u093e\u0924"
     ],
     "name:hun_x_preferred":[
         "Damietta"
@@ -315,7 +321,7 @@
         }
     ],
     "wof:id":421176919,
-    "wof:lastmodified":1566586572,
+    "wof:lastmodified":1636502267,
     "wof:name":"Dumyat",
     "wof:parent_id":1092016349,
     "wof:placetype":"locality",

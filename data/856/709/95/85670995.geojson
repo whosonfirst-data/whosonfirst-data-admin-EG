@@ -117,6 +117,9 @@
     "name:hin_x_preferred":[
         "\u092e\u094b\u0928\u0942\u092b\u093c\u093f\u092f\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
     ],
+    "name:hun_x_preferred":[
+        "Al-Minufiyah"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u056b\u0576\u0578\u0582\u0586\u056b\u0561"
     ],
@@ -349,7 +352,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614893765,
+    "wof:lastmodified":1636502259,
     "wof:name":"Al Minufiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

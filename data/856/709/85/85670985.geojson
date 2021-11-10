@@ -122,6 +122,9 @@
     "name:hin_x_preferred":[
         "\u0917\u093c\u0930\u092c\u0940\u092f\u093e \u092e\u0941\u0939\u093e\u092b\u093c\u091c\u093c\u093e\u0939"
     ],
+    "name:hun_x_preferred":[
+        "El-Gharbia"
+    ],
     "name:hye_x_preferred":[
         "\u0542\u0561\u0580\u0562\u056b\u0561"
     ],
@@ -358,7 +361,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882731,
+    "wof:lastmodified":1636502260,
     "wof:name":"Al Gharbiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

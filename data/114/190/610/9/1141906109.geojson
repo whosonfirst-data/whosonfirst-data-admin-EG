@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"31.5166596006,30.5833320881,31.5166596006,30.5833320881",
+    "geom:bbox":"31.51666,30.583332,31.51666,30.583332",
     "geom:latitude":30.583332,
     "geom:longitude":31.51666,
     "iso:country":"EG",
@@ -26,6 +26,9 @@
     ],
     "name:azb_x_preferred":[
         "\u0632\u0642\u0627\u0632\u06cc\u0642"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09cd\u09af\u09be\u0997\u09be\u099c\u09bf\u0997"
     ],
     "name:bul_x_preferred":[
         "\u0417\u0430\u043a\u0430\u0437\u0438\u043a"
@@ -65,6 +68,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05e7\u05d0\u05d6\u05d9\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u093e\u0917\u093e\u091c\u093c\u093f\u0917"
     ],
     "name:hrv_x_preferred":[
         "Zagazig"
@@ -146,6 +152,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0632\u06af\u0632\u06cc\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "Zagazig"
     ],
     "name:war_x_preferred":[
         "Zagazig"
@@ -264,7 +273,7 @@
     },
     "wof:country":"EG",
     "wof:created":1499130541,
-    "wof:geomhash":"d14a81566802db736ff67ae45d5da083",
+    "wof:geomhash":"2d6b399edcdea3cf60060a11d1981ea2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -275,7 +284,7 @@
         }
     ],
     "wof:id":1141906109,
-    "wof:lastmodified":1566586924,
+    "wof:lastmodified":1636502270,
     "wof:name":"Zagazig",
     "wof:parent_id":1092020479,
     "wof:placetype":"locality",
@@ -285,10 +294,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.51665960064395,
-    30.58333208809722,
-    31.51665960064395,
-    30.58333208809722
+    31.51666,
+    30.583332,
+    31.51666,
+    30.583332
 ],
-  "geometry": {"coordinates":[31.51665960064395,30.58333208809722],"type":"Point"}
+  "geometry": {"coordinates":[31.51666,30.583332],"type":"Point"}
 }

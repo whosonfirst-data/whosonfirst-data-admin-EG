@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.4332926012,31.0337762645,28.4332926012,31.0337762645",
+    "geom:bbox":"28.433293,31.033776,28.433293,31.033776",
     "geom:latitude":31.033776,
     "geom:longitude":28.433293,
     "iso:country":"EG",
@@ -24,6 +24,9 @@
     "name:azb_x_preferred":[
         "\u0627\u0644\u0636\u0628\u0639\u0647"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u09a6\u09be\u09ac\u09be"
+    ],
     "name:deu_x_preferred":[
         "Al-Dab'a"
     ],
@@ -39,11 +42,56 @@
     "name:fra_x_preferred":[
         "Projet de centrale nucl\u00e9aire d'El-Dabaa"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u0921\u093e\u092c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "El Daba"
+    ],
+    "name:ind_x_preferred":[
+        "El Daba"
+    ],
+    "name:ita_x_preferred":[
+        "El Dabaa"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ub2e4\ubc14"
+    ],
     "name:nld_x_preferred":[
         "El Dabaa"
     ],
     "name:pol_x_preferred":[
         "Ad-Daba"
+    ],
+    "name:por_x_preferred":[
+        "El Dabaa"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0414\u0430\u0431\u0430\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "El Daba"
+    ],
+    "name:swe_x_preferred":[
+        "El Dabaa"
+    ],
+    "name:tur_x_preferred":[
+        "El Daba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0414\u0430\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u062f\u0627\u0628\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "El Daba"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57c3\u5c14\u8fbe\u5df4"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u57c3\u723e\u9054\u5df4"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -153,7 +201,7 @@
     },
     "wof:country":"EG",
     "wof:created":1499130751,
-    "wof:geomhash":"7c165f8ec17bb8986358a90b81264f22",
+    "wof:geomhash":"29e3e55e0065f20fd9c283065b1250e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +212,7 @@
         }
     ],
     "wof:id":1141907631,
-    "wof:lastmodified":1566586922,
+    "wof:lastmodified":1636502269,
     "wof:name":"El Daba",
     "wof:parent_id":1092017227,
     "wof:placetype":"locality",
@@ -174,10 +222,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.43329260123818,
-    31.03377626446354,
-    28.43329260123818,
-    31.03377626446354
+    28.433293,
+    31.033776,
+    28.433293,
+    31.033776
 ],
-  "geometry": {"coordinates":[28.43329260123818,31.03377626446354],"type":"Point"}
+  "geometry": {"coordinates":[28.433293,31.033776],"type":"Point"}
 }

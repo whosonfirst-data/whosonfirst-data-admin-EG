@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.1500304756,31.5669736929,25.1500304756,31.5669736929",
+    "geom:bbox":"25.15003,31.566974,25.15003,31.566974",
     "geom:latitude":31.566974,
     "geom:longitude":25.15003,
     "iso:country":"EG",
@@ -18,7 +18,31 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2\u09c1\u09ae"
+    ],
     "name:deu_x_preferred":[
+        "Salum"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0932\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Salum"
+    ],
+    "name:ind_x_preferred":[
+        "Salum"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b4\ub8f8"
+    ],
+    "name:tur_x_preferred":[
+        "Salum"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0644\u0648\u0645"
+    ],
+    "name:vie_x_preferred":[
         "Salum"
     ],
     "ne:ADM0CAP":0.0,
@@ -127,7 +151,7 @@
     "wof:concordances":{},
     "wof:country":"EG",
     "wof:created":1499130751,
-    "wof:geomhash":"da17f06c0903facf8cda12a2db84ed6b",
+    "wof:geomhash":"a0a2871b65ca966e64569716c6e1111c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -138,7 +162,7 @@
         }
     ],
     "wof:id":1141907633,
-    "wof:lastmodified":1566586922,
+    "wof:lastmodified":1636502269,
     "wof:name":"Salum",
     "wof:parent_id":1092019621,
     "wof:placetype":"locality",
@@ -148,10 +172,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.150030475574,
-    31.56697369285104,
-    25.150030475574,
-    31.56697369285104
+    25.15003,
+    31.566974,
+    25.15003,
+    31.566974
 ],
-  "geometry": {"coordinates":[25.150030475574,31.56697369285104],"type":"Point"}
+  "geometry": {"coordinates":[25.15003,31.566974],"type":"Point"}
 }

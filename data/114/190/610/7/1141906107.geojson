@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"31.1833356294,30.4666651155,31.1833356294,30.4666651155",
+    "geom:bbox":"31.183336,30.466665,31.183336,30.466665",
     "geom:latitude":30.466665,
     "geom:longitude":31.183336,
     "iso:country":"EG",
@@ -56,6 +56,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e0\u05d4\u05d0"
+    ],
+    "name:hun_x_preferred":[
+        "Benha"
     ],
     "name:ita_x_preferred":[
         "Banha"
@@ -223,7 +226,7 @@
     "wof:concordances":{},
     "wof:country":"EG",
     "wof:created":1499130541,
-    "wof:geomhash":"32ee793ed3698752712ea498b56d176d",
+    "wof:geomhash":"1e4eafc9a5a31fbc1f68173a4d12dffa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":1141906107,
-    "wof:lastmodified":1566586924,
+    "wof:lastmodified":1636502270,
     "wof:name":"Benha",
     "wof:parent_id":1092015253,
     "wof:placetype":"locality",
@@ -244,10 +247,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.18333562943906,
-    30.46666511545419,
-    31.18333562943906,
-    30.46666511545419
+    31.183336,
+    30.466665,
+    31.183336,
+    30.466665
 ],
-  "geometry": {"coordinates":[31.18333562943906,30.46666511545419],"type":"Point"}
+  "geometry": {"coordinates":[31.183336,30.466665],"type":"Point"}
 }

@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0633\u0648\u0627\u0646"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b8\u09cb\u09df\u09be\u09a8"
+    ],
     "name:eng_x_preferred":[
         "Aswan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05d5\u05d5\u05d0\u05df"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -45,8 +51,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        1092014635,
-        85671061
+        85671061,
+        1092014635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":421178333,
-    "wof:lastmodified":1601423087,
+    "wof:lastmodified":1636502267,
     "wof:name":"Aswan",
     "wof:parent_id":1092014635,
     "wof:placetype":"locality",

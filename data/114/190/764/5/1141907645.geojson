@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.4841800524,23.9459918406,35.4841800524,23.9459918406",
+    "geom:bbox":"35.48418,23.945992,35.48418,23.945992",
     "geom:latitude":23.945992,
     "geom:longitude":35.48418,
     "iso:country":"EG",
@@ -31,6 +31,9 @@
         "Berenice"
     ],
     "name:hun_x_preferred":[
+        "Berenice"
+    ],
+    "name:hun_x_variant":[
         "Berenik\u00e9"
     ],
     "name:ind_x_preferred":[
@@ -39,14 +42,32 @@
     "name:ita_x_preferred":[
         "Berenice"
     ],
+    "name:kor_x_preferred":[
+        "\ubca0\ub808\ub2c8\uccb4"
+    ],
     "name:pol_x_preferred":[
         "Berenika"
     ],
     "name:spa_x_preferred":[
         "Berenice"
     ],
+    "name:tur_x_preferred":[
+        "Berenice"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u043d\u0456\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0631\u06cc\u0646\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Berenice"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d1d\u96f7\u5c3c\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c9d\u96f7\u5c3c\u65af"
     ],
     "name:zho_x_preferred":[
         "\u8d1d\u52d2\u5c3c\u57fa"
@@ -155,7 +176,7 @@
     "wof:concordances":{},
     "wof:country":"EG",
     "wof:created":1499130753,
-    "wof:geomhash":"e2cbcc49e55999f0f1c96b2588cdbec5",
+    "wof:geomhash":"43c77f70c0a95cde29332c6e65522d51",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +185,7 @@
         }
     ],
     "wof:id":1141907645,
-    "wof:lastmodified":1566586923,
+    "wof:lastmodified":1636502270,
     "wof:name":"Berenice",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -174,10 +195,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.48418005243826,
-    23.94599184060706,
-    35.48418005243826,
-    23.94599184060706
+    35.48418,
+    23.945992,
+    35.48418,
+    23.945992
 ],
-  "geometry": {"coordinates":[35.48418005243826,23.94599184060706],"type":"Point"}
+  "geometry": {"coordinates":[35.48418,23.945992],"type":"Point"}
 }
