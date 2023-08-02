@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0627\u0644\u062f\u0648\u0627\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0641\u0631 \u0627\u0644\u062f\u0648\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Kafr el-Dawwar"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0641\u0631 \u0627\u0644\u062f\u0648\u0627\u0631"
     ],
     "name:ceb_x_preferred":[
         "Markaz Kafr ad Daww\u0101r"
+    ],
+    "name:ceb_x_variant":[
+        "Kafr ad Daww\u0101r"
     ],
     "name:deu_x_preferred":[
         "Kafr ad-Dawwar"
@@ -46,11 +55,17 @@
     "name:fra_x_preferred":[
         "Kafr el-Dawwar"
     ],
+    "name:gle_x_preferred":[
+        "Kafr el-Dawwar"
+    ],
     "name:heb_x_preferred":[
         "\u05db\u05e4\u05e8 \u05d0-\u05d3\u05d5\u05d5\u05d0\u05e8"
     ],
     "name:ita_x_preferred":[
         "Kafr el-Dawar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d5\u30eb\u30fb\u30a8\u30eb\u30fb\u30c0\u30ef\u30fc\u30eb"
     ],
     "name:kat_x_preferred":[
         "\u10e5\u10d0\u10e4\u10e0-\u10d4\u10da-\u10d3\u10d0\u10d5\u10d0\u10e0\u10d8"
@@ -64,8 +79,14 @@
     "name:lit_x_preferred":[
         "Kafr ed Davaras"
     ],
+    "name:mlg_x_preferred":[
+        "Kafr ad Daww\u0101r"
+    ],
     "name:nld_x_preferred":[
         "Kafr el-Dawwar"
+    ],
+    "name:nob_x_preferred":[
+        "Kafr ad-Dawwar"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a2b\u0a3c\u0a30 \u0a05\u0a32-\u0a26\u0a41\u0a06\u0a30"
@@ -100,6 +121,9 @@
     "name:zho_x_preferred":[
         "\u9053\u74e6\u723e"
     ],
+    "name:zul_x_preferred":[
+        "Kafr El Dawwar"
+    ],
     "qs:name":"Kafr ad Daww\u0101r",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -131,7 +155,7 @@
         }
     ],
     "wof:id":890445293,
-    "wof:lastmodified":1566586578,
+    "wof:lastmodified":1690876066,
     "wof:name":"Kafr ad Daww\u0101r",
     "wof:parent_id":1092021541,
     "wof:placetype":"locality",

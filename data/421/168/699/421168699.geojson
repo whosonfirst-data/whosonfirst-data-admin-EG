@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0633\u0645\u0627\u0644\u0648\u0637"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0645\u0627\u0644\u0648\u0637"
+    ],
+    "name:ast_x_preferred":[
+        "Samalut"
+    ],
     "name:ceb_x_preferred":[
         "Markaz Sam\u0101l\u016b\u0163"
+    ],
+    "name:ceb_x_variant":[
+        "Sam\u0101l\u016b\u0163"
     ],
     "name:deu_x_preferred":[
         "Samalut"
@@ -50,7 +59,13 @@
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043c\u0430\u043b\u0443\u0442 \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
+    "name:mlg_x_preferred":[
+        "Sam\u0101l\u016b\u0163"
+    ],
     "name:nld_x_preferred":[
+        "Samalut"
+    ],
+    "name:nob_x_preferred":[
         "Samalut"
     ],
     "name:pol_x_preferred":[
@@ -59,7 +74,13 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043c\u0430\u043b\u0443\u0442"
     ],
+    "name:spa_x_preferred":[
+        "Sam\u0101l\u016b\u1e6d"
+    ],
     "name:swe_x_preferred":[
+        "Samalut"
+    ],
+    "name:szl_x_preferred":[
         "Samalut"
     ],
     "name:und_x_variant":[
@@ -67,6 +88,9 @@
     ],
     "name:zho_x_preferred":[
         "\u585e\u99ac\u76e7\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Samalut"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -207,7 +231,7 @@
         }
     ],
     "wof:id":421168699,
-    "wof:lastmodified":1566586554,
+    "wof:lastmodified":1690876047,
     "wof:name":"\u0645\u0631\u0643\u0632 \u0633\u0645\u0627\u0644\u0648\u0637",
     "wof:parent_id":1092024217,
     "wof:placetype":"locality",

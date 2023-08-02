@@ -23,6 +23,9 @@
     "name:arz_x_preferred":[
         "\u0642\u0641\u0637"
     ],
+    "name:ast_x_preferred":[
+        "Qift"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0641\u0637"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0642\u0641\u0637"
+    ],
+    "name:fin_x_preferred":[
+        "Koptos"
     ],
     "name:fra_x_preferred":[
         "Coptos"
@@ -92,8 +98,14 @@
     "name:spa_x_preferred":[
         "Coptos"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043f\u0442\u043e\u0441"
+    ],
     "name:swe_x_preferred":[
         "Koptos"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e34\u0e1f\u0e0f\u0e4c"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u0442\u043e\u0441"
@@ -103,6 +115,9 @@
     ],
     "name:vie_x_preferred":[
         "Coptos"
+    ],
+    "name:zul_x_preferred":[
+        "Qift"
     ],
     "qs:gn_country":"EG",
     "qs:gn_fcode":"PPL",
@@ -156,7 +171,7 @@
         }
     ],
     "wof:id":421183509,
-    "wof:lastmodified":1566586571,
+    "wof:lastmodified":1690876060,
     "wof:name":"Qift",
     "wof:parent_id":1092020789,
     "wof:placetype":"locality",

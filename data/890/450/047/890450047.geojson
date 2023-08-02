@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u064a\u0648\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Basyoun"
+    ],
     "name:ceb_x_preferred":[
         "Basy\u016bn"
     ],
@@ -43,6 +46,9 @@
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0441\u044c\u044e\u043d \u049b\u0430\u043b\u0430\u0441\u044b"
     ],
+    "name:mlg_x_preferred":[
+        "Basy\u016bn"
+    ],
     "name:nld_x_preferred":[
         "Basyoun"
     ],
@@ -52,11 +58,26 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0441\u044c\u044e\u043d"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0441\u0458\u0443\u043d"
+    ],
     "name:swe_x_preferred":[
         "Basy\u016bn"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e31\u0e2a\u0e22\u0e39\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Basyun"
+    ],
     "name:und_x_variant":[
         "Basy\u00fbn"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u65af\u5c24\u6069"
+    ],
+    "name:zul_x_preferred":[
+        "Basyoun"
     ],
     "qs:name":"Basy\u016bn",
     "qs:photos_9r":0,
@@ -89,7 +110,7 @@
         }
     ],
     "wof:id":890450047,
-    "wof:lastmodified":1566586581,
+    "wof:lastmodified":1690876070,
     "wof:name":"Basy\u016bn",
     "wof:parent_id":1092015375,
     "wof:placetype":"locality",

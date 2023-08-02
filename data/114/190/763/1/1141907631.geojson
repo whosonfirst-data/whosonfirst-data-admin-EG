@@ -21,14 +21,23 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0636\u0628\u0639\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0636\u0628\u0639\u0647"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0636\u0628\u0639\u0647"
     ],
     "name:ben_x_preferred":[
         "\u098f\u09b2 \u09a6\u09be\u09ac\u09be"
     ],
+    "name:cat_x_preferred":[
+        "El Dabaa"
+    ],
     "name:deu_x_preferred":[
         "Al-Dab'a"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u039d\u03c4\u03ac\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "El Dabaa"
@@ -42,6 +51,12 @@
     "name:fra_x_preferred":[
         "Projet de centrale nucl\u00e9aire d'El-Dabaa"
     ],
+    "name:fra_x_variant":[
+        "Al Dabaa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05d3\u05d1\u05e2\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0932 \u0921\u093e\u092c\u093e"
     ],
@@ -53,6 +68,9 @@
     ],
     "name:ita_x_preferred":[
         "El Dabaa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30c0\u30d0"
     ],
     "name:kor_x_preferred":[
         "\uc5d8\ub2e4\ubc14"
@@ -68,6 +86,9 @@
     ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u044c-\u0414\u0430\u0431\u0430\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u0434-\u0414\u0430\u0431\u044a\u0430"
     ],
     "name:spa_x_preferred":[
         "El Daba"
@@ -92,6 +113,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u57c3\u723e\u9054\u5df4"
+    ],
+    "name:zul_x_preferred":[
+        "El Dabaa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -212,7 +236,7 @@
         }
     ],
     "wof:id":1141907631,
-    "wof:lastmodified":1636502269,
+    "wof:lastmodified":1690876079,
     "wof:name":"El Daba",
     "wof:parent_id":1092017227,
     "wof:placetype":"locality",

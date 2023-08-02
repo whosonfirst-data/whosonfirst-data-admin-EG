@@ -28,8 +28,14 @@
     "name:azb_x_preferred":[
         "\u0645\u062d\u0644\u0647 \u0627\u0644\u06a9\u0628\u0631\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "\u018fl-M\u0259h\u0259ll\u0259 \u0259l-K\u00fcbra"
+    ],
     "name:bel_x_preferred":[
         "\u042d\u043b\u044c-\u041c\u0430\u0445\u0430\u043b\u0430-\u044d\u043b\u044c-\u041a\u0443\u0431\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u09ae\u09be\u09b9\u09be\u09b2\u09cd\u09b2\u09be \u098f\u09b2 \u0995\u09c1\u09ac\u09b0\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0415\u043b-\u041c\u0430\u0445\u0430\u043b\u0430 \u0415\u043b-\u041a\u0443\u0431\u0440\u0430"
@@ -51,6 +57,9 @@
     ],
     "name:eng_x_preferred":[
         "El-Mahalla El-Kubra"
+    ],
+    "name:eng_x_variant":[
+        "El Mahalla El Kubra"
     ],
     "name:est_x_preferred":[
         "Al-Ma\u1e29allah al-Kubr\u00e1"
@@ -76,6 +85,9 @@
     "name:hye_x_preferred":[
         "\u0561\u056c-\u0544\u0561\u0570\u0561\u056c\u056c\u0561 \u0561\u056c-\u0554\u0578\u0582\u0562\u0580\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u056c \u0544\u0561\u0570\u0561\u056c\u056c\u0561 \u0531\u056c \u0554\u0578\u0582\u057a\u0580\u0561"
+    ],
     "name:ita_x_preferred":[
         "El-Mahalla El-Kubra"
     ],
@@ -91,8 +103,14 @@
     "name:lit_x_preferred":[
         "Mahala el Kubra"
     ],
+    "name:mlg_x_preferred":[
+        "Al Ma\u1e29allah al Kubr\u00e1"
+    ],
     "name:nld_x_preferred":[
         "El-Mahalla El-Kubra"
+    ],
+    "name:nob_x_preferred":[
+        "El Mahalla El Kubra"
     ],
     "name:pol_x_preferred":[
         "Al-Mahalla al-Kubra"
@@ -133,11 +151,20 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0644\u06c1 \u0627\u0644\u06a9\u0628\u0631\u06cc"
     ],
+    "name:uzb_x_preferred":[
+        "Mahallat ul-kubro"
+    ],
+    "name:vec_x_preferred":[
+        "El-Mahalla El-Kubra"
+    ],
     "name:war_x_preferred":[
         "El-Mahalla El-Kubra"
     ],
     "name:zho_x_preferred":[
         "\u5927\u9081\u54c8\u840a"
+    ],
+    "name:zul_x_preferred":[
+        "El Mahalla El Kubra"
     ],
     "qs:name":"Al Ma\u1e29allah al Kubr\u00e1",
     "qs:photos_9r":0,
@@ -170,7 +197,7 @@
         }
     ],
     "wof:id":890434721,
-    "wof:lastmodified":1566586580,
+    "wof:lastmodified":1690876069,
     "wof:name":"Al Ma\u1e29allah al Kubr\u00e1",
     "wof:parent_id":1092025637,
     "wof:placetype":"locality",

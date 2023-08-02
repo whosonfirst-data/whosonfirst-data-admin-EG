@@ -35,8 +35,14 @@
     "name:azb_x_preferred":[
         "\u062f\u0645\u06cc\u0627\u0637"
     ],
+    "name:aze_x_preferred":[
+        "D\u00fcmyat"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0443\u043c'\u044f\u0442"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09ae\u0987\u09af\u09bc\u09be\u09a4"
     ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u043c\u0438\u0435\u0442\u0430"
@@ -44,8 +50,14 @@
     "name:cat_x_preferred":[
         "Damieta"
     ],
+    "name:cat_x_variant":[
+        "Damiata"
+    ],
     "name:ceb_x_preferred":[
         "Mu\u1e29\u0101faz\u0327at Dumy\u0101\u0163"
+    ],
+    "name:ceb_x_variant":[
+        "Dumy\u0101\u0163"
     ],
     "name:ces_x_preferred":[
         "Damietta"
@@ -76,6 +88,9 @@
     ],
     "name:fra_x_preferred":[
         "Damiette"
+    ],
+    "name:gle_x_preferred":[
+        "Damietta"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05de\u05d9\u05d0\u05d8"
@@ -116,11 +131,20 @@
     "name:lit_x_preferred":[
         "Dumjatas"
     ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u043c\u0438\u0458\u0435\u0442\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Damietta"
+    ],
     "name:nld_x_preferred":[
         "Damietta"
     ],
     "name:nob_x_preferred":[
         "Damietta"
+    ],
+    "name:oci_x_preferred":[
+        "Damieta"
     ],
     "name:pan_x_preferred":[
         "\u0a26\u0a2e\u0a40\u0a06\u0a24"
@@ -155,11 +179,17 @@
     "name:swe_x_preferred":[
         "Damietta"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0443\u043c\u0451\u0442"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e40\u0e21\u0e35\u0e22\u0e15\u0e15\u0e32"
     ],
     "name:tur_x_preferred":[
         "Dimyat"
+    ],
+    "name:uig_x_preferred":[
+        "\u062f\u06c7\u0645\u064a\u0627\u062a"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0443\u043c\u044f\u0442"
@@ -169,6 +199,12 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u0645\u06cc\u0627\u0637"
+    ],
+    "name:uzb_x_preferred":[
+        "Dumyot"
+    ],
+    "name:vec_x_preferred":[
+        "Damietta"
     ],
     "name:vie_x_preferred":[
         "Damiat"
@@ -181,6 +217,9 @@
     ],
     "name:zho_x_preferred":[
         "\u675c\u59c6\u4e9a\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Damietta"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -321,7 +360,7 @@
         }
     ],
     "wof:id":421176919,
-    "wof:lastmodified":1636502267,
+    "wof:lastmodified":1690876060,
     "wof:name":"Dumyat",
     "wof:parent_id":1092016349,
     "wof:placetype":"locality",

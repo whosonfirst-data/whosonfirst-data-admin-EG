@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.3552505,29.58333,32.3552505,29.58333",
+    "geom:bbox":"32.35525,29.58333,32.35525,29.58333",
     "geom:latitude":29.58333,
     "geom:longitude":32.35525,
     "gn:country":"EG",
@@ -42,11 +42,23 @@
     "name:eng_x_preferred":[
         "Ain Sukhna"
     ],
+    "name:eng_x_variant":[
+        "Ain Sokhna"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0639\u06cc\u0646 \u0627\u0644\u0633\u062e\u0646\u0629"
     ],
     "name:fra_x_preferred":[
         "Ain Sukhna"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05e1\u05d5\u05d7\u05e0\u05d4"
+    ],
+    "name:ibo_x_preferred":[
+        "Ain Sokhna"
+    ],
+    "name:ita_x_preferred":[
+        "Ain Sokhna"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30a4\u30f3\u30fb\u30b9\u30af\u30ca"
@@ -60,11 +72,20 @@
     "name:kor_x_preferred":[
         "\uc544\uc778 \uc218\ud06c\ub098"
     ],
+    "name:mlg_x_preferred":[
+        "Ain Sukhna"
+    ],
     "name:nld_x_preferred":[
         "Ain Sukhna"
     ],
     "name:pol_x_preferred":[
         "Ajn Suchna"
+    ],
+    "name:ron_x_preferred":[
+        "Ain Sokhna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u0421\u043e\u0445\u043d\u0430"
     ],
     "name:slv_x_preferred":[
         "Ain Suhna"
@@ -72,8 +93,23 @@
     "name:spa_x_preferred":[
         "Ain Sujna"
     ],
+    "name:swa_x_preferred":[
+        "Ain Sokhna"
+    ],
     "name:swe_x_preferred":[
         "Ain Sokhna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0457\u043d \u0421\u043e\u0445\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u06cc\u0646 \u0627\u0644\u0633\u062e\u0646\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Ain Sokhna"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u56e0\u00b7\u8607\u514b\u7d0d"
     ],
     "qs:name":"Ein El Sokhna",
     "qs:name_adm0":"\u0645\u0635\u0631",
@@ -99,7 +135,7 @@
     },
     "wof:country":"EG",
     "wof:created":1469052385,
-    "wof:geomhash":"ff48402c52ffc2023aa433263032a941",
+    "wof:geomhash":"20303bd3972f89728eb19bbc4a4d3517",
     "wof:hierarchy":[
         {
             "country_id":85632581,
@@ -107,7 +143,7 @@
         }
     ],
     "wof:id":890442877,
-    "wof:lastmodified":1566586578,
+    "wof:lastmodified":1690876066,
     "wof:name":"Ein El Sokhna",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -117,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.3552505,
+    32.35525,
     29.58333,
-    32.3552505,
+    32.35525,
     29.58333
 ],
-  "geometry": {"coordinates":[32.3552505,29.58333],"type":"Point"}
+  "geometry": {"coordinates":[32.35525,29.58333],"type":"Point"}
 }

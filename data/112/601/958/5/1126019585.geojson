@@ -37,8 +37,14 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0441\u0430 \u041c\u0430\u0442\u0440\u0443\u0445"
     ],
+    "name:cat_x_preferred":[
+        "Mersa Matruh"
+    ],
     "name:ceb_x_preferred":[
         "Mersa Matruh"
+    ],
+    "name:ces_x_preferred":[
+        "Mars\u00e1 Matr\u00fah"
     ],
     "name:dan_x_preferred":[
         "Marsa Matruh"
@@ -94,6 +100,9 @@
     "name:lit_x_preferred":[
         "Mersa Matruhas"
     ],
+    "name:mlg_x_preferred":[
+        "Mersa Matruh"
+    ],
     "name:nld_x_preferred":[
         "Marsa Matruh"
     ],
@@ -145,6 +154,9 @@
     "name:zho_x_preferred":[
         "\u99ac\u7279\u9b6f\u6e2f"
     ],
+    "name:zul_x_preferred":[
+        "Mersa Matruh"
+    ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
     "qs_pg:gn_fcode":"PPLA",
@@ -184,7 +196,7 @@
         }
     ],
     "wof:id":1126019585,
-    "wof:lastmodified":1566586584,
+    "wof:lastmodified":1690876074,
     "wof:name":"Mars\u00e1 Ma\u0163r\u016b\u1e29",
     "wof:parent_id":1092022115,
     "wof:placetype":"locality",

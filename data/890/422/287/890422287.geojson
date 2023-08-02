@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u064a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Al Qurayn"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0631\u06cc\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Qurayn"
     ],
     "name:eng_x_preferred":[
         "Al Qurayn"
@@ -45,6 +51,9 @@
     ],
     "name:rus_x_variant":[
         "\u042d\u043b\u044c-\u041a\u0443\u0440\u0435\u0439\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Al Qurayn"
     ],
     "name:und_x_variant":[
         "El-Qurein"
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":890422287,
-    "wof:lastmodified":1566586573,
+    "wof:lastmodified":1690876060,
     "wof:name":"Al Qurayn",
     "wof:parent_id":1092019105,
     "wof:placetype":"locality",

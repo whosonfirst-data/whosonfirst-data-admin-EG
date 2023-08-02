@@ -28,6 +28,9 @@
     "name:arn_x_preferred":[
         "abu simbel"
     ],
+    "name:arz_x_preferred":[
+        "\u0623\u0628\u0648 \u0633\u0645\u0628\u0644"
+    ],
     "name:ceb_x_preferred":[
         "Ab\u016b Sunbul"
     ],
@@ -51,6 +54,12 @@
     ],
     "name:hun_x_preferred":[
         "Abu Szimbel"
+    ],
+    "name:ibo_x_preferred":[
+        "Ab\u1ee5 Simbel"
+    ],
+    "name:ita_x_preferred":[
+        "Abu Simbel"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30d6\u30fb\u30b7\u30f3\u30d9\u30eb"
@@ -76,8 +85,14 @@
     "name:spa_x_preferred":[
         "Abu Simbel"
     ],
+    "name:swa_x_preferred":[
+        "Abu Simbel"
+    ],
     "name:swe_x_preferred":[
         "Abu Simbel"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0baa\u0bc1 \u0b9a\u0bbf\u0bae\u0bcd\u0baa\u0bc6\u0bb2\u0bcd"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0443-\u0421\u0456\u043c\u0431\u0435\u043b"
@@ -87,6 +102,9 @@
     ],
     "name:war_x_preferred":[
         "Abu Simbel"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5e03\u8f9b\u8d1d"
     ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
@@ -127,7 +145,7 @@
         }
     ],
     "wof:id":1125967975,
-    "wof:lastmodified":1566586583,
+    "wof:lastmodified":1690876073,
     "wof:name":"Ab\u016b Sunbul",
     "wof:parent_id":1092022915,
     "wof:placetype":"locality",

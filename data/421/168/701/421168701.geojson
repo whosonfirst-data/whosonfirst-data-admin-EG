@@ -23,6 +23,9 @@
     "name:arz_x_preferred":[
         "\u0645\u0644\u0648\u0649"
     ],
+    "name:ast_x_preferred":[
+        "Mallawi"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0644\u0648\u06cc"
     ],
@@ -47,11 +50,17 @@
     "name:fra_x_preferred":[
         "Mallawi"
     ],
+    "name:gle_x_preferred":[
+        "Mallawi"
+    ],
     "name:ita_x_preferred":[
         "Mallawi"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30c3\u30e9\u30a6\u30a3\u30fc"
+    ],
+    "name:jpn_x_variant":[
+        "\u30de\u30e9\u30a6\u30a3"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10da\u10d0\u10d5\u10d8"
@@ -62,7 +71,13 @@
     "name:lit_x_preferred":[
         "Malavis"
     ],
+    "name:mlg_x_preferred":[
+        "Mallaw\u012b"
+    ],
     "name:nld_x_preferred":[
+        "Mallawi"
+    ],
+    "name:nob_x_preferred":[
         "Mallawi"
     ],
     "name:pol_x_preferred":[
@@ -94,6 +109,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9081\u840a\u7dad"
+    ],
+    "name:zul_x_preferred":[
+        "Mallawi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -234,7 +252,7 @@
         }
     ],
     "wof:id":421168701,
-    "wof:lastmodified":1566586554,
+    "wof:lastmodified":1690876046,
     "wof:name":"\u0645\u0644\u0648\u0649",
     "wof:parent_id":1092022005,
     "wof:placetype":"locality",

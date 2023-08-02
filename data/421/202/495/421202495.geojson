@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0633\u0649 \u0639\u0644\u0645"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u0633\u0649 \u0639\u0644\u0645"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0631\u0633\u06cc \u0639\u0644\u0645"
     ],
@@ -59,11 +62,17 @@
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab0\u0ab8\u0abe \u0a86\u0ab2\u0aae"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e1\u05d0 \u05e2\u05dc\u05dd"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0930\u094d\u0938 \u0906\u0932\u092e"
     ],
     "name:hun_x_preferred":[
         "Marsza Alam"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u057d\u0561 \u0531\u056c\u0561\u0574"
     ],
     "name:ind_x_preferred":[
         "Marsa Alam"
@@ -102,6 +111,9 @@
         "Marsa Alam"
     ],
     "name:por_x_preferred":[
+        "Marsa Alam"
+    ],
+    "name:ron_x_preferred":[
         "Marsa Alam"
     ],
     "name:rus_x_preferred":[
@@ -145,6 +157,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u85a9\u963f\u62c9\u59c6"
+    ],
+    "name:zul_x_preferred":[
+        "Marsa Alam"
     ],
     "qs:gn_country":"EG",
     "qs:gn_fcode":"PPL",
@@ -193,7 +208,7 @@
         }
     ],
     "wof:id":421202495,
-    "wof:lastmodified":1566586559,
+    "wof:lastmodified":1690876051,
     "wof:name":"Mars\u00e1 Al \u2018alam",
     "wof:parent_id":1092022093,
     "wof:placetype":"locality",

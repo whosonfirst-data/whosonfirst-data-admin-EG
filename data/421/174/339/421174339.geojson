@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0635\u0642\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0641\u0631 \u0635\u0642\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u0641\u0631 \u0635\u0642\u0631"
     ],
@@ -41,6 +44,9 @@
     "name:pol_x_preferred":[
         "Kafr Sakr"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0444\u0440-\u0421\u0430\u043a\u0440"
+    ],
     "name:swe_x_preferred":[
         "Kafr \u015eaqr"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:und_x_variant":[
         "Kafr \u1e62aqr"
+    ],
+    "name:zul_x_preferred":[
+        "Kafr Saqr"
     ],
     "qs:gn_country":"EG",
     "qs:gn_fcode":"PPL",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421174339,
-    "wof:lastmodified":1566586559,
+    "wof:lastmodified":1690876052,
     "wof:name":"Kafr Saqr",
     "wof:parent_id":1092021715,
     "wof:placetype":"locality",

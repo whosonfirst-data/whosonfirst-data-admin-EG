@@ -23,6 +23,9 @@
     "name:arz_x_preferred":[
         "\u0645\u064a\u062a \u063a\u0645\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Mit Ghamr"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u06cc\u062a \u063a\u0645\u0631"
     ],
@@ -44,6 +47,12 @@
     "name:fra_x_preferred":[
         "Mit Ghamr"
     ],
+    "name:gle_x_preferred":[
+        "Mit Ghamr"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05ea-\u05e2'\u05de\u05e8"
+    ],
     "name:ita_x_preferred":[
         "Mit Ghamr"
     ],
@@ -54,6 +63,9 @@
         "\u041c\u0438\u0442-\u0413\u0430\u043c\u0440"
     ],
     "name:nld_x_preferred":[
+        "Mit Ghamr"
+    ],
+    "name:nob_x_preferred":[
         "Mit Ghamr"
     ],
     "name:pol_x_preferred":[
@@ -79,6 +91,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7c73\u7279\u52a0\u7a46\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Mit Ghamr"
     ],
     "qs:gn_country":"EG",
     "qs:gn_fcode":"PPL",
@@ -126,7 +141,7 @@
         }
     ],
     "wof:id":421191839,
-    "wof:lastmodified":1566586568,
+    "wof:lastmodified":1690876058,
     "wof:name":"\u0645\u064a\u062a \u063a\u0645\u0631",
     "wof:parent_id":1092022277,
     "wof:placetype":"locality",

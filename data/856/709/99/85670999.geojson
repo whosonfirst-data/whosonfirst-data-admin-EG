@@ -48,11 +48,17 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0642\u0627\u0647\u0631\u0647"
+    ],
     "name:ast_x_preferred":[
         "El Cairu"
     ],
     "name:azb_x_preferred":[
         "\u0642\u0627\u0647\u0631\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "\u0259l-Qahir\u0259 m\u00fchaf\u0259z\u0259si"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0443\u0445\u0430\u0444\u0430\u0437\u0430 \u041a\u0430\u0456\u0440"
@@ -78,6 +84,12 @@
     "name:ces_x_preferred":[
         "K\u00e1hira"
     ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0642\u0627\u06be\u06cc\u0631\u06d5"
+    ],
+    "name:cym_x_preferred":[
+        "Llywodraethiaeth Cairo"
+    ],
     "name:dan_x_preferred":[
         "Al Qahirah"
     ],
@@ -85,7 +97,8 @@
         "Kairo"
     ],
     "name:deu_x_variant":[
-        "al-Qahira"
+        "al-Qahira",
+        "Gouvernement Kairo"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u03c4\u03bf\u03c5 \u039a\u03b1\u0390\u03c1\u03bf\u03c5"
@@ -103,6 +116,9 @@
     "name:epo_x_preferred":[
         "Provinco Kairo"
     ],
+    "name:eus_x_preferred":[
+        "Kairoko gobernazioa"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0642\u0627\u0647\u0631\u0647"
     ],
@@ -115,6 +131,9 @@
     "name:fra_x_variant":[
         "gouvernorat du Caire",
         "Gouvernorat du Caire"
+    ],
+    "name:gle_x_preferred":[
+        "Gobharn\u00f3ireacht Chaireo"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac8\u0ab0\u0acb \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -167,14 +186,23 @@
     "name:mar_x_preferred":[
         "\u0915\u0948\u0930\u094b \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
+    "name:mlt_x_preferred":[
+        "Governorat tal-Kajr"
+    ],
     "name:msa_x_preferred":[
         "Cairo Governorate"
+    ],
+    "name:msa_x_variant":[
+        "Kegabenoran Kaherah"
     ],
     "name:nan_x_preferred":[
         "Cairo S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Ca\u00efro"
+    ],
+    "name:nld_x_variant":[
+        "Gouvernement Ca\u00efro"
     ],
     "name:nob_x_preferred":[
         "Guvernementet Al Qahirah"
@@ -251,11 +279,17 @@
     "name:war_x_preferred":[
         "Cairo"
     ],
+    "name:wuu_x_preferred":[
+        "\u5f00\u7f57\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5f00\u7f57"
     ],
     "name:zho_x_variant":[
         "\u5f00\u7f57\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Cairo Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -381,7 +415,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636502260,
+    "wof:lastmodified":1690876033,
     "wof:name":"Al Qahirah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

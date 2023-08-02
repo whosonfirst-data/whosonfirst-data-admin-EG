@@ -31,11 +31,23 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Mansoura"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259nsur\u0259"
+    ],
     "name:bel_x_preferred":[
         "\u042d\u043b\u044c-\u041c\u0430\u043d\u0441\u0443\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09b8\u09c1\u09b0\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u09a8\u09b8\u09c1\u09b0\u09be"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0441\u0443\u0440\u0430"
@@ -60,6 +72,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bd\u03c3\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Sinbillawain"
     ],
     "name:eng_x_preferred":[
         "Al Mansurah"
@@ -140,6 +155,9 @@
     "name:nob_x_preferred":[
         "Mansura"
     ],
+    "name:oss_x_preferred":[
+        "\u042d\u043b\u044c-\u041c\u0430\u043d\u0441\u0443\u0440\u00e6"
+    ],
     "name:pol_x_preferred":[
         "Mansura"
     ],
@@ -173,11 +191,17 @@
     "name:swe_x_preferred":[
         "Mansura"
     ],
+    "name:szl_x_preferred":[
+        "Al-Mansura"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0ba9\u0bcd\u0b9a\u0bb5\u0bc1\u0bb1\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c28\u0c4d\u0c38\u0c41\u0c30\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043b-\u041c\u0430\u043d\u0441\u0443\u0440\u0430"
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e2d\u0e25\u0e41\u0e21\u0e19\u0e0b\u0e38\u0e23\u0e32"
@@ -203,6 +227,12 @@
     "name:urd_x_variant":[
         "\u0645\u0646\u0635\u0648\u0631\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Mansura"
+    ],
+    "name:vec_x_preferred":[
+        "Mansura"
+    ],
     "name:vie_x_preferred":[
         "El Mansoura"
     ],
@@ -211,6 +241,9 @@
     ],
     "name:zho_x_preferred":[
         "\u66fc\u82cf\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Mansoura"
     ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
@@ -251,7 +284,7 @@
         }
     ],
     "wof:id":1125855613,
-    "wof:lastmodified":1566586585,
+    "wof:lastmodified":1690876074,
     "wof:name":"Al Man\u015f\u016brah",
     "wof:parent_id":1092025681,
     "wof:placetype":"locality",

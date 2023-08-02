@@ -28,14 +28,23 @@
     "name:arz_x_preferred":[
         "\u062f\u0633\u0648\u0642"
     ],
+    "name:ast_x_preferred":[
+        "Desouk"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0633\u0648\u0642"
     ],
     "name:aze_x_preferred":[
         "D\u0259suk"
     ],
+    "name:aze_x_variant":[
+        "D\u0259suq"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u09b8\u09cb\u0989\u0995"
+    ],
+    "name:ben_x_variant":[
+        "\u09a6\u09c7\u09b8\u09c1\u0995"
     ],
     "name:bjn_x_preferred":[
         "Dosouk"
@@ -49,6 +58,9 @@
     "name:ceb_x_preferred":[
         "Markaz Dis\u016bq"
     ],
+    "name:ceb_x_variant":[
+        "Dis\u016bq"
+    ],
     "name:ces_x_preferred":[
         "Desouk"
     ],
@@ -57,6 +69,9 @@
     ],
     "name:deu_x_preferred":[
         "Disuk"
+    ],
+    "name:deu_x_variant":[
+        "Disuq"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b5\u03c3\u03bf\u03cd\u03ba"
@@ -76,6 +91,9 @@
     "name:fra_x_preferred":[
         "Dessouk"
     ],
+    "name:gle_x_preferred":[
+        "Desouk"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0ac7\u0ab8\u0acc\u0a95"
     ],
@@ -84,6 +102,9 @@
     ],
     "name:hrv_x_preferred":[
         "Disuk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u057d\u0578\u0582\u0584"
     ],
     "name:ind_x_preferred":[
         "Dosouk"
@@ -123,6 +144,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0921\u0947\u0938\u094b\u090a\u0915"
+    ],
+    "name:mlg_x_preferred":[
+        "Dis\u016bq"
     ],
     "name:msa_x_preferred":[
         "Desouk"
@@ -184,6 +208,9 @@
     "name:urd_x_preferred":[
         "\u062f\u0633\u0648\u0642"
     ],
+    "name:vec_x_preferred":[
+        "Disuq"
+    ],
     "name:vie_x_preferred":[
         "Desouk"
     ],
@@ -192,6 +219,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8fea\u65af\u6c83\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Desouk"
     ],
     "qs:name":"Dis\u016bq",
     "qs:photos_9r":0,
@@ -224,7 +254,7 @@
         }
     ],
     "wof:id":890431221,
-    "wof:lastmodified":1566586576,
+    "wof:lastmodified":1690876063,
     "wof:name":"Dis\u016bq",
     "wof:parent_id":1092016203,
     "wof:placetype":"locality",

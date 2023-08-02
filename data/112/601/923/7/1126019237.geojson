@@ -43,6 +43,9 @@
     "name:aze_x_preferred":[
         "\u015earm \u0259\u015f-\u015eeyx"
     ],
+    "name:aze_x_variant":[
+        "\u015e\u0259rm \u0259\u015f-\u015eeyx"
+    ],
     "name:bak_x_preferred":[
         "\u0428\u04d9\u0440\u043c-\u04d9\u0448-\u0428\u04d9\u0439\u0435\u0445"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:che_x_preferred":[
         "\u0428\u0430\u0440\u043c-\u044d\u0448-\u0428\u0435\u0439\u0445"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0634\u06d5\u0631\u0645 \u0626\u06d5\u0644\u0634\u06d5\u06cc\u062e"
     ],
     "name:dan_x_preferred":[
         "Sharm el-Sheikh"
@@ -120,6 +126,12 @@
     ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u0580\u0574 \u0567\u056c \u0547\u0565\u0575\u056d"
+    ],
+    "name:ibo_x_preferred":[
+        "Sharma el-Sheikh"
+    ],
+    "name:ido_x_preferred":[
+        "Sharm el-Sheik"
     ],
     "name:ind_x_preferred":[
         "Sharm el-Sheikh"
@@ -181,6 +193,9 @@
     "name:oci_x_preferred":[
         "Charm el-Cheikh"
     ],
+    "name:pnb_x_preferred":[
+        "\u0634\u0631\u0645 \u0627\u0644\u0634\u06cc\u062e"
+    ],
     "name:pol_x_preferred":[
         "Szarm el-Szejk"
     ],
@@ -208,8 +223,14 @@
     "name:slv_x_preferred":[
         "Sharm El-Sheikh"
     ],
+    "name:slv_x_variant":[
+        "\u0160arm el \u0160ejk"
+    ],
     "name:spa_x_preferred":[
         "Sharm el-Sheij"
+    ],
+    "name:srd_x_preferred":[
+        "Sharm el-Sheikh"
     ],
     "name:srp_x_preferred":[
         "\u0428\u0430\u0440\u043c \u0435\u043b \u0428\u0435\u0438\u043a"
@@ -226,6 +247,9 @@
     "name:tel_x_preferred":[
         "\u0c37\u0c30\u0c4d\u0c2e\u0c4d \u0c0e\u0c32\u0c4d-\u0c37\u0c47\u0c15\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0428\u0430\u0440\u043c-\u0430\u0448-\u0428\u0430\u0439\u0445"
+    ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e32\u0e23\u0e4c\u0e21 \u0e40\u0e2d\u0e25-\u0e0a\u0e35\u0e04"
     ],
@@ -241,8 +265,14 @@
     "name:urd_x_preferred":[
         "\u0634\u0631\u0645 \u0627\u0644\u0634\u06cc\u062e"
     ],
+    "name:uzb_x_preferred":[
+        "Sharm al-Shayx"
+    ],
     "name:vie_x_preferred":[
         "Sharm el-Sheikh"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6c99\u59c6\u6c99\u4f0a\u8d6b"
     ],
     "name:xmf_x_preferred":[
         "\u10e8\u10d0\u10e0\u10db-\u10d4\u10da-\u10e8\u10d4\u10d8\u10ee\u10d8"
@@ -253,8 +283,14 @@
     "name:yue_x_preferred":[
         "\u6c99\u59c6\u6c99\u4f0a\u8d6b"
     ],
+    "name:zea_x_preferred":[
+        "Sharm el-Sheikh"
+    ],
     "name:zho_x_preferred":[
         "\u6c99\u59c6\u6c99\u4f0a\u8d6b"
+    ],
+    "name:zul_x_preferred":[
+        "Sharm El Sheikh"
     ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
@@ -295,7 +331,7 @@
         }
     ],
     "wof:id":1126019237,
-    "wof:lastmodified":1566586584,
+    "wof:lastmodified":1690876073,
     "wof:name":"Sharm ash Shaykh",
     "wof:parent_id":1092024505,
     "wof:placetype":"locality",

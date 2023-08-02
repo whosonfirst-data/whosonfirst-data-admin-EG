@@ -26,11 +26,17 @@
     "name:arz_x_preferred":[
         "\u0642\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Qena"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0646\u0627"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0435\u043d\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0435\u043d\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09af\u09bc\u09c7\u09a8\u09be"
@@ -182,6 +188,9 @@
     "name:urd_x_preferred":[
         "\u0642\u0646\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Qena"
+    ],
     "name:vie_x_preferred":[
         "Qena"
     ],
@@ -190,6 +199,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u7d0d"
+    ],
+    "name:zul_x_preferred":[
+        "Qena"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -330,7 +342,7 @@
         }
     ],
     "wof:id":421187723,
-    "wof:lastmodified":1566586561,
+    "wof:lastmodified":1690876054,
     "wof:name":"\u0642\u0646\u0627",
     "wof:parent_id":1092023527,
     "wof:placetype":"locality",

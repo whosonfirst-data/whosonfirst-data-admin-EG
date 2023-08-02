@@ -35,6 +35,9 @@
     "name:eus_x_preferred":[
         "Xois"
     ],
+    "name:fin_x_preferred":[
+        "Ksois"
+    ],
     "name:fra_x_preferred":[
         "Xo\u00efs"
     ],
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421191949,
-    "wof:lastmodified":1566586568,
+    "wof:lastmodified":1690876058,
     "wof:name":"\u0633\u062e\u0627",
     "wof:parent_id":1092021581,
     "wof:placetype":"locality",

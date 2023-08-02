@@ -26,6 +26,12 @@
     "name:arz_x_preferred":[
         "\u0627\u0628\u0648 \u0642\u064a\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0628\u0648\u0642\u06cc\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ac\u09c1 \u0995\u09bf\u09b0"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0431\u0443 \u041a\u0438\u0440"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:ita_x_preferred":[
         "Abukir"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d6\u30ad\u30fc\u30eb"
     ],
     "name:lit_x_preferred":[
         "Abu Kiras"
@@ -154,7 +163,7 @@
         }
     ],
     "wof:id":1125878131,
-    "wof:lastmodified":1566586583,
+    "wof:lastmodified":1690876072,
     "wof:name":"Abu Quir",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

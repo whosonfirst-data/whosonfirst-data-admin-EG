@@ -23,11 +23,23 @@
     "name:arz_x_preferred":[
         "\u0633\u0648\u0647\u0627\u062c"
     ],
+    "name:ast_x_preferred":[
+        "Sohag"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0648\u0647\u0627\u062c"
     ],
+    "name:aze_x_preferred":[
+        "S\u00f6vhac"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b9\u09be\u0997"
+    ],
+    "name:cat_x_preferred":[
+        "Sohag"
+    ],
+    "name:ceb_x_preferred":[
+        "Sohag"
     ],
     "name:ces_x_preferred":[
         "Suhag"
@@ -101,6 +113,9 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0939\u093e\u0917"
     ],
+    "name:mlg_x_preferred":[
+        "Sohag"
+    ],
     "name:msa_x_preferred":[
         "Suhaj"
     ],
@@ -143,6 +158,9 @@
     "name:tel_x_preferred":[
         "\u0c38\u0c4b\u0c39\u0c3e\u0c17\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0430\u0432\u04b3\u043e\u04b7"
+    ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e2d\u0e32\u0e01\u0e38\u0e07"
     ],
@@ -161,6 +179,12 @@
     "name:urd_x_preferred":[
         "\u0633\u0648\u06c1\u0627\u062c"
     ],
+    "name:uzb_x_preferred":[
+        "Savhoj"
+    ],
+    "name:vec_x_preferred":[
+        "Sohag"
+    ],
     "name:vie_x_preferred":[
         "Sohag"
     ],
@@ -169,6 +193,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d22\u54c8\u5091"
+    ],
+    "name:zul_x_preferred":[
+        "Sohag"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -308,7 +335,7 @@
         }
     ],
     "wof:id":421168697,
-    "wof:lastmodified":1566586555,
+    "wof:lastmodified":1690876047,
     "wof:name":"\u0633\u0648\u0647\u0627\u062c",
     "wof:parent_id":1092015013,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:arz_x_preferred":[
         "\u0633\u064a\u062f\u0649 \u0628\u0634\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u062f\u06cc \u0628\u0634\u0631"
+    ],
     "name:eng_x_preferred":[
         "Sidi Bishr"
     ],
@@ -124,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582352360,
+    "wof:lastmodified":1690876030,
     "wof:name":"Sidi Bishr",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

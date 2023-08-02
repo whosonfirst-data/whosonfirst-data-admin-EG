@@ -55,6 +55,9 @@
     "name:azb_x_preferred":[
         "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644\u06cc\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "\u018fl-\u0130smailiyy\u0259 m\u00fchaf\u0259z\u0259si"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u09ae\u09be\u0987\u09b2\u09bf\u09af\u09bc\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -82,6 +85,9 @@
     "name:deu_x_preferred":[
         "al-Isma\u02bfiliyya"
     ],
+    "name:deu_x_variant":[
+        "Gouvernement Ismailia"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0399\u03c3\u03bc\u03b1\u03b7\u03bb\u03af\u03b1\u03c2"
     ],
@@ -108,6 +114,9 @@
     ],
     "name:fra_x_variant":[
         "Gouvernorat d'Isma\u00eflia"
+    ],
+    "name:gle_x_preferred":[
+        "Gobharn\u00f3ireacht Ismailia"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0acd\u0aae\u0abe\u0a87\u0ab2\u0abf\u0aaf\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -160,8 +169,14 @@
     "name:mar_x_preferred":[
         "\u0907\u0938\u094d\u092e\u093e\u0908\u0932\u093f\u092f\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0441\u043c\u0430\u0438\u043b\u0438\u0458\u0430"
+    ],
     "name:msa_x_preferred":[
         "Ismailia Governorate"
+    ],
+    "name:nan_x_preferred":[
+        "Ismailia S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Isma\u00eflia"
@@ -211,6 +226,9 @@
     "name:tel_x_preferred":[
         "\u0c07\u0c38\u0c4d\u0c2e\u0c3e\u0c2f\u0c3f\u0c32\u0c3f\u0c2f\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0418\u0441\u043c\u043e\u0438\u043b\u0438\u044f"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e2a\u0e21\u0e32\u0e40\u0e25\u0e35\u0e22 \u0e01\u0e2d\u0e1f\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
     ],
@@ -235,8 +253,14 @@
     "name:war_x_preferred":[
         "Ismailia"
     ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u65af\u6885\u5229\u4e9a\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u6885\u5229\u4e9a\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Ismailia Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -359,7 +383,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636502259,
+    "wof:lastmodified":1690876032,
     "wof:name":"Al Isma`iliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -28,6 +28,9 @@
     "name:arz_x_preferred":[
         "\u0631\u0634\u064a\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Rosetta"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u0437\u0435\u0442\u0430"
     ],
@@ -58,11 +61,17 @@
     "name:fas_x_preferred":[
         "\u0631\u0634\u06cc\u062f"
     ],
+    "name:fin_x_preferred":[
+        "Rosetta"
+    ],
     "name:fra_x_preferred":[
         "Rachid"
     ],
     "name:fra_x_variant":[
         "Rosette"
+    ],
+    "name:gle_x_preferred":[
+        "Rosetta"
     ],
     "name:hbs_x_preferred":[
         "Ra\u0161id"
@@ -78,6 +87,9 @@
     ],
     "name:ind_x_preferred":[
         "Rashid"
+    ],
+    "name:ind_x_variant":[
+        "Rasyid"
     ],
     "name:isl_x_preferred":[
         "Rosetta"
@@ -99,6 +111,12 @@
     ],
     "name:lat_x_preferred":[
         "Rosetta"
+    ],
+    "name:mlg_x_preferred":[
+        "Rosetta"
+    ],
+    "name:msa_x_preferred":[
+        "Rasyid"
     ],
     "name:nld_x_preferred":[
         "Rosetta"
@@ -136,8 +154,20 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0448\u0438\u0434"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0634\u064a\u062f"
+    ],
+    "name:war_x_preferred":[
+        "Rosetta"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7f57\u585e\u5854"
+    ],
     "name:zho_x_preferred":[
         "\u7f85\u585e\u5854"
+    ],
+    "name:zul_x_preferred":[
+        "Rosetta"
     ],
     "qs:name":"Rosetta",
     "qs:photos_9r":0,
@@ -176,7 +206,7 @@
         }
     ],
     "wof:id":890428837,
-    "wof:lastmodified":1566586576,
+    "wof:lastmodified":1690876063,
     "wof:name":"Rosetta",
     "wof:parent_id":1092023921,
     "wof:placetype":"locality",

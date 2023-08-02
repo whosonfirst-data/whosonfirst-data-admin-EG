@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0648\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0646\u0648\u0641"
+    ],
+    "name:ast_x_preferred":[
+        "Menouf"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0646\u0648\u0641"
     ],
     "name:ceb_x_preferred":[
         "Min\u016bf"
+    ],
+    "name:deu_x_preferred":[
+        "Minuf"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03bd\u03bf\u03cd\u03c6"
@@ -37,7 +46,16 @@
     "name:fas_x_preferred":[
         "\u0645\u0646\u0648\u0641"
     ],
+    "name:fin_x_preferred":[
+        "Minuf"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e9nouf"
+    ],
     "name:nld_x_preferred":[
+        "Menouf"
+    ],
+    "name:nob_x_preferred":[
         "Menouf"
     ],
     "name:pol_x_preferred":[
@@ -55,8 +73,14 @@
     "name:swe_x_preferred":[
         "Minuf"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043d\u0443\u0444"
+    ],
     "name:und_x_variant":[
         "Menuf"
+    ],
+    "name:zul_x_preferred":[
+        "Menouf"
     ],
     "qs:name":"Min\u016bf",
     "qs:photos_9r":0,
@@ -89,7 +113,7 @@
         }
     ],
     "wof:id":890418085,
-    "wof:lastmodified":1566586577,
+    "wof:lastmodified":1690876065,
     "wof:name":"Min\u016bf",
     "wof:parent_id":1092022369,
     "wof:placetype":"locality",

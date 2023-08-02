@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0633\u0643\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u0631\u0633\u0643\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Faraskur"
+    ],
+    "name:azb_x_preferred":[
+        "\u0641\u0627\u0631\u0633\u06a9\u0648\u0631"
+    ],
     "name:cat_x_preferred":[
         "Faraskur"
     ],
@@ -46,6 +55,12 @@
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05e1\u05e7\u05d5\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d0\u05e8\u05e1\u05db\u05d5\u05e8"
+    ],
+    "name:mlg_x_preferred":[
+        "F\u0101rask\u016br"
+    ],
     "name:nld_x_preferred":[
         "Faraskur"
     ],
@@ -60,6 +75,9 @@
     ],
     "name:und_x_variant":[
         "F\u00e2risk\u00fbr"
+    ],
+    "name:zul_x_preferred":[
+        "Faraskur"
     ],
     "qs:name":"F\u0101rask\u016br",
     "qs:photos_9r":0,
@@ -92,7 +110,7 @@
         }
     ],
     "wof:id":890414445,
-    "wof:lastmodified":1566586574,
+    "wof:lastmodified":1690876061,
     "wof:name":"F\u0101rask\u016br",
     "wof:parent_id":1092020865,
     "wof:placetype":"locality",

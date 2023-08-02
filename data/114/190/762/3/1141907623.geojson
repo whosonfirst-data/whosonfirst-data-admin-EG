@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.2599840889,30.590340799,32.2599840889,30.590340799",
+    "geom:bbox":"32.259984,30.590341,32.259984,30.590341",
     "geom:latitude":30.590341,
     "geom:longitude":32.259984,
     "gn:country":"EG",
@@ -24,20 +24,32 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629"
     ],
-    "name:ara_x_variant":[
-        "\u0627\u0644\u0625\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0629"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Ismailia"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u0645\u0627\u0639\u06cc\u0644\u06cc\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fl-\u0130smailiyy\u0259"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0441\u043c\u0430\u0456\u043b\u0456\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u0406\u0441\u043c\u0430\u0456\u043b\u0456\u044f"
     ],
     "name:bul_x_preferred":[
         "\u0418\u0441\u043c\u0430\u0438\u043b\u0438\u044f"
     ],
     "name:cat_x_preferred":[
         "Ismailiyah"
+    ],
+    "name:ceb_x_preferred":[
+        "Ismailia"
     ],
     "name:ces_x_preferred":[
         "Ism\u00e1\u00edl\u00edja"
@@ -58,7 +70,10 @@
         "Isma\u00eflia"
     ],
     "name:eng_x_variant":[
-        "Isma\u00eflia"
+        "Ismailia"
+    ],
+    "name:epo_x_preferred":[
+        "Ismailio"
     ],
     "name:est_x_preferred":[
         "Al-Ism\u0101\u2019\u012bl\u012byah"
@@ -79,6 +94,9 @@
         "Isma\u00eflia"
     ],
     "name:gle_x_preferred":[
+        "Ismailia"
+    ],
+    "name:glg_x_preferred":[
         "Ismailia"
     ],
     "name:heb_x_preferred":[
@@ -108,6 +126,9 @@
     "name:kab_x_preferred":[
         "Isma\u025biliyya"
     ],
+    "name:kab_x_variant":[
+        "Isma\u025bileyya"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10e1\u10db\u10d0\u10d8\u10da\u10d8\u10d0"
     ],
@@ -120,6 +141,9 @@
     "name:lit_x_preferred":[
         "Ismailija"
     ],
+    "name:mlg_x_preferred":[
+        "Ismailia"
+    ],
     "name:nds_x_preferred":[
         "Ismailia"
     ],
@@ -129,8 +153,14 @@
     "name:nld_x_variant":[
         "Ismailia"
     ],
+    "name:nno_x_preferred":[
+        "Ismailia"
+    ],
     "name:nob_x_preferred":[
         "Ismailia"
+    ],
+    "name:oci_x_preferred":[
+        "Ismailha"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644\u06cc\u06c1"
@@ -140,6 +170,9 @@
     ],
     "name:por_x_preferred":[
         "Isma\u00edlia"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0633\u0645\u0627\u0639\u064a\u0644\u064a\u0647"
     ],
     "name:rus_x_preferred":[
         "\u0418\u0441\u043c\u0430\u0438\u043b\u0438\u044f"
@@ -165,11 +198,20 @@
     "name:szl_x_preferred":[
         "Ismailia"
     ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0b9a\u0bc1\u0bae\u0bbe\u0bb2\u0bbf\u0baf\u0bbe \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043b-\u0418\u0441\u043c\u043e\u0438\u043b\u0438\u044f"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e2a\u0e40\u0e21\u0e2d\u0e34\u0e25\u0e35\u0e2d\u0e32"
     ],
     "name:tur_x_preferred":[
         "\u0130smailiye"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u0649\u0633\u0645\u0627\u0626\u0649\u0644\u0649\u064a\u06d5"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0441\u043c\u0430\u0457\u043b\u0456\u044f"
@@ -183,6 +225,9 @@
     "name:uzb_x_preferred":[
         "Ismoiliya"
     ],
+    "name:vec_x_preferred":[
+        "Ismailia"
+    ],
     "name:vie_x_preferred":[
         "Ismailia"
     ],
@@ -192,11 +237,17 @@
     "name:war_x_preferred":[
         "Ismailia"
     ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u65af\u6885\u5229\u4e9a"
+    ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u6885\u5229\u4e9a"
     ],
     "name:zho_x_variant":[
         "\u4f0a\u65af\u6885\u5229\u4e9e"
+    ],
+    "name:zul_x_preferred":[
+        "Ismailia"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -320,7 +371,7 @@
     },
     "wof:country":"EG",
     "wof:created":1499130750,
-    "wof:geomhash":"3f15a7da05a52b143c351413b92121e1",
+    "wof:geomhash":"58013478c14e0d30ff7b5e5d966563a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -331,7 +382,7 @@
         }
     ],
     "wof:id":1141907623,
-    "wof:lastmodified":1566586923,
+    "wof:lastmodified":1690876080,
     "wof:name":"Ismailia",
     "wof:parent_id":1092025591,
     "wof:placetype":"locality",
@@ -345,10 +396,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.2599840888837,
-    30.59034079896685,
-    32.2599840888837,
-    30.59034079896685
+    32.259984,
+    30.590341,
+    32.259984,
+    30.590341
 ],
-  "geometry": {"coordinates":[32.2599840888837,30.59034079896685],"type":"Point"}
+  "geometry": {"coordinates":[32.259984,30.590341],"type":"Point"}
 }

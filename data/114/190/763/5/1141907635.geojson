@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.4700158272,31.0504419139,30.4700158272,31.0504419139",
+    "geom:bbox":"30.470016,31.050442,30.470016,31.050442",
     "geom:latitude":31.050442,
     "geom:longitude":30.470016,
     "iso:country":"EG",
@@ -23,6 +23,9 @@
     ],
     "name:arz_x_preferred":[
         "\u062f\u0645\u0646\u0647\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Damanhur"
     ],
     "name:azb_x_preferred":[
         "\u062f\u0645\u0646\u0647\u0648\u0631"
@@ -75,6 +78,9 @@
     "name:gla_x_preferred":[
         "Damanh\u00f9r"
     ],
+    "name:gle_x_preferred":[
+        "Damanhur"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0aae\u0aa3\u0ab9\u0ac1\u0ab0"
     ],
@@ -119,6 +125,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0926\u092e\u0923\u0939\u0930"
+    ],
+    "name:mlg_x_preferred":[
+        "Damanh\u016br"
     ],
     "name:msa_x_preferred":[
         "Damanhur"
@@ -165,6 +174,9 @@
     "name:tel_x_preferred":[
         "\u0c21\u0c3e\u0c2e\u0c28\u0c4d \u0c39\u0c41\u0c30\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u043d\u04b3\u0443\u0440"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e21\u0e32\u0e19\u0e40\u0e2e\u0e2d\u0e23\u0e4c"
     ],
@@ -183,14 +195,26 @@
     "name:uzb_x_preferred":[
         "Damanxur"
     ],
+    "name:uzb_x_variant":[
+        "Damanhur"
+    ],
+    "name:vec_x_preferred":[
+        "Damanhur"
+    ],
     "name:vie_x_preferred":[
         "Damanhur"
     ],
     "name:war_x_preferred":[
         "Damanhur"
     ],
+    "name:yue_x_preferred":[
+        "\u9054\u66fc\u80e1\u723e"
+    ],
     "name:zho_x_preferred":[
         "\u9054\u66fc\u80e1\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Damanhur"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -300,7 +324,7 @@
     },
     "wof:country":"EG",
     "wof:created":1499130752,
-    "wof:geomhash":"947b81f1e5c46f8b58b2852d07c76839",
+    "wof:geomhash":"0ab9a716ec2cfc8121c39fbd8e5792e8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -311,7 +335,7 @@
         }
     ],
     "wof:id":1141907635,
-    "wof:lastmodified":1566586922,
+    "wof:lastmodified":1690876080,
     "wof:name":"Damanhur",
     "wof:parent_id":1092015921,
     "wof:placetype":"locality",
@@ -321,10 +345,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.47001582715785,
-    31.05044191387759,
-    30.47001582715785,
-    31.05044191387759
+    30.470016,
+    31.050442,
+    30.470016,
+    31.050442
 ],
-  "geometry": {"coordinates":[30.47001582715785,31.05044191387759],"type":"Point"}
+  "geometry": {"coordinates":[30.470016,31.050442],"type":"Point"}
 }

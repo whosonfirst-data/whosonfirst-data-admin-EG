@@ -28,11 +28,17 @@
     "name:arz_x_preferred":[
         "\u0627\u0628\u0646\u0648\u0628"
     ],
+    "name:ast_x_preferred":[
+        "Abnub"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0628\u200c\u0646\u0627\u0628"
     ],
     "name:ceb_x_preferred":[
         "Abn\u016bb"
+    ],
+    "name:deu_x_preferred":[
+        "Abnub"
     ],
     "name:eng_x_preferred":[
         "Abnub"
@@ -43,7 +49,13 @@
     "name:ita_x_preferred":[
         "Abnub"
     ],
+    "name:mlg_x_preferred":[
+        "Abn\u016bb"
+    ],
     "name:nld_x_preferred":[
+        "Abnub"
+    ],
+    "name:nob_x_preferred":[
         "Abnub"
     ],
     "name:pol_x_preferred":[
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":890453477,
-    "wof:lastmodified":1566586576,
+    "wof:lastmodified":1690876063,
     "wof:name":"Abn\u016bb",
     "wof:parent_id":1092014043,
     "wof:placetype":"locality",

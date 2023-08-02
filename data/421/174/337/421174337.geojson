@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0648\u0635\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0642\u0648\u0635\u064a\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Cusae"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0644\u0642\u0648\u0635\u06cc\u0647"
     ],
@@ -38,6 +44,9 @@
     "name:eng_x_preferred":[
         "Cusae"
     ],
+    "name:eng_x_variant":[
+        "El Quseyya"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0642\u0648\u0635\u06cc\u0647"
     ],
@@ -55,6 +64,9 @@
     ],
     "name:lit_x_preferred":[
         "Kusai"
+    ],
+    "name:mlg_x_preferred":[
+        "Al Q\u016b\u015f\u012byah"
     ],
     "name:nld_x_preferred":[
         "Cusae"
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":421174337,
-    "wof:lastmodified":1566586559,
+    "wof:lastmodified":1690876052,
     "wof:name":"Al Qusiyah",
     "wof:parent_id":1092019229,
     "wof:placetype":"locality",

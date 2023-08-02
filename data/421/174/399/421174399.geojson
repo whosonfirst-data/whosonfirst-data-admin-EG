@@ -35,11 +35,17 @@
     "name:amh_x_preferred":[
         "\u12ab\u12ed\u122e"
     ],
+    "name:anp_x_preferred":[
+        "\u0915\u093e\u0939\u093f\u0930\u093e"
+    ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0627\u0647\u0631\u0629"
     ],
     "name:arg_x_preferred":[
         "O Caire"
+    ],
+    "name:ary_x_preferred":[
+        "\u0644\u0642\u0627\u0647\u0631\u0629"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0642\u0627\u0647\u0631\u0647"
@@ -50,6 +56,12 @@
     "name:ava_x_preferred":[
         "\u041a\u0430\u0438\u0440"
     ],
+    "name:avk_x_preferred":[
+        "Alkaira"
+    ],
+    "name:awa_x_preferred":[
+        "\u0915\u093e\u0907\u0930\u094b"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0627\u0647\u06cc\u0631\u0647"
     ],
@@ -58,6 +70,12 @@
     ],
     "name:bak_x_preferred":[
         "\u04a0\u04d9\u04bb\u0438\u0440"
+    ],
+    "name:bak_x_variant":[
+        "\u04a0\u0430\u04bb\u0438\u0440\u04d9"
+    ],
+    "name:ban_x_preferred":[
+        "Kairo"
     ],
     "name:bcl_x_preferred":[
         "Cairo"
@@ -110,11 +128,17 @@
     "name:chv_x_preferred":[
         "\u041a\u0430\u0438\u0440"
     ],
+    "name:chy_x_preferred":[
+        "Cairo"
+    ],
     "name:ckb_x_preferred":[
         "\u0642\u0627\u06be\u06cc\u0631\u06d5"
     ],
     "name:cor_x_preferred":[
         "Cairo"
+    ],
+    "name:cos_x_preferred":[
+        "U Cairu"
     ],
     "name:crh_x_preferred":[
         "Qaire"
@@ -188,6 +212,9 @@
     "name:fry_x_preferred":[
         "Kairo"
     ],
+    "name:fur_x_preferred":[
+        "El Cairo"
+    ],
     "name:gcr_x_preferred":[
         "K\u00e8ro"
     ],
@@ -205,6 +232,12 @@
     ],
     "name:glv_x_preferred":[
         "Cairo"
+    ],
+    "name:gpe_x_preferred":[
+        "Cairo"
+    ],
+    "name:grn_x_preferred":[
+        "K\u00e1iro"
     ],
     "name:gsw_x_preferred":[
         "Kairo"
@@ -299,6 +332,9 @@
     "name:kaz_x_preferred":[
         "\u04d8\u043b-\u049a\u0430\u04bb\u0438\u0440\u0430"
     ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u0438\u0440"
+    ],
     "name:kbp_x_preferred":[
         "K\u025b\u025br\u0269"
     ],
@@ -319,6 +355,9 @@
     ],
     "name:lad_x_preferred":[
         "El Kairo"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec4\u0e84\u0ec2\u0ea3"
     ],
     "name:lat_x_preferred":[
         "Cairus"
@@ -347,6 +386,9 @@
     "name:lit_x_preferred":[
         "Kairas"
     ],
+    "name:lld_x_preferred":[
+        "L Cairo"
+    ],
     "name:lmo_x_preferred":[
         "El Cairo"
     ],
@@ -354,6 +396,9 @@
         "\u0642\u0627\u0647\u0631\u0647"
     ],
     "name:ltz_x_preferred":[
+        "Kairo"
+    ],
+    "name:mad_x_preferred":[
         "Kairo"
     ],
     "name:mai_x_preferred":[
@@ -379,6 +424,12 @@
     ],
     "name:mlg_x_preferred":[
         "Kairo"
+    ],
+    "name:mlt_x_preferred":[
+        "Kajr"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc0\uabe5\uabcf\uabd4\uabe3"
     ],
     "name:mon_x_preferred":[
         "\u041a\u0430\u0438\u0440"
@@ -415,6 +466,9 @@
     ],
     "name:nau_x_preferred":[
         "Cairo"
+    ],
+    "name:nav_x_preferred":[
+        "Yadaaz\u02bc\u00e1h\u00ed\u0142\u00e1n\u00ed"
     ],
     "name:nds_x_preferred":[
         "Kairo"
@@ -533,6 +587,12 @@
     "name:sme_x_preferred":[
         "Cairo"
     ],
+    "name:smn_x_preferred":[
+        "Kairo"
+    ],
+    "name:sms_x_preferred":[
+        "Kairo"
+    ],
     "name:sna_x_preferred":[
         "Cairo"
     ],
@@ -556,6 +616,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0438\u0440\u043e"
+    ],
+    "name:ssw_x_preferred":[
+        "Cairo"
     ],
     "name:sun_x_preferred":[
         "Kairo"
@@ -677,6 +740,9 @@
     ],
     "name:zho_x_preferred":[
         "\u958b\u7f85"
+    ],
+    "name:zul_x_preferred":[
+        "Cairo"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Egypt",
@@ -829,7 +895,7 @@
         }
     ],
     "wof:id":421174399,
-    "wof:lastmodified":1617131298,
+    "wof:lastmodified":1690876052,
     "wof:megacity":1,
     "wof:name":"\u0627\u0644\u0642\u0627\u0647\u0631\u0629",
     "wof:parent_id":1092016929,

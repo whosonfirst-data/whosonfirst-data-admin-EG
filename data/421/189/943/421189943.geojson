@@ -77,6 +77,9 @@
     "name:hun_x_variant":[
         "Farafra-o\u00e1zis"
     ],
+    "name:hye_x_preferred":[
+        "\u0556\u0561\u0580\u0561\u0586\u0580\u0561"
+    ],
     "name:ind_x_preferred":[
         "Kalender Ayam"
     ],
@@ -137,6 +140,9 @@
     "name:spa_x_preferred":[
         "Depresi\u00f3n de Farafra"
     ],
+    "name:sqi_x_preferred":[
+        "Farafra"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043b\u0430 \u043f\u0443\u0441\u0442\u0438\u045a\u0430"
     ],
@@ -145,6 +151,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bb0\u0bbe\u0baa\u0bbf\u0bb0\u0bbe"
+    ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bb0\u0bbe\u0baa\u0bbf\u0bb0\u0bbe  "
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c30\u0c3e\u0c2b\u0c4d\u0c30\u0c3e"
@@ -160,6 +169,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0631\u0627\u0641\u0631\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0641\u0627\u0631\u0627\u0641\u0631\u0627 "
     ],
     "name:vie_x_preferred":[
         "Farafra"
@@ -190,8 +202,8 @@
     "wof:belongsto":[
         102191573,
         85632581,
-        1092017585,
-        85671071
+        85671071,
+        1092017585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -212,7 +224,7 @@
         }
     ],
     "wof:id":421189943,
-    "wof:lastmodified":1587163137,
+    "wof:lastmodified":1690876056,
     "wof:name":"Qasr Farafra",
     "wof:parent_id":1092017585,
     "wof:placetype":"locality",

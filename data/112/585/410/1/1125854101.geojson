@@ -28,6 +28,9 @@
     "name:arz_x_preferred":[
         "\u062f\u0645\u0646\u0647\u0648\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Damanhur"
+    ],
     "name:azb_x_preferred":[
         "\u062f\u0645\u0646\u0647\u0648\u0631"
     ],
@@ -79,6 +82,9 @@
     "name:gla_x_preferred":[
         "Damanh\u00f9r"
     ],
+    "name:gle_x_preferred":[
+        "Damanhur"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0aae\u0aa3\u0ab9\u0ac1\u0ab0"
     ],
@@ -123,6 +129,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0926\u092e\u0923\u0939\u0930"
+    ],
+    "name:mlg_x_preferred":[
+        "Damanh\u016br"
     ],
     "name:msa_x_preferred":[
         "Damanhur"
@@ -169,6 +178,9 @@
     "name:tel_x_preferred":[
         "\u0c21\u0c3e\u0c2e\u0c28\u0c4d \u0c39\u0c41\u0c30\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0414\u0430\u043c\u0430\u043d\u04b3\u0443\u0440"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e21\u0e32\u0e19\u0e40\u0e2e\u0e2d\u0e23\u0e4c"
     ],
@@ -190,14 +202,26 @@
     "name:uzb_x_preferred":[
         "Damanxur"
     ],
+    "name:uzb_x_variant":[
+        "Damanhur"
+    ],
+    "name:vec_x_preferred":[
+        "Damanhur"
+    ],
     "name:vie_x_preferred":[
         "Damanhur"
     ],
     "name:war_x_preferred":[
         "Damanhur"
     ],
+    "name:yue_x_preferred":[
+        "\u9054\u66fc\u80e1\u723e"
+    ],
     "name:zho_x_preferred":[
         "\u9054\u66fc\u80e1\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Damanhur"
     ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
@@ -238,7 +262,7 @@
         }
     ],
     "wof:id":1125854101,
-    "wof:lastmodified":1566586586,
+    "wof:lastmodified":1690876076,
     "wof:name":"Damanh\u016br",
     "wof:parent_id":1092015921,
     "wof:placetype":"locality",

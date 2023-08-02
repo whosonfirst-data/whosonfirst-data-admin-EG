@@ -25,6 +25,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u062a\u0644 \u0627\u0644\u0643\u0628\u064a\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Tall al Kabir"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0644 \u0627\u0644\u06a9\u0628\u06cc\u0631"
     ],
@@ -34,8 +37,17 @@
     "name:eng_x_preferred":[
         "Tall al Kabir"
     ],
+    "name:epo_x_preferred":[
+        "Tel el-Kebir"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0644 \u0627\u0644\u06a9\u0628\u06cc\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Tall al-Kabir"
+    ],
+    "name:fra_x_preferred":[
+        "Tall al Kabir"
     ],
     "name:ita_x_preferred":[
         "Tell al-Kebir"
@@ -45,6 +57,9 @@
     ],
     "name:und_x_variant":[
         "Tell el- Keb\u00eer"
+    ],
+    "name:zul_x_preferred":[
+        "Tell El Kebir"
     ],
     "qs:name":"At Tall al Kab\u012br",
     "qs:photos_9r":0,
@@ -79,7 +94,7 @@
         }
     ],
     "wof:id":890450049,
-    "wof:lastmodified":1566586581,
+    "wof:lastmodified":1690876070,
     "wof:name":"At Tall al Kab\u012br",
     "wof:parent_id":1092020039,
     "wof:placetype":"locality",

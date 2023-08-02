@@ -77,6 +77,9 @@
     "name:glg_x_preferred":[
         "Saqqara"
     ],
+    "name:hau_x_preferred":[
+        "Saqqara"
+    ],
     "name:hbs_x_preferred":[
         "Saqqara"
     ],
@@ -89,6 +92,12 @@
     "name:hun_x_preferred":[
         "Szakkara"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056f\u056f\u0561\u0580\u0561"
+    ],
+    "name:ibo_x_preferred":[
+        "Saqqara"
+    ],
     "name:ind_x_preferred":[
         "Saqqara"
     ],
@@ -100,6 +109,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30c3\u30ab\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uce74\ub77c"
     ],
     "name:lat_x_preferred":[
         "Necropolis Saqq\u0101ra"
@@ -150,6 +162,9 @@
     "name:sco_x_preferred":[
         "Saqqara"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0d9a\u0dcf\u0dbb\u0dcf"
+    ],
     "name:slk_x_preferred":[
         "Sakk\u00e1ra"
     ],
@@ -168,6 +183,15 @@
     "name:swe_x_preferred":[
         "Sakkara"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0b95\u0bcd\u0b95\u0bbe\u0bb0\u0bbe"
+    ],
+    "name:tgl_x_preferred":[
+        "Saqqara"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e31\u0e01\u0e01\u0e2d\u0e40\u0e23\u0e32\u0e30\u0e2e\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Sakkara piramidi"
     ],
@@ -182,6 +206,9 @@
     ],
     "name:war_x_preferred":[
         "Saqqara"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8428\u5361\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u5361\u62c9"
@@ -236,7 +263,7 @@
         }
     ],
     "wof:id":421187135,
-    "wof:lastmodified":1566586560,
+    "wof:lastmodified":1690876053,
     "wof:name":"Saqqarah",
     "wof:parent_id":1092017019,
     "wof:placetype":"locality",
