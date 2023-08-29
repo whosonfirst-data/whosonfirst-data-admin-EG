@@ -29,8 +29,14 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0633\u0648\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Suez"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u0648\u0626\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "S\u00fcvey\u015f"
     ],
     "name:bak_x_preferred":[
         "\u0421\u04af\u04d9\u0439\u0441"
@@ -170,6 +176,12 @@
     "name:mkd_x_preferred":[
         "\u0421\u0443\u0435\u0446"
     ],
+    "name:mlg_x_preferred":[
+        "Suez"
+    ],
+    "name:mlt_x_preferred":[
+        "Suez"
+    ],
     "name:msa_x_preferred":[
         "Suez"
     ],
@@ -184,6 +196,9 @@
     ],
     "name:oci_x_preferred":[
         "Su\u00e8z"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0443\u044d\u0446"
     ],
     "name:pol_x_preferred":[
         "Suez"
@@ -251,11 +266,20 @@
     "name:urd_x_preferred":[
         "\u0633\u0648\u0626\u06cc\u0632"
     ],
+    "name:uzb_x_preferred":[
+        "Suvaysh"
+    ],
+    "name:vec_x_preferred":[
+        "Suez"
+    ],
     "name:vie_x_preferred":[
         "Suez"
     ],
     "name:war_x_preferred":[
         "Suez"
+    ],
+    "name:wuu_x_preferred":[
+        "\u82cf\u4f0a\u58eb"
     ],
     "name:yue_x_preferred":[
         "\u8607\u4f0a\u58eb"
@@ -265,6 +289,9 @@
     ],
     "name:zho_x_preferred":[
         "\u82cf\u4f0a\u58eb"
+    ],
+    "name:zul_x_preferred":[
+        "Suez"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -405,7 +432,7 @@
         }
     ],
     "wof:id":421168705,
-    "wof:lastmodified":1566586554,
+    "wof:lastmodified":1690876047,
     "wof:name":"\u0627\u0644\u0633\u0648\u064a\u0633",
     "wof:parent_id":1092016803,
     "wof:placetype":"locality",

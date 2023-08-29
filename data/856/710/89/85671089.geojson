@@ -57,6 +57,9 @@
     "name:azb_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u0633\u06cc\u0646\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "C\u0259nubi Sina m\u00fchaf\u0259z\u0259si"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u0995\u09cd\u09b7\u09bf\u09a8 \u09b8\u09bf\u09a8\u09be\u0987 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -109,6 +112,9 @@
     "name:fra_x_variant":[
         "Gouvernorat du Sina\u00ef Sud"
     ],
+    "name:gle_x_preferred":[
+        "Gobharn\u00f3ireacht Sh\u00edon\u00e1\u00ed Theas"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5 \u0ab8\u0abf\u0aa8\u0abe\u0a87 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -123,6 +129,9 @@
     ],
     "name:hun_x_preferred":[
         "Jan\u016bb S\u012bn\u0101\u02be"
+    ],
+    "name:hun_x_variant":[
+        "D\u00e9l-S\u00ednai korm\u00e1nyz\u00f3s\u00e1g"
     ],
     "name:hye_x_preferred":[
         "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u054d\u056b\u0576\u0561\u0575"
@@ -169,11 +178,17 @@
     "name:msa_x_preferred":[
         "Sinai Selatan"
     ],
+    "name:nan_x_preferred":[
+        "L\u00e2m Sinai S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Zuid-Sina\u00ef"
     ],
     "name:nob_x_preferred":[
         "Guvernementet Janub Sina'"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0633\u06cc\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Synaj Po\u0142udniowy"
@@ -205,6 +220,9 @@
     "name:swe_x_preferred":[
         "Guvernementet Sina al-Janubiyya"
     ],
+    "name:swe_x_variant":[
+        "Sina al-Janubiyya"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b9a\u0bbf\u0ba9\u0bbe\u0baf\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
@@ -235,8 +253,14 @@
     "name:war_x_preferred":[
         "Salatan nga Sinai"
     ],
+    "name:wuu_x_preferred":[
+        "\u5357\u897f\u5948\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u897f\u5948\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "South Sinai Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -361,7 +385,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636502261,
+    "wof:lastmodified":1690876036,
     "wof:name":"Janub Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -54,6 +54,9 @@
     "name:azb_x_preferred":[
         "\u0648\u0627\u062f\u06cc\u200c\u0627\u0644\u062c\u062f\u06cc\u062f \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Yeni Vadi m\u00fchaf\u0259z\u0259si"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0989 \u09ad\u09cd\u09af\u09be\u09b2\u09bf \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -110,6 +113,9 @@
     "name:fra_x_variant":[
         "Gouvernorat de la Nouvelle-Vall\u00e9e"
     ],
+    "name:gle_x_preferred":[
+        "Gobharn\u00f3ireacht an Ghleanna Nua"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acd\u0aaf\u0ac2 \u0ab5\u0ac7\u0ab2\u0ac0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -158,6 +164,12 @@
     "name:msa_x_preferred":[
         "New Valley Governorate"
     ],
+    "name:msa_x_variant":[
+        "Kegabenoran Lembah Baru"
+    ],
+    "name:nan_x_preferred":[
+        "Sin H\u00f4-kok S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Nieuwe Vallei"
     ],
@@ -200,6 +212,9 @@
     "name:swe_x_preferred":[
         "Guvernementet Al-Wadi al-Jadid"
     ],
+    "name:swe_x_variant":[
+        "Al-Wadi al-Jadid"
+    ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbf\u0baf\u0bc2 \u0bb5\u0bbe\u0bb2\u0bc7 \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
     ],
@@ -232,6 +247,9 @@
     ],
     "name:zho_x_preferred":[
         "\u65b0\u6cb3\u8c37\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "New Valley Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -353,7 +371,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636502263,
+    "wof:lastmodified":1690876040,
     "wof:name":"Al Wadi at Jadid",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

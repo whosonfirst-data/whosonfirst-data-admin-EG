@@ -32,6 +32,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0639\u0631\u064a\u0634"
     ],
+    "name:ast_x_preferred":[
+        "Arish"
+    ],
     "name:azb_x_preferred":[
         "\u0639\u0631\u06cc\u0634"
     ],
@@ -84,6 +87,12 @@
     "name:fra_x_preferred":[
         "El-Arich"
     ],
+    "name:gle_x_preferred":[
+        "Arish"
+    ],
+    "name:glg_x_preferred":[
+        "Al-Arish"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc \u05e2\u05e8\u05d9\u05e9"
     ],
@@ -123,6 +132,9 @@
     "name:mkd_x_preferred":[
         "\u0410\u0440\u0438\u0448"
     ],
+    "name:mlg_x_preferred":[
+        "Arish"
+    ],
     "name:msa_x_preferred":[
         "Arish"
     ],
@@ -156,6 +168,9 @@
     "name:srp_x_preferred":[
         "\u0410\u0440\u0438\u0448"
     ],
+    "name:swa_x_preferred":[
+        "Arish"
+    ],
     "name:swe_x_preferred":[
         "Al-Arish"
     ],
@@ -174,6 +189,9 @@
     "name:urd_x_preferred":[
         "\u0639\u0631\u06cc\u0634"
     ],
+    "name:vec_x_preferred":[
+        "Al-Arish"
+    ],
     "name:war_x_preferred":[
         "Arish"
     ],
@@ -182,6 +200,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u91cc\u4ec0"
+    ],
+    "name:zul_x_preferred":[
+        "Arish"
     ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
@@ -222,7 +243,7 @@
         }
     ],
     "wof:id":1126020031,
-    "wof:lastmodified":1566586582,
+    "wof:lastmodified":1690876071,
     "wof:name":"Al \u2018Ar\u012bsh",
     "wof:parent_id":1092025189,
     "wof:placetype":"locality",

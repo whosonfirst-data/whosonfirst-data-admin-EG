@@ -28,6 +28,12 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u062d\u0648\u0627\u0645\u062f\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u0627\u0645\u062f\u064a\u0647"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Hawamidiyya"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03bb \u03a7\u03b1\u03bf\u03c5\u03b1\u03bc\u03bd\u03c4\u03af\u03b1"
     ],
@@ -41,6 +47,9 @@
         "\u042d\u043b\u044c-\u0425\u0430\u0432\u0430\u043c\u0435\u0434\u0438\u044f"
     ],
     "name:nld_x_preferred":[
+        "Al-Hawamidiyya"
+    ],
+    "name:nob_x_preferred":[
         "Al-Hawamidiyya"
     ],
     "name:pol_x_preferred":[
@@ -69,6 +78,12 @@
     ],
     "name:urd_x_variant":[
         "\u062d\u0648\u0627\u0645\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u74e6\u59c6\u4ee3\u4e9a"
+    ],
+    "name:zul_x_preferred":[
+        "El Hawamdeya"
     ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1125805543,
-    "wof:lastmodified":1566586583,
+    "wof:lastmodified":1690876072,
     "wof:name":"Al \u1e28aw\u0101mid\u012byah",
     "wof:parent_id":1092018065,
     "wof:placetype":"locality",

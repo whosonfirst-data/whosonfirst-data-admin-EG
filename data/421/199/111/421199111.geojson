@@ -23,6 +23,9 @@
     "name:arz_x_preferred":[
         "\u0632\u0641\u062a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Zefta"
+    ],
     "name:ceb_x_preferred":[
         "Zift\u00e1"
     ],
@@ -53,8 +56,14 @@
     "name:kaz_x_preferred":[
         "\u0417\u0438\u0444\u0442\u0430"
     ],
+    "name:mlg_x_preferred":[
+        "Zefta"
+    ],
     "name:nld_x_preferred":[
         "Zefta"
+    ],
+    "name:nob_x_preferred":[
+        "Zifta"
     ],
     "name:pol_x_preferred":[
         "Zifta"
@@ -76,6 +85,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6fdf\u592b\u5854"
+    ],
+    "name:zul_x_preferred":[
+        "Zefta"
     ],
     "qs:gn_country":"EG",
     "qs:gn_fcode":"PPL",
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":421199111,
-    "wof:lastmodified":1566586569,
+    "wof:lastmodified":1690876059,
     "wof:name":"\u0645\u0631\u0643\u0632 \u0632\u0641\u062a\u0649",
     "wof:parent_id":1092026069,
     "wof:placetype":"locality",

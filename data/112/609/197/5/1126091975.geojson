@@ -29,6 +29,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0648\u0631\u062f\u064a\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0644\u0648\u0631\u062f\u06cc\u0627\u0646"
+    ],
     "name:eng_x_colloquial":[
         "El-Wardyan",
         "Al Wardiyaan",
@@ -45,6 +48,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0648\u0631\u062f\u06cc\u0627\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Wardeyan"
     ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1126091975,
-    "wof:lastmodified":1566586584,
+    "wof:lastmodified":1690876074,
     "wof:name":"Wardian",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

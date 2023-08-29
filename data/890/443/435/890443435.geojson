@@ -25,6 +25,9 @@
     "name:arz_x_preferred":[
         "\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0642\u0646\u0627\u0637\u0631 \u0627\u0644\u062e\u064a\u0631\u064a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Qanatir el Qahiriya"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0646\u0627\u0637\u0631 \u062e\u06cc\u0631\u06cc\u0647"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:und_x_variant":[
         "El-Qan\u00e2\u1e6dir el-Khair\u00eeya"
+    ],
+    "name:zul_x_preferred":[
+        "El Qanater El Khayreya"
     ],
     "qs:name":"Al Qan\u0101\u0163ir al Khayr\u012byah",
     "qs:photos_9r":0,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890443435,
-    "wof:lastmodified":1566586576,
+    "wof:lastmodified":1690876064,
     "wof:name":"Al Qan\u0101\u0163ir al Khayr\u012byah",
     "wof:parent_id":1092018935,
     "wof:placetype":"locality",

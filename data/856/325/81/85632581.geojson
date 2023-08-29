@@ -31,6 +31,9 @@
     "name:abk_x_preferred":[
         "\u041c\u044b\u0441\u0440\u044b"
     ],
+    "name:abk_x_variant":[
+        "\u041c\u0441\u044b\u0440"
+    ],
     "name:ace_x_preferred":[
         "Meus\u00e9"
     ],
@@ -56,8 +59,14 @@
     "name:amh_x_variant":[
         "\u130d\u1265\u133d"
     ],
+    "name:ami_x_preferred":[
+        "Egypt"
+    ],
     "name:ang_x_preferred":[
         "\u00c6gypt"
+    ],
+    "name:anp_x_preferred":[
+        "\u092e\u093f\u0938\u094d\u0930"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0635\u0631"
@@ -75,6 +84,9 @@
     "name:arg_x_preferred":[
         "Echipto"
     ],
+    "name:arq_x_preferred":[
+        "\u0645\u0627\u0635\u0631"
+    ],
     "name:ary_x_preferred":[
         "\u0645\u0635\u0631"
     ],
@@ -89,6 +101,9 @@
     ],
     "name:ava_x_preferred":[
         "\u0415\u0433\u0438\u043f\u0435\u0442"
+    ],
+    "name:avk_x_preferred":[
+        "Misra"
     ],
     "name:aym_x_preferred":[
         "Iqiptu"
@@ -134,6 +149,9 @@
     ],
     "name:bho_x_preferred":[
         "\u092e\u093f\u0938\u094d\u0930"
+    ],
+    "name:bis_x_preferred":[
+        "Ijip"
     ],
     "name:bjn_x_preferred":[
         "Mesir"
@@ -206,6 +224,9 @@
     ],
     "name:cym_x_preferred":[
         "Yr Aifft"
+    ],
+    "name:dag_x_preferred":[
+        "Egypt"
     ],
     "name:dan_x_preferred":[
         "Egypten"
@@ -323,6 +344,9 @@
     "name:ful_x_preferred":[
         "Ejipt"
     ],
+    "name:ful_x_variant":[
+        "Misra"
+    ],
     "name:fur_x_preferred":[
         "Egjit"
     ],
@@ -353,8 +377,14 @@
     "name:gom_x_preferred":[
         "\u092e\u093f\u0938\u094d\u0930"
     ],
+    "name:gor_x_preferred":[
+        "Mesir"
+    ],
     "name:got_x_preferred":[
         "\ud800\udf30\ud800\udf39\ud800\udf32\ud800\udf45\ud800\udf40\ud800\udf44\ud800\udf30\ud800\udf3f"
+    ],
+    "name:gpe_x_preferred":[
+        "Egypt"
     ],
     "name:grn_x_preferred":[
         "Eh\u00edpto"
@@ -365,8 +395,14 @@
     "name:gsw_x_preferred":[
         "\u00c4gypte"
     ],
+    "name:gsw_x_variant":[
+        "\u00c4gypten"
+    ],
     "name:guj_x_preferred":[
         "\u0a87\u0a9c\u0abf\u0aaa\u0acd\u0aa4"
+    ],
+    "name:gur_x_preferred":[
+        "Egypt"
     ],
     "name:hak_x_preferred":[
         "\u00c2i-khi\u030dp"
@@ -485,11 +521,15 @@
     "name:kbp_x_preferred":[
         "Egipiti"
     ],
+    "name:kcg_x_preferred":[
+        "Ma\u0331sa\u0331r"
+    ],
     "name:khm_x_preferred":[
         "\u17a2\u17c1\u17a0\u17ca\u17d2\u179f\u17b8\u1794"
     ],
     "name:khm_x_variant":[
-        "\u17a2\u17c1\u17a0\u17d2\u179f\u17c9\u17b8\u1794"
+        "\u17a2\u17c1\u17a0\u17d2\u179f\u17c9\u17b8\u1794",
+        "\u17a2\u17c1\u17a0\u17d2\u179f\u17ca\u17b8\u1794"
     ],
     "name:kik_x_preferred":[
         "Egypt"
@@ -521,6 +561,9 @@
     "name:lao_x_preferred":[
         "\u0ead\u0eb5\u0ea2\u0eb4\u0e9a"
     ],
+    "name:lao_x_variant":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ec0\u0ead\u0ea2\u0eb4\u0e9a"
+    ],
     "name:lat_x_preferred":[
         "Aegyptus"
     ],
@@ -551,6 +594,9 @@
     "name:lit_x_preferred":[
         "Egiptas"
     ],
+    "name:lld_x_preferred":[
+        "Egit"
+    ],
     "name:lmo_x_preferred":[
         "Egit"
     ],
@@ -569,6 +615,9 @@
     "name:lzh_x_preferred":[
         "\u57c3\u53ca"
     ],
+    "name:mad_x_preferred":[
+        "Mesir"
+    ],
     "name:mai_x_preferred":[
         "\u092e\u093f\u0938\u094d\u0930"
     ],
@@ -584,8 +633,17 @@
     "name:mdf_x_preferred":[
         "\u0415\u0433\u0438\u043f\u0435\u0442"
     ],
+    "name:mdf_x_variant":[
+        "\u042d\u0433\u0438\u043f\u0442"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0415\u0433\u0438\u043f\u0435\u0442"
+    ],
     "name:min_x_preferred":[
         "Masia"
+    ],
+    "name:min_x_variant":[
+        "Mesir"
     ],
     "name:mkd_x_preferred":[
         "\u0415\u0433\u0438\u043f\u0435\u0442"
@@ -598,6 +656,9 @@
     ],
     "name:mlt_x_preferred":[
         "E\u0121ittu"
+    ],
+    "name:mni_x_preferred":[
+        "\uabcf\uabd6\uabe4\uabde"
     ],
     "name:mon_x_preferred":[
         "\u0415\u0433\u0438\u043f\u0435\u0442"
@@ -656,6 +717,9 @@
     "name:new_x_preferred":[
         "\u092e\u093f\u0938\u094d\u0930"
     ],
+    "name:nia_x_preferred":[
+        "Miserai"
+    ],
     "name:nld_x_preferred":[
         "Egypte (land)"
     ],
@@ -673,6 +737,9 @@
     ],
     "name:nov_x_preferred":[
         "Egiptia"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07cc\u07d6\u07ed\u07cc\u07d4\u07d1\u07d5"
     ],
     "name:nrm_x_preferred":[
         "\u00cagypte"
@@ -737,6 +804,9 @@
     "name:pus_x_preferred":[
         "\u0645\u0635\u0631"
     ],
+    "name:pwn_x_preferred":[
+        "Idjiputu"
+    ],
     "name:que_x_preferred":[
         "Ihiptu"
     ],
@@ -785,8 +855,17 @@
     "name:sgs_x_preferred":[
         "Eg\u0117pts"
     ],
+    "name:shi_x_preferred":[
+        "Mi\u1e63ra"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1022\u102e\u1038\u1075\u103b\u102d\u1015\u103a\u1088"
+    ],
     "name:sin_x_preferred":[
         "\u0d8a\u0da2\u0dd2\u0db4\u0dca\u0dad\u0dd4\u0dc0"
+    ],
+    "name:skr_x_preferred":[
+        "\u0645\u0635\u0631"
     ],
     "name:slk_x_preferred":[
         "Egypt"
@@ -797,8 +876,17 @@
     "name:sme_x_preferred":[
         "Egypta"
     ],
+    "name:smj_x_preferred":[
+        "Egippta"
+    ],
+    "name:smn_x_preferred":[
+        "Egypt"
+    ],
     "name:smo_x_preferred":[
         "Aikupito"
+    ],
+    "name:sms_x_preferred":[
+        "Egyptt"
     ],
     "name:sna_x_preferred":[
         "Egypt"
@@ -872,6 +960,9 @@
     "name:tat_x_preferred":[
         "\u041c\u0438\u0441\u044b\u0440"
     ],
+    "name:tay_x_preferred":[
+        "Egypt"
+    ],
     "name:tel_x_preferred":[
         "\u0c08\u0c1c\u0c3f\u0c2a\u0c4d\u0c1f\u0c41"
     ],
@@ -896,11 +987,20 @@
     "name:tir_x_preferred":[
         "\u130d\u1265\u133d"
     ],
+    "name:tir_x_variant":[
+        "\u130d\u1265\u133a"
+    ],
+    "name:tok_x_preferred":[
+        "ma Masu"
+    ],
     "name:ton_x_preferred":[
         "\u02bbIsipite"
     ],
     "name:tpi_x_preferred":[
         "Ijip"
+    ],
+    "name:trv_x_preferred":[
+        "Egypt"
     ],
     "name:tso_x_preferred":[
         "Egypt"
@@ -942,6 +1042,9 @@
     ],
     "name:vec_x_preferred":[
         "Egito"
+    ],
+    "name:vec_x_variant":[
+        "Ezito"
     ],
     "name:vep_x_preferred":[
         "Egipt"
@@ -1231,7 +1334,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1618362686,
+    "wof:lastmodified":1690876034,
     "wof:name":"Egypt",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

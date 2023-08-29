@@ -55,6 +55,9 @@
     "name:azb_x_preferred":[
         "\u0628\u062d\u0631\u0627\u0644\u0627\u062d\u0645\u0631 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Q\u0131rm\u0131z\u0131 d\u0259niz m\u00fchaf\u0259z\u0259si"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09b9\u09bf\u09a4 \u09b8\u09be\u0997\u09b0 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -80,7 +83,8 @@
         "Rotes Meer"
     ],
     "name:deu_x_variant":[
-        "al-Bahr al-ahmar"
+        "al-Bahr al-ahmar",
+        "Gouvernement Rotes Meer"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0395\u03c1\u03c5\u03b8\u03c1\u03ac\u03c2 \u0398\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1\u03c2"
@@ -111,6 +115,9 @@
     "name:fra_x_variant":[
         "Gouvernorat de la Mer-Rouge",
         "Mer Rouge"
+    ],
+    "name:gle_x_preferred":[
+        "Gobharn\u00f3ireacht na Mara Rua"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ac7\u0aa1 \u0ab8\u0ac0 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -160,8 +167,17 @@
     "name:mar_x_preferred":[
         "\u0930\u0947\u0921 \u0938\u0940 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0440\u0432\u0435\u043d\u043e \u041c\u043e\u0440\u0435"
+    ],
     "name:msa_x_preferred":[
         "Pentadbiran Red Sea"
+    ],
+    "name:msa_x_variant":[
+        "Kegabenoran Laut Merah"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c2ng H\u00e1i S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Rode Zee"
@@ -237,6 +253,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7ea2\u6d77\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Red Sea Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -358,7 +377,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636502263,
+    "wof:lastmodified":1690876040,
     "wof:name":"Al Bahr al Ahmar",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

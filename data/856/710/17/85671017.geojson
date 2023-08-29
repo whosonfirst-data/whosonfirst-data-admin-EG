@@ -54,6 +54,9 @@
     "name:azb_x_preferred":[
         "\u062f\u0642\u0647\u0644\u06cc\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "\u0259d-D\u0259q\u0259hliyy\u0259 m\u00fchaf\u0259z\u0259si"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0430\u043a\u0430\u0445\u043b\u0456\u044f"
     ],
@@ -111,6 +114,12 @@
     "name:fra_x_variant":[
         "Gouvernorat de Dakahleya"
     ],
+    "name:frr_x_preferred":[
+        "Dakahlijja"
+    ],
+    "name:gle_x_preferred":[
+        "Gobharn\u00f3ireacht Dakahlia"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0abe\u0a95\u0abe\u0ab9\u0ab2\u0abf\u0a86 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -165,11 +174,17 @@
     "name:msa_x_preferred":[
         "Dakahlia Governorate"
     ],
+    "name:nan_x_preferred":[
+        "Dakahlia S\u00e9ng"
+    ],
     "name:nld_x_preferred":[
         "Ad Daqahliyah"
     ],
     "name:nob_x_preferred":[
         "Ad Daqahliyah"
+    ],
+    "name:oss_x_preferred":[
+        "\u0414\u0430\u043a\u0430\u0445\u043b\u0438"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062f\u0627\u0642\u0627\u06c1\u0644\u06cc\u06c1"
@@ -210,6 +225,9 @@
     "name:tel_x_preferred":[
         "\u0c21\u0c3e\u0c15\u0c3e\u0c39\u0c3f\u0c32\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0414\u0430\u049b\u0430\u04b3\u043b\u0438\u044f"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c"
     ],
@@ -234,8 +252,14 @@
     "name:war_x_preferred":[
         "Dakahlia"
     ],
+    "name:wuu_x_preferred":[
+        "\u4ee3\u76d6\u8d6b\u5229\u8036\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u4ee3\u84cb\u8d6b\u5229\u8036\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Dakahlia Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -360,7 +384,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636502261,
+    "wof:lastmodified":1690876037,
     "wof:name":"Ad Daqahliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

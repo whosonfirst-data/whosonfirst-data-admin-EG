@@ -25,8 +25,14 @@
     "name:arz_x_preferred":[
         "\u0642\u0648\u0635"
     ],
+    "name:ast_x_preferred":[
+        "Qus"
+    ],
     "name:azb_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0642\u0648\u0635"
+    ],
+    "name:aze_x_preferred":[
+        "Kus"
     ],
     "name:cat_x_preferred":[
         "Kus"
@@ -79,8 +85,14 @@
     "name:und_x_variant":[
         "Apollinopolis Parva"
     ],
+    "name:vie_x_preferred":[
+        "Qus"
+    ],
     "name:zho_x_preferred":[
         "\u53e4\u65af"
+    ],
+    "name:zul_x_preferred":[
+        "Qus"
     ],
     "qs:name":"Kousa",
     "qs:photos_9r":0,
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":890418081,
-    "wof:lastmodified":1566586578,
+    "wof:lastmodified":1690876065,
     "wof:name":"Kousa",
     "wof:parent_id":1092023581,
     "wof:placetype":"locality",

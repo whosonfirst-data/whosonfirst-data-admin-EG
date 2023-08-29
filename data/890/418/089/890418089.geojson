@@ -22,11 +22,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0637\u0627\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0637\u0627\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Matai"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0637\u0627\u06cc"
     ],
     "name:ceb_x_preferred":[
         "Markaz Ma\u0163\u0101y"
+    ],
+    "name:ceb_x_variant":[
+        "Ma\u0163\u0101y"
     ],
     "name:deu_x_preferred":[
         "Ma\u1e6d\u0101i"
@@ -43,6 +52,9 @@
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d7\u10d0\u10d8"
     ],
+    "name:mlg_x_preferred":[
+        "Ma\u0163\u0101y"
+    ],
     "name:nld_x_preferred":[
         "Matai"
     ],
@@ -55,8 +67,14 @@
     "name:swe_x_preferred":[
         "Markaz Ma\u0163\u0101y"
     ],
+    "name:swe_x_variant":[
+        "Ma\u0163\u0101y"
+    ],
     "name:und_x_variant":[
         "Muttay"
+    ],
+    "name:zul_x_preferred":[
+        "Matai"
     ],
     "qs:name":"Ma\u0163\u0101y",
     "qs:photos_9r":0,
@@ -88,7 +106,7 @@
         }
     ],
     "wof:id":890418089,
-    "wof:lastmodified":1566586577,
+    "wof:lastmodified":1690876065,
     "wof:name":"Ma\u0163\u0101y",
     "wof:parent_id":1092022239,
     "wof:placetype":"locality",

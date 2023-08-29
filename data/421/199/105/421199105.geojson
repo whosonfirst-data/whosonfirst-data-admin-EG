@@ -23,6 +23,9 @@
     "name:arz_x_preferred":[
         "\u062c\u0631\u062c\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Girga"
+    ],
     "name:azb_x_preferred":[
         "\u062c\u0631\u062c\u0627"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ceb_x_preferred":[
         "Markaz Jirj\u0101"
+    ],
+    "name:ceb_x_variant":[
+        "Jirj\u0101"
     ],
     "name:deu_x_preferred":[
         "Girga"
@@ -53,7 +59,13 @@
     "name:fas_x_preferred":[
         "\u062c\u0631\u062c\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Girga"
+    ],
     "name:fra_x_preferred":[
+        "Girga"
+    ],
+    "name:gle_x_preferred":[
         "Girga"
     ],
     "name:hye_x_preferred":[
@@ -73,6 +85,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0413\u0438\u0440\u0433\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Jirj\u0101"
     ],
     "name:nld_x_preferred":[
         "Girga"
@@ -104,8 +119,14 @@
     "name:urd_x_preferred":[
         "\u062c\u0631\u062c\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Girga"
+    ],
     "name:zho_x_preferred":[
         "\u5409\u723e\u8cc8"
+    ],
+    "name:zul_x_preferred":[
+        "Girga"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Egypt",
@@ -246,7 +267,7 @@
         }
     ],
     "wof:id":421199105,
-    "wof:lastmodified":1566586569,
+    "wof:lastmodified":1690876059,
     "wof:name":"Jirja",
     "wof:parent_id":1092021083,
     "wof:placetype":"locality",

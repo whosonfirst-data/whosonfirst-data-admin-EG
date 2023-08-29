@@ -29,6 +29,12 @@
     "name:arz_x_preferred":[
         "\u0647\u0644\u064a\u0648\u0628\u0648\u0644\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Heliopolis"
+    ],
+    "name:aze_x_preferred":[
+        "Heliopol"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0435\u043b\u0456\u0451\u043f\u0430\u043b\u044c"
     ],
@@ -104,8 +110,17 @@
     "name:kor_x_preferred":[
         "\ud5ec\ub9ac\uc624\ud3f4\ub9ac\uc2a4"
     ],
+    "name:lat_x_preferred":[
+        "Heliopolis"
+    ],
     "name:lit_x_preferred":[
         "Heliopolis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u0947\u0932\u093f\u0913\u092a\u094b\u0932\u093f\u0938"
+    ],
+    "name:mlg_x_preferred":[
+        "Heli\u00f4p\u00f4lisy"
     ],
     "name:nld_x_preferred":[
         "Heliopolis"
@@ -137,14 +152,26 @@
     "name:spa_x_preferred":[
         "Heli\u00f3polis"
     ],
+    "name:srp_x_preferred":[
+        "\u0425\u0435\u043b\u0438\u043e\u043f\u043e\u043b\u0438\u0441"
+    ],
     "name:swe_x_preferred":[
         "Heliopolis"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bc6\u0bb2\u0bcd\u0bb2\u0bbf\u0baf\u0bcb\u0baa\u0bcb\u0bb2\u0bbf\u0bb8\u0bcd"
+    ],
+    "name:tgk_x_preferred":[
+        "\u04b2\u0435\u043b\u0438\u044e\u043f\u0443\u043b\u0438\u0441"
     ],
     "name:tgl_x_preferred":[
         "Heliopolis"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2e\u0e25\u0e34\u0e42\u0e2d\u0e42\u0e1b\u0e25\u0e34\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e2e\u0e25\u0e34\u0e2d\u0e39\u0e42\u0e1b\u0e25\u0e34\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Heliopolis"
@@ -160,6 +187,12 @@
     ],
     "name:vie_x_preferred":[
         "Heliopolis"
+    ],
+    "name:war_x_preferred":[
+        "Heliopolis"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e0c\u91cc\u5967\u6ce2\u91cc\u65af"
     ],
     "name:zho_x_preferred":[
         "\u8d6b\u91cc\u5965\u6ce2\u91cc\u65af"
@@ -210,7 +243,7 @@
         }
     ],
     "wof:id":421170481,
-    "wof:lastmodified":1566586570,
+    "wof:lastmodified":1690876059,
     "wof:name":"Heliopolis",
     "wof:parent_id":1092021387,
     "wof:placetype":"locality",

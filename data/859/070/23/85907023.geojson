@@ -53,8 +53,14 @@
     "name:nld_x_preferred":[
         "Azbakeya"
     ],
+    "name:spa_x_preferred":[
+        "Al-Azbakiyah"
+    ],
     "name:swe_x_preferred":[
         "Azbakeya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0632\u0628\u06a9\u06cc\u06c1"
     ],
     "qs:gn_adm0_cc":"EG",
     "qs:gn_id":0,
@@ -117,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582352360,
+    "wof:lastmodified":1690876030,
     "wof:name":"Al-azbakiya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

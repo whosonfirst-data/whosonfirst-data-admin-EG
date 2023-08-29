@@ -28,11 +28,17 @@
     "name:arz_x_preferred":[
         "\u0628\u0646\u0647\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Banha"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0646\u0647\u0627"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09be\u09a8\u09b9\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09ac\u09be\u09a8\u09b9\u09be"
     ],
     "name:cat_x_preferred":[
         "Banha"
@@ -76,6 +82,9 @@
     "name:hin_x_preferred":[
         "\u092c\u0928\u094d\u0939\u093e"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0576\u0570\u0561"
+    ],
     "name:ind_x_preferred":[
         "Banha"
     ],
@@ -106,6 +115,9 @@
     "name:mar_x_preferred":[
         "\u092c\u0945\u0928\u094d\u0939\u093e"
     ],
+    "name:mlg_x_preferred":[
+        "Banh\u0101"
+    ],
     "name:msa_x_preferred":[
         "Banha"
     ],
@@ -123,6 +135,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d\u0445\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0435\u043d\u0445\u0430"
     ],
     "name:sco_x_preferred":[
         "Banha"
@@ -160,6 +175,9 @@
     "name:urd_x_preferred":[
         "\u0628\u0646\u06c1\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Banha"
+    ],
     "name:vie_x_preferred":[
         "Banha"
     ],
@@ -168,6 +186,9 @@
     ],
     "name:zho_x_preferred":[
         "\u672c\u54c8"
+    ],
+    "name:zul_x_preferred":[
+        "Benha"
     ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
@@ -208,7 +229,7 @@
         }
     ],
     "wof:id":1125854249,
-    "wof:lastmodified":1566586585,
+    "wof:lastmodified":1690876075,
     "wof:name":"Banh\u0101",
     "wof:parent_id":1092015253,
     "wof:placetype":"locality",

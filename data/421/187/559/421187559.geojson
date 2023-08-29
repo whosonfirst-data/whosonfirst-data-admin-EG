@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0641\u062d"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u0641\u062d"
+    ],
     "name:azb_x_preferred":[
         "\u0631\u0641\u062d"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Rafah"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e4\u05d9\u05d7 \u05d4\u05de\u05e6\u05e8\u05d9\u05ea"
     ],
     "name:ita_x_preferred":[
         "Rafah"
@@ -67,6 +73,9 @@
     ],
     "name:zho_x_variant":[
         "\u62c9\u6cd5\u8d6b"
+    ],
+    "name:zul_x_preferred":[
+        "Rafah"
     ],
     "qs:gn_country":"EG",
     "qs:gn_fcode":"PPL",
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421187559,
-    "wof:lastmodified":1566586560,
+    "wof:lastmodified":1690876053,
     "wof:name":"Raf\u012bah",
     "wof:parent_id":1092023763,
     "wof:placetype":"locality",

@@ -34,14 +34,29 @@
     "name:arz_x_preferred":[
         "\u0623\u0633\u0648\u0627\u0646"
     ],
+    "name:arz_x_variant":[
+        "\u0627\u0633\u0648\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Aswan"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0633\u0648\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fsvan"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0441\u0443\u0430\u043d"
     ],
+    "name:bel_x_variant":[
+        "\u0410\u0441\u0443\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b8\u0989\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u0986\u09b8\u0993\u09af\u09bc\u09be\u09a8"
     ],
     "name:bos_x_preferred":[
         "Asuan"
@@ -57,6 +72,9 @@
     ],
     "name:ces_x_preferred":[
         "Asu\u00e1n"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0633\u0648\u0627\u0646"
     ],
     "name:dan_x_preferred":[
         "Aswan"
@@ -154,8 +172,20 @@
     "name:lit_x_preferred":[
         "Asuanas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d38\u0d4d\u0d35\u0d3e\u0d7b"
+    ],
     "name:mar_x_preferred":[
         "\u0906\u0938\u094d\u0935\u093e\u0928"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0441\u0443\u0430\u043d"
+    ],
+    "name:mlg_x_preferred":[
+        "Aswan"
+    ],
+    "name:mri_x_preferred":[
+        "Hewene"
     ],
     "name:msa_x_preferred":[
         "Aswan"
@@ -174,6 +204,9 @@
     ],
     "name:oci_x_preferred":[
         "Assoan"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u0441\u0443\u0430\u043d"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0633\u0648\u0627\u0646"
@@ -226,11 +259,17 @@
     "name:tel_x_preferred":[
         "\u0c05\u0c38\u0c4d\u0c35\u0c3e\u0c28\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0441\u0432\u043e\u043d"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e2a\u0e27\u0e32\u0e19"
     ],
     "name:tur_x_preferred":[
         "Asvan"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d5\u0633\u06cb\u0627\u0646"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0443\u0430\u043d"
@@ -240,6 +279,9 @@
     ],
     "name:uzb_x_preferred":[
         "Asvon"
+    ],
+    "name:vec_x_preferred":[
+        "Assuan"
     ],
     "name:vie_x_preferred":[
         "Aswan"
@@ -255,6 +297,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u65af\u65fa"
+    ],
+    "name:zul_x_preferred":[
+        "Aswan"
     ],
     "qs_pg:aaroncc":"EG",
     "qs_pg:gn_country":"EG",
@@ -295,7 +340,7 @@
         }
     ],
     "wof:id":1125854755,
-    "wof:lastmodified":1566586586,
+    "wof:lastmodified":1690876076,
     "wof:name":"Asw\u0101n",
     "wof:parent_id":1092022915,
     "wof:placetype":"locality",

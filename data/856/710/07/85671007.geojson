@@ -51,6 +51,9 @@
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0647"
     ],
+    "name:aze_x_preferred":[
+        "\u0259\u015f-\u015e\u0259rqiyy\u0259 m\u00fchaf\u0259z\u0259si"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09b6\u09be\u09b0\u0995\u09bf\u09af\u09bc\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -102,6 +105,9 @@
     "name:fra_x_preferred":[
         "Ach-Charqiya"
     ],
+    "name:gle_x_preferred":[
+        "Gobharn\u00f3ireacht Al Sharqia"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0ab6\u0abe\u0ab0\u0a95\u0abf\u0aaf\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -152,6 +158,9 @@
     ],
     "name:msa_x_preferred":[
         "Al Sharqia Governorate"
+    ],
+    "name:nan_x_preferred":[
+        "Sharqia S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Ash Sharqiyah"
@@ -207,6 +216,9 @@
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c4d \u0c37\u0c30\u0c4d\u0c16\u0c3f\u0c2f\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0428\u0430\u0440\u049b\u0438\u044f"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e42\u0e23\u0e42\u0e27"
     ],
@@ -225,14 +237,23 @@
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0627\u0644\u0634\u0631\u0642\u06cc\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Sharqiy viloyat"
+    ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Al Sharqia"
     ],
     "name:war_x_preferred":[
         "Sharqia"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e1c\u90e8\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u6771\u90e8\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Sharqia Governorate"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"EGY",
@@ -358,7 +379,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636502262,
+    "wof:lastmodified":1690876038,
     "wof:name":"Ash Sharqiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

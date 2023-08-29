@@ -34,11 +34,20 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d1\u05d5 \u05db\u05d1\u05d9\u05e8"
     ],
+    "name:ind_x_preferred":[
+        "Abu Kabir"
+    ],
     "name:nld_x_preferred":[
+        "Abu Kabir"
+    ],
+    "name:spa_x_preferred":[
         "Abu Kabir"
     ],
     "name:und_x_variant":[
         "Abu Keb\u00eer"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0648 \u06a9\u0628\u06cc\u0631"
     ],
     "qs:name":"Ab\u016b Kab\u012br",
     "qs:photos_9r":0,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890433321,
-    "wof:lastmodified":1566586581,
+    "wof:lastmodified":1690876069,
     "wof:name":"Ab\u016b Kab\u012br",
     "wof:parent_id":1092014175,
     "wof:placetype":"locality",

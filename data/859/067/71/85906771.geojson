@@ -44,6 +44,9 @@
     "name:fas_x_preferred":[
         "\u0633\u06cc\u062f\u06cc \u062c\u0627\u0628\u0631"
     ],
+    "name:nld_x_preferred":[
+        "Sidi Gaber"
+    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:local_max":1580,
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582352361,
+    "wof:lastmodified":1690876032,
     "wof:name":"Sidi Gaber District",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

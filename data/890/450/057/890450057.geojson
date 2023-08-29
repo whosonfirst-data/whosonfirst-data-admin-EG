@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062f\u0644\u0646\u062c\u0627\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u062f\u0644\u0646\u062c\u0627\u062a"
+    ],
     "name:eng_x_preferred":[
         "Ad Dilinjat"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:und_x_variant":[
         "El-Diling\u00e2t"
+    ],
+    "name:zul_x_preferred":[
+        "El Delengat"
     ],
     "qs:name":"Ad Dilinj\u0101t",
     "qs:photos_9r":0,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890450057,
-    "wof:lastmodified":1566586582,
+    "wof:lastmodified":1690876071,
     "wof:name":"Ad Dilinj\u0101t",
     "wof:parent_id":1092017317,
     "wof:placetype":"locality",

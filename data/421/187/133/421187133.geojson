@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0635\u0641\u0637 \u0627\u0644\u0644\u0628\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0635\u0641\u0637 \u0627\u0644\u0644\u0628\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0635\u0641\u0637 \u0627\u0644\u0644\u0628\u0646"
+    ],
     "name:eng_x_preferred":[
         "Saft El Laban"
     ],
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":421187133,
-    "wof:lastmodified":1566586561,
+    "wof:lastmodified":1690876053,
     "wof:name":"\u0635\u0641\u0637 \u0627\u0644\u0644\u0628\u0646",
     "wof:parent_id":1092020631,
     "wof:placetype":"locality",
