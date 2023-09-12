@@ -10,6 +10,9 @@
     "geom:latitude":27.827407,
     "geom:longitude":34.037656,
     "iso:country":"EG",
+    "label:eng_x_preferred_placetype":[
+        "unorganized"
+    ],
     "lbl:latitude":27.827387,
     "lbl:longitude":34.037718,
     "lbl:max_zoom":10.0,
@@ -41,7 +44,7 @@
     "wof:concordances":{},
     "wof:country":"EG",
     "wof:created":1473897465,
-    "wof:geomhash":"c0751ac9f11ed1e80e9b673379cc6735",
+    "wof:geomhash":"887e16a3b2950b9f20290440fcb7c041",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1092023177,
-    "wof:lastmodified":1566586480,
+    "wof:lastmodified":1694492372,
     "wof:name":"",
     "wof:parent_id":85671089,
     "wof:placetype":"county",
