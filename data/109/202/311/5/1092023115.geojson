@@ -5,11 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.077631,
-    "geom:area_square_m":11979168167.538563,
+    "geom:area_square_m":11979168167.538414,
     "geom:bbox":"32.126451,25.226767,33.573046,26.762415",
     "geom:latitude":25.96052,
     "geom:longitude":33.000115,
     "iso:country":"EG",
+    "label:eng_x_preferred_placetype":[
+        "unorganized"
+    ],
     "lbl:latitude":26.06735,
     "lbl:longitude":33.16747,
     "lbl:max_zoom":10.0,
@@ -47,7 +50,7 @@
     },
     "wof:country":"EG",
     "wof:created":1473897463,
-    "wof:geomhash":"ab66e8297417c8f66150962389091a08",
+    "wof:geomhash":"d49c023b03ffe7db36e43f670e7f03bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1092023115,
-    "wof:lastmodified":1566586478,
+    "wof:lastmodified":1694492372,
     "wof:name":"",
     "wof:parent_id":85671085,
     "wof:placetype":"county",
