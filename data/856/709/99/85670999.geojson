@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.67415,
-    "geom:area_square_m":7243333353.152201,
+    "geom:area_square_m":7243333255.768863,
     "geom:bbox":"31.221838,28.993527,31.90529,30.346436",
     "geom:latitude":29.664976,
     "geom:longitude":31.597689,
@@ -391,16 +391,18 @@
         "gn:id":360631,
         "gp:id":2345233,
         "hasc:id":"EG.QH",
+        "iso:code":"EG-C",
         "iso:id":"EG-C",
         "qs_pg:id":1312310,
         "wd:id":"Q30805"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "meso",
         "quattroshapes"
     ],
-    "wof:geomhash":"514ac5e2b9aefbd40cf5fd1c8bbbaa67",
+    "wof:geomhash":"dda276a8b69b0800039d664d46b32d64",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -415,7 +417,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876033,
+    "wof:lastmodified":1695884927,
     "wof:name":"Al Qahirah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.483075,
-    "geom:area_square_m":5136632297.995827,
+    "geom:area_square_m":5136632206.351063,
     "geom:bbox":"31.266602,30.223334,32.213823,31.130349",
     "geom:latitude":30.691167,
     "geom:longitude":31.753846,
@@ -355,16 +355,18 @@
         "gn:id":360016,
         "gp:id":2345236,
         "hasc:id":"EG.SQ",
+        "iso:code":"EG-SHR",
         "iso:id":"EG-SHR",
         "qs_pg:id":237283,
         "unlc:id":"EG-SHR",
         "wd:id":"Q31074"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f0ae57d5bbdee701e49e17b69cae72f1",
+    "wof:geomhash":"564a9e85528bb4e97ffb2c66428a2e1a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -379,7 +381,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876038,
+    "wof:lastmodified":1695884928,
     "wof:name":"Ash Sharqiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.711456,
-    "geom:area_square_m":29316778871.062233,
+    "geom:area_square_m":29316778871.063099,
     "geom:bbox":"32.618492,27.726487,34.906926,29.94119",
     "geom:latitude":29.021,
     "geom:longitude":33.798794,
@@ -361,16 +361,18 @@
         "gn:id":355182,
         "gp:id":2345247,
         "hasc:id":"EG.JS",
+        "iso:code":"EG-JS",
         "iso:id":"EG-JS",
         "qs_pg:id":1312306,
         "unlc:id":"EG-JS",
         "wd:id":"Q30815"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b631dcb2e644211c5aa86db8ba5b623d",
+    "wof:geomhash":"544333e43f154a7167e94451518085e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -385,7 +387,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876036,
+    "wof:lastmodified":1695884928,
     "wof:name":"Janub Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

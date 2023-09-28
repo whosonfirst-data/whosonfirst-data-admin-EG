@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.465144,
-    "geom:area_square_m":4953577695.929847,
+    "geom:area_square_m":4953577372.52872,
     "geom:bbox":"31.754936,30.039858,32.776384,31.060552",
     "geom:latitude":30.541752,
     "geom:longitude":32.318856,
@@ -360,15 +360,17 @@
         "gn:id":361056,
         "gp:id":2345229,
         "hasc:id":"EG.IS",
+        "iso:code":"EG-IS",
         "iso:id":"EG-IS",
         "qs_pg:id":890534,
         "wd:id":"Q31067"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e8d1dc8554ca4578ba9ece526af97e53",
+    "wof:geomhash":"6c081c2cc9ae46d0cac4a00280b0cb41",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -383,7 +385,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876032,
+    "wof:lastmodified":1695884927,
     "wof:name":"Al Isma`iliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

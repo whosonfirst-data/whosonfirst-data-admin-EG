@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164872,
-    "geom:area_square_m":1777396272.939793,
+    "geom:area_square_m":1777396272.939788,
     "geom:bbox":"30.404651,29.089022,31.081624,29.556292",
     "geom:latitude":29.326791,
     "geom:longitude":30.797677,
@@ -324,16 +324,18 @@
         "gn:id":361323,
         "gp:id":2345226,
         "hasc:id":"EG.FY",
+        "iso:code":"EG-FYM",
         "iso:id":"EG-FYM",
         "qs_pg:id":900672,
         "wd:id":"Q30656"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "meso",
         "quattroshapes"
     ],
-    "wof:geomhash":"bcc7401277b763954860e41319d1d31d",
+    "wof:geomhash":"f9a33100e627750cc29ec9baa157d38e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -348,7 +350,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876039,
+    "wof:lastmodified":1695884928,
     "wof:name":"Al Fayyum",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

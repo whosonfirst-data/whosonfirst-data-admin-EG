@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189605,
-    "geom:area_square_m":2011953774.025019,
+    "geom:area_square_m":2011953774.024878,
     "geom:bbox":"30.742124,30.579593,31.31872,31.163715",
     "geom:latitude":30.889277,
     "geom:longitude":31.048261,
@@ -368,15 +368,17 @@
         "gn:id":361294,
         "gp:id":2345227,
         "hasc:id":"EG.GH",
+        "iso:code":"EG-GH",
         "iso:id":"EG-GH",
         "qs_pg:id":900673,
         "wd:id":"Q30835"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f580e4cb5f908bea6cb4ec066fef5ccc",
+    "wof:geomhash":"d1e29b5cdd173bebe99dec17768b864f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -391,7 +393,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876033,
+    "wof:lastmodified":1695884927,
     "wof:name":"Al Gharbiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144673,
-    "geom:area_square_m":1608998672.935899,
+    "geom:area_square_m":1608998672.935831,
     "geom:bbox":"31.982322,25.181794,32.849786,26.20964",
     "geom:latitude":25.915561,
     "geom:longitude":32.487045,
@@ -355,16 +355,18 @@
         "gn:id":350546,
         "gp:id":2345245,
         "hasc:id":"EG.QN",
+        "iso:code":"EG-KN",
         "iso:id":"EG-KN",
         "qs_pg:id":896789,
         "unlc:id":"EG-KN",
         "wd:id":"Q31065"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ed36c24e98c3c0550a18862fee6fd769",
+    "wof:geomhash":"fe56edda5cb8f472de8b21e0f1869624",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -379,7 +381,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876037,
+    "wof:lastmodified":1695884927,
     "wof:name":"Qina",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.645616,
-    "geom:area_square_m":28203277705.933731,
+    "geom:area_square_m":28203277206.669621,
     "geom:bbox":"32.584006,29.509729,34.89731,31.326074",
     "geom:latitude":30.440799,
     "geom:longitude":33.716551,
@@ -351,16 +351,18 @@
         "gn:id":349401,
         "gp:id":2345248,
         "hasc:id":"EG.SS",
+        "iso:code":"EG-SIN",
         "iso:id":"EG-SIN",
         "qs_pg:id":890537,
         "unlc:id":"EG-SIN",
         "wd:id":"Q30662"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd61cd49547367048617cd4892758552",
+    "wof:geomhash":"86f5e0b65ec3b215ce34d7644e337579",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -375,7 +377,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876036,
+    "wof:lastmodified":1695884928,
     "wof:name":"Shamal Sina'",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

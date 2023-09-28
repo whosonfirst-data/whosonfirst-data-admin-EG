@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256166,
-    "geom:area_square_m":2719783584.143685,
+    "geom:area_square_m":2719783584.143626,
     "geom:bbox":"29.356734,30.26259,30.087226,31.329745",
     "geom:latitude":30.837802,
     "geom:longitude":29.742322,
@@ -389,16 +389,18 @@
         "gn:id":361059,
         "gp:id":2345228,
         "hasc:id":"EG.IK",
+        "iso:code":"EG-ALX",
         "iso:id":"EG-ALX",
         "qs_pg:id":206445,
         "wd:id":"Q29943",
         "wk:page":"Alexandria Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cfe521f2a73c1dceb744cc0a78a40a3d",
+    "wof:geomhash":"783a9be106179795da8b3d2e12536fde",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -413,7 +415,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876039,
+    "wof:lastmodified":1695884504,
     "wof:name":"Al Iskandariyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

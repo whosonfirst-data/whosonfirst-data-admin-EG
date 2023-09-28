@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":39.937156,
-    "geom:area_square_m":448219375812.418091,
+    "geom:area_square_m":448219375812.419189,
     "geom:bbox":"25.0,22.0,32.743283,27.67669",
     "geom:latitude":24.772256,
     "geom:longitude":28.559904,
@@ -348,15 +348,17 @@
         "gn:id":360483,
         "gp:id":2345235,
         "hasc:id":"EG.WJ",
+        "iso:code":"EG-WAD",
         "iso:id":"EG-WAD",
         "qs_pg:id":896788,
         "wd:id":"Q30650"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b49ff36a31381b11f5c2f5aff7bb41e",
+    "wof:geomhash":"891bc630cc9fb7b3bed1acdc1c5c7ec1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -371,7 +373,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876040,
+    "wof:lastmodified":1695884928,
     "wof:name":"Al Wadi at Jadid",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

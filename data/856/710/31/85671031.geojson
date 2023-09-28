@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.977033,
-    "geom:area_square_m":160883956246.932983,
+    "geom:area_square_m":160883956246.9328,
     "geom:bbox":"24.692899,27.641235,30.336177,31.670021",
     "geom:latitude":29.672968,
     "geom:longitude":26.983103,
@@ -357,16 +357,18 @@
         "gn:id":352603,
         "gp:id":2345244,
         "hasc:id":"EG.MT",
+        "iso:code":"EG-MT",
         "iso:id":"EG-MT",
         "qs_pg:id":896785,
         "unlc:id":"EG-MT",
         "wd:id":"Q30682"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b99419c005cc0c94b084078f9a9ea5c9",
+    "wof:geomhash":"da1e144f75f9530ee52fac250228f667",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -381,7 +383,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876038,
+    "wof:lastmodified":1695884928,
     "wof:name":"Matruh",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

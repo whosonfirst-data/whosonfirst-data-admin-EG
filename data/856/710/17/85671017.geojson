@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329554,
-    "geom:area_square_m":3489138337.321108,
+    "geom:area_square_m":3489138337.321225,
     "geom:bbox":"31.219556,30.589724,32.088591,31.515551",
     "geom:latitude":31.103546,
     "geom:longitude":31.519728,
@@ -360,16 +360,18 @@
         "gn:id":361849,
         "gp:id":2345223,
         "hasc:id":"EG.DQ",
+        "iso:code":"EG-DK",
         "iso:id":"EG-DK",
         "qs_pg:id":900670,
         "unlc:id":"EG-DK",
         "wd:id":"Q31068"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b457319cd9886fbb6d449fce214067fc",
+    "wof:geomhash":"7561323afa2ca98b6cc3e01fad09c22b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -384,7 +386,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876037,
+    "wof:lastmodified":1695884927,
     "wof:name":"Ad Daqahliyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

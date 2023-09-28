@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":15.57328,
-    "geom:area_square_m":173735792830.733429,
+    "geom:area_square_m":173735792824.078796,
     "geom:bbox":"30.733735,21.999539,36.907099,29.313712",
     "geom:latitude":25.466001,
     "geom:longitude":33.51608,
@@ -354,15 +354,17 @@
         "gn:id":361468,
         "gp:id":2345224,
         "hasc:id":"EG.BA",
+        "iso:code":"EG-BA",
         "iso:id":"EG-BA",
         "qs_pg:id":900676,
         "wd:id":"Q30831"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3fcf19b3a27a37b029ca3122ead56426",
+    "wof:geomhash":"c6d8634e27569993b20e0485e78e384c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -377,7 +379,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876040,
+    "wof:lastmodified":1695884928,
     "wof:name":"Al Bahr al Ahmar",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

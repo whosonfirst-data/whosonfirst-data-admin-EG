@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021342,
-    "geom:area_square_m":237815754.047008,
+    "geom:area_square_m":237815754.047035,
     "geom:bbox":"32.463708,25.540774,32.737329,25.817437",
     "geom:latitude":25.687654,
     "geom:longitude":32.625967,
@@ -330,16 +330,18 @@
         "gn:id":7603259,
         "gp:id":56120896,
         "hasc:id":"EG.UQ",
+        "iso:code":"EG-LX",
         "iso:id":"EG-LX",
         "qs_pg:id":230277,
         "unlc:id":"EG-LX",
         "wd:id":"Q30797"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a95bfb4c480c202b55f9cb8ba18af23e",
+    "wof:geomhash":"41036c33e552d9c9c659e493903e7319",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -354,7 +356,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876039,
+    "wof:lastmodified":1695884928,
     "wof:name":"Luxor",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

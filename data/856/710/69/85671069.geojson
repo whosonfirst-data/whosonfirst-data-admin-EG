@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13625,
-    "geom:area_square_m":1498043078.796514,
+    "geom:area_square_m":1498043078.79658,
     "geom:bbox":"30.668685,26.827849,31.509232,27.615094",
     "geom:latitude":27.229453,
     "geom:longitude":31.072969,
@@ -459,16 +459,18 @@
         "gn:id":359781,
         "gp:id":2345239,
         "hasc:id":"EG.AT",
+        "iso:code":"EG-AST",
         "iso:id":"EG-AST",
         "qs_pg:id":1087038,
         "unlc:id":"EG-AST",
         "wd:id":"Q29965"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4ce05b9e6584850fd47fe8a206ba1858",
+    "wof:geomhash":"2adc8bfa1b1056c52a9a3e7f40eb3d85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -483,7 +485,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876036,
+    "wof:lastmodified":1695884504,
     "wof:name":"Asyut",
     "wof:parent_id":85632581,
     "wof:placetype":"region",
