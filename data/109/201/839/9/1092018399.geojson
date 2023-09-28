@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01482,
-    "geom:area_square_m":163773180.708405,
+    "geom:area_square_m":163773180.708406,
     "geom:bbox":"31.500484,26.5722,31.638468,26.749696",
     "geom:latitude":26.655786,
     "geom:longitude":31.56954,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897286,
-    "wof:geomhash":"8298f6a13ac7174d3f156d14a4804990",
+    "wof:geomhash":"e86dd2849b885386f7a996522eaffa32",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018399,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886552,
     "wof:name":"El-Maraghah",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

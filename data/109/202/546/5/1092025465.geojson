@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029866,
-    "geom:area_square_m":317147655.666528,
+    "geom:area_square_m":317147655.666532,
     "geom:bbox":"30.872634,30.702417,31.113131,30.914834",
     "geom:latitude":30.820139,
     "geom:longitude":30.980231,
@@ -203,9 +203,10 @@
     "wof:concordances":{
         "hasc:id":"EG.GH.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897544,
-    "wof:geomhash":"42b74894e12e58446dfd3cb4d28a2f58",
+    "wof:geomhash":"df5fd78993fc2e66650d32048e17fcb2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -215,7 +216,7 @@
         }
     ],
     "wof:id":1092025465,
-    "wof:lastmodified":1602720869,
+    "wof:lastmodified":1695886296,
     "wof:name":"Tanta",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

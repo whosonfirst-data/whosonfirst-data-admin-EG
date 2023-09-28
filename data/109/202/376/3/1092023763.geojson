@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045014,
-    "geom:area_square_m":476494866.698985,
+    "geom:area_square_m":476494866.699006,
     "geom:bbox":"34.126847,30.949588,34.362765,31.326074",
     "geom:latitude":31.118514,
     "geom:longitude":34.240827,
@@ -191,9 +191,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SS.RF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897485,
-    "wof:geomhash":"865372756604f3bac79daa651885812a",
+    "wof:geomhash":"c33babf4faa8d8069934c1b9a7ad27f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -203,7 +204,7 @@
         }
     ],
     "wof:id":1092023763,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1695886295,
     "wof:name":"Rafah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

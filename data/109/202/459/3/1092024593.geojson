@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013446,
-    "geom:area_square_m":143552770.000867,
+    "geom:area_square_m":143552770.000915,
     "geom:bbox":"31.253273,30.182775,31.375956,30.412107",
     "geom:latitude":30.301099,
     "geom:longitude":31.306758,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QL.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897514,
-    "wof:geomhash":"8d9140a0d150af137e8b0c847d38d348",
+    "wof:geomhash":"6a2180fc7b0004b19269770a6a4966f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092024593,
-    "wof:lastmodified":1627522102,
+    "wof:lastmodified":1695886575,
     "wof:name":"Shebeen El-Qanater",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

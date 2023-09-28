@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017674,
-    "geom:area_square_m":187645821.625477,
+    "geom:area_square_m":187645821.62549,
     "geom:bbox":"31.546469,30.756975,31.76481,30.930325",
     "geom:latitude":30.839373,
     "geom:longitude":31.664357,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.FS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897411,
-    "wof:geomhash":"55450394161cd39fe7e7fa4a25f0b1c8",
+    "wof:geomhash":"6f8c18abb1cca1023ea50776ad5ac0bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092021715,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886570,
     "wof:name":"Kafr Saqr",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

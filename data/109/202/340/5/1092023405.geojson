@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000084,
-    "geom:area_square_m":889766.181522,
+    "geom:area_square_m":889766.181521,
     "geom:bbox":"32.297062,31.246329,32.320395,31.273963",
     "geom:latitude":31.257136,
     "geom:longitude":32.304567,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BS.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897473,
-    "wof:geomhash":"fcd03d9993023ecbb6fcd0cf93494f46",
+    "wof:geomhash":"e5530cf7dd4081dd850cd480952b859a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092023405,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886573,
     "wof:name":"Police station of Port Said Port",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

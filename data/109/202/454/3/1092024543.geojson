@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017469,
-    "geom:area_square_m":185999239.007233,
+    "geom:area_square_m":185999239.007214,
     "geom:bbox":"30.918793,30.470665,31.084145,30.64811",
     "geom:latitude":30.561717,
     "geom:longitude":31.011242,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MF.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897512,
-    "wof:geomhash":"ddd912ae2668cc11e02f1d4a5dc7d2bb",
+    "wof:geomhash":"291ed4b406b6d9ccc9ea84bfa205a324",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092024543,
-    "wof:lastmodified":1627522102,
+    "wof:lastmodified":1695886575,
     "wof:name":"Shebeen El-Koum",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

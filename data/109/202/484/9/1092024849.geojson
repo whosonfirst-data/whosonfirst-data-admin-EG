@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018482,
-    "geom:area_square_m":195899921.644508,
+    "geom:area_square_m":195899921.644464,
     "geom:bbox":"30.570194,30.918535,30.785634,31.081466",
     "geom:latitude":30.998279,
     "geom:longitude":30.679021,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897524,
-    "wof:geomhash":"4288551234b87686f77c8182391877b5",
+    "wof:geomhash":"ee7e454d3fadc14881b77d944c6f1ed0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092024849,
-    "wof:lastmodified":1627522102,
+    "wof:lastmodified":1695886575,
     "wof:name":"Shobrakheet",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

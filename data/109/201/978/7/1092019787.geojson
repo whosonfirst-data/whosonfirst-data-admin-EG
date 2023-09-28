@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.053869,
-    "geom:area_square_m":57549330167.359749,
+    "geom:area_square_m":57549330167.360077,
     "geom:bbox":"33.418624,21.999539,36.907099,24.165294",
     "geom:latitude":22.931636,
     "geom:longitude":34.719853,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BA.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897337,
-    "wof:geomhash":"4598096c286516c54e9ec5eadaf72c70",
+    "wof:geomhash":"3579ceb932240390286404ee33c8dfa7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019787,
-    "wof:lastmodified":1627522102,
+    "wof:lastmodified":1695886574,
     "wof:name":"El-Shalateen",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

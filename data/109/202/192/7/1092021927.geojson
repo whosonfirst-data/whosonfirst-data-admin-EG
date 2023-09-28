@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025217,
-    "geom:area_square_m":283662301.842011,
+    "geom:area_square_m":283662301.842043,
     "geom:bbox":"32.857799,24.374243,33.040138,24.854023",
     "geom:latitude":24.534224,
     "geom:longitude":32.941192,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AN.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897420,
-    "wof:geomhash":"6b9b72f83a1947182bb17b69995a29e3",
+    "wof:geomhash":"e1e4e8b978fa6308de3cf918be2e69d5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092021927,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886570,
     "wof:name":"Koum Ombu",
     "wof:parent_id":85671061,
     "wof:placetype":"county",

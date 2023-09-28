@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011368,
-    "geom:area_square_m":120933003.112208,
+    "geom:area_square_m":120933003.112246,
     "geom:bbox":"31.013638,30.585183,31.199029,30.71654",
     "geom:latitude":30.64787,
     "geom:longitude":31.089353,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MF.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897181,
-    "wof:geomhash":"ddf4751bb1d7a4e5fd9073442d92698a",
+    "wof:geomhash":"c7abdd39d05faa3af3143168b52fac17",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092015653,
-    "wof:lastmodified":1627522090,
+    "wof:lastmodified":1695886558,
     "wof:name":"Berket El-Sab'",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

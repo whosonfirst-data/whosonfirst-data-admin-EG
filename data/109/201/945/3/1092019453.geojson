@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013598,
-    "geom:area_square_m":146161990.258991,
+    "geom:area_square_m":146161990.259012,
     "geom:bbox":"31.248718,29.465995,31.335292,29.767995",
     "geom:latitude":29.625433,
     "geom:longitude":31.294391,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897325,
-    "wof:geomhash":"6b5fde473c9496469be0eef29fa29d5d",
+    "wof:geomhash":"1e14f3128f386bde1ed7479d4ed7abd4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019453,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886567,
     "wof:name":"El-Saf",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

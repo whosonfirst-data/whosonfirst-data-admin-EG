@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000099,
-    "geom:area_square_m":1063573.521754,
+    "geom:area_square_m":1063573.521753,
     "geom:bbox":"31.249253,30.054685,31.267988,30.063953",
     "geom:latitude":30.059705,
     "geom:longitude":31.259136,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897162,
-    "wof:geomhash":"0938a7ec5d85ef768a1bf35962b59914",
+    "wof:geomhash":"22a2a1b40effe2d2df13a1bbc73dad89",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092015143,
-    "wof:lastmodified":1627522089,
+    "wof:lastmodified":1695886556,
     "wof:name":"Bab El-Sha'reyah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

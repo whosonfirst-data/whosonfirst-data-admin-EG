@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.435373,
-    "geom:area_square_m":15368237664.316948,
+    "geom:area_square_m":15368237664.316902,
     "geom:bbox":"27.67372,28.807763,28.63818,31.097751",
     "geom:latitude":30.007993,
     "geom:longitude":28.089028,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MT.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897237,
-    "wof:geomhash":"fdfedf2743b688fcd5eaca7e0326d6f8",
+    "wof:geomhash":"3192de4957bd972afad1da9627599525",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017227,
-    "wof:lastmodified":1627522094,
+    "wof:lastmodified":1695886564,
     "wof:name":"El-Dab'ah",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000689,
-    "geom:area_square_m":7368645.878015,
+    "geom:area_square_m":7368645.878013,
     "geom:bbox":"31.182281,30.067161,31.230103,30.089614",
     "geom:latitude":30.078633,
     "geom:longitude":31.20647,
@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.EM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897369,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"e57c0e7ae23e1f79e7a98c531cb93a5a",
+    "wof:geomhash":"394ffaa1246679d371d9645ce3c17d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092020683,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886568,
     "wof:name":"Embabah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

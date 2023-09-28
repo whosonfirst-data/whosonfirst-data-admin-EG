@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029506,
-    "geom:area_square_m":312313839.468543,
+    "geom:area_square_m":312313839.468564,
     "geom:bbox":"31.219556,31.019702,31.491782,31.21938",
     "geom:latitude":31.127347,
     "geom:longitude":31.343939,
@@ -110,9 +110,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897538,
-    "wof:geomhash":"203eff311fd47c8d81b12ac2f9d050f8",
+    "wof:geomhash":"ca37c6294e198989196169b5c644264f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1092025265,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886576,
     "wof:name":"Talkha",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013331,
-    "geom:area_square_m":142003682.545858,
+    "geom:area_square_m":142003682.545879,
     "geom:bbox":"32.302638,30.266038,32.646806,30.954549",
     "geom:latitude":30.520818,
     "geom:longitude":32.381917,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IS.EK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897310,
-    "wof:geomhash":"64cb9bd964be445162a6d8b936f4fc0a",
+    "wof:geomhash":"78b8cd9d4949cd776cfea206a9bccb90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019027,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886563,
     "wof:name":"El-Qantarah Sharq",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

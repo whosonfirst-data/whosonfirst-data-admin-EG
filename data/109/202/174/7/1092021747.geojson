@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005646,
-    "geom:area_square_m":60115498.668811,
+    "geom:area_square_m":60115498.668807,
     "geom:bbox":"31.221711,30.495046,31.348347,30.613527",
     "geom:latitude":30.555969,
     "geom:longitude":31.277611,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QL.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897414,
-    "wof:geomhash":"3eb9246fa50031da9934a18d5a54a045",
+    "wof:geomhash":"b0546a86d347a3141b6c65dba88cbcce",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092021747,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886570,
     "wof:name":"Kafr Shokr",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

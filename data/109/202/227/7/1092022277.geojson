@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023809,
-    "geom:area_square_m":253102058.72867,
+    "geom:area_square_m":253102058.728647,
     "geom:bbox":"31.231669,30.589724,31.392092,30.832151",
     "geom:latitude":30.714323,
     "geom:longitude":31.319513,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.MC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897434,
-    "wof:geomhash":"3712718e2719e89665abf2b2c8da267e",
+    "wof:geomhash":"09dde304d24e98e2264b5b706674c661",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092022277,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886571,
     "wof:name":"Meet Ghamr",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

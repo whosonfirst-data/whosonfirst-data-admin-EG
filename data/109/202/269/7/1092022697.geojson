@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.958436,
-    "geom:area_square_m":10265925477.15167,
+    "geom:area_square_m":10265925477.151482,
     "geom:bbox":"32.782451,29.509729,34.89731,30.283426",
     "geom:latitude":29.975625,
     "geom:longitude":34.00309,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SS.NK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897449,
-    "wof:geomhash":"8bb6cdd0ea5b03604b7c34cc5d2725da",
+    "wof:geomhash":"026f54c8090ffcb0f80a96eb6dafc7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1092022697,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886572,
     "wof:name":"Nakhl",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

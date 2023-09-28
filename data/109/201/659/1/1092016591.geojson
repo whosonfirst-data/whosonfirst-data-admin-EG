@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001702,
-    "geom:area_square_m":18228940.625051,
+    "geom:area_square_m":18228940.62506,
     "geom:bbox":"31.116466,29.949283,31.165247,30.02857",
     "geom:latitude":29.991069,
     "geom:longitude":31.14241,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.PY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897215,
-    "wof:geomhash":"aca6ab14ad70533f47a4aaa03109b90a",
+    "wof:geomhash":"26258e43ddbe12a9a77aa754f1378690",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016591,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886560,
     "wof:name":"El-Ahram",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

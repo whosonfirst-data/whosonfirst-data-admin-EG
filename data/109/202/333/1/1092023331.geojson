@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001199,
-    "geom:area_square_m":12845580.586896,
+    "geom:area_square_m":12845580.586893,
     "geom:bbox":"32.544547,29.935341,32.588526,30.006383",
     "geom:latitude":29.969991,
     "geom:longitude":32.568632,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SW.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897470,
-    "wof:geomhash":"af572316f4ef892537fcfcd6d3f0ac02",
+    "wof:geomhash":"a78623b865907fe20cb3e336fbd8caa2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092023331,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886562,
     "wof:name":"Police staion of Suez Port",
     "wof:parent_id":85671013,
     "wof:placetype":"county",

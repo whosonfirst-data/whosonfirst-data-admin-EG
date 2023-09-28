@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000408,
-    "geom:area_square_m":4347293.242499,
+    "geom:area_square_m":4347293.2425,
     "geom:bbox":"31.510165,30.585499,31.535141,30.622295",
     "geom:latitude":30.602675,
     "geom:longitude":31.523566,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.ZS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897553,
-    "wof:geomhash":"9741d1ab6939242c0ddaebc6c5057a5f",
+    "wof:geomhash":"460d61a1a20b9c73de3553794a673ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092025713,
-    "wof:lastmodified":1627522104,
+    "wof:lastmodified":1695886577,
     "wof:name":"Tany El-Zaqazeeq",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

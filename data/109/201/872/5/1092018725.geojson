@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082941,
-    "geom:area_square_m":874861209.622261,
+    "geom:area_square_m":874861209.622242,
     "geom:bbox":"25.980463,31.311656,26.397076,31.614125",
     "geom:latitude":31.458023,
     "geom:longitude":26.164093,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MT.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897299,
-    "wof:geomhash":"b7939f42e769a28b5965a4b576479d46",
+    "wof:geomhash":"17d07567f64c4bb103b90a609a091f55",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092018725,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886566,
     "wof:name":"El-Negielah",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.UO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897110,
-    "wof:geomhash":"94b2421c0d25c411f3a4984ea1d271fa",
+    "wof:geomhash":"94e79ce2d9a75c95c834eabb3fc9636f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092014005,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886549,
     "wof:name":"10th Ramadan City",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

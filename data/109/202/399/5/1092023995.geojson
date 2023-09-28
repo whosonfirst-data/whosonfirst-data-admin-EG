@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00027,
-    "geom:area_square_m":2885910.208443,
+    "geom:area_square_m":2885910.208442,
     "geom:bbox":"31.226357,30.063978,31.246229,30.086557",
     "geom:latitude":30.07557,
     "geom:longitude":31.237593,
@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.RF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897494,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"160a697b9902590a56bd255adcf959e6",
+    "wof:geomhash":"182237a608f90b82b6e376fb061d13a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092023995,
-    "wof:lastmodified":1627522101,
+    "wof:lastmodified":1695886574,
     "wof:name":"Roud El-Farag",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

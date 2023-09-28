@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001601,
-    "geom:area_square_m":17117986.373702,
+    "geom:area_square_m":17117986.373703,
     "geom:bbox":"31.26066,30.109059,31.312182,30.161813",
     "geom:latitude":30.13822,
     "geom:longitude":31.282289,
@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"EG.QL.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897556,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"50a38c8704d5273602b8d7d0f7c39d60",
+    "wof:geomhash":"91029cec9b2b0f87ea09b2bd650b935c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092025807,
-    "wof:lastmodified":1627522102,
+    "wof:lastmodified":1695886575,
     "wof:name":"Tany Shobra El-Kheimah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

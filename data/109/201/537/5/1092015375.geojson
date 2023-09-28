@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015943,
-    "geom:area_square_m":169064761.217194,
+    "geom:area_square_m":169064761.217163,
     "geom:bbox":"30.742124,30.872856,30.927952,31.040943",
     "geom:latitude":30.954593,
     "geom:longitude":30.829974,
@@ -101,9 +101,10 @@
     "wof:concordances":{
         "hasc:id":"EG.GH.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897171,
-    "wof:geomhash":"575a182a478f9b5af0453318ee77f9cf",
+    "wof:geomhash":"9ef178897cdc5194de932c5ae0a52b8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092015375,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1695886295,
     "wof:name":"Basyoun",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

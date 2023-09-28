@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028662,
-    "geom:area_square_m":304152074.008787,
+    "geom:area_square_m":304152074.008778,
     "geom:bbox":"30.525402,30.789232,30.792552,30.972074",
     "geom:latitude":30.884829,
     "geom:longitude":30.66173,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.EB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897372,
-    "wof:geomhash":"b2633732b5566f7421283637d93124a0",
+    "wof:geomhash":"310e365120d572f48f3f9f7a7f248c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020749,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886568,
     "wof:name":"Etay El-Barood",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

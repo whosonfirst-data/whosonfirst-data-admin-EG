@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025276,
-    "geom:area_square_m":269652027.066076,
+    "geom:area_square_m":269652027.066082,
     "geom:bbox":"30.540842,30.308303,30.872711,30.460365",
     "geom:latitude":30.370796,
     "geom:longitude":30.703079,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MF.EC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897323,
-    "wof:geomhash":"7b97d2200c90f6468ea9a08cbe2e973f",
+    "wof:geomhash":"61b98c40ab9b135eff62ec84849b3d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092019405,
-    "wof:lastmodified":1627522101,
+    "wof:lastmodified":1695886573,
     "wof:name":"El-Sadat City",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

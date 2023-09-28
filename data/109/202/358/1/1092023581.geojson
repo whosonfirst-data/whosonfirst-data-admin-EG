@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015255,
-    "geom:area_square_m":169716101.952414,
+    "geom:area_square_m":169716101.952429,
     "geom:bbox":"32.718735,25.734864,32.846736,25.980235",
     "geom:latitude":25.879229,
     "geom:longitude":32.781865,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QN.QS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897479,
-    "wof:geomhash":"35d7346a7e7d6f32d2a01d6458042da8",
+    "wof:geomhash":"0b04a5684230e23c8dae8451ed24aed3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092023581,
-    "wof:lastmodified":1627522101,
+    "wof:lastmodified":1695886573,
     "wof:name":"Qoos",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

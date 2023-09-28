@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020174,
-    "geom:area_square_m":214855769.760914,
+    "geom:area_square_m":214855769.760921,
     "geom:bbox":"31.754936,30.460765,32.07393,30.586251",
     "geom:latitude":30.535693,
     "geom:longitude":31.896974,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IS.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897346,
-    "wof:geomhash":"38ec30e6502891202e7f32574ee3839d",
+    "wof:geomhash":"491125f7053c1d5597079ae10007d223",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020039,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886563,
     "wof:name":"El-Tal El-Kebeer",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

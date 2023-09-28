@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022991,
-    "geom:area_square_m":243942621.371596,
+    "geom:area_square_m":243942621.371571,
     "geom:bbox":"31.224174,30.791434,31.401714,31.004997",
     "geom:latitude":30.898516,
     "geom:longitude":31.311788,
@@ -140,9 +140,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897132,
-    "wof:geomhash":"088af5196e9a224da713210a14c1e132",
+    "wof:geomhash":"7853d38cfe6754b97420e06c79312149",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1092014439,
-    "wof:lastmodified":1602720860,
+    "wof:lastmodified":1695886294,
     "wof:name":"Aga",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

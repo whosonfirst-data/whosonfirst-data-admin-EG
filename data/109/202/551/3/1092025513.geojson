@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000904,
-    "geom:area_square_m":9941177.088189,
+    "geom:area_square_m":9941177.088192,
     "geom:bbox":"31.145294,27.155371,31.19223,27.193843",
     "geom:latitude":27.170192,
     "geom:longitude":31.170137,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.AF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897546,
-    "wof:geomhash":"dd06e8b09a2eb51dff84d98a8784789d",
+    "wof:geomhash":"ca0a1b5f1465c8c407ae218e31b1e480",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092025513,
-    "wof:lastmodified":1627522089,
+    "wof:lastmodified":1695886557,
     "wof:name":"Tany Asiut",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00822,
-    "geom:area_square_m":88052568.67823,
+    "geom:area_square_m":88052568.678225,
     "geom:bbox":"30.824638,29.908207,30.978245,30.021497",
     "geom:latitude":29.965614,
     "geom:longitude":30.899814,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897113,
-    "wof:geomhash":"bcee6ac80c1b7779c80854e36eb4eab5",
+    "wof:geomhash":"188f4efb935f46fef8657b91e299a1e8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092014009,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886575,
     "wof:name":"6th October City",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

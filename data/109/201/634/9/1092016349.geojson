@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01987,
-    "geom:area_square_m":209604331.917796,
+    "geom:area_square_m":209604331.917783,
     "geom:bbox":"31.748388,31.346042,32.063652,31.535778",
     "geom:latitude":31.446564,
     "geom:longitude":31.869672,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DT.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897206,
-    "wof:geomhash":"52fc21ea66b76371ffb5c3ffd47fc02b",
+    "wof:geomhash":"ade376d36e63ff5ec32690b03be68cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092016349,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886560,
     "wof:name":"Domiat",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

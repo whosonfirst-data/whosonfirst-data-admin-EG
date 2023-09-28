@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031392,
-    "geom:area_square_m":342464714.619904,
+    "geom:area_square_m":342464714.619848,
     "geom:bbox":"30.600079,27.970355,30.83629,28.204719",
     "geom:latitude":28.083561,
     "geom:longitude":30.705901,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MN.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897293,
-    "wof:geomhash":"24702f3501b9367aeec3e5a19ba03522",
+    "wof:geomhash":"624e738d5c037361465e1a875faeab18",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018557,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886553,
     "wof:name":"El-Menya",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000613,
-    "geom:area_square_m":6567892.594842,
+    "geom:area_square_m":6567892.594844,
     "geom:bbox":"31.240988,29.946828,31.287706,29.977037",
     "geom:latitude":29.960627,
     "geom:longitude":31.263377,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897276,
-    "wof:geomhash":"faaec7d66fa8264604aa66e3a0fbdf9a",
+    "wof:geomhash":"552fe1ca0b9dc7350575708f0704b3d7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018203,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886569,
     "wof:name":"El-Maadi",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

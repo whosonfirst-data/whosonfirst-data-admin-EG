@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042167,
-    "geom:area_square_m":455232363.833659,
+    "geom:area_square_m":455232363.833647,
     "geom:bbox":"30.54552,29.089022,30.861363,29.307776",
     "geom:latitude":29.181336,
     "geom:longitude":30.71936,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.FY.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897146,
-    "wof:geomhash":"a07234dd827c0b4b22f658ea0e7455c0",
+    "wof:geomhash":"fd6e77146c2de8914886dd02281a13aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092014683,
-    "wof:lastmodified":1627522089,
+    "wof:lastmodified":1695886555,
     "wof:name":"Atsa",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009668,
-    "geom:area_square_m":102192687.810315,
+    "geom:area_square_m":102192687.810308,
     "geom:bbox":"31.762998,31.122225,31.876569,31.356272",
     "geom:latitude":31.256176,
     "geom:longitude":31.812066,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897435,
-    "wof:geomhash":"ac777b27ec16ee111c777c728f114f75",
+    "wof:geomhash":"155297e11500570f919b5b16ad57b697",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1092022325,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886571,
     "wof:name":"Meet Salseel",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

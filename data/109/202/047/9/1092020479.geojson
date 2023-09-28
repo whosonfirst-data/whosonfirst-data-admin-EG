@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029681,
-    "geom:area_square_m":315933420.0031,
+    "geom:area_square_m":315933420.003097,
     "geom:bbox":"31.341119,30.483321,31.651543,30.700104",
     "geom:latitude":30.590807,
     "geom:longitude":31.49723,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897361,
-    "wof:geomhash":"900d22caca8971e1c00a1cafe0343089",
+    "wof:geomhash":"7d397b6fb4c7b78b757e17a37fdedfa5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020479,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886576,
     "wof:name":"El-Zaqazeeq",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
-    "geom:area_square_m":3283088.869154,
+    "geom:area_square_m":3283088.869153,
     "geom:bbox":"31.680693,26.516058,31.710916,26.533582",
     "geom:latitude":26.524862,
     "geom:longitude":31.695463,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897557,
-    "wof:geomhash":"677a12010911f8968f24f712eea42fcf",
+    "wof:geomhash":"f6003c16779ed575b465579023d2ddbc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1092025853,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886576,
     "wof:name":"Tany Sohag",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

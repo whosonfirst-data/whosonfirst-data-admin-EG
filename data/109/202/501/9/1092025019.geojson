@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.409734,
-    "geom:area_square_m":47934129598.967888,
+    "geom:area_square_m":47934129598.967804,
     "geom:bbox":"24.869994,27.641235,28.86749,29.62",
     "geom:latitude":28.464772,
     "geom:longitude":26.318028,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MT.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897530,
-    "wof:geomhash":"6895f5206bd53a922212d12515d34012",
+    "wof:geomhash":"a76a2f445cf2b1c3b0fe3340b037aaa3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092025019,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886576,
     "wof:name":"Siwah",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

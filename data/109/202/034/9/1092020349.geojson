@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.WR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897357,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"4a63009047c1192732bc9e7e532a5d00",
+    "wof:geomhash":"395bb634e06a5afbfefc38717f1aeef1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092020349,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886563,
     "wof:name":"El-Warraq",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.281228,
-    "geom:area_square_m":3049014126.777338,
+    "geom:area_square_m":3049014126.777306,
     "geom:bbox":"33.166574,28.454787,33.786318,28.995031",
     "geom:latitude":28.740967,
     "geom:longitude":33.489884,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JS.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897126,
-    "wof:geomhash":"9240cf5a6811f6ef90406e9af51a1626",
+    "wof:geomhash":"de376010ae11d6d41f3c16e333d3bc4e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1092014267,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886550,
     "wof:name":"Abu Redeis",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

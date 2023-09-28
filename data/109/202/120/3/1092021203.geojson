@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001281,
-    "geom:area_square_m":13720616.01141,
+    "geom:area_square_m":13720616.011408,
     "geom:bbox":"31.193696,29.965153,31.234259,30.032637",
     "geom:latitude":29.996324,
     "geom:longitude":31.215167,
@@ -305,9 +305,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897391,
-    "wof:geomhash":"cf700a8fdb8ad432d370cf34dedb7173",
+    "wof:geomhash":"9d6352b1022e29ba72e260cf3753c2cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -317,7 +318,7 @@
         }
     ],
     "wof:id":1092021203,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1695886295,
     "wof:name":"Giza",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

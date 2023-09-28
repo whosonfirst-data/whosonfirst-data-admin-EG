@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022024,
-    "geom:area_square_m":246098766.519382,
+    "geom:area_square_m":246098766.51936,
     "geom:bbox":"32.452363,25.181794,32.663067,25.543322",
     "geom:latitude":25.353645,
     "geom:longitude":32.541544,
@@ -170,9 +170,10 @@
     "wof:concordances":{
         "hasc:id":"EG.UQ.IS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897371,
-    "wof:geomhash":"81c7b884f0e8394013e98331147c65e7",
+    "wof:geomhash":"1308233d9afa4450eaa2f0524dece578",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1092020721,
-    "wof:lastmodified":1602720866,
+    "wof:lastmodified":1695886295,
     "wof:name":"Esna",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

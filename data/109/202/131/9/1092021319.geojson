@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012499,
-    "geom:area_square_m":132945704.083542,
+    "geom:area_square_m":132945704.083537,
     "geom:bbox":"31.493948,30.601323,31.68633,30.714282",
     "geom:latitude":30.661422,
     "geom:longitude":31.595539,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897395,
-    "wof:geomhash":"58326f1f0f199958d326baa69ed76612",
+    "wof:geomhash":"74ff086de285ce166215d7ff8a586787",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092021319,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886569,
     "wof:name":"Hahya",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

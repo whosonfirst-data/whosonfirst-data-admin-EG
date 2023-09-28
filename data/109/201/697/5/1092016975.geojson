@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007972,
-    "geom:area_square_m":87857884.37425,
+    "geom:area_square_m":87857884.374218,
     "geom:bbox":"31.337176,26.827849,31.509232,27.036084",
     "geom:latitude":26.959476,
     "geom:longitude":31.423994,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897228,
-    "wof:geomhash":"a5ad396fce826d78e14751e1f1100388",
+    "wof:geomhash":"36a7d6bd2aa5cb01afca5a26e516de6d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016975,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886561,
     "wof:name":"El-Badary",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

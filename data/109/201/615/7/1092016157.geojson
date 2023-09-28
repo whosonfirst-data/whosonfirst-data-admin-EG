@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017076,
-    "geom:area_square_m":189547926.789896,
+    "geom:area_square_m":189547926.789898,
     "geom:bbox":"32.327316,26.067733,32.569412,26.20964",
     "geom:latitude":26.140785,
     "geom:longitude":32.447878,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QN.QJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897199,
-    "wof:geomhash":"0258c4f482459efc9c198a7e9ec454e9",
+    "wof:geomhash":"29116ed7ea75f4dd29ae31ca5148305d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016157,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886559,
     "wof:name":"Deshna",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

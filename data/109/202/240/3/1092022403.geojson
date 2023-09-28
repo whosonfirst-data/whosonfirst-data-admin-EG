@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027104,
-    "geom:area_square_m":288753680.652892,
+    "geom:area_square_m":288753680.652872,
     "geom:bbox":"31.266602,30.401053,31.49064,30.618204",
     "geom:latitude":30.506026,
     "geom:longitude":31.367671,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897438,
-    "wof:geomhash":"9729a0a850e65d38b0092d42376611aa",
+    "wof:geomhash":"e7c690a9abb562d0a693fe3abd2452dc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092022403,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886572,
     "wof:name":"Menya El-Qamh",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

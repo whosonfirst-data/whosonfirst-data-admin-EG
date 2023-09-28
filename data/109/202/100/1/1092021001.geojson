@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003109,
-    "geom:area_square_m":32881530.245956,
+    "geom:area_square_m":32881530.24595,
     "geom:bbox":"32.305458,31.12503,32.345935,31.266569",
     "geom:latitude":31.206439,
     "geom:longitude":32.320825,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BS.PM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897383,
-    "wof:geomhash":"c4d2ff84cf53b9cd87181812db2c7cc3",
+    "wof:geomhash":"3bf195e0e0cfe912c8ea2de5b7e3b997",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092021001,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886568,
     "wof:name":"Fouad Port",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009247,
-    "geom:area_square_m":101694932.663635,
+    "geom:area_square_m":101694932.663643,
     "geom:bbox":"31.104142,27.141795,31.29732,27.266098",
     "geom:latitude":27.201769,
     "geom:longitude":31.198892,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897251,
-    "wof:geomhash":"160dbbf57a2ec290de8979fe538d04d0",
+    "wof:geomhash":"69595caf353dff1a3405d873b63d1e15",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017669,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886561,
     "wof:name":"El-Fath",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

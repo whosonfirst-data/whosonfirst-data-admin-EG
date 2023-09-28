@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017508,
-    "geom:area_square_m":192207919.754795,
+    "geom:area_square_m":192207919.754832,
     "geom:bbox":"30.715756,27.305889,30.896311,27.518787",
     "geom:latitude":27.39727,
     "geom:longitude":30.807666,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897317,
-    "wof:geomhash":"1cd3730a9e94fefea42486a6e4b3e01e",
+    "wof:geomhash":"f71521c0c47f479f14e9e252cc88e0b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019229,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886566,
     "wof:name":"El-Qoweisah",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

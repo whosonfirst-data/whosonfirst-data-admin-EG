@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021646,
-    "geom:area_square_m":229029635.169244,
+    "geom:area_square_m":229029635.169256,
     "geom:bbox":"31.838221,31.08204,32.088591,31.248507",
     "geom:latitude":31.164819,
     "geom:longitude":31.943438,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.MZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897284,
-    "wof:geomhash":"13d43dbe72c10f07924d6d0ddeafa793",
+    "wof:geomhash":"b16aa347a1784594ba23d3a82e1032cf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018397,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886561,
     "wof:name":"El-Manzalah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018437,
-    "geom:area_square_m":204456534.045774,
+    "geom:area_square_m":204456534.045763,
     "geom:bbox":"31.817965,26.105413,32.217719,26.428974",
     "geom:latitude":26.255728,
     "geom:longitude":32.030645,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.DS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897191,
-    "wof:geomhash":"59ab6e0203ec4a179ffda7af753610a1",
+    "wof:geomhash":"93c90690d852a5b0348aad5e98c7c477",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092015947,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886559,
     "wof:name":"Dar El-Salam",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

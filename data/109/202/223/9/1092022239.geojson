@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014974,
-    "geom:area_square_m":162855703.203573,
+    "geom:area_square_m":162855703.203597,
     "geom:bbox":"30.599559,28.3501,30.827913,28.48823",
     "geom:latitude":28.412605,
     "geom:longitude":30.716159,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MN.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897432,
-    "wof:geomhash":"9425ee79a8ca93d23d6e5b5c2ab9179b",
+    "wof:geomhash":"eeb4675883d6e900c8db05a85360f251",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1092022239,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886571,
     "wof:name":"Matay",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

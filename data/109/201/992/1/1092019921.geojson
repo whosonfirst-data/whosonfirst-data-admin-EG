@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069112,
-    "geom:area_square_m":731946243.498379,
+    "geom:area_square_m":731946243.498396,
     "geom:bbox":"33.899048,30.931809,34.204209,31.264804",
     "geom:latitude":31.074969,
     "geom:longitude":34.064049,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SS.SZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897341,
-    "wof:geomhash":"6b9368fcce24ae6910d3e26e1f906456",
+    "wof:geomhash":"fe11902c9c32e1b891c4db5e18fc45af",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092019921,
-    "wof:lastmodified":1627522102,
+    "wof:lastmodified":1695886574,
     "wof:name":"El-Sheikh Zoweid",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

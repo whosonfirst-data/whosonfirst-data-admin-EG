@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011966,
-    "geom:area_square_m":126891352.749149,
+    "geom:area_square_m":126891352.749172,
     "geom:bbox":"31.475336,30.906017,31.692859,31.004275",
     "geom:latitude":30.954459,
     "geom:longitude":31.594581,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.TM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897542,
-    "wof:geomhash":"eed59d9f0b74931749f0811517eb1651",
+    "wof:geomhash":"9135788c5edf38b1880b4c6c3cd45215",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092025381,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886576,
     "wof:name":"Tamy El-Amdeed",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

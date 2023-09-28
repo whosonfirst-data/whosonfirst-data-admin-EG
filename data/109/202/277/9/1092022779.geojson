@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019755,
-    "geom:area_square_m":213264649.465799,
+    "geom:area_square_m":213264649.465786,
     "geom:bbox":"30.967012,29.107121,31.210743,29.255706",
     "geom:latitude":29.184539,
     "geom:longitude":31.092731,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BN.NB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897452,
-    "wof:geomhash":"e7a4e68ff7d9956403960d6301982dab",
+    "wof:geomhash":"cb3fe4a846fe1eb0dbb0c53bb80fb02e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1092022779,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1695886295,
     "wof:name":"Naser",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

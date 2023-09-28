@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016089,
-    "geom:area_square_m":177962811.66204,
+    "geom:area_square_m":177962811.662061,
     "geom:bbox":"31.570211,26.443525,31.782216,26.634436",
     "geom:latitude":26.551318,
     "geom:longitude":31.676857,
@@ -180,9 +180,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897531,
-    "wof:geomhash":"6c1413e01f4bd441ea32ab6befd71c83",
+    "wof:geomhash":"aed60435068f25f0e7b0666faa9ddbed",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":1092025063,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1695886296,
     "wof:name":"Sohag",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

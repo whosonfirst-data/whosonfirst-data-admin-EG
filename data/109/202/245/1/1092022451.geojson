@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01757,
-    "geom:area_square_m":185897565.786798,
+    "geom:area_square_m":185897565.786799,
     "geom:bbox":"31.605217,31.092963,31.828142,31.234568",
     "geom:latitude":31.1653,
     "geom:longitude":31.709644,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897440,
-    "wof:geomhash":"f381831ae9adc789cdad6ca84df75c4c",
+    "wof:geomhash":"5210984466a2e18bede0d7ea5dcc54a0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092022451,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886572,
     "wof:name":"Menyet El-Nasr",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

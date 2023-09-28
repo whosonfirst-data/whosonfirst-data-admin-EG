@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036081,
-    "geom:area_square_m":388844460.282453,
+    "geom:area_square_m":388844460.282455,
     "geom:bbox":"30.404651,29.2383,30.791225,29.472585",
     "geom:latitude":29.359091,
     "geom:longitude":30.620337,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.FY.US"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897207,
-    "wof:geomhash":"a6b0ef9f87642bcc26432dfa4fff1e9d",
+    "wof:geomhash":"0ca52a37bccb5cd3051d91bfc8524f26",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016391,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886560,
     "wof:name":"Ebshoway",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

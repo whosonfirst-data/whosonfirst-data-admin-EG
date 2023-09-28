@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049615,
-    "geom:area_square_m":525306729.776823,
+    "geom:area_square_m":525306729.776831,
     "geom:bbox":"32.054547,30.911736,32.316575,31.269537",
     "geom:latitude":31.102808,
     "geom:longitude":32.22294,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BS.JB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897242,
-    "wof:geomhash":"d49bf9ab0614911761d9f11229ab3c77",
+    "wof:geomhash":"678eed410949bba161d94f586eef80ed",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017397,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886561,
     "wof:name":"El-Dawahy",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

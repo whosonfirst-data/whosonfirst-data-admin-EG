@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000158,
-    "geom:area_square_m":1686766.424329,
+    "geom:area_square_m":1686766.424328,
     "geom:bbox":"31.235851,30.039453,31.252382,30.053778",
     "geom:latitude":30.045936,
     "geom:longitude":31.244268,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897114,
-    "wof:geomhash":"8a2fe2ea5ef71abd769897067ea7921c",
+    "wof:geomhash":"5c224b8646f6744a4cf7eb889a4d683b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092014011,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886549,
     "wof:name":"Abdeen",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

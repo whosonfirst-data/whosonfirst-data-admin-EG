@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016281,
-    "geom:area_square_m":180262698.882118,
+    "geom:area_square_m":180262698.882132,
     "geom:bbox":"31.685662,26.34169,31.868789,26.562953",
     "geom:latitude":26.44031,
     "geom:longitude":31.772766,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897295,
-    "wof:geomhash":"2448c4133e6da80776f8a3d6c8296192",
+    "wof:geomhash":"a718417b03835300b0676a08eb5b206e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018599,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886553,
     "wof:name":"El-Monshaeh",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004961,
-    "geom:area_square_m":53063258.92946,
+    "geom:area_square_m":53063258.929479,
     "geom:bbox":"31.095365,30.063282,31.196223,30.173249",
     "geom:latitude":30.1236,
     "geom:longitude":31.145679,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.WR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897469,
-    "wof:geomhash":"19f7631b91dce697d07da380be9fb440",
+    "wof:geomhash":"cafbcd499fb60b0290a57cc737590ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092023283,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886573,
     "wof:name":"Oseem",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

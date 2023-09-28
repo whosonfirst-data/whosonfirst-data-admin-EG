@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00107,
-    "geom:area_square_m":11346291.072891,
+    "geom:area_square_m":11346291.072893,
     "geom:bbox":"31.139606,30.973268,31.186225,31.005365",
     "geom:latitude":30.987505,
     "geom:longitude":31.161307,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.GH.MF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897550,
-    "wof:geomhash":"6e7f06176700bafb4935fb5023e484da",
+    "wof:geomhash":"68cb8bfb35c89b4d8dc1d008cae76e77",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092025637,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886566,
     "wof:name":"Tany El-Mahallah El-Kobra",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

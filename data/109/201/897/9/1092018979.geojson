@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001711,
-    "geom:area_square_m":18201264.101297,
+    "geom:area_square_m":18201264.101295,
     "geom:bbox":"31.441199,30.614429,31.502196,30.66181",
     "geom:latitude":30.635853,
     "geom:longitude":31.469554,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897308,
-    "wof:geomhash":"c57f7f94bf45d5ab90340e8af6f4a480",
+    "wof:geomhash":"7a7aa806b08c5cc3c2d49bcb513d121c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092018979,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886562,
     "wof:name":"El-Qanayat",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

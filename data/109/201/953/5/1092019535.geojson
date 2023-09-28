@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003674,
-    "geom:area_square_m":39280731.584144,
+    "geom:area_square_m":39280731.584146,
     "geom:bbox":"31.360538,30.135735,31.465639,30.192982",
     "geom:latitude":30.167781,
     "geom:longitude":31.415219,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897328,
-    "wof:geomhash":"8b2c47d90bcd4b5f8c0a3ad83b5f4e96",
+    "wof:geomhash":"dba39819f1b3b34320d93e5ef7d623de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019535,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886567,
     "wof:name":"El-Salam",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

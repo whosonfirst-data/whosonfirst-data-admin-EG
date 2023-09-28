@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158529,
-    "geom:area_square_m":1682884959.351387,
+    "geom:area_square_m":1682884959.351491,
     "geom:bbox":"31.699813,30.549899,32.213823,31.130349",
     "geom:latitude":30.850183,
     "geom:longitude":32.019378,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.HE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897267,
-    "wof:geomhash":"dbcacae9f39b946ffc8ed12ec55a76e8",
+    "wof:geomhash":"94036d9437973f060b89673e3c006e51",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018091,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886565,
     "wof:name":"El-Hoseineyah",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

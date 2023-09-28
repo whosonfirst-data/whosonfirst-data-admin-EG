@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.300166,
-    "geom:area_square_m":3240098875.302201,
+    "geom:area_square_m":3240098875.30218,
     "geom:bbox":"32.814547,28.951589,33.782235,29.395746",
     "geom:latitude":29.194804,
     "geom:longitude":33.34349,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JS.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897130,
-    "wof:geomhash":"17ba4facc11838f355685959eb1d658e",
+    "wof:geomhash":"faf0b86660048a091235e89d009eb789",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092014403,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886551,
     "wof:name":"Abu Zeneimah",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

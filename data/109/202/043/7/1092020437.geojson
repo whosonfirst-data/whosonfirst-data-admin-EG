@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.ZM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897360,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"86025deaf599267a7ccc1b21874aff6c",
+    "wof:geomhash":"cdd077a2d53f273dc3abe220e898ec33",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092020437,
-    "wof:lastmodified":1627522104,
+    "wof:lastmodified":1695886577,
     "wof:name":"El-Zamalek",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015074,
-    "geom:area_square_m":160437048.659783,
+    "geom:area_square_m":160437048.659806,
     "geom:bbox":"30.788554,30.519118,30.955402,30.67575",
     "geom:latitude":30.598084,
     "geom:longitude":30.864176,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MF.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897343,
-    "wof:geomhash":"4611ccefa2362f328ceea6dc3d5ee1f4",
+    "wof:geomhash":"82c75d95a6982a68628883072c055983",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019949,
-    "wof:lastmodified":1627522102,
+    "wof:lastmodified":1695886574,
     "wof:name":"El-Shohada",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

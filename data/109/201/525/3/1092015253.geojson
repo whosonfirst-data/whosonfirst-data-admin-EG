@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01714,
-    "geom:area_square_m":182705025.04281,
+    "geom:area_square_m":182705025.042857,
     "geom:bbox":"31.094429,30.368985,31.310865,30.536084",
     "geom:latitude":30.449201,
     "geom:longitude":31.20466,
@@ -164,9 +164,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QL.BM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897167,
-    "wof:geomhash":"88f98625ecbfd3b1b94a9a6205988813",
+    "wof:geomhash":"b2382596762faf6d86cdd6811a55ce53",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092015253,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1695886295,
     "wof:name":"Banha",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

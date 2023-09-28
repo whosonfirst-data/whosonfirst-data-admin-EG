@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001886,
-    "geom:area_square_m":20068703.567295,
+    "geom:area_square_m":20068703.567306,
     "geom:bbox":"32.244506,30.58639,32.320217,30.640875",
     "geom:latitude":30.622371,
     "geom:longitude":32.277254,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IS.IS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897549,
-    "wof:geomhash":"4d91c280a1bdf664bd52ce7700e965c4",
+    "wof:geomhash":"58473843de88a0416881416b7385fa98",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092025591,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886554,
     "wof:name":"Tany El-Esmailiah",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

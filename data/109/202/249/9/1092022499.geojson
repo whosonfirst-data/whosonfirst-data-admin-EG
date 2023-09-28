@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001314,
-    "geom:area_square_m":13899900.46725,
+    "geom:area_square_m":13899900.467239,
     "geom:bbox":"29.838403,31.13082,29.891645,31.185802",
     "geom:latitude":31.156478,
     "geom:longitude":29.865961,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897441,
-    "wof:geomhash":"657626c158ba075103e55bee3c1f4bac",
+    "wof:geomhash":"2dee21639c50dab46282fab00820d167",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092022499,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886572,
     "wof:name":"Mina El-Basal",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

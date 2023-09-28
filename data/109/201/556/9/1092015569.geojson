@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032443,
-    "geom:area_square_m":345954518.237397,
+    "geom:area_square_m":345954518.237392,
     "geom:bbox":"31.393174,30.311097,31.672745,30.515478",
     "geom:latitude":30.414979,
     "geom:longitude":31.534847,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897178,
-    "wof:geomhash":"3944342423861cb74d28ca69e9a8d57c",
+    "wof:geomhash":"0f1a70cc50af1811be2de198b7548b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092015569,
-    "wof:lastmodified":1627522090,
+    "wof:lastmodified":1695886557,
     "wof:name":"Belbeis",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

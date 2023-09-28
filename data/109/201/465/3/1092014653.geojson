@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012302,
-    "geom:area_square_m":132558177.223621,
+    "geom:area_square_m":132558177.223673,
     "geom:bbox":"31.196991,29.192731,31.297943,29.488074",
     "geom:latitude":29.371349,
     "geom:longitude":31.245467,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897145,
-    "wof:geomhash":"748bfefb87551c16c8774ed7d7651c56",
+    "wof:geomhash":"656495d8dc9575d85f2cdda7ba9f1c96",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092014653,
-    "wof:lastmodified":1627522089,
+    "wof:lastmodified":1695886555,
     "wof:name":"Atfeeh",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

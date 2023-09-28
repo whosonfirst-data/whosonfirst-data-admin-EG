@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028818,
-    "geom:area_square_m":315322301.743303,
+    "geom:area_square_m":315322301.743244,
     "geom:bbox":"30.690718,27.642258,30.903162,27.879364",
     "geom:latitude":27.762713,
     "geom:longitude":30.788327,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MN.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897423,
-    "wof:geomhash":"c4084a1d2a40e406fa02896f4cb07811",
+    "wof:geomhash":"303513564ffb0b7abfbc02722abdc61e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1092022005,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886571,
     "wof:name":"Mallawy",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

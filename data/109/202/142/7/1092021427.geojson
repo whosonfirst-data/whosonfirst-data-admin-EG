@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004349,
-    "geom:area_square_m":46641541.295028,
+    "geom:area_square_m":46641541.29504,
     "geom:bbox":"31.280477,29.802747,31.350522,29.927879",
     "geom:latitude":29.859512,
     "geom:longitude":31.310512,
@@ -161,9 +161,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.HW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897400,
-    "wof:geomhash":"f410a68dd14e1794365bee52a4ce69bb",
+    "wof:geomhash":"fbe1c83854f83bb4a9e4133676d6d8b5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":1092021427,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1695886295,
     "wof:name":"Helwan",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

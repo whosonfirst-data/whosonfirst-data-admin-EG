@@ -47,6 +47,7 @@
     "wof:concordances":{
         "hasc:id":"EG.MF.EC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897462,
     "wof:geomhash":"5a209b6caed2b0db0099d23004c2e8b7",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":1092023063,
-    "wof:lastmodified":1694492371,
+    "wof:lastmodified":1695886647,
     "wof:name":"",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

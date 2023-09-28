@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011828,
-    "geom:area_square_m":130282769.338387,
+    "geom:area_square_m":130282769.338385,
     "geom:bbox":"31.219824,26.940401,31.358801,27.110361",
     "geom:latitude":27.025213,
     "geom:longitude":31.280538,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897127,
-    "wof:geomhash":"ff704e90a58777d48d031578165fd52e",
+    "wof:geomhash":"ed20e9943d20555a7ffa1174e592cce9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092014313,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886550,
     "wof:name":"Abu Teeg",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016052,
-    "geom:area_square_m":169818928.044918,
+    "geom:area_square_m":169818928.044963,
     "geom:bbox":"30.41888,31.102827,30.610759,31.277271",
     "geom:latitude":31.178652,
     "geom:longitude":30.500119,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897278,
-    "wof:geomhash":"6c296d3f99d8ee754f30da67f30ccc0f",
+    "wof:geomhash":"3b029e1dc7e8e72fc48aedca0ecc1787",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018277,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886569,
     "wof:name":"El-Mahmoudeyah",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

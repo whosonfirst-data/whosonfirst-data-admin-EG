@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023753,
-    "geom:area_square_m":257382185.51524,
+    "geom:area_square_m":257382185.515261,
     "geom:bbox":"30.731772,28.698053,30.92236,28.891504",
     "geom:latitude":28.799146,
     "geom:longitude":30.839068,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BN.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897250,
-    "wof:geomhash":"dc729d2f90696d104f21f9f17287a1d7",
+    "wof:geomhash":"6c50633bfe9116ea13af45d02d3a62b8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017627,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886552,
     "wof:name":"El-Fashn",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

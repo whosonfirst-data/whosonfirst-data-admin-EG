@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015893,
-    "geom:area_square_m":169460817.492808,
+    "geom:area_square_m":169460817.492815,
     "geom:bbox":"30.970097,30.334985,31.146161,30.488418",
     "geom:latitude":30.420252,
     "geom:longitude":31.056637,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MF.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897231,
-    "wof:geomhash":"1b5f3c780938984642b9ad64dc6bc327",
+    "wof:geomhash":"3d0859578fbf57bdf5a2a5735f2d0550",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017065,
-    "wof:lastmodified":1627522094,
+    "wof:lastmodified":1695886564,
     "wof:name":"El-Bagoor",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000509,
-    "geom:area_square_m":5448330.778541,
+    "geom:area_square_m":5448330.77854,
     "geom:bbox":"31.189758,30.044995,31.219006,30.07301",
     "geom:latitude":30.059846,
     "geom:longitude":31.203534,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897213,
-    "wof:geomhash":"235146a9af537a059aa2e834d42af89a",
+    "wof:geomhash":"2cf8491e35263ddcc10c29d1b0b80e9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016545,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886551,
     "wof:name":"El-Agouzah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

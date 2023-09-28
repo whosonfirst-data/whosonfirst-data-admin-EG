@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002079,
-    "geom:area_square_m":22279529.567579,
+    "geom:area_square_m":22279529.567584,
     "geom:bbox":"31.22139,29.86841,31.28294,29.93379",
     "geom:latitude":29.903596,
     "geom:longitude":31.25964,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897266,
-    "wof:geomhash":"352e63a4e368d03dc4b0043254bc9e5a",
+    "wof:geomhash":"d6ebb46b1fd1fdd57513aea7834a440c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018065,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886552,
     "wof:name":"El-Hawamdeyah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

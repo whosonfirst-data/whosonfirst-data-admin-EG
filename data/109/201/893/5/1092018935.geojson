@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010499,
-    "geom:area_square_m":112184302.588285,
+    "geom:area_square_m":112184302.588226,
     "geom:bbox":"31.087954,30.127512,31.234319,30.297316",
     "geom:latitude":30.218425,
     "geom:longitude":31.149799,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QL.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897306,
-    "wof:geomhash":"3fbdc4322dcfc5c952ac9bfc4c7b39f5",
+    "wof:geomhash":"70ced24595e6e3e56d3fbdf1c2cacde2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018935,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886572,
     "wof:name":"El-Qanater El-Khaireyah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

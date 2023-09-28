@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010589,
-    "geom:area_square_m":118050958.82186,
+    "geom:area_square_m":118050958.821882,
     "geom:bbox":"32.434914,25.526976,32.590052,25.686952",
     "geom:latitude":25.625841,
     "geom:longitude":32.503418,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"EG.UQ.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897138,
-    "wof:geomhash":"37a7a0a8ed59fd4daba344862fc0bf97",
+    "wof:geomhash":"add3927223a47bb46592dce4fd0ec1f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1092014573,
-    "wof:lastmodified":1627522089,
+    "wof:lastmodified":1695886555,
     "wof:name":"Armant",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

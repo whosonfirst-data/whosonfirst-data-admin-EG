@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01786,
-    "geom:area_square_m":193248467.710559,
+    "geom:area_square_m":193248467.710613,
     "geom:bbox":"30.862721,28.849639,31.064372,29.037111",
     "geom:latitude":28.949885,
     "geom:longitude":30.963044,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BN.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897172,
-    "wof:geomhash":"7fed350bfe74c1829ce6961cc2e53f0a",
+    "wof:geomhash":"6d22dd6d1b8b6d7e667f8e95db8edac2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092015415,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1695886295,
     "wof:name":"Beba",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008506,
-    "geom:area_square_m":92487689.677959,
+    "geom:area_square_m":92487689.677952,
     "geom:bbox":"28.709923,28.369773,29.105284,28.593464",
     "geom:latitude":28.442395,
     "geom:longitude":28.856477,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.WB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897350,
-    "wof:geomhash":"a4de9080b95347133b92798f3908887b",
+    "wof:geomhash":"c9304b62c0874830e270aaef2246c2b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1092020155,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886554,
     "wof:name":"El-Wahat El-Bahareyah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

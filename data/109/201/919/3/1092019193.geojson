@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.091302,
-    "geom:area_square_m":12169417235.82679,
+    "geom:area_square_m":12169417235.82667,
     "geom:bbox":"33.341598,25.101429,34.815631,26.228186",
     "geom:latitude":25.598524,
     "geom:longitude":34.016486,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BA.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897316,
-    "wof:geomhash":"e5f375bda3093b55b546fc19ac1385b3",
+    "wof:geomhash":"9836cee72d96b9158fb1a52b8d0cad96",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019193,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886563,
     "wof:name":"El-Qoseir",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

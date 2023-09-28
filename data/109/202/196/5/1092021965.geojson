@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021462,
-    "geom:area_square_m":232948316.491353,
+    "geom:area_square_m":232948316.491337,
     "geom:bbox":"30.640219,28.539726,30.895778,28.721539",
     "geom:latitude":28.622303,
     "geom:longitude":30.783684,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MN.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897422,
-    "wof:geomhash":"e2df2aca947dda2266e5ddfb234ac32d",
+    "wof:geomhash":"4ac5f665d267226ed75a9a5eea53b1ab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092021965,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886570,
     "wof:name":"Maghaghah",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

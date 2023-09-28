@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025054,
-    "geom:area_square_m":264511189.024237,
+    "geom:area_square_m":264511189.024255,
     "geom:bbox":"31.483703,31.272914,31.793255,31.453329",
     "geom:latitude":31.371803,
     "geom:longitude":31.629888,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DT.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897410,
-    "wof:geomhash":"f910d753e4d608f7bfed7a16e1043058",
+    "wof:geomhash":"050824e5c17f301533e41f81de6a9d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092021673,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886570,
     "wof:name":"Kafr Sa'd",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

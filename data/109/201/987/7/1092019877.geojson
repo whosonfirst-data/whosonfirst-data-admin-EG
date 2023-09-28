@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000293,
-    "geom:area_square_m":3093626.914733,
+    "geom:area_square_m":3093626.914734,
     "geom:bbox":"32.288192,31.243959,32.317122,31.27355",
     "geom:latitude":31.26112,
     "geom:longitude":32.301958,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BS.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897340,
-    "wof:geomhash":"f84e8f0fbfe41b0b38956f476036c6ea",
+    "wof:geomhash":"f0cdef8f7c944572e776b3fc8c98a359",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092019877,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886567,
     "wof:name":"El-Sharq",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

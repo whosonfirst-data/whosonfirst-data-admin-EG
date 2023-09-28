@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019042,
-    "geom:area_square_m":205760608.421129,
+    "geom:area_square_m":205760608.421113,
     "geom:bbox":"30.863125,28.99184,31.016144,29.19975",
     "geom:latitude":29.088008,
     "geom:longitude":30.936695,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BN.AH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897133,
-    "wof:geomhash":"c6669a300c2128aea56ab4e7e19239a0",
+    "wof:geomhash":"7965712f655aa73921bfe8add07728d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092014481,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886551,
     "wof:name":"Ahnasya",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

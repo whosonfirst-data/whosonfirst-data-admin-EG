@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020649,
-    "geom:area_square_m":219385515.187308,
+    "geom:area_square_m":219385515.187355,
     "geom:bbox":"31.032088,30.665896,31.177695,30.882324",
     "geom:latitude":30.76843,
     "geom:longitude":31.114099,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.GH.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897332,
-    "wof:geomhash":"335a8dafd73298e08c804d1e71407217",
+    "wof:geomhash":"0d2c0fbacbe7d788da80cd9df089383f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019649,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886563,
     "wof:name":"El-Santah",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

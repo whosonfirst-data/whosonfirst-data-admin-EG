@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009129,
-    "geom:area_square_m":97378082.219021,
+    "geom:area_square_m":97378082.219034,
     "geom:bbox":"32.273777,30.250081,32.432129,30.508038",
     "geom:latitude":30.379333,
     "geom:longitude":32.328471,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IS.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897380,
-    "wof:geomhash":"1725066c7c0a7961d0be4789bc60bbfc",
+    "wof:geomhash":"71083b7d20627d541be7a559bed885e4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1092020945,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886568,
     "wof:name":"Fayed",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

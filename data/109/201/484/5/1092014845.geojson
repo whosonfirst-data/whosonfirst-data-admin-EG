@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001531,
-    "geom:area_square_m":16299594.801874,
+    "geom:area_square_m":16299594.801872,
     "geom:bbox":"32.222623,30.573915,32.329128,30.640922",
     "geom:latitude":30.596605,
     "geom:longitude":32.280793,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IS.IF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897152,
-    "wof:geomhash":"d4942dfc83b9bb20c014c22d35bb1303",
+    "wof:geomhash":"e17c56c303cd2b1bd5619a509ce999dd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092014845,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886551,
     "wof:name":"Awel El-Esmailiah",
     "wof:parent_id":85670989,
     "wof:placetype":"county",

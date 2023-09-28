@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000463,
-    "geom:area_square_m":4955642.087996,
+    "geom:area_square_m":4955642.087994,
     "geom:bbox":"31.265668,30.070322,31.293783,30.108688",
     "geom:latitude":30.090817,
     "geom:longitude":31.281813,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.QB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897394,
-    "wof:geomhash":"528a952de38a080e1a4ec278dd28c684",
+    "wof:geomhash":"6f28aea46d9ef6d1f8e0cd63e9b0015c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092021275,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886569,
     "wof:name":"Hadayeq El-Qobbah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

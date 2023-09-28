@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1729085.09041,
+    "geom:area_square_m":1729085.090409,
     "geom:bbox":"29.880591,31.173361,29.895291,31.193228",
     "geom:latitude":31.183494,
     "geom:longitude":29.887399,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897274,
-    "wof:geomhash":"9ce19e495e180baedc8a568300292a8d",
+    "wof:geomhash":"fd2f58e26f69b8ab811cceb293fd2185",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092018161,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886566,
     "wof:name":"El-Labban",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

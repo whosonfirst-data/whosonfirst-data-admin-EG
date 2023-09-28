@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007031,
-    "geom:area_square_m":74173816.605317,
+    "geom:area_square_m":74173816.605313,
     "geom:bbox":"31.635227,31.40821,31.789768,31.479953",
     "geom:latitude":31.440419,
     "geom:longitude":31.706088,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DT.DJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897203,
-    "wof:geomhash":"5a6061f29f029d9f295647d0e51c567c",
+    "wof:geomhash":"fa2b1254759f972127f6b6542f4341eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016271,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886560,
     "wof:name":"Domiat El-Gedidah City",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050763,
-    "geom:area_square_m":537443281.825305,
+    "geom:area_square_m":537443281.825266,
     "geom:bbox":"30.141745,30.951081,30.510316,31.241753",
     "geom:latitude":31.106127,
     "geom:longitude":30.310873,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.AH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897121,
-    "wof:geomhash":"61c09ae64c2815dd620bdb29d290f6ee",
+    "wof:geomhash":"5d91410032295ee3aacff5b6306500bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092014133,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886550,
     "wof:name":"Abu Homos",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

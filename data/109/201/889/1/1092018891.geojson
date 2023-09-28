@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001816,
-    "geom:area_square_m":19443405.985298,
+    "geom:area_square_m":19443405.985292,
     "geom:bbox":"31.14532,29.968127,31.209251,30.015762",
     "geom:latitude":29.993369,
     "geom:longitude":31.180647,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897305,
-    "wof:geomhash":"ea73bc7348069f0fe112fe1858942129",
+    "wof:geomhash":"b2bc1994114e4c897177c9f8fa0afdcb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018891,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886562,
     "wof:name":"El-Omraneyah",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

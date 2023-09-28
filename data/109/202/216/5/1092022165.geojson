@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006817,
-    "geom:area_square_m":72718340.649644,
+    "geom:area_square_m":72718340.649662,
     "geom:bbox":"31.330107,30.294237,31.42634,30.431722",
     "geom:latitude":30.374697,
     "geom:longitude":31.378658,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897429,
-    "wof:geomhash":"57d41463c51adcd1327c1c9e76f28221",
+    "wof:geomhash":"127473efd971706c0b84fce1687b0e8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092022165,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886571,
     "wof:name":"Mashtool El-Sooq",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

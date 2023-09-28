@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001366,
-    "geom:area_square_m":14898880.067314,
+    "geom:area_square_m":14898880.067316,
     "geom:bbox":"30.792605,28.088084,30.821329,28.136304",
     "geom:latitude":28.112037,
     "geom:longitude":30.806798,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.UO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897292,
-    "wof:geomhash":"f6f2c28ab8e84990d50ec5de8f457d9b",
+    "wof:geomhash":"74e5cbba51d7c965a8819059cd39f190",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092018513,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886566,
     "wof:name":"El-Menya El-Gedidah",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

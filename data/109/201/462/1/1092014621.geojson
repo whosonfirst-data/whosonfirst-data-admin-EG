@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028903,
-    "geom:area_square_m":308561274.015816,
+    "geom:area_square_m":308561274.015833,
     "geom:bbox":"30.820313,30.199385,31.115134,30.397067",
     "geom:latitude":30.302495,
     "geom:longitude":30.993887,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MF.AS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897139,
-    "wof:geomhash":"105499fbbea16b838dc82c6be5f1d85f",
+    "wof:geomhash":"e1ef460931929a7b8d47e9d2f6faec75",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092014621,
-    "wof:lastmodified":1627522089,
+    "wof:lastmodified":1695886555,
     "wof:name":"Ashmoon",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

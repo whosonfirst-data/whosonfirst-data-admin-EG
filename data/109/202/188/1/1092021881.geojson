@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140727,
-    "geom:area_square_m":1497381387.96159,
+    "geom:area_square_m":1497381387.961581,
     "geom:bbox":"30.187498,30.376243,30.850735,30.830342",
     "geom:latitude":30.625431,
     "geom:longitude":30.579736,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897419,
-    "wof:geomhash":"0352cdf2fc36ecdb7f7824be233f9b11",
+    "wof:geomhash":"2f19e2fd44b092edd1af339d4fb517b8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092021881,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886570,
     "wof:name":"Koum Hamadah",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

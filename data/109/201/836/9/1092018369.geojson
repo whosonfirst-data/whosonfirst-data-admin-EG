@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897281,
-    "wof:geomhash":"74107e26db8a745ff527ef3e9476b423",
+    "wof:geomhash":"56e6a251eadcda5df4293f89b40ebd79",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018369,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886566,
     "wof:name":"El-Mansheyah",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

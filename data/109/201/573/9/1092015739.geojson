@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045937,
-    "geom:area_square_m":487439109.566902,
+    "geom:area_square_m":487439109.566896,
     "geom:bbox":"29.356734,30.74717,29.720388,31.05528",
     "geom:latitude":30.893316,
     "geom:longitude":29.536286,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897184,
-    "wof:geomhash":"7d669d90f8ba72fd5fd4614b6f7607b6",
+    "wof:geomhash":"c8841719e45807ce0043a5f319742e7c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092015739,
-    "wof:lastmodified":1627522090,
+    "wof:lastmodified":1695886558,
     "wof:name":"Borg El-Arab",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015511,
-    "geom:area_square_m":174503921.573932,
+    "geom:area_square_m":174503921.573918,
     "geom:bbox":"32.914789,24.354221,33.130493,24.656529",
     "geom:latitude":24.518759,
     "geom:longitude":33.008547,
@@ -104,9 +104,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AN.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897455,
-    "wof:geomhash":"ebf23c128c1cf7ff949c89e39bb750a7",
+    "wof:geomhash":"67558b002f513c36d60184e2bff59671",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092022867,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1695886295,
     "wof:name":"Nasr",
     "wof:parent_id":85671061,
     "wof:placetype":"county",

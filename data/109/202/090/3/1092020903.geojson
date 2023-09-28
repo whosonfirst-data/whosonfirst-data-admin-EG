@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005798,
-    "geom:area_square_m":64415252.238586,
+    "geom:area_square_m":64415252.238599,
     "geom:bbox":"32.106914,25.996412,32.195846,26.106375",
     "geom:latitude":26.04944,
     "geom:longitude":32.15636,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QN.FR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897379,
-    "wof:geomhash":"1684b4879af2eebfacdb90d21ccbfd79",
+    "wof:geomhash":"e80e2733607783d00118888909c6ffa8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092020903,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886568,
     "wof:name":"Farshoot",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

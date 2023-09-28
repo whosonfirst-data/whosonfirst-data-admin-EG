@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006208,
-    "geom:area_square_m":65649033.231354,
+    "geom:area_square_m":65649033.231349,
     "geom:bbox":"31.82248,31.142936,31.9001,31.2915",
     "geom:latitude":31.221402,
     "geom:longitude":31.852625,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897256,
-    "wof:geomhash":"4e42f172345c7d29bb6da5bc64aac3b3",
+    "wof:geomhash":"89a9f1f5ddbaf300b29735a9ef810015",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017797,
-    "wof:lastmodified":1627522094,
+    "wof:lastmodified":1695886565,
     "wof:name":"El-Gamaleyah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

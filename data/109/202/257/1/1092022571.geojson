@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000455,
-    "geom:area_square_m":4867010.99974,
+    "geom:area_square_m":4867010.999739,
     "geom:bbox":"31.261002,30.031783,31.296617,30.057769",
     "geom:latitude":30.045099,
     "geom:longitude":31.281746,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897444,
-    "wof:geomhash":"4d02955f6a5c8cbdfe85c464091777dd",
+    "wof:geomhash":"b828b5be64b7058bdeb7f13cd7249145",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092022571,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886572,
     "wof:name":"Monshaet Naser",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

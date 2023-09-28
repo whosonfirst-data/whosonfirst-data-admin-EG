@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003463,
-    "geom:area_square_m":36626667.125331,
+    "geom:area_square_m":36626667.125346,
     "geom:bbox":"31.979506,31.166839,32.061477,31.242063",
     "geom:latitude":31.200333,
     "geom:longitude":32.01655,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897291,
-    "wof:geomhash":"80e031bd9c1624190337daa8e4341578",
+    "wof:geomhash":"485247928064647ccf38f7f40e00c69b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018479,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886553,
     "wof:name":"El-Matareyah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006488,
-    "geom:area_square_m":68604989.502889,
+    "geom:area_square_m":68604989.502871,
     "geom:bbox":"31.592035,31.1673,31.773278,31.267033",
     "geom:latitude":31.226837,
     "geom:longitude":31.675044,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DT.ZR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897363,
-    "wof:geomhash":"ca2d8117afdd896fc1f12df41e83e78a",
+    "wof:geomhash":"1c773d7108dff4de2104fc5002e5eb7b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020509,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886554,
     "wof:name":"El-Zarqah",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

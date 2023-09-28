@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055132,
-    "geom:area_square_m":581953211.488371,
+    "geom:area_square_m":581953211.488356,
     "geom:bbox":"30.947347,31.226281,31.233098,31.546501",
     "geom:latitude":31.387455,
     "geom:longitude":31.099857,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.KS.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897263,
-    "wof:geomhash":"4e1bc4201578b654101c5934f84b12d9",
+    "wof:geomhash":"e9e2c5ec9e6e120cd03bf6199dd511fb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017993,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886565,
     "wof:name":"El-Hamool",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

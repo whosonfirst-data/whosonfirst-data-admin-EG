@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004945,
-    "geom:area_square_m":54958270.077013,
+    "geom:area_square_m":54958270.076997,
     "geom:bbox":"32.776758,25.943171,32.849786,26.053207",
     "geom:latitude":26.000577,
     "geom:longitude":32.812271,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QN.QA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897374,
-    "wof:geomhash":"98a59e7c55c1a4bbcb371dd9b2fbf018",
+    "wof:geomhash":"b389fdd2606a3689fe901e1c6303cf9c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092020789,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886567,
     "wof:name":"Faqat",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029595,
-    "geom:area_square_m":313137115.904026,
+    "geom:area_square_m":313137115.903993,
     "geom:bbox":"30.609319,31.00866,30.810069,31.284308",
     "geom:latitude":31.162997,
     "geom:longitude":30.718588,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.KS.DM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897200,
-    "wof:geomhash":"a21bddf703023d5e41905ecc6057108d",
+    "wof:geomhash":"53110069a3a942cb78b6896976d74f16",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092016203,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886559,
     "wof:name":"Desooq",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

@@ -69,7 +69,7 @@
     "wof:concordances":{},
     "wof:country":"EG",
     "wof:created":1473897204,
-    "wof:geomhash":"4ad589ecf33e35d85fc8762722165ae8",
+    "wof:geomhash":"10cc491b718ec52c203ed342facf3980",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1092016319,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886560,
     "wof:name":"Domiat El-Gedidah Port",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

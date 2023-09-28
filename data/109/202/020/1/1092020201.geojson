@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":21.042836,
-    "geom:area_square_m":237362581081.583252,
+    "geom:area_square_m":237362581081.583496,
     "geom:bbox":"25.0,22.0,30.196317,26.288819",
     "geom:latitude":24.153939,
     "geom:longitude":27.455035,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.WJ.WD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897351,
-    "wof:geomhash":"3896baf2ef78e6f3fad914b0a07982b1",
+    "wof:geomhash":"b2ec4f615d3414d25f4194ad1827dce1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020201,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886554,
     "wof:name":"El-Wahat El-Dakhlah",
     "wof:parent_id":85671071,
     "wof:placetype":"county",

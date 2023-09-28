@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2657825.111474,
+    "geom:area_square_m":2657825.111471,
     "geom:bbox":"29.852968,31.186392,29.890428,31.213183",
     "geom:latitude":31.19905,
     "geom:longitude":29.875414,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897260,
-    "wof:geomhash":"027f02a3d26e6309543908c81da8ae5e",
+    "wof:geomhash":"0665713c9111fe46b82ecf4fe7601bb0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092017917,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886561,
     "wof:name":"El-Gomrok",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

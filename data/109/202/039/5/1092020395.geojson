@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019047,
-    "geom:area_square_m":205388232.095113,
+    "geom:area_square_m":205388232.095183,
     "geom:bbox":"31.040012,29.213097,31.231901,29.429033",
     "geom:latitude":29.300167,
     "geom:longitude":31.1614,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BN.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897359,
-    "wof:geomhash":"1342470c34c34ff4a94b903a538a9c09",
+    "wof:geomhash":"b06c5e081377bc34a8f93073c577f9c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020395,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886563,
     "wof:name":"El-Wasty",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

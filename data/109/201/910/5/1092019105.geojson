@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002036,
-    "geom:area_square_m":21660796.288482,
+    "geom:area_square_m":21660796.288483,
     "geom:bbox":"31.719023,30.590606,31.780502,30.646721",
     "geom:latitude":30.622642,
     "geom:longitude":31.747594,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897313,
-    "wof:geomhash":"0272d47c5832e6d2a45edc34ec566e5c",
+    "wof:geomhash":"f2950a3214471fa3650b0cd83ba11623",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019105,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886566,
     "wof:name":"El-Qareen",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

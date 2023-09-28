@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009238,
-    "geom:area_square_m":97683265.148103,
+    "geom:area_square_m":97683265.148108,
     "geom:bbox":"30.499851,31.169492,30.670279,31.282797",
     "geom:latitude":31.226457,
     "geom:longitude":30.579152,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.KS.FO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897385,
-    "wof:geomhash":"14a08a76e50ac8130b8b75528d9e2f6a",
+    "wof:geomhash":"1632a4bba914b61b889b1531755892be",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092021045,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886568,
     "wof:name":"Fowah",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

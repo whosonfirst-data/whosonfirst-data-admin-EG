@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1453896.722851,
+    "geom:area_square_m":1453896.72285,
     "geom:bbox":"31.25025,30.035707,31.269599,30.049341",
     "geom:latitude":30.042426,
     "geom:longitude":31.258862,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897241,
-    "wof:geomhash":"0def2610fb73922d6c97828875709b1b",
+    "wof:geomhash":"b59de8478365629b0c90fe0fa836be0b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017359,
-    "wof:lastmodified":1627522094,
+    "wof:lastmodified":1695886565,
     "wof:name":"El-Darb El-Ahmar",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

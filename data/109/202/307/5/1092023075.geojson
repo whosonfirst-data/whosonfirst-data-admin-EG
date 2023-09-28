@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052936,
-    "geom:area_square_m":560662304.973546,
+    "geom:area_square_m":560662304.973597,
     "geom:bbox":"32.298806,30.916778,32.592786,31.273291",
     "geom:latitude":31.07052,
     "geom:longitude":32.414037,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BS.EM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897462,
-    "wof:geomhash":"76b994d2a7b8bccf03c4138637ef4256",
+    "wof:geomhash":"0e19dfd0d3797e1fd8b57ad8532924bc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092023075,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886573,
     "wof:name":"Mubarak - Sharq at-Tafri'tah",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

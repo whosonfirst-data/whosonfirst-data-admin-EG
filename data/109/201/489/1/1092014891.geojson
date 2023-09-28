@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001027,
-    "geom:area_square_m":10890137.524954,
+    "geom:area_square_m":10890137.524951,
     "geom:bbox":"31.128885,30.941001,31.186509,30.974376",
     "geom:latitude":30.95985,
     "geom:longitude":31.160757,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.GH.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897153,
-    "wof:geomhash":"6c03ae3d6a5267cbe9988a6cb44126d3",
+    "wof:geomhash":"9be2cc832298a89d437a213c69ad5f50",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092014891,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886565,
     "wof:name":"Awel El-Mahallah El-Kobra",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

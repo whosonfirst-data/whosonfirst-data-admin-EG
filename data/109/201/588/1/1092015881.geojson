@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104064,
-    "geom:area_square_m":1130926800.83633,
+    "geom:area_square_m":1130926800.836231,
     "geom:bbox":"34.197204,28.225245,34.610207,28.710204",
     "geom:latitude":28.490199,
     "geom:longitude":34.38647,
@@ -158,9 +158,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JS.DH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897188,
-    "wof:geomhash":"4f313403a8cbd39ff02429452f325f45",
+    "wof:geomhash":"298ac986b14c46107eb5c9650bbc9e85",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1092015881,
-    "wof:lastmodified":1602720862,
+    "wof:lastmodified":1695886295,
     "wof:name":"Dahab",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028857,
-    "geom:area_square_m":305687614.982905,
+    "geom:area_square_m":305687614.982914,
     "geom:bbox":"33.806638,30.927456,33.968691,31.174338",
     "geom:latitude":31.056337,
     "geom:longitude":33.879318,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SS.SZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897484,
-    "wof:geomhash":"4af4f9a7a88297f399acd3048d44cdcc",
+    "wof:geomhash":"537a41bf1d3f6b02536a2a7d69d82a67",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092023715,
-    "wof:lastmodified":1627522101,
+    "wof:lastmodified":1695886573,
     "wof:name":"Rabe' El-Areesh",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

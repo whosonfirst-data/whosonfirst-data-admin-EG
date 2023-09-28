@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003386,
-    "geom:area_square_m":35816206.667605,
+    "geom:area_square_m":35816206.667607,
     "geom:bbox":"29.939814,31.171097,30.046933,31.247042",
     "geom:latitude":31.203223,
     "geom:longitude":29.992125,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.RS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897320,
-    "wof:geomhash":"ae2ea3355922846d4f292aba90c42608",
+    "wof:geomhash":"a0b06649efb5e664481e8851f2814f12",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019315,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886566,
     "wof:name":"El-Raml",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

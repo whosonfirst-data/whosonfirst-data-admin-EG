@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01341,
-    "geom:area_square_m":147371846.89308,
+    "geom:area_square_m":147371846.89304,
     "geom:bbox":"30.951597,27.216296,31.20304,27.351488",
     "geom:latitude":27.281233,
     "geom:longitude":31.0897,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897116,
-    "wof:geomhash":"b66f3d75d52a1b8cff24d48d0a79821a",
+    "wof:geomhash":"f4f711f9e6051e9a846c8358b58a1d3e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092014043,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886549,
     "wof:name":"Abnoob",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

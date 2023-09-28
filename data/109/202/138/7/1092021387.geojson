@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000825,
-    "geom:area_square_m":8828091.096634,
+    "geom:area_square_m":8828091.096635,
     "geom:bbox":"31.296035,30.075306,31.358685,30.107738",
     "geom:latitude":30.091295,
     "geom:longitude":31.324337,
@@ -152,9 +152,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.HP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897399,
-    "wof:geomhash":"443ec3b8ac41a989a203080fe531632c",
+    "wof:geomhash":"7dbe8e563ac706a94cf387ad2d658557",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":1092021387,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1695886295,
     "wof:name":"Heliopolis",
     "wof:parent_id":85670999,
     "wof:placetype":"county",
