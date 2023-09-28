@@ -1301,6 +1301,7 @@
         "hasc:id":"EG",
         "icao:code":"SU",
         "ioc:id":"EGY",
+        "iso:code":"EG",
         "itu:id":"EGY",
         "loc:id":"n80061791",
         "m49:code":"818",
@@ -1315,6 +1316,7 @@
         "wk:page":"Egypt",
         "wmo:id":"EG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:country_alpha3":"EGY",
     "wof:geom_alt":[
@@ -1338,7 +1340,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639637,
+    "wof:lastmodified":1695881299,
     "wof:name":"Egypt",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
