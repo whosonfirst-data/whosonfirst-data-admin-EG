@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020515,
-    "geom:area_square_m":224950045.991642,
+    "geom:area_square_m":224950045.991625,
     "geom:bbox":"30.668685,27.431744,30.869749,27.615094",
     "geom:latitude":27.527725,
     "geom:longitude":30.77573,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897193,
-    "wof:geomhash":"bb243de6e250cfc5ee4205a71237a78f",
+    "wof:geomhash":"43ac2abaeb4f39fdf9caac3cf660000a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092015987,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886559,
     "wof:name":"Dayroot",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

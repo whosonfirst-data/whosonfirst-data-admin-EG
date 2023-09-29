@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019329,
-    "geom:area_square_m":205288625.2815,
+    "geom:area_square_m":205288625.281521,
     "geom:bbox":"30.753832,30.693485,30.897307,30.913532",
     "geom:latitude":30.801736,
     "geom:longitude":30.82938,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.GH.KZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897408,
-    "wof:geomhash":"bfdf8e7936a20222ed3964b493467bbf",
+    "wof:geomhash":"d4d92bab04cd54e2e2042ee3eb6f9688",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092021623,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886569,
     "wof:name":"Kafr El-Zayyat",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

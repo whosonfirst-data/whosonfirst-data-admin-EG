@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020528,
-    "geom:area_square_m":218114062.627989,
+    "geom:area_square_m":218114062.627969,
     "geom:bbox":"31.365852,30.683793,31.579541,30.830614",
     "geom:latitude":30.762427,
     "geom:longitude":31.458327,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.DN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897196,
-    "wof:geomhash":"639d3bb998b25986fd8bcee4e4171a29",
+    "wof:geomhash":"4e9e11f84436383adb378d8f765ea6d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016079,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886559,
     "wof:name":"Deirab Negm",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

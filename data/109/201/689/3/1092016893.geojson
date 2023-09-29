@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015347,
-    "geom:area_square_m":165048133.904834,
+    "geom:area_square_m":165048133.904838,
     "geom:bbox":"31.171169,29.396489,31.298294,29.728066",
     "geom:latitude":29.574227,
     "geom:longitude":31.238195,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.AY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897225,
-    "wof:geomhash":"ac55025492a1580bb534a5a3dacf1d2e",
+    "wof:geomhash":"2250750cff30f42ee48a4fb1b1526c29",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016893,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886551,
     "wof:name":"El-Ayyat",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

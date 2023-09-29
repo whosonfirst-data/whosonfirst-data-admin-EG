@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001102,
-    "geom:area_square_m":11798758.819441,
+    "geom:area_square_m":11798758.819447,
     "geom:bbox":"31.24883,29.993591,31.29632,30.042083",
     "geom:latitude":30.017398,
     "geom:longitude":31.267711,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897270,
-    "wof:geomhash":"621ff89bc9125f215e033c6cd96bbb43",
+    "wof:geomhash":"059dab9861889b75d5b94b067977686e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018127,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886565,
     "wof:name":"El-Khalifah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

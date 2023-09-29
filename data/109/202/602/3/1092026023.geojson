@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000924,
-    "geom:area_square_m":9859903.852713,
+    "geom:area_square_m":9859903.852714,
     "geom:bbox":"30.156269,30.29301,30.493508,30.473979",
     "geom:latitude":30.377517,
     "geom:longitude":30.365405,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.UO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897563,
-    "wof:geomhash":"8b01a84b1be8d2be7096160fb3f6a749",
+    "wof:geomhash":"aac03f3805c0b010461014ce7e94922a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092026023,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886573,
     "wof:name":"Wady El-Natroon",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

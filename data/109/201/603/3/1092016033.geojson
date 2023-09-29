@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018296,
-    "geom:area_square_m":200425411.207984,
+    "geom:area_square_m":200425411.208009,
     "geom:bbox":"30.66593,27.576852,30.899804,27.704996",
     "geom:latitude":27.636314,
     "geom:longitude":30.781715,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MN.DM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897194,
-    "wof:geomhash":"8ed8b9ffd5fbfb02db6debd58ba703f1",
+    "wof:geomhash":"33c5894abf3891fbdccc5cb429431e1e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016033,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886559,
     "wof:name":"Deir Mowas",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

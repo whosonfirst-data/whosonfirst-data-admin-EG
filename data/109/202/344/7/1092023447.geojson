@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011502,
-    "geom:area_square_m":122920176.98618,
+    "geom:area_square_m":122920176.986209,
     "geom:bbox":"31.151941,30.136277,31.31204,30.279279",
     "geom:latitude":30.204,
     "geom:longitude":31.229014,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QL.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897474,
-    "wof:geomhash":"b9c216b6d865052fad2e095e583454a6",
+    "wof:geomhash":"920633cd17b5add58508ca8f64ae530c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092023447,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886573,
     "wof:name":"Qalyoub",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

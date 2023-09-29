@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.623013,
-    "geom:area_square_m":6695627551.324019,
+    "geom:area_square_m":6695627551.323982,
     "geom:bbox":"32.618492,29.368056,34.017965,29.94119",
     "geom:latitude":29.640019,
     "geom:longitude":33.29189,
@@ -101,9 +101,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JS.RS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897489,
-    "wof:geomhash":"4c5d068c1cf3745bc1f26600391917d4",
+    "wof:geomhash":"68f42ab5cb8eade7c0f8ef2e2fa12981",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092023873,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1695886295,
     "wof:name":"Ras Sedr",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

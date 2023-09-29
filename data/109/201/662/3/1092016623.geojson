@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.940379,
-    "geom:area_square_m":10114300008.083817,
+    "geom:area_square_m":10114300008.083843,
     "geom:bbox":"28.26558,28.774524,29.381569,31.000965",
     "geom:latitude":29.553279,
     "geom:longitude":28.67505,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MT.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897216,
-    "wof:geomhash":"978e07b288f0ac62be03413c9388c81e",
+    "wof:geomhash":"b1da6fba347df71163db1b26557d5add",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092016623,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886562,
     "wof:name":"El-Alamein",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

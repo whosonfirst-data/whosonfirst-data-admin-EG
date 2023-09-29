@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.AZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897227,
-    "wof:geomhash":"91f5b6113c9e6c973bb62cd7bd0241ee",
+    "wof:geomhash":"c86add6da9ec6ce193d083cdeca60eb2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016929,
-    "wof:lastmodified":1627522094,
+    "wof:lastmodified":1695886564,
     "wof:name":"El-Azbakeyah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

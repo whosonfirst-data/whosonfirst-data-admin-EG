@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000462,
-    "geom:area_square_m":4946592.421601,
+    "geom:area_square_m":4946592.421599,
     "geom:bbox":"31.270026,30.057065,31.302597,30.087751",
     "geom:latitude":30.073497,
     "geom:longitude":31.285654,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897354,
-    "wof:geomhash":"be77add3db1766a57546ec90acef681c",
+    "wof:geomhash":"889c1db77cacfa3e995950ef344565aa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020273,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886563,
     "wof:name":"El-Waily",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

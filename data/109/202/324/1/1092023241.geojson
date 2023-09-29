@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.46699,
-    "geom:area_square_m":5036948974.291376,
+    "geom:area_square_m":5036948974.291168,
     "geom:bbox":"33.880823,28.697138,34.906926,29.777964",
     "geom:latitude":29.273866,
     "geom:longitude":34.411174,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JS.NW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897467,
-    "wof:geomhash":"9ce1b1eb7cbcb7f2693cd49bf43e23f1",
+    "wof:geomhash":"d11977cb1e78e3d134f98e1824d75029",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092023241,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886573,
     "wof:name":"Noweiba'",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

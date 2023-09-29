@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017433,
-    "geom:area_square_m":193529566.799504,
+    "geom:area_square_m":193529566.79952,
     "geom:bbox":"31.982322,26.036464,32.183869,26.196891",
     "geom:latitude":26.128177,
     "geom:longitude":32.084324,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QN.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897129,
-    "wof:geomhash":"30c4e8c0da273966d883cec70d3ebdb7",
+    "wof:geomhash":"a9ad1c1d8872e96d6c05f1972f1d832c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1092014357,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886550,
     "wof:name":"Abu Tesht",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

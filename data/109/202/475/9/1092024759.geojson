@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025315,
-    "geom:area_square_m":267588783.788205,
+    "geom:area_square_m":267588783.78825,
     "geom:bbox":"31.452115,31.147338,31.687272,31.364225",
     "geom:latitude":31.25729,
     "geom:longitude":31.552994,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897516,
-    "wof:geomhash":"a26f0ecef6e4e36d64d53721dc188411",
+    "wof:geomhash":"88d763fe69dedb126eed5c053d3a1a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092024759,
-    "wof:lastmodified":1627522102,
+    "wof:lastmodified":1695886575,
     "wof:name":"Sherbeen",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

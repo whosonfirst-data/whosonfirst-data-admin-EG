@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01468,
-    "geom:area_square_m":162066797.401886,
+    "geom:area_square_m":162066797.401813,
     "geom:bbox":"31.331774,26.7065,31.557581,26.844707",
     "geom:latitude":26.772803,
     "geom:longitude":31.459092,
@@ -110,9 +110,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.TM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897532,
-    "wof:geomhash":"91c15aa5ebc2e476e8cf3e0195b05d6a",
+    "wof:geomhash":"502f5422c10ba7cbca8659c661325f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1092025101,
-    "wof:lastmodified":1602720868,
+    "wof:lastmodified":1695886296,
     "wof:name":"Tahta",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

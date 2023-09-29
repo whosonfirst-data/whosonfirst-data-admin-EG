@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026743,
-    "geom:area_square_m":290596751.830006,
+    "geom:area_square_m":290596751.830083,
     "geom:bbox":"30.62761,28.418569,30.873455,28.593324",
     "geom:latitude":28.5052,
     "geom:longitude":30.751507,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MN.BM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897168,
-    "wof:geomhash":"29ac5cd39f2678a5b64ab06e9f2c12ad",
+    "wof:geomhash":"aa65363b688ad7a09ae4efe3b6c39384",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092015295,
-    "wof:lastmodified":1627522090,
+    "wof:lastmodified":1695886557,
     "wof:name":"Bany Mazar",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

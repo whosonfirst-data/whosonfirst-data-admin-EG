@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032226,
-    "geom:area_square_m":350906073.600751,
+    "geom:area_square_m":350906073.600717,
     "geom:bbox":"30.578893,28.162358,30.773581,28.416431",
     "geom:latitude":28.283177,
     "geom:longitude":30.664059,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MN.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897501,
-    "wof:geomhash":"6c590ebaaa00c73ed7d756f95993df5b",
+    "wof:geomhash":"52e5e47cd48cebc20100d0d0b428f3dd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092024217,
-    "wof:lastmodified":1627522101,
+    "wof:lastmodified":1695886574,
     "wof:name":"Samaloot",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

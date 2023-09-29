@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":2950592.584288,
+    "geom:area_square_m":2950592.58429,
     "geom:bbox":"31.22491,30.049746,31.24337,30.076299",
     "geom:latitude":30.062133,
     "geom:longitude":31.232214,
@@ -117,12 +117,13 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897187,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"9cc5387620c348bd8ef3009460e13456",
+    "wof:geomhash":"192c671e918b258e471bf9ded8432c9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1092015839,
-    "wof:lastmodified":1602720861,
+    "wof:lastmodified":1695886295,
     "wof:name":"Boulaq",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

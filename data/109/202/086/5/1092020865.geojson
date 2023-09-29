@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010892,
-    "geom:area_square_m":115064663.767781,
+    "geom:area_square_m":115064663.767793,
     "geom:bbox":"31.661956,31.24649,31.807694,31.394237",
     "geom:latitude":31.313969,
     "geom:longitude":31.743828,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DT.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897377,
-    "wof:geomhash":"b8c94e6355b6e92a86ba8d5835736ab7",
+    "wof:geomhash":"6553ed3a1a1b2aea6cf202592f44585d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020865,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886568,
     "wof:name":"Farasko",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

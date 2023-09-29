@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004574,
-    "geom:area_square_m":50791887.123889,
+    "geom:area_square_m":50791887.123883,
     "geom:bbox":"32.351718,26.054884,32.552013,26.116309",
     "geom:latitude":26.089199,
     "geom:longitude":32.447891,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QN.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897356,
-    "wof:geomhash":"ba1db69df13f549537eecae6ae902ba2",
+    "wof:geomhash":"e822e7afb52a6ed27365721407f3bfd8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020315,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886554,
     "wof:name":"El-Waqf",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

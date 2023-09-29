@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000907,
-    "geom:area_square_m":9602227.019259,
+    "geom:area_square_m":9602227.01926,
     "geom:bbox":"31.397681,31.052116,31.442768,31.087299",
     "geom:latitude":31.068148,
     "geom:longitude":31.423514,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897155,
-    "wof:geomhash":"6ce256002ee4a7c47b637d0b05cdfe6d",
+    "wof:geomhash":"f26d36fd012e0547c3f0adc1f525d240",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092014935,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886552,
     "wof:name":"Awel El-Mansourah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

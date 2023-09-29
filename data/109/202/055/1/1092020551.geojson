@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000442,
-    "geom:area_square_m":4723775.146592,
+    "geom:area_square_m":4723775.146594,
     "geom:bbox":"31.25711,30.083054,31.283537,30.113992",
     "geom:latitude":30.101079,
     "geom:longitude":31.269687,
@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.ZK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897364,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"4b35fa9dcc74d5739db3ab476607bc85",
+    "wof:geomhash":"62fb0891493d0ff954247564be959092",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092020551,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886564,
     "wof:name":"El-Zawyah El-Hamra",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

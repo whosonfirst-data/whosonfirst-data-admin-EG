@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26065,
-    "geom:area_square_m":2764915375.479815,
+    "geom:area_square_m":2764915375.47977,
     "geom:bbox":"32.674065,30.633543,33.514068,31.215616",
     "geom:latitude":30.930647,
     "geom:longitude":33.090041,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SS.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897176,
-    "wof:geomhash":"efbf80f6846c41e9f7d34e872995cdbf",
+    "wof:geomhash":"8019e3ba8166c1be4bdeace65a75dddc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092015521,
-    "wof:lastmodified":1627522090,
+    "wof:lastmodified":1695886557,
     "wof:name":"Beer El-Abd",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897326,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"e340f17b7460dd59756cce318df577dc",
+    "wof:geomhash":"384cc29acc345b6eec2e854e89dce278",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092019499,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886567,
     "wof:name":"El-Sahel",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007798,
-    "geom:area_square_m":82427162.492022,
+    "geom:area_square_m":82427162.492034,
     "geom:bbox":"29.965263,31.194371,30.087226,31.329745",
     "geom:latitude":31.256006,
     "geom:longitude":30.03214,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897296,
-    "wof:geomhash":"24af49a8cca4a92fee0b39cd35b0b1e8",
+    "wof:geomhash":"5b8ac636a5284445e83713b9b7997fb8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018649,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886562,
     "wof:name":"El-Montazah",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

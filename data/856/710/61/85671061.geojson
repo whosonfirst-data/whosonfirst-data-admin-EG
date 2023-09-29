@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.754516,
-    "geom:area_square_m":42608333885.667503,
+    "geom:area_square_m":42608333885.667381,
     "geom:bbox":"31.315317,21.999872,33.466563,25.306825",
     "geom:latitude":23.376013,
     "geom:longitude":32.791903,
@@ -473,16 +473,18 @@
         "gn:id":359787,
         "gp:id":2345238,
         "hasc:id":"EG.AN",
+        "iso:code":"EG-ASN",
         "iso:id":"EG-ASN",
         "qs_pg:id":1312305,
         "unlc:id":"EG-ASN",
         "wd:id":"Q29937"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9d8520d72c571e12f4c8e318b4c96f09",
+    "wof:geomhash":"16c73545cbd1fd60a65381d3ba531d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -497,7 +499,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876034,
+    "wof:lastmodified":1695884927,
     "wof:name":"Aswan",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

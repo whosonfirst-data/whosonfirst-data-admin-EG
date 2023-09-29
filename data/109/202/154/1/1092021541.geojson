@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054104,
-    "geom:area_square_m":572765291.417988,
+    "geom:area_square_m":572765291.418021,
     "geom:bbox":"29.937431,30.964747,30.241981,31.278882",
     "geom:latitude":31.11304,
     "geom:longitude":30.095811,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897405,
-    "wof:geomhash":"71e42b9779742e04b8d20d54fd10d845",
+    "wof:geomhash":"bb8bc790a267b36ad41c4c6a144dabab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092021541,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886569,
     "wof:name":"Kafr El-Dawwar",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

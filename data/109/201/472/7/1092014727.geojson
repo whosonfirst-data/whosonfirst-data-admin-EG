@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001134,
-    "geom:area_square_m":12124839.467531,
+    "geom:area_square_m":12124839.467523,
     "geom:bbox":"31.226828,30.102809,31.268111,30.158986",
     "geom:latitude":30.127714,
     "geom:longitude":31.249974,
@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"EG.QL.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897148,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"e1d7ff50a6352b1fd315f141acdede30",
+    "wof:geomhash":"7f40b0f2cfe9f79eda603222ce124890",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092014727,
-    "wof:lastmodified":1627522102,
+    "wof:lastmodified":1695886574,
     "wof:name":"Awal Shobra El-Kheimah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

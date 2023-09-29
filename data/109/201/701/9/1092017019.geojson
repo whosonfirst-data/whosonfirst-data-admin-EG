@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011489,
-    "geom:area_square_m":123254715.228484,
+    "geom:area_square_m":123254715.228459,
     "geom:bbox":"31.184383,29.723329,31.296579,29.922509",
     "geom:latitude":29.819135,
     "geom:longitude":31.249472,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897229,
-    "wof:geomhash":"a086763125c8f508814141ff0b7e7c2d",
+    "wof:geomhash":"6471a0a2233230e270ae85485173a185",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017019,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886551,
     "wof:name":"El-Badrashein",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

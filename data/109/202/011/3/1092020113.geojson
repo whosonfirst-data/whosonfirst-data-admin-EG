@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.268564,
-    "geom:area_square_m":2925991381.397625,
+    "geom:area_square_m":2925991381.397593,
     "geom:bbox":"33.361745,27.827362,34.197204,28.496001",
     "geom:latitude":28.224736,
     "geom:longitude":33.841252,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JS.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897349,
-    "wof:geomhash":"23341da0ec03be4584c6f12e8b6d1c0c",
+    "wof:geomhash":"261a897ea4eee105ef043631e47eaff9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092020113,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886567,
     "wof:name":"El-Tour",
     "wof:parent_id":85671089,
     "wof:placetype":"county",

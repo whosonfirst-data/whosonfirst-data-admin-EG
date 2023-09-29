@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03175,
-    "geom:area_square_m":336232063.800434,
+    "geom:area_square_m":336232063.800447,
     "geom:bbox":"31.499771,30.977462,31.864956,31.171025",
     "geom:latitude":31.081417,
     "geom:longitude":31.67273,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897201,
-    "wof:geomhash":"2b1703cbf70a221e2d63c52ce97af701",
+    "wof:geomhash":"fe68445298ec0dd1058f2ff78c8f2730",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016227,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886560,
     "wof:name":"Dokornos",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

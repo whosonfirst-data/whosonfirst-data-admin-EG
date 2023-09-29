@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012037,
-    "geom:area_square_m":127458148.524759,
+    "geom:area_square_m":127458148.524783,
     "geom:bbox":"30.507086,31.034651,30.705698,31.1679",
     "geom:latitude":31.092582,
     "geom:longitude":30.599887,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.RH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897319,
-    "wof:geomhash":"81d525e34a459c53ccbea6377cfb1261",
+    "wof:geomhash":"09e4695ada95e63a37765b8fdf146926",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019273,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886563,
     "wof:name":"El-Rahmaneyah",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

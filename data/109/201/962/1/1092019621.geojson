@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.256347,
-    "geom:area_square_m":13384654462.006969,
+    "geom:area_square_m":13384654462.00675,
     "geom:bbox":"24.692899,29.45328,25.603806,31.670021",
     "geom:latitude":30.499252,
     "geom:longitude":25.194534,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MT.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897331,
-    "wof:geomhash":"ac2f3041b4f86e32605ac4a964f3dc2e",
+    "wof:geomhash":"0377545ba434fb953430d783ddc3f92f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019621,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886567,
     "wof:name":"El-Saloom",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002134,
-    "geom:area_square_m":22827912.679502,
+    "geom:area_square_m":22827912.679497,
     "geom:bbox":"31.324949,30.079496,31.418496,30.149198",
     "geom:latitude":30.114816,
     "geom:longitude":31.365242,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.NO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897302,
-    "wof:geomhash":"c3733d433f237037262bd5633ba4dcc9",
+    "wof:geomhash":"b42c3cca168d9bdf409ab84d7f556dd9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018795,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886566,
     "wof:name":"El-Nozhah",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

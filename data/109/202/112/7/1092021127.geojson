@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013062,
-    "geom:area_square_m":144780066.064375,
+    "geom:area_square_m":144780066.064365,
     "geom:bbox":"31.765344,26.226431,31.938256,26.377696",
     "geom:latitude":26.30987,
     "geom:longitude":31.848807,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.GK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897388,
-    "wof:geomhash":"a45d63a16a1b1915e71efcbc85d23fcb",
+    "wof:geomhash":"444656f0f36b1c88093d63e52168c598",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092021127,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886569,
     "wof:name":"Gerga",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

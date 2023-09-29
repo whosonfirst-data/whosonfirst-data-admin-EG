@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021847,
-    "geom:area_square_m":233145714.223402,
+    "geom:area_square_m":233145714.223408,
     "geom:bbox":"31.058952,30.262158,31.301851,30.418634",
     "geom:latitude":30.341407,
     "geom:longitude":31.195795,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QL.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897560,
-    "wof:geomhash":"0fbddaac523468171a50913349f48c85",
+    "wof:geomhash":"05afc382c5db8a2593c1547807e99c2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092025939,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886577,
     "wof:name":"Tookh",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

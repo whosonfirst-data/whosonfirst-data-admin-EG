@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.ZF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897156,
-    "wof:geomhash":"7e47a707331645f1f7aa734ad6ae94b7",
+    "wof:geomhash":"4b8314ffdac5914900a8dfd1862e5bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092014971,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886575,
     "wof:name":"Awel El-Zaqazeeq",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

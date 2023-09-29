@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.FM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897111,
-    "wof:geomhash":"810b705b483d95fc43d13a99e601111c",
+    "wof:geomhash":"c9dca1b156e3bdb6aba6854eb54a0baa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1092014007,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886549,
     "wof:name":"15 Mayo",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

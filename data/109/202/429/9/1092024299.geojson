@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012166,
-    "geom:area_square_m":131653657.301618,
+    "geom:area_square_m":131653657.301603,
     "geom:bbox":"30.775575,28.86653,30.917269,29.017364",
     "geom:latitude":28.939043,
     "geom:longitude":30.850377,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BN.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897504,
-    "wof:geomhash":"51edd732981af8fa638e806562977ff1",
+    "wof:geomhash":"d17066ad8827b456958f8ad30ad6bfb5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092024299,
-    "wof:lastmodified":1627522101,
+    "wof:lastmodified":1695886574,
     "wof:name":"Samasta",
     "wof:parent_id":85671053,
     "wof:placetype":"county",

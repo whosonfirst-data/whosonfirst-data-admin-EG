@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026269,
-    "geom:area_square_m":280652629.508117,
+    "geom:area_square_m":280652629.508104,
     "geom:bbox":"31.301463,30.143752,31.622314,30.312289",
     "geom:latitude":30.228919,
     "geom:longitude":31.4287,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QL.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897272,
-    "wof:geomhash":"cd538e4b4148b157637d627b6eb9d262",
+    "wof:geomhash":"04053b8710a0c832c9843f70a8afd6bb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018143,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886552,
     "wof:name":"El-Khankah",
     "wof:parent_id":85671003,
     "wof:placetype":"county",

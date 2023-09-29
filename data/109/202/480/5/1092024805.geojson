@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000133,
-    "geom:area_square_m":1418107.501743,
+    "geom:area_square_m":1418107.501742,
     "geom:bbox":"31.245765,30.064222,31.25645,30.082215",
     "geom:latitude":30.073811,
     "geom:longitude":31.250511,
@@ -108,9 +108,10 @@
         "hasc:id":"EG.QH.SH",
         "wd:id":"Q2096164"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897522,
-    "wof:geomhash":"be975b54c2a74d76a8365322122d4409",
+    "wof:geomhash":"9a98b93926ed74575795b2a98cbf277c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1092024805,
-    "wof:lastmodified":1690876045,
+    "wof:lastmodified":1695886296,
     "wof:name":"Shobra",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

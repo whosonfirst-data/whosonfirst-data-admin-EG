@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017571,
-    "geom:area_square_m":193324737.382567,
+    "geom:area_square_m":193324737.382591,
     "geom:bbox":"31.006465,27.044538,31.297989,27.257912",
     "geom:latitude":27.154458,
     "geom:longitude":31.156959,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.AY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897140,
-    "wof:geomhash":"6b6bfb51f2862d812092fd2b4f730f89",
+    "wof:geomhash":"289edbac539ec7e03af4a716cc7ee935",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092014633,
-    "wof:lastmodified":1627522089,
+    "wof:lastmodified":1695886555,
     "wof:name":"Asiut",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

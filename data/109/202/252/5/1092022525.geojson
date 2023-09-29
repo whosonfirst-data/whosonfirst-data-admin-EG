@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000471,
-    "geom:area_square_m":4981511.328711,
+    "geom:area_square_m":4981511.32871,
     "geom:bbox":"29.896957,31.168623,29.942111,31.187856",
     "geom:latitude":31.177899,
     "geom:longitude":29.918697,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897442,
-    "wof:geomhash":"f9fd49b86fb26eb1bddd08f740f535eb",
+    "wof:geomhash":"c53e2136be2ba51f45adc19cff50603c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1092022525,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886572,
     "wof:name":"Moharam Bek",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":11.174158,
-    "geom:area_square_m":125793153503.980225,
+    "geom:area_square_m":125793153503.980377,
     "geom:bbox":"29.869777,22.0,32.743283,27.161601",
     "geom:latitude":24.405636,
     "geom:longitude":31.13675,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.WJ.WK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897353,
-    "wof:geomhash":"33eee64a163e3c7d1dc8092d59ece4d2",
+    "wof:geomhash":"67e41a73a5dd197ab6e8ba89b5458c22",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020223,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886554,
     "wof:name":"El-Wahat El-Khargah",
     "wof:parent_id":85671071,
     "wof:placetype":"county",

@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.TB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897347,
-    "wof:geomhash":"1b52e8d5399b2c3b5ddef158b9bd7ade",
+    "wof:geomhash":"cde15f6cd6c46520d2b187f130f169d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020075,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886567,
     "wof:name":"El-Tebeen",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

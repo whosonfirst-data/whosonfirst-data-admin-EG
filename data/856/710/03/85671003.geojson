@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10909,
-    "geom:area_square_m":1164574256.552361,
+    "geom:area_square_m":1164574353.080853,
     "geom:bbox":"31.058952,30.102809,31.622314,30.613527",
     "geom:latitude":30.30586,
     "geom:longitude":31.272107,
@@ -348,16 +348,18 @@
         "gn:id":360621,
         "gp:id":2345234,
         "hasc:id":"EG.QL",
+        "iso:code":"EG-KB",
         "iso:id":"EG-KB",
         "qs_pg:id":500332,
         "wd:id":"Q31075"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "meso",
         "quattroshapes"
     ],
-    "wof:geomhash":"95560e5270e159ecb687182bca371855",
+    "wof:geomhash":"af70753152fc2c3e7e05b9bf07e309c2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -372,7 +374,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876035,
+    "wof:lastmodified":1695884927,
     "wof:name":"Al Qalyubiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007223,
-    "geom:area_square_m":76768228.191645,
+    "geom:area_square_m":76768228.191643,
     "geom:bbox":"31.501643,30.691097,31.624502,30.783883",
     "geom:latitude":30.738985,
     "geom:longitude":31.563393,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.EB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897269,
-    "wof:geomhash":"af985f342e0d203e067c777fafd9518d",
+    "wof:geomhash":"51aa6140502003dace08c9cc682b8eac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018107,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886552,
     "wof:name":"El-Ibrahimeyah",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

@@ -305,9 +305,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.GK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897390,
-    "wof:geomhash":"4a2e3e11a4cccb3da2de2e702ae356f7",
+    "wof:geomhash":"2c4a555785d75ab632af44955cbc741a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -317,7 +318,7 @@
         }
     ],
     "wof:id":1092021173,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1695886295,
     "wof:name":"Giza",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

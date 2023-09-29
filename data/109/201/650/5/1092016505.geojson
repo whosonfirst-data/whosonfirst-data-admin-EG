@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0144,
-    "geom:area_square_m":156196315.360333,
+    "geom:area_square_m":156196315.360281,
     "geom:bbox":"30.645362,28.616566,30.837608,28.75741",
     "geom:latitude":28.689577,
     "geom:longitude":30.738757,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MN.AD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897212,
-    "wof:geomhash":"1f8e08d14cc2c753510eeb2990b55f55",
+    "wof:geomhash":"b71b1ec78c189f0bb6982df6dfaf01b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016505,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886551,
     "wof:name":"El-Adwah",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

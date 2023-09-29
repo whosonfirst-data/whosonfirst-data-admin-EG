@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.395028,
-    "geom:area_square_m":4272762229.615591,
+    "geom:area_square_m":4272762229.615609,
     "geom:bbox":"29.773333,28.698053,31.231901,29.454202",
     "geom:latitude":28.979892,
     "geom:longitude":30.638469,
@@ -412,16 +412,18 @@
         "gn:id":359171,
         "gp:id":2345240,
         "hasc:id":"EG.BN",
+        "iso:code":"EG-BNS",
         "iso:id":"EG-BNS",
         "qs_pg:id":1087039,
         "unlc:id":"EG-BNS",
         "wd:id":"Q30683"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"746e59f1bc0084cf4e22b59f46160e14",
+    "wof:geomhash":"abc644792e7e7f3f16d0aeb9472b8431",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -436,7 +438,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876038,
+    "wof:lastmodified":1695884366,
     "wof:name":"Bani Suwayf",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

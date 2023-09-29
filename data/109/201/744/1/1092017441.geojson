@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003841,
-    "geom:area_square_m":40666821.868352,
+    "geom:area_square_m":40666821.868367,
     "geom:bbox":"29.728883,31.074821,29.85074,31.149062",
     "geom:latitude":31.110857,
     "geom:longitude":29.78988,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.DK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897244,
-    "wof:geomhash":"c630b042eceb80b0e379df7eecd8b037",
+    "wof:geomhash":"6596708f7074876c1acffd9328966524",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017441,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886560,
     "wof:name":"El-Dekheilah",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

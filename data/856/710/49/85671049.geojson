@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.691351,
-    "geom:area_square_m":18443007238.724518,
+    "geom:area_square_m":18443007245.37421,
     "geom:bbox":"28.466408,27.576852,30.903162,28.77903",
     "geom:latitude":28.130037,
     "geom:longitude":30.007302,
@@ -373,15 +373,17 @@
         "gn:id":360688,
         "gp:id":2345232,
         "hasc:id":"EG.MN",
+        "iso:code":"EG-MN",
         "iso:id":"EG-MN",
         "qs_pg:id":1087037,
         "wd:id":"Q30675"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"272f232c851aa138a592a7116581e786",
+    "wof:geomhash":"f9cc07595573cbfeb6c1c1bcb7f79a8e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -396,7 +398,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876041,
+    "wof:lastmodified":1695884928,
     "wof:name":"Al Minya",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

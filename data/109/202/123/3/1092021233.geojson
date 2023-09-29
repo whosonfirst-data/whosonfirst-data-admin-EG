@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011168,
-    "geom:area_square_m":123387364.63112,
+    "geom:area_square_m":123387364.631104,
     "geom:bbox":"31.394349,26.605998,31.546407,26.750216",
     "geom:latitude":26.682317,
     "geom:longitude":31.470067,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.WG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897392,
-    "wof:geomhash":"48e9996dbaaad8ce51003f58939fc268",
+    "wof:geomhash":"217b88f5f2bb2775f5867cea90991466",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092021233,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886569,
     "wof:name":"Gohaynah El-Gharbeyah",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

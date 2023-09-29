@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063115,
-    "geom:area_square_m":672660060.744547,
+    "geom:area_square_m":672660060.744555,
     "geom:bbox":"30.227253,30.32745,30.665896,30.590036",
     "geom:latitude":30.478702,
     "geom:longitude":30.459406,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.UO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897301,
-    "wof:geomhash":"eebbe4be3773c9822a4723a6c586ad96",
+    "wof:geomhash":"094e69904da267779760127cad805cd9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092018763,
-    "wof:lastmodified":1627522095,
+    "wof:lastmodified":1695886566,
     "wof:name":"El-Nobareyah City",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

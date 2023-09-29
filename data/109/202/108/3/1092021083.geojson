@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000616,
-    "geom:area_square_m":6821680.120209,
+    "geom:area_square_m":6821680.120212,
     "geom:bbox":"31.864194,26.324275,31.903803,26.358281",
     "geom:latitude":26.33965,
     "geom:longitude":31.884702,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897387,
-    "wof:geomhash":"1cf5a3387b48026274b0a29ffb51ea65",
+    "wof:geomhash":"1585f3b76188c9dff272b4e10b3da170",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092021083,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886569,
     "wof:name":"Gerga City",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DT.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897487,
-    "wof:geomhash":"6dac0291633bddd8be47180d5288f748",
+    "wof:geomhash":"db56eacf95527b0685aeeeb07e0855a8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092023799,
-    "wof:lastmodified":1627522101,
+    "wof:lastmodified":1695886573,
     "wof:name":"Ras El-Bar",
     "wof:parent_id":85671025,
     "wof:placetype":"county",

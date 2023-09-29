@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001342,
-    "geom:area_square_m":14372180.970656,
+    "geom:area_square_m":14372180.970655,
     "geom:bbox":"31.225436,29.961796,31.288394,29.997383",
     "geom:latitude":29.980556,
     "geom:longitude":31.257976,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897232,
-    "wof:geomhash":"48f235b3dcdd6e37e10e413df780740a",
+    "wof:geomhash":"b379f6cf7b6d59495cc62edd4e899bb8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017101,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886561,
     "wof:name":"El-Basateen",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

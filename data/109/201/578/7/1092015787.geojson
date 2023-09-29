@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000868,
-    "geom:area_square_m":9288189.872999,
+    "geom:area_square_m":9288189.872996,
     "geom:bbox":"31.172781,30.006161,31.205608,30.052822",
     "geom:latitude":30.027488,
     "geom:longitude":31.187715,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897185,
-    "wof:geomhash":"3e8af4bcb746fd08e8e74551318fb64e",
+    "wof:geomhash":"0f1bd5e9cc2dd3911bf9116519cda644",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092015787,
-    "wof:lastmodified":1627522090,
+    "wof:lastmodified":1695886558,
     "wof:name":"Boulaq El-Dakroor",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

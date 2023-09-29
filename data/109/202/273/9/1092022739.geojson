@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008413,
-    "geom:area_square_m":93592430.88034,
+    "geom:area_square_m":93592430.880353,
     "geom:bbox":"32.692618,25.7857,32.777403,25.994035",
     "geom:latitude":25.885627,
     "geom:longitude":32.731029,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QN.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897450,
-    "wof:geomhash":"3dd4e7874ee591724b7804b60e8a69fd",
+    "wof:geomhash":"2a61fbb8ef10ae5b81912cca5ecd80a7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092022739,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886572,
     "wof:name":"Naqadah",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

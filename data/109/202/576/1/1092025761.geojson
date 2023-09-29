@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00191,
-    "geom:area_square_m":20441224.550835,
+    "geom:area_square_m":20441224.550833,
     "geom:bbox":"31.280069,30.007293,31.339734,30.079696",
     "geom:latitude":30.046346,
     "geom:longitude":31.313662,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.NS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897554,
-    "wof:geomhash":"1bceee881015e7fc8be95fa6edaa7600",
+    "wof:geomhash":"7cdfbb3e8eeed9718ddac46c8a6bf054",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092025761,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886573,
     "wof:name":"Tany Nasr City",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":775817.295365,
+    "geom:area_square_m":775817.295364,
     "geom:bbox":"31.247244,30.046112,31.257647,30.057174",
     "geom:latitude":30.052232,
     "geom:longitude":31.252342,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897298,
-    "wof:geomhash":"5edd53c52ece0559c06a8dfc06638d55",
+    "wof:geomhash":"297139321e1fed1e1d8fa73efb4dd35a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018679,
-    "wof:lastmodified":1627522093,
+    "wof:lastmodified":1695886562,
     "wof:name":"El-Mosky",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028911,
-    "geom:area_square_m":306808007.993549,
+    "geom:area_square_m":306808007.993513,
     "geom:bbox":"31.343727,30.806891,31.645439,30.96912",
     "geom:latitude":30.880406,
     "geom:longitude":31.488339,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897335,
-    "wof:geomhash":"aa207258edf520c9074c3205b4d23c22",
+    "wof:geomhash":"7c1eeb61ff4d58257842a71cdae522c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019741,
-    "wof:lastmodified":1627522088,
+    "wof:lastmodified":1695886553,
     "wof:name":"El-Senbelawein",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

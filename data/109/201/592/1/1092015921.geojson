@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036956,
-    "geom:area_square_m":391652930.231398,
+    "geom:area_square_m":391652930.231452,
     "geom:bbox":"30.300755,30.902085,30.60491,31.145848",
     "geom:latitude":31.010805,
     "geom:longitude":30.455626,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.DS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897190,
-    "wof:geomhash":"99c3ceb08f72b8fe8bb70948cdf12e56",
+    "wof:geomhash":"fda706bf134e7d4bad430fd2c824cee3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092015921,
-    "wof:lastmodified":1627522090,
+    "wof:lastmodified":1695886558,
     "wof:name":"Damanhoor",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

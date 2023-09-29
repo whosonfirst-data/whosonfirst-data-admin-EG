@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000713,
-    "geom:area_square_m":7631372.362755,
+    "geom:area_square_m":7631372.362754,
     "geom:bbox":"31.282659,30.086116,31.324949,30.116677",
     "geom:latitude":30.104348,
     "geom:longitude":31.302853,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.ZY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897366,
-    "wof:geomhash":"b56c9328d2fdaa7468831865e8a5489b",
+    "wof:geomhash":"b0efc7c07b1b8cf7491bf8779cce3c55",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092020599,
-    "wof:lastmodified":1627522104,
+    "wof:lastmodified":1695886577,
     "wof:name":"El-Zaytoon",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

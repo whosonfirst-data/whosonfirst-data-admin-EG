@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026096,
-    "geom:area_square_m":276961164.662433,
+    "geom:area_square_m":276961164.662413,
     "geom:bbox":"30.23143,30.778817,30.465929,30.985251",
     "geom:latitude":30.874313,
     "geom:longitude":30.318339,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.HE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897402,
-    "wof:geomhash":"129d921e6fba0bdccdce19c98f655307",
+    "wof:geomhash":"0fbc39299a8b02d273815774fadb1e49",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092021459,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886569,
     "wof:name":"Housh Eisa",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

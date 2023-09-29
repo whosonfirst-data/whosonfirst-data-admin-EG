@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021096,
-    "geom:area_square_m":224240549.578326,
+    "geom:area_square_m":224240549.578306,
     "geom:bbox":"31.149961,30.579593,31.281841,30.877445",
     "geom:latitude":30.725228,
     "geom:longitude":31.214578,
@@ -119,9 +119,10 @@
     "wof:concordances":{
         "hasc:id":"EG.GH.ZE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897565,
-    "wof:geomhash":"7fdf1d2dba22ef2c83b98c053b961a0a",
+    "wof:geomhash":"03268d70cdf0bbf13c5a2916dea219a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092026069,
-    "wof:lastmodified":1627522104,
+    "wof:lastmodified":1695886577,
     "wof:name":"Zefta",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

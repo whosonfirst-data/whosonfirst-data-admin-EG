@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014638,
-    "geom:area_square_m":155018741.926584,
+    "geom:area_square_m":155018741.926583,
     "geom:bbox":"30.765634,31.007646,30.914963,31.158471",
     "geom:latitude":31.079587,
     "geom:longitude":30.834056,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.KS.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897417,
-    "wof:geomhash":"54c11f7c817751c7a3dece0daf1dad9c",
+    "wof:geomhash":"ff7b65ed1e9a3395df78ab5226d8546f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092021829,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886570,
     "wof:name":"Keleen",
     "wof:parent_id":85671057,
     "wof:placetype":"county",

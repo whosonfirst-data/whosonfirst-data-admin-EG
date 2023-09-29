@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018227,
-    "geom:area_square_m":202478911.841615,
+    "geom:area_square_m":202478911.841632,
     "geom:bbox":"32.176743,25.98615,32.418098,26.140991",
     "geom:latitude":26.051714,
     "geom:longitude":32.274918,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QN.NH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897447,
-    "wof:geomhash":"9abb4284b7cbf7b3564425b3989d90e4",
+    "wof:geomhash":"1745d1c9ea68626119a4d2760634bb53",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092022653,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886572,
     "wof:name":"Nag' Hammady",
     "wof:parent_id":85671075,
     "wof:placetype":"county",

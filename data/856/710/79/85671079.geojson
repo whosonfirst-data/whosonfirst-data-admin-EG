@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14834,
-    "geom:area_square_m":1641160003.101382,
+    "geom:area_square_m":1641160003.101404,
     "geom:bbox":"31.330063,26.105413,32.217719,26.936326",
     "geom:latitude":26.525889,
     "geom:longitude":31.704916,
@@ -351,16 +351,18 @@
         "gn:id":347794,
         "gp:id":2345246,
         "hasc:id":"EG.SJ",
+        "iso:code":"EG-SHG",
         "iso:id":"EG-SHG",
         "qs_pg:id":424967,
         "unlc:id":"EG-SHG",
         "wd:id":"Q30669"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7a52f6295f629885bbe609cca14f5dfb",
+    "wof:geomhash":"b472395c2e1bd0ada7c548226b7f087d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -375,7 +377,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876039,
+    "wof:lastmodified":1695884504,
     "wof:name":"Suhaj",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BS.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897280,
-    "wof:geomhash":"dc637e289ca85944b53a45b171d97f15",
+    "wof:geomhash":"2965a56783ce5ed62f4450e8772cd3d0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018325,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886561,
     "wof:name":"El-Manakh",
     "wof:parent_id":85671021,
     "wof:placetype":"county",

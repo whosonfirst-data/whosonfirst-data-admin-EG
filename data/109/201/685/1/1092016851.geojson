@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000249,
-    "geom:area_square_m":2628717.882331,
+    "geom:area_square_m":2628717.882332,
     "geom:bbox":"29.890688,31.176731,29.909426,31.201615",
     "geom:latitude":31.188648,
     "geom:longitude":29.898336,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897224,
-    "wof:geomhash":"bf19931f67d09c78be9036d79b303211",
+    "wof:geomhash":"eb1fbe31b2348ebf3e7c64bf3c2fc617",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092016851,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886561,
     "wof:name":"El-Atareen",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

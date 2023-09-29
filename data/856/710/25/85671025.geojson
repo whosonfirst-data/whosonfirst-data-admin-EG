@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088166,
-    "geom:area_square_m":930676828.462511,
+    "geom:area_square_m":930677328.856441,
     "geom:bbox":"31.483703,31.1673,32.063652,31.535778",
     "geom:latitude":31.385107,
     "geom:longitude":31.769091,
@@ -357,16 +357,18 @@
         "gn:id":358044,
         "gp:id":2345242,
         "hasc:id":"EG.DT",
+        "iso:code":"EG-DT",
         "iso:id":"EG-DT",
         "qs_pg:id":1288982,
         "unlc:id":"EG-DT",
         "wd:id":"Q30644"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5fde8842f610a5d80c29646c4c91c6f9",
+    "wof:geomhash":"37b50ff00715ab8814c4b11b2d58f49a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -381,7 +383,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876042,
+    "wof:lastmodified":1695884928,
     "wof:name":"Dumyat",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

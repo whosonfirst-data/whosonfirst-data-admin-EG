@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004197,
-    "geom:area_square_m":46283496.488446,
+    "geom:area_square_m":46283496.488442,
     "geom:bbox":"31.27934,26.850104,31.371721,26.970744",
     "geom:latitude":26.902105,
     "geom:longitude":31.321459,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897259,
-    "wof:geomhash":"80a33ab4c286fb7006a0a06c4e83b1eb",
+    "wof:geomhash":"d2b7e6842811beb2b9e019f86ba4802e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017873,
-    "wof:lastmodified":1627522094,
+    "wof:lastmodified":1695886565,
     "wof:name":"El-Ghanayem",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

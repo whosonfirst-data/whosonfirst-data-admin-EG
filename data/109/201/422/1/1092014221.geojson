@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025716,
-    "geom:area_square_m":280943019.684731,
+    "geom:area_square_m":280943019.684686,
     "geom:bbox":"30.661833,27.83219,30.864957,28.023471",
     "geom:latitude":27.929599,
     "geom:longitude":30.769992,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MN.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897124,
-    "wof:geomhash":"9e6f6b716a515ad02c1484e81dcf5a91",
+    "wof:geomhash":"2020ac88309eb1d7dc1d1cb3f150d3f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092014221,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886550,
     "wof:name":"Abu Qorqas",
     "wof:parent_id":85671049,
     "wof:placetype":"county",

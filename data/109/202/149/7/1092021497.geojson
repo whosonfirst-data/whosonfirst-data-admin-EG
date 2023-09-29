@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.717988,
-    "geom:area_square_m":7901693219.483961,
+    "geom:area_square_m":7901693219.484074,
     "geom:bbox":"32.655866,26.71702,33.93826,27.480466",
     "geom:latitude":27.128441,
     "geom:longitude":33.245102,
@@ -240,9 +240,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BA.GA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897404,
-    "wof:geomhash":"75f607806da54fd96ff994d308b5c68c",
+    "wof:geomhash":"f184f3cfe7826fc6ba33c82e4b058e51",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -252,7 +253,7 @@
         }
     ],
     "wof:id":1092021497,
-    "wof:lastmodified":1602720867,
+    "wof:lastmodified":1695886295,
     "wof:name":"Hurghada",
     "wof:parent_id":85671085,
     "wof:placetype":"county",

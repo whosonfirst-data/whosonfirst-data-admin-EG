@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.AM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897415,
-    "wof:geomhash":"0ea484d1b260092c7024475fb6fdb028",
+    "wof:geomhash":"ba643ea3c9903553ad0db0aa50a352c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092021791,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886570,
     "wof:name":"Karmooz",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

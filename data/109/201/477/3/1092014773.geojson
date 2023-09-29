@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001368,
-    "geom:area_square_m":15048285.233279,
+    "geom:area_square_m":15048285.233283,
     "geom:bbox":"31.121035,27.151167,31.173415,27.204298",
     "geom:latitude":27.181795,
     "geom:longitude":31.148069,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.AF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897149,
-    "wof:geomhash":"ed4e68f77081e3c20a2235613009f598",
+    "wof:geomhash":"eb22eb171bfc5bdf01bcbc23f866e167",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092014773,
-    "wof:lastmodified":1627522089,
+    "wof:lastmodified":1695886556,
     "wof:name":"Awel Asiut",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

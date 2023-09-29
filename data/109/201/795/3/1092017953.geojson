@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.660428,
-    "geom:area_square_m":17770652370.143204,
+    "geom:area_square_m":17770652370.143341,
     "geom:bbox":"28.498101,29.236454,30.336177,30.889503",
     "geom:latitude":30.05044,
     "geom:longitude":29.263291,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MT.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897262,
-    "wof:geomhash":"b4646969092319538b0c1f724658b142",
+    "wof:geomhash":"7ddd296d126a5b6c9c92c7704e71cb52",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092017953,
-    "wof:lastmodified":1627522092,
+    "wof:lastmodified":1695886561,
     "wof:name":"El-Hamam",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

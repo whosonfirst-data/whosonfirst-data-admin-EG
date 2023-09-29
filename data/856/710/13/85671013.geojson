@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.86575,
-    "geom:area_square_m":9301744891.18165,
+    "geom:area_square_m":9301744891.071531,
     "geom:bbox":"31.832933,28.976233,32.808671,30.285552",
     "geom:latitude":29.665933,
     "geom:longitude":32.237747,
@@ -354,16 +354,18 @@
         "gn:id":359797,
         "gp:id":2345237,
         "hasc:id":"EG.SW",
+        "iso:code":"EG-SUZ",
         "iso:id":"EG-SUZ",
         "qs_pg:id":237284,
         "unlc:id":"EG-SUZ",
         "wd:id":"Q31070"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"80aa1da92c5daed1d6974fbd917acdf9",
+    "wof:geomhash":"5e7463efd43aaa8799ffb9791281b4c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -378,7 +380,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876041,
+    "wof:lastmodified":1695884928,
     "wof:name":"As Suways",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000724,
-    "geom:area_square_m":7653366.29267,
+    "geom:area_square_m":7653366.292669,
     "geom:bbox":"29.900282,31.179786,29.937981,31.215455",
     "geom:latitude":31.197271,
     "geom:longitude":29.918233,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.IK.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897164,
-    "wof:geomhash":"c78300f7d731169c33368236e4c0fc34",
+    "wof:geomhash":"21e2a5d6d946170864a58ba3477b37e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092015183,
-    "wof:lastmodified":1627522089,
+    "wof:lastmodified":1695886556,
     "wof:name":"Bab Sharqy",
     "wof:parent_id":85671041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.902485,
-    "geom:area_square_m":9612709754.396957,
+    "geom:area_square_m":9612709754.397068,
     "geom:bbox":"32.634682,30.167998,34.403929,30.931809",
     "geom:latitude":30.524266,
     "geom:longitude":33.535633,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SS.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897265,
-    "wof:geomhash":"fefe87cfc1b3e7485ed3253edc8ed5e5",
+    "wof:geomhash":"c1f70e71b0b0e078e5af13aa63d53ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018041,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886552,
     "wof:name":"El-Hasanah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

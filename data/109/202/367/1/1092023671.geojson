@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019579,
-    "geom:area_square_m":208481689.167553,
+    "geom:area_square_m":208481689.167562,
     "geom:bbox":"31.050333,30.474057,31.261058,30.645572",
     "geom:latitude":30.556004,
     "geom:longitude":31.153369,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MF.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897482,
-    "wof:geomhash":"0bb66538afe711c41c6a78fc64f01159",
+    "wof:geomhash":"32ab52782786e894f5ee2b782a1bae62",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092023671,
-    "wof:lastmodified":1627522101,
+    "wof:lastmodified":1695886573,
     "wof:name":"Qoweisna",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

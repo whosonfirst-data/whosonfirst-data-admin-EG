@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004727,
-    "geom:area_square_m":50594421.741621,
+    "geom:area_square_m":50594421.741627,
     "geom:bbox":"31.313645,30.018365,31.412704,30.088469",
     "geom:latitude":30.05628,
     "geom:longitude":31.365738,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.NC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897454,
-    "wof:geomhash":"6aab853e7b44c27e70f302dc69676745",
+    "wof:geomhash":"9e9a2932f3b3a063ae5817a4e22ca90f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092022823,
-    "wof:lastmodified":1627522100,
+    "wof:lastmodified":1695886573,
     "wof:name":"Nasr City",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

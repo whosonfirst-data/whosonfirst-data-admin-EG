@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147315,
-    "geom:area_square_m":1569443350.069794,
+    "geom:area_square_m":1569443350.06971,
     "geom:bbox":"30.788554,30.199385,31.261058,30.747286",
     "geom:latitude":30.504934,
     "geom:longitude":30.998207,
@@ -350,15 +350,17 @@
         "gn:id":360689,
         "gp:id":2345231,
         "hasc:id":"EG.MF",
+        "iso:code":"EG-MNF",
         "iso:id":"EG-MNF",
         "qs_pg:id":890535,
         "wd:id":"Q30786"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f953090aac5fdbe4b7fe7728ccbc3ddf",
+    "wof:geomhash":"0f47d7e543e0d33ac1d5e9e0dc6a52ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -373,7 +375,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876032,
+    "wof:lastmodified":1695884927,
     "wof:name":"Al Minufiyah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

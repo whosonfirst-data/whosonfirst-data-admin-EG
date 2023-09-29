@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.302319,
-    "geom:area_square_m":35276220834.572372,
+    "geom:area_square_m":35276220834.572411,
     "geom:bbox":"26.302833,28.922264,27.909531,31.514413",
     "geom:latitude":30.239351,
     "geom:longitude":27.059197,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MT.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897428,
-    "wof:geomhash":"faa331b0a1451ef6f16e42d84251fd1d",
+    "wof:geomhash":"407d95237f0228f8e715ecbf08b6cbf7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092022115,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886571,
     "wof:name":"Marsa Matrooh",
     "wof:parent_id":85671031,
     "wof:placetype":"county",

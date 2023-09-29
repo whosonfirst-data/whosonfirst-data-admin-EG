@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015455,
-    "geom:area_square_m":163312316.358909,
+    "geom:area_square_m":163312316.358927,
     "geom:bbox":"30.141324,31.21611,30.426333,31.365745",
     "geom:latitude":31.287393,
     "geom:longitude":30.331298,
@@ -107,9 +107,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.ED"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897210,
-    "wof:geomhash":"8e733ba2587328dd0f6ba8dd4ee08630",
+    "wof:geomhash":"c595994464cefe4cb66ae708932790f5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092016481,
-    "wof:lastmodified":1627522097,
+    "wof:lastmodified":1695886568,
     "wof:name":"Edku",
     "wof:parent_id":85671035,
     "wof:placetype":"county",

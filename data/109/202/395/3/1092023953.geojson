@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066207,
-    "geom:area_square_m":702904274.634741,
+    "geom:area_square_m":702904274.63475,
     "geom:bbox":"32.584006,30.558335,32.921998,31.14946",
     "geom:latitude":30.804337,
     "geom:longitude":32.699145,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SS.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897492,
-    "wof:geomhash":"8458a42d9f03c26ce697cd78ecc4ce61",
+    "wof:geomhash":"db2e4ceecb0330c3a5974915e41c9df9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092023953,
-    "wof:lastmodified":1627522101,
+    "wof:lastmodified":1695886574,
     "wof:name":"Rommanah",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

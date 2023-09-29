@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00158,
-    "geom:area_square_m":16848246.96998,
+    "geom:area_square_m":16848246.969985,
     "geom:bbox":"30.946161,30.417569,30.996474,30.466827",
     "geom:latitude":30.440833,
     "geom:longitude":30.971455,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MF.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897508,
-    "wof:geomhash":"3b6e2b3a42f9e88a2d7a8426c03bab70",
+    "wof:geomhash":"a87fd32e7965de42091027915e35cb7d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092024411,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886576,
     "wof:name":"Sars El-Layanah",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

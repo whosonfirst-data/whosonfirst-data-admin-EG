@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023887,
-    "geom:area_square_m":253134274.029414,
+    "geom:area_square_m":253134274.029416,
     "geom:bbox":"33.589551,30.914649,33.723274,31.125152",
     "geom:latitude":31.018586,
     "geom:longitude":33.656166,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SS.FO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897547,
-    "wof:geomhash":"c2b0fa07e2abb9107ecaed6c64eab83f",
+    "wof:geomhash":"388c8dc89953bb4b860833d1f78e208f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092025553,
-    "wof:lastmodified":1627522094,
+    "wof:lastmodified":1695886565,
     "wof:name":"Tany El-Areesh",
     "wof:parent_id":85671093,
     "wof:placetype":"county",

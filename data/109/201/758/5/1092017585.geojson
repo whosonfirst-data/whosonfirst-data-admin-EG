@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.536667,
-    "geom:area_square_m":83044674330.788605,
+    "geom:area_square_m":83044674330.788422,
     "geom:bbox":"25.0,26.283844,30.759223,27.67669",
     "geom:latitude":26.983504,
     "geom:longitude":27.767309,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.WJ.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897248,
-    "wof:geomhash":"cfee3ab6fe0fbcf224141e3e0b788c47",
+    "wof:geomhash":"e4bb61fb0e2689cd1d35a3055bc24bd7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017585,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886552,
     "wof:name":"El-Farafrah",
     "wof:parent_id":85671071,
     "wof:placetype":"county",

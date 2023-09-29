@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018085,
-    "geom:area_square_m":198739308.446358,
+    "geom:area_square_m":198739308.446288,
     "geom:bbox":"30.830672,27.188962,31.039438,27.383726",
     "geom:latitude":27.288966,
     "geom:longitude":30.938527,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.AT.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897425,
-    "wof:geomhash":"74ac92cc1422b1957f60c543c7911d2d",
+    "wof:geomhash":"53aa90d1be0cfce3bb38057ce590b7f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092022045,
-    "wof:lastmodified":1627522098,
+    "wof:lastmodified":1695886571,
     "wof:name":"Manfalout",
     "wof:parent_id":85671069,
     "wof:placetype":"county",

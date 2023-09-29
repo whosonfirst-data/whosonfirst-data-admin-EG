@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001016,
-    "geom:area_square_m":10789944.450608,
+    "geom:area_square_m":10789944.45061,
     "geom:bbox":"30.971336,30.766139,31.029047,30.793851",
     "geom:latitude":30.779407,
     "geom:longitude":30.999012,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.GH.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897559,
-    "wof:geomhash":"6e7d1d29fe0a513835994c6762c4bdb9",
+    "wof:geomhash":"52bc8971535508bee76d5a06a965298a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092025893,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886577,
     "wof:name":"Tany Tanta",
     "wof:parent_id":85670985,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019548,
-    "geom:area_square_m":208355319.848336,
+    "geom:area_square_m":208355319.848335,
     "geom:bbox":"30.830066,30.364867,31.007847,30.549245",
     "geom:latitude":30.460979,
     "geom:longitude":30.912992,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.MF.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897437,
-    "wof:geomhash":"b722c78ae5098cbcd1830b6e10ad142d",
+    "wof:geomhash":"e4d5fcc3d1a4717e6950c7d3f76ead9e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092022369,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886571,
     "wof:name":"Menoof",
     "wof:parent_id":85670995,
     "wof:placetype":"county",

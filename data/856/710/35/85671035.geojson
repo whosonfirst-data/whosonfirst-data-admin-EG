@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.126319,
-    "geom:area_square_m":11986764770.718773,
+    "geom:area_square_m":11986764411.203335,
     "geom:bbox":"29.631109,29.87708,30.872711,31.502089",
     "geom:latitude":30.615159,
     "geom:longitude":30.298099,
@@ -366,15 +366,17 @@
         "gn:id":361370,
         "gp:id":2345225,
         "hasc:id":"EG.BH",
+        "iso:code":"EG-BH",
         "iso:id":"EG-BH",
         "qs_pg:id":900671,
         "wd:id":"Q30630"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"179e26f68b88cefb43066bde5778fa83",
+    "wof:geomhash":"073ebb73c8405f431e350c356e0f16d3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -389,7 +391,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876035,
+    "wof:lastmodified":1695884927,
     "wof:name":"Al Buhayrah",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

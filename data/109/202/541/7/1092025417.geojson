@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02828,
-    "geom:area_square_m":304466091.513337,
+    "geom:area_square_m":304466091.513312,
     "geom:bbox":"30.855659,29.368692,31.081624,29.556292",
     "geom:latitude":29.463076,
     "geom:longitude":30.976327,
@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"EG.FY.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897543,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"f4c493b6f5000fbf5a74f88342dc8f01",
+    "wof:geomhash":"be9c17025584030db451de327256097c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092025417,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886576,
     "wof:name":"Tamyah",
     "wof:parent_id":85671037,
     "wof:placetype":"county",

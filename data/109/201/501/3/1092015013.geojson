@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000642,
-    "geom:area_square_m":7102826.98206,
+    "geom:area_square_m":7102826.982057,
     "geom:bbox":"31.678201,26.527428,31.710249,26.560552",
     "geom:latitude":26.543732,
     "geom:longitude":31.691322,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897158,
-    "wof:geomhash":"08d9cbe05cf5eb3dc87d8e2d7cf161f3",
+    "wof:geomhash":"5ad07553e15ab545a94f12dd31852cc5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1092015013,
-    "wof:lastmodified":1627522103,
+    "wof:lastmodified":1695886575,
     "wof:name":"Awel Sohag",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

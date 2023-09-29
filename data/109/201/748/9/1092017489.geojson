@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000518,
-    "geom:area_square_m":5548867.474383,
+    "geom:area_square_m":5548867.474381,
     "geom:bbox":"31.193472,30.028149,31.227771,30.055955",
     "geom:latitude":30.040674,
     "geom:longitude":31.208173,
@@ -82,12 +82,13 @@
     "wof:concordances":{
         "hasc:id":"EG.JZ.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897245,
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"ebceddf43f804f46328798cc0d3b44c0",
+    "wof:geomhash":"40d91cd1dc9edc981cf778222402dda2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092017489,
-    "wof:lastmodified":1627522091,
+    "wof:lastmodified":1695886560,
     "wof:name":"El-Dokky",
     "wof:parent_id":85671047,
     "wof:placetype":"county",

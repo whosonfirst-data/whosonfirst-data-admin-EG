@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018189,
-    "geom:area_square_m":193315103.110928,
+    "geom:area_square_m":193315103.11089,
     "geom:bbox":"31.601383,30.644368,31.792277,30.836936",
     "geom:latitude":30.736363,
     "geom:longitude":31.701558,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897123,
-    "wof:geomhash":"0babfdc1d351b7e6ff1400ddd0930d86",
+    "wof:geomhash":"8848550a055f206c7727983a515e81f4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092014175,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886550,
     "wof:name":"Abu Kebeer",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

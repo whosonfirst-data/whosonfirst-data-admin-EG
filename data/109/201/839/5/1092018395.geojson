@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031251,
-    "geom:area_square_m":331074119.650551,
+    "geom:area_square_m":331074119.65054,
     "geom:bbox":"31.307828,30.934151,31.609313,31.183867",
     "geom:latitude":31.043659,
     "geom:longitude":31.475518,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897283,
-    "wof:geomhash":"2cdc8dbe8a4d0b7a6fc5863b5021e611",
+    "wof:geomhash":"c5f75d18aa08db95cd7b04b72c2ec535",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092018395,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886571,
     "wof:name":"El-Mansourah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

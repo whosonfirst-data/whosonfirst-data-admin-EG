@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":3753010.32994,
+    "geom:area_square_m":3753010.329938,
     "geom:bbox":"31.229409,30.020987,31.253237,30.041425",
     "geom:latitude":30.031076,
     "geom:longitude":31.241919,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.QH.EZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897334,
-    "wof:geomhash":"34ab1445fc10bf5343c2ba395f77f195",
+    "wof:geomhash":"63c749bef290ce436830cbc07245397f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019693,
-    "wof:lastmodified":1627522096,
+    "wof:lastmodified":1695886567,
     "wof:name":"El-Sayedah Zeinab",
     "wof:parent_id":85670999,
     "wof:placetype":"county",

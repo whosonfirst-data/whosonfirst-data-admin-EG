@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897329,
-    "wof:geomhash":"352dac42ced77078e49da8ce1180cfc7",
+    "wof:geomhash":"c541fbd4d405e8c91d5b3eff1f74476c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092019577,
-    "wof:lastmodified":1627522089,
+    "wof:lastmodified":1695886556,
     "wof:name":"El-Salheyah El-Gedidah",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

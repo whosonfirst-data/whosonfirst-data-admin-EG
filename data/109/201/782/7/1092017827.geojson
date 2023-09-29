@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024113,
-    "geom:area_square_m":257824552.503721,
+    "geom:area_square_m":257824552.503744,
     "geom:bbox":"32.392781,29.932468,32.607711,30.285552",
     "geom:latitude":30.149408,
     "geom:longitude":32.526451,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SW.GN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897257,
-    "wof:geomhash":"39d995ce0cd5cc07a527bb493cf0812c",
+    "wof:geomhash":"d4ba4e5321840390f1e79b400aa2dcaa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092017827,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886552,
     "wof:name":"El-Ganayen",
     "wof:parent_id":85671013,
     "wof:placetype":"county",

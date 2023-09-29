@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025112,
-    "geom:area_square_m":267459778.922535,
+    "geom:area_square_m":267459778.922544,
     "geom:bbox":"31.577623,30.440271,31.824311,30.659986",
     "geom:latitude":30.533564,
     "geom:longitude":31.689563,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SQ.AH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897120,
-    "wof:geomhash":"589b7599c8ff0f82710f98e69e09dff9",
+    "wof:geomhash":"c92ed49794bae7ff3c06e4be2eecd6f6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1092014103,
-    "wof:lastmodified":1627522086,
+    "wof:lastmodified":1695886550,
     "wof:name":"Abu Hammad",
     "wof:parent_id":85671007,
     "wof:placetype":"county",

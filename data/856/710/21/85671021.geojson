@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117488,
-    "geom:area_square_m":1243879077.286828,
+    "geom:area_square_m":1243880136.681236,
     "geom:bbox":"32.044398,30.911736,32.592786,31.369647",
     "geom:latitude":31.106682,
     "geom:longitude":32.30583,
@@ -353,16 +353,18 @@
         "gn:id":358617,
         "gp:id":2345241,
         "hasc:id":"EG.BS",
+        "iso:code":"EG-PTS",
         "iso:id":"EG-PTS",
         "qs_pg:id":1087040,
         "unlc:id":"EG-PTS",
         "wd:id":"Q31079"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"EG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b0710b9d465db084990386c0b171e86",
+    "wof:geomhash":"bc39a0755745dd6b8a2de112c38e31d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -377,7 +379,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690876037,
+    "wof:lastmodified":1695884927,
     "wof:name":"Bur Sa`id",
     "wof:parent_id":85632581,
     "wof:placetype":"region",

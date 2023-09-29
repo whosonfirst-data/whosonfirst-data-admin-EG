@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008317,
-    "geom:area_square_m":91983270.854329,
+    "geom:area_square_m":91983270.854324,
     "geom:bbox":"31.698088,26.420956,31.82797,26.663505",
     "geom:latitude":26.570908,
     "geom:longitude":31.752702,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"EG.SJ.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897136,
-    "wof:geomhash":"7756e937afbceb68dbc54cb32e6dc8c5",
+    "wof:geomhash":"52b27b0b74cd26f6620063f6388232f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092014557,
-    "wof:lastmodified":1627522087,
+    "wof:lastmodified":1695886551,
     "wof:name":"Akhmeem",
     "wof:parent_id":85671079,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002077,
-    "geom:area_square_m":22004414.677527,
+    "geom:area_square_m":22004414.677528,
     "geom:bbox":"31.362386,31.005254,31.441654,31.059465",
     "geom:latitude":31.037224,
     "geom:longitude":31.394983,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"EG.DQ.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897552,
-    "wof:geomhash":"b9a0162dd6b3e97c7b0a57dc8e0f1ebb",
+    "wof:geomhash":"fa2f53ba2570f8be9b19f19e25dca72c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092025681,
-    "wof:lastmodified":1627522099,
+    "wof:lastmodified":1695886572,
     "wof:name":"Tany El-Mansourah",
     "wof:parent_id":85671017,
     "wof:placetype":"county",

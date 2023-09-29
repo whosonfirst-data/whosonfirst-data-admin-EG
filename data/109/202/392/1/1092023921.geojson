@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018456,
-    "geom:area_square_m":194897681.628766,
+    "geom:area_square_m":194897681.628725,
     "geom:bbox":"30.326474,31.249917,30.522488,31.502089",
     "geom:latitude":31.349464,
     "geom:longitude":30.424053,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"EG.BH.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"EG",
     "wof:created":1473897491,
-    "wof:geomhash":"dd0ed61b477640f3418b593c5bb7b893",
+    "wof:geomhash":"3fbfa9d20487aac036e407c9d2743e4c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092023921,
-    "wof:lastmodified":1627522101,
+    "wof:lastmodified":1695886574,
     "wof:name":"Rasheed",
     "wof:parent_id":85671035,
     "wof:placetype":"county",
