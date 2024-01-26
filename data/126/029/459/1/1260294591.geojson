@@ -29,6 +29,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0645\u0628\u0627\u0644 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Birimb\u0101l al Jad\u012bdah",
+        "Birimb\u00e2l el-Ged\u00eeda",
+        "Birimb\u00e2l",
+        "Birimb\u0101l al-Jad\u012bdah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -39,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":419542
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            358778
+        ]
     },
     "wof:country":"EG",
     "wof:geomhash":"ca7b2c3c18b891346102444697cb0796",
@@ -52,13 +66,15 @@
         }
     ],
     "wof:id":1260294591,
-    "wof:lastmodified":1566586314,
+    "wof:lastmodified":1706239506,
     "wof:name":"Birimbal al Jadidah",
     "wof:parent_id":1092022451,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276446441
+    ],
     "wof:tags":[]
 },
   "bbox": [

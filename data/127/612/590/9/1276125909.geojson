@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":362396
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            433264
+        ]
+    },
     "wof:country":"EG",
     "wof:geomhash":"427ee083eb2a519ff55592cdcb62b385",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1276125909,
-    "wof:lastmodified":1566586083,
+    "wof:lastmodified":1706239506,
     "wof:name":"Abu Manjuj",
     "wof:parent_id":1092024849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276665119
+    ],
     "wof:tags":[]
 },
   "bbox": [

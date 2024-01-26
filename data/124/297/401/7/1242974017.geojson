@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":355086
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            349327
+        ]
+    },
     "wof:country":"EG",
     "wof:geomhash":"61f643675b1004e9ceb6f5618cfe5864",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1242974017,
-    "wof:lastmodified":1566586689,
+    "wof:lastmodified":1706239506,
     "wof:name":"Jazirat Sharunah",
     "wof:parent_id":1092021965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326724097
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":353401
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8715782
+        ]
+    },
     "wof:country":"EG",
     "wof:geomhash":"5d6ee82acca24f9b92d4e61a973bf796",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226454001,
-    "wof:lastmodified":1566586816,
+    "wof:lastmodified":1706239505,
     "wof:name":"`Izbat Hulayyil",
     "wof:parent_id":1092015921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326841881
+    ],
     "wof:tags":[]
 },
   "bbox": [
