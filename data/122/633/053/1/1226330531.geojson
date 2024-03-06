@@ -11,6 +11,7 @@
     "geom:longitude":31.33055,
     "gn:admin1_code":"11",
     "gn:asciiname":"Kafr Hamzah",
+    "gn:cc2":"EG",
     "gn:country_code":"EG",
     "gn:dem":21,
     "gn:feature_class":"P",
@@ -29,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062d\u0645\u0632\u0629"
+    ],
     "name:und_x_variant":[
         "Kafr \u1e24amza",
         "Kafr \u1e24amra",
@@ -45,6 +49,11 @@
     "wof:concordances":{
         "gn:id":354273
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            354272
+        ]
+    },
     "wof:country":"EG",
     "wof:geomhash":"2dec066e0f73a1b18a3e73873ecd01ab",
     "wof:hierarchy":[
@@ -57,13 +66,15 @@
         }
     ],
     "wof:id":1226330531,
-    "wof:lastmodified":1566586828,
+    "wof:lastmodified":1706239505,
     "wof:name":"Kafr Hamzah",
     "wof:parent_id":1092018143,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276546377
+    ],
     "wof:tags":[]
 },
   "bbox": [

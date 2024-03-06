@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":361241
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            419012
+        ]
+    },
     "wof:country":"EG",
-    "wof:geomhash":"0f4c0dc6cf0921ae97174af94e271ba8",
+    "wof:geomhash":"7da1c092ab960f6fb941e91dc1fcd3d0",
     "wof:hierarchy":[
         {
             "country_id":85632581,
@@ -56,20 +61,22 @@
         }
     ],
     "wof:id":1209379265,
-    "wof:lastmodified":1566586149,
+    "wof:lastmodified":1706239505,
     "wof:name":"Al Halafi al Kabir",
     "wof:parent_id":85632581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225809635
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    31.03784000000001,
+    31.03784,
     31.20535,
-    31.03784000000001,
+    31.03784,
     31.20535
 ],
-  "geometry": {"coordinates":[31.03784000000001,31.20535],"type":"Point"}
+  "geometry": {"coordinates":[31.03784,31.20535],"type":"Point"}
 }

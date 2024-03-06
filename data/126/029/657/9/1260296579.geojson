@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":352405
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            433095
+        ]
+    },
     "wof:country":"EG",
     "wof:geomhash":"67dc1cc31d7ab594ff2f9d9f57b336b5",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1260296579,
-    "wof:lastmodified":1566586313,
+    "wof:lastmodified":1706239506,
     "wof:name":"Minshat Bisharah",
     "wof:parent_id":1092017317,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276130179
+    ],
     "wof:tags":[]
 },
   "bbox": [

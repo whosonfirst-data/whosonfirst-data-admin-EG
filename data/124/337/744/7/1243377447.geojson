@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":419712
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            419714
+        ]
+    },
     "wof:country":"EG",
     "wof:geomhash":"92bdf053c22d07c7c5609659683537dc",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1243377447,
-    "wof:lastmodified":1566586597,
+    "wof:lastmodified":1706239506,
     "wof:name":"`Izbat al Islah",
     "wof:parent_id":1092016227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-eg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259893993
+    ],
     "wof:tags":[]
 },
   "bbox": [

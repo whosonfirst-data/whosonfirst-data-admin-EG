@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"32.87722,24.97916,32.87722,24.97916",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:amh_x_preferred":[
         "\u12a4\u12f5\u1349"
@@ -189,14 +191,16 @@
         }
     ],
     "wof:id":1226831287,
-    "wof:lastmodified":1566586886,
+    "wof:lastmodified":1706239505,
     "wof:name":"Idfu",
     "wof:parent_id":1092016437,
     "wof:placetype":"locality",
     "wof:population":133000,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-eg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890433335
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
